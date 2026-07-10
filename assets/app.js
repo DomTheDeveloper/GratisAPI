@@ -143,38 +143,56 @@
   }
 
   // ---------- Hero "Surprise me" ----------
-  function surprise() {
+  // The card shell is built once; each roll only swaps the result content
+  // inside it (no full rebuild, so no flash or layout jump).
+  var sref = null;
+
+  function buildSurpriseShell() {
     var out = document.getElementById("surprise-out");
-    if (!out || !state.apis.length) return;
+    if (!out) return;
+    sref = {
+      emoji: el("span", { class: "surprise-emoji", text: "🎁" }),
+      api: el("div", { class: "surprise-api", text: "…" }),
+      url: el("code", { class: "surprise-url", text: "GET /api/…" }),
+      title: el("div", { class: "surprise-title", text: "Rolling the dice…" }),
+      json: el("pre", { class: "surprise-json" }),
+      again: el("button", { class: "btn primary", text: "🎲 Again" }),
+      open: el("button", { class: "btn ghost", text: "Open in explorer →" }),
+    };
+    sref.again.onclick = roll;
+    out.innerHTML = "";
+    out.appendChild(el("div", { class: "surprise-card" }, [
+      el("div", { class: "surprise-top" }, [sref.emoji, el("div", {}, [sref.api, sref.url])]),
+      sref.title, sref.json,
+      el("div", { class: "surprise-actions" }, [sref.again, sref.open]),
+    ]));
+  }
+
+  function roll() {
+    if (!sref || !state.apis.length) return;
     var api = state.apis[Math.floor(Math.random() * state.apis.length)];
-    out.innerHTML = '<span class="surprise-loading">rolling the dice…</span>';
     fetch(rel(api.url)).then(function (r) { return r.json(); }).then(function (d) {
       var recs = d.results || [];
       if (!recs.length) return;
       var rec = recs[Math.floor(Math.random() * recs.length)];
       var title = rec.name || rec.common_name || rec.title || rec.quote || rec.character || String(rec.id);
       var pretty = {};
-      Object.keys(rec).forEach(function (k) {
-        if (k === "url" || k === "body") return;
-        pretty[k] = rec[k];
-      });
-      out.innerHTML = "";
-      out.appendChild(el("div", { class: "surprise-card" }, [
-        el("div", { class: "surprise-top" }, [
-          el("span", { class: "surprise-emoji", text: api.emoji || "🎁" }),
-          el("div", {}, [
-            el("div", { class: "surprise-api", text: api.title }),
-            el("code", { class: "surprise-url", text: "GET " + pathOf(rec.url || api.url) }),
-          ]),
-        ]),
-        el("div", { class: "surprise-title", text: String(title).slice(0, 120) }),
-        el("pre", { class: "surprise-json", html: highlight(pretty) }),
-        el("div", { class: "surprise-actions" }, [
-          (function () { var b = el("button", { class: "btn primary", text: "🎲 Again" }); b.onclick = surprise; return b; })(),
-          (function () { var b = el("button", { class: "btn ghost", text: "Open in explorer →" }); b.onclick = function () { selectApi(api, true); }; return b; })(),
-        ]),
-      ]));
-    }).catch(function () { out.innerHTML = '<span class="surprise-loading">Hmm, try again.</span>'; });
+      Object.keys(rec).forEach(function (k) { if (k !== "url" && k !== "body") pretty[k] = rec[k]; });
+      // Update only the result nodes in place.
+      sref.emoji.textContent = api.emoji || "🎁";
+      sref.api.textContent = api.title;
+      sref.url.textContent = "GET " + pathOf(rec.url || api.url);
+      sref.title.textContent = String(title).slice(0, 120);
+      sref.json.innerHTML = highlight(pretty);
+      sref.open.onclick = function () { selectApi(api, true); };
+      // brief flash to signal the change without rebuilding anything
+      sref.json.classList.remove("flash"); void sref.json.offsetWidth; sref.json.classList.add("flash");
+    }).catch(function () { if (sref) sref.title.textContent = "Hmm, try again."; });
+  }
+
+  function surprise() {
+    if (!sref) buildSurpriseShell();
+    roll();
   }
 
   // ---------- Boot ----------

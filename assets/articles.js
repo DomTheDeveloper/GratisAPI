@@ -60,6 +60,7 @@
       Object.keys(rec).forEach(function (k) { if (k !== "url" && k !== "body") pretty[k] = rec[k]; });
       bar.querySelector(".tryit-url").textContent = "GET " + (rec.url ? rec.url.replace(/^https?:\/\/[^/]+/, "") : "/api/" + apiSlug);
       pre.innerHTML = highlight(pretty);
+      pre.classList.remove("flash"); void pre.offsetWidth; pre.classList.add("flash");
     }
 
     fetch("../api/" + apiSlug + "/index").then(function (r) { return r.json(); }).then(function (d) {
