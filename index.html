@@ -64,8 +64,7 @@
         <span class="pill">💸 <b>No cost</b></span>
       </div>
       <h1>The <span class="free">free</span> API<br />that stays free.</h1>
-      <p class="tag">100+ useful JSON APIs, served as plain static files from the edge.</p>
-      <p class="sub"><em>Gratis</em> means free — and GratisAPI is free in every sense: no API keys, no rate limits, no sign-up, no tracking, no cost. Not a free <em>tier</em> — actually free, forever.</p>
+      <p class="tag">100+ useful JSON APIs as plain static files — no keys, no limits, no cost. Not a free <em>tier</em>; actually free, forever.</p>
 
       <div class="try-hero">
         <button class="surprise-btn" id="surprise-btn">✨ Surprise me</button>
@@ -90,15 +89,12 @@
   <main>
     <section id="apis" class="wrap">
       <h2 class="section-title">Explore 100+ APIs</h2>
-      <p class="section-lead">Every card is a live endpoint. Search, click, and see the real JSON your app receives.</p>
+      <p class="section-lead">Search or pick one — every card opens the live explorer below.</p>
       <input id="api-search" class="api-search" type="search" placeholder="Search APIs — try “animals”, “colors”, “http”…" aria-label="Search APIs" />
       <div class="grid" id="api-grid"><p style="color:var(--text-dim)">Loading APIs…</p></div>
-    </section>
+      <div id="api-more" style="margin-top:18px"></div>
 
-    <section class="wrap">
-      <h2 class="section-title">Live explorer</h2>
-      <p class="section-lead">Pick an API and browse real records — this is the actual JSON your app receives.</p>
-      <div class="explorer">
+      <div class="explorer" style="margin-top:26px">
         <div class="explorer-bar">
           <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
           <span class="explorer-url" id="explorer-url">GET /api/…</span>
@@ -160,11 +156,9 @@ console.log(<span class="p">`"${q.quote}" — ${q.author}`</span>);</pre>
     <section class="wrap">
       <h2 class="section-title">Why GratisAPI?</h2>
       <div class="features">
-        <div class="feature"><h4><span class="ico">✓</span> Truly free</h4><p>No keys, no billing, no quotas. Gratis means free, and it always will be.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> Free as in freedom</h4><p>Licensed GPL-2.0-or-later. Read it, run it, change it, fork it, self-host it — the freedom can't be revoked.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> 100% static</h4><p>Every endpoint is a plain file on a global CDN. Nothing to break, nothing to rate-limit.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> Clean URLs</h4><p>Human-friendly, key-free paths like <code>/api/animals/lion</code>. No boilerplate, no query strings.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> CORS enabled</h4><p>Fetch it from any web app, anywhere, with zero configuration.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> Truly free</h4><p>No keys, no billing, no quotas. Gratis <em>and</em> libre (GPL-2.0) — fork it, self-host it, the freedom can't be revoked.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> 100% static</h4><p>Every endpoint is a plain file on a global CDN. Nothing to break, nothing to rate-limit, no tracking.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> Clean URLs + CORS</h4><p>Human-friendly paths like <code>/api/animals/lion</code>, fetchable from any web app with zero config.</p></div>
         <div class="feature"><h4><span class="ico">✓</span> OpenAPI + Swagger</h4><p>A full OpenAPI 3.1 spec and interactive docs describe every endpoint.</p></div>
       </div>
     </section>
@@ -173,7 +167,7 @@ console.log(<span class="p">`"${q.quote}" — ${q.author}`</span>);</pre>
   <footer>
     <div class="wrap">
       <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
-      <div><a href="articles/">Articles</a> · <a href="philosophy/">Philosophy</a> · <a href="docs/">Docs</a> · <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a></div>
+      <div><a href="about/">About</a> · <a href="history/">Story</a> · <a href="tech/">Tech</a> · <a href="cost/">Cost</a> · <a href="articles/">Articles</a> · <a href="philosophy/">Philosophy</a> · <a href="docs/">Docs</a> · <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a></div>
     </div>
   </footer>
 

@@ -94,31 +94,49 @@
   }
 
   // ---------- API cards + search ----------
-  function renderCards(apis) {
+  var FEATURED = 12;
+  state.showAll = false;
+
+  function cardFor(api) {
+    var card = el("a", { class: "card", href: api.url }, [
+      el("div", { class: "emoji" }, [api.emoji || "📦"]),
+      el("h3", null, [api.title]),
+      el("p", null, [api.description]),
+      el("span", { class: "count" }, [fmt(api.count) + " records"]),
+    ]);
+    card.onclick = function (e) { e.preventDefault(); selectApi(api); };
+    return card;
+  }
+
+  function renderCards() {
     var grid = document.getElementById("api-grid");
-    grid.innerHTML = "";
-    if (!apis.length) { grid.appendChild(el("p", { text: "No APIs match your search." })); return; }
-    apis.forEach(function (api) {
-      var card = el("a", { class: "card", href: api.url }, [
-        el("div", { class: "emoji" }, [api.emoji || "📦"]),
-        el("h3", null, [api.title]),
-        el("p", null, [api.description]),
-        el("span", { class: "count" }, [fmt(api.count) + " records"]),
-      ]);
-      card.onclick = function (e) { e.preventDefault(); selectApi(api); };
-      grid.appendChild(card);
+    var more = document.getElementById("api-more");
+    var box = document.getElementById("api-search");
+    var q = box ? box.value.trim().toLowerCase() : "";
+    var list = !q ? state.apis : state.apis.filter(function (a) {
+      return (a.title + " " + a.api + " " + a.description).toLowerCase().indexOf(q) >= 0;
     });
+    var shown = (q || state.showAll) ? list : list.slice(0, FEATURED);
+    grid.innerHTML = "";
+    if (!shown.length) { grid.appendChild(el("p", { text: "No APIs match your search." })); }
+    shown.forEach(function (api) { grid.appendChild(cardFor(api)); });
+    if (more) {
+      more.innerHTML = "";
+      if (!q && !state.showAll && list.length > FEATURED) {
+        var btn = el("button", { class: "btn ghost", text: "＋ Show all " + roundy(list.length) + " APIs" });
+        btn.onclick = function () { state.showAll = true; renderCards(); };
+        more.appendChild(btn);
+      } else if (!q && state.showAll) {
+        var less = el("button", { class: "btn ghost", text: "Show less" });
+        less.onclick = function () { state.showAll = false; renderCards(); document.getElementById("apis").scrollIntoView({ behavior: "smooth" }); };
+        more.appendChild(less);
+      }
+    }
   }
 
   function wireSearch() {
     var box = document.getElementById("api-search");
-    if (!box) return;
-    box.addEventListener("input", function () {
-      var q = box.value.trim().toLowerCase();
-      renderCards(!q ? state.apis : state.apis.filter(function (a) {
-        return (a.title + " " + a.api + " " + a.description).toLowerCase().indexOf(q) >= 0;
-      }));
-    });
+    if (box) box.addEventListener("input", renderCards);
   }
 
   // ---------- Hero "Surprise me" ----------
@@ -168,7 +186,7 @@
       var art = root.apis.filter(function (a) { return a.api === "articles"; })[0];
       sart.textContent = art ? roundy(art.count) : "100+";
     }
-    renderCards(state.apis);
+    renderCards();
     wireSearch();
     var btn = document.getElementById("surprise-btn");
     if (btn) btn.onclick = surprise;

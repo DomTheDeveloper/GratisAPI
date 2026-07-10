@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Our story — GratisAPI</title>
+  <meta name="description" content="How GratisAPI came to be: the vision of a 100% free API, why we started on GitHub Pages, why we moved to Cloudflare for unlimited static bandwidth, and where we're headed next." />
+  <link rel="canonical" href="https://gratisapi.com/history/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🆓</text></svg>" />
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <nav class="nav">
+    <div class="wrap">
+      <a class="brand" href="../"><span class="logo-mark">G</span>Gratis<span>API</span></a>
+      <span class="badge-free">100% Free</span>
+      <div class="links">
+        <a href="../#apis">APIs</a>
+        <a href="../articles/">Articles</a>
+        <a href="../philosophy/">Philosophy</a>
+        <a href="../about/">About</a>
+        <a href="../docs/">Docs</a>
+        <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="wrap page-hero">
+    <div class="eyebrow">Our Story</div>
+    <h1>How a truly free API<br />came to be.</h1>
+    <p class="lede">GratisAPI started with a stubborn idea: an API that is genuinely,
+    permanently free — not a free <em>tier</em> waiting to be taken away. Here's how it went.</p>
+  </header>
+
+  <main class="prose wrap">
+    <h2>The idea</h2>
+    <p>We kept running into the same wall. You want a simple list — the chemical elements,
+    country capitals, a random quote — and the "free" API you find wants an account, an API
+    key, a credit card on file "just in case," and a rate limit that trips the moment your
+    side-project gets noticed. The free tier is bait; the real product is your lock-in.</p>
+    <p>So we set out to build the opposite: reference data about the world, served as plain
+    files, with <strong>no keys, no limits, no tracking and no cost</strong> — and to make it
+    impossible for a future us to quietly take that away. That second part is why the whole
+    thing is open source under the GPL. If we ever changed our minds, you could simply fork it.</p>
+
+    <h2>Version one: GitHub Pages</h2>
+    <p>The fastest way to host a pile of static files for free is <strong>GitHub Pages</strong>.
+    We wrote a small generator that turns curated datasets into JSON, pushed it, pointed a
+    branch at Pages, and — that was it. A real API, live on the internet, for $0. It was the
+    perfect place to prove the concept.</p>
+    <div class="callout">
+      <h3>The catch we saw coming</h3>
+      <p>GitHub Pages is generous but not infinite: it publishes a <strong>soft bandwidth
+      limit of about 100&nbsp;GB per month</strong> and is intended for modest sites. That's
+      plenty for a hobby project — but an API that gets popular is, by definition, a lot of
+      bandwidth. We didn't want a success to become an outage (or an awkward email from
+      GitHub). A "free forever" API can't live somewhere with a bandwidth ceiling.</p>
+    </div>
+
+    <h2>Version two: Cloudflare</h2>
+    <p>The fix was <strong>Cloudflare Pages</strong>. It serves static assets from a global
+    edge network with <strong>unlimited bandwidth on the free plan</strong> — exactly the
+    shape of the problem we had. Same files, same generator, same clean URLs, but now the
+    site can be hammered as hard as anyone likes without a meter running. GitHub still holds
+    the source of truth; Cloudflare puts it in front of the world. As a bonus, a small
+    <code>_headers</code> file lets us serve every extension-less endpoint as real
+    <code>application/json</code> with permissive CORS.</p>
+
+    <h2>Where we are now</h2>
+    <ul>
+      <li>Grew from a dozen datasets to <strong>100+ APIs</strong> and <strong>3,000+ records</strong>.</li>
+      <li>Added <strong>100+ articles</strong>, an OpenAPI spec, Swagger docs, and this little museum of a story.</li>
+      <li>Clean, key-free URLs; light and dark mode; a custom domain at <code>gratisapi.com</code>.</li>
+      <li>Every byte still free to fetch, and every line still free to fork.</li>
+    </ul>
+
+    <h2>What's next</h2>
+    <p>The static API answers one question perfectly: "give me this data." The next chapter is
+    a <strong>dynamic API</strong> — filtering, search, and random endpoints — which needs a
+    little compute at the edge. That introduces the one thing a pile of files never had: a
+    per-request cost. We're planning it carefully and funding it out of pocket (and with
+    <a href="../cost/">donations</a>). The <a href="../tech/">technical page</a> explains the
+    two APIs and their trade-offs, and the <a href="../cost/">cost page</a> shows the (small)
+    numbers.</p>
+
+    <p style="margin-top:30px"><a class="btn primary" href="../tech/">The technicals →</a>
+    &nbsp; <a class="btn ghost" href="../cost/">What it costs →</a></p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
+      <div><a href="../">Home</a> · <a href="../tech/">Tech</a> · <a href="../cost/">Cost</a> · <a href="../philosophy/">Philosophy</a> · <a href="../about/">About</a></div>
+    </div>
+  </footer>
+  <script src="../assets/theme.js"></script>
+</body>
+</html>

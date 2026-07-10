@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>What it costs — GratisAPI</title>
+  <meta name="description" content="An honest, itemised look at what it costs to run a 100% free API: $0 static hosting on Cloudflare, an inexpensive domain, the future cost of a dynamic API, and how it's funded — out of pocket and by donations." />
+  <link rel="canonical" href="https://gratisapi.com/cost/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🆓</text></svg>" />
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <nav class="nav">
+    <div class="wrap">
+      <a class="brand" href="../"><span class="logo-mark">G</span>Gratis<span>API</span></a>
+      <span class="badge-free">100% Free</span>
+      <div class="links">
+        <a href="../#apis">APIs</a>
+        <a href="../articles/">Articles</a>
+        <a href="../philosophy/">Philosophy</a>
+        <a href="../about/">About</a>
+        <a href="../docs/">Docs</a>
+        <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="wrap page-hero">
+    <div class="eyebrow">The Economics</div>
+    <h1>What it costs to run<br />a free API.</h1>
+    <p class="lede">"Free forever" only works if it's genuinely cheap to keep the lights on.
+    Here's every line of the bill, with nothing hidden.</p>
+  </header>
+
+  <main class="prose wrap">
+    <h2>The whole bill</h2>
+    <div class="table-scroll">
+    <table class="data-table">
+      <thead><tr><th>Item</th><th>What we use</th><th>Cost</th></tr></thead>
+      <tbody>
+        <tr><td>Static hosting &amp; bandwidth</td><td>Cloudflare Pages (free plan)</td><td>$0 — unlimited</td></tr>
+        <tr><td>Source &amp; CI/CD</td><td>GitHub + GitHub Actions (public repo)</td><td>$0</td></tr>
+        <tr><td>TLS, CDN, DDoS protection</td><td>Cloudflare (included)</td><td>$0</td></tr>
+        <tr><td>Domain name</td><td><code>gratisapi.com</code></td><td>≈ $10–12 / year</td></tr>
+        <tr><td>Dynamic API compute <em>(planned)</em></td><td>Cloudflare Workers</td><td>free to 100k req/day, then cents</td></tr>
+        <tr><td class="tot"><strong>To run the site today</strong></td><td class="tot">just the domain</td><td class="tot"><strong>≈ $1 / month</strong></td></tr>
+      </tbody>
+    </table>
+    </div>
+
+    <h2>Hosting is genuinely $0</h2>
+    <p>The static API is a pile of files on a CDN. Cloudflare Pages serves static assets with
+    <strong>unlimited bandwidth on the free plan</strong>, GitHub hosts the source and runs the
+    build for free, and TLS and the global edge are included. No matter how many people
+    <code>fetch</code> the data, the hosting bill stays exactly zero. That's the superpower of
+    static: popularity doesn't cost anything.</p>
+
+    <h2>The only real cost: the domain</h2>
+    <p>The one fixed expense is the domain, <code>gratisapi.com</code> — on the order of
+    <strong>ten dollars a year</strong>. It's paid out of pocket, and it's small enough that it
+    will simply keep being paid. That's the entire recurring cost of running GratisAPI as it
+    exists today: inexpensive to build, inexpensive to keep alive.</p>
+
+    <h2>The dynamic API changes the math</h2>
+    <p>A <a href="../tech/">dynamic API</a> (filtering, search, <code>random</code>) needs code
+    to run on each request, and that's the first time a request costs anything. On Cloudflare
+    Workers the <strong>first 100,000 requests a day are free</strong>, and beyond that it's a
+    fraction of a dollar per 100,000 — cheap, but no longer zero. The genuinely hard part isn't
+    the price; it's that <strong>without API keys it's difficult to stop a single heavy user
+    from spending the whole budget</strong>. Keys would fix it, but keys are exactly what we
+    promised never to require. Squaring that circle — generous limits, no accounts — is the
+    interesting problem we're working on.</p>
+
+    <div class="callout">
+      <h3>How it's funded</h3>
+      <p>Out of pocket, plus <strong>donations</strong>. The domain and any future compute are
+      covered by the maintainers; if GratisAPI is useful to you and you'd like to help keep it
+      free, the best ways are to <a href="https://github.com/DomTheDeveloper/GratisAPI">star and
+      contribute on GitHub</a> or sponsor the project (coming soon). No donation is ever
+      required to use anything here.</p>
+    </div>
+
+    <h2>Or make your cost $0 too — fork it</h2>
+    <p>Because everything is open source under the GPL, you never have to depend on our budget.
+    Clone the repo and deploy the static API to any free host for <strong>$0</strong>; if you
+    add a dynamic layer later, you pay only your own pennies. Self-hosting is a first-class
+    option, not a fallback — see the <a href="../about/">build guide</a>.</p>
+
+    <h2>The bottom line</h2>
+    <p>GratisAPI costs about a dollar a month to run and nothing to use. It's cheap by design,
+    open by license, and free by promise — and every one of those three is what keeps the other
+    two honest.</p>
+
+    <p style="margin-top:30px"><a class="btn primary" href="../#apis">Start using it — free</a>
+    &nbsp; <a class="btn ghost" href="../tech/">The technicals →</a></p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
+      <div><a href="../">Home</a> · <a href="../history/">Story</a> · <a href="../tech/">Tech</a> · <a href="../philosophy/">Philosophy</a> · <a href="../about/">About</a></div>
+    </div>
+  </footer>
+  <script src="../assets/theme.js"></script>
+</body>
+</html>

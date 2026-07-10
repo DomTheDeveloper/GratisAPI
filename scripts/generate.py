@@ -252,7 +252,9 @@ def build_openapi(modules, summaries):
 
 def build_sitemap(modules):
     urls = [f"{BASE_URL}/", f"{BASE_URL}/articles/", f"{BASE_URL}/philosophy/",
-            f"{BASE_URL}/docs/", f"{BASE_URL}/openapi.json", catalog_url()]
+            f"{BASE_URL}/about/", f"{BASE_URL}/history/", f"{BASE_URL}/tech/",
+            f"{BASE_URL}/cost/", f"{BASE_URL}/docs/", f"{BASE_URL}/openapi.json",
+            catalog_url()]
     for module in modules:
         name = module.META["name"]
         urls.append(list_url(name))

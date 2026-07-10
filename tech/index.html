@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The technicals — GratisAPI</title>
+  <meta name="description" content="The technical deep-dive: how a static API works, its real limitations, the move from GitHub Pages to Cloudflare, and the two APIs GratisAPI offers — the static API today and a dynamic API in planning." />
+  <link rel="canonical" href="https://gratisapi.com/tech/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🆓</text></svg>" />
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <nav class="nav">
+    <div class="wrap">
+      <a class="brand" href="../"><span class="logo-mark">G</span>Gratis<span>API</span></a>
+      <span class="badge-free">100% Free</span>
+      <div class="links">
+        <a href="../#apis">APIs</a>
+        <a href="../articles/">Articles</a>
+        <a href="../philosophy/">Philosophy</a>
+        <a href="../about/">About</a>
+        <a href="../docs/">Docs</a>
+        <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="wrap page-hero">
+    <div class="eyebrow">The Technicals</div>
+    <h1>How a static API works<br />— and where it stops.</h1>
+    <p class="lede">A static API is a beautiful trick, but it's an honest one: it trades away
+    some things a server can do in exchange for being free, fast and unkillable. Here's exactly
+    what it does, what it can't, and what we're building next.</p>
+  </header>
+
+  <main class="prose wrap">
+    <h2>What "static" actually means</h2>
+    <p>A normal API computes each response on demand: a request comes in, code runs, a database
+    is queried, JSON comes out. A <strong>static</strong> API flips the order — every possible
+    response is computed <em>ahead of time</em> and written to a file. At request time there is
+    no code and no database, just a CDN handing you a file it already has. Our generator turns
+    curated datasets into one file per collection and one per record, plus an
+    <code>.json</code> twin so browsers render them nicely:</p>
+    <pre class="codeblock">GET <span class="p">/api/animals/lion</span>     <span class="c"># a single record, precomputed</span>
+GET <span class="p">/api/animals/index</span>    <span class="c"># the whole collection, precomputed</span>
+GET <span class="p">/api/index</span>            <span class="c"># the catalog of every API</span></pre>
+    <p>Because the answer already exists, serving it is just a file read at the edge. That's why
+    it can't buckle under load, can't rate-limit you, and costs almost nothing to run.</p>
+
+    <h2>Hosting: GitHub Pages → Cloudflare</h2>
+    <p>We started on <strong>GitHub Pages</strong> — free and instant, but with a soft
+    <strong>~100&nbsp;GB/month bandwidth</strong> limit meant for modest sites. A "free forever"
+    API can't have a bandwidth ceiling, so we moved the front door to <strong>Cloudflare
+    Pages</strong>, which serves static assets with <strong>unlimited bandwidth</strong> from a
+    global edge. GitHub stays the source of truth; Cloudflare serves it. A tiny
+    <code>_headers</code> file makes every clean URL return real <code>application/json</code>
+    with open CORS. The <a href="../history/">story page</a> has the full journey.</p>
+
+    <h2>The limitations we know exist</h2>
+    <p>We'd rather tell you the trade-offs than pretend they aren't there. A static API cannot:</p>
+    <ul>
+      <li><strong>Filter, search or sort on the server.</strong> There's no server. You fetch a collection and filter it client-side. (Our datasets are small enough that this is instant.)</li>
+      <li><strong>Paginate or return partial responses.</strong> A collection is one file — you get all of it. Great for caching, less great for very large datasets.</li>
+      <li><strong>Accept writes.</strong> It's read-only: only HTTP <code>GET</code>. No POST, no PUT, no auth-gated mutation.</li>
+      <li><strong>Authenticate users or rate-limit them.</strong> With no server and no keys, there is nobody to identify and nothing to throttle. That's a feature <em>and</em> a constraint.</li>
+      <li><strong>Serve volatile/real-time data.</strong> Everything is precomputed, so it's reference data (taxonomy, elements, capitals) — never live prices or feeds.</li>
+      <li><strong>Do content negotiation.</strong> Every record ships as JSON; there's no per-request XML/CSV.</li>
+    </ul>
+    <p>For the data GratisAPI serves, these are the right trade-offs. But some of them are
+    exactly what a second, dynamic API would fix.</p>
+
+    <h2>The two APIs we offer</h2>
+    <div class="two-def">
+      <div class="def-card">
+        <div class="tag">available now</div>
+        <h3>① The Static API</h3>
+        <p>Read-only, whole-dataset JSON at clean URLs. Unlimited, key-free, unkillable, and
+        completely free. This is everything under <code>/api/</code> today.</p>
+      </div>
+      <div class="def-card">
+        <div class="tag">in planning</div>
+        <h3>② The Dynamic API</h3>
+        <p>Query, filter, search and <code>random</code> endpoints powered by a little edge
+        compute (Cloudflare Workers) — for when "give me all of it and I'll filter" isn't
+        enough.</p>
+      </div>
+    </div>
+    <p>The static API will always stay free and unlimited. The dynamic API is the interesting
+    engineering problem: the moment code runs per request, each request has a (tiny) cost, and
+    — without API keys — it's genuinely hard to stop one heavy user from spending the budget.
+    We think that's a solvable, worthwhile problem, and we'd rather solve it in the open. The
+    <a href="../cost/">cost page</a> lays out the numbers and how it'll be funded.</p>
+
+    <div class="callout">
+      <h3>Or skip all of it and self-host</h3>
+      <p>Every limitation above vanishes if you run your own copy. Clone the repo, add
+      datasets, deploy to any static host, and you have your own free API. The
+      <a href="../about/">about page</a> has the build steps.</p>
+    </div>
+
+    <p style="margin-top:30px"><a class="btn primary" href="../cost/">What it costs →</a>
+    &nbsp; <a class="btn ghost" href="../history/">Read the story →</a></p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
+      <div><a href="../">Home</a> · <a href="../history/">Story</a> · <a href="../cost/">Cost</a> · <a href="../philosophy/">Philosophy</a> · <a href="../about/">About</a></div>
+    </div>
+  </footer>
+  <script src="../assets/theme.js"></script>
+</body>
+</html>

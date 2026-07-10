@@ -250,6 +250,15 @@ footer .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; g
   padding: 20px 22px; margin: 28px 0; background: var(--bg-soft);
 }
 .callout h3 { margin: 0 0 8px; }
+.table-scroll { overflow-x: auto; margin: 22px 0; }
+.data-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; min-width: 460px; }
+.data-table th, .data-table td { text-align: left; padding: 11px 14px; border-bottom: 1px solid var(--border); }
+.data-table th { color: var(--text-dim); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.data-table td { color: var(--prose-text); }
+.data-table tr:last-child td { border-bottom: none; }
+.data-table td.tot { border-top: 2px solid var(--border); border-bottom: none; color: var(--text); background: var(--bg-soft); }
+.data-table code { font-size: 0.85em; }
+
 .two-def { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; }
 .def-card { border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; background: var(--bg-card); }
 .def-card .tag { font-family: var(--mono); color: var(--accent); font-size: 0.8rem; }

@@ -1,0 +1,11 @@
+# Cloudflare Pages headers. Serves every API path — clean and .json alike — as
+# JSON with permissive CORS and a friendly cache. (Ignored by GitHub Pages.)
+/api/*
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
+
+/openapi.json
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json; charset=utf-8
