@@ -1,8 +1,9 @@
-// GratisAPI homepage — loads the live API index and renders cards + explorer.
+// GratisAPI homepage — live API index, explorer, card search and the hero
+// "Surprise me" toy. Every fetch uses the clean, extension-less API URLs.
 (function () {
   "use strict";
 
-  var API_INDEX = "api/index.json";
+  var API_INDEX = "api/index";
 
   // Records carry absolute production URLs; fetch them relative to wherever the
   // site is actually hosted so the page works on forks and locally too.
@@ -10,12 +11,14 @@
     var i = url.indexOf("/api/");
     return i >= 0 ? url.slice(i + 1) : url;
   }
+  function pathOf(url) { return url.replace(/^https?:\/\/[^/]+/, ""); }
 
   function el(tag, attrs, children) {
     var node = document.createElement(tag);
     if (attrs) Object.keys(attrs).forEach(function (k) {
       if (k === "class") node.className = attrs[k];
       else if (k === "html") node.innerHTML = attrs[k];
+      else if (k === "text") node.textContent = attrs[k];
       else node.setAttribute(k, attrs[k]);
     });
     (children || []).forEach(function (c) {
@@ -40,17 +43,22 @@
   }
 
   function fmt(n) { return n.toLocaleString("en-US"); }
+  // Round DOWN to the leading digit and add "+": 116 -> "100+", 3890 -> "3,000+".
+  function roundy(n) {
+    if (n < 10) return String(n);
+    var mag = Math.pow(10, Math.floor(Math.log10(n)));
+    return fmt(Math.floor(n / mag) * mag) + "+";
+  }
 
   var state = { apis: [], current: null };
 
+  // ---------- Explorer ----------
   function loadRecord(api, url, label) {
     var codeEl = document.getElementById("explorer-code");
     var urlEl = document.getElementById("explorer-url");
-    var path = url.replace(/^https?:\/\/[^/]+/, "");
-    urlEl.textContent = "GET " + path;
+    urlEl.textContent = "GET " + pathOf(url);
     codeEl.innerHTML = "Loading…";
     fetch(rel(url)).then(function (r) { return r.json(); }).then(function (data) {
-      // For the index view, trim results so the sample stays readable.
       if (data.results && data.results.length > 6) {
         var clone = Object.assign({}, data);
         clone.results = data.results.slice(0, 3);
@@ -58,9 +66,7 @@
         data = clone;
       }
       codeEl.innerHTML = highlight(data);
-    }).catch(function () {
-      codeEl.textContent = "Could not load " + url;
-    });
+    }).catch(function () { codeEl.textContent = "Could not load " + url; });
     Array.prototype.forEach.call(
       document.querySelectorAll("#explorer-list button"),
       function (b) { b.classList.toggle("active", b.dataset.label === label); }
@@ -71,10 +77,9 @@
     state.current = api;
     var list = document.getElementById("explorer-list");
     list.innerHTML = "";
-    var idxBtn = el("button", { "data-label": "index" }, ["GET " + api.api + "/"]);
+    var idxBtn = el("button", { "data-label": "index" }, ["GET /api/" + api.api]);
     idxBtn.onclick = function () { loadRecord(api, api.url, "index"); };
     list.appendChild(idxBtn);
-    // Fetch the index to list a few individual record endpoints too.
     fetch(rel(api.url)).then(function (r) { return r.json(); }).then(function (data) {
       (data.results || []).slice(0, 25).forEach(function (rec) {
         var lbl = String(rec.id);
@@ -84,13 +89,16 @@
       });
     });
     loadRecord(api, api.url, "index");
-    document.querySelector(".explorer").scrollIntoView({ behavior: "smooth", block: "center" });
+    var exp = document.querySelector(".explorer");
+    if (exp) exp.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 
-  function renderCards(root) {
+  // ---------- API cards + search ----------
+  function renderCards(apis) {
     var grid = document.getElementById("api-grid");
     grid.innerHTML = "";
-    root.apis.forEach(function (api) {
+    if (!apis.length) { grid.appendChild(el("p", { text: "No APIs match your search." })); return; }
+    apis.forEach(function (api) {
       var card = el("a", { class: "card", href: api.url }, [
         el("div", { class: "emoji" }, [api.emoji || "📦"]),
         el("h3", null, [api.title]),
@@ -102,14 +110,72 @@
     });
   }
 
+  function wireSearch() {
+    var box = document.getElementById("api-search");
+    if (!box) return;
+    box.addEventListener("input", function () {
+      var q = box.value.trim().toLowerCase();
+      renderCards(!q ? state.apis : state.apis.filter(function (a) {
+        return (a.title + " " + a.api + " " + a.description).toLowerCase().indexOf(q) >= 0;
+      }));
+    });
+  }
+
+  // ---------- Hero "Surprise me" ----------
+  function surprise() {
+    var out = document.getElementById("surprise-out");
+    if (!out || !state.apis.length) return;
+    var api = state.apis[Math.floor(Math.random() * state.apis.length)];
+    out.innerHTML = '<span class="surprise-loading">rolling the dice…</span>';
+    fetch(rel(api.url)).then(function (r) { return r.json(); }).then(function (d) {
+      var recs = d.results || [];
+      if (!recs.length) return;
+      var rec = recs[Math.floor(Math.random() * recs.length)];
+      var title = rec.name || rec.common_name || rec.title || rec.quote || rec.character || String(rec.id);
+      var pretty = {};
+      Object.keys(rec).forEach(function (k) {
+        if (k === "url" || k === "body") return;
+        pretty[k] = rec[k];
+      });
+      out.innerHTML = "";
+      out.appendChild(el("div", { class: "surprise-card" }, [
+        el("div", { class: "surprise-top" }, [
+          el("span", { class: "surprise-emoji", text: api.emoji || "🎁" }),
+          el("div", {}, [
+            el("div", { class: "surprise-api", text: api.title }),
+            el("code", { class: "surprise-url", text: "GET " + pathOf(rec.url || api.url) }),
+          ]),
+        ]),
+        el("div", { class: "surprise-title", text: String(title).slice(0, 120) }),
+        el("pre", { class: "surprise-json", html: highlight(pretty) }),
+        el("div", { class: "surprise-actions" }, [
+          (function () { var b = el("button", { class: "btn primary", text: "🎲 Again" }); b.onclick = surprise; return b; })(),
+          (function () { var b = el("button", { class: "btn ghost", text: "Open in explorer →" }); b.onclick = function () { selectApi(api); }; return b; })(),
+        ]),
+      ]));
+    }).catch(function () { out.innerHTML = '<span class="surprise-loading">Hmm, try again.</span>'; });
+  }
+
+  // ---------- Boot ----------
   fetch(API_INDEX).then(function (r) { return r.json(); }).then(function (root) {
     state.apis = root.apis;
-    document.getElementById("stat-apis").textContent = fmt(root.api_count);
-    document.getElementById("stat-records").textContent = fmt(root.total_records);
-    renderCards(root);
-    if (root.apis.length) selectApi(root.apis[0]);
+    var sa = document.getElementById("stat-apis");
+    var sr = document.getElementById("stat-records");
+    var sart = document.getElementById("stat-articles");
+    if (sa) sa.textContent = roundy(root.api_count);
+    if (sr) sr.textContent = roundy(root.total_records);
+    if (sart) {
+      var art = root.apis.filter(function (a) { return a.api === "articles"; })[0];
+      sart.textContent = art ? roundy(art.count) : "100+";
+    }
+    renderCards(state.apis);
+    wireSearch();
+    var btn = document.getElementById("surprise-btn");
+    if (btn) btn.onclick = surprise;
+    surprise();
+    if (state.apis.length) selectApi(state.apis[0]);
   }).catch(function () {
-    document.getElementById("api-grid").innerHTML =
-      '<p style="color:var(--text-dim)">Could not load the API index. If you are viewing this locally, serve the folder over HTTP.</p>';
+    var g = document.getElementById("api-grid");
+    if (g) g.innerHTML = '<p style="color:var(--text-dim)">Could not load the API index. If you are viewing this locally, serve the folder over HTTP.</p>';
   });
 })();

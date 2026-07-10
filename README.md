@@ -4,38 +4,41 @@
 
 _Gratis_ means free — and GratisAPI is free in every sense. No API keys, no rate
 limits, no sign-up, no tracking, no cost. Ever. Every endpoint is a plain JSON
-file served straight from GitHub Pages' global CDN.
+file served at a clean URL straight from a global CDN.
 
-**116 APIs · 3,890 records · 120 articles · 0 dollars.**
+**100+ APIs · 3,000+ records · 100+ articles · $0 forever.**
 
-🌐 **Live:** https://domthedeveloper.github.io/GratisAPI/
-📖 **Docs (Swagger UI):** https://domthedeveloper.github.io/GratisAPI/docs/
-📝 **Articles:** https://domthedeveloper.github.io/GratisAPI/articles/
-🆓 **Philosophy:** https://domthedeveloper.github.io/GratisAPI/philosophy/
-📄 **OpenAPI spec:** https://domthedeveloper.github.io/GratisAPI/openapi.json
+🌐 **Live:** https://gratisapi.com/
+📖 **Docs (Swagger UI):** https://gratisapi.com/docs/
+📝 **Articles:** https://gratisapi.com/articles/
+🆓 **Philosophy:** https://gratisapi.com/philosophy/
+🛠️ **How it works (tech spec):** https://gratisapi.com/about/
+📄 **OpenAPI spec:** https://gratisapi.com/openapi.json
+
+Clean, key-free URLs · light & dark mode · served from `gratisapi.com` via a custom-domain `CNAME`.
 
 ---
 
 ## How it works
 
-There is no server. Every "endpoint" is a static `.json` file. You `GET` it with
-`curl`, `fetch`, or anything that speaks HTTP:
+There is no server. Every endpoint is a static file served at a clean,
+extension-less URL. You `GET` it with `curl`, `fetch`, or anything that speaks HTTP:
 
 ```bash
 # List every available API
-curl https://domthedeveloper.github.io/GratisAPI/api/index.json
+curl https://gratisapi.com/api/index
 
 # Get one record
-curl https://domthedeveloper.github.io/GratisAPI/api/animals/lion.json
+curl https://gratisapi.com/api/animals/lion
 
 # Get a whole dataset
-curl https://domthedeveloper.github.io/GratisAPI/api/elements/index.json
+curl https://gratisapi.com/api/elements/index
 ```
 
 ```js
 // Random quote in the browser (CORS is enabled)
 const { results } = await fetch(
-  "https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json"
+  "https://gratisapi.com/api/quotes/index"
 ).then((r) => r.json());
 const q = results[Math.floor(Math.random() * results.length)];
 console.log(`"${q.quote}" — ${q.author}`);
@@ -45,9 +48,9 @@ console.log(`"${q.quote}" — ${q.author}`);
 
 | Endpoint | Returns |
 | --- | --- |
-| `/api/index.json` | Directory of every dataset |
-| `/api/<name>/index.json` | Metadata + **all** records for one dataset |
-| `/api/<name>/<id>.json` | A single record |
+| `/api/index` | Directory of every dataset |
+| `/api/<name>/index` | Metadata + **all** records for one dataset |
+| `/api/<name>/<id>` | A single record |
 
 Each dataset index looks like:
 
@@ -56,7 +59,7 @@ Each dataset index looks like:
   "api": "animals",
   "title": "Animals",
   "count": 20,
-  "endpoints": { "list": ".../index.json", "item": ".../{id}.json" },
+  "endpoints": { "list": ".../index", "item": ".../{id}" },
   "fields": ["class", "common_name", "..."],
   "results": [ { "id": "lion", "...": "..." } ]
 }
@@ -64,9 +67,9 @@ Each dataset index looks like:
 
 ## Available APIs
 
-There are **116 APIs** in total — from `amino-acids` to `volcanoes`. The live,
+There are **100+ APIs** in total — from `amino-acids` to `volcanoes`. The live,
 always-current directory of every one is at
-[`/api/index.json`](https://domthedeveloper.github.io/GratisAPI/api/index.json).
+[`/api/index`](https://gratisapi.com/api/index).
 A selection is listed below.
 
 | API | Records | What's in it |
@@ -134,13 +137,13 @@ A selection is listed below.
 
 ## Articles & Philosophy
 
-GratisAPI is more than data. The [**Articles**](https://domthedeveloper.github.io/GratisAPI/articles/)
-section has **120 articles** across five categories — Tutorials, Philosophy,
+GratisAPI is more than data. The [**Articles**](https://gratisapi.com/articles/)
+section has **100+ articles** across five categories — Tutorials, Philosophy,
 Science, Culture and Reference — covering how to use the APIs from any language,
 deep-dives into the datasets, and essays on free data. Even the articles are an
-API: they're served from [`/api/articles/`](https://domthedeveloper.github.io/GratisAPI/api/articles/index.json).
+API: they're served from [`/api/articles/index`](https://gratisapi.com/api/articles/index).
 
-The [**Philosophy**](https://domthedeveloper.github.io/GratisAPI/philosophy/) page
+The [**Philosophy**](https://gratisapi.com/philosophy/) page
 explains the two meanings of "free" — _gratis_ (free of charge) and _libre_ (free
 as in freedom) — the free software movement, Richard Stallman and the FSF, and why
 GratisAPI is deliberately both.

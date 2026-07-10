@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How it works — GratisAPI</title>
+  <meta name="description" content="The technical spec behind GratisAPI: a 100% static, open-source, free API built on GitHub Pages. Architecture, clean URLs, CORS, caching, the build pipeline, and how to fork or self-host it." />
+  <link rel="canonical" href="https://gratisapi.com/about/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🆓</text></svg>" />
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <nav class="nav">
+    <div class="wrap">
+      <a class="brand" href="../"><span class="logo-mark">G</span>Gratis<span>API</span></a>
+      <span class="badge-free">100% Free</span>
+      <div class="links">
+        <a href="../#apis">APIs</a>
+        <a href="../articles/">Articles</a>
+        <a href="../philosophy/">Philosophy</a>
+        <a href="../about/">About</a>
+        <a href="../docs/">Docs</a>
+        <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="wrap page-hero">
+    <div class="eyebrow">Technical Spec</div>
+    <h1>How GratisAPI works<br />— and why it's built this way.</h1>
+    <p class="lede">GratisAPI is a 100% static, open-source, free API. No server, no database,
+    no framework at runtime — just a folder of files on a global CDN. Here's the whole design,
+    top to bottom.</p>
+  </header>
+
+  <main class="prose wrap">
+    <h2>The one-sentence version</h2>
+    <p>Every "endpoint" is a pre-generated file on <strong>GitHub Pages</strong>, served over
+    HTTPS from a global CDN with permissive CORS — so any client can <code>GET</code> it
+    directly, forever, for free.</p>
+
+    <div class="callout">
+      <h3>The stack</h3>
+      <ul>
+        <li><strong>Data</strong> — plain Python modules, one per dataset, each a list of records.</li>
+        <li><strong>Build</strong> — a small Python generator turns those into JSON files, an OpenAPI spec and a sitemap.</li>
+        <li><strong>Host</strong> — GitHub Pages serves the files from a CDN; a custom domain (<code>gratisapi.com</code>) sits in front via a <code>CNAME</code>.</li>
+        <li><strong>CI/CD</strong> — GitHub Actions regenerates and deploys on every push.</li>
+        <li><strong>Front end</strong> — a few hand-written HTML/CSS/JS pages, no build step, no dependencies.</li>
+      </ul>
+    </div>
+
+    <h2>Why static?</h2>
+    <p>A traditional API needs a server that is always running, always patched, always paid
+    for — and that server is a single point of failure, a rate-limiter, a tracker, and a bill.
+    A <em>static</em> API has none of that. Because every possible response is computed ahead
+    of time and written to disk, there is nothing to run at request time. That yields some
+    remarkable properties:</p>
+    <ul>
+      <li><strong>It can't go down under load.</strong> Serving a file is what CDNs do best; there is no application to crash.</li>
+      <li><strong>It can't rate-limit you.</strong> There is no server keeping count.</li>
+      <li><strong>It can't track you.</strong> A static file can't run code, set cookies, or log who you are.</li>
+      <li><strong>It costs almost nothing to host</strong> — which is why it can be free forever rather than free-for-now.</li>
+    </ul>
+
+    <h2>Clean, extension-less URLs</h2>
+    <p>The API is addressed with human-friendly paths and no query strings:</p>
+    <pre class="codeblock"><span class="c"># the catalog of every API</span>
+GET <span class="p">/api/index</span>
+
+<span class="c"># one collection</span>
+GET <span class="p">/api/animals/index</span>
+
+<span class="c"># one record</span>
+GET <span class="p">/api/animals/lion</span>
+GET <span class="p">/api/elements/79</span>
+GET <span class="p">/api/quotes/42</span></pre>
+    <p>GitHub Pages can't serve a directory as JSON, so the generator writes each response
+    <em>twice</em>: once as an extension-less file (the advertised URL, e.g.
+    <code>/api/animals/lion</code>) and once with a <code>.json</code> extension (handy for
+    browsers, which then display it as JSON). The two files are byte-identical, and Git stores
+    identical content only once, so the mirror is effectively free. <code>fetch(...).json()</code>
+    and <code>curl</code> work against the clean URLs regardless of content type.</p>
+
+    <h2>The response shape</h2>
+    <p>Every collection returns metadata plus the full result set — there is no pagination
+    to page through, because the whole dataset is already one cache-friendly file:</p>
+    <pre class="codeblock">{
+  <span class="k">"api"</span>: <span class="s">"animals"</span>,
+  <span class="k">"count"</span>: <span class="n">71</span>,
+  <span class="k">"endpoints"</span>: { <span class="k">"list"</span>: <span class="s">".../api/animals/index"</span>, <span class="k">"item"</span>: <span class="s">".../api/animals/{id}"</span> },
+  <span class="k">"fields"</span>: [<span class="s">"class"</span>, <span class="s">"common_name"</span>, <span class="s">"..."</span>],
+  <span class="k">"results"</span>: [ { <span class="k">"id"</span>: <span class="s">"lion"</span>, <span class="k">"url"</span>: <span class="s">".../api/animals/lion"</span>, <span class="s">"..."</span>: <span class="s">"..."</span> } ]
+}</pre>
+
+    <h2>The build pipeline</h2>
+    <p>Data lives as Python, not JSON, so it's easy to review, comment and compute. Each
+    dataset is a module exposing a <code>META</code> dict and an <code>ITEMS</code> list:</p>
+    <pre class="codeblock"><span class="c"># scripts/data/planets.py</span>
+META = {<span class="k">"name"</span>: <span class="s">"planets"</span>, <span class="k">"title"</span>: <span class="s">"Planets"</span>, <span class="k">"emoji"</span>: <span class="s">"🪐"</span>, <span class="k">"description"</span>: <span class="s">"..."</span>}
+ITEMS = [{<span class="k">"id"</span>: <span class="s">"earth"</span>, <span class="k">"order_from_sun"</span>: <span class="n">3</span>}, <span class="s">"..."</span>]</pre>
+    <p>Running <code>python3 -m scripts.generate</code> discovers every module, validates that
+    ids are unique, normalises each slug to lowercase-hyphen, and writes the whole
+    <code>/api</code> tree plus <code>openapi.json</code> and <code>sitemap.xml</code>. Adding
+    a dataset is one file; nothing else changes. Even this site's articles are generated the
+    same way and served at <a href="../api/articles/index"><code>/api/articles/index</code></a>.</p>
+
+    <h2>How GitHub Pages fits in</h2>
+    <p><a href="https://pages.github.com/">GitHub Pages</a> is free static hosting for any
+    repository, served over HTTPS from a CDN with sensible caching and permissive CORS. We
+    deploy the generated files to the <code>gh-pages</code> branch; a <code>CNAME</code> file
+    points the custom domain <code>gratisapi.com</code> at it. Two GitHub Actions workflows
+    keep everything honest:</p>
+    <ul>
+      <li><strong>CI</strong> re-runs the generator on every push and fails if the committed output is stale or any JSON is invalid — so the repo can never drift from its data.</li>
+      <li><strong>Deploy</strong> rebuilds and publishes the site to Pages automatically.</li>
+    </ul>
+
+    <h2>Open source &amp; free</h2>
+    <p>GratisAPI is licensed <strong>GPL-2.0-or-later</strong>. That makes it free in both
+    senses: free of charge (<em>gratis</em>) and free as in freedom (<em>libre</em>). You may
+    run it, study it, modify it and redistribute it, and copyleft guarantees those freedoms
+    survive in anyone's fork. The reasoning — and the story of Richard Stallman, the FSF and
+    the four freedoms — is on the <a href="../philosophy/">philosophy page</a>.</p>
+
+    <h2>Fork it or self-host it</h2>
+    <p>Because it's just files and a build script, standing up your own copy takes a couple of
+    minutes:</p>
+    <pre class="codeblock"><span class="c"># clone, build, serve</span>
+git clone https://github.com/DomTheDeveloper/GratisAPI
+cd GratisAPI
+python3 -m scripts.generate
+python3 -m http.server   <span class="c"># now browse http://localhost:8000</span></pre>
+    <p>Point a fork's Pages at your own domain, add datasets under <code>scripts/data/</code>,
+    keep the GPL, and you have your own permanent, free API.</p>
+
+    <h2>FAQ</h2>
+    <h3>Is there really no rate limit?</h3>
+    <p>Correct. There is no server counting requests. Be kind to GitHub's CDN, cache responses
+    where you can, and you're set.</p>
+    <h3>Can I use it in production / commercially?</h3>
+    <p>Yes. It's public data under the GPL. For mission-critical use, the safest move is the
+    one the license enables anyway: mirror the data yourself so you never depend on us.</p>
+    <h3>How fresh is the data?</h3>
+    <p>Datasets are curated reference data (taxonomy, the periodic table, country capitals,
+    and so on) — the kind of information that rarely changes. Nothing here is a live feed of
+    prices or other volatile values.</p>
+    <h3>How do I add or fix data?</h3>
+    <p>Open a pull request on GitHub. Datasets are small Python files; corrections and new
+    datasets are very welcome.</p>
+
+    <h2>Everything, in one place</h2>
+    <ul>
+      <li><a href="../#apis">Browse all 100+ APIs</a></li>
+      <li><a href="../docs/">Interactive API reference (Swagger UI)</a></li>
+      <li><a href="../openapi.json">OpenAPI 3.1 specification</a></li>
+      <li><a href="../api/index">The live API catalog</a> · <a href="../sitemap.xml">sitemap.xml</a></li>
+      <li><a href="../articles/">100+ articles &amp; guides</a></li>
+      <li><a href="../philosophy/">Philosophy: gratis vs libre</a></li>
+      <li><a href="https://github.com/DomTheDeveloper/GratisAPI">Source code on GitHub</a></li>
+      <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later license</a></li>
+    </ul>
+
+    <p style="margin-top:32px"><a class="btn primary" href="../#apis">Start building — it's free</a>
+    &nbsp; <a class="btn ghost" href="../philosophy/">Read the philosophy →</a></p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
+      <div><a href="../">Home</a> · <a href="../articles/">Articles</a> · <a href="../philosophy/">Philosophy</a> · <a href="../docs/">Docs</a></div>
+    </div>
+  </footer>
+  <script src="../assets/theme.js"></script>
+</body>
+</html>

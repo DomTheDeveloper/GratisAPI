@@ -4,19 +4,23 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Philosophy — GratisAPI</title>
-  <meta name="description" content="Gratis and libre: the two meanings of free, the free software movement, Richard Stallman and the FSF, and why GratisAPI is both free of charge and free as in freedom." />
+  <meta name="description" content="Gratis and libre: the two meanings of free, the free software movement, Richard Stallman and the FSF, the four freedoms and copyleft, and why GratisAPI is both free of charge and free as in freedom." />
+  <link rel="canonical" href="https://gratisapi.com/philosophy/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🆓</text></svg>" />
   <link rel="stylesheet" href="../assets/style.css" />
 </head>
 <body>
   <nav class="nav">
     <div class="wrap">
-      <a class="brand" href="../">Gratis<span>API</span></a>
+      <a class="brand" href="../"><span class="logo-mark">G</span>Gratis<span>API</span></a>
       <span class="badge-free">100% Free</span>
       <div class="links">
         <a href="../#apis">APIs</a>
         <a href="../articles/">Articles</a>
         <a href="../philosophy/">Philosophy</a>
+        <a href="../about/">About</a>
         <a href="../docs/">Docs</a>
         <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
       </div>
@@ -109,6 +113,39 @@
     to sell. The <a href="https://github.com/DomTheDeveloper/GratisAPI">source</a> means you
     never have to trust us — you can verify.</p>
 
+    <h2>The enshittification of "free" APIs</h2>
+    <p>We have all watched the same story play out. A company launches a generous free API.
+    Developers build on it. Then the free tier shrinks, keys become mandatory, rate limits
+    tighten, prices appear, terms change, and eventually the API is deprecated or the company
+    is acquired and it vanishes overnight. The "free" was always bait — a way to capture
+    developers before the value was extracted back out. When the only copy of the data and
+    the code lives on someone else's server, you are a tenant, not an owner, and tenants get
+    evicted.</p>
+    <p>GratisAPI is designed so that story <em>cannot</em> happen here. There is no company to
+    change its mind, no server bill that comes due, no dashboard to gate behind a paywall.
+    The data is public, the code is copyleft, and the whole thing is a folder of files.
+    The worst case — this domain going away — is survivable in minutes because you can host
+    the exact same files yourself.</p>
+
+    <h2>Our promises</h2>
+    <ul>
+      <li><strong>No keys, ever.</strong> Access will never require an account, a token, or a sign-up.</li>
+      <li><strong>No rate limits.</strong> There is no server counting your requests, so there is nothing to throttle.</li>
+      <li><strong>No tracking.</strong> Static files can't run analytics or set cookies on you. We don't know who you are, and we like it that way.</li>
+      <li><strong>No cost.</strong> Not a trial, not a freemium tier — actually free, indefinitely.</li>
+      <li><strong>Always forkable.</strong> The GPL guarantees you can take everything and run. That guarantee is the product.</li>
+    </ul>
+
+    <h2>Why we built it</h2>
+    <p>Because the small, joyful building blocks of the web keep disappearing behind login
+    walls. A student who just wants a list of the chemical elements, a hobbyist prototyping a
+    quote-of-the-day widget, a teacher pulling country capitals into a lesson — none of them
+    should need a credit card, an OAuth flow, or a rate-limit budget. Reference data about the
+    world is a commons. It belongs to everyone, and it should be a `fetch()` away, free.</p>
+    <p>GratisAPI is a small act of faith that the web can still have public, permanent,
+    no-strings utilities — and a demonstration that "static" is not a limitation but a
+    superpower. The <a href="../about/">technical write-up</a> explains exactly how it works.</p>
+
     <div class="callout">
       <h3>Fork it. Please.</h3>
       <p>The best proof that something is libre is that you can walk away with it. Clone the
@@ -130,8 +167,9 @@
   <footer>
     <div class="wrap">
       <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
-      <div><a href="../">Home</a> · <a href="../articles/">Articles</a> · <a href="../docs/">Docs</a></div>
+      <div><a href="../">Home</a> · <a href="../articles/">Articles</a> · <a href="../about/">About</a> · <a href="../docs/">Docs</a></div>
     </div>
   </footer>
+  <script src="../assets/theme.js"></script>
 </body>
 </html>

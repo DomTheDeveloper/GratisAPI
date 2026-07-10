@@ -4,7 +4,7 @@
     "title": "GratisAPI",
     "version": "1.0.0",
     "summary": "A completely free, static, open-data API.",
-    "description": "GratisAPI is served entirely from static JSON files on GitHub Pages. Every path below resolves to a real file you can `curl` or `fetch` directly — no authentication, no rate limits, no cost. Only HTTP GET is supported.",
+    "description": "GratisAPI is served entirely from static files on GitHub Pages. Every path below resolves to a real, clean, extension-less URL you can `curl` or `fetch` directly — for example `GET /api/animals/lion` — with no authentication, no rate limits, no keys and no cost. Only HTTP GET is supported. Gratis means free, and libre means free too.",
     "license": {
       "name": "GPL-2.0-or-later",
       "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
@@ -16,7 +16,7 @@
   },
   "servers": [
     {
-      "url": "https://domthedeveloper.github.io/GratisAPI",
+      "url": "https://gratisapi.com",
       "description": "GitHub Pages (production)"
     }
   ],
@@ -491,7 +491,7 @@
     }
   ],
   "paths": {
-    "/api/index.json": {
+    "/api/index": {
       "get": {
         "summary": "List all available APIs",
         "operationId": "listApis",
@@ -505,7 +505,7 @@
         }
       }
     },
-    "/api/articles/index.json": {
+    "/api/articles/index": {
       "get": {
         "summary": "List all articles",
         "operationId": "list_articles",
@@ -519,7 +519,7 @@
         }
       }
     },
-    "/api/articles/{id}.json": {
+    "/api/articles/{id}": {
       "get": {
         "summary": "Get a single articles record by id",
         "operationId": "get_articles",
@@ -547,7 +547,7 @@
         }
       }
     },
-    "/api/countries/index.json": {
+    "/api/countries/index": {
       "get": {
         "summary": "List all countries",
         "operationId": "list_countries",
@@ -561,7 +561,7 @@
         }
       }
     },
-    "/api/countries/{id}.json": {
+    "/api/countries/{id}": {
       "get": {
         "summary": "Get a single countries record by id",
         "operationId": "get_countries",
@@ -589,7 +589,7 @@
         }
       }
     },
-    "/api/us-states/index.json": {
+    "/api/us-states/index": {
       "get": {
         "summary": "List all us states",
         "operationId": "list_us_states",
@@ -603,7 +603,7 @@
         }
       }
     },
-    "/api/us-states/{id}.json": {
+    "/api/us-states/{id}": {
       "get": {
         "summary": "Get a single us states record by id",
         "operationId": "get_us_states",
@@ -631,7 +631,7 @@
         }
       }
     },
-    "/api/continents/index.json": {
+    "/api/continents/index": {
       "get": {
         "summary": "List all continents",
         "operationId": "list_continents",
@@ -645,7 +645,7 @@
         }
       }
     },
-    "/api/continents/{id}.json": {
+    "/api/continents/{id}": {
       "get": {
         "summary": "Get a single continents record by id",
         "operationId": "get_continents",
@@ -673,7 +673,7 @@
         }
       }
     },
-    "/api/oceans/index.json": {
+    "/api/oceans/index": {
       "get": {
         "summary": "List all oceans",
         "operationId": "list_oceans",
@@ -687,7 +687,7 @@
         }
       }
     },
-    "/api/oceans/{id}.json": {
+    "/api/oceans/{id}": {
       "get": {
         "summary": "Get a single oceans record by id",
         "operationId": "get_oceans",
@@ -715,7 +715,7 @@
         }
       }
     },
-    "/api/mountains/index.json": {
+    "/api/mountains/index": {
       "get": {
         "summary": "List all mountains",
         "operationId": "list_mountains",
@@ -729,7 +729,7 @@
         }
       }
     },
-    "/api/mountains/{id}.json": {
+    "/api/mountains/{id}": {
       "get": {
         "summary": "Get a single mountains record by id",
         "operationId": "get_mountains",
@@ -757,7 +757,7 @@
         }
       }
     },
-    "/api/rivers/index.json": {
+    "/api/rivers/index": {
       "get": {
         "summary": "List all rivers",
         "operationId": "list_rivers",
@@ -771,7 +771,7 @@
         }
       }
     },
-    "/api/rivers/{id}.json": {
+    "/api/rivers/{id}": {
       "get": {
         "summary": "Get a single rivers record by id",
         "operationId": "get_rivers",
@@ -799,7 +799,7 @@
         }
       }
     },
-    "/api/lakes/index.json": {
+    "/api/lakes/index": {
       "get": {
         "summary": "List all lakes",
         "operationId": "list_lakes",
@@ -813,7 +813,7 @@
         }
       }
     },
-    "/api/lakes/{id}.json": {
+    "/api/lakes/{id}": {
       "get": {
         "summary": "Get a single lakes record by id",
         "operationId": "get_lakes",
@@ -841,7 +841,7 @@
         }
       }
     },
-    "/api/deserts/index.json": {
+    "/api/deserts/index": {
       "get": {
         "summary": "List all deserts",
         "operationId": "list_deserts",
@@ -855,7 +855,7 @@
         }
       }
     },
-    "/api/deserts/{id}.json": {
+    "/api/deserts/{id}": {
       "get": {
         "summary": "Get a single deserts record by id",
         "operationId": "get_deserts",
@@ -883,7 +883,7 @@
         }
       }
     },
-    "/api/waterfalls/index.json": {
+    "/api/waterfalls/index": {
       "get": {
         "summary": "List all waterfalls",
         "operationId": "list_waterfalls",
@@ -897,7 +897,7 @@
         }
       }
     },
-    "/api/waterfalls/{id}.json": {
+    "/api/waterfalls/{id}": {
       "get": {
         "summary": "Get a single waterfalls record by id",
         "operationId": "get_waterfalls",
@@ -925,7 +925,7 @@
         }
       }
     },
-    "/api/volcanoes/index.json": {
+    "/api/volcanoes/index": {
       "get": {
         "summary": "List all notable volcanoes",
         "operationId": "list_volcanoes",
@@ -939,7 +939,7 @@
         }
       }
     },
-    "/api/volcanoes/{id}.json": {
+    "/api/volcanoes/{id}": {
       "get": {
         "summary": "Get a single notable volcanoes record by id",
         "operationId": "get_volcanoes",
@@ -967,7 +967,7 @@
         }
       }
     },
-    "/api/national-parks/index.json": {
+    "/api/national-parks/index": {
       "get": {
         "summary": "List all national parks",
         "operationId": "list_national_parks",
@@ -981,7 +981,7 @@
         }
       }
     },
-    "/api/national-parks/{id}.json": {
+    "/api/national-parks/{id}": {
       "get": {
         "summary": "Get a single national parks record by id",
         "operationId": "get_national_parks",
@@ -1009,7 +1009,7 @@
         }
       }
     },
-    "/api/tallest-buildings/index.json": {
+    "/api/tallest-buildings/index": {
       "get": {
         "summary": "List all tallest buildings",
         "operationId": "list_tallest_buildings",
@@ -1023,7 +1023,7 @@
         }
       }
     },
-    "/api/tallest-buildings/{id}.json": {
+    "/api/tallest-buildings/{id}": {
       "get": {
         "summary": "Get a single tallest buildings record by id",
         "operationId": "get_tallest_buildings",
@@ -1051,7 +1051,7 @@
         }
       }
     },
-    "/api/currencies/index.json": {
+    "/api/currencies/index": {
       "get": {
         "summary": "List all currencies",
         "operationId": "list_currencies",
@@ -1065,7 +1065,7 @@
         }
       }
     },
-    "/api/currencies/{id}.json": {
+    "/api/currencies/{id}": {
       "get": {
         "summary": "Get a single currencies record by id",
         "operationId": "get_currencies",
@@ -1093,7 +1093,7 @@
         }
       }
     },
-    "/api/languages/index.json": {
+    "/api/languages/index": {
       "get": {
         "summary": "List all languages",
         "operationId": "list_languages",
@@ -1107,7 +1107,7 @@
         }
       }
     },
-    "/api/languages/{id}.json": {
+    "/api/languages/{id}": {
       "get": {
         "summary": "Get a single languages record by id",
         "operationId": "get_languages",
@@ -1135,7 +1135,7 @@
         }
       }
     },
-    "/api/animals/index.json": {
+    "/api/animals/index": {
       "get": {
         "summary": "List all animals",
         "operationId": "list_animals",
@@ -1149,7 +1149,7 @@
         }
       }
     },
-    "/api/animals/{id}.json": {
+    "/api/animals/{id}": {
       "get": {
         "summary": "Get a single animals record by id",
         "operationId": "get_animals",
@@ -1177,7 +1177,7 @@
         }
       }
     },
-    "/api/dinosaurs/index.json": {
+    "/api/dinosaurs/index": {
       "get": {
         "summary": "List all dinosaurs",
         "operationId": "list_dinosaurs",
@@ -1191,7 +1191,7 @@
         }
       }
     },
-    "/api/dinosaurs/{id}.json": {
+    "/api/dinosaurs/{id}": {
       "get": {
         "summary": "Get a single dinosaurs record by id",
         "operationId": "get_dinosaurs",
@@ -1219,7 +1219,7 @@
         }
       }
     },
-    "/api/dog-breeds/index.json": {
+    "/api/dog-breeds/index": {
       "get": {
         "summary": "List all dog breeds",
         "operationId": "list_dog_breeds",
@@ -1233,7 +1233,7 @@
         }
       }
     },
-    "/api/dog-breeds/{id}.json": {
+    "/api/dog-breeds/{id}": {
       "get": {
         "summary": "Get a single dog breeds record by id",
         "operationId": "get_dog_breeds",
@@ -1261,7 +1261,7 @@
         }
       }
     },
-    "/api/cat-breeds/index.json": {
+    "/api/cat-breeds/index": {
       "get": {
         "summary": "List all cat breeds",
         "operationId": "list_cat_breeds",
@@ -1275,7 +1275,7 @@
         }
       }
     },
-    "/api/cat-breeds/{id}.json": {
+    "/api/cat-breeds/{id}": {
       "get": {
         "summary": "Get a single cat breeds record by id",
         "operationId": "get_cat_breeds",
@@ -1303,7 +1303,7 @@
         }
       }
     },
-    "/api/birds/index.json": {
+    "/api/birds/index": {
       "get": {
         "summary": "List all birds",
         "operationId": "list_birds",
@@ -1317,7 +1317,7 @@
         }
       }
     },
-    "/api/birds/{id}.json": {
+    "/api/birds/{id}": {
       "get": {
         "summary": "Get a single birds record by id",
         "operationId": "get_birds",
@@ -1345,7 +1345,7 @@
         }
       }
     },
-    "/api/sharks/index.json": {
+    "/api/sharks/index": {
       "get": {
         "summary": "List all sharks",
         "operationId": "list_sharks",
@@ -1359,7 +1359,7 @@
         }
       }
     },
-    "/api/sharks/{id}.json": {
+    "/api/sharks/{id}": {
       "get": {
         "summary": "Get a single sharks record by id",
         "operationId": "get_sharks",
@@ -1387,7 +1387,7 @@
         }
       }
     },
-    "/api/trees/index.json": {
+    "/api/trees/index": {
       "get": {
         "summary": "List all trees",
         "operationId": "list_trees",
@@ -1401,7 +1401,7 @@
         }
       }
     },
-    "/api/trees/{id}.json": {
+    "/api/trees/{id}": {
       "get": {
         "summary": "Get a single trees record by id",
         "operationId": "get_trees",
@@ -1429,7 +1429,7 @@
         }
       }
     },
-    "/api/flowers/index.json": {
+    "/api/flowers/index": {
       "get": {
         "summary": "List all flowers",
         "operationId": "list_flowers",
@@ -1443,7 +1443,7 @@
         }
       }
     },
-    "/api/flowers/{id}.json": {
+    "/api/flowers/{id}": {
       "get": {
         "summary": "Get a single flowers record by id",
         "operationId": "get_flowers",
@@ -1471,7 +1471,7 @@
         }
       }
     },
-    "/api/fruits/index.json": {
+    "/api/fruits/index": {
       "get": {
         "summary": "List all fruits",
         "operationId": "list_fruits",
@@ -1485,7 +1485,7 @@
         }
       }
     },
-    "/api/fruits/{id}.json": {
+    "/api/fruits/{id}": {
       "get": {
         "summary": "Get a single fruits record by id",
         "operationId": "get_fruits",
@@ -1513,7 +1513,7 @@
         }
       }
     },
-    "/api/vegetables/index.json": {
+    "/api/vegetables/index": {
       "get": {
         "summary": "List all vegetables",
         "operationId": "list_vegetables",
@@ -1527,7 +1527,7 @@
         }
       }
     },
-    "/api/vegetables/{id}.json": {
+    "/api/vegetables/{id}": {
       "get": {
         "summary": "Get a single vegetables record by id",
         "operationId": "get_vegetables",
@@ -1555,7 +1555,7 @@
         }
       }
     },
-    "/api/spices/index.json": {
+    "/api/spices/index": {
       "get": {
         "summary": "List all spices and herbs",
         "operationId": "list_spices",
@@ -1569,7 +1569,7 @@
         }
       }
     },
-    "/api/spices/{id}.json": {
+    "/api/spices/{id}": {
       "get": {
         "summary": "Get a single spices and herbs record by id",
         "operationId": "get_spices",
@@ -1597,7 +1597,7 @@
         }
       }
     },
-    "/api/biomes/index.json": {
+    "/api/biomes/index": {
       "get": {
         "summary": "List all terrestrial biomes",
         "operationId": "list_biomes",
@@ -1611,7 +1611,7 @@
         }
       }
     },
-    "/api/biomes/{id}.json": {
+    "/api/biomes/{id}": {
       "get": {
         "summary": "Get a single terrestrial biomes record by id",
         "operationId": "get_biomes",
@@ -1639,7 +1639,7 @@
         }
       }
     },
-    "/api/human-bones/index.json": {
+    "/api/human-bones/index": {
       "get": {
         "summary": "List all human bones",
         "operationId": "list_human_bones",
@@ -1653,7 +1653,7 @@
         }
       }
     },
-    "/api/human-bones/{id}.json": {
+    "/api/human-bones/{id}": {
       "get": {
         "summary": "Get a single human bones record by id",
         "operationId": "get_human_bones",
@@ -1681,7 +1681,7 @@
         }
       }
     },
-    "/api/human-organs/index.json": {
+    "/api/human-organs/index": {
       "get": {
         "summary": "List all human organs",
         "operationId": "list_human_organs",
@@ -1695,7 +1695,7 @@
         }
       }
     },
-    "/api/human-organs/{id}.json": {
+    "/api/human-organs/{id}": {
       "get": {
         "summary": "Get a single human organs record by id",
         "operationId": "get_human_organs",
@@ -1723,7 +1723,7 @@
         }
       }
     },
-    "/api/body-systems/index.json": {
+    "/api/body-systems/index": {
       "get": {
         "summary": "List all human body systems",
         "operationId": "list_body_systems",
@@ -1737,7 +1737,7 @@
         }
       }
     },
-    "/api/body-systems/{id}.json": {
+    "/api/body-systems/{id}": {
       "get": {
         "summary": "Get a single human body systems record by id",
         "operationId": "get_body_systems",
@@ -1765,7 +1765,7 @@
         }
       }
     },
-    "/api/human-senses/index.json": {
+    "/api/human-senses/index": {
       "get": {
         "summary": "List all human senses",
         "operationId": "list_human_senses",
@@ -1779,7 +1779,7 @@
         }
       }
     },
-    "/api/human-senses/{id}.json": {
+    "/api/human-senses/{id}": {
       "get": {
         "summary": "Get a single human senses record by id",
         "operationId": "get_human_senses",
@@ -1807,7 +1807,7 @@
         }
       }
     },
-    "/api/amino-acids/index.json": {
+    "/api/amino-acids/index": {
       "get": {
         "summary": "List all amino acids",
         "operationId": "list_amino_acids",
@@ -1821,7 +1821,7 @@
         }
       }
     },
-    "/api/amino-acids/{id}.json": {
+    "/api/amino-acids/{id}": {
       "get": {
         "summary": "Get a single amino acids record by id",
         "operationId": "get_amino_acids",
@@ -1849,7 +1849,7 @@
         }
       }
     },
-    "/api/vitamins/index.json": {
+    "/api/vitamins/index": {
       "get": {
         "summary": "List all vitamins",
         "operationId": "list_vitamins",
@@ -1863,7 +1863,7 @@
         }
       }
     },
-    "/api/vitamins/{id}.json": {
+    "/api/vitamins/{id}": {
       "get": {
         "summary": "Get a single vitamins record by id",
         "operationId": "get_vitamins",
@@ -1891,7 +1891,7 @@
         }
       }
     },
-    "/api/blood-types/index.json": {
+    "/api/blood-types/index": {
       "get": {
         "summary": "List all blood types",
         "operationId": "list_blood_types",
@@ -1905,7 +1905,7 @@
         }
       }
     },
-    "/api/blood-types/{id}.json": {
+    "/api/blood-types/{id}": {
       "get": {
         "summary": "Get a single blood types record by id",
         "operationId": "get_blood_types",
@@ -1933,7 +1933,7 @@
         }
       }
     },
-    "/api/elements/index.json": {
+    "/api/elements/index": {
       "get": {
         "summary": "List all chemical elements",
         "operationId": "list_elements",
@@ -1947,7 +1947,7 @@
         }
       }
     },
-    "/api/elements/{id}.json": {
+    "/api/elements/{id}": {
       "get": {
         "summary": "Get a single chemical elements record by id",
         "operationId": "get_elements",
@@ -1975,7 +1975,7 @@
         }
       }
     },
-    "/api/minerals/index.json": {
+    "/api/minerals/index": {
       "get": {
         "summary": "List all common minerals",
         "operationId": "list_minerals",
@@ -1989,7 +1989,7 @@
         }
       }
     },
-    "/api/minerals/{id}.json": {
+    "/api/minerals/{id}": {
       "get": {
         "summary": "Get a single common minerals record by id",
         "operationId": "get_minerals",
@@ -2017,7 +2017,7 @@
         }
       }
     },
-    "/api/rock-types/index.json": {
+    "/api/rock-types/index": {
       "get": {
         "summary": "List all rock types",
         "operationId": "list_rock_types",
@@ -2031,7 +2031,7 @@
         }
       }
     },
-    "/api/rock-types/{id}.json": {
+    "/api/rock-types/{id}": {
       "get": {
         "summary": "Get a single rock types record by id",
         "operationId": "get_rock_types",
@@ -2059,7 +2059,7 @@
         }
       }
     },
-    "/api/physical-constants/index.json": {
+    "/api/physical-constants/index": {
       "get": {
         "summary": "List all physical constants",
         "operationId": "list_physical_constants",
@@ -2073,7 +2073,7 @@
         }
       }
     },
-    "/api/physical-constants/{id}.json": {
+    "/api/physical-constants/{id}": {
       "get": {
         "summary": "Get a single physical constants record by id",
         "operationId": "get_physical_constants",
@@ -2101,7 +2101,7 @@
         }
       }
     },
-    "/api/math-constants/index.json": {
+    "/api/math-constants/index": {
       "get": {
         "summary": "List all math constants",
         "operationId": "list_math_constants",
@@ -2115,7 +2115,7 @@
         }
       }
     },
-    "/api/math-constants/{id}.json": {
+    "/api/math-constants/{id}": {
       "get": {
         "summary": "Get a single math constants record by id",
         "operationId": "get_math_constants",
@@ -2143,7 +2143,7 @@
         }
       }
     },
-    "/api/si-prefixes/index.json": {
+    "/api/si-prefixes/index": {
       "get": {
         "summary": "List all si prefixes",
         "operationId": "list_si_prefixes",
@@ -2157,7 +2157,7 @@
         }
       }
     },
-    "/api/si-prefixes/{id}.json": {
+    "/api/si-prefixes/{id}": {
       "get": {
         "summary": "Get a single si prefixes record by id",
         "operationId": "get_si_prefixes",
@@ -2185,7 +2185,7 @@
         }
       }
     },
-    "/api/richter-scale/index.json": {
+    "/api/richter-scale/index": {
       "get": {
         "summary": "List all richter scale",
         "operationId": "list_richter_scale",
@@ -2199,7 +2199,7 @@
         }
       }
     },
-    "/api/richter-scale/{id}.json": {
+    "/api/richter-scale/{id}": {
       "get": {
         "summary": "Get a single richter scale record by id",
         "operationId": "get_richter_scale",
@@ -2227,7 +2227,7 @@
         }
       }
     },
-    "/api/saffir-simpson/index.json": {
+    "/api/saffir-simpson/index": {
       "get": {
         "summary": "List all saffir-simpson scale",
         "operationId": "list_saffir_simpson",
@@ -2241,7 +2241,7 @@
         }
       }
     },
-    "/api/saffir-simpson/{id}.json": {
+    "/api/saffir-simpson/{id}": {
       "get": {
         "summary": "Get a single saffir-simpson scale record by id",
         "operationId": "get_saffir_simpson",
@@ -2269,7 +2269,7 @@
         }
       }
     },
-    "/api/fujita-scale/index.json": {
+    "/api/fujita-scale/index": {
       "get": {
         "summary": "List all enhanced fujita scale",
         "operationId": "list_fujita_scale",
@@ -2283,7 +2283,7 @@
         }
       }
     },
-    "/api/fujita-scale/{id}.json": {
+    "/api/fujita-scale/{id}": {
       "get": {
         "summary": "Get a single enhanced fujita scale record by id",
         "operationId": "get_fujita_scale",
@@ -2311,7 +2311,7 @@
         }
       }
     },
-    "/api/beaufort-scale/index.json": {
+    "/api/beaufort-scale/index": {
       "get": {
         "summary": "List all beaufort scale",
         "operationId": "list_beaufort_scale",
@@ -2325,7 +2325,7 @@
         }
       }
     },
-    "/api/beaufort-scale/{id}.json": {
+    "/api/beaufort-scale/{id}": {
       "get": {
         "summary": "Get a single beaufort scale record by id",
         "operationId": "get_beaufort_scale",
@@ -2353,7 +2353,7 @@
         }
       }
     },
-    "/api/mohs-scale/index.json": {
+    "/api/mohs-scale/index": {
       "get": {
         "summary": "List all mohs hardness scale",
         "operationId": "list_mohs_scale",
@@ -2367,7 +2367,7 @@
         }
       }
     },
-    "/api/mohs-scale/{id}.json": {
+    "/api/mohs-scale/{id}": {
       "get": {
         "summary": "Get a single mohs hardness scale record by id",
         "operationId": "get_mohs_scale",
@@ -2395,7 +2395,7 @@
         }
       }
     },
-    "/api/ph-scale/index.json": {
+    "/api/ph-scale/index": {
       "get": {
         "summary": "List all ph scale",
         "operationId": "list_ph_scale",
@@ -2409,7 +2409,7 @@
         }
       }
     },
-    "/api/ph-scale/{id}.json": {
+    "/api/ph-scale/{id}": {
       "get": {
         "summary": "Get a single ph scale record by id",
         "operationId": "get_ph_scale",
@@ -2437,7 +2437,7 @@
         }
       }
     },
-    "/api/scoville-scale/index.json": {
+    "/api/scoville-scale/index": {
       "get": {
         "summary": "List all scoville scale",
         "operationId": "list_scoville_scale",
@@ -2451,7 +2451,7 @@
         }
       }
     },
-    "/api/scoville-scale/{id}.json": {
+    "/api/scoville-scale/{id}": {
       "get": {
         "summary": "Get a single scoville scale record by id",
         "operationId": "get_scoville_scale",
@@ -2479,7 +2479,7 @@
         }
       }
     },
-    "/api/uv-index/index.json": {
+    "/api/uv-index/index": {
       "get": {
         "summary": "List all uv index",
         "operationId": "list_uv_index",
@@ -2493,7 +2493,7 @@
         }
       }
     },
-    "/api/uv-index/{id}.json": {
+    "/api/uv-index/{id}": {
       "get": {
         "summary": "Get a single uv index record by id",
         "operationId": "get_uv_index",
@@ -2521,7 +2521,7 @@
         }
       }
     },
-    "/api/paper-sizes/index.json": {
+    "/api/paper-sizes/index": {
       "get": {
         "summary": "List all paper sizes",
         "operationId": "list_paper_sizes",
@@ -2535,7 +2535,7 @@
         }
       }
     },
-    "/api/paper-sizes/{id}.json": {
+    "/api/paper-sizes/{id}": {
       "get": {
         "summary": "Get a single paper sizes record by id",
         "operationId": "get_paper_sizes",
@@ -2563,7 +2563,7 @@
         }
       }
     },
-    "/api/cooking-measurements/index.json": {
+    "/api/cooking-measurements/index": {
       "get": {
         "summary": "List all cooking measurements",
         "operationId": "list_cooking_measurements",
@@ -2577,7 +2577,7 @@
         }
       }
     },
-    "/api/cooking-measurements/{id}.json": {
+    "/api/cooking-measurements/{id}": {
       "get": {
         "summary": "Get a single cooking measurements record by id",
         "operationId": "get_cooking_measurements",
@@ -2605,7 +2605,7 @@
         }
       }
     },
-    "/api/number-bases/index.json": {
+    "/api/number-bases/index": {
       "get": {
         "summary": "List all number bases",
         "operationId": "list_number_bases",
@@ -2619,7 +2619,7 @@
         }
       }
     },
-    "/api/number-bases/{id}.json": {
+    "/api/number-bases/{id}": {
       "get": {
         "summary": "Get a single number bases record by id",
         "operationId": "get_number_bases",
@@ -2647,7 +2647,7 @@
         }
       }
     },
-    "/api/planets/index.json": {
+    "/api/planets/index": {
       "get": {
         "summary": "List all planets",
         "operationId": "list_planets",
@@ -2661,7 +2661,7 @@
         }
       }
     },
-    "/api/planets/{id}.json": {
+    "/api/planets/{id}": {
       "get": {
         "summary": "Get a single planets record by id",
         "operationId": "get_planets",
@@ -2689,7 +2689,7 @@
         }
       }
     },
-    "/api/moons/index.json": {
+    "/api/moons/index": {
       "get": {
         "summary": "List all moons",
         "operationId": "list_moons",
@@ -2703,7 +2703,7 @@
         }
       }
     },
-    "/api/moons/{id}.json": {
+    "/api/moons/{id}": {
       "get": {
         "summary": "Get a single moons record by id",
         "operationId": "get_moons",
@@ -2731,7 +2731,7 @@
         }
       }
     },
-    "/api/constellations/index.json": {
+    "/api/constellations/index": {
       "get": {
         "summary": "List all constellations",
         "operationId": "list_constellations",
@@ -2745,7 +2745,7 @@
         }
       }
     },
-    "/api/constellations/{id}.json": {
+    "/api/constellations/{id}": {
       "get": {
         "summary": "Get a single constellations record by id",
         "operationId": "get_constellations",
@@ -2773,7 +2773,7 @@
         }
       }
     },
-    "/api/stars/index.json": {
+    "/api/stars/index": {
       "get": {
         "summary": "List all stars",
         "operationId": "list_stars",
@@ -2787,7 +2787,7 @@
         }
       }
     },
-    "/api/stars/{id}.json": {
+    "/api/stars/{id}": {
       "get": {
         "summary": "Get a single stars record by id",
         "operationId": "get_stars",
@@ -2815,7 +2815,7 @@
         }
       }
     },
-    "/api/galaxies/index.json": {
+    "/api/galaxies/index": {
       "get": {
         "summary": "List all notable galaxies",
         "operationId": "list_galaxies",
@@ -2829,7 +2829,7 @@
         }
       }
     },
-    "/api/galaxies/{id}.json": {
+    "/api/galaxies/{id}": {
       "get": {
         "summary": "Get a single notable galaxies record by id",
         "operationId": "get_galaxies",
@@ -2857,7 +2857,7 @@
         }
       }
     },
-    "/api/space-agencies/index.json": {
+    "/api/space-agencies/index": {
       "get": {
         "summary": "List all space agencies",
         "operationId": "list_space_agencies",
@@ -2871,7 +2871,7 @@
         }
       }
     },
-    "/api/space-agencies/{id}.json": {
+    "/api/space-agencies/{id}": {
       "get": {
         "summary": "Get a single space agencies record by id",
         "operationId": "get_space_agencies",
@@ -2899,7 +2899,7 @@
         }
       }
     },
-    "/api/space-missions/index.json": {
+    "/api/space-missions/index": {
       "get": {
         "summary": "List all landmark space missions",
         "operationId": "list_space_missions",
@@ -2913,7 +2913,7 @@
         }
       }
     },
-    "/api/space-missions/{id}.json": {
+    "/api/space-missions/{id}": {
       "get": {
         "summary": "Get a single landmark space missions record by id",
         "operationId": "get_space_missions",
@@ -2941,7 +2941,7 @@
         }
       }
     },
-    "/api/mars-rovers/index.json": {
+    "/api/mars-rovers/index": {
       "get": {
         "summary": "List all mars rovers and landers",
         "operationId": "list_mars_rovers",
@@ -2955,7 +2955,7 @@
         }
       }
     },
-    "/api/mars-rovers/{id}.json": {
+    "/api/mars-rovers/{id}": {
       "get": {
         "summary": "Get a single mars rovers and landers record by id",
         "operationId": "get_mars_rovers",
@@ -2983,7 +2983,7 @@
         }
       }
     },
-    "/api/telescopes/index.json": {
+    "/api/telescopes/index": {
       "get": {
         "summary": "List all famous telescopes and observatories",
         "operationId": "list_telescopes",
@@ -2997,7 +2997,7 @@
         }
       }
     },
-    "/api/telescopes/{id}.json": {
+    "/api/telescopes/{id}": {
       "get": {
         "summary": "Get a single famous telescopes and observatories record by id",
         "operationId": "get_telescopes",
@@ -3025,7 +3025,7 @@
         }
       }
     },
-    "/api/zodiac/index.json": {
+    "/api/zodiac/index": {
       "get": {
         "summary": "List all zodiac",
         "operationId": "list_zodiac",
@@ -3039,7 +3039,7 @@
         }
       }
     },
-    "/api/zodiac/{id}.json": {
+    "/api/zodiac/{id}": {
       "get": {
         "summary": "Get a single zodiac record by id",
         "operationId": "get_zodiac",
@@ -3067,7 +3067,7 @@
         }
       }
     },
-    "/api/cloud-types/index.json": {
+    "/api/cloud-types/index": {
       "get": {
         "summary": "List all cloud types",
         "operationId": "list_cloud_types",
@@ -3081,7 +3081,7 @@
         }
       }
     },
-    "/api/cloud-types/{id}.json": {
+    "/api/cloud-types/{id}": {
       "get": {
         "summary": "Get a single cloud types record by id",
         "operationId": "get_cloud_types",
@@ -3109,7 +3109,7 @@
         }
       }
     },
-    "/api/http-status/index.json": {
+    "/api/http-status/index": {
       "get": {
         "summary": "List all http status codes",
         "operationId": "list_http_status",
@@ -3123,7 +3123,7 @@
         }
       }
     },
-    "/api/http-status/{id}.json": {
+    "/api/http-status/{id}": {
       "get": {
         "summary": "Get a single http status codes record by id",
         "operationId": "get_http_status",
@@ -3151,7 +3151,7 @@
         }
       }
     },
-    "/api/http-methods/index.json": {
+    "/api/http-methods/index": {
       "get": {
         "summary": "List all http request methods",
         "operationId": "list_http_methods",
@@ -3165,7 +3165,7 @@
         }
       }
     },
-    "/api/http-methods/{id}.json": {
+    "/api/http-methods/{id}": {
       "get": {
         "summary": "Get a single http request methods record by id",
         "operationId": "get_http_methods",
@@ -3193,7 +3193,7 @@
         }
       }
     },
-    "/api/http-headers/index.json": {
+    "/api/http-headers/index": {
       "get": {
         "summary": "List all http headers",
         "operationId": "list_http_headers",
@@ -3207,7 +3207,7 @@
         }
       }
     },
-    "/api/http-headers/{id}.json": {
+    "/api/http-headers/{id}": {
       "get": {
         "summary": "Get a single http headers record by id",
         "operationId": "get_http_headers",
@@ -3235,7 +3235,7 @@
         }
       }
     },
-    "/api/mime-types/index.json": {
+    "/api/mime-types/index": {
       "get": {
         "summary": "List all mime types",
         "operationId": "list_mime_types",
@@ -3249,7 +3249,7 @@
         }
       }
     },
-    "/api/mime-types/{id}.json": {
+    "/api/mime-types/{id}": {
       "get": {
         "summary": "Get a single mime types record by id",
         "operationId": "get_mime_types",
@@ -3277,7 +3277,7 @@
         }
       }
     },
-    "/api/tcp-ports/index.json": {
+    "/api/tcp-ports/index": {
       "get": {
         "summary": "List all well-known ports",
         "operationId": "list_tcp_ports",
@@ -3291,7 +3291,7 @@
         }
       }
     },
-    "/api/tcp-ports/{id}.json": {
+    "/api/tcp-ports/{id}": {
       "get": {
         "summary": "Get a single well-known ports record by id",
         "operationId": "get_tcp_ports",
@@ -3319,7 +3319,7 @@
         }
       }
     },
-    "/api/programming-languages/index.json": {
+    "/api/programming-languages/index": {
       "get": {
         "summary": "List all programming languages",
         "operationId": "list_programming_languages",
@@ -3333,7 +3333,7 @@
         }
       }
     },
-    "/api/programming-languages/{id}.json": {
+    "/api/programming-languages/{id}": {
       "get": {
         "summary": "Get a single programming languages record by id",
         "operationId": "get_programming_languages",
@@ -3361,7 +3361,7 @@
         }
       }
     },
-    "/api/operating-systems/index.json": {
+    "/api/operating-systems/index": {
       "get": {
         "summary": "List all operating systems",
         "operationId": "list_operating_systems",
@@ -3375,7 +3375,7 @@
         }
       }
     },
-    "/api/operating-systems/{id}.json": {
+    "/api/operating-systems/{id}": {
       "get": {
         "summary": "Get a single operating systems record by id",
         "operationId": "get_operating_systems",
@@ -3403,7 +3403,7 @@
         }
       }
     },
-    "/api/file-formats/index.json": {
+    "/api/file-formats/index": {
       "get": {
         "summary": "List all file formats",
         "operationId": "list_file_formats",
@@ -3417,7 +3417,7 @@
         }
       }
     },
-    "/api/file-formats/{id}.json": {
+    "/api/file-formats/{id}": {
       "get": {
         "summary": "Get a single file formats record by id",
         "operationId": "get_file_formats",
@@ -3445,7 +3445,7 @@
         }
       }
     },
-    "/api/ascii/index.json": {
+    "/api/ascii/index": {
       "get": {
         "summary": "List all printable ascii table",
         "operationId": "list_ascii",
@@ -3459,7 +3459,7 @@
         }
       }
     },
-    "/api/ascii/{id}.json": {
+    "/api/ascii/{id}": {
       "get": {
         "summary": "Get a single printable ascii table record by id",
         "operationId": "get_ascii",
@@ -3487,7 +3487,7 @@
         }
       }
     },
-    "/api/css-units/index.json": {
+    "/api/css-units/index": {
       "get": {
         "summary": "List all css units",
         "operationId": "list_css_units",
@@ -3501,7 +3501,7 @@
         }
       }
     },
-    "/api/css-units/{id}.json": {
+    "/api/css-units/{id}": {
       "get": {
         "summary": "Get a single css units record by id",
         "operationId": "get_css_units",
@@ -3529,7 +3529,7 @@
         }
       }
     },
-    "/api/sql-keywords/index.json": {
+    "/api/sql-keywords/index": {
       "get": {
         "summary": "List all sql keywords",
         "operationId": "list_sql_keywords",
@@ -3543,7 +3543,7 @@
         }
       }
     },
-    "/api/sql-keywords/{id}.json": {
+    "/api/sql-keywords/{id}": {
       "get": {
         "summary": "Get a single sql keywords record by id",
         "operationId": "get_sql_keywords",
@@ -3571,7 +3571,7 @@
         }
       }
     },
-    "/api/data-structures/index.json": {
+    "/api/data-structures/index": {
       "get": {
         "summary": "List all data structures",
         "operationId": "list_data_structures",
@@ -3585,7 +3585,7 @@
         }
       }
     },
-    "/api/data-structures/{id}.json": {
+    "/api/data-structures/{id}": {
       "get": {
         "summary": "Get a single data structures record by id",
         "operationId": "get_data_structures",
@@ -3613,7 +3613,7 @@
         }
       }
     },
-    "/api/sorting-algorithms/index.json": {
+    "/api/sorting-algorithms/index": {
       "get": {
         "summary": "List all sorting algorithms",
         "operationId": "list_sorting_algorithms",
@@ -3627,7 +3627,7 @@
         }
       }
     },
-    "/api/sorting-algorithms/{id}.json": {
+    "/api/sorting-algorithms/{id}": {
       "get": {
         "summary": "Get a single sorting algorithms record by id",
         "operationId": "get_sorting_algorithms",
@@ -3655,7 +3655,7 @@
         }
       }
     },
-    "/api/design-patterns/index.json": {
+    "/api/design-patterns/index": {
       "get": {
         "summary": "List all design patterns",
         "operationId": "list_design_patterns",
@@ -3669,7 +3669,7 @@
         }
       }
     },
-    "/api/design-patterns/{id}.json": {
+    "/api/design-patterns/{id}": {
       "get": {
         "summary": "Get a single design patterns record by id",
         "operationId": "get_design_patterns",
@@ -3697,7 +3697,7 @@
         }
       }
     },
-    "/api/git-commands/index.json": {
+    "/api/git-commands/index": {
       "get": {
         "summary": "List all git commands",
         "operationId": "list_git_commands",
@@ -3711,7 +3711,7 @@
         }
       }
     },
-    "/api/git-commands/{id}.json": {
+    "/api/git-commands/{id}": {
       "get": {
         "summary": "Get a single git commands record by id",
         "operationId": "get_git_commands",
@@ -3739,7 +3739,7 @@
         }
       }
     },
-    "/api/logic-gates/index.json": {
+    "/api/logic-gates/index": {
       "get": {
         "summary": "List all logic gates",
         "operationId": "list_logic_gates",
@@ -3753,7 +3753,7 @@
         }
       }
     },
-    "/api/logic-gates/{id}.json": {
+    "/api/logic-gates/{id}": {
       "get": {
         "summary": "Get a single logic gates record by id",
         "operationId": "get_logic_gates",
@@ -3781,7 +3781,7 @@
         }
       }
     },
-    "/api/greek-alphabet/index.json": {
+    "/api/greek-alphabet/index": {
       "get": {
         "summary": "List all greek alphabet",
         "operationId": "list_greek_alphabet",
@@ -3795,7 +3795,7 @@
         }
       }
     },
-    "/api/greek-alphabet/{id}.json": {
+    "/api/greek-alphabet/{id}": {
       "get": {
         "summary": "Get a single greek alphabet record by id",
         "operationId": "get_greek_alphabet",
@@ -3823,7 +3823,7 @@
         }
       }
     },
-    "/api/cyrillic-alphabet/index.json": {
+    "/api/cyrillic-alphabet/index": {
       "get": {
         "summary": "List all cyrillic alphabet",
         "operationId": "list_cyrillic_alphabet",
@@ -3837,7 +3837,7 @@
         }
       }
     },
-    "/api/cyrillic-alphabet/{id}.json": {
+    "/api/cyrillic-alphabet/{id}": {
       "get": {
         "summary": "Get a single cyrillic alphabet record by id",
         "operationId": "get_cyrillic_alphabet",
@@ -3865,7 +3865,7 @@
         }
       }
     },
-    "/api/hebrew-alphabet/index.json": {
+    "/api/hebrew-alphabet/index": {
       "get": {
         "summary": "List all hebrew alphabet",
         "operationId": "list_hebrew_alphabet",
@@ -3879,7 +3879,7 @@
         }
       }
     },
-    "/api/hebrew-alphabet/{id}.json": {
+    "/api/hebrew-alphabet/{id}": {
       "get": {
         "summary": "Get a single hebrew alphabet record by id",
         "operationId": "get_hebrew_alphabet",
@@ -3907,7 +3907,7 @@
         }
       }
     },
-    "/api/hiragana/index.json": {
+    "/api/hiragana/index": {
       "get": {
         "summary": "List all hiragana",
         "operationId": "list_hiragana",
@@ -3921,7 +3921,7 @@
         }
       }
     },
-    "/api/hiragana/{id}.json": {
+    "/api/hiragana/{id}": {
       "get": {
         "summary": "Get a single hiragana record by id",
         "operationId": "get_hiragana",
@@ -3949,7 +3949,7 @@
         }
       }
     },
-    "/api/katakana/index.json": {
+    "/api/katakana/index": {
       "get": {
         "summary": "List all katakana",
         "operationId": "list_katakana",
@@ -3963,7 +3963,7 @@
         }
       }
     },
-    "/api/katakana/{id}.json": {
+    "/api/katakana/{id}": {
       "get": {
         "summary": "Get a single katakana record by id",
         "operationId": "get_katakana",
@@ -3991,7 +3991,7 @@
         }
       }
     },
-    "/api/braille/index.json": {
+    "/api/braille/index": {
       "get": {
         "summary": "List all braille alphabet",
         "operationId": "list_braille",
@@ -4005,7 +4005,7 @@
         }
       }
     },
-    "/api/braille/{id}.json": {
+    "/api/braille/{id}": {
       "get": {
         "summary": "Get a single braille alphabet record by id",
         "operationId": "get_braille",
@@ -4033,7 +4033,7 @@
         }
       }
     },
-    "/api/nato-alphabet/index.json": {
+    "/api/nato-alphabet/index": {
       "get": {
         "summary": "List all nato phonetic alphabet",
         "operationId": "list_nato_alphabet",
@@ -4047,7 +4047,7 @@
         }
       }
     },
-    "/api/nato-alphabet/{id}.json": {
+    "/api/nato-alphabet/{id}": {
       "get": {
         "summary": "Get a single nato phonetic alphabet record by id",
         "operationId": "get_nato_alphabet",
@@ -4075,7 +4075,7 @@
         }
       }
     },
-    "/api/morse-code/index.json": {
+    "/api/morse-code/index": {
       "get": {
         "summary": "List all morse code",
         "operationId": "list_morse_code",
@@ -4089,7 +4089,7 @@
         }
       }
     },
-    "/api/morse-code/{id}.json": {
+    "/api/morse-code/{id}": {
       "get": {
         "summary": "Get a single morse code record by id",
         "operationId": "get_morse_code",
@@ -4117,7 +4117,7 @@
         }
       }
     },
-    "/api/roman-numerals/index.json": {
+    "/api/roman-numerals/index": {
       "get": {
         "summary": "List all roman numerals",
         "operationId": "list_roman_numerals",
@@ -4131,7 +4131,7 @@
         }
       }
     },
-    "/api/roman-numerals/{id}.json": {
+    "/api/roman-numerals/{id}": {
       "get": {
         "summary": "Get a single roman numerals record by id",
         "operationId": "get_roman_numerals",
@@ -4159,7 +4159,7 @@
         }
       }
     },
-    "/api/quotes/index.json": {
+    "/api/quotes/index": {
       "get": {
         "summary": "List all quotes",
         "operationId": "list_quotes",
@@ -4173,7 +4173,7 @@
         }
       }
     },
-    "/api/quotes/{id}.json": {
+    "/api/quotes/{id}": {
       "get": {
         "summary": "Get a single quotes record by id",
         "operationId": "get_quotes",
@@ -4201,7 +4201,7 @@
         }
       }
     },
-    "/api/us-presidents/index.json": {
+    "/api/us-presidents/index": {
       "get": {
         "summary": "List all us presidents",
         "operationId": "list_us_presidents",
@@ -4215,7 +4215,7 @@
         }
       }
     },
-    "/api/us-presidents/{id}.json": {
+    "/api/us-presidents/{id}": {
       "get": {
         "summary": "Get a single us presidents record by id",
         "operationId": "get_us_presidents",
@@ -4243,7 +4243,7 @@
         }
       }
     },
-    "/api/greek-gods/index.json": {
+    "/api/greek-gods/index": {
       "get": {
         "summary": "List all greek gods",
         "operationId": "list_greek_gods",
@@ -4257,7 +4257,7 @@
         }
       }
     },
-    "/api/greek-gods/{id}.json": {
+    "/api/greek-gods/{id}": {
       "get": {
         "summary": "Get a single greek gods record by id",
         "operationId": "get_greek_gods",
@@ -4285,7 +4285,7 @@
         }
       }
     },
-    "/api/roman-gods/index.json": {
+    "/api/roman-gods/index": {
       "get": {
         "summary": "List all roman gods",
         "operationId": "list_roman_gods",
@@ -4299,7 +4299,7 @@
         }
       }
     },
-    "/api/roman-gods/{id}.json": {
+    "/api/roman-gods/{id}": {
       "get": {
         "summary": "Get a single roman gods record by id",
         "operationId": "get_roman_gods",
@@ -4327,7 +4327,7 @@
         }
       }
     },
-    "/api/norse-gods/index.json": {
+    "/api/norse-gods/index": {
       "get": {
         "summary": "List all norse gods",
         "operationId": "list_norse_gods",
@@ -4341,7 +4341,7 @@
         }
       }
     },
-    "/api/norse-gods/{id}.json": {
+    "/api/norse-gods/{id}": {
       "get": {
         "summary": "Get a single norse gods record by id",
         "operationId": "get_norse_gods",
@@ -4369,7 +4369,7 @@
         }
       }
     },
-    "/api/egyptian-gods/index.json": {
+    "/api/egyptian-gods/index": {
       "get": {
         "summary": "List all egyptian gods",
         "operationId": "list_egyptian_gods",
@@ -4383,7 +4383,7 @@
         }
       }
     },
-    "/api/egyptian-gods/{id}.json": {
+    "/api/egyptian-gods/{id}": {
       "get": {
         "summary": "Get a single egyptian gods record by id",
         "operationId": "get_egyptian_gods",
@@ -4411,7 +4411,7 @@
         }
       }
     },
-    "/api/hindu-gods/index.json": {
+    "/api/hindu-gods/index": {
       "get": {
         "summary": "List all hindu gods",
         "operationId": "list_hindu_gods",
@@ -4425,7 +4425,7 @@
         }
       }
     },
-    "/api/hindu-gods/{id}.json": {
+    "/api/hindu-gods/{id}": {
       "get": {
         "summary": "Get a single hindu gods record by id",
         "operationId": "get_hindu_gods",
@@ -4453,7 +4453,7 @@
         }
       }
     },
-    "/api/celtic-gods/index.json": {
+    "/api/celtic-gods/index": {
       "get": {
         "summary": "List all celtic gods and mythological figures",
         "operationId": "list_celtic_gods",
@@ -4467,7 +4467,7 @@
         }
       }
     },
-    "/api/celtic-gods/{id}.json": {
+    "/api/celtic-gods/{id}": {
       "get": {
         "summary": "Get a single celtic gods and mythological figures record by id",
         "operationId": "get_celtic_gods",
@@ -4495,7 +4495,7 @@
         }
       }
     },
-    "/api/world-religions/index.json": {
+    "/api/world-religions/index": {
       "get": {
         "summary": "List all world religions",
         "operationId": "list_world_religions",
@@ -4509,7 +4509,7 @@
         }
       }
     },
-    "/api/world-religions/{id}.json": {
+    "/api/world-religions/{id}": {
       "get": {
         "summary": "Get a single world religions record by id",
         "operationId": "get_world_religions",
@@ -4537,7 +4537,7 @@
         }
       }
     },
-    "/api/seven-wonders/index.json": {
+    "/api/seven-wonders/index": {
       "get": {
         "summary": "List all seven wonders",
         "operationId": "list_seven_wonders",
@@ -4551,7 +4551,7 @@
         }
       }
     },
-    "/api/seven-wonders/{id}.json": {
+    "/api/seven-wonders/{id}": {
       "get": {
         "summary": "Get a single seven wonders record by id",
         "operationId": "get_seven_wonders",
@@ -4579,7 +4579,7 @@
         }
       }
     },
-    "/api/seven-deadly-sins/index.json": {
+    "/api/seven-deadly-sins/index": {
       "get": {
         "summary": "List all seven deadly sins and heavenly virtues",
         "operationId": "list_seven_deadly_sins",
@@ -4593,7 +4593,7 @@
         }
       }
     },
-    "/api/seven-deadly-sins/{id}.json": {
+    "/api/seven-deadly-sins/{id}": {
       "get": {
         "summary": "Get a single seven deadly sins and heavenly virtues record by id",
         "operationId": "get_seven_deadly_sins",
@@ -4621,7 +4621,7 @@
         }
       }
     },
-    "/api/chinese-zodiac/index.json": {
+    "/api/chinese-zodiac/index": {
       "get": {
         "summary": "List all chinese zodiac",
         "operationId": "list_chinese_zodiac",
@@ -4635,7 +4635,7 @@
         }
       }
     },
-    "/api/chinese-zodiac/{id}.json": {
+    "/api/chinese-zodiac/{id}": {
       "get": {
         "summary": "Get a single chinese zodiac record by id",
         "operationId": "get_chinese_zodiac",
@@ -4663,7 +4663,7 @@
         }
       }
     },
-    "/api/birthstones/index.json": {
+    "/api/birthstones/index": {
       "get": {
         "summary": "List all birthstones",
         "operationId": "list_birthstones",
@@ -4677,7 +4677,7 @@
         }
       }
     },
-    "/api/birthstones/{id}.json": {
+    "/api/birthstones/{id}": {
       "get": {
         "summary": "Get a single birthstones record by id",
         "operationId": "get_birthstones",
@@ -4705,7 +4705,7 @@
         }
       }
     },
-    "/api/tarot-major-arcana/index.json": {
+    "/api/tarot-major-arcana/index": {
       "get": {
         "summary": "List all tarot major arcana",
         "operationId": "list_tarot_major_arcana",
@@ -4719,7 +4719,7 @@
         }
       }
     },
-    "/api/tarot-major-arcana/{id}.json": {
+    "/api/tarot-major-arcana/{id}": {
       "get": {
         "summary": "Get a single tarot major arcana record by id",
         "operationId": "get_tarot_major_arcana",
@@ -4747,7 +4747,7 @@
         }
       }
     },
-    "/api/gemstones/index.json": {
+    "/api/gemstones/index": {
       "get": {
         "summary": "List all gemstones",
         "operationId": "list_gemstones",
@@ -4761,7 +4761,7 @@
         }
       }
     },
-    "/api/gemstones/{id}.json": {
+    "/api/gemstones/{id}": {
       "get": {
         "summary": "Get a single gemstones record by id",
         "operationId": "get_gemstones",
@@ -4789,7 +4789,7 @@
         }
       }
     },
-    "/api/colors/index.json": {
+    "/api/colors/index": {
       "get": {
         "summary": "List all colors",
         "operationId": "list_colors",
@@ -4803,7 +4803,7 @@
         }
       }
     },
-    "/api/colors/{id}.json": {
+    "/api/colors/{id}": {
       "get": {
         "summary": "Get a single colors record by id",
         "operationId": "get_colors",
@@ -4831,7 +4831,7 @@
         }
       }
     },
-    "/api/art-movements/index.json": {
+    "/api/art-movements/index": {
       "get": {
         "summary": "List all art movements",
         "operationId": "list_art_movements",
@@ -4845,7 +4845,7 @@
         }
       }
     },
-    "/api/art-movements/{id}.json": {
+    "/api/art-movements/{id}": {
       "get": {
         "summary": "Get a single art movements record by id",
         "operationId": "get_art_movements",
@@ -4873,7 +4873,7 @@
         }
       }
     },
-    "/api/music-genres/index.json": {
+    "/api/music-genres/index": {
       "get": {
         "summary": "List all music genres",
         "operationId": "list_music_genres",
@@ -4887,7 +4887,7 @@
         }
       }
     },
-    "/api/music-genres/{id}.json": {
+    "/api/music-genres/{id}": {
       "get": {
         "summary": "Get a single music genres record by id",
         "operationId": "get_music_genres",
@@ -4915,7 +4915,7 @@
         }
       }
     },
-    "/api/film-genres/index.json": {
+    "/api/film-genres/index": {
       "get": {
         "summary": "List all film genres",
         "operationId": "list_film_genres",
@@ -4929,7 +4929,7 @@
         }
       }
     },
-    "/api/film-genres/{id}.json": {
+    "/api/film-genres/{id}": {
       "get": {
         "summary": "Get a single film genres record by id",
         "operationId": "get_film_genres",
@@ -4957,7 +4957,7 @@
         }
       }
     },
-    "/api/musical-instruments/index.json": {
+    "/api/musical-instruments/index": {
       "get": {
         "summary": "List all musical instruments",
         "operationId": "list_musical_instruments",
@@ -4971,7 +4971,7 @@
         }
       }
     },
-    "/api/musical-instruments/{id}.json": {
+    "/api/musical-instruments/{id}": {
       "get": {
         "summary": "Get a single musical instruments record by id",
         "operationId": "get_musical_instruments",
@@ -4999,7 +4999,7 @@
         }
       }
     },
-    "/api/martial-arts/index.json": {
+    "/api/martial-arts/index": {
       "get": {
         "summary": "List all martial arts",
         "operationId": "list_martial_arts",
@@ -5013,7 +5013,7 @@
         }
       }
     },
-    "/api/martial-arts/{id}.json": {
+    "/api/martial-arts/{id}": {
       "get": {
         "summary": "Get a single martial arts record by id",
         "operationId": "get_martial_arts",
@@ -5041,7 +5041,7 @@
         }
       }
     },
-    "/api/olympic-sports/index.json": {
+    "/api/olympic-sports/index": {
       "get": {
         "summary": "List all olympic sports",
         "operationId": "list_olympic_sports",
@@ -5055,7 +5055,7 @@
         }
       }
     },
-    "/api/olympic-sports/{id}.json": {
+    "/api/olympic-sports/{id}": {
       "get": {
         "summary": "Get a single olympic sports record by id",
         "operationId": "get_olympic_sports",
@@ -5083,7 +5083,7 @@
         }
       }
     },
-    "/api/cocktails/index.json": {
+    "/api/cocktails/index": {
       "get": {
         "summary": "List all classic cocktails",
         "operationId": "list_cocktails",
@@ -5097,7 +5097,7 @@
         }
       }
     },
-    "/api/cocktails/{id}.json": {
+    "/api/cocktails/{id}": {
       "get": {
         "summary": "Get a single classic cocktails record by id",
         "operationId": "get_cocktails",
@@ -5125,7 +5125,7 @@
         }
       }
     },
-    "/api/teas/index.json": {
+    "/api/teas/index": {
       "get": {
         "summary": "List all types of tea",
         "operationId": "list_teas",
@@ -5139,7 +5139,7 @@
         }
       }
     },
-    "/api/teas/{id}.json": {
+    "/api/teas/{id}": {
       "get": {
         "summary": "Get a single types of tea record by id",
         "operationId": "get_teas",
@@ -5167,7 +5167,7 @@
         }
       }
     },
-    "/api/cheeses/index.json": {
+    "/api/cheeses/index": {
       "get": {
         "summary": "List all cheeses",
         "operationId": "list_cheeses",
@@ -5181,7 +5181,7 @@
         }
       }
     },
-    "/api/cheeses/{id}.json": {
+    "/api/cheeses/{id}": {
       "get": {
         "summary": "Get a single cheeses record by id",
         "operationId": "get_cheeses",
@@ -5209,7 +5209,7 @@
         }
       }
     },
-    "/api/pasta-shapes/index.json": {
+    "/api/pasta-shapes/index": {
       "get": {
         "summary": "List all pasta shapes",
         "operationId": "list_pasta_shapes",
@@ -5223,7 +5223,7 @@
         }
       }
     },
-    "/api/pasta-shapes/{id}.json": {
+    "/api/pasta-shapes/{id}": {
       "get": {
         "summary": "Get a single pasta shapes record by id",
         "operationId": "get_pasta_shapes",
@@ -5251,7 +5251,7 @@
         }
       }
     },
-    "/api/chess-pieces/index.json": {
+    "/api/chess-pieces/index": {
       "get": {
         "summary": "List all chess pieces",
         "operationId": "list_chess_pieces",
@@ -5265,7 +5265,7 @@
         }
       }
     },
-    "/api/chess-pieces/{id}.json": {
+    "/api/chess-pieces/{id}": {
       "get": {
         "summary": "Get a single chess pieces record by id",
         "operationId": "get_chess_pieces",
@@ -5293,7 +5293,7 @@
         }
       }
     },
-    "/api/playing-cards/index.json": {
+    "/api/playing-cards/index": {
       "get": {
         "summary": "List all playing cards",
         "operationId": "list_playing_cards",
@@ -5307,7 +5307,7 @@
         }
       }
     },
-    "/api/playing-cards/{id}.json": {
+    "/api/playing-cards/{id}": {
       "get": {
         "summary": "Get a single playing cards record by id",
         "operationId": "get_playing_cards",
@@ -5335,7 +5335,7 @@
         }
       }
     },
-    "/api/calendar/index.json": {
+    "/api/calendar/index": {
       "get": {
         "summary": "List all calendar",
         "operationId": "list_calendar",
@@ -5349,7 +5349,7 @@
         }
       }
     },
-    "/api/calendar/{id}.json": {
+    "/api/calendar/{id}": {
       "get": {
         "summary": "Get a single calendar record by id",
         "operationId": "get_calendar",

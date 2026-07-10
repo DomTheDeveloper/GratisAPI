@@ -7,6 +7,7 @@ and merges them into a single dataset.
 import glob
 import json
 import os
+import re
 
 META = {
     "name": "articles",
@@ -17,6 +18,22 @@ META = {
 
 _ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 _ARTICLES_DIR = os.path.join(_ROOT, "content", "articles")
+
+# Fun endpoints to attach a "Try it" to when an article names no API of its own
+# (mostly the Philosophy pieces). Rotated by index for a bit of variety.
+_FALLBACK_APIS = ["quotes", "colors", "animals", "elements", "countries",
+                  "planets", "gemstones", "cocktails", "constellations", "birds"]
+
+_API_RE = re.compile(r"/api/([a-z0-9-]+)")
+
+
+def _pick_try_api(art, index):
+    """Find an API slug the article talks about, for a live 'Try it' button."""
+    text = " ".join([art.get("body", ""), art.get("summary", ""), " ".join(art.get("tags", []))])
+    for match in _API_RE.findall(text):
+        if match not in ("index", "articles"):
+            return match
+    return _FALLBACK_APIS[index % len(_FALLBACK_APIS)]
 
 
 def _load():
@@ -36,6 +53,8 @@ def _load():
             items.append(art)
     # Newest first.
     items.sort(key=lambda a: (a.get("date", ""), a["id"]), reverse=True)
+    for i, art in enumerate(items):
+        art["try_api"] = _pick_try_api(art, i)
     return items
 
 

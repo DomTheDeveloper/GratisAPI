@@ -3,25 +3,53 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GratisAPI — A completely free, static, open-data API</title>
-  <meta name="description" content="GratisAPI is a collection of 100% free static JSON APIs hosted on GitHub Pages. No keys, no rate limits, no cost. Gratis means free." />
-  <meta property="og:title" content="GratisAPI — free static open-data API" />
-  <meta property="og:description" content="Dozens of useful JSON APIs, served as plain static files. No keys, no limits, no cost." />
+  <title>GratisAPI — 100+ free APIs, no keys, no limits, no cost</title>
+  <meta name="description" content="GratisAPI is a collection of 100+ completely free static JSON APIs — animals, quotes, countries, elements and more. No keys, no rate limits, no tracking, no cost. Gratis and libre." />
+  <meta name="keywords" content="free API, no key API, open data, static API, JSON API, gratis, libre, GitHub Pages API, public API" />
+  <link rel="canonical" href="https://gratisapi.com/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+
+  <!-- Open Graph / Twitter -->
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="GratisAPI" />
+  <meta property="og:title" content="GratisAPI — 100+ free APIs, no keys, no limits, no cost" />
+  <meta property="og:description" content="100+ free static JSON APIs. No keys, no rate limits, no tracking, no cost. Gratis means free — and so does libre." />
+  <meta property="og:url" content="https://gratisapi.com/" />
+  <meta property="og:image" content="https://gratisapi.com/assets/og.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="GratisAPI — 100+ free APIs, forever" />
+  <meta name="twitter:description" content="100+ free static JSON APIs. No keys, no limits, no cost. Gratis and libre." />
+  <meta name="twitter:image" content="https://gratisapi.com/assets/og.svg" />
+
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🆓</text></svg>" />
   <link rel="stylesheet" href="assets/style.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DataCatalog",
+    "name": "GratisAPI",
+    "url": "https://gratisapi.com/",
+    "description": "100+ completely free static JSON APIs. No keys, no rate limits, no cost. Gratis and libre.",
+    "license": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "isAccessibleForFree": true,
+    "keywords": ["free API", "open data", "static API", "JSON", "gratis", "libre"],
+    "creator": { "@type": "Organization", "name": "GratisAPI", "url": "https://github.com/DomTheDeveloper/GratisAPI" }
+  }
+  </script>
 </head>
 <body>
   <nav class="nav">
     <div class="wrap">
-      <a class="brand" href="./">Gratis<span>API</span></a>
+      <a class="brand" href="./"><span class="logo-mark">G</span>Gratis<span>API</span></a>
       <span class="badge-free">100% Free</span>
       <div class="links">
         <a href="#apis">APIs</a>
         <a href="articles/">Articles</a>
         <a href="philosophy/">Philosophy</a>
+        <a href="about/">About</a>
         <a href="docs/">Docs</a>
-        <a href="openapi.json">OpenAPI</a>
         <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
       </div>
     </div>
@@ -29,26 +57,41 @@
 
   <header class="hero">
     <div class="wrap">
+      <div class="pill-row">
+        <span class="pill">🔑 <b>No keys</b></span>
+        <span class="pill">🚦 <b>No limits</b></span>
+        <span class="pill">🕵️ <b>No tracking</b></span>
+        <span class="pill">💸 <b>No cost</b></span>
+      </div>
       <h1>The <span class="free">free</span> API<br />that stays free.</h1>
-      <p class="tag">Dozens of useful JSON APIs, served as plain static files from GitHub Pages.</p>
-      <p class="sub"><em>Gratis</em> means free — no API keys, no rate limits, no sign-up, no tracking, no cost. Ever. Licensed GPL-2.0-or-later.</p>
-      <div class="cta">
+      <p class="tag">100+ useful JSON APIs, served as plain static files from the edge.</p>
+      <p class="sub"><em>Gratis</em> means free — and GratisAPI is free in every sense: no API keys, no rate limits, no sign-up, no tracking, no cost. Not a free <em>tier</em> — actually free, forever.</p>
+
+      <div class="try-hero">
+        <button class="surprise-btn" id="surprise-btn">✨ Surprise me</button>
+        <p class="surprise-hint">Pulls a random record from a random API — live, right now.</p>
+        <div id="surprise-out"></div>
+      </div>
+
+      <div class="cta" style="margin-top:26px">
         <a class="btn primary" href="#apis">Browse the APIs</a>
         <a class="btn ghost" href="docs/">Read the docs →</a>
       </div>
+
       <div class="stats" id="stats">
         <div class="stat"><div class="num" id="stat-apis">—</div><div class="lbl">APIs</div></div>
         <div class="stat"><div class="num" id="stat-records">—</div><div class="lbl">Records</div></div>
+        <div class="stat"><div class="num" id="stat-articles">—</div><div class="lbl">Articles</div></div>
         <div class="stat"><div class="num">$0</div><div class="lbl">Forever</div></div>
-        <div class="stat"><div class="num">0</div><div class="lbl">API keys</div></div>
       </div>
     </div>
   </header>
 
   <main>
     <section id="apis" class="wrap">
-      <h2 class="section-title">Available APIs</h2>
-      <p class="section-lead">Every card is a live endpoint. Click one to explore its data right here.</p>
+      <h2 class="section-title">Explore 100+ APIs</h2>
+      <p class="section-lead">Every card is a live endpoint. Search, click, and see the real JSON your app receives.</p>
+      <input id="api-search" class="api-search" type="search" placeholder="Search APIs — try “animals”, “colors”, “http”…" aria-label="Search APIs" />
       <div class="grid" id="api-grid"><p style="color:var(--text-dim)">Loading APIs…</p></div>
     </section>
 
@@ -69,19 +112,19 @@
 
     <section id="quickstart" class="wrap">
       <h2 class="section-title">Quick start</h2>
-      <p class="section-lead">It's just HTTP GET on static files. Use whatever you already have.</p>
+      <p class="section-lead">Clean, key-free URLs. Just HTTP GET — use whatever you already have.</p>
       <div class="two-col">
-        <pre class="codeblock"><span class="c"># curl — list every API</span>
-curl <span class="p">https://domthedeveloper.github.io/GratisAPI/api/index.json</span>
+        <pre class="codeblock"><span class="c"># one lion, full taxonomy</span>
+curl <span class="p">https://gratisapi.com/api/animals/lion</span>
 
-<span class="c"># get one animal's full taxonomy</span>
-curl <span class="p">.../api/animals/lion.json</span>
+<span class="c"># element 79 — gold</span>
+curl <span class="p">.../api/elements/79</span>
 
-<span class="c"># all 118 chemical elements</span>
-curl <span class="p">.../api/elements/index.json</span></pre>
-        <pre class="codeblock"><span class="c">// fetch — a random quote in the browser</span>
+<span class="c"># the whole set of 100+ APIs</span>
+curl <span class="p">.../api/index</span></pre>
+        <pre class="codeblock"><span class="c">// a random quote in the browser</span>
 <span class="b">const</span> res = <span class="b">await</span> fetch(
-  <span class="p">".../api/quotes/index.json"</span>);
+  <span class="p">".../api/quotes/index"</span>);
 <span class="b">const</span> { results } = <span class="b">await</span> res.json();
 <span class="b">const</span> q = results[
   Math.floor(Math.random() * results.length)];
@@ -96,7 +139,7 @@ console.log(<span class="p">`"${q.quote}" — ${q.author}`</span>);</pre>
         <a class="card" href="articles/">
           <div class="emoji">📝</div>
           <h3>Articles</h3>
-          <p>100+ guides and essays: how to use the APIs from any language, deep-dives into the datasets, and more.</p>
+          <p>100+ guides and essays: how to use the APIs from any language, deep-dives into the datasets, and more. Each one has a live “Try it”.</p>
           <span class="count">Browse the journal →</span>
         </a>
         <a class="card" href="philosophy/">
@@ -118,11 +161,11 @@ console.log(<span class="p">`"${q.quote}" — ${q.author}`</span>);</pre>
       <h2 class="section-title">Why GratisAPI?</h2>
       <div class="features">
         <div class="feature"><h4><span class="ico">✓</span> Truly free</h4><p>No keys, no billing, no quotas. Gratis means free, and it always will be.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> 100% static</h4><p>Every endpoint is a JSON file on GitHub Pages. Nothing to break, nothing to rate-limit.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> Blazing fast</h4><p>Served straight from GitHub's global CDN with proper caching.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> CORS enabled</h4><p>GitHub Pages serves permissive CORS, so you can fetch from any web app.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> Open source</h4><p>Licensed GPL-2.0-or-later. Fork it, extend it, self-host it.</p></div>
-        <div class="feature"><h4><span class="ico">✓</span> OpenAPI + Swagger</h4><p>A full OpenAPI 3.1 spec and interactive Swagger UI describe every endpoint.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> Free as in freedom</h4><p>Licensed GPL-2.0-or-later. Read it, run it, change it, fork it, self-host it — the freedom can't be revoked.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> 100% static</h4><p>Every endpoint is a plain file on a global CDN. Nothing to break, nothing to rate-limit.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> Clean URLs</h4><p>Human-friendly, key-free paths like <code>/api/animals/lion</code>. No boilerplate, no query strings.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> CORS enabled</h4><p>Fetch it from any web app, anywhere, with zero configuration.</p></div>
+        <div class="feature"><h4><span class="ico">✓</span> OpenAPI + Swagger</h4><p>A full OpenAPI 3.1 spec and interactive docs describe every endpoint.</p></div>
       </div>
     </section>
   </main>
@@ -130,10 +173,11 @@ console.log(<span class="p">`"${q.quote}" — ${q.author}`</span>);</pre>
   <footer>
     <div class="wrap">
       <div>GratisAPI — 100% free, forever. Licensed <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL-2.0-or-later</a>.</div>
-      <div><a href="https://github.com/DomTheDeveloper/GratisAPI">Source on GitHub</a> · <a href="docs/">API Docs</a></div>
+      <div><a href="articles/">Articles</a> · <a href="philosophy/">Philosophy</a> · <a href="docs/">Docs</a> · <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a></div>
     </div>
   </footer>
 
+  <script src="assets/theme.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>
