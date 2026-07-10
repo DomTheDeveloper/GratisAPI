@@ -1,0 +1,17 @@
+{
+  "id": "reference-css-units",
+  "title": "CSS Units Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-12-01",
+  "tags": [
+    "css",
+    "web",
+    "layout"
+  ],
+  "summary": "CSS offers many units of length, split between absolute measures and flexible relative ones.",
+  "body": "When you style a web page, nearly every size you set needs a unit. CSS offers a surprising number of them, and choosing well is the difference between a rigid layout and one that adapts gracefully to different screens. The units fall into two broad families: absolute and relative.\n\nAbsolute units describe a fixed physical size. The pixel is the most common; on the web it is a device independent unit that stays roughly constant regardless of screen density. Other absolute units like centimeters and inches exist but are mainly useful for print, where real physical dimensions matter. Absolute units are predictable but do not adapt to a user's settings.\n\nRelative units are where CSS becomes flexible. The em unit is relative to the font size of the current element, so padding set in em scales with the text around it. The rem unit is relative to the root font size, giving a single consistent basis for the whole page and making it easy to scale an entire design. Percentages size an element relative to its parent, which is essential for fluid layouts.\n\nA particularly useful group is the viewport units. One unit of viewport width equals one percent of the browser window's width, and the viewport height unit works the same way for height. These let elements respond directly to the size of the screen, which is invaluable for full page sections and responsive typography.\n\nChoosing units thoughtfully improves both accessibility and responsiveness. Sizing text in rem, for example, respects a user who has increased their default font size, while sizing in fixed pixels ignores that preference.\n\nGratisAPI offers a reference at /api/css-units/index.json listing each unit with its name, category, and a short description. It is handy for building style tools, cheat sheets, or teaching material. Mastering the units frees you from guesswork and lets you build layouts that feel intentional on a phone, a laptop, and a large monitor alike.",
+  "word_count": 322,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-css-units.json"
+}

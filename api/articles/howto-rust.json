@@ -1,0 +1,17 @@
+{
+  "id": "howto-rust",
+  "title": "Consuming GratisAPI in Rust",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-12-07",
+  "tags": [
+    "rust",
+    "reqwest",
+    "serde"
+  ],
+  "summary": "Use reqwest and serde to fetch and deserialize GratisAPI data into strongly typed Rust structs.",
+  "body": "Rust's ecosystem makes HTTP JSON work both safe and ergonomic through two crates: reqwest for requests and serde for deserialization. GratisAPI's static, keyless endpoints are a clean target.\n\nAdd reqwest with the json feature and serde with derive to your Cargo.toml. Then define structs that derive Deserialize and let serde map the JSON automatically:\n\nuse serde::Deserialize;\n\n#[derive(Deserialize)]\nstruct Response {\n    count: u32,\n    quotes: Vec<Quote>,\n}\n\n#[derive(Deserialize)]\nstruct Quote {\n    text: String,\n    author: String,\n}\n\n#[tokio::main]\nasync fn main() -> Result<(), reqwest::Error> {\n    let url = \"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\";\n    let data: Response = reqwest::get(url).await?.json().await?;\n    println!(\"Loaded {} quotes\", data.count);\n    Ok(())\n}\n\nThe json method on the response deserializes the body directly into your typed struct, and the ? operator propagates any error cleanly. Field names in the struct match the JSON keys; use serde's rename attribute when they differ.\n\nThis approach gives you compile-time confidence about the data's shape. If a field is optional, model it as an Option so missing values do not cause a decode failure. For a synchronous program without an async runtime, reqwest offers a blocking client behind a feature flag, which avoids pulling in tokio.\n\nBecause each endpoint returns a full collection, one request yields a Vec you can iterate, filter, and map with Rust's expressive iterator methods. There are no rate limits and no tokens, so the only real concern is the same as everywhere: cache the static files when you fetch them repeatedly, since they change only on redeploy. The result is fast, memory-safe access to open data with almost no boilerplate.",
+  "word_count": 255,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-rust.json"
+}

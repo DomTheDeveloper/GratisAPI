@@ -1,0 +1,8 @@
+{
+  "id": "boxing",
+  "name": "Boxing",
+  "category": "Summer",
+  "type": "Individual",
+  "first_olympics_year": 1904,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/boxing.json"
+}

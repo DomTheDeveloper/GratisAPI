@@ -1,0 +1,126 @@
+{
+  "api": "cloud-types",
+  "title": "Cloud Types",
+  "description": "The principal cloud genera classified by altitude and appearance.",
+  "emoji": "☁️",
+  "license": "GPL-2.0-or-later",
+  "count": 13,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/{id}.json"
+  },
+  "fields": [
+    "abbreviation",
+    "altitude_level",
+    "description",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "cirrus",
+      "name": "Cirrus",
+      "abbreviation": "Ci",
+      "altitude_level": "High",
+      "description": "Thin, wispy strands of ice crystals often called mare's tails.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cirrus.json"
+    },
+    {
+      "id": "cirrocumulus",
+      "name": "Cirrocumulus",
+      "abbreviation": "Cc",
+      "altitude_level": "High",
+      "description": "Small white patches or ripples of cloud, forming a mackerel sky.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cirrocumulus.json"
+    },
+    {
+      "id": "cirrostratus",
+      "name": "Cirrostratus",
+      "abbreviation": "Cs",
+      "altitude_level": "High",
+      "description": "Transparent, whitish veil that can produce a halo around the sun or moon.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cirrostratus.json"
+    },
+    {
+      "id": "altocumulus",
+      "name": "Altocumulus",
+      "abbreviation": "Ac",
+      "altitude_level": "Middle",
+      "description": "White or grey layers of rounded masses, often in groups or waves.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/altocumulus.json"
+    },
+    {
+      "id": "altostratus",
+      "name": "Altostratus",
+      "abbreviation": "As",
+      "altitude_level": "Middle",
+      "description": "Grey or blue-grey sheet covering the sky, through which the sun appears dimly.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/altostratus.json"
+    },
+    {
+      "id": "nimbostratus",
+      "name": "Nimbostratus",
+      "abbreviation": "Ns",
+      "altitude_level": "Middle",
+      "description": "Thick, dark, featureless layer producing continuous rain or snow.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/nimbostratus.json"
+    },
+    {
+      "id": "stratus",
+      "name": "Stratus",
+      "abbreviation": "St",
+      "altitude_level": "Low",
+      "description": "Uniform grey layer resembling fog that does not reach the ground; may drizzle.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/stratus.json"
+    },
+    {
+      "id": "stratocumulus",
+      "name": "Stratocumulus",
+      "abbreviation": "Sc",
+      "altitude_level": "Low",
+      "description": "Low, lumpy layer of grey or white rounded masses with gaps of clear sky.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/stratocumulus.json"
+    },
+    {
+      "id": "cumulus",
+      "name": "Cumulus",
+      "abbreviation": "Cu",
+      "altitude_level": "Low",
+      "description": "Detached, puffy fair-weather clouds with flat bases and cauliflower tops.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cumulus.json"
+    },
+    {
+      "id": "cumulonimbus",
+      "name": "Cumulonimbus",
+      "abbreviation": "Cb",
+      "altitude_level": "Vertical",
+      "description": "Towering thunderstorm cloud producing heavy rain, lightning, and hail.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cumulonimbus.json"
+    },
+    {
+      "id": "lenticular",
+      "name": "Lenticular",
+      "abbreviation": "Ac len",
+      "altitude_level": "Middle",
+      "description": "Smooth, lens- or saucer-shaped clouds that form over hills and mountains.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/lenticular.json"
+    },
+    {
+      "id": "mammatus",
+      "name": "Mammatus",
+      "abbreviation": "Cb mam",
+      "altitude_level": "Vertical",
+      "description": "Pouch-like bulges hanging beneath a cloud base, often after severe storms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/mammatus.json"
+    },
+    {
+      "id": "contrail",
+      "name": "Contrail",
+      "abbreviation": "Ci con",
+      "altitude_level": "High",
+      "description": "Line-shaped ice clouds formed from aircraft engine exhaust at high altitude.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/contrail.json"
+    }
+  ]
+}

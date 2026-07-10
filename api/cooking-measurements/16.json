@@ -1,0 +1,10 @@
+{
+  "id": 16,
+  "unit": "Ounce",
+  "abbreviation": "oz",
+  "type": "Weight",
+  "milliliters": null,
+  "grams": 28.35,
+  "note": "Avoirdupois ounce of weight.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/16.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ngc-6822",
+  "name": "Barnard's Galaxy (NGC 6822)",
+  "type": "Irregular",
+  "constellation": "Sagittarius",
+  "distance_mly": 1.6,
+  "notes": "A barred irregular dwarf galaxy in the Local Group.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-6822.json"
+}

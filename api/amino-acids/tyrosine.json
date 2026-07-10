@@ -1,0 +1,9 @@
+{
+  "id": "tyrosine",
+  "name": "Tyrosine",
+  "three_letter": "Tyr",
+  "one_letter": "Y",
+  "essential": false,
+  "polarity": "Polar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/tyrosine.json"
+}

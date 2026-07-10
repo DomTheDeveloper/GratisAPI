@@ -1,0 +1,17 @@
+{
+  "id": "howto-java",
+  "title": "Consuming GratisAPI in Java",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-03-12",
+  "tags": [
+    "java",
+    "http-client",
+    "json"
+  ],
+  "summary": "Use Java's built-in HttpClient to fetch GratisAPI endpoints and parse the JSON response.",
+  "body": "Modern Java, from version 11 onward, includes a capable HttpClient in the java.net.http package, so fetching GratisAPI needs no external HTTP library. You do still need a JSON parser, and popular choices include Jackson and Gson.\n\nFirst make the request. Build a client, construct a request pointing at the endpoint, and send it, asking for the body as a String:\n\nimport java.net.http.*;\nimport java.net.URI;\n\nHttpClient client = HttpClient.newHttpClient();\nHttpRequest request = HttpRequest.newBuilder()\n    .uri(URI.create(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\"))\n    .build();\nHttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());\nSystem.out.println(response.statusCode());\n\nWith the JSON text in hand, parse it. Using Jackson's ObjectMapper you can bind the response to a plain Java class whose fields mirror the JSON keys, or read it into a generic tree of JsonNode objects when you only need a few values. Gson works similarly through its fromJson method and mapping classes.\n\nCheck response.statusCode() before parsing so a 404 does not lead to a confusing parse error. For asynchronous work, HttpClient also offers sendAsync, which returns a CompletableFuture you can chain, letting you fetch several endpoints without blocking a thread each.\n\nBecause GratisAPI serves complete collections, a single request delivers the full dataset, which you then iterate with ordinary Java loops or streams. The Streams API is a natural fit for filtering and transforming the records. Since the endpoints require no authentication and impose no rate limits, the only setup is choosing a JSON library. Once that is in place, GratisAPI becomes a clean, keyless data source you can wire into anything from a command-line tool to a Spring service.",
+  "word_count": 252,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-java.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "world-tallest-mountains",
+  "title": "The Tallest Mountains on Earth",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-04-05",
+  "tags": [
+    "mountains",
+    "geography"
+  ],
+  "summary": "Earth's highest peaks all rise in Asia, crowned by Mount Everest at 8,849 metres. This article surveys the giants of the Himalayas and beyond.",
+  "body": "The highest mountains on Earth are so tall that their summits reach into the thin air where jet aircraft cruise. All fourteen peaks above 8,000 metres, the so called eight thousanders, are found in Asia, spread across the Himalaya and Karakoram ranges.\n\nMount Everest, straddling the border of Nepal and Tibet, is the highest of them all at 8,849 metres above sea level. It was first climbed in 1953 by Edmund Hillary and Tenzing Norgay, and it remains the ultimate goal for high altitude mountaineers despite its crowds and dangers. K2, on the border of Pakistan and China, is second at 8,611 metres and is considered far more difficult and deadly to climb.\n\nHeight above sea level is only one way to measure a mountain. Measured from base to summit, Mauna Kea in Hawaii is taller than Everest, though most of it lies underwater. Measured by distance from the centre of the Earth, the peak of Chimborazo in Ecuador wins, because the planet bulges at the equator. Each measure tells a different but valid story.\n\nMountains shape climate, culture, and history. They wring rain from passing clouds, feed the great rivers that sustain billions of people downstream, and form natural borders that have divided empires. Many are sacred to the communities living in their shadow.\n\nThe GratisAPI mountains dataset at /api/mountains/index.json lists notable peaks with their heights and locations, making it easy to build comparison charts, quizzes, or geography lessons. Whether you are curious about the eight thousanders or the highest point on your own continent, a clean dataset is the fastest way to start exploring.",
+  "word_count": 266,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-tallest-mountains.json"
+}

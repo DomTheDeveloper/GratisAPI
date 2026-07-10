@@ -1,0 +1,9 @@
+{
+  "id": "windows-95",
+  "name": "Windows 95",
+  "family": "Windows",
+  "first_release_year": 1995,
+  "developer": "Microsoft",
+  "kernel": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-95.json"
+}

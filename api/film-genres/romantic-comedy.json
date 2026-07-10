@@ -1,0 +1,7 @@
+{
+  "id": "romantic-comedy",
+  "name": "Romantic Comedy",
+  "description": "Light-hearted films blending love stories with humor.",
+  "example_film": "When Harry Met Sally",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/romantic-comedy.json"
+}

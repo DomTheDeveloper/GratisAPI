@@ -1,0 +1,7 @@
+{
+  "id": "git-reset",
+  "command": "git reset",
+  "category": "Snapshot",
+  "description": "Unstage files or move the current branch to a different commit, optionally altering the working tree.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-reset.json"
+}

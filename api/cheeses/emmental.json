@@ -1,0 +1,9 @@
+{
+  "id": "emmental",
+  "name": "Emmental",
+  "country_of_origin": "Switzerland",
+  "milk": "Cow",
+  "texture": "Hard",
+  "flavor": "Mild, buttery, and nutty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/emmental.json"
+}

@@ -1,0 +1,149 @@
+{
+  "api": "seven-deadly-sins",
+  "title": "Seven Deadly Sins and Heavenly Virtues",
+  "description": "The seven deadly sins and the seven heavenly virtues that oppose them.",
+  "emoji": "😇",
+  "license": "GPL-2.0-or-later",
+  "count": 14,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "latin",
+    "name",
+    "opposite",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "pride",
+      "name": "Pride",
+      "type": "Sin",
+      "latin": "Superbia",
+      "opposite": "Humility",
+      "description": "Excessive self-esteem and regard for oneself above others, traditionally considered the root of the deadly sins.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/pride.json"
+    },
+    {
+      "id": "greed",
+      "name": "Greed",
+      "type": "Sin",
+      "latin": "Avaritia",
+      "opposite": "Charity",
+      "description": "An excessive desire for material wealth or possessions.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/greed.json"
+    },
+    {
+      "id": "lust",
+      "name": "Lust",
+      "type": "Sin",
+      "latin": "Luxuria",
+      "opposite": "Chastity",
+      "description": "Intense or unrestrained craving, especially for sexual pleasure.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/lust.json"
+    },
+    {
+      "id": "envy",
+      "name": "Envy",
+      "type": "Sin",
+      "latin": "Invidia",
+      "opposite": "Kindness",
+      "description": "Resentful longing for the qualities, possessions, or fortune of others.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/envy.json"
+    },
+    {
+      "id": "gluttony",
+      "name": "Gluttony",
+      "type": "Sin",
+      "latin": "Gula",
+      "opposite": "Temperance",
+      "description": "Overindulgence and overconsumption of food, drink, or other goods.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/gluttony.json"
+    },
+    {
+      "id": "wrath",
+      "name": "Wrath",
+      "type": "Sin",
+      "latin": "Ira",
+      "opposite": "Patience",
+      "description": "Uncontrolled feelings of anger, hatred, and the desire for revenge.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/wrath.json"
+    },
+    {
+      "id": "sloth",
+      "name": "Sloth",
+      "type": "Sin",
+      "latin": "Acedia",
+      "opposite": "Diligence",
+      "description": "Spiritual or physical apathy and the neglect of one's duties.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/sloth.json"
+    },
+    {
+      "id": "humility",
+      "name": "Humility",
+      "type": "Virtue",
+      "latin": "Humilitas",
+      "opposite": "Pride",
+      "description": "Modesty and a lack of excessive pride, valuing others and recognizing one's limits.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/humility.json"
+    },
+    {
+      "id": "charity",
+      "name": "Charity",
+      "type": "Virtue",
+      "latin": "Caritas",
+      "opposite": "Greed",
+      "description": "Selfless love and generosity toward others and toward God.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/charity.json"
+    },
+    {
+      "id": "chastity",
+      "name": "Chastity",
+      "type": "Virtue",
+      "latin": "Castitas",
+      "opposite": "Lust",
+      "description": "Purity and restraint, embracing self-control over one's desires.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/chastity.json"
+    },
+    {
+      "id": "kindness",
+      "name": "Kindness",
+      "type": "Virtue",
+      "latin": "Humanitas",
+      "opposite": "Envy",
+      "description": "Compassion, friendship, and goodwill without prejudice or ill intent.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/kindness.json"
+    },
+    {
+      "id": "temperance",
+      "name": "Temperance",
+      "type": "Virtue",
+      "latin": "Temperantia",
+      "opposite": "Gluttony",
+      "description": "Moderation and self-restraint in appetite and consumption.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/temperance.json"
+    },
+    {
+      "id": "patience",
+      "name": "Patience",
+      "type": "Virtue",
+      "latin": "Patientia",
+      "opposite": "Wrath",
+      "description": "Forbearance, endurance, and the capacity to forgive and show mercy.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/patience.json"
+    },
+    {
+      "id": "diligence",
+      "name": "Diligence",
+      "type": "Virtue",
+      "latin": "Industria",
+      "opposite": "Sloth",
+      "description": "Careful, persistent effort and a strong work ethic in one's duties.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/diligence.json"
+    }
+  ]
+}

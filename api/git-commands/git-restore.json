@@ -1,0 +1,7 @@
+{
+  "id": "git-restore",
+  "command": "git restore",
+  "category": "Snapshot",
+  "description": "Restore working tree files to a previous state or unstage changes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-restore.json"
+}

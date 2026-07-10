@@ -1,0 +1,9 @@
+{
+  "id": "chamomile",
+  "name": "Chamomile",
+  "type": "Herbal",
+  "origin_region": "Europe/Western Asia",
+  "caffeine": "None",
+  "notes": "Dried flowers with an apple-like aroma; calming before sleep.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/chamomile.json"
+}

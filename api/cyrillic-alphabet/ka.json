@@ -1,0 +1,10 @@
+{
+  "id": "ka",
+  "name": "Ka",
+  "uppercase": "К",
+  "lowercase": "к",
+  "transliteration": "k",
+  "sound": "k as in kept",
+  "order": 12,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ka.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "threonine",
+  "name": "Threonine",
+  "three_letter": "Thr",
+  "one_letter": "T",
+  "essential": true,
+  "polarity": "Polar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/threonine.json"
+}

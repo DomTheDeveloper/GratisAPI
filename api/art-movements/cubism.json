@@ -1,0 +1,12 @@
+{
+  "id": "cubism",
+  "name": "Cubism",
+  "period": "1900s-1920s",
+  "origin_region": "France",
+  "key_artists": [
+    "Pablo Picasso",
+    "Georges Braque"
+  ],
+  "description": "Style fragmenting subjects into geometric planes shown from multiple angles.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/cubism.json"
+}

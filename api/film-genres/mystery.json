@@ -1,0 +1,7 @@
+{
+  "id": "mystery",
+  "name": "Mystery",
+  "description": "Films built around solving a crime or uncovering a hidden truth.",
+  "example_film": "Chinatown",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/mystery.json"
+}

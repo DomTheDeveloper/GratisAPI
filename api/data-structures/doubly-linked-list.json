@@ -1,0 +1,10 @@
+{
+  "id": "doubly-linked-list",
+  "name": "Doubly Linked List",
+  "category": "Linear",
+  "access_big_o": "O(n)",
+  "search_big_o": "O(n)",
+  "insert_big_o": "O(1)",
+  "description": "A linked list whose nodes point both to the next and previous nodes, allowing bidirectional traversal.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/doubly-linked-list.json"
+}

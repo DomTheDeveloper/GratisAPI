@@ -1,0 +1,10 @@
+{
+  "id": "counting-sort",
+  "name": "Counting Sort",
+  "best_case": "O(n + k)",
+  "average_case": "O(n + k)",
+  "worst_case": "O(n + k)",
+  "space_complexity": "O(n + k)",
+  "stable": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/counting-sort.json"
+}

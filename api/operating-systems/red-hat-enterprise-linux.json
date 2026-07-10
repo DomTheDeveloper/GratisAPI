@@ -1,0 +1,9 @@
+{
+  "id": "red-hat-enterprise-linux",
+  "name": "Red Hat Enterprise Linux",
+  "family": "Linux",
+  "first_release_year": 2000,
+  "developer": "Red Hat",
+  "kernel": "Linux",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/red-hat-enterprise-linux.json"
+}

@@ -1,0 +1,164 @@
+{
+  "api": "body-systems",
+  "title": "Human Body Systems",
+  "description": "The eleven organ systems of the human body and their primary functions.",
+  "emoji": "🫀",
+  "license": "GPL-2.0-or-later",
+  "count": 11,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/{id}.json"
+  },
+  "fields": [
+    "function",
+    "id",
+    "key_organs",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "integumentary",
+      "name": "Integumentary system",
+      "function": "Protects the body, regulates temperature, and provides sensory information.",
+      "key_organs": [
+        "Skin",
+        "Hair",
+        "Nails",
+        "Sweat glands",
+        "Sebaceous glands"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/integumentary.json"
+    },
+    {
+      "id": "skeletal",
+      "name": "Skeletal system",
+      "function": "Supports the body, protects organs, enables movement, and produces blood cells.",
+      "key_organs": [
+        "Bones",
+        "Cartilage",
+        "Ligaments",
+        "Bone marrow"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/skeletal.json"
+    },
+    {
+      "id": "muscular",
+      "name": "Muscular system",
+      "function": "Produces movement, maintains posture, and generates body heat.",
+      "key_organs": [
+        "Skeletal muscles",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Tendons"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/muscular.json"
+    },
+    {
+      "id": "nervous",
+      "name": "Nervous system",
+      "function": "Detects stimuli and coordinates rapid responses throughout the body.",
+      "key_organs": [
+        "Brain",
+        "Spinal cord",
+        "Nerves",
+        "Sensory organs"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/nervous.json"
+    },
+    {
+      "id": "endocrine",
+      "name": "Endocrine system",
+      "function": "Regulates body processes through hormones secreted into the bloodstream.",
+      "key_organs": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal glands",
+        "Pancreas",
+        "Ovaries",
+        "Testes"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/endocrine.json"
+    },
+    {
+      "id": "cardiovascular",
+      "name": "Cardiovascular system",
+      "function": "Circulates blood to transport oxygen, nutrients, and waste products.",
+      "key_organs": [
+        "Heart",
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Blood"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/cardiovascular.json"
+    },
+    {
+      "id": "lymphatic",
+      "name": "Lymphatic system",
+      "function": "Returns fluid to the blood and defends the body against infection.",
+      "key_organs": [
+        "Lymph nodes",
+        "Lymph vessels",
+        "Spleen",
+        "Thymus",
+        "Tonsils"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/lymphatic.json"
+    },
+    {
+      "id": "respiratory",
+      "name": "Respiratory system",
+      "function": "Exchanges oxygen and carbon dioxide between the air and the blood.",
+      "key_organs": [
+        "Nose",
+        "Trachea",
+        "Bronchi",
+        "Lungs",
+        "Diaphragm"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/respiratory.json"
+    },
+    {
+      "id": "digestive",
+      "name": "Digestive system",
+      "function": "Breaks down food, absorbs nutrients, and eliminates solid waste.",
+      "key_organs": [
+        "Mouth",
+        "Esophagus",
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Liver",
+        "Pancreas"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/digestive.json"
+    },
+    {
+      "id": "urinary",
+      "name": "Urinary system",
+      "function": "Filters blood, removes waste, and regulates water and electrolyte balance.",
+      "key_organs": [
+        "Kidneys",
+        "Ureters",
+        "Bladder",
+        "Urethra"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/urinary.json"
+    },
+    {
+      "id": "reproductive",
+      "name": "Reproductive system",
+      "function": "Produces gametes and hormones and enables the creation of offspring.",
+      "key_organs": [
+        "Ovaries",
+        "Uterus",
+        "Testes",
+        "Prostate",
+        "Penis",
+        "Vagina"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/reproductive.json"
+    }
+  ]
+}

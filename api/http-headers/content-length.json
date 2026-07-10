@@ -1,0 +1,8 @@
+{
+  "id": "content-length",
+  "header": "Content-Length",
+  "type": "Both",
+  "description": "The size of the message body, in bytes.",
+  "example": "348",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-length.json"
+}

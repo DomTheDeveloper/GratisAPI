@@ -1,0 +1,248 @@
+{
+  "api": "galaxies",
+  "title": "Notable Galaxies",
+  "description": "A collection of notable galaxies with their type, location, and distance from Earth.",
+  "emoji": "🌌",
+  "license": "GPL-2.0-or-later",
+  "count": 25,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/{id}.json"
+  },
+  "fields": [
+    "constellation",
+    "distance_mly",
+    "id",
+    "name",
+    "notes",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "milky-way",
+      "name": "Milky Way",
+      "type": "Spiral",
+      "constellation": null,
+      "distance_mly": 0,
+      "notes": "The barred spiral galaxy that contains our Solar System.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/milky-way.json"
+    },
+    {
+      "id": "andromeda",
+      "name": "Andromeda Galaxy (M31)",
+      "type": "Spiral",
+      "constellation": "Andromeda",
+      "distance_mly": 2.5,
+      "notes": "Nearest large galaxy to the Milky Way; on a collision course with it.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/andromeda.json"
+    },
+    {
+      "id": "triangulum",
+      "name": "Triangulum Galaxy (M33)",
+      "type": "Spiral",
+      "constellation": "Triangulum",
+      "distance_mly": 2.7,
+      "notes": "Third-largest member of the Local Group.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/triangulum.json"
+    },
+    {
+      "id": "large-magellanic-cloud",
+      "name": "Large Magellanic Cloud",
+      "type": "Irregular",
+      "constellation": "Dorado",
+      "distance_mly": 0.163,
+      "notes": "A satellite galaxy of the Milky Way visible from the Southern Hemisphere.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/large-magellanic-cloud.json"
+    },
+    {
+      "id": "small-magellanic-cloud",
+      "name": "Small Magellanic Cloud",
+      "type": "Dwarf",
+      "constellation": "Tucana",
+      "distance_mly": 0.2,
+      "notes": "A dwarf satellite galaxy of the Milky Way.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/small-magellanic-cloud.json"
+    },
+    {
+      "id": "whirlpool",
+      "name": "Whirlpool Galaxy (M51)",
+      "type": "Spiral",
+      "constellation": "Canes Venatici",
+      "distance_mly": 31,
+      "notes": "A grand-design spiral interacting with companion galaxy NGC 5195.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/whirlpool.json"
+    },
+    {
+      "id": "sombrero",
+      "name": "Sombrero Galaxy (M104)",
+      "type": "Lenticular",
+      "constellation": "Virgo",
+      "distance_mly": 29,
+      "notes": "Noted for its bright nucleus and prominent dust lane.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/sombrero.json"
+    },
+    {
+      "id": "pinwheel",
+      "name": "Pinwheel Galaxy (M101)",
+      "type": "Spiral",
+      "constellation": "Ursa Major",
+      "distance_mly": 21,
+      "notes": "A large face-on spiral galaxy.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/pinwheel.json"
+    },
+    {
+      "id": "centaurus-a",
+      "name": "Centaurus A (NGC 5128)",
+      "type": "Lenticular",
+      "constellation": "Centaurus",
+      "distance_mly": 13,
+      "notes": "One of the closest radio galaxies to Earth.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/centaurus-a.json"
+    },
+    {
+      "id": "messier-87",
+      "name": "Messier 87 (M87)",
+      "type": "Elliptical",
+      "constellation": "Virgo",
+      "distance_mly": 53,
+      "notes": "Supergiant elliptical whose black hole was the first ever imaged.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/messier-87.json"
+    },
+    {
+      "id": "cigar",
+      "name": "Cigar Galaxy (M82)",
+      "type": "Irregular",
+      "constellation": "Ursa Major",
+      "distance_mly": 12,
+      "notes": "A starburst galaxy undergoing intense star formation.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/cigar.json"
+    },
+    {
+      "id": "bodes",
+      "name": "Bode's Galaxy (M81)",
+      "type": "Spiral",
+      "constellation": "Ursa Major",
+      "distance_mly": 12,
+      "notes": "A grand-design spiral galaxy near M82.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/bodes.json"
+    },
+    {
+      "id": "black-eye",
+      "name": "Black Eye Galaxy (M64)",
+      "type": "Spiral",
+      "constellation": "Coma Berenices",
+      "distance_mly": 17,
+      "notes": "Named for the dark band of dust in front of its bright nucleus.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/black-eye.json"
+    },
+    {
+      "id": "sculptor",
+      "name": "Sculptor Galaxy (NGC 253)",
+      "type": "Spiral",
+      "constellation": "Sculptor",
+      "distance_mly": 11,
+      "notes": "A prominent starburst galaxy in the Sculptor Group.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/sculptor.json"
+    },
+    {
+      "id": "sunflower",
+      "name": "Sunflower Galaxy (M63)",
+      "type": "Spiral",
+      "constellation": "Canes Venatici",
+      "distance_mly": 27,
+      "notes": "A flocculent spiral with many short, patchy arms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/sunflower.json"
+    },
+    {
+      "id": "tadpole",
+      "name": "Tadpole Galaxy",
+      "type": "Spiral",
+      "constellation": "Draco",
+      "distance_mly": 420,
+      "notes": "A disrupted barred spiral with a long tidal tail of stars.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/tadpole.json"
+    },
+    {
+      "id": "cartwheel",
+      "name": "Cartwheel Galaxy",
+      "type": "Lenticular",
+      "constellation": "Sculptor",
+      "distance_mly": 500,
+      "notes": "A ring galaxy formed by a high-speed galactic collision.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/cartwheel.json"
+    },
+    {
+      "id": "ngc-1300",
+      "name": "NGC 1300",
+      "type": "Spiral",
+      "constellation": "Eridanus",
+      "distance_mly": 61,
+      "notes": "A prototypical example of a barred spiral galaxy.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-1300.json"
+    },
+    {
+      "id": "hoags-object",
+      "name": "Hoag's Object",
+      "type": "Irregular",
+      "constellation": "Serpens",
+      "distance_mly": 600,
+      "notes": "A rare ring galaxy with a near-perfect ring of stars.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/hoags-object.json"
+    },
+    {
+      "id": "maffei-1",
+      "name": "Maffei 1",
+      "type": "Elliptical",
+      "constellation": "Cassiopeia",
+      "distance_mly": 9.8,
+      "notes": "The nearest giant elliptical galaxy, heavily obscured by the Milky Way.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/maffei-1.json"
+    },
+    {
+      "id": "ngc-1569",
+      "name": "NGC 1569",
+      "type": "Dwarf",
+      "constellation": "Camelopardalis",
+      "distance_mly": 11,
+      "notes": "A dwarf irregular starburst galaxy.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-1569.json"
+    },
+    {
+      "id": "antennae",
+      "name": "Antennae Galaxies",
+      "type": "Irregular",
+      "constellation": "Corvus",
+      "distance_mly": 45,
+      "notes": "A pair of interacting galaxies (NGC 4038/4039) merging together.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/antennae.json"
+    },
+    {
+      "id": "ngc-6822",
+      "name": "Barnard's Galaxy (NGC 6822)",
+      "type": "Irregular",
+      "constellation": "Sagittarius",
+      "distance_mly": 1.6,
+      "notes": "A barred irregular dwarf galaxy in the Local Group.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-6822.json"
+    },
+    {
+      "id": "ic-1101",
+      "name": "IC 1101",
+      "type": "Elliptical",
+      "constellation": "Serpens",
+      "distance_mly": 1045,
+      "notes": "One of the largest known galaxies, a supergiant elliptical.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ic-1101.json"
+    },
+    {
+      "id": "ngc-2903",
+      "name": "NGC 2903",
+      "type": "Spiral",
+      "constellation": "Leo",
+      "distance_mly": 30,
+      "notes": "A bright barred spiral galaxy with active star formation.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-2903.json"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "api": "music-genres",
+  "title": "Music Genres",
+  "description": "Popular music genres with their decade and region of origin and a short description.",
+  "emoji": "🎵",
+  "license": "GPL-2.0-or-later",
+  "count": 36,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "name",
+    "origin_decade",
+    "origin_region"
+  ],
+  "results": [
+    {
+      "id": "blues",
+      "name": "Blues",
+      "origin_decade": "1900s",
+      "origin_region": "Southern United States",
+      "description": "African American folk music built on the twelve-bar form and blue notes, ancestral to jazz and rock.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/blues.json"
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz",
+      "origin_decade": "1910s",
+      "origin_region": "New Orleans, United States",
+      "description": "Improvisation-driven genre blending blues, ragtime, and swing rhythms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/jazz.json"
+    },
+    {
+      "id": "ragtime",
+      "name": "Ragtime",
+      "origin_decade": "1890s",
+      "origin_region": "United States",
+      "description": "Syncopated piano style that predated jazz, popularized by Scott Joplin.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/ragtime.json"
+    },
+    {
+      "id": "gospel",
+      "name": "Gospel",
+      "origin_decade": "1900s",
+      "origin_region": "United States",
+      "description": "Christian devotional music rooted in African American church traditions.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/gospel.json"
+    },
+    {
+      "id": "country",
+      "name": "Country",
+      "origin_decade": "1920s",
+      "origin_region": "Southern United States",
+      "description": "Rural American genre drawing on folk ballads, string bands, and honky-tonk.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/country.json"
+    },
+    {
+      "id": "swing",
+      "name": "Swing",
+      "origin_decade": "1930s",
+      "origin_region": "United States",
+      "description": "Big-band jazz style built for dancing with a strong rhythmic groove.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/swing.json"
+    },
+    {
+      "id": "bluegrass",
+      "name": "Bluegrass",
+      "origin_decade": "1940s",
+      "origin_region": "Appalachia, United States",
+      "description": "Acoustic string-band offshoot of country featuring fast banjo and fiddle.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/bluegrass.json"
+    },
+    {
+      "id": "rhythm-and-blues",
+      "name": "Rhythm and Blues",
+      "origin_decade": "1940s",
+      "origin_region": "United States",
+      "description": "African American popular music combining blues, jazz, and gospel that shaped rock and soul.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/rhythm-and-blues.json"
+    },
+    {
+      "id": "rock-and-roll",
+      "name": "Rock and Roll",
+      "origin_decade": "1950s",
+      "origin_region": "United States",
+      "description": "Backbeat-driven fusion of rhythm and blues and country that launched rock music.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/rock-and-roll.json"
+    },
+    {
+      "id": "soul",
+      "name": "Soul",
+      "origin_decade": "1950s",
+      "origin_region": "United States",
+      "description": "Emotive fusion of gospel and rhythm and blues centered on expressive vocals.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/soul.json"
+    },
+    {
+      "id": "ska",
+      "name": "Ska",
+      "origin_decade": "1950s",
+      "origin_region": "Jamaica",
+      "description": "Upbeat Jamaican genre with offbeat guitar chords that preceded reggae.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/ska.json"
+    },
+    {
+      "id": "surf-rock",
+      "name": "Surf Rock",
+      "origin_decade": "1960s",
+      "origin_region": "California, United States",
+      "description": "Reverb-heavy instrumental rock associated with surfing culture.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/surf-rock.json"
+    },
+    {
+      "id": "motown",
+      "name": "Motown",
+      "origin_decade": "1960s",
+      "origin_region": "Detroit, United States",
+      "description": "Polished soul-pop sound developed by Detroit's Motown Records label.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/motown.json"
+    },
+    {
+      "id": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "origin_decade": "1960s",
+      "origin_region": "United States and United Kingdom",
+      "description": "Experimental rock evoking drug-influenced experiences with distortion and studio effects.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/psychedelic-rock.json"
+    },
+    {
+      "id": "funk",
+      "name": "Funk",
+      "origin_decade": "1960s",
+      "origin_region": "United States",
+      "description": "Rhythmic, groove-based genre emphasizing bass and syncopated drums.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/funk.json"
+    },
+    {
+      "id": "reggae",
+      "name": "Reggae",
+      "origin_decade": "1960s",
+      "origin_region": "Jamaica",
+      "description": "Jamaican genre with offbeat rhythms and socially conscious lyrics.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/reggae.json"
+    },
+    {
+      "id": "folk-rock",
+      "name": "Folk Rock",
+      "origin_decade": "1960s",
+      "origin_region": "United States and United Kingdom",
+      "description": "Fusion of folk songwriting with rock instrumentation and amplification.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/folk-rock.json"
+    },
+    {
+      "id": "heavy-metal",
+      "name": "Heavy Metal",
+      "origin_decade": "1970s",
+      "origin_region": "United Kingdom",
+      "description": "Loud, aggressive rock built on distorted guitars, power, and volume.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/heavy-metal.json"
+    },
+    {
+      "id": "progressive-rock",
+      "name": "Progressive Rock",
+      "origin_decade": "1970s",
+      "origin_region": "United Kingdom",
+      "description": "Ambitious rock incorporating extended forms and classical or jazz complexity.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/progressive-rock.json"
+    },
+    {
+      "id": "punk-rock",
+      "name": "Punk Rock",
+      "origin_decade": "1970s",
+      "origin_region": "United States and United Kingdom",
+      "description": "Fast, stripped-down, anti-establishment rock with a do-it-yourself ethos.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/punk-rock.json"
+    },
+    {
+      "id": "disco",
+      "name": "Disco",
+      "origin_decade": "1970s",
+      "origin_region": "United States",
+      "description": "Dance-floor genre with a steady four-on-the-floor beat and lush production.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/disco.json"
+    },
+    {
+      "id": "hip-hop",
+      "name": "Hip Hop",
+      "origin_decade": "1970s",
+      "origin_region": "Bronx, New York, United States",
+      "description": "Culture and genre built on rapping over beats, sampling, and DJing.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/hip-hop.json"
+    },
+    {
+      "id": "new-wave",
+      "name": "New Wave",
+      "origin_decade": "1970s",
+      "origin_region": "United States and United Kingdom",
+      "description": "Pop-leaning offshoot of punk incorporating synthesizers and quirky style.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/new-wave.json"
+    },
+    {
+      "id": "synth-pop",
+      "name": "Synth-pop",
+      "origin_decade": "1980s",
+      "origin_region": "United Kingdom",
+      "description": "Pop music in which the synthesizer is the dominant instrument.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/synth-pop.json"
+    },
+    {
+      "id": "house",
+      "name": "House",
+      "origin_decade": "1980s",
+      "origin_region": "Chicago, United States",
+      "description": "Repetitive four-on-the-floor electronic dance music born in Chicago clubs.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/house.json"
+    },
+    {
+      "id": "techno",
+      "name": "Techno",
+      "origin_decade": "1980s",
+      "origin_region": "Detroit, United States",
+      "description": "Electronic dance genre built on machine rhythms and futuristic textures.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/techno.json"
+    },
+    {
+      "id": "thrash-metal",
+      "name": "Thrash Metal",
+      "origin_decade": "1980s",
+      "origin_region": "United States",
+      "description": "Fast, aggressive metal subgenre with rapid riffing and intense drumming.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/thrash-metal.json"
+    },
+    {
+      "id": "grunge",
+      "name": "Grunge",
+      "origin_decade": "1980s",
+      "origin_region": "Seattle, United States",
+      "description": "Distorted, angst-ridden fusion of punk and heavy metal from the Pacific Northwest.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/grunge.json"
+    },
+    {
+      "id": "alternative-rock",
+      "name": "Alternative Rock",
+      "origin_decade": "1980s",
+      "origin_region": "United States and United Kingdom",
+      "description": "Broad category of rock existing outside the commercial mainstream.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/alternative-rock.json"
+    },
+    {
+      "id": "grime",
+      "name": "Grime",
+      "origin_decade": "2000s",
+      "origin_region": "London, United Kingdom",
+      "description": "Fast, bass-heavy electronic genre combining UK garage and hip hop.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/grime.json"
+    },
+    {
+      "id": "dubstep",
+      "name": "Dubstep",
+      "origin_decade": "2000s",
+      "origin_region": "London, United Kingdom",
+      "description": "Electronic genre defined by sub-bass, sparse rhythms, and heavy drops.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/dubstep.json"
+    },
+    {
+      "id": "emo",
+      "name": "Emo",
+      "origin_decade": "1980s",
+      "origin_region": "Washington, D.C., United States",
+      "description": "Emotionally expressive offshoot of hardcore punk with confessional lyrics.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/emo.json"
+    },
+    {
+      "id": "trap",
+      "name": "Trap",
+      "origin_decade": "2000s",
+      "origin_region": "Southern United States",
+      "description": "Hip hop subgenre marked by rapid hi-hats, heavy 808 bass, and dark themes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/trap.json"
+    },
+    {
+      "id": "k-pop",
+      "name": "K-pop",
+      "origin_decade": "1990s",
+      "origin_region": "South Korea",
+      "description": "South Korean pop music known for polished production and choreographed groups.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/k-pop.json"
+    },
+    {
+      "id": "afrobeats",
+      "name": "Afrobeats",
+      "origin_decade": "2000s",
+      "origin_region": "West Africa",
+      "description": "Contemporary West African pop blending highlife, hip hop, and dancehall.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/afrobeats.json"
+    },
+    {
+      "id": "classical",
+      "name": "Classical",
+      "origin_decade": null,
+      "origin_region": "Europe",
+      "description": "Formal Western art music tradition spanning centuries of composed works.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/classical.json"
+    }
+  ]
+}

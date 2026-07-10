@@ -1,0 +1,8 @@
+{
+  "id": "tennis",
+  "name": "Tennis",
+  "category": "Summer",
+  "type": "Individual",
+  "first_olympics_year": 1896,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/tennis.json"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "revoke",
+  "keyword": "REVOKE",
+  "category": "DCL",
+  "description": "Removes previously granted privileges from a user or role.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/revoke.json"
+}

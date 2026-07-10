@@ -1,0 +1,9 @@
+{
+  "id": "maasai-mara",
+  "name": "Maasai Mara National Reserve",
+  "country": "Kenya",
+  "established_year": 1961,
+  "area_km2": 1510,
+  "notable_feature": "Big-cat country and northern end of the wildebeest migration.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/maasai-mara.json"
+}

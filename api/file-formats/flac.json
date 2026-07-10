@@ -1,0 +1,8 @@
+{
+  "id": "flac",
+  "extension": ".flac",
+  "name": "Free Lossless Audio Codec",
+  "category": "Audio",
+  "description": "A lossless compressed audio format.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/flac.json"
+}

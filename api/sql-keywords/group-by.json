@@ -1,0 +1,7 @@
+{
+  "id": "group-by",
+  "keyword": "GROUP BY",
+  "category": "Clause",
+  "description": "Groups rows that share values so aggregate functions apply per group.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/group-by.json"
+}

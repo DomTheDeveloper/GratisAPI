@@ -1,0 +1,7 @@
+{
+  "id": "film-noir",
+  "name": "Film Noir",
+  "description": "Stylized crime dramas marked by moral ambiguity and shadowy visuals.",
+  "example_film": "Double Indemnity",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/film-noir.json"
+}

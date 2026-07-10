@@ -1,0 +1,9 @@
+{
+  "id": "zhurong",
+  "name": "Zhurong",
+  "agency": "CNSA",
+  "launch_year": 2020,
+  "status": "Inactive",
+  "mission": "China's first Mars rover, part of the Tianwen-1 mission.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/zhurong.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mediterranean",
+  "name": "Mediterranean (Chaparral)",
+  "climate": "Hot dry summers and mild wet winters",
+  "avg_rainfall_mm": 500,
+  "example_regions": "California, Mediterranean Basin, central Chile",
+  "dominant_vegetation": "Drought-resistant evergreen shrubs and small trees.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/mediterranean.json"
+}

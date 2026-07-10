@@ -1,0 +1,9 @@
+{
+  "id": "gouda",
+  "name": "Gouda",
+  "country_of_origin": "Netherlands",
+  "milk": "Cow",
+  "texture": "Semi-hard",
+  "flavor": "Sweet, caramel-like, and creamy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gouda.json"
+}

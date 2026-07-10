@@ -1,0 +1,9 @@
+{
+  "id": "arginine",
+  "name": "Arginine",
+  "three_letter": "Arg",
+  "one_letter": "R",
+  "essential": false,
+  "polarity": "Basic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/arginine.json"
+}

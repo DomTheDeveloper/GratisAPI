@@ -1,0 +1,17 @@
+{
+  "id": "howto-react-app",
+  "title": "Using GratisAPI in a React App",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-04-21",
+  "tags": [
+    "react",
+    "javascript",
+    "hooks"
+  ],
+  "summary": "Fetch and render GratisAPI collections inside a React component using useEffect and useState.",
+  "body": "React makes consuming GratisAPI straightforward because the data is static and predictable. The standard approach is to fetch once when a component mounts, store the result in state, and render from that state.\n\nUse the useState hook to hold the data, a loading flag, and any error. Use the useEffect hook to perform the fetch after the first render. Pass an empty dependency array so the request runs only once:\n\nimport { useState, useEffect } from \"react\";\n\nfunction Quotes() {\n  const [quotes, setQuotes] = useState([]);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    fetch(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\n      .then(r => r.json())\n      .then(data => { setQuotes(data.quotes); setLoading(false); })\n      .catch(() => setLoading(false));\n  }, []);\n\n  if (loading) return <p>Loading...</p>;\n  return <ul>{quotes.map(q => <li key={q.id}>{q.text}</li>)}</ul>;\n}\n\nA couple of details make this robust. Always provide a stable key prop, and GratisAPI records include an id field that is ideal for this. Keep a loading state so the interface does not flash empty content while the request is in flight, and handle errors so a network hiccup does not leave the user staring at a blank screen.\n\nBecause GratisAPI returns entire datasets in a single file, you rarely need to re-fetch. Load the collection once, then filter, sort, or paginate in memory using ordinary array methods and additional state. For larger apps you might move the fetch into a custom hook such as useGratisAPI, or into a data library like React Query that adds caching and revalidation for free. Either way, the underlying request stays a simple, keyless GET against a static JSON file.",
+  "word_count": 255,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-react-app.json"
+}

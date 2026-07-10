@@ -1,0 +1,9 @@
+{
+  "id": "rosetta",
+  "name": "Rosetta",
+  "agency": "ESA",
+  "launch_year": 2004,
+  "type": "Probe",
+  "achievement": "First mission to orbit a comet and land a probe on it.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/rosetta.json"
+}

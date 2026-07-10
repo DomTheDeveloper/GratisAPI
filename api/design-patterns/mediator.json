@@ -1,0 +1,7 @@
+{
+  "id": "mediator",
+  "name": "Mediator",
+  "category": "Behavioral",
+  "description": "Defines an object that encapsulates how a set of objects interact, promoting loose coupling.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/mediator.json"
+}

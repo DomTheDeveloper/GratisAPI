@@ -1,0 +1,8 @@
+{
+  "id": "prostate",
+  "name": "Prostate gland",
+  "system": "Reproductive system",
+  "function": "Produces fluid that nourishes and transports sperm.",
+  "location": "Below the male bladder",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/prostate.json"
+}

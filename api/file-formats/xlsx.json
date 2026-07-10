@@ -1,0 +1,8 @@
+{
+  "id": "xlsx",
+  "extension": ".xlsx",
+  "name": "Microsoft Excel Spreadsheet",
+  "category": "Document",
+  "description": "The default spreadsheet format used by Microsoft Excel.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/xlsx.json"
+}

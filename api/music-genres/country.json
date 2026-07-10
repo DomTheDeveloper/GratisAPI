@@ -1,0 +1,8 @@
+{
+  "id": "country",
+  "name": "Country",
+  "origin_decade": "1920s",
+  "origin_region": "Southern United States",
+  "description": "Rural American genre drawing on folk ballads, string bands, and honky-tonk.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/country.json"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "git-rm",
+  "command": "git rm",
+  "category": "Snapshot",
+  "description": "Remove files from the working tree and the staging area.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-rm.json"
+}

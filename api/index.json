@@ -7,9 +7,17 @@
   "documentation": "https://domthedeveloper.github.io/GratisAPI/docs/",
   "openapi": "https://domthedeveloper.github.io/GratisAPI/openapi.json",
   "source": "https://github.com/DomTheDeveloper/GratisAPI",
-  "api_count": 60,
-  "total_records": 2503,
+  "api_count": 116,
+  "total_records": 3890,
   "apis": [
+    {
+      "api": "articles",
+      "title": "Articles",
+      "description": "Guides, explainers and essays about free data, the APIs and the philosophy behind GratisAPI.",
+      "emoji": "📝",
+      "count": 120,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/index.json"
+    },
     {
       "api": "countries",
       "title": "Countries",
@@ -81,6 +89,30 @@
       "emoji": "💦",
       "count": 16,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/index.json"
+    },
+    {
+      "api": "volcanoes",
+      "title": "Notable Volcanoes",
+      "description": "Famous volcanoes with their type, location, and most recent major eruption.",
+      "emoji": "🌋",
+      "count": 27,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/index.json"
+    },
+    {
+      "api": "national-parks",
+      "title": "National Parks",
+      "description": "Famous national parks worldwide with their location, size, and notable features.",
+      "emoji": "🏞️",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/index.json"
+    },
+    {
+      "api": "tallest-buildings",
+      "title": "Tallest Buildings",
+      "description": "The tallest completed skyscrapers in the world by architectural height.",
+      "emoji": "🏢",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/index.json"
     },
     {
       "api": "currencies",
@@ -187,12 +219,92 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/index.json"
     },
     {
+      "api": "biomes",
+      "title": "Terrestrial Biomes",
+      "description": "The major land biomes with their climate, rainfall, and typical vegetation.",
+      "emoji": "🌍",
+      "count": 12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/index.json"
+    },
+    {
+      "api": "human-bones",
+      "title": "Human Bones",
+      "description": "Notable bones of the human skeleton grouped by body region and bone type.",
+      "emoji": "🦴",
+      "count": 38,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/index.json"
+    },
+    {
+      "api": "human-organs",
+      "title": "Human Organs",
+      "description": "Major organs of the human body, their organ system, function, and location.",
+      "emoji": "🫀",
+      "count": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/index.json"
+    },
+    {
+      "api": "body-systems",
+      "title": "Human Body Systems",
+      "description": "The eleven organ systems of the human body and their primary functions.",
+      "emoji": "🫀",
+      "count": 11,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/index.json"
+    },
+    {
+      "api": "human-senses",
+      "title": "Human Senses",
+      "description": "The human senses, including the classic five plus balance, proprioception, and more.",
+      "emoji": "👁",
+      "count": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/index.json"
+    },
+    {
+      "api": "amino-acids",
+      "title": "Amino Acids",
+      "description": "The twenty standard proteinogenic amino acids with codes, essentiality, and polarity.",
+      "emoji": "🧬",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/index.json"
+    },
+    {
+      "api": "vitamins",
+      "title": "Vitamins",
+      "description": "The 13 essential human vitamins with function, solubility and food sources.",
+      "emoji": "💊",
+      "count": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/index.json"
+    },
+    {
+      "api": "blood-types",
+      "title": "Blood Types",
+      "description": "The eight ABO/Rh blood groups with donor and recipient compatibility.",
+      "emoji": "🩸",
+      "count": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/index.json"
+    },
+    {
       "api": "elements",
       "title": "Chemical Elements",
       "description": "The 118 elements of the periodic table with symbol, atomic number, mass and category.",
       "emoji": "🧪",
       "count": 118,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/elements/index.json"
+    },
+    {
+      "api": "minerals",
+      "title": "Common Minerals",
+      "description": "Common rock-forming and economically important minerals and their properties.",
+      "emoji": "💎",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/index.json"
+    },
+    {
+      "api": "rock-types",
+      "title": "Rock Types",
+      "description": "Common igneous, sedimentary, and metamorphic rocks and their uses.",
+      "emoji": "🪨",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/index.json"
     },
     {
       "api": "physical-constants",
@@ -219,20 +331,28 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/index.json"
     },
     {
-      "api": "vitamins",
-      "title": "Vitamins",
-      "description": "The 13 essential human vitamins with function, solubility and food sources.",
-      "emoji": "💊",
-      "count": 13,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/index.json"
+      "api": "richter-scale",
+      "title": "Richter Scale",
+      "description": "Earthquake magnitude classes from 0 to 10 with effects and frequency.",
+      "emoji": "🌋",
+      "count": 11,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/index.json"
     },
     {
-      "api": "blood-types",
-      "title": "Blood Types",
-      "description": "The eight ABO/Rh blood groups with donor and recipient compatibility.",
-      "emoji": "🩸",
-      "count": 8,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/index.json"
+      "api": "saffir-simpson",
+      "title": "Saffir-Simpson Scale",
+      "description": "Hurricane wind categories with wind speeds, damage, and storm surge.",
+      "emoji": "🌪",
+      "count": 7,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/index.json"
+    },
+    {
+      "api": "fujita-scale",
+      "title": "Enhanced Fujita Scale",
+      "description": "Tornado intensity ratings EF0 to EF5 with wind speeds and damage.",
+      "emoji": "🌪",
+      "count": 6,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/index.json"
     },
     {
       "api": "beaufort-scale",
@@ -241,6 +361,62 @@
       "emoji": "💨",
       "count": 13,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/index.json"
+    },
+    {
+      "api": "mohs-scale",
+      "title": "Mohs Hardness Scale",
+      "description": "Mineral hardness from 1 (talc) to 10 (diamond) with reference minerals.",
+      "emoji": "💎",
+      "count": 10,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/index.json"
+    },
+    {
+      "api": "ph-scale",
+      "title": "pH Scale",
+      "description": "The pH scale from 0 to 14 with an example substance at each value.",
+      "emoji": "🧪",
+      "count": 15,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/index.json"
+    },
+    {
+      "api": "scoville-scale",
+      "title": "Scoville Scale",
+      "description": "Peppers, hot sauces, and extracts ranked by Scoville heat units (SHU).",
+      "emoji": "🌶",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/index.json"
+    },
+    {
+      "api": "uv-index",
+      "title": "UV Index",
+      "description": "WHO UV Index exposure categories with associated risk and protection advice.",
+      "emoji": "☀️",
+      "count": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/index.json"
+    },
+    {
+      "api": "paper-sizes",
+      "title": "Paper Sizes",
+      "description": "ISO 216 A-series and B-series paper sizes with dimensions in millimetres.",
+      "emoji": "📄",
+      "count": 22,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/index.json"
+    },
+    {
+      "api": "cooking-measurements",
+      "title": "Cooking Measurements",
+      "description": "Common cooking measurement units with volume (ml) and weight (g) conversions.",
+      "emoji": "🥄",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/index.json"
+    },
+    {
+      "api": "number-bases",
+      "title": "Number Bases",
+      "description": "Common numeral systems and positional number bases with their digit sets.",
+      "emoji": "🔢",
+      "count": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/index.json"
     },
     {
       "api": "planets",
@@ -275,12 +451,60 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/index.json"
     },
     {
+      "api": "galaxies",
+      "title": "Notable Galaxies",
+      "description": "A collection of notable galaxies with their type, location, and distance from Earth.",
+      "emoji": "🌌",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/index.json"
+    },
+    {
+      "api": "space-agencies",
+      "title": "Space Agencies",
+      "description": "National and international space agencies with their founding year and headquarters.",
+      "emoji": "🛰️",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/index.json"
+    },
+    {
+      "api": "space-missions",
+      "title": "Landmark Space Missions",
+      "description": "Landmark space missions with their agency, launch year, type, and key achievement.",
+      "emoji": "🚀",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/index.json"
+    },
+    {
+      "api": "mars-rovers",
+      "title": "Mars Rovers and Landers",
+      "description": "Mars rovers and notable landers with their agency, launch year, and mission status.",
+      "emoji": "🔴",
+      "count": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/index.json"
+    },
+    {
+      "api": "telescopes",
+      "title": "Famous Telescopes and Observatories",
+      "description": "Famous space and ground-based telescopes with their location, wavelength, and first light year.",
+      "emoji": "🔭",
+      "count": 15,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/index.json"
+    },
+    {
       "api": "zodiac",
       "title": "Zodiac",
       "description": "The twelve signs of the Western zodiac with dates, elements and symbols.",
       "emoji": "♌",
       "count": 12,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/index.json"
+    },
+    {
+      "api": "cloud-types",
+      "title": "Cloud Types",
+      "description": "The principal cloud genera classified by altitude and appearance.",
+      "emoji": "☁️",
+      "count": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/index.json"
     },
     {
       "api": "http-status",
@@ -297,6 +521,14 @@
       "emoji": "🔗",
       "count": 9,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/index.json"
+    },
+    {
+      "api": "http-headers",
+      "title": "HTTP Headers",
+      "description": "Common HTTP request and response headers and their purpose.",
+      "emoji": "📨",
+      "count": 36,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/index.json"
     },
     {
       "api": "mime-types",
@@ -323,6 +555,22 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/index.json"
     },
     {
+      "api": "operating-systems",
+      "title": "Operating Systems",
+      "description": "Notable operating systems with their family, developer, and kernel.",
+      "emoji": "💻",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/index.json"
+    },
+    {
+      "api": "file-formats",
+      "title": "File Formats",
+      "description": "Common file formats identified by extension and category.",
+      "emoji": "📁",
+      "count": 38,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/index.json"
+    },
+    {
       "api": "ascii",
       "title": "Printable ASCII Table",
       "description": "The printable ASCII characters from decimal 32 to 126 with their numeric representations.",
@@ -331,12 +579,108 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/index.json"
     },
     {
+      "api": "css-units",
+      "title": "CSS Units",
+      "description": "CSS units for length, angle, time, and viewport measurements.",
+      "emoji": "📐",
+      "count": 21,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/index.json"
+    },
+    {
+      "api": "sql-keywords",
+      "title": "SQL Keywords",
+      "description": "Common SQL keywords and clauses grouped by language category.",
+      "emoji": "🗄",
+      "count": 36,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/index.json"
+    },
+    {
+      "api": "data-structures",
+      "title": "Data Structures",
+      "description": "Fundamental computer science data structures with their average-case time complexities.",
+      "emoji": "🧠",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/index.json"
+    },
+    {
+      "api": "sorting-algorithms",
+      "title": "Sorting Algorithms",
+      "description": "Well-known comparison and non-comparison sorting algorithms with their complexity and stability.",
+      "emoji": "🔣",
+      "count": 16,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/index.json"
+    },
+    {
+      "api": "design-patterns",
+      "title": "Design Patterns",
+      "description": "The 23 classic Gang of Four object-oriented software design patterns.",
+      "emoji": "🧩",
+      "count": 23,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/index.json"
+    },
+    {
+      "api": "git-commands",
+      "title": "Git Commands",
+      "description": "Common Git version control commands grouped by workflow stage.",
+      "emoji": "🔀",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/index.json"
+    },
+    {
+      "api": "logic-gates",
+      "title": "Logic Gates",
+      "description": "The fundamental digital logic gates with their symbols, truth tables, and Boolean expressions.",
+      "emoji": "🔌",
+      "count": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/logic-gates/index.json"
+    },
+    {
       "api": "greek-alphabet",
       "title": "Greek Alphabet",
       "description": "The 24 letters of the Greek alphabet with transliteration and numeric value.",
       "emoji": "🇬🇷",
       "count": 24,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/index.json"
+    },
+    {
+      "api": "cyrillic-alphabet",
+      "title": "Cyrillic Alphabet",
+      "description": "The 33 letters of the modern Russian Cyrillic alphabet with transliteration and sound.",
+      "emoji": "🇷🇺",
+      "count": 33,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/index.json"
+    },
+    {
+      "api": "hebrew-alphabet",
+      "title": "Hebrew Alphabet",
+      "description": "The 22 letters of the Hebrew alphabet with transliteration and numeric (gematria) value.",
+      "emoji": "🇮🇱",
+      "count": 22,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/index.json"
+    },
+    {
+      "api": "hiragana",
+      "title": "Hiragana",
+      "description": "The 46 basic hiragana characters of the Japanese syllabary with romaji.",
+      "emoji": "🇯🇵",
+      "count": 46,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/index.json"
+    },
+    {
+      "api": "katakana",
+      "title": "Katakana",
+      "description": "The 46 basic katakana characters of the Japanese syllabary with romaji.",
+      "emoji": "🇯🇵",
+      "count": 46,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/index.json"
+    },
+    {
+      "api": "braille",
+      "title": "Braille Alphabet",
+      "description": "Braille dot patterns for the 26 letters A-Z of the English alphabet.",
+      "emoji": "⠃",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/braille/index.json"
     },
     {
       "api": "nato-alphabet",
@@ -387,6 +731,14 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/index.json"
     },
     {
+      "api": "roman-gods",
+      "title": "Roman Gods",
+      "description": "Major deities of ancient Roman religion with their Greek equivalents.",
+      "emoji": "🏛️",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/index.json"
+    },
+    {
       "api": "norse-gods",
       "title": "Norse Gods",
       "description": "Gods and figures of Norse mythology.",
@@ -403,12 +755,44 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/index.json"
     },
     {
+      "api": "hindu-gods",
+      "title": "Hindu Gods",
+      "description": "Major deities of Hinduism with their domains, consorts, and mounts.",
+      "emoji": "🕉️",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/index.json"
+    },
+    {
+      "api": "celtic-gods",
+      "title": "Celtic Gods and Mythological Figures",
+      "description": "Deities and legendary figures from Irish, Welsh, and Gaulish Celtic mythology.",
+      "emoji": "🍀",
+      "count": 18,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/index.json"
+    },
+    {
+      "api": "world-religions",
+      "title": "World Religions",
+      "description": "Major world religions with their origins, regions, and approximate adherent counts.",
+      "emoji": "🛐",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/index.json"
+    },
+    {
       "api": "seven-wonders",
       "title": "Seven Wonders",
       "description": "The Seven Wonders of the Ancient World and the New Seven Wonders.",
       "emoji": "🏛️",
       "count": 14,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/index.json"
+    },
+    {
+      "api": "seven-deadly-sins",
+      "title": "Seven Deadly Sins and Heavenly Virtues",
+      "description": "The seven deadly sins and the seven heavenly virtues that oppose them.",
+      "emoji": "😇",
+      "count": 14,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/index.json"
     },
     {
       "api": "chinese-zodiac",
@@ -451,6 +835,30 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/index.json"
     },
     {
+      "api": "art-movements",
+      "title": "Art Movements",
+      "description": "Major art movements with their period, region of origin, key artists, and a short description.",
+      "emoji": "🎨",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/index.json"
+    },
+    {
+      "api": "music-genres",
+      "title": "Music Genres",
+      "description": "Popular music genres with their decade and region of origin and a short description.",
+      "emoji": "🎵",
+      "count": 36,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/index.json"
+    },
+    {
+      "api": "film-genres",
+      "title": "Film Genres",
+      "description": "Common film genres with a short description and a representative example film.",
+      "emoji": "🎬",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/index.json"
+    },
+    {
       "api": "musical-instruments",
       "title": "Musical Instruments",
       "description": "Common musical instruments with their family, Hornbostel-Sachs classification, and region of origin.",
@@ -459,12 +867,52 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/index.json"
     },
     {
+      "api": "martial-arts",
+      "title": "Martial Arts",
+      "description": "Martial arts from around the world with their country of origin, combat type, and a short description.",
+      "emoji": "🥋",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/index.json"
+    },
+    {
+      "api": "olympic-sports",
+      "title": "Olympic Sports",
+      "description": "Summer and Winter Olympic sports with their category, competition type, and year first contested.",
+      "emoji": "🏅",
+      "count": 43,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/index.json"
+    },
+    {
       "api": "cocktails",
       "title": "Classic Cocktails",
       "description": "Classic cocktails with their base spirit, family, serving glass, and IBA official status.",
       "emoji": "🍸",
       "count": 41,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/index.json"
+    },
+    {
+      "api": "teas",
+      "title": "Types of Tea",
+      "description": "A collection of well-known teas with their type, origin, and caffeine level.",
+      "emoji": "🍵",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/index.json"
+    },
+    {
+      "api": "cheeses",
+      "title": "Cheeses",
+      "description": "A collection of famous cheeses with their country of origin, milk type, texture, and flavor.",
+      "emoji": "🧀",
+      "count": 36,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/index.json"
+    },
+    {
+      "api": "pasta-shapes",
+      "title": "Pasta Shapes",
+      "description": "A collection of Italian pasta shapes with their literal meaning and typical use.",
+      "emoji": "🍝",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/index.json"
     },
     {
       "api": "chess-pieces",

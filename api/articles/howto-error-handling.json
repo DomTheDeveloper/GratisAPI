@@ -1,0 +1,17 @@
+{
+  "id": "howto-error-handling",
+  "title": "Handling Errors and Missing Records Gracefully",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-10-30",
+  "tags": [
+    "javascript",
+    "errors",
+    "reliability"
+  ],
+  "summary": "Write defensive code that survives network failures, missing endpoints, and absent fields when consuming GratisAPI.",
+  "body": "Even a keyless, rate-limit-free API can fail for reasons outside its control: a dropped connection, a mistyped URL, or a record that lacks a field you expected. Robust code anticipates these cases rather than assuming every request succeeds.\n\nStart with the request itself. In the browser, fetch does not reject on HTTP error statuses, so always check response.ok before parsing. A request for a nonexistent endpoint, such as a misspelled collection name, returns a 404 that fetch happily resolves:\n\nconst res = await fetch(url);\nif (!res.ok) {\n  throw new Error(`Request failed with status ${res.status}`);\n}\nconst data = await res.json();\n\nWrap the whole thing in try/catch so both network errors and JSON parse failures are handled in one place. Show the user a clear fallback message instead of leaving the interface blank or broken.\n\nNext, guard against missing records. When you fetch a single item by id, the file may not exist if the id is wrong, which again surfaces as a 404. Treat that as a distinct case and tell the user the record was not found rather than showing an error meant for real failures.\n\nFinally, be defensive about individual fields. Even within a valid collection, do not assume every record has every property. Use optional chaining and sensible defaults, for example record?.author ?? \"Unknown\", so a single incomplete entry does not crash your rendering loop. When iterating, skip or flag records that fail validation instead of letting one bad item break the whole page.\n\nA good pattern is a small wrapper function that performs the fetch, checks the status, parses the body, and returns either the data or a clear error object your calling code can branch on. Centralizing this logic keeps every call site clean and consistent. Because GratisAPI is simple and stable, these safeguards are lightweight, but they turn a fragile demo into something you can ship with confidence.",
+  "word_count": 314,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-error-handling.json"
+}

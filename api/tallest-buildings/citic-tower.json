@@ -1,0 +1,10 @@
+{
+  "id": "citic-tower",
+  "name": "CITIC Tower (China Zun)",
+  "city": "Beijing",
+  "country": "China",
+  "height_m": 528,
+  "floors": 109,
+  "completed_year": 2018,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/citic-tower.json"
+}

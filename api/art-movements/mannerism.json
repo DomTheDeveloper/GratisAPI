@@ -1,0 +1,13 @@
+{
+  "id": "mannerism",
+  "name": "Mannerism",
+  "period": "1520s-1600s",
+  "origin_region": "Italy",
+  "key_artists": [
+    "El Greco",
+    "Parmigianino",
+    "Pontormo"
+  ],
+  "description": "Late Renaissance style marked by elongated figures and artificial elegance.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/mannerism.json"
+}

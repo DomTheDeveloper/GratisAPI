@@ -1,0 +1,9 @@
+{
+  "id": "ricotta",
+  "name": "Ricotta",
+  "country_of_origin": "Italy",
+  "milk": "Cow",
+  "texture": "Soft",
+  "flavor": "Mild, sweet, and creamy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/ricotta.json"
+}

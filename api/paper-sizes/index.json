@@ -1,0 +1,198 @@
+{
+  "api": "paper-sizes",
+  "title": "Paper Sizes",
+  "description": "ISO 216 A-series and B-series paper sizes with dimensions in millimetres.",
+  "emoji": "📄",
+  "license": "GPL-2.0-or-later",
+  "count": 22,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/{id}.json"
+  },
+  "fields": [
+    "height_mm",
+    "id",
+    "name",
+    "series",
+    "width_mm"
+  ],
+  "results": [
+    {
+      "id": "A0",
+      "name": "A0",
+      "series": "A",
+      "width_mm": 841,
+      "height_mm": 1189,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A0.json"
+    },
+    {
+      "id": "A1",
+      "name": "A1",
+      "series": "A",
+      "width_mm": 594,
+      "height_mm": 841,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A1.json"
+    },
+    {
+      "id": "A2",
+      "name": "A2",
+      "series": "A",
+      "width_mm": 420,
+      "height_mm": 594,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A2.json"
+    },
+    {
+      "id": "A3",
+      "name": "A3",
+      "series": "A",
+      "width_mm": 297,
+      "height_mm": 420,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A3.json"
+    },
+    {
+      "id": "A4",
+      "name": "A4",
+      "series": "A",
+      "width_mm": 210,
+      "height_mm": 297,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A4.json"
+    },
+    {
+      "id": "A5",
+      "name": "A5",
+      "series": "A",
+      "width_mm": 148,
+      "height_mm": 210,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A5.json"
+    },
+    {
+      "id": "A6",
+      "name": "A6",
+      "series": "A",
+      "width_mm": 105,
+      "height_mm": 148,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A6.json"
+    },
+    {
+      "id": "A7",
+      "name": "A7",
+      "series": "A",
+      "width_mm": 74,
+      "height_mm": 105,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A7.json"
+    },
+    {
+      "id": "A8",
+      "name": "A8",
+      "series": "A",
+      "width_mm": 52,
+      "height_mm": 74,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A8.json"
+    },
+    {
+      "id": "A9",
+      "name": "A9",
+      "series": "A",
+      "width_mm": 37,
+      "height_mm": 52,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A9.json"
+    },
+    {
+      "id": "A10",
+      "name": "A10",
+      "series": "A",
+      "width_mm": 26,
+      "height_mm": 37,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/A10.json"
+    },
+    {
+      "id": "B0",
+      "name": "B0",
+      "series": "B",
+      "width_mm": 1000,
+      "height_mm": 1414,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B0.json"
+    },
+    {
+      "id": "B1",
+      "name": "B1",
+      "series": "B",
+      "width_mm": 707,
+      "height_mm": 1000,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B1.json"
+    },
+    {
+      "id": "B2",
+      "name": "B2",
+      "series": "B",
+      "width_mm": 500,
+      "height_mm": 707,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B2.json"
+    },
+    {
+      "id": "B3",
+      "name": "B3",
+      "series": "B",
+      "width_mm": 353,
+      "height_mm": 500,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B3.json"
+    },
+    {
+      "id": "B4",
+      "name": "B4",
+      "series": "B",
+      "width_mm": 250,
+      "height_mm": 353,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B4.json"
+    },
+    {
+      "id": "B5",
+      "name": "B5",
+      "series": "B",
+      "width_mm": 176,
+      "height_mm": 250,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B5.json"
+    },
+    {
+      "id": "B6",
+      "name": "B6",
+      "series": "B",
+      "width_mm": 125,
+      "height_mm": 176,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B6.json"
+    },
+    {
+      "id": "B7",
+      "name": "B7",
+      "series": "B",
+      "width_mm": 88,
+      "height_mm": 125,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B7.json"
+    },
+    {
+      "id": "B8",
+      "name": "B8",
+      "series": "B",
+      "width_mm": 62,
+      "height_mm": 88,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B8.json"
+    },
+    {
+      "id": "B9",
+      "name": "B9",
+      "series": "B",
+      "width_mm": 44,
+      "height_mm": 62,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B9.json"
+    },
+    {
+      "id": "B10",
+      "name": "B10",
+      "series": "B",
+      "width_mm": 31,
+      "height_mm": 44,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/paper-sizes/B10.json"
+    }
+  ]
+}

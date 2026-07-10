@@ -1,0 +1,70 @@
+{
+  "api": "fujita-scale",
+  "title": "Enhanced Fujita Scale",
+  "description": "Tornado intensity ratings EF0 to EF5 with wind speeds and damage.",
+  "emoji": "🌪",
+  "license": "GPL-2.0-or-later",
+  "count": 6,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/{id}.json"
+  },
+  "fields": [
+    "damage_description",
+    "id",
+    "scale",
+    "wind_kmh_max",
+    "wind_kmh_min"
+  ],
+  "results": [
+    {
+      "id": "ef0",
+      "scale": "EF0",
+      "wind_kmh_min": 105,
+      "wind_kmh_max": 137,
+      "damage_description": "Minor damage; peeled roof surfaces, broken tree branches.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef0.json"
+    },
+    {
+      "id": "ef1",
+      "scale": "EF1",
+      "wind_kmh_min": 138,
+      "wind_kmh_max": 177,
+      "damage_description": "Moderate damage; roofs stripped, mobile homes overturned.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef1.json"
+    },
+    {
+      "id": "ef2",
+      "scale": "EF2",
+      "wind_kmh_min": 178,
+      "wind_kmh_max": 217,
+      "damage_description": "Considerable damage; roofs torn off, large trees snapped.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef2.json"
+    },
+    {
+      "id": "ef3",
+      "scale": "EF3",
+      "wind_kmh_min": 218,
+      "wind_kmh_max": 266,
+      "damage_description": "Severe damage; entire stories of well-built houses destroyed.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef3.json"
+    },
+    {
+      "id": "ef4",
+      "scale": "EF4",
+      "wind_kmh_min": 267,
+      "wind_kmh_max": 322,
+      "damage_description": "Devastating damage; well-built houses leveled.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef4.json"
+    },
+    {
+      "id": "ef5",
+      "scale": "EF5",
+      "wind_kmh_min": 323,
+      "wind_kmh_max": null,
+      "damage_description": "Incredible damage; strong houses swept away, cars thrown far.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef5.json"
+    }
+  ]
+}

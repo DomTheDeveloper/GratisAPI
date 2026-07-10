@@ -1,0 +1,7 @@
+{
+  "id": "coming-of-age",
+  "name": "Coming-of-Age",
+  "description": "Films tracing a young protagonist's growth into maturity.",
+  "example_film": "Stand by Me",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/coming-of-age.json"
+}

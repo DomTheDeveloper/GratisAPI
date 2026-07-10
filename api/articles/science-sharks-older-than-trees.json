@@ -1,0 +1,17 @@
+{
+  "id": "science-sharks-older-than-trees",
+  "title": "Sharks: Older Than Trees",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-04-15",
+  "tags": [
+    "biology",
+    "sharks",
+    "evolution"
+  ],
+  "summary": "Sharks have patrolled the oceans for over 400 million years, predating trees, dinosaurs, and even the rings of Saturn.",
+  "body": "Sharks are among the most ancient animals still living today. Their lineage stretches back more than 400 million years, which means sharks were already swimming the seas long before the first trees took root on land. They predate the dinosaurs by roughly 200 million years and have survived every one of Earth's major mass extinctions.\n\nWhat makes sharks so distinctive is their skeleton. Unlike the bony fish that dominate the oceans, sharks belong to a group called cartilaginous fish, whose skeletons are made of cartilage, the same flexible tissue found in the human nose and ears. Cartilage is lighter and more flexible than bone, helping sharks stay buoyant and maneuverable without the heavy skeleton other fish carry. Their skin is covered in tiny tooth like scales that reduce drag as they glide through the water.\n\nSharks are superbly equipped predators. Many species continuously grow and shed teeth throughout their lives, replacing lost ones from rows waiting behind the front teeth, so a single shark may go through thousands of teeth. They possess an extraordinary sense of smell and can detect the faint electric fields produced by the muscles of hidden prey through special organs in their snouts.\n\nDespite their fearsome reputation, the more than 500 known species of sharks are wonderfully varied. They range from the dwarf lantern shark small enough to hold in one hand to the whale shark, the largest fish in the world, which is a gentle giant that filters tiny plankton from the water. Most sharks pose no threat to people at all.\n\nSadly, many shark populations are now in decline due to overfishing. You can explore different shark species and their characteristics through the GratisAPI endpoint at /api/sharks/index.json.",
+  "word_count": 283,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-sharks-older-than-trees.json"
+}

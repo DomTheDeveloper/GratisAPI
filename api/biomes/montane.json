@@ -1,0 +1,9 @@
+{
+  "id": "montane",
+  "name": "Montane (Alpine)",
+  "climate": "Cold temperatures decreasing with elevation",
+  "avg_rainfall_mm": 1000,
+  "example_regions": "Andes, Himalayas, Rocky Mountains, Alps",
+  "dominant_vegetation": "Zoned vegetation from forest to alpine meadow and bare rock.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/montane.json"
+}

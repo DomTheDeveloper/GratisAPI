@@ -1,0 +1,203 @@
+{
+  "api": "amino-acids",
+  "title": "Amino Acids",
+  "description": "The twenty standard proteinogenic amino acids with codes, essentiality, and polarity.",
+  "emoji": "🧬",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/{id}.json"
+  },
+  "fields": [
+    "essential",
+    "id",
+    "name",
+    "one_letter",
+    "polarity",
+    "three_letter"
+  ],
+  "results": [
+    {
+      "id": "alanine",
+      "name": "Alanine",
+      "three_letter": "Ala",
+      "one_letter": "A",
+      "essential": false,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/alanine.json"
+    },
+    {
+      "id": "arginine",
+      "name": "Arginine",
+      "three_letter": "Arg",
+      "one_letter": "R",
+      "essential": false,
+      "polarity": "Basic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/arginine.json"
+    },
+    {
+      "id": "asparagine",
+      "name": "Asparagine",
+      "three_letter": "Asn",
+      "one_letter": "N",
+      "essential": false,
+      "polarity": "Polar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/asparagine.json"
+    },
+    {
+      "id": "aspartic-acid",
+      "name": "Aspartic acid",
+      "three_letter": "Asp",
+      "one_letter": "D",
+      "essential": false,
+      "polarity": "Acidic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/aspartic-acid.json"
+    },
+    {
+      "id": "cysteine",
+      "name": "Cysteine",
+      "three_letter": "Cys",
+      "one_letter": "C",
+      "essential": false,
+      "polarity": "Polar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/cysteine.json"
+    },
+    {
+      "id": "glutamic-acid",
+      "name": "Glutamic acid",
+      "three_letter": "Glu",
+      "one_letter": "E",
+      "essential": false,
+      "polarity": "Acidic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/glutamic-acid.json"
+    },
+    {
+      "id": "glutamine",
+      "name": "Glutamine",
+      "three_letter": "Gln",
+      "one_letter": "Q",
+      "essential": false,
+      "polarity": "Polar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/glutamine.json"
+    },
+    {
+      "id": "glycine",
+      "name": "Glycine",
+      "three_letter": "Gly",
+      "one_letter": "G",
+      "essential": false,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/glycine.json"
+    },
+    {
+      "id": "histidine",
+      "name": "Histidine",
+      "three_letter": "His",
+      "one_letter": "H",
+      "essential": true,
+      "polarity": "Basic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/histidine.json"
+    },
+    {
+      "id": "isoleucine",
+      "name": "Isoleucine",
+      "three_letter": "Ile",
+      "one_letter": "I",
+      "essential": true,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/isoleucine.json"
+    },
+    {
+      "id": "leucine",
+      "name": "Leucine",
+      "three_letter": "Leu",
+      "one_letter": "L",
+      "essential": true,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/leucine.json"
+    },
+    {
+      "id": "lysine",
+      "name": "Lysine",
+      "three_letter": "Lys",
+      "one_letter": "K",
+      "essential": true,
+      "polarity": "Basic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/lysine.json"
+    },
+    {
+      "id": "methionine",
+      "name": "Methionine",
+      "three_letter": "Met",
+      "one_letter": "M",
+      "essential": true,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/methionine.json"
+    },
+    {
+      "id": "phenylalanine",
+      "name": "Phenylalanine",
+      "three_letter": "Phe",
+      "one_letter": "F",
+      "essential": true,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/phenylalanine.json"
+    },
+    {
+      "id": "proline",
+      "name": "Proline",
+      "three_letter": "Pro",
+      "one_letter": "P",
+      "essential": false,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/proline.json"
+    },
+    {
+      "id": "serine",
+      "name": "Serine",
+      "three_letter": "Ser",
+      "one_letter": "S",
+      "essential": false,
+      "polarity": "Polar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/serine.json"
+    },
+    {
+      "id": "threonine",
+      "name": "Threonine",
+      "three_letter": "Thr",
+      "one_letter": "T",
+      "essential": true,
+      "polarity": "Polar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/threonine.json"
+    },
+    {
+      "id": "tryptophan",
+      "name": "Tryptophan",
+      "three_letter": "Trp",
+      "one_letter": "W",
+      "essential": true,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/tryptophan.json"
+    },
+    {
+      "id": "tyrosine",
+      "name": "Tyrosine",
+      "three_letter": "Tyr",
+      "one_letter": "Y",
+      "essential": false,
+      "polarity": "Polar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/tyrosine.json"
+    },
+    {
+      "id": "valine",
+      "name": "Valine",
+      "three_letter": "Val",
+      "one_letter": "V",
+      "essential": true,
+      "polarity": "Nonpolar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/valine.json"
+    }
+  ]
+}

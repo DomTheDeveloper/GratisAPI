@@ -1,0 +1,8 @@
+{
+  "id": "jpg",
+  "extension": ".jpg",
+  "name": "JPEG Image",
+  "category": "Image",
+  "description": "A lossy compressed raster image format common for photographs.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/jpg.json"
+}

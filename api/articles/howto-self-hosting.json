@@ -1,0 +1,17 @@
+{
+  "id": "howto-self-hosting",
+  "title": "Mirroring or Self-Hosting GratisAPI",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2025-02-26",
+  "tags": [
+    "self-hosting",
+    "github-pages",
+    "open-data"
+  ],
+  "summary": "Because GratisAPI is fully open and static, you can clone, mirror, or host your own copy anywhere in minutes.",
+  "body": "GratisAPI is both gratis and libre. The data is licensed under the GPL and the entire project is a collection of static files, which means you are free to mirror it, host your own instance, or fork it and extend it. There is nothing to unlock and no server software to license.\n\nThe simplest mirror is a clone. Clone the repository from GitHub and you have every JSON file locally. Since the API is just static files under an api directory, you can serve that folder with any web server. A one-line command like python3 -m http.server from the project root will serve the files for local development, and your code can point at http://localhost:8000/api/quotes/index.json instead of the public URL.\n\nFor a permanent instance, deploy the static files to any static host: GitHub Pages, GitLab Pages, Netlify, Cloudflare Pages, or an S3 bucket behind a CDN. Because there is no build step required to serve the data and no backend, deployment is simply copying files. Point your host at the api directory and the endpoints work exactly as they do on the original.\n\nWhy self-host? A mirror insulates you from any upstream changes or downtime, gives you full control over caching and custom domains, and lets you add or modify collections for your own needs. If you fork the project, you can add new datasets by dropping in JSON files that follow the same shape, then regenerate the index and OpenAPI spec so your additions are discoverable.\n\nRespect the GPL license when you redistribute: keep the license file and make your source available under the same terms. Beyond that, the project is designed to be copied. The whole point of a gratis, static, open-data API is that no one is locked in. If you depend on GratisAPI in production, running your own mirror is the most reliable way to use it, and it takes only minutes to set up.",
+  "word_count": 319,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-self-hosting.json"
+}

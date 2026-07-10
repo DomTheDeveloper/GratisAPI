@@ -1,0 +1,9 @@
+{
+  "id": "unix",
+  "name": "Unix",
+  "family": "Unix",
+  "first_release_year": 1969,
+  "developer": "Bell Labs",
+  "kernel": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/unix.json"
+}

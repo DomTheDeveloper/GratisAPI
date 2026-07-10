@@ -1,0 +1,230 @@
+{
+  "api": "martial-arts",
+  "title": "Martial Arts",
+  "description": "Martial arts from around the world with their country of origin, combat type, and a short description.",
+  "emoji": "🥋",
+  "license": "GPL-2.0-or-later",
+  "count": 26,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "name",
+    "origin_country",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "karate",
+      "name": "Karate",
+      "origin_country": "Japan",
+      "type": "Striking",
+      "description": "Okinawan striking art using punches, kicks, knee and elbow strikes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/karate.json"
+    },
+    {
+      "id": "judo",
+      "name": "Judo",
+      "origin_country": "Japan",
+      "type": "Grappling",
+      "description": "Modern Japanese art focused on throws and pinning an opponent.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/judo.json"
+    },
+    {
+      "id": "aikido",
+      "name": "Aikido",
+      "origin_country": "Japan",
+      "type": "Grappling",
+      "description": "Defensive art redirecting an attacker's momentum into throws and joint locks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/aikido.json"
+    },
+    {
+      "id": "jujutsu",
+      "name": "Jujutsu",
+      "origin_country": "Japan",
+      "type": "Grappling",
+      "description": "Classical samurai art of close combat using throws, locks, and pins.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/jujutsu.json"
+    },
+    {
+      "id": "sumo",
+      "name": "Sumo",
+      "origin_country": "Japan",
+      "type": "Grappling",
+      "description": "Traditional Japanese wrestling won by forcing an opponent out of the ring.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/sumo.json"
+    },
+    {
+      "id": "kendo",
+      "name": "Kendo",
+      "origin_country": "Japan",
+      "type": "Weapon-based",
+      "description": "Japanese fencing derived from samurai swordsmanship using bamboo swords.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/kendo.json"
+    },
+    {
+      "id": "kyudo",
+      "name": "Kyudo",
+      "origin_country": "Japan",
+      "type": "Weapon-based",
+      "description": "Japanese martial art of archery emphasizing discipline and form.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/kyudo.json"
+    },
+    {
+      "id": "ninjutsu",
+      "name": "Ninjutsu",
+      "origin_country": "Japan",
+      "type": "Hybrid",
+      "description": "Art of the ninja covering stealth, espionage, and unarmed and armed combat.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/ninjutsu.json"
+    },
+    {
+      "id": "kung-fu",
+      "name": "Kung Fu",
+      "origin_country": "China",
+      "type": "Striking",
+      "description": "Broad family of Chinese striking arts encompassing many styles and forms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/kung-fu.json"
+    },
+    {
+      "id": "tai-chi",
+      "name": "Tai Chi",
+      "origin_country": "China",
+      "type": "Striking",
+      "description": "Internal Chinese art of slow flowing movements for health and self-defense.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/tai-chi.json"
+    },
+    {
+      "id": "wing-chun",
+      "name": "Wing Chun",
+      "origin_country": "China",
+      "type": "Striking",
+      "description": "Close-range Chinese style emphasizing rapid hand strikes and centerline control.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/wing-chun.json"
+    },
+    {
+      "id": "taekwondo",
+      "name": "Taekwondo",
+      "origin_country": "South Korea",
+      "type": "Striking",
+      "description": "Korean art known for fast, high, and spinning kicks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/taekwondo.json"
+    },
+    {
+      "id": "hapkido",
+      "name": "Hapkido",
+      "origin_country": "South Korea",
+      "type": "Hybrid",
+      "description": "Korean art blending kicks and strikes with joint locks and throws.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/hapkido.json"
+    },
+    {
+      "id": "taekkyeon",
+      "name": "Taekkyeon",
+      "origin_country": "South Korea",
+      "type": "Striking",
+      "description": "Traditional Korean art with fluid, rhythmic kicking and leg techniques.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/taekkyeon.json"
+    },
+    {
+      "id": "muay-thai",
+      "name": "Muay Thai",
+      "origin_country": "Thailand",
+      "type": "Striking",
+      "description": "The art of eight limbs using fists, elbows, knees, and shins.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/muay-thai.json"
+    },
+    {
+      "id": "pencak-silat",
+      "name": "Pencak Silat",
+      "origin_country": "Indonesia",
+      "type": "Hybrid",
+      "description": "Southeast Asian art combining strikes, grappling, and bladed weapons.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/pencak-silat.json"
+    },
+    {
+      "id": "eskrima",
+      "name": "Eskrima",
+      "origin_country": "Philippines",
+      "type": "Weapon-based",
+      "description": "Filipino martial art centered on sticks, knives, and other bladed weapons.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/eskrima.json"
+    },
+    {
+      "id": "brazilian-jiu-jitsu",
+      "name": "Brazilian Jiu-Jitsu",
+      "origin_country": "Brazil",
+      "type": "Grappling",
+      "description": "Ground-fighting art focused on submissions via joint locks and chokes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/brazilian-jiu-jitsu.json"
+    },
+    {
+      "id": "capoeira",
+      "name": "Capoeira",
+      "origin_country": "Brazil",
+      "type": "Striking",
+      "description": "Afro-Brazilian art blending acrobatic kicks, dance, and music.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/capoeira.json"
+    },
+    {
+      "id": "boxing",
+      "name": "Boxing",
+      "origin_country": "United Kingdom",
+      "type": "Striking",
+      "description": "Combat sport contested with punches thrown by gloved fists.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/boxing.json"
+    },
+    {
+      "id": "savate",
+      "name": "Savate",
+      "origin_country": "France",
+      "type": "Striking",
+      "description": "French kickboxing combining boxing punches with graceful kicks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/savate.json"
+    },
+    {
+      "id": "krav-maga",
+      "name": "Krav Maga",
+      "origin_country": "Israel",
+      "type": "Hybrid",
+      "description": "Practical self-defense system emphasizing efficient counters and threat neutralization.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/krav-maga.json"
+    },
+    {
+      "id": "sambo",
+      "name": "Sambo",
+      "origin_country": "Russia",
+      "type": "Grappling",
+      "description": "Soviet-developed art combining judo and wrestling with submissions.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/sambo.json"
+    },
+    {
+      "id": "wrestling",
+      "name": "Wrestling",
+      "origin_country": "Greece",
+      "type": "Grappling",
+      "description": "Ancient grappling art of takedowns, throws, and pinning an opponent.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/wrestling.json"
+    },
+    {
+      "id": "fencing",
+      "name": "Fencing",
+      "origin_country": "France",
+      "type": "Weapon-based",
+      "description": "European sword-based sport using the foil, épée, and sabre.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/fencing.json"
+    },
+    {
+      "id": "kickboxing",
+      "name": "Kickboxing",
+      "origin_country": "Japan",
+      "type": "Striking",
+      "description": "Hybrid stand-up combat sport combining boxing punches with kicks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/kickboxing.json"
+    }
+  ]
+}

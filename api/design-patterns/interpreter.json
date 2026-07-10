@@ -1,0 +1,7 @@
+{
+  "id": "interpreter",
+  "name": "Interpreter",
+  "category": "Behavioral",
+  "description": "Defines a grammar for a language and an interpreter that uses the representation to interpret sentences in it.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/interpreter.json"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "musical",
+  "name": "Musical",
+  "description": "Films in which song and dance numbers are integral to the narrative.",
+  "example_film": "Singin' in the Rain",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/musical.json"
+}

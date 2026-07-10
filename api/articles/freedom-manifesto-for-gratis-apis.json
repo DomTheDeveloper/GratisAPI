@@ -1,0 +1,17 @@
+{
+  "id": "freedom-manifesto-for-gratis-apis",
+  "title": "A Manifesto for Gratis APIs",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2025-05-28",
+  "tags": [
+    "manifesto",
+    "principles",
+    "gratisapi"
+  ],
+  "summary": "A concise statement of the principles behind GratisAPI: free in both senses, open, private, durable, and built to be trusted.",
+  "body": "This is a short statement of what we believe an open data API should be, and what we are trying to make GratisAPI into. It is a manifesto in the modest sense of a list of principles we are willing to be held to.\n\nAn API should be gratis in earnest. Free should mean free, with no fee, no paid tier hiding the real functionality, and no invoice waiting after a trial. If it costs money, it should say so plainly rather than lure with a zero that later turns positive.\n\nAn API should be libre. The data and the code that produces it should be openly licensed, so anyone may study how it works, change it, run their own copy, and share their version. Freedom that cannot be exercised is only a slogan, so the source must actually be available.\n\nAn API should demand nothing to begin. No key, no account, no email, no credit card. The first request should be possible in a single line, before curiosity cools. Barriers to entry are a tax on the very exploration that makes technology worthwhile.\n\nAn API should not watch you. It should set no trackers, keep no profiles, and forget you as soon as it has answered. What it never collects, it can never leak, sell, or be compelled to reveal. Privacy should be a property of the design, not a promise in a policy.\n\nAn API should be built to last and to be left. Simple, static, cheap to serve, and fully mirrorable, so that it can endure on small means and so that anyone can carry it forward if we falter. The exit door should always be open, because a standing exit is what makes a promise trustworthy.\n\nAnd an API should treat public data as the public good it is, offered like water from a well rather than rented from a landlord. These principles are what GratisAPI aspires to. Where we fall short, the freedoms we grant are your remedy: take the code, and build it better.",
+  "word_count": 340,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-manifesto-for-gratis-apis.json"
+}

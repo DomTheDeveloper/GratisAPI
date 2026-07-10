@@ -1,0 +1,12 @@
+{
+  "id": "de-stijl",
+  "name": "De Stijl",
+  "period": "1910s-1930s",
+  "origin_region": "Netherlands",
+  "key_artists": [
+    "Piet Mondrian",
+    "Theo van Doesburg"
+  ],
+  "description": "Abstraction reduced to straight lines, right angles, and primary colors.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/de-stijl.json"
+}

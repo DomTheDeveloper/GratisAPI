@@ -1,0 +1,8 @@
+{
+  "id": "location",
+  "header": "Location",
+  "type": "Response",
+  "description": "Indicates the URL to redirect to, or the URL of a newly created resource.",
+  "example": "https://example.com/new",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/location.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "quartz",
+  "name": "Quartz",
+  "chemical_formula": "SiO2",
+  "mohs_hardness": 7.0,
+  "color": "Colorless to white, purple, pink, or smoky",
+  "luster": "Vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/quartz.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "reference-what-is-openapi",
+  "title": "What is OpenAPI?",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-09-14",
+  "tags": [
+    "openapi",
+    "api",
+    "documentation"
+  ],
+  "summary": "OpenAPI is a standard format for describing REST APIs in a machine readable document.",
+  "body": "An API is only useful if people know how to call it. Traditionally that knowledge lived in prose documentation, which could drift out of date and be read differently by different developers. OpenAPI solves this by describing an API in a precise, machine readable document.\n\nOpenAPI, formerly known as Swagger, is a specification for writing these descriptions. An OpenAPI document lists every address the API exposes, the methods each one accepts, the parameters it expects, and the shape of the data it returns. It is usually written in JSON or the closely related YAML format, so both humans and programs can read it.\n\nThe value of a machine readable description is that tools can act on it. From a single OpenAPI file, you can automatically generate interactive documentation, client libraries in many languages, request validators, and even mock servers for testing. This removes a great deal of tedious hand work and keeps the description and the real behavior in step.\n\nAn OpenAPI document has a clear structure. It declares the version of the specification, general information about the API, and a collection of paths. Under each path sit the operations, and each operation describes its parameters and its possible responses, including the status codes it may return. Reusable data shapes are defined once and referenced throughout, keeping the document tidy.\n\nGratisAPI ships its own description as an openapi.json file at the root of the project. That single file documents every dataset endpoint, so tools can discover what is available without guessing. It is a practical demonstration of the idea: one authoritative file describing the whole service.\n\nLearning OpenAPI pays off whether you build APIs or consume them. As a producer, you get free documentation and tooling. As a consumer, you get a reliable map of exactly how to talk to a service. In both roles, a good OpenAPI document turns an API from a mystery into a contract you can trust.",
+  "word_count": 321,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-what-is-openapi.json"
+}

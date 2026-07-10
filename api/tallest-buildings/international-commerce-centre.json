@@ -1,0 +1,10 @@
+{
+  "id": "international-commerce-centre",
+  "name": "International Commerce Centre",
+  "city": "Hong Kong",
+  "country": "China",
+  "height_m": 484,
+  "floors": 108,
+  "completed_year": 2010,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/international-commerce-centre.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "xml",
+  "extension": ".xml",
+  "name": "Extensible Markup Language",
+  "category": "Data",
+  "description": "A markup language for structured, machine-readable data.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/xml.json"
+}

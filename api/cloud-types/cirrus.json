@@ -1,0 +1,8 @@
+{
+  "id": "cirrus",
+  "name": "Cirrus",
+  "abbreviation": "Ci",
+  "altitude_level": "High",
+  "description": "Thin, wispy strands of ice crystals often called mare's tails.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cirrus.json"
+}

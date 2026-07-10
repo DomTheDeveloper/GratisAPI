@@ -1,0 +1,8 @@
+{
+  "id": "sumo",
+  "name": "Sumo",
+  "origin_country": "Japan",
+  "type": "Grappling",
+  "description": "Traditional Japanese wrestling won by forcing an opponent out of the ring.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/sumo.json"
+}

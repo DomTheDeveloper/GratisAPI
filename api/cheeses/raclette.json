@@ -1,0 +1,9 @@
+{
+  "id": "raclette",
+  "name": "Raclette",
+  "country_of_origin": "Switzerland",
+  "milk": "Cow",
+  "texture": "Semi-hard",
+  "flavor": "Nutty, savory, and creamy when melted",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/raclette.json"
+}

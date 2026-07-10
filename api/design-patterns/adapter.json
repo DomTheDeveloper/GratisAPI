@@ -1,0 +1,7 @@
+{
+  "id": "adapter",
+  "name": "Adapter",
+  "category": "Structural",
+  "description": "Converts the interface of a class into another interface clients expect, letting incompatible classes work together.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/adapter.json"
+}

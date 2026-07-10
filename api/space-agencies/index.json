@@ -1,0 +1,203 @@
+{
+  "api": "space-agencies",
+  "title": "Space Agencies",
+  "description": "National and international space agencies with their founding year and headquarters.",
+  "emoji": "🛰️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/{id}.json"
+  },
+  "fields": [
+    "abbreviation",
+    "country",
+    "founded_year",
+    "headquarters",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "nasa",
+      "name": "National Aeronautics and Space Administration",
+      "abbreviation": "NASA",
+      "country": "United States",
+      "founded_year": 1958,
+      "headquarters": "Washington, D.C., United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/nasa.json"
+    },
+    {
+      "id": "esa",
+      "name": "European Space Agency",
+      "abbreviation": "ESA",
+      "country": "International",
+      "founded_year": 1975,
+      "headquarters": "Paris, France",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/esa.json"
+    },
+    {
+      "id": "roscosmos",
+      "name": "Roscosmos State Corporation",
+      "abbreviation": "Roscosmos",
+      "country": "Russia",
+      "founded_year": 1992,
+      "headquarters": "Moscow, Russia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/roscosmos.json"
+    },
+    {
+      "id": "cnsa",
+      "name": "China National Space Administration",
+      "abbreviation": "CNSA",
+      "country": "China",
+      "founded_year": 1993,
+      "headquarters": "Beijing, China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/cnsa.json"
+    },
+    {
+      "id": "isro",
+      "name": "Indian Space Research Organisation",
+      "abbreviation": "ISRO",
+      "country": "India",
+      "founded_year": 1969,
+      "headquarters": "Bengaluru, India",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/isro.json"
+    },
+    {
+      "id": "jaxa",
+      "name": "Japan Aerospace Exploration Agency",
+      "abbreviation": "JAXA",
+      "country": "Japan",
+      "founded_year": 2003,
+      "headquarters": "Tokyo, Japan",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/jaxa.json"
+    },
+    {
+      "id": "cnes",
+      "name": "Centre National d'Etudes Spatiales",
+      "abbreviation": "CNES",
+      "country": "France",
+      "founded_year": 1961,
+      "headquarters": "Paris, France",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/cnes.json"
+    },
+    {
+      "id": "dlr",
+      "name": "German Aerospace Center",
+      "abbreviation": "DLR",
+      "country": "Germany",
+      "founded_year": 1969,
+      "headquarters": "Cologne, Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/dlr.json"
+    },
+    {
+      "id": "asi",
+      "name": "Italian Space Agency",
+      "abbreviation": "ASI",
+      "country": "Italy",
+      "founded_year": 1988,
+      "headquarters": "Rome, Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/asi.json"
+    },
+    {
+      "id": "uksa",
+      "name": "UK Space Agency",
+      "abbreviation": "UKSA",
+      "country": "United Kingdom",
+      "founded_year": 2010,
+      "headquarters": "Swindon, United Kingdom",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/uksa.json"
+    },
+    {
+      "id": "csa",
+      "name": "Canadian Space Agency",
+      "abbreviation": "CSA",
+      "country": "Canada",
+      "founded_year": 1990,
+      "headquarters": "Longueuil, Quebec, Canada",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/csa.json"
+    },
+    {
+      "id": "kari",
+      "name": "Korea Aerospace Research Institute",
+      "abbreviation": "KARI",
+      "country": "South Korea",
+      "founded_year": 1989,
+      "headquarters": "Daejeon, South Korea",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/kari.json"
+    },
+    {
+      "id": "aeb",
+      "name": "Brazilian Space Agency",
+      "abbreviation": "AEB",
+      "country": "Brazil",
+      "founded_year": 1994,
+      "headquarters": "Brasilia, Brazil",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/aeb.json"
+    },
+    {
+      "id": "isa",
+      "name": "Israel Space Agency",
+      "abbreviation": "ISA",
+      "country": "Israel",
+      "founded_year": 1983,
+      "headquarters": "Tel Aviv, Israel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/isa.json"
+    },
+    {
+      "id": "spaceil-uae",
+      "name": "UAE Space Agency",
+      "abbreviation": "UAESA",
+      "country": "United Arab Emirates",
+      "founded_year": 2014,
+      "headquarters": "Abu Dhabi, United Arab Emirates",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/spaceil-uae.json"
+    },
+    {
+      "id": "csa-china-alt",
+      "name": "Iranian Space Agency",
+      "abbreviation": "ISA (Iran)",
+      "country": "Iran",
+      "founded_year": 2004,
+      "headquarters": "Tehran, Iran",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/csa-china-alt.json"
+    },
+    {
+      "id": "saudi-space",
+      "name": "Saudi Space Agency",
+      "abbreviation": "SSA",
+      "country": "Saudi Arabia",
+      "founded_year": 2018,
+      "headquarters": "Riyadh, Saudi Arabia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/saudi-space.json"
+    },
+    {
+      "id": "asa",
+      "name": "Australian Space Agency",
+      "abbreviation": "ASA",
+      "country": "Australia",
+      "founded_year": 2018,
+      "headquarters": "Adelaide, Australia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/asa.json"
+    },
+    {
+      "id": "conae",
+      "name": "National Space Activities Commission",
+      "abbreviation": "CONAE",
+      "country": "Argentina",
+      "founded_year": 1991,
+      "headquarters": "Buenos Aires, Argentina",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/conae.json"
+    },
+    {
+      "id": "sansa",
+      "name": "South African National Space Agency",
+      "abbreviation": "SANSA",
+      "country": "South Africa",
+      "founded_year": 2010,
+      "headquarters": "Pretoria, South Africa",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/sansa.json"
+    }
+  ]
+}

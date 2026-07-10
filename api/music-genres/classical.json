@@ -1,0 +1,8 @@
+{
+  "id": "classical",
+  "name": "Classical",
+  "origin_decade": null,
+  "origin_region": "Europe",
+  "description": "Formal Western art music tradition spanning centuries of composed works.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/classical.json"
+}

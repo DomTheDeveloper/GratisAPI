@@ -1,0 +1,9 @@
+{
+  "id": "cheddar",
+  "name": "Cheddar",
+  "country_of_origin": "England",
+  "milk": "Cow",
+  "texture": "Hard",
+  "flavor": "Sharp, tangy, and nutty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/cheddar.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "howto-async-await",
+  "title": "Using async and await with GratisAPI",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-09",
+  "tags": [
+    "javascript",
+    "async",
+    "await"
+  ],
+  "summary": "Rewrite your GratisAPI calls with async/await for flatter, more readable code that handles errors cleanly.",
+  "body": "Promise chains work, but async and await make asynchronous code read like ordinary sequential code. Because GratisAPI endpoints are simple JSON files, they are a perfect place to practice the pattern.\n\nDeclare a function with the async keyword, then use await to pause until each promise settles. Wrap the logic in a try/catch block so that both network failures and parsing problems land in one place:\n\nasync function getColors() {\n  try {\n    const response = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\");\n    if (!response.ok) throw new Error(\"HTTP \" + response.status);\n    const data = await response.json();\n    return data;\n  } catch (error) {\n    console.error(\"Failed to load colors:\", error);\n    return null;\n  }\n}\n\nNotice the response.ok check. The fetch() promise resolves even when the server returns a 404, so without this guard a missing endpoint would slip through and only fail later when you tried to use undefined data. Throwing early keeps your error handling honest.\n\nBecause await unwraps the promise for you, the returned data is a normal JavaScript object you can immediately loop over. If you need to load several endpoints at once, do not await them one after another in a loop, which runs them in series. Instead kick them all off and await Promise.all, so the requests overlap:\n\nconst [colors, quotes] = await Promise.all([getColors(), getQuotes()]);\n\nThis parallel approach matters more as you combine datasets. GratisAPI serves each collection as a complete file, so two endpoints mean two independent downloads that the browser can run concurrently. The result is code that is both easier to read and faster than a naive sequential chain.",
+  "word_count": 258,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-async-await.json"
+}

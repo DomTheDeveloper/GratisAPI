@@ -1,0 +1,8 @@
+{
+  "id": "hearing",
+  "name": "Hearing (audition)",
+  "organ": "Ears",
+  "description": "Detection of sound waves as vibrations in the air.",
+  "type": "Classic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/hearing.json"
+}

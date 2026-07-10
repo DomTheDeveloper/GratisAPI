@@ -1,0 +1,9 @@
+{
+  "id": "proline",
+  "name": "Proline",
+  "three_letter": "Pro",
+  "one_letter": "P",
+  "essential": false,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/proline.json"
+}

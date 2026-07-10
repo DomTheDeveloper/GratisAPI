@@ -1,0 +1,8 @@
+{
+  "id": "lungs",
+  "name": "Lungs",
+  "system": "Respiratory system",
+  "function": "Exchange oxygen and carbon dioxide between air and blood.",
+  "location": "Thoracic cavity, either side of the heart",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/lungs.json"
+}

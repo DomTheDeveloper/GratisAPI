@@ -1,0 +1,9 @@
+{
+  "id": "stilton",
+  "name": "Stilton",
+  "country_of_origin": "England",
+  "milk": "Cow",
+  "texture": "Blue",
+  "flavor": "Rich, tangy, and savory",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/stilton.json"
+}

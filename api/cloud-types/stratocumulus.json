@@ -1,0 +1,8 @@
+{
+  "id": "stratocumulus",
+  "name": "Stratocumulus",
+  "abbreviation": "Sc",
+  "altitude_level": "Low",
+  "description": "Low, lumpy layer of grey or white rounded masses with gaps of clear sky.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/stratocumulus.json"
+}

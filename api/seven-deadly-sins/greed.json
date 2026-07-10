@@ -1,0 +1,9 @@
+{
+  "id": "greed",
+  "name": "Greed",
+  "type": "Sin",
+  "latin": "Avaritia",
+  "opposite": "Charity",
+  "description": "An excessive desire for material wealth or possessions.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/greed.json"
+}

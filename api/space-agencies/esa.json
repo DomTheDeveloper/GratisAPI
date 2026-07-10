@@ -1,0 +1,9 @@
+{
+  "id": "esa",
+  "name": "European Space Agency",
+  "abbreviation": "ESA",
+  "country": "International",
+  "founded_year": 1975,
+  "headquarters": "Paris, France",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/esa.json"
+}

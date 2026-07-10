@@ -1,0 +1,10 @@
+{
+  "id": 9,
+  "unit": "Gallon",
+  "abbreviation": "gal",
+  "type": "Volume",
+  "milliliters": 3785.41,
+  "grams": null,
+  "note": "US gallon; equals 4 quarts.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/9.json"
+}

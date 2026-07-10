@@ -1,0 +1,8 @@
+{
+  "id": "content-disposition",
+  "header": "Content-Disposition",
+  "type": "Response",
+  "description": "Indicates whether content is displayed inline or treated as a download.",
+  "example": "attachment; filename=\"file.pdf\"",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-disposition.json"
+}

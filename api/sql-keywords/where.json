@@ -1,0 +1,7 @@
+{
+  "id": "where",
+  "keyword": "WHERE",
+  "category": "Clause",
+  "description": "Filters rows based on a specified condition.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/where.json"
+}

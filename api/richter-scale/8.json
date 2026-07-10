@@ -1,0 +1,8 @@
+{
+  "id": 8,
+  "magnitude_range": "8.0-8.9",
+  "class": "Great",
+  "effects": "Severe damage and destruction across hundreds of kilometers.",
+  "approx_frequency_per_year": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/8.json"
+}

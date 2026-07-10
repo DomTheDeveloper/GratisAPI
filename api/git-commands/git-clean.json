@@ -1,0 +1,7 @@
+{
+  "id": "git-clean",
+  "command": "git clean",
+  "category": "Snapshot",
+  "description": "Remove untracked files from the working tree.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-clean.json"
+}

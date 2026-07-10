@@ -1,0 +1,9 @@
+{
+  "id": "ngc-1300",
+  "name": "NGC 1300",
+  "type": "Spiral",
+  "constellation": "Eridanus",
+  "distance_mly": 61,
+  "notes": "A prototypical example of a barred spiral galaxy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-1300.json"
+}

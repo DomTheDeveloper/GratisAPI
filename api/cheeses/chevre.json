@@ -1,0 +1,9 @@
+{
+  "id": "chevre",
+  "name": "Chevre",
+  "country_of_origin": "France",
+  "milk": "Goat",
+  "texture": "Soft",
+  "flavor": "Tangy, tart, and earthy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/chevre.json"
+}

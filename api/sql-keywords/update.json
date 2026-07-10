@@ -1,0 +1,7 @@
+{
+  "id": "update",
+  "keyword": "UPDATE",
+  "category": "DML",
+  "description": "Modifies existing rows in a table.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/update.json"
+}

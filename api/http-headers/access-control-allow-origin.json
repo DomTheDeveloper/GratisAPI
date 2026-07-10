@@ -1,0 +1,8 @@
+{
+  "id": "access-control-allow-origin",
+  "header": "Access-Control-Allow-Origin",
+  "type": "Response",
+  "description": "Indicates which origins may access the resource (CORS).",
+  "example": "*",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/access-control-allow-origin.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "os-2",
+  "name": "OS/2",
+  "family": "Other",
+  "first_release_year": 1987,
+  "developer": "IBM and Microsoft",
+  "kernel": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/os-2.json"
+}

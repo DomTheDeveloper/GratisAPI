@@ -1,0 +1,8 @@
+{
+  "id": "js",
+  "extension": ".js",
+  "name": "JavaScript",
+  "category": "Code",
+  "description": "A scripting language source file used primarily for the web.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/js.json"
+}

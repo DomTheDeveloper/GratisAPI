@@ -1,0 +1,7 @@
+{
+  "id": "savepoint",
+  "keyword": "SAVEPOINT",
+  "category": "TCL",
+  "description": "Sets a point within a transaction to which you can later roll back.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/savepoint.json"
+}

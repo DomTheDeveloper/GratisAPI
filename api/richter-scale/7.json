@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "magnitude_range": "7.0-7.9",
+  "class": "Major",
+  "effects": "Serious damage over large areas.",
+  "approx_frequency_per_year": 10,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/7.json"
+}

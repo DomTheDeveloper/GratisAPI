@@ -1,0 +1,13 @@
+{
+  "id": "art-nouveau",
+  "name": "Art Nouveau",
+  "period": "1890s-1910s",
+  "origin_region": "Europe",
+  "key_artists": [
+    "Alphonse Mucha",
+    "Gustav Klimt",
+    "Antoni Gaudí"
+  ],
+  "description": "Decorative style based on flowing organic lines and natural forms.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/art-nouveau.json"
+}

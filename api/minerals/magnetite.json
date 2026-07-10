@@ -1,0 +1,9 @@
+{
+  "id": "magnetite",
+  "name": "Magnetite",
+  "chemical_formula": "Fe3O4",
+  "mohs_hardness": 6.0,
+  "color": "Black",
+  "luster": "Metallic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/magnetite.json"
+}

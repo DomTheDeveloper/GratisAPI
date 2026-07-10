@@ -1,0 +1,17 @@
+{
+  "id": "science-dwarf-planets",
+  "title": "Dwarf Planets",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-07-22",
+  "tags": [
+    "astronomy",
+    "planets",
+    "pluto"
+  ],
+  "summary": "Dwarf planets are round worlds that orbit the Sun but have not cleared their neighborhoods, a category that famously reclassified Pluto.",
+  "body": "In 2006 the International Astronomical Union created a new category that changed how we think about the solar system: the dwarf planet. The most famous member is Pluto, which had been counted as the ninth planet for 76 years before its demotion.\n\nThe change came from a formal definition of what a planet is. To qualify as a full planet, a body must orbit the Sun, be massive enough for its own gravity to pull it into a round shape, and have cleared its orbital neighborhood of other objects. Dwarf planets meet the first two conditions but fail the third. They are round and orbit the Sun, but they share their orbital zone with many other bodies rather than dominating it.\n\nThere are currently five officially recognized dwarf planets. Ceres is the largest object in the asteroid belt between Mars and Jupiter. The other four lie in the distant, icy Kuiper Belt beyond Neptune: Pluto, Eris, Haumea, and Makemake. Eris is nearly the same size as Pluto and its discovery in 2005 directly triggered the debate over Pluto's status, since astronomers realized many similar worlds were waiting to be found.\n\nThese distant worlds are far from dull. The New Horizons spacecraft flew past Pluto in 2015 and revealed a stunningly complex surface with nitrogen ice glaciers, towering mountains of water ice, and a heart shaped plain. Haumea spins so fast that it has stretched into an elongated egg shape and even sports a ring.\n\nAstronomers expect the roster of dwarf planets to grow as surveys probe the outer solar system. You can find data on the planets that did make the full cut through the GratisAPI endpoint at /api/planets/index.json.",
+  "word_count": 279,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-dwarf-planets.json"
+}

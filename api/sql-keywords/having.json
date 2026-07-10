@@ -1,0 +1,7 @@
+{
+  "id": "having",
+  "keyword": "HAVING",
+  "category": "Clause",
+  "description": "Filters groups produced by GROUP BY based on a condition.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/having.json"
+}

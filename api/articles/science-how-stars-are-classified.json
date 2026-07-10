@@ -1,0 +1,17 @@
+{
+  "id": "science-how-stars-are-classified",
+  "title": "How Stars Are Classified",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-05-20",
+  "tags": [
+    "astronomy",
+    "stars",
+    "spectroscopy"
+  ],
+  "summary": "Astronomers sort stars by their color and temperature using a lettered spectral system, a scheme that reveals a star's size, age, and fate.",
+  "body": "Stars may look like uniform white dots, but they come in a vast range of colors, temperatures, and sizes. Astronomers make sense of this diversity with a classification system based mainly on a star's surface temperature, which betrays itself through the star's color and the pattern of lines in its spectrum.\n\nThe primary scheme uses seven main letters: O, B, A, F, G, K, and M. This sequence runs from the hottest stars to the coolest. O type stars are searing blue giants exceeding thirty thousand degrees, while M type stars are cool red dwarfs below four thousand. Generations of students remember the order with the mnemonic Oh Be A Fine Guy or Girl, Kiss Me. Each letter is further divided by a number from zero to nine for finer gradations. Our own Sun is a G type star, a modest yellow dwarf with a surface near five thousand five hundred degrees.\n\nTemperature alone does not tell the whole story. A second dimension, called luminosity class, distinguishes tiny dwarfs from bloated supergiants that can be hundreds of times the diameter of the Sun. Combining the two, the Sun is classified as G2V, where the V marks it as an ordinary main sequence star fusing hydrogen in its core.\n\nWhen astronomers plot temperature against brightness for many stars, a striking pattern appears, known as the Hertzsprung Russell diagram. Most stars fall along a diagonal band called the main sequence, with giants and white dwarfs occupying separate regions. A star's position on this diagram reveals its stage of life.\n\nYou can explore data on notable stars, including their spectral types and distances, through the GratisAPI endpoint at /api/stars/index.json.",
+  "word_count": 276,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-how-stars-are-classified.json"
+}

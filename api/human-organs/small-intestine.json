@@ -1,0 +1,8 @@
+{
+  "id": "small-intestine",
+  "name": "Small intestine",
+  "system": "Digestive system",
+  "function": "Absorbs most nutrients from digested food.",
+  "location": "Central abdomen",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/small-intestine.json"
+}

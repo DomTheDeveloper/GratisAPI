@@ -1,0 +1,9 @@
+{
+  "id": "apatite",
+  "name": "Apatite",
+  "chemical_formula": "Ca5(PO4)3(F,Cl,OH)",
+  "mohs_hardness": 5.0,
+  "color": "Green, blue, yellow, or brown",
+  "luster": "Vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/apatite.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "howto-nodejs",
+  "title": "Calling GratisAPI from Node.js",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-06-11",
+  "tags": [
+    "nodejs",
+    "javascript",
+    "server"
+  ],
+  "summary": "Use the native fetch available in modern Node.js to retrieve GratisAPI data on the server.",
+  "body": "Modern versions of Node.js, from version 18 onward, ship with a global fetch function, so calling GratisAPI on the server needs no dependencies at all. The code looks almost identical to browser code.\n\nCreate a script and await a fetch against any endpoint:\n\nasync function main() {\n  const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/countries/index.json\");\n  if (!res.ok) throw new Error(\"Request failed: \" + res.status);\n  const data = await res.json();\n  console.log(`Loaded ${data.count} countries`);\n}\n\nmain().catch(console.error);\n\nRun it with node script.mjs. If you are on an older Node release without global fetch, either upgrade or install a small library such as node-fetch and import it at the top.\n\nServer-side use unlocks a few patterns the browser cannot easily do. You can fetch an endpoint, transform or enrich the data, and expose your own tailored API to your front end. You can run a scheduled job that pulls a GratisAPI collection and writes it to your database as seed data. You can also cache responses on disk, which is especially sensible here because the files are static and only change when the project is redeployed.\n\nOne genuine advantage of server-side fetching is avoiding cross-origin concerns entirely. Browsers enforce CORS, but a Node process does not, so you have full freedom over how you request and combine endpoints. Because GratisAPI imposes no rate limits and no keys, you can call it as often as your job requires. Just be a good citizen and cache when you can, since re-downloading an unchanged static file on every request wastes bandwidth for no benefit. A simple in-memory Map keyed by URL, or a timed cache, is usually all you need.",
+  "word_count": 270,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-nodejs.json"
+}

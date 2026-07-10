@@ -1,0 +1,9 @@
+{
+  "id": "provolone",
+  "name": "Provolone",
+  "country_of_origin": "Italy",
+  "milk": "Cow",
+  "texture": "Semi-hard",
+  "flavor": "Mild to sharp, smooth, and savory",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/provolone.json"
+}

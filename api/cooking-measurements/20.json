@@ -1,0 +1,10 @@
+{
+  "id": 20,
+  "unit": "Metric Tablespoon",
+  "abbreviation": "tbsp",
+  "type": "Volume",
+  "milliliters": 15.0,
+  "grams": null,
+  "note": "Metric tablespoon; equals 15 ml.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/20.json"
+}

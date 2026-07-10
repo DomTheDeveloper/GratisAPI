@@ -1,0 +1,9 @@
+{
+  "id": "nor",
+  "name": "NOR",
+  "symbol_text": "≥1",
+  "inputs": 2,
+  "truth_table": "Output is 1 only when both inputs are 0; otherwise 0.",
+  "boolean_expression": "Y = ¬(A + B)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/logic-gates/nor.json"
+}

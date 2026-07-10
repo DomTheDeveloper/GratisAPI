@@ -1,0 +1,17 @@
+{
+  "id": "reference-logic-gates",
+  "title": "Logic Gates Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-08-05",
+  "tags": [
+    "logic-gates",
+    "hardware",
+    "electronics"
+  ],
+  "summary": "Logic gates are the basic building blocks of digital circuits, combining binary signals into outputs.",
+  "body": "Beneath every computer lies an ocean of tiny switches, and logic gates are how those switches are organized to compute. A logic gate takes one or more binary inputs, each either a zero or a one, and produces a binary output according to a fixed rule. From these simple rules, all of digital computation is built.\n\nThe basic gates are few. The AND gate outputs one only when all its inputs are one. The OR gate outputs one when at least one input is one. The NOT gate, which has a single input, simply flips it, turning a zero into a one and back. These three correspond directly to the logical ideas of and, or, and not, which is why the field is called logic.\n\nSeveral other gates are combinations of these. The NAND gate is an AND followed by a NOT, and the NOR gate is an OR followed by a NOT. The XOR, or exclusive or, gate outputs one only when its inputs differ, which makes it central to arithmetic. Remarkably, the NAND gate alone can be wired to reproduce every other gate, which is why it is called universal.\n\nEach gate is fully described by a truth table, a small chart listing the output for every possible combination of inputs. Truth tables make gates precise and let engineers reason about circuits with certainty rather than guesswork.\n\nThe real power comes from combining gates. Wire them together and you can build a circuit that adds two numbers, stores a bit of memory, or chooses between inputs. Stack millions of such circuits and you have a processor. Everything a computer does ultimately reduces to gates switching in patterns.\n\nGratisAPI provides a reference at /api/logic-gates/index.json, where each entry names a gate, gives its symbol, and includes its truth table. It is a handy companion when studying digital electronics or building simple circuits. Understanding gates reveals that the dazzling capability of computers rests on rules a child could follow.",
+  "word_count": 328,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-logic-gates.json"
+}

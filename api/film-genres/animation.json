@@ -1,0 +1,7 @@
+{
+  "id": "animation",
+  "name": "Animation",
+  "description": "Films created frame by frame using drawn, computer, or model imagery.",
+  "example_film": "Spirited Away",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/animation.json"
+}

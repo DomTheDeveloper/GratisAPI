@@ -1,0 +1,10 @@
+{
+  "id": "radix-sort",
+  "name": "Radix Sort",
+  "best_case": "O(nk)",
+  "average_case": "O(nk)",
+  "worst_case": "O(nk)",
+  "space_complexity": "O(n + k)",
+  "stable": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/radix-sort.json"
+}

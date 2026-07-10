@@ -1,0 +1,126 @@
+{
+  "api": "ph-scale",
+  "title": "pH Scale",
+  "description": "The pH scale from 0 to 14 with an example substance at each value.",
+  "emoji": "🧪",
+  "license": "GPL-2.0-or-later",
+  "count": 15,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/{id}.json"
+  },
+  "fields": [
+    "example",
+    "id",
+    "ph",
+    "type"
+  ],
+  "results": [
+    {
+      "id": 0,
+      "ph": 0,
+      "type": "Acidic",
+      "example": "Battery acid",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/0.json"
+    },
+    {
+      "id": 1,
+      "ph": 1,
+      "type": "Acidic",
+      "example": "Stomach acid",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/1.json"
+    },
+    {
+      "id": 2,
+      "ph": 2,
+      "type": "Acidic",
+      "example": "Lemon juice",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/2.json"
+    },
+    {
+      "id": 3,
+      "ph": 3,
+      "type": "Acidic",
+      "example": "Vinegar",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/3.json"
+    },
+    {
+      "id": 4,
+      "ph": 4,
+      "type": "Acidic",
+      "example": "Tomato juice",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/4.json"
+    },
+    {
+      "id": 5,
+      "ph": 5,
+      "type": "Acidic",
+      "example": "Black coffee",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/5.json"
+    },
+    {
+      "id": 6,
+      "ph": 6,
+      "type": "Acidic",
+      "example": "Milk",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/6.json"
+    },
+    {
+      "id": 7,
+      "ph": 7,
+      "type": "Neutral",
+      "example": "Pure water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/7.json"
+    },
+    {
+      "id": 8,
+      "ph": 8,
+      "type": "Basic",
+      "example": "Sea water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/8.json"
+    },
+    {
+      "id": 9,
+      "ph": 9,
+      "type": "Basic",
+      "example": "Baking soda solution",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/9.json"
+    },
+    {
+      "id": 10,
+      "ph": 10,
+      "type": "Basic",
+      "example": "Milk of magnesia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/10.json"
+    },
+    {
+      "id": 11,
+      "ph": 11,
+      "type": "Basic",
+      "example": "Ammonia solution",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/11.json"
+    },
+    {
+      "id": 12,
+      "ph": 12,
+      "type": "Basic",
+      "example": "Soapy water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/12.json"
+    },
+    {
+      "id": 13,
+      "ph": 13,
+      "type": "Basic",
+      "example": "Bleach",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/13.json"
+    },
+    {
+      "id": 14,
+      "ph": 14,
+      "type": "Basic",
+      "example": "Liquid drain cleaner",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ph-scale/14.json"
+    }
+  ]
+}

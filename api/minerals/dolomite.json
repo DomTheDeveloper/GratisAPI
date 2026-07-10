@@ -1,0 +1,9 @@
+{
+  "id": "dolomite",
+  "name": "Dolomite",
+  "chemical_formula": "CaMg(CO3)2",
+  "mohs_hardness": 3.75,
+  "color": "White, grey, or pinkish",
+  "luster": "Vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/dolomite.json"
+}

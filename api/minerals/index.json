@@ -1,0 +1,257 @@
+{
+  "api": "minerals",
+  "title": "Common Minerals",
+  "description": "Common rock-forming and economically important minerals and their properties.",
+  "emoji": "💎",
+  "license": "GPL-2.0-or-later",
+  "count": 26,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/minerals/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/minerals/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/minerals/{id}.json"
+  },
+  "fields": [
+    "chemical_formula",
+    "color",
+    "id",
+    "luster",
+    "mohs_hardness",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "quartz",
+      "name": "Quartz",
+      "chemical_formula": "SiO2",
+      "mohs_hardness": 7.0,
+      "color": "Colorless to white, purple, pink, or smoky",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/quartz.json"
+    },
+    {
+      "id": "feldspar",
+      "name": "Orthoclase Feldspar",
+      "chemical_formula": "KAlSi3O8",
+      "mohs_hardness": 6.0,
+      "color": "White, pink, or grey",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/feldspar.json"
+    },
+    {
+      "id": "mica-muscovite",
+      "name": "Muscovite Mica",
+      "chemical_formula": "KAl2(AlSi3O10)(OH)2",
+      "mohs_hardness": 2.5,
+      "color": "Colorless to silvery or pale brown",
+      "luster": "Pearly",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/mica-muscovite.json"
+    },
+    {
+      "id": "mica-biotite",
+      "name": "Biotite Mica",
+      "chemical_formula": "K(Mg,Fe)3(AlSi3O10)(OH)2",
+      "mohs_hardness": 2.75,
+      "color": "Black to dark brown",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/mica-biotite.json"
+    },
+    {
+      "id": "calcite",
+      "name": "Calcite",
+      "chemical_formula": "CaCO3",
+      "mohs_hardness": 3.0,
+      "color": "Colorless, white, or pale tints",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/calcite.json"
+    },
+    {
+      "id": "dolomite",
+      "name": "Dolomite",
+      "chemical_formula": "CaMg(CO3)2",
+      "mohs_hardness": 3.75,
+      "color": "White, grey, or pinkish",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/dolomite.json"
+    },
+    {
+      "id": "gypsum",
+      "name": "Gypsum",
+      "chemical_formula": "CaSO4·2H2O",
+      "mohs_hardness": 2.0,
+      "color": "Colorless, white, or grey",
+      "luster": "Vitreous to silky",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/gypsum.json"
+    },
+    {
+      "id": "halite",
+      "name": "Halite",
+      "chemical_formula": "NaCl",
+      "mohs_hardness": 2.5,
+      "color": "Colorless, white, or tinted",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/halite.json"
+    },
+    {
+      "id": "fluorite",
+      "name": "Fluorite",
+      "chemical_formula": "CaF2",
+      "mohs_hardness": 4.0,
+      "color": "Purple, green, blue, or yellow",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/fluorite.json"
+    },
+    {
+      "id": "apatite",
+      "name": "Apatite",
+      "chemical_formula": "Ca5(PO4)3(F,Cl,OH)",
+      "mohs_hardness": 5.0,
+      "color": "Green, blue, yellow, or brown",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/apatite.json"
+    },
+    {
+      "id": "hematite",
+      "name": "Hematite",
+      "chemical_formula": "Fe2O3",
+      "mohs_hardness": 6.0,
+      "color": "Steel grey to reddish brown",
+      "luster": "Metallic to earthy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/hematite.json"
+    },
+    {
+      "id": "magnetite",
+      "name": "Magnetite",
+      "chemical_formula": "Fe3O4",
+      "mohs_hardness": 6.0,
+      "color": "Black",
+      "luster": "Metallic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/magnetite.json"
+    },
+    {
+      "id": "pyrite",
+      "name": "Pyrite",
+      "chemical_formula": "FeS2",
+      "mohs_hardness": 6.25,
+      "color": "Brass yellow",
+      "luster": "Metallic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/pyrite.json"
+    },
+    {
+      "id": "galena",
+      "name": "Galena",
+      "chemical_formula": "PbS",
+      "mohs_hardness": 2.5,
+      "color": "Lead grey",
+      "luster": "Metallic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/galena.json"
+    },
+    {
+      "id": "sphalerite",
+      "name": "Sphalerite",
+      "chemical_formula": "ZnS",
+      "mohs_hardness": 3.75,
+      "color": "Yellow, brown, to black",
+      "luster": "Resinous to adamantine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/sphalerite.json"
+    },
+    {
+      "id": "chalcopyrite",
+      "name": "Chalcopyrite",
+      "chemical_formula": "CuFeS2",
+      "mohs_hardness": 3.75,
+      "color": "Brass to golden yellow",
+      "luster": "Metallic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/chalcopyrite.json"
+    },
+    {
+      "id": "graphite",
+      "name": "Graphite",
+      "chemical_formula": "C",
+      "mohs_hardness": 1.5,
+      "color": "Steel grey to black",
+      "luster": "Metallic to dull",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/graphite.json"
+    },
+    {
+      "id": "talc",
+      "name": "Talc",
+      "chemical_formula": "Mg3Si4O10(OH)2",
+      "mohs_hardness": 1.0,
+      "color": "White, grey, or pale green",
+      "luster": "Pearly to greasy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/talc.json"
+    },
+    {
+      "id": "corundum",
+      "name": "Corundum",
+      "chemical_formula": "Al2O3",
+      "mohs_hardness": 9.0,
+      "color": "Colorless, red (ruby), or blue (sapphire)",
+      "luster": "Adamantine to vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/corundum.json"
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "chemical_formula": "C",
+      "mohs_hardness": 10.0,
+      "color": "Colorless to yellow, brown, or blue",
+      "luster": "Adamantine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/diamond.json"
+    },
+    {
+      "id": "topaz",
+      "name": "Topaz",
+      "chemical_formula": "Al2SiO4(F,OH)2",
+      "mohs_hardness": 8.0,
+      "color": "Colorless, blue, yellow, or pink",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/topaz.json"
+    },
+    {
+      "id": "garnet",
+      "name": "Garnet",
+      "chemical_formula": "Fe3Al2(SiO4)3",
+      "mohs_hardness": 7.25,
+      "color": "Deep red, brown, or green",
+      "luster": "Vitreous to resinous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/garnet.json"
+    },
+    {
+      "id": "olivine",
+      "name": "Olivine",
+      "chemical_formula": "(Mg,Fe)2SiO4",
+      "mohs_hardness": 6.75,
+      "color": "Olive green to yellow-green",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/olivine.json"
+    },
+    {
+      "id": "malachite",
+      "name": "Malachite",
+      "chemical_formula": "Cu2CO3(OH)2",
+      "mohs_hardness": 3.75,
+      "color": "Bright green",
+      "luster": "Silky to dull",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/malachite.json"
+    },
+    {
+      "id": "azurite",
+      "name": "Azurite",
+      "chemical_formula": "Cu3(CO3)2(OH)2",
+      "mohs_hardness": 3.75,
+      "color": "Deep azure blue",
+      "luster": "Vitreous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/azurite.json"
+    },
+    {
+      "id": "sulfur",
+      "name": "Sulfur",
+      "chemical_formula": "S",
+      "mohs_hardness": 2.0,
+      "color": "Bright yellow",
+      "luster": "Resinous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/sulfur.json"
+    }
+  ]
+}

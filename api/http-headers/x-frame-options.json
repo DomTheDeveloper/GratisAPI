@@ -1,0 +1,8 @@
+{
+  "id": "x-frame-options",
+  "header": "X-Frame-Options",
+  "type": "Response",
+  "description": "Controls whether a page may be rendered in a frame or iframe.",
+  "example": "DENY",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/x-frame-options.json"
+}

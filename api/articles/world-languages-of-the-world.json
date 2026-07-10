@@ -1,0 +1,16 @@
+{
+  "id": "world-languages-of-the-world",
+  "title": "The Languages of the World",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-12",
+  "tags": [
+    "languages",
+    "culture"
+  ],
+  "summary": "Around 7,000 languages are spoken today, though a small handful account for most speakers. This article surveys the diversity and distribution of human language.",
+  "body": "Human beings speak somewhere around 7,000 languages, an astonishing variety given that we are all one species. Yet this diversity is unevenly spread. A few dozen languages account for the vast majority of speakers, while thousands are spoken by only small communities and many are at risk of disappearing within a generation.\n\nThe most widely spoken languages by total speakers include English, Mandarin Chinese, Hindi, Spanish, and Arabic. Mandarin has the most native speakers, while English leads once second language learners are counted, thanks to its role in business, science, and the internet. These giants coexist with languages spoken by only a handful of elders in remote regions.\n\nLanguages are grouped into families that share a common ancestor. The Indo-European family stretches from Iceland to India and includes English, Russian, Persian, and Hindi. Other major families include Sino-Tibetan, Afro-Asiatic, Niger-Congo, and Austronesian. Some languages, called isolates, have no known relatives at all.\n\nLanguage is more than a tool for communication. It encodes a community's history, humour, and way of seeing the world, and when a language dies much of that knowledge vanishes with it. Linguists estimate that a language falls silent every few weeks, which has prompted major revitalisation efforts around the globe.\n\nWriting systems add another layer of variety. Some languages use alphabets, others use syllabaries, and still others use thousands of characters. The GratisAPI languages dataset at /api/languages/index.json provides names and codes for reference, which is useful for building localisation tools, quizzes, or multilingual applications that need a consistent list to work from.",
+  "word_count": 255,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-languages-of-the-world.json"
+}

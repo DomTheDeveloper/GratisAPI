@@ -1,0 +1,7 @@
+{
+  "id": "rad",
+  "unit": "rad",
+  "type": "Angle",
+  "description": "Radians; a full circle is 2π radians.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/rad.json"
+}

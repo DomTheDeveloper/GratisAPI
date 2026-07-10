@@ -1,0 +1,13 @@
+{
+  "id": "lymphatic",
+  "name": "Lymphatic system",
+  "function": "Returns fluid to the blood and defends the body against infection.",
+  "key_organs": [
+    "Lymph nodes",
+    "Lymph vessels",
+    "Spleen",
+    "Thymus",
+    "Tonsils"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/lymphatic.json"
+}

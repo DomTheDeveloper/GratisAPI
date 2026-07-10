@@ -1,0 +1,17 @@
+{
+  "id": "science-beaufort-wind-scale",
+  "title": "The Beaufort Wind Scale",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-07-14",
+  "tags": [
+    "meteorology",
+    "wind",
+    "weather"
+  ],
+  "summary": "The Beaufort scale rates wind strength from calm to hurricane using the visible effects of wind on the sea and land.",
+  "body": "Long before anemometers could precisely measure wind speed, sailors needed a reliable way to describe how strong the wind was blowing. In 1805 a British naval officer named Francis Beaufort devised a scale that did exactly that, and a version of it remains in use around the world today.\n\nThe genius of the Beaufort scale is that it rates wind not by instruments but by its observable effects. The scale runs from 0 to 12. A rating of 0 means calm, with smoke rising straight up and the sea like a mirror. As the numbers climb, the descriptions grow more dramatic. Force 3 is a gentle breeze that extends a light flag, force 6 is a strong breeze that makes umbrellas hard to use and whistles through telegraph wires, and force 8 is a gale that breaks twigs off trees and impedes walking. At the top of the scale, force 12 signifies a hurricane, with devastating winds and a sea whipped into a churning white fury.\n\nBeaufort originally based his scale on how a warship's sails behaved, but it was later adapted to describe the state of the sea, with descriptions of wave height and foam, and eventually extended to effects seen on land, such as swaying trees and flying debris. Each level corresponds to a range of actual wind speeds, allowing modern observers to translate between the descriptive scale and measured values.\n\nThe scale remains valuable precisely because it can be used by anyone, anywhere, with nothing more than careful observation. It gives forecasters, mariners, and coastal communities a shared vocabulary for the wind.\n\nYou can look up each level of the scale, its name, wind speed range, and typical effects through the GratisAPI endpoint at /api/beaufort-scale/index.json.",
+  "word_count": 288,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-beaufort-wind-scale.json"
+}

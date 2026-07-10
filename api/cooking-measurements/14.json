@@ -1,0 +1,10 @@
+{
+  "id": 14,
+  "unit": "Gram",
+  "abbreviation": "g",
+  "type": "Weight",
+  "milliliters": null,
+  "grams": 1.0,
+  "note": "Metric base unit of weight for cooking.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/14.json"
+}

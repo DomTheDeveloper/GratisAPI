@@ -1,0 +1,9 @@
+{
+  "id": "jwst",
+  "name": "James Webb Space Telescope",
+  "type": "Space",
+  "location_or_orbit": "Sun-Earth L2 point",
+  "wavelength": "Infrared",
+  "first_light_year": 2022,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/jwst.json"
+}

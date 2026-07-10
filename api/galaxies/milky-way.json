@@ -1,0 +1,9 @@
+{
+  "id": "milky-way",
+  "name": "Milky Way",
+  "type": "Spiral",
+  "constellation": null,
+  "distance_mly": 0,
+  "notes": "The barred spiral galaxy that contains our Solar System.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/milky-way.json"
+}

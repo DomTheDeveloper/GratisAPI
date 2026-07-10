@@ -1,0 +1,9 @@
+{
+  "id": "category-1",
+  "category": "Category 1",
+  "wind_kmh_min": 119,
+  "wind_kmh_max": 153,
+  "damage": "Very dangerous winds; damage to roofs, siding, and trees.",
+  "storm_surge_m": 1.5,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-1.json"
+}

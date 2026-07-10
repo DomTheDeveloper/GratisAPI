@@ -1,0 +1,9 @@
+{
+  "id": "beos",
+  "name": "BeOS",
+  "family": "Other",
+  "first_release_year": 1995,
+  "developer": "Be Inc.",
+  "kernel": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/beos.json"
+}

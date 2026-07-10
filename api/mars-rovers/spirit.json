@@ -1,0 +1,9 @@
+{
+  "id": "spirit",
+  "name": "Spirit (MER-A)",
+  "agency": "NASA",
+  "launch_year": 2003,
+  "status": "Inactive",
+  "mission": "Mars Exploration Rover that studied rocks and soil for signs of past water.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/spirit.json"
+}

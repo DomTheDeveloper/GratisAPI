@@ -1,0 +1,8 @@
+{
+  "id": "pituitary",
+  "name": "Pituitary gland",
+  "system": "Endocrine system",
+  "function": "Master gland that regulates other endocrine glands.",
+  "location": "Base of the brain",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/pituitary.json"
+}

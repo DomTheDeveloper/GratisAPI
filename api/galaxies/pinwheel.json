@@ -1,0 +1,9 @@
+{
+  "id": "pinwheel",
+  "name": "Pinwheel Galaxy (M101)",
+  "type": "Spiral",
+  "constellation": "Ursa Major",
+  "distance_mly": 21,
+  "notes": "A large face-on spiral galaxy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/pinwheel.json"
+}

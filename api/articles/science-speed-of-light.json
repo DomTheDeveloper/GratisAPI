@@ -1,0 +1,17 @@
+{
+  "id": "science-speed-of-light",
+  "title": "The Speed of Light",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-10-11",
+  "tags": [
+    "physics",
+    "light",
+    "relativity"
+  ],
+  "summary": "Light travels at a fixed cosmic speed limit that no object with mass can reach, a fact that reshaped our understanding of space and time.",
+  "body": "Light moves fast, so fast that for most of human history people assumed it traveled instantly. In fact it has a definite speed, and that speed turns out to be one of the most important numbers in all of physics. In a vacuum, light travels at almost exactly 299,792,458 meters per second, a value so fundamental that the meter is now defined in terms of it.\n\nThe speed of light, usually written as the letter c, is not merely how fast light happens to go. It is the universe's ultimate speed limit. Nothing carrying mass or information can travel faster. This cap emerges from Albert Einstein's theory of special relativity, published in 1905, which took as its starting point the strange experimental fact that light always moves at the same speed regardless of how fast the observer is moving.\n\nThat single idea has profound consequences. To keep the speed of light constant for everyone, space and time themselves must bend and stretch. Moving clocks run slow, moving objects contract along their direction of travel, and observers moving relative to one another disagree about what events happen simultaneously. Mass and energy prove to be interchangeable, captured in the famous equation relating energy to mass times the speed of light squared.\n\nBecause light has a finite speed, looking out into space is also looking back in time. Sunlight takes about eight minutes to reach Earth, so we always see the Sun as it was eight minutes ago. Light from distant galaxies has traveled for billions of years, showing us the universe as it appeared in its youth.\n\nThe speed of light in a vacuum is one of the key entries you can find through the GratisAPI endpoint at /api/physical-constants/index.json.",
+  "word_count": 287,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-speed-of-light.json"
+}

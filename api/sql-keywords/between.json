@@ -1,0 +1,7 @@
+{
+  "id": "between",
+  "keyword": "BETWEEN",
+  "category": "Operator",
+  "description": "Tests whether a value falls within an inclusive range.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/between.json"
+}

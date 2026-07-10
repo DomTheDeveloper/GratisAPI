@@ -1,0 +1,8 @@
+{
+  "id": "ef1",
+  "scale": "EF1",
+  "wind_kmh_min": 138,
+  "wind_kmh_max": 177,
+  "damage_description": "Moderate damage; roofs stripped, mobile homes overturned.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef1.json"
+}

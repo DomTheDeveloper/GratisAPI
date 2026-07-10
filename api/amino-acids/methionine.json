@@ -1,0 +1,9 @@
+{
+  "id": "methionine",
+  "name": "Methionine",
+  "three_letter": "Met",
+  "one_letter": "M",
+  "essential": true,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/methionine.json"
+}

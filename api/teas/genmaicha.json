@@ -1,0 +1,9 @@
+{
+  "id": "genmaicha",
+  "name": "Genmaicha",
+  "type": "Green",
+  "origin_region": "Japan",
+  "caffeine": "Low",
+  "notes": "Green tea blended with roasted brown rice for a toasty flavor.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/genmaicha.json"
+}

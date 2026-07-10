@@ -1,0 +1,9 @@
+{
+  "id": "vostok-1",
+  "name": "Vostok 1",
+  "agency": "USSR",
+  "launch_year": 1961,
+  "type": "Crewed",
+  "achievement": "Yuri Gagarin became the first human in space.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/vostok-1.json"
+}

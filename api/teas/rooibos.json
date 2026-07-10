@@ -1,0 +1,9 @@
+{
+  "id": "rooibos",
+  "name": "Rooibos",
+  "type": "Herbal",
+  "origin_region": "South Africa",
+  "caffeine": "None",
+  "notes": "Naturally sweet red bush tisane rich in antioxidants.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/rooibos.json"
+}

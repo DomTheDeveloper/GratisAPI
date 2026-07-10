@@ -1,0 +1,8 @@
+{
+  "id": "webm",
+  "extension": ".webm",
+  "name": "WebM Video",
+  "category": "Video",
+  "description": "An open, royalty-free video format designed for the web.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/webm.json"
+}

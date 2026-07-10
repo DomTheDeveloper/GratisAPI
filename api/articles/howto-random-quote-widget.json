@@ -1,0 +1,17 @@
+{
+  "id": "howto-random-quote-widget",
+  "title": "Building a Random-Quote Widget",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-07-22",
+  "tags": [
+    "javascript",
+    "widget",
+    "quotes"
+  ],
+  "summary": "Create a small self-contained widget that displays a random quote from the GratisAPI quotes endpoint.",
+  "body": "A random-quote widget is a perfect first project with GratisAPI. It needs one endpoint, a little JavaScript, and no backend at all, yet it teaches fetching, parsing, and rendering in one go.\n\nThe quotes collection lives at /api/quotes/index.json and returns an object with a quotes array. Fetch it once, pick a random element, and drop it into the page:\n\nasync function showQuote() {\n  const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\");\n  const data = await res.json();\n  const quotes = data.quotes;\n  const q = quotes[Math.floor(Math.random() * quotes.length)];\n  document.getElementById(\"quote\").textContent = q.text;\n  document.getElementById(\"author\").textContent = q.author;\n}\n\nshowQuote();\n\nThe expression Math.floor(Math.random() * quotes.length) produces a valid random index into the array. Because the whole collection arrives in a single request, you do not need to hit the network again to show another quote. Wire a button to a function that picks a new random element from the array you already have:\n\ndocument.getElementById(\"next\").addEventListener(\"click\", () => {\n  const q = quotes[Math.floor(Math.random() * quotes.length)];\n  // update the DOM here\n});\n\nThis is a real advantage of GratisAPI's full-dataset design. A widget backed by a paginated API would need a fresh request per quote, but here one download powers unlimited shuffles.\n\nTo make it robust, keep the fetched array in a variable at a scope both functions can see, and add a try/catch so a network failure shows a friendly fallback message rather than nothing. For a finishing touch, style the quote with CSS and fade it in on change. The entire widget fits in a single HTML file you can embed anywhere, needs no keys, and costs nothing to run, which is exactly the spirit of a gratis, static API.",
+  "word_count": 270,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-random-quote-widget.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "komodo",
+  "name": "Komodo National Park",
+  "country": "Indonesia",
+  "established_year": 1980,
+  "area_km2": 1733,
+  "notable_feature": "The wild habitat of the Komodo dragon.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/komodo.json"
+}

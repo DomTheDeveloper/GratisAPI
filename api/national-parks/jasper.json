@@ -1,0 +1,9 @@
+{
+  "id": "jasper",
+  "name": "Jasper National Park",
+  "country": "Canada",
+  "established_year": 1907,
+  "area_km2": 11000,
+  "notable_feature": "Largest park in the Canadian Rockies, known for dark-sky stargazing.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/jasper.json"
+}

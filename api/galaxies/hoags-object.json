@@ -1,0 +1,9 @@
+{
+  "id": "hoags-object",
+  "name": "Hoag's Object",
+  "type": "Irregular",
+  "constellation": "Serpens",
+  "distance_mly": 600,
+  "notes": "A rare ring galaxy with a near-perfect ring of stars.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/hoags-object.json"
+}

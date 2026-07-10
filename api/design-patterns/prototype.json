@@ -1,0 +1,7 @@
+{
+  "id": "prototype",
+  "name": "Prototype",
+  "category": "Creational",
+  "description": "Creates new objects by copying an existing prototypical instance rather than instantiating from scratch.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/prototype.json"
+}

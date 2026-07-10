@@ -1,0 +1,224 @@
+{
+  "api": "cooking-measurements",
+  "title": "Cooking Measurements",
+  "description": "Common cooking measurement units with volume (ml) and weight (g) conversions.",
+  "emoji": "🥄",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/{id}.json"
+  },
+  "fields": [
+    "abbreviation",
+    "grams",
+    "id",
+    "milliliters",
+    "note",
+    "type",
+    "unit"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "unit": "Pinch",
+      "abbreviation": "pinch",
+      "type": "Volume",
+      "milliliters": 0.31,
+      "grams": null,
+      "note": "About 1/16 teaspoon.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/1.json"
+    },
+    {
+      "id": 2,
+      "unit": "Dash",
+      "abbreviation": "dash",
+      "type": "Volume",
+      "milliliters": 0.62,
+      "grams": null,
+      "note": "About 1/8 teaspoon.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/2.json"
+    },
+    {
+      "id": 3,
+      "unit": "Teaspoon",
+      "abbreviation": "tsp",
+      "type": "Volume",
+      "milliliters": 4.93,
+      "grams": null,
+      "note": "US teaspoon; often rounded to 5 ml.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/3.json"
+    },
+    {
+      "id": 4,
+      "unit": "Tablespoon",
+      "abbreviation": "tbsp",
+      "type": "Volume",
+      "milliliters": 14.79,
+      "grams": null,
+      "note": "US tablespoon; equals 3 teaspoons.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/4.json"
+    },
+    {
+      "id": 5,
+      "unit": "Fluid Ounce",
+      "abbreviation": "fl oz",
+      "type": "Volume",
+      "milliliters": 29.57,
+      "grams": null,
+      "note": "US fluid ounce; equals 2 tablespoons.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/5.json"
+    },
+    {
+      "id": 6,
+      "unit": "Cup",
+      "abbreviation": "c",
+      "type": "Volume",
+      "milliliters": 236.59,
+      "grams": null,
+      "note": "US cup; equals 8 fluid ounces.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/6.json"
+    },
+    {
+      "id": 7,
+      "unit": "Pint",
+      "abbreviation": "pt",
+      "type": "Volume",
+      "milliliters": 473.18,
+      "grams": null,
+      "note": "US pint; equals 2 cups.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/7.json"
+    },
+    {
+      "id": 8,
+      "unit": "Quart",
+      "abbreviation": "qt",
+      "type": "Volume",
+      "milliliters": 946.35,
+      "grams": null,
+      "note": "US quart; equals 2 pints.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/8.json"
+    },
+    {
+      "id": 9,
+      "unit": "Gallon",
+      "abbreviation": "gal",
+      "type": "Volume",
+      "milliliters": 3785.41,
+      "grams": null,
+      "note": "US gallon; equals 4 quarts.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/9.json"
+    },
+    {
+      "id": 10,
+      "unit": "Milliliter",
+      "abbreviation": "ml",
+      "type": "Volume",
+      "milliliters": 1.0,
+      "grams": null,
+      "note": "Metric base unit of volume for cooking.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/10.json"
+    },
+    {
+      "id": 11,
+      "unit": "Deciliter",
+      "abbreviation": "dl",
+      "type": "Volume",
+      "milliliters": 100.0,
+      "grams": null,
+      "note": "Equals 100 milliliters.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/11.json"
+    },
+    {
+      "id": 12,
+      "unit": "Liter",
+      "abbreviation": "l",
+      "type": "Volume",
+      "milliliters": 1000.0,
+      "grams": null,
+      "note": "Equals 1000 milliliters.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/12.json"
+    },
+    {
+      "id": 13,
+      "unit": "Milligram",
+      "abbreviation": "mg",
+      "type": "Weight",
+      "milliliters": null,
+      "grams": 0.001,
+      "note": "Equals 1/1000 of a gram.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/13.json"
+    },
+    {
+      "id": 14,
+      "unit": "Gram",
+      "abbreviation": "g",
+      "type": "Weight",
+      "milliliters": null,
+      "grams": 1.0,
+      "note": "Metric base unit of weight for cooking.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/14.json"
+    },
+    {
+      "id": 15,
+      "unit": "Kilogram",
+      "abbreviation": "kg",
+      "type": "Weight",
+      "milliliters": null,
+      "grams": 1000.0,
+      "note": "Equals 1000 grams.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/15.json"
+    },
+    {
+      "id": 16,
+      "unit": "Ounce",
+      "abbreviation": "oz",
+      "type": "Weight",
+      "milliliters": null,
+      "grams": 28.35,
+      "note": "Avoirdupois ounce of weight.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/16.json"
+    },
+    {
+      "id": 17,
+      "unit": "Pound",
+      "abbreviation": "lb",
+      "type": "Weight",
+      "milliliters": null,
+      "grams": 453.59,
+      "note": "Equals 16 ounces.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/17.json"
+    },
+    {
+      "id": 18,
+      "unit": "Stick of Butter",
+      "abbreviation": "stick",
+      "type": "Weight",
+      "milliliters": null,
+      "grams": 113.4,
+      "note": "US stick of butter; equals 1/2 cup or 8 tablespoons.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/18.json"
+    },
+    {
+      "id": 19,
+      "unit": "Metric Cup",
+      "abbreviation": "cup",
+      "type": "Volume",
+      "milliliters": 250.0,
+      "grams": null,
+      "note": "Metric cup used in Australia and parts of Europe.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/19.json"
+    },
+    {
+      "id": 20,
+      "unit": "Metric Tablespoon",
+      "abbreviation": "tbsp",
+      "type": "Volume",
+      "milliliters": 15.0,
+      "grams": null,
+      "note": "Metric tablespoon; equals 15 ml.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/20.json"
+    }
+  ]
+}

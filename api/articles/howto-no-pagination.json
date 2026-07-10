@@ -1,0 +1,17 @@
+{
+  "id": "howto-no-pagination",
+  "title": "Why GratisAPI Has No Pagination (and How to Work with Full Datasets)",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-11-18",
+  "tags": [
+    "design",
+    "datasets",
+    "performance"
+  ],
+  "summary": "Understand the deliberate choice to serve whole collections at once, and how to handle them efficiently on the client.",
+  "body": "Many APIs split large results across pages, forcing clients to make repeated requests with offset and limit parameters. GratisAPI deliberately does not. Each collection is served as a single static JSON file containing every record, and this is a feature, not an oversight.\n\nThe reason is the architecture. GratisAPI is a set of plain files hosted on GitHub Pages with no server-side code to run queries or slice results. There is no backend that could compute a page on demand. Instead, the whole dataset ships at once from a URL like /api/countries/index.json, and the client works with it locally. Because the collections are curated and modest in size, downloading a complete file is fast and cheap, and it happens only once.\n\nThis approach has real advantages. A single request means one round trip instead of many, which is often faster overall than paging. Once the data is in memory, filtering, sorting, searching, and paginating become instant local operations with no further network calls. You are never rate-limited mid-scroll, and you never juggle cursor tokens.\n\nTo work with a full dataset, fetch it once and keep it in a variable or in state. Then apply array methods to shape it. To show a page, use slice with a computed offset. To search, use filter. To order, use sort. For example, to display twenty records at a time you slice the array by page index, all without touching the server again.\n\nIf a collection ever grew large enough to matter, you could load it once and cache it in localStorage or a service worker, so even the initial download is amortized across visits. But in practice the datasets are small enough that the whole model just works. Embracing the full-dataset design leads to simpler code: no pagination state machine, no loading spinners between pages, just one fetch and then fast, offline-style interaction with the complete collection.",
+  "word_count": 314,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-no-pagination.json"
+}

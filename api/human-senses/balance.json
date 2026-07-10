@@ -1,0 +1,8 @@
+{
+  "id": "balance",
+  "name": "Balance (equilibrioception)",
+  "organ": "Vestibular system of the inner ear",
+  "description": "Sense of body orientation, acceleration, and equilibrium.",
+  "type": "Other",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/balance.json"
+}

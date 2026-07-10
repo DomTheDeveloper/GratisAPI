@@ -1,0 +1,10 @@
+{
+  "id": "gnome-sort",
+  "name": "Gnome Sort",
+  "best_case": "O(n)",
+  "average_case": "O(n^2)",
+  "worst_case": "O(n^2)",
+  "space_complexity": "O(1)",
+  "stable": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/gnome-sort.json"
+}

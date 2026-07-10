@@ -1,0 +1,17 @@
+{
+  "id": "science-how-to-read-atomic-mass",
+  "title": "How to Read Atomic Mass",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-02-08",
+  "tags": [
+    "chemistry",
+    "atoms",
+    "atomic-mass"
+  ],
+  "summary": "Atomic mass is the weighted average of an element's isotopes, and understanding it unlocks how chemists count atoms by weighing them.",
+  "body": "Every entry on the periodic table lists a number that usually falls just below the element symbol: its atomic mass. Reading this number correctly reveals a surprising amount about how atoms are built and why chemistry works the way it does.\n\nAtomic mass is measured in unified atomic mass units, abbreviated u or sometimes called daltons. One unit is defined as one twelfth of the mass of a carbon-12 atom. A single proton and a single neutron each weigh almost exactly one unit, while electrons are so light that they barely register.\n\nHere is the subtlety. The atomic mass printed on the table is rarely a whole number. Chlorine, for example, is listed as roughly 35.45. This is because most elements exist as a mixture of isotopes, atoms of the same element that carry different numbers of neutrons. Chlorine occurs as about three quarters chlorine-35 and one quarter chlorine-37, and the listed value is the weighted average of those two.\n\nThis average matters enormously in the laboratory. Because atoms are far too small to count directly, chemists weigh them instead. The atomic mass in grams defines one mole, a fixed count of roughly 602 followed by twenty one zeros of particles. Weigh out that many grams and you know exactly how many atoms you have.\n\nTo distinguish concepts, note that mass number counts protons plus neutrons in a single atom and is always a whole number, while atomic mass is the measured average across isotopes. You can pull atomic mass values for every element from the GratisAPI endpoint at /api/elements/index.json and use them to calculate the molar mass of any compound you like.",
+  "word_count": 273,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-how-to-read-atomic-mass.json"
+}

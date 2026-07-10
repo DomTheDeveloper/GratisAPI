@@ -1,0 +1,8 @@
+{
+  "id": "avi",
+  "extension": ".avi",
+  "name": "Audio Video Interleave",
+  "category": "Video",
+  "description": "A multimedia container format introduced by Microsoft.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/avi.json"
+}

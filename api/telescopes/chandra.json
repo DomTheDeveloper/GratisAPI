@@ -1,0 +1,9 @@
+{
+  "id": "chandra",
+  "name": "Chandra X-ray Observatory",
+  "type": "Space",
+  "location_or_orbit": "Highly elliptical Earth orbit",
+  "wavelength": "X-ray",
+  "first_light_year": 1999,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/chandra.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ic-1101",
+  "name": "IC 1101",
+  "type": "Elliptical",
+  "constellation": "Serpens",
+  "distance_mly": 1045,
+  "notes": "One of the largest known galaxies, a supergiant elliptical.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ic-1101.json"
+}

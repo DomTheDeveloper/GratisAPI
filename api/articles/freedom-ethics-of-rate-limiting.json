@@ -1,0 +1,17 @@
+{
+  "id": "freedom-ethics-of-rate-limiting",
+  "title": "The Ethics of Rate Limiting",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2025-03-19",
+  "tags": [
+    "rate-limiting",
+    "ethics",
+    "access"
+  ],
+  "summary": "Rate limiting can protect a shared resource or quietly ration access for profit; the difference lies in its purpose and honesty.",
+  "body": "Rate limiting, restricting how many requests a user may make in a given time, is nearly universal in the world of APIs. It can be entirely justified or quietly coercive, and the difference lies in why it is done. Examining that difference is a small exercise in the ethics of shared resources.\n\nThere is a legitimate version. A public service has finite capacity, and a single heavy user, whether malicious or merely careless, can degrade the experience for everyone else. Limiting the rate of requests protects the commons, ensuring that one actor cannot monopolize a shared resource. Understood this way, rate limiting is like a fair-use rule at a public well: draw what you need, and leave enough for the next person.\n\nThere is also a coercive version. Many commercial APIs set their free-tier limits deliberately low, not to protect capacity but to frustrate you into paying. The limit is a sales tool disguised as a technical safeguard, calibrated to be just painful enough to push you toward a subscription. Here the scarcity is manufactured, and the ethics are quite different.\n\nThe test is honesty of purpose. Does the limit exist to keep a genuinely shared resource healthy, or to create artificial pain that a payment relieves? Is it set generously, at the level real protection requires, or stingily, at the level that maximizes conversions? A protective limit is a courtesy to other users; a coercive one is pressure dressed as a courtesy.\n\nTransparency matters too. Fair rate limiting is clearly explained, applied evenly, and set no tighter than necessary. Users can understand it and plan around it. Coercive limiting is often vague, precisely because its real logic would not survive being stated plainly.\n\nGratisAPI, being static and cheap to serve, has little need to ration access at all, and any limits exist only to keep the service healthy for everyone, never to sell you a way around them. When protecting a resource and extracting a payment point in different directions, we choose protection.",
+  "word_count": 334,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-ethics-of-rate-limiting.json"
+}

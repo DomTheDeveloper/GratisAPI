@@ -1,0 +1,10 @@
+{
+  "id": "zhe",
+  "name": "Zhe",
+  "uppercase": "Ж",
+  "lowercase": "ж",
+  "transliteration": "zh",
+  "sound": "s as in measure",
+  "order": 8,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/zhe.json"
+}

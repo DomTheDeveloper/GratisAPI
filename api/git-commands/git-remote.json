@@ -1,0 +1,7 @@
+{
+  "id": "git-remote",
+  "command": "git remote",
+  "category": "Sharing",
+  "description": "Manage the set of tracked remote repositories.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-remote.json"
+}

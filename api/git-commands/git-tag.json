@@ -1,0 +1,7 @@
+{
+  "id": "git-tag",
+  "command": "git tag",
+  "category": "Branching",
+  "description": "Create, list, or delete tags that mark specific points in history, such as releases.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-tag.json"
+}

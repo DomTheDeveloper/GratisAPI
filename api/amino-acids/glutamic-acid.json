@@ -1,0 +1,9 @@
+{
+  "id": "glutamic-acid",
+  "name": "Glutamic acid",
+  "three_letter": "Glu",
+  "one_letter": "E",
+  "essential": false,
+  "polarity": "Acidic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/glutamic-acid.json"
+}

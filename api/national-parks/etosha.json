@@ -1,0 +1,9 @@
+{
+  "id": "etosha",
+  "name": "Etosha National Park",
+  "country": "Namibia",
+  "established_year": 1907,
+  "area_km2": 22270,
+  "notable_feature": "A vast salt pan and waterholes teeming with wildlife.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/etosha.json"
+}

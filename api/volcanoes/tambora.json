@@ -1,0 +1,9 @@
+{
+  "id": "tambora",
+  "name": "Mount Tambora",
+  "country": "Indonesia",
+  "type": "Stratovolcano",
+  "elevation_m": 2850,
+  "last_major_eruption": 1815,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/tambora.json"
+}

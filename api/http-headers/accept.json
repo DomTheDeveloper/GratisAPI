@@ -1,0 +1,8 @@
+{
+  "id": "accept",
+  "header": "Accept",
+  "type": "Request",
+  "description": "Advertises which content types the client can understand.",
+  "example": "text/html",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/accept.json"
+}

@@ -1,0 +1,310 @@
+{
+  "api": "http-headers",
+  "title": "HTTP Headers",
+  "description": "Common HTTP request and response headers and their purpose.",
+  "emoji": "📨",
+  "license": "GPL-2.0-or-later",
+  "count": 36,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/{id}.json"
+  },
+  "fields": [
+    "description",
+    "example",
+    "header",
+    "id",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "accept",
+      "header": "Accept",
+      "type": "Request",
+      "description": "Advertises which content types the client can understand.",
+      "example": "text/html",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/accept.json"
+    },
+    {
+      "id": "accept-encoding",
+      "header": "Accept-Encoding",
+      "type": "Request",
+      "description": "Lists the content encodings (compression) the client accepts.",
+      "example": "gzip, deflate, br",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/accept-encoding.json"
+    },
+    {
+      "id": "accept-language",
+      "header": "Accept-Language",
+      "type": "Request",
+      "description": "Indicates the natural languages the client prefers.",
+      "example": "en-US,en;q=0.9",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/accept-language.json"
+    },
+    {
+      "id": "authorization",
+      "header": "Authorization",
+      "type": "Request",
+      "description": "Contains credentials to authenticate the client with the server.",
+      "example": "Bearer eyJhbGciOiJIUzI1NiJ9",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/authorization.json"
+    },
+    {
+      "id": "cache-control",
+      "header": "Cache-Control",
+      "type": "Both",
+      "description": "Directives for caching mechanisms in both requests and responses.",
+      "example": "no-cache",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/cache-control.json"
+    },
+    {
+      "id": "connection",
+      "header": "Connection",
+      "type": "Both",
+      "description": "Controls whether the network connection stays open after the transaction.",
+      "example": "keep-alive",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/connection.json"
+    },
+    {
+      "id": "content-encoding",
+      "header": "Content-Encoding",
+      "type": "Both",
+      "description": "Specifies the compression algorithm applied to the message body.",
+      "example": "gzip",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-encoding.json"
+    },
+    {
+      "id": "content-length",
+      "header": "Content-Length",
+      "type": "Both",
+      "description": "The size of the message body, in bytes.",
+      "example": "348",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-length.json"
+    },
+    {
+      "id": "content-type",
+      "header": "Content-Type",
+      "type": "Both",
+      "description": "Indicates the media type of the message body.",
+      "example": "application/json",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-type.json"
+    },
+    {
+      "id": "cookie",
+      "header": "Cookie",
+      "type": "Request",
+      "description": "Sends stored cookies previously set by the server back to it.",
+      "example": "session_id=abc123",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/cookie.json"
+    },
+    {
+      "id": "date",
+      "header": "Date",
+      "type": "Both",
+      "description": "The date and time at which the message was originated.",
+      "example": "Tue, 15 Nov 1994 08:12:31 GMT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/date.json"
+    },
+    {
+      "id": "etag",
+      "header": "ETag",
+      "type": "Response",
+      "description": "An identifier for a specific version of a resource, used for caching.",
+      "example": "\"33a64df5\"",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/etag.json"
+    },
+    {
+      "id": "expires",
+      "header": "Expires",
+      "type": "Response",
+      "description": "The date/time after which the response is considered stale.",
+      "example": "Wed, 21 Oct 2025 07:28:00 GMT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/expires.json"
+    },
+    {
+      "id": "host",
+      "header": "Host",
+      "type": "Request",
+      "description": "Specifies the domain name and optional port of the target server.",
+      "example": "www.example.com",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/host.json"
+    },
+    {
+      "id": "if-modified-since",
+      "header": "If-Modified-Since",
+      "type": "Request",
+      "description": "Makes the request conditional on the resource being modified since a date.",
+      "example": "Sat, 29 Oct 1994 19:43:31 GMT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/if-modified-since.json"
+    },
+    {
+      "id": "if-none-match",
+      "header": "If-None-Match",
+      "type": "Request",
+      "description": "Makes the request conditional; server responds only if the ETag differs.",
+      "example": "\"33a64df5\"",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/if-none-match.json"
+    },
+    {
+      "id": "last-modified",
+      "header": "Last-Modified",
+      "type": "Response",
+      "description": "The date and time the resource was last changed.",
+      "example": "Tue, 15 Nov 1994 12:45:26 GMT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/last-modified.json"
+    },
+    {
+      "id": "location",
+      "header": "Location",
+      "type": "Response",
+      "description": "Indicates the URL to redirect to, or the URL of a newly created resource.",
+      "example": "https://example.com/new",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/location.json"
+    },
+    {
+      "id": "origin",
+      "header": "Origin",
+      "type": "Request",
+      "description": "Indicates the origin (scheme, host, port) that caused the request.",
+      "example": "https://example.com",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/origin.json"
+    },
+    {
+      "id": "referer",
+      "header": "Referer",
+      "type": "Request",
+      "description": "The address of the page that linked to the requested resource.",
+      "example": "https://example.com/page",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/referer.json"
+    },
+    {
+      "id": "retry-after",
+      "header": "Retry-After",
+      "type": "Response",
+      "description": "Indicates how long to wait before making a follow-up request.",
+      "example": "120",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/retry-after.json"
+    },
+    {
+      "id": "server",
+      "header": "Server",
+      "type": "Response",
+      "description": "Describes the software used by the origin server.",
+      "example": "nginx/1.21.0",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/server.json"
+    },
+    {
+      "id": "set-cookie",
+      "header": "Set-Cookie",
+      "type": "Response",
+      "description": "Sends a cookie from the server to be stored by the client.",
+      "example": "session_id=abc123; HttpOnly",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/set-cookie.json"
+    },
+    {
+      "id": "transfer-encoding",
+      "header": "Transfer-Encoding",
+      "type": "Response",
+      "description": "Specifies the form of encoding used to transfer the message body.",
+      "example": "chunked",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/transfer-encoding.json"
+    },
+    {
+      "id": "user-agent",
+      "header": "User-Agent",
+      "type": "Request",
+      "description": "Identifies the client software originating the request.",
+      "example": "Mozilla/5.0",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/user-agent.json"
+    },
+    {
+      "id": "vary",
+      "header": "Vary",
+      "type": "Response",
+      "description": "Lists request headers that affect how the response is selected for caching.",
+      "example": "Accept-Encoding",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/vary.json"
+    },
+    {
+      "id": "www-authenticate",
+      "header": "WWW-Authenticate",
+      "type": "Response",
+      "description": "Defines the authentication method to gain access to a resource.",
+      "example": "Basic realm=\"Access\"",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/www-authenticate.json"
+    },
+    {
+      "id": "access-control-allow-origin",
+      "header": "Access-Control-Allow-Origin",
+      "type": "Response",
+      "description": "Indicates which origins may access the resource (CORS).",
+      "example": "*",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/access-control-allow-origin.json"
+    },
+    {
+      "id": "content-disposition",
+      "header": "Content-Disposition",
+      "type": "Response",
+      "description": "Indicates whether content is displayed inline or treated as a download.",
+      "example": "attachment; filename=\"file.pdf\"",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-disposition.json"
+    },
+    {
+      "id": "content-security-policy",
+      "header": "Content-Security-Policy",
+      "type": "Response",
+      "description": "Controls resources the user agent is allowed to load for a page.",
+      "example": "default-src 'self'",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-security-policy.json"
+    },
+    {
+      "id": "strict-transport-security",
+      "header": "Strict-Transport-Security",
+      "type": "Response",
+      "description": "Forces the browser to use HTTPS for future requests to the domain.",
+      "example": "max-age=31536000",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/strict-transport-security.json"
+    },
+    {
+      "id": "x-forwarded-for",
+      "header": "X-Forwarded-For",
+      "type": "Request",
+      "description": "Identifies the originating IP address of a client through a proxy.",
+      "example": "203.0.113.195",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/x-forwarded-for.json"
+    },
+    {
+      "id": "x-frame-options",
+      "header": "X-Frame-Options",
+      "type": "Response",
+      "description": "Controls whether a page may be rendered in a frame or iframe.",
+      "example": "DENY",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/x-frame-options.json"
+    },
+    {
+      "id": "x-content-type-options",
+      "header": "X-Content-Type-Options",
+      "type": "Response",
+      "description": "Prevents the browser from MIME-sniffing the content type.",
+      "example": "nosniff",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/x-content-type-options.json"
+    },
+    {
+      "id": "range",
+      "header": "Range",
+      "type": "Request",
+      "description": "Requests only part of a resource, specified as byte ranges.",
+      "example": "bytes=0-1023",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/range.json"
+    },
+    {
+      "id": "age",
+      "header": "Age",
+      "type": "Response",
+      "description": "The time in seconds the object has been in a proxy cache.",
+      "example": "24",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/age.json"
+    }
+  ]
+}

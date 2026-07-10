@@ -1,0 +1,231 @@
+{
+  "api": "git-commands",
+  "title": "Git Commands",
+  "description": "Common Git version control commands grouped by workflow stage.",
+  "emoji": "🔀",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/{id}.json"
+  },
+  "fields": [
+    "category",
+    "command",
+    "description",
+    "id"
+  ],
+  "results": [
+    {
+      "id": "git-init",
+      "command": "git init",
+      "category": "Setup",
+      "description": "Create an empty Git repository or reinitialize an existing one in the current directory.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-init.json"
+    },
+    {
+      "id": "git-clone",
+      "command": "git clone",
+      "category": "Setup",
+      "description": "Clone a repository into a new directory, copying its full history and setting up remote tracking.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-clone.json"
+    },
+    {
+      "id": "git-config",
+      "command": "git config",
+      "category": "Setup",
+      "description": "Get and set repository or global configuration options such as user name and email.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-config.json"
+    },
+    {
+      "id": "git-add",
+      "command": "git add",
+      "category": "Snapshot",
+      "description": "Stage changes in the working directory for inclusion in the next commit.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-add.json"
+    },
+    {
+      "id": "git-status",
+      "command": "git status",
+      "category": "Snapshot",
+      "description": "Show the working tree status, including staged, unstaged, and untracked files.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-status.json"
+    },
+    {
+      "id": "git-commit",
+      "command": "git commit",
+      "category": "Snapshot",
+      "description": "Record the staged changes to the repository along with a descriptive message.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-commit.json"
+    },
+    {
+      "id": "git-diff",
+      "command": "git diff",
+      "category": "Snapshot",
+      "description": "Show changes between commits, the working tree, and the staging area.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-diff.json"
+    },
+    {
+      "id": "git-reset",
+      "command": "git reset",
+      "category": "Snapshot",
+      "description": "Unstage files or move the current branch to a different commit, optionally altering the working tree.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-reset.json"
+    },
+    {
+      "id": "git-rm",
+      "command": "git rm",
+      "category": "Snapshot",
+      "description": "Remove files from the working tree and the staging area.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-rm.json"
+    },
+    {
+      "id": "git-mv",
+      "command": "git mv",
+      "category": "Snapshot",
+      "description": "Move or rename a file, directory, or symlink while staging the change.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-mv.json"
+    },
+    {
+      "id": "git-stash",
+      "command": "git stash",
+      "category": "Snapshot",
+      "description": "Temporarily shelve uncommitted changes so you can work on something else, then reapply them later.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-stash.json"
+    },
+    {
+      "id": "git-restore",
+      "command": "git restore",
+      "category": "Snapshot",
+      "description": "Restore working tree files to a previous state or unstage changes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-restore.json"
+    },
+    {
+      "id": "git-branch",
+      "command": "git branch",
+      "category": "Branching",
+      "description": "List, create, or delete branches.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-branch.json"
+    },
+    {
+      "id": "git-checkout",
+      "command": "git checkout",
+      "category": "Branching",
+      "description": "Switch branches or restore working tree files.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-checkout.json"
+    },
+    {
+      "id": "git-switch",
+      "command": "git switch",
+      "category": "Branching",
+      "description": "Switch to an existing branch or create a new one, a modern alternative to checkout.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-switch.json"
+    },
+    {
+      "id": "git-merge",
+      "command": "git merge",
+      "category": "Branching",
+      "description": "Join two or more development histories together into the current branch.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-merge.json"
+    },
+    {
+      "id": "git-rebase",
+      "command": "git rebase",
+      "category": "Branching",
+      "description": "Reapply commits on top of another base tip to produce a linear history.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-rebase.json"
+    },
+    {
+      "id": "git-tag",
+      "command": "git tag",
+      "category": "Branching",
+      "description": "Create, list, or delete tags that mark specific points in history, such as releases.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-tag.json"
+    },
+    {
+      "id": "git-cherry-pick",
+      "command": "git cherry-pick",
+      "category": "Branching",
+      "description": "Apply the changes introduced by one or more existing commits onto the current branch.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-cherry-pick.json"
+    },
+    {
+      "id": "git-fetch",
+      "command": "git fetch",
+      "category": "Sharing",
+      "description": "Download objects and refs from a remote repository without merging them.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-fetch.json"
+    },
+    {
+      "id": "git-pull",
+      "command": "git pull",
+      "category": "Sharing",
+      "description": "Fetch from a remote repository and integrate the changes into the current branch.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-pull.json"
+    },
+    {
+      "id": "git-push",
+      "command": "git push",
+      "category": "Sharing",
+      "description": "Upload local commits and refs to a remote repository.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-push.json"
+    },
+    {
+      "id": "git-remote",
+      "command": "git remote",
+      "category": "Sharing",
+      "description": "Manage the set of tracked remote repositories.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-remote.json"
+    },
+    {
+      "id": "git-log",
+      "command": "git log",
+      "category": "Inspection",
+      "description": "Show the commit history for the current branch.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-log.json"
+    },
+    {
+      "id": "git-show",
+      "command": "git show",
+      "category": "Inspection",
+      "description": "Display details about a commit, tag, or other Git object, including its diff.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-show.json"
+    },
+    {
+      "id": "git-blame",
+      "command": "git blame",
+      "category": "Inspection",
+      "description": "Show what revision and author last modified each line of a file.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-blame.json"
+    },
+    {
+      "id": "git-reflog",
+      "command": "git reflog",
+      "category": "Inspection",
+      "description": "Show a log of where the branch tips and HEAD have pointed, useful for recovering lost commits.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-reflog.json"
+    },
+    {
+      "id": "git-bisect",
+      "command": "git bisect",
+      "category": "Inspection",
+      "description": "Use binary search through the commit history to find the commit that introduced a bug.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-bisect.json"
+    },
+    {
+      "id": "git-grep",
+      "command": "git grep",
+      "category": "Inspection",
+      "description": "Search tracked files in the working tree or a commit for lines matching a pattern.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-grep.json"
+    },
+    {
+      "id": "git-clean",
+      "command": "git clean",
+      "category": "Snapshot",
+      "description": "Remove untracked files from the working tree.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-clean.json"
+    }
+  ]
+}

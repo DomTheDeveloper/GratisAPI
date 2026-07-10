@@ -1,0 +1,9 @@
+{
+  "id": "taal",
+  "name": "Taal Volcano",
+  "country": "Philippines",
+  "type": "Caldera",
+  "elevation_m": 311,
+  "last_major_eruption": 2022,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/taal.json"
+}

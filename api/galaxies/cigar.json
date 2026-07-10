@@ -1,0 +1,9 @@
+{
+  "id": "cigar",
+  "name": "Cigar Galaxy (M82)",
+  "type": "Irregular",
+  "constellation": "Ursa Major",
+  "distance_mly": 12,
+  "notes": "A starburst galaxy undergoing intense star formation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/cigar.json"
+}

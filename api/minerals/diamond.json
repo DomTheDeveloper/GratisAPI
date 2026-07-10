@@ -1,0 +1,9 @@
+{
+  "id": "diamond",
+  "name": "Diamond",
+  "chemical_formula": "C",
+  "mohs_hardness": 10.0,
+  "color": "Colorless to yellow, brown, or blue",
+  "luster": "Adamantine",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/diamond.json"
+}

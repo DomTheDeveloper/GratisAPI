@@ -1,0 +1,7 @@
+{
+  "id": "adventure",
+  "name": "Adventure",
+  "description": "Stories of journeys, quests, and exploration in exotic or dangerous settings.",
+  "example_film": "Raiders of the Lost Ark",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/adventure.json"
+}

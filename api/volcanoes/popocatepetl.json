@@ -1,0 +1,9 @@
+{
+  "id": "popocatepetl",
+  "name": "Popocatepetl",
+  "country": "Mexico",
+  "type": "Stratovolcano",
+  "elevation_m": 5426,
+  "last_major_eruption": 2023,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/popocatepetl.json"
+}

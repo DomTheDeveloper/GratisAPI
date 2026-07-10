@@ -1,0 +1,10 @@
+{
+  "id": "zifeng-tower",
+  "name": "Zifeng Tower",
+  "city": "Nanjing",
+  "country": "China",
+  "height_m": 450,
+  "floors": 89,
+  "completed_year": 2010,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/zifeng-tower.json"
+}

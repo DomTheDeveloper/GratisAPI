@@ -1,0 +1,17 @@
+{
+  "id": "howto-openapi-swagger",
+  "title": "Using the OpenAPI Spec and Swagger UI",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2025-01-14",
+  "tags": [
+    "openapi",
+    "swagger",
+    "documentation"
+  ],
+  "summary": "Explore GratisAPI endpoints interactively and generate clients using the published OpenAPI specification.",
+  "body": "GratisAPI publishes a machine-readable OpenAPI specification that describes its endpoints, response shapes, and metadata. This document unlocks interactive documentation, client generation, and validation, all from a single source of truth.\n\nThe OpenAPI file is linked from the root index at /api/index.json under the openapi field, and the project's documentation site presents it through Swagger UI. Swagger UI renders the spec as a browsable page where each endpoint is listed with its description and example responses. You can expand an operation and use the Try it out button to send a live request and see the actual JSON come back, which is a fast way to learn an endpoint before writing any code.\n\nBecause the spec is standard OpenAPI, it works with the broad ecosystem of tools built around that format. You can feed it to a code generator such as openapi-generator to produce a typed client library in your language of choice, saving you from writing request and model code by hand. You can import it into API testing tools like Postman or Insomnia to get a ready-made collection of requests. You can also use it to validate that responses match the documented schema in your test suite.\n\nReading the spec directly is useful too. It lists every collection, the structure of each record, and the URL patterns, so it doubles as a concise catalog of what GratisAPI offers. Since the endpoints require no authentication, the spec has no security schemes to configure; you point a tool at it and go.\n\nKeeping documentation in an OpenAPI file rather than prose means the description stays accurate and testable as the API grows. For consumers, it lowers the barrier to entry: explore interactively in Swagger UI, generate a client in seconds, and trust that the documented shapes match what the static files actually return.",
+  "word_count": 302,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-openapi-swagger.json"
+}

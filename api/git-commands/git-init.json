@@ -1,0 +1,7 @@
+{
+  "id": "git-init",
+  "command": "git init",
+  "category": "Setup",
+  "description": "Create an empty Git repository or reinitialize an existing one in the current directory.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-init.json"
+}

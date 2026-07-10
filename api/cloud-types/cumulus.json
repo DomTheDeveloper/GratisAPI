@@ -1,0 +1,8 @@
+{
+  "id": "cumulus",
+  "name": "Cumulus",
+  "abbreviation": "Cu",
+  "altitude_level": "Low",
+  "description": "Detached, puffy fair-weather clouds with flat bases and cauliflower tops.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cumulus.json"
+}

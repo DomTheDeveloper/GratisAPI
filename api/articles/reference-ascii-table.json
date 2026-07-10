@@ -1,0 +1,17 @@
+{
+  "id": "reference-ascii-table",
+  "title": "The ASCII Table",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-07-10",
+  "tags": [
+    "ascii",
+    "encoding",
+    "text"
+  ],
+  "summary": "ASCII is the foundational character encoding that maps letters, digits, and symbols to numbers.",
+  "body": "Computers store everything as numbers, including text. ASCII, the American Standard Code for Information Interchange, is the scheme that first gave every common English character an agreed number. Created in the early 1960s, it remains the bedrock beneath almost all modern text handling.\n\nASCII defines 128 codes, numbered 0 through 127. The first 32 are control codes, invisible signals such as newline, tab, and carriage return that once directed printers and terminals. The remaining codes cover printable characters: the space, punctuation, the digits 0 through 9, and the uppercase and lowercase English letters. So the letter A is 65, the letter a is 97, and the digit 0 is 48.\n\nThe layout of ASCII was designed with clever patterns. Uppercase and lowercase letters are separated by exactly 32, so you can switch case by adding or subtracting that value. The digits are arranged in order starting at 48, so converting a digit character to its numeric value is simple subtraction. These regularities made early text processing efficient on limited hardware.\n\nBecause ASCII only covers English, it could not represent accented letters or other scripts. That limitation led to many incompatible extensions and eventually to Unicode, which includes ASCII as its first 128 codes. This backward compatibility means every ASCII document is already valid modern text.\n\nGratisAPI provides the full table at /api/ascii/index.json. Each entry gives a code, the character it represents, and a description, which is useful for building encoders, teaching demos, or debugging tools that show the raw bytes behind text. Having the table as data saves you from retyping it.\n\nEven decades after its creation, ASCII quietly underlies programming languages, file formats, and network protocols. Learning the table gives you insight into how text truly works inside a computer, and it makes many puzzling encoding problems suddenly clear.",
+  "word_count": 300,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-ascii-table.json"
+}

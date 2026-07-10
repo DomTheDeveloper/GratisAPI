@@ -1,0 +1,9 @@
+{
+  "id": "sombrero",
+  "name": "Sombrero Galaxy (M104)",
+  "type": "Lenticular",
+  "constellation": "Virgo",
+  "distance_mly": 29,
+  "notes": "Noted for its bright nucleus and prominent dust lane.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/sombrero.json"
+}

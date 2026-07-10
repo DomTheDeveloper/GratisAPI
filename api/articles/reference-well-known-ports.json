@@ -1,0 +1,17 @@
+{
+  "id": "reference-well-known-ports",
+  "title": "Well Known Network Ports",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-06-19",
+  "tags": [
+    "networking",
+    "ports",
+    "tcp"
+  ],
+  "summary": "Well known ports are reserved numbers that identify common network services like web and email.",
+  "body": "When two computers talk over a network, an address alone is not enough. A single machine may run many services at once, so each connection also names a port, a number that identifies which service the traffic is meant for. Ports let one server host a website, an email service, and a database without confusion.\n\nPort numbers range from 0 to 65535, and they are divided into groups. The lowest range, from 0 to 1023, holds the well known ports, reserved for common services by a central authority. Above that sits a range of registered ports assigned to specific applications, and the highest range is left free for temporary connections that clients create on the fly.\n\nMany well known ports are worth memorizing. Web traffic uses port 80 for plain HTTP and port 443 for secure HTTPS. Email relies on port 25 for sending mail and other numbers for retrieving it. Secure remote login over SSH uses port 22, file transfer over FTP uses port 21, and domain name lookups use port 53. Knowing these makes reading network configuration far easier.\n\nPorts combine with the transport protocol to form a complete endpoint. Most services run over TCP, which provides reliable ordered delivery, while some real time services use UDP, which is faster but less careful. The same number can mean different things on TCP and UDP, so both matter.\n\nGratisAPI offers this reference at /api/tcp-ports/index.json. Each entry lists a port number, the service that uses it, and a short description, which is useful for building firewall tools, teaching material, or configuration checkers. Rather than searching scattered documentation, you can pull the whole table in one request.\n\nUnderstanding ports demystifies a great deal of networking. Once you know that an address plus a port names a specific service, concepts like firewalls, forwarding, and secure connections become much easier to reason about.",
+  "word_count": 310,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-well-known-ports.json"
+}

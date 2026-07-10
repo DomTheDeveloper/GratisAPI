@@ -1,0 +1,10 @@
+{
+  "id": "lotte-world-tower",
+  "name": "Lotte World Tower",
+  "city": "Seoul",
+  "country": "South Korea",
+  "height_m": 555,
+  "floors": 123,
+  "completed_year": 2017,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/lotte-world-tower.json"
+}

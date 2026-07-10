@@ -1,0 +1,7 @@
+{
+  "id": "values",
+  "keyword": "VALUES",
+  "category": "Clause",
+  "description": "Specifies the data to insert with an INSERT statement.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/values.json"
+}

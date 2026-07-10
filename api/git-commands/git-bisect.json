@@ -1,0 +1,7 @@
+{
+  "id": "git-bisect",
+  "command": "git bisect",
+  "category": "Inspection",
+  "description": "Use binary search through the commit history to find the commit that introduced a bug.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-bisect.json"
+}

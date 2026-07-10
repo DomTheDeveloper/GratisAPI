@@ -1,0 +1,7 @@
+{
+  "id": "union",
+  "keyword": "UNION",
+  "category": "Operator",
+  "description": "Combines the result sets of two queries, removing duplicates.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/union.json"
+}

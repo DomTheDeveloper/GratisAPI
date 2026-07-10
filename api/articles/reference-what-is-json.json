@@ -1,0 +1,17 @@
+{
+  "id": "reference-what-is-json",
+  "title": "What is JSON?",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-01",
+  "tags": [
+    "json",
+    "data",
+    "format"
+  ],
+  "summary": "JSON is a lightweight, human readable format for exchanging structured data between programs.",
+  "body": "JSON stands for JavaScript Object Notation. It is a text format for representing structured data, and it has become the common language of web APIs. Despite the name, JSON is not tied to JavaScript; almost every programming language can read and write it.\n\nJSON is built from a few simple pieces. There are objects, which are collections of name and value pairs wrapped in curly braces. There are arrays, which are ordered lists wrapped in square brackets. And there are basic values: strings of text, numbers, the words true and false, and the empty value null. By nesting these pieces you can describe almost any data, from a single number to a deep tree of records.\n\nThe format became popular because it is both easy for people to read and easy for machines to parse. Compared to older formats, JSON is compact and has very little ceremony. A person can glance at a JSON document and understand its shape, while a program can turn that same text into native data structures in a single call.\n\nEvery dataset in GratisAPI is delivered as JSON. When you request an address such as /api/ascii/index.json, the server returns a JSON document, usually an array of objects where each object describes one entry. Your code parses that text and works with the values directly.\n\nA few rules keep JSON reliable. Strings must use double quotes, names in objects must be strings, and there are no trailing commas or comments. These constraints make the format strict enough that parsers rarely disagree about what a document means. That predictability is exactly why JSON has become the default choice for sending data across the web, and why every reference dataset in this project speaks it.",
+  "word_count": 287,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-what-is-json.json"
+}

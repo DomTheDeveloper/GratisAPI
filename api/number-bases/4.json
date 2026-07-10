@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "Quinary",
+  "base": 5,
+  "digits": "01234",
+  "common_use": "Some tally and abacus systems; historical counting.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/4.json"
+}

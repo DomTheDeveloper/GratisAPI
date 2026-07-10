@@ -1,0 +1,9 @@
+{
+  "id": "snowdonia",
+  "name": "Snowdonia National Park",
+  "country": "United Kingdom",
+  "established_year": 1951,
+  "area_km2": 2176,
+  "notable_feature": "Rugged Welsh mountains crowned by Mount Snowdon.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/snowdonia.json"
+}

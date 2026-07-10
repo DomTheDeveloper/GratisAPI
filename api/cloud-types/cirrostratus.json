@@ -1,0 +1,8 @@
+{
+  "id": "cirrostratus",
+  "name": "Cirrostratus",
+  "abbreviation": "Cs",
+  "altitude_level": "High",
+  "description": "Transparent, whitish veil that can produce a halo around the sun or moon.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cirrostratus.json"
+}

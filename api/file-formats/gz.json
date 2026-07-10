@@ -1,0 +1,8 @@
+{
+  "id": "gz",
+  "extension": ".gz",
+  "name": "Gzip Archive",
+  "category": "Archive",
+  "description": "A file compressed with the gzip algorithm.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/gz.json"
+}

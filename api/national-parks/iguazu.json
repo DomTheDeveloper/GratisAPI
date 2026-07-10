@@ -1,0 +1,9 @@
+{
+  "id": "iguazu",
+  "name": "Iguazu National Park",
+  "country": "Argentina",
+  "established_year": 1934,
+  "area_km2": 672,
+  "notable_feature": "The vast Iguazu Falls system on the border with Brazil.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/iguazu.json"
+}

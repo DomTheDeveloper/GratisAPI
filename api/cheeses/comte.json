@@ -1,0 +1,9 @@
+{
+  "id": "comte",
+  "name": "Comte",
+  "country_of_origin": "France",
+  "milk": "Cow",
+  "texture": "Hard",
+  "flavor": "Nutty, sweet, and complex",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/comte.json"
+}

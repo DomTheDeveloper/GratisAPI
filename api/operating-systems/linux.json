@@ -1,0 +1,9 @@
+{
+  "id": "linux",
+  "name": "Linux",
+  "family": "Linux",
+  "first_release_year": 1991,
+  "developer": "Linus Torvalds",
+  "kernel": "Linux",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/linux.json"
+}

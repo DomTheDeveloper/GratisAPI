@@ -1,0 +1,17 @@
+{
+  "id": "science-math-constants-beyond-pi",
+  "title": "Mathematical Constants Beyond Pi",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-11-16",
+  "tags": [
+    "mathematics",
+    "constants",
+    "numbers"
+  ],
+  "summary": "Beyond the familiar pi lies a rich world of mathematical constants like e and the square root of two, each capturing a deep truth about numbers.",
+  "body": "Almost everyone knows pi, the ratio of a circle's circumference to its diameter, roughly 3.14159. But pi is only the most famous member of a large family of mathematical constants, fixed numbers that arise again and again across mathematics and carry deep meaning.\n\nStanding beside pi in importance is e, sometimes called Euler's number, approximately 2.71828. It is the natural base of exponential growth and decay, appearing wherever something grows in proportion to its current size, from compound interest to radioactive decay to population models. The function that is its own derivative is built on e, which makes it indispensable in calculus.\n\nAnother ancient constant is the square root of two, about 1.41421, the length of the diagonal of a unit square. Its discovery by the ancient Greeks was momentous because it is irrational, meaning it cannot be written as a simple fraction. Legend holds that this revelation deeply unsettled the Pythagoreans, who had believed all numbers were ratios of whole numbers.\n\nSome constants remain mysterious. The Euler Mascheroni constant, near 0.5772, links the harmonic series to the natural logarithm, yet mathematicians still do not know whether it is even irrational. Others, like Euler's number and pi, have been proven not only irrational but transcendental, meaning they are not the solution to any simple polynomial equation.\n\nWhat unites these numbers is that they are not arbitrary. Each one is forced into existence by the structure of mathematics itself, and each shows up unexpectedly in fields far from where it was first found. The elegant identity linking e, pi, i, one, and zero is often called the most beautiful equation in mathematics.\n\nYou can explore the values and descriptions of these numbers through the GratisAPI endpoint at /api/math-constants/index.json.",
+  "word_count": 287,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-math-constants-beyond-pi.json"
+}

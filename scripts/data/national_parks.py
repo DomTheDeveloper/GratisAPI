@@ -1,0 +1,41 @@
+"""Famous national parks around the world with location, size, and notable features."""
+
+META = {
+    "name": "national_parks",
+    "title": "National Parks",
+    "description": "Famous national parks worldwide with their location, size, and notable features.",
+    "emoji": "\U0001F3DE️",
+}
+
+ITEMS = [
+    {"id": "yellowstone", "name": "Yellowstone National Park", "country": "United States", "established_year": 1872, "area_km2": 8991, "notable_feature": "Geothermal geysers including Old Faithful and abundant wildlife."},
+    {"id": "yosemite", "name": "Yosemite National Park", "country": "United States", "established_year": 1890, "area_km2": 3027, "notable_feature": "Granite cliffs like El Capitan and Half Dome, and giant sequoias."},
+    {"id": "grand-canyon", "name": "Grand Canyon National Park", "country": "United States", "established_year": 1919, "area_km2": 4926, "notable_feature": "A mile-deep canyon carved by the Colorado River."},
+    {"id": "banff", "name": "Banff National Park", "country": "Canada", "established_year": 1885, "area_km2": 6641, "notable_feature": "Turquoise glacial lakes and Rocky Mountain peaks."},
+    {"id": "jasper", "name": "Jasper National Park", "country": "Canada", "established_year": 1907, "area_km2": 11000, "notable_feature": "Largest park in the Canadian Rockies, known for dark-sky stargazing."},
+    {"id": "torres-del-paine", "name": "Torres del Paine National Park", "country": "Chile", "established_year": 1959, "area_km2": 2270, "notable_feature": "Dramatic granite towers, glaciers, and Patagonian steppe."},
+    {"id": "iguazu", "name": "Iguazu National Park", "country": "Argentina", "established_year": 1934, "area_km2": 672, "notable_feature": "The vast Iguazu Falls system on the border with Brazil."},
+    {"id": "serengeti", "name": "Serengeti National Park", "country": "Tanzania", "established_year": 1951, "area_km2": 14750, "notable_feature": "The great wildebeest migration across endless plains."},
+    {"id": "kruger", "name": "Kruger National Park", "country": "South Africa", "established_year": 1926, "area_km2": 19485, "notable_feature": "One of Africa's largest reserves, home to the Big Five."},
+    {"id": "maasai-mara", "name": "Maasai Mara National Reserve", "country": "Kenya", "established_year": 1961, "area_km2": 1510, "notable_feature": "Big-cat country and northern end of the wildebeest migration."},
+    {"id": "fiordland", "name": "Fiordland National Park", "country": "New Zealand", "established_year": 1952, "area_km2": 12500, "notable_feature": "Deep glacier-carved fjords including Milford Sound."},
+    {"id": "kakadu", "name": "Kakadu National Park", "country": "Australia", "established_year": 1979, "area_km2": 19804, "notable_feature": "Ancient Aboriginal rock art, wetlands, and crocodiles."},
+    {"id": "plitvice-lakes", "name": "Plitvice Lakes National Park", "country": "Croatia", "established_year": 1949, "area_km2": 295, "notable_feature": "A cascade of terraced lakes linked by waterfalls."},
+    {"id": "swiss-national-park", "name": "Swiss National Park", "country": "Switzerland", "established_year": 1914, "area_km2": 170, "notable_feature": "The Alps' oldest national park, a strict wilderness reserve."},
+    {"id": "vatnajokull", "name": "Vatnajokull National Park", "country": "Iceland", "established_year": 2008, "area_km2": 14700, "notable_feature": "Europe's largest glacier, with ice caves and volcanoes."},
+    {"id": "sarek", "name": "Sarek National Park", "country": "Sweden", "established_year": 1909, "area_km2": 1970, "notable_feature": "Roadless Arctic wilderness of peaks, glaciers, and valleys."},
+    {"id": "etosha", "name": "Etosha National Park", "country": "Namibia", "established_year": 1907, "area_km2": 22270, "notable_feature": "A vast salt pan and waterholes teeming with wildlife."},
+    {"id": "galapagos", "name": "Galapagos National Park", "country": "Ecuador", "established_year": 1959, "area_km2": 7995, "notable_feature": "Endemic wildlife that inspired Darwin's theory of evolution."},
+    {"id": "manu", "name": "Manu National Park", "country": "Peru", "established_year": 1973, "area_km2": 17163, "notable_feature": "Amazon biodiversity hotspot spanning Andes to rainforest."},
+    {"id": "tikal", "name": "Tikal National Park", "country": "Guatemala", "established_year": 1955, "area_km2": 575, "notable_feature": "Ancient Maya temples rising above dense jungle."},
+    {"id": "komodo", "name": "Komodo National Park", "country": "Indonesia", "established_year": 1980, "area_km2": 1733, "notable_feature": "The wild habitat of the Komodo dragon."},
+    {"id": "chitwan", "name": "Chitwan National Park", "country": "Nepal", "established_year": 1973, "area_km2": 953, "notable_feature": "One-horned rhinos and Bengal tigers in lowland jungle."},
+    {"id": "jim-corbett", "name": "Jim Corbett National Park", "country": "India", "established_year": 1936, "area_km2": 521, "notable_feature": "India's oldest national park, a Bengal tiger stronghold."},
+    {"id": "zhangjiajie", "name": "Zhangjiajie National Forest Park", "country": "China", "established_year": 1982, "area_km2": 48, "notable_feature": "Towering quartzite sandstone pillars rising through mist."},
+    {"id": "fuji-hakone-izu", "name": "Fuji-Hakone-Izu National Park", "country": "Japan", "established_year": 1936, "area_km2": 1227, "notable_feature": "Encompasses Mount Fuji, hot springs, and the Izu coast."},
+    {"id": "snowdonia", "name": "Snowdonia National Park", "country": "United Kingdom", "established_year": 1951, "area_km2": 2176, "notable_feature": "Rugged Welsh mountains crowned by Mount Snowdon."},
+    {"id": "cairngorms", "name": "Cairngorms National Park", "country": "United Kingdom", "established_year": 2003, "area_km2": 4528, "notable_feature": "The UK's largest national park, with high Scottish plateaus."},
+    {"id": "sagarmatha", "name": "Sagarmatha National Park", "country": "Nepal", "established_year": 1976, "area_km2": 1148, "notable_feature": "Home to Mount Everest and Sherpa mountain culture."},
+    {"id": "tongariro", "name": "Tongariro National Park", "country": "New Zealand", "established_year": 1887, "area_km2": 786, "notable_feature": "Active volcanoes and the famous Alpine Crossing trek."},
+    {"id": "denali", "name": "Denali National Park", "country": "United States", "established_year": 1917, "area_km2": 24585, "notable_feature": "Denali, the highest peak in North America, amid subarctic wilderness."},
+]

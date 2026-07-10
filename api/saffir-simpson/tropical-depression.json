@@ -1,0 +1,9 @@
+{
+  "id": "tropical-depression",
+  "category": "Tropical Depression",
+  "wind_kmh_min": 0,
+  "wind_kmh_max": 62,
+  "damage": "No significant damage; heavy rain and flooding possible.",
+  "storm_surge_m": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/tropical-depression.json"
+}

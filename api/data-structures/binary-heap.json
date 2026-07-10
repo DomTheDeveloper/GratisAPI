@@ -1,0 +1,10 @@
+{
+  "id": "binary-heap",
+  "name": "Binary Heap",
+  "category": "Heap",
+  "access_big_o": "O(1)",
+  "search_big_o": "O(n)",
+  "insert_big_o": "O(log n)",
+  "description": "A complete binary tree satisfying the heap property; the min or max element is always at the root.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/binary-heap.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "monterey-jack",
+  "name": "Monterey Jack",
+  "country_of_origin": "United States",
+  "milk": "Cow",
+  "texture": "Semi-hard",
+  "flavor": "Mild, buttery, and creamy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/monterey-jack.json"
+}

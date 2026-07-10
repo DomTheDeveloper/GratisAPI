@@ -1,0 +1,17 @@
+{
+  "id": "howto-browser-caching",
+  "title": "Caching GratisAPI Responses in the Browser",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-09-25",
+  "tags": [
+    "javascript",
+    "caching",
+    "performance"
+  ],
+  "summary": "Speed up repeat visits by caching GratisAPI data with localStorage, the Cache API, or a service worker.",
+  "body": "GratisAPI endpoints are static files that change only when the project is redeployed, which makes them excellent candidates for aggressive client-side caching. Caching cuts repeat load times and reduces needless bandwidth.\n\nThe simplest option is localStorage. After the first fetch, store the JSON string keyed by URL, and on later loads read from storage before hitting the network:\n\nasync function getCached(url) {\n  const hit = localStorage.getItem(url);\n  if (hit) return JSON.parse(hit);\n  const res = await fetch(url);\n  const text = await res.text();\n  localStorage.setItem(url, text);\n  return JSON.parse(text);\n}\n\nThis works well for small collections. To avoid serving stale data forever, store a timestamp alongside the value and treat entries older than a chosen window as expired, re-fetching when needed. Since the data only changes on redeploy, a generous expiry such as a day is usually safe.\n\nFor larger payloads or offline support, the Cache API is a better fit. It stores full Response objects and is designed to work inside a service worker. A service worker can intercept requests to GratisAPI and serve them from the cache first, falling back to the network on a miss. A stale-while-revalidate strategy returns the cached copy immediately for speed while quietly refreshing it in the background.\n\nYou can also lean on the browser's own HTTP cache. GitHub Pages serves these files with cache-friendly headers and ETags, so a normal fetch may already be satisfied from cache without any code on your part. Adding an explicit layer simply gives you more control over expiry and offline behavior.\n\nWhichever method you choose, remember to provide a way to clear the cache during development so you always see fresh data after a redeploy. With sensible caching, a GratisAPI-powered page loads instantly on return visits while still respecting the API's static nature.",
+  "word_count": 292,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-browser-caching.json"
+}

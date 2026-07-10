@@ -1,0 +1,7 @@
+{
+  "id": "git-stash",
+  "command": "git stash",
+  "category": "Snapshot",
+  "description": "Temporarily shelve uncommitted changes so you can work on something else, then reapply them later.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-stash.json"
+}

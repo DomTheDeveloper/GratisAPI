@@ -1,0 +1,7 @@
+{
+  "id": "like",
+  "keyword": "LIKE",
+  "category": "Operator",
+  "description": "Matches a value against a pattern using wildcards.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/like.json"
+}

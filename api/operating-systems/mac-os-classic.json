@@ -1,0 +1,9 @@
+{
+  "id": "mac-os-classic",
+  "name": "Mac OS (Classic)",
+  "family": "Other",
+  "first_release_year": 1984,
+  "developer": "Apple",
+  "kernel": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/mac-os-classic.json"
+}

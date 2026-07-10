@@ -1,0 +1,9 @@
+{
+  "id": "histidine",
+  "name": "Histidine",
+  "three_letter": "His",
+  "one_letter": "H",
+  "essential": true,
+  "polarity": "Basic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/histidine.json"
+}

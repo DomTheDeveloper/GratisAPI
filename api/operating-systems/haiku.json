@@ -1,0 +1,9 @@
+{
+  "id": "haiku",
+  "name": "Haiku",
+  "family": "Other",
+  "first_release_year": 2009,
+  "developer": "Haiku Inc.",
+  "kernel": "Haiku kernel",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/haiku.json"
+}

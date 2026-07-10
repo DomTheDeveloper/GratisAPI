@@ -1,0 +1,8 @@
+{
+  "id": "7z",
+  "extension": ".7z",
+  "name": "7-Zip Archive",
+  "category": "Archive",
+  "description": "An open archive format with a high compression ratio.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/7z.json"
+}

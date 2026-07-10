@@ -1,0 +1,8 @@
+{
+  "id": "pancreas",
+  "name": "Pancreas",
+  "system": "Digestive system",
+  "function": "Secretes digestive enzymes and regulates blood sugar via insulin.",
+  "location": "Behind the stomach",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/pancreas.json"
+}

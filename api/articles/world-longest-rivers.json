@@ -1,0 +1,16 @@
+{
+  "id": "world-longest-rivers",
+  "title": "The Longest Rivers",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-05-18",
+  "tags": [
+    "rivers",
+    "geography"
+  ],
+  "summary": "The Nile and the Amazon vie for the title of longest river, each stretching more than 6,000 kilometres. This article explores the world's great waterways.",
+  "body": "Rivers are the arteries of the continents, carrying water, sediment, and life from mountain sources to the sea. The longest of them span thousands of kilometres and drain areas larger than many countries.\n\nThe title of longest river is genuinely contested. The Nile in Africa is traditionally cited at around 6,650 kilometres, flowing north through eleven countries to the Mediterranean. The Amazon in South America is close behind and, by some measurements that trace its most distant source, may actually be longer. The debate hinges on where exactly each river begins, which is harder to pin down than it sounds.\n\nWhat is not in dispute is the Amazon's dominance by volume. It carries more water than the next several largest rivers combined, discharging so much freshwater that it noticeably dilutes the ocean far offshore. Its basin holds the largest rainforest on Earth and an astonishing share of the planet's biodiversity.\n\nOther great rivers have shaped human history just as profoundly. The Yangtze and Yellow rivers cradled Chinese civilisation, the Tigris and Euphrates gave rise to the first cities of Mesopotamia, and the Mississippi drains the heart of North America. Wherever rivers flow reliably, people have gathered to farm, trade, and build.\n\nRivers face growing pressure from dams, pollution, and a changing climate that alters the snow and rain that feed them. Understanding them starts with good data. The GratisAPI rivers dataset at /api/rivers/index.json lists major rivers with their lengths and the continents they cross, a handy foundation for maps, quizzes, and lessons about the waterways that sustain us.",
+  "word_count": 258,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-longest-rivers.json"
+}

@@ -1,0 +1,326 @@
+{
+  "api": "human-bones",
+  "title": "Human Bones",
+  "description": "Notable bones of the human skeleton grouped by body region and bone type.",
+  "emoji": "🦴",
+  "license": "GPL-2.0-or-later",
+  "count": 38,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/{id}.json"
+  },
+  "fields": [
+    "id",
+    "latin_name",
+    "name",
+    "region",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "frontal-bone",
+      "name": "Frontal bone",
+      "latin_name": "Os frontale",
+      "region": "Skull",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/frontal-bone.json"
+    },
+    {
+      "id": "parietal-bone",
+      "name": "Parietal bone",
+      "latin_name": "Os parietale",
+      "region": "Skull",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/parietal-bone.json"
+    },
+    {
+      "id": "temporal-bone",
+      "name": "Temporal bone",
+      "latin_name": "Os temporale",
+      "region": "Skull",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/temporal-bone.json"
+    },
+    {
+      "id": "occipital-bone",
+      "name": "Occipital bone",
+      "latin_name": "Os occipitale",
+      "region": "Skull",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/occipital-bone.json"
+    },
+    {
+      "id": "sphenoid-bone",
+      "name": "Sphenoid bone",
+      "latin_name": "Os sphenoidale",
+      "region": "Skull",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/sphenoid-bone.json"
+    },
+    {
+      "id": "ethmoid-bone",
+      "name": "Ethmoid bone",
+      "latin_name": "Os ethmoidale",
+      "region": "Skull",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/ethmoid-bone.json"
+    },
+    {
+      "id": "mandible",
+      "name": "Mandible",
+      "latin_name": "Mandibula",
+      "region": "Skull",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/mandible.json"
+    },
+    {
+      "id": "maxilla",
+      "name": "Maxilla",
+      "latin_name": "Maxilla",
+      "region": "Skull",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/maxilla.json"
+    },
+    {
+      "id": "zygomatic-bone",
+      "name": "Zygomatic bone",
+      "latin_name": "Os zygomaticum",
+      "region": "Skull",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/zygomatic-bone.json"
+    },
+    {
+      "id": "nasal-bone",
+      "name": "Nasal bone",
+      "latin_name": "Os nasale",
+      "region": "Skull",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/nasal-bone.json"
+    },
+    {
+      "id": "vomer",
+      "name": "Vomer",
+      "latin_name": "Vomer",
+      "region": "Skull",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/vomer.json"
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas (C1)",
+      "latin_name": "Atlas",
+      "region": "Spine",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/atlas.json"
+    },
+    {
+      "id": "axis",
+      "name": "Axis (C2)",
+      "latin_name": "Axis",
+      "region": "Spine",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/axis.json"
+    },
+    {
+      "id": "sacrum",
+      "name": "Sacrum",
+      "latin_name": "Os sacrum",
+      "region": "Spine",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/sacrum.json"
+    },
+    {
+      "id": "coccyx",
+      "name": "Coccyx",
+      "latin_name": "Os coccygis",
+      "region": "Spine",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/coccyx.json"
+    },
+    {
+      "id": "sternum",
+      "name": "Sternum",
+      "latin_name": "Sternum",
+      "region": "Thorax",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/sternum.json"
+    },
+    {
+      "id": "rib",
+      "name": "Rib",
+      "latin_name": "Costa",
+      "region": "Thorax",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/rib.json"
+    },
+    {
+      "id": "hyoid-bone",
+      "name": "Hyoid bone",
+      "latin_name": "Os hyoideum",
+      "region": "Thorax",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/hyoid-bone.json"
+    },
+    {
+      "id": "clavicle",
+      "name": "Clavicle",
+      "latin_name": "Clavicula",
+      "region": "Arm",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/clavicle.json"
+    },
+    {
+      "id": "scapula",
+      "name": "Scapula",
+      "latin_name": "Scapula",
+      "region": "Arm",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/scapula.json"
+    },
+    {
+      "id": "humerus",
+      "name": "Humerus",
+      "latin_name": "Humerus",
+      "region": "Arm",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/humerus.json"
+    },
+    {
+      "id": "radius",
+      "name": "Radius",
+      "latin_name": "Radius",
+      "region": "Arm",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/radius.json"
+    },
+    {
+      "id": "ulna",
+      "name": "Ulna",
+      "latin_name": "Ulna",
+      "region": "Arm",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/ulna.json"
+    },
+    {
+      "id": "scaphoid",
+      "name": "Scaphoid",
+      "latin_name": "Os scaphoideum",
+      "region": "Hand",
+      "type": "Short",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/scaphoid.json"
+    },
+    {
+      "id": "lunate",
+      "name": "Lunate",
+      "latin_name": "Os lunatum",
+      "region": "Hand",
+      "type": "Short",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/lunate.json"
+    },
+    {
+      "id": "metacarpal",
+      "name": "Metacarpal",
+      "latin_name": "Os metacarpale",
+      "region": "Hand",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/metacarpal.json"
+    },
+    {
+      "id": "phalanx-hand",
+      "name": "Phalanx (finger)",
+      "latin_name": "Phalanx",
+      "region": "Hand",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/phalanx-hand.json"
+    },
+    {
+      "id": "ilium",
+      "name": "Ilium",
+      "latin_name": "Os ilium",
+      "region": "Pelvis",
+      "type": "Flat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/ilium.json"
+    },
+    {
+      "id": "ischium",
+      "name": "Ischium",
+      "latin_name": "Os ischii",
+      "region": "Pelvis",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/ischium.json"
+    },
+    {
+      "id": "pubis",
+      "name": "Pubis",
+      "latin_name": "Os pubis",
+      "region": "Pelvis",
+      "type": "Irregular",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/pubis.json"
+    },
+    {
+      "id": "femur",
+      "name": "Femur",
+      "latin_name": "Femur",
+      "region": "Leg",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/femur.json"
+    },
+    {
+      "id": "patella",
+      "name": "Patella",
+      "latin_name": "Patella",
+      "region": "Leg",
+      "type": "Sesamoid",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/patella.json"
+    },
+    {
+      "id": "tibia",
+      "name": "Tibia",
+      "latin_name": "Tibia",
+      "region": "Leg",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/tibia.json"
+    },
+    {
+      "id": "fibula",
+      "name": "Fibula",
+      "latin_name": "Fibula",
+      "region": "Leg",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/fibula.json"
+    },
+    {
+      "id": "calcaneus",
+      "name": "Calcaneus",
+      "latin_name": "Calcaneus",
+      "region": "Foot",
+      "type": "Short",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/calcaneus.json"
+    },
+    {
+      "id": "talus",
+      "name": "Talus",
+      "latin_name": "Talus",
+      "region": "Foot",
+      "type": "Short",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/talus.json"
+    },
+    {
+      "id": "metatarsal",
+      "name": "Metatarsal",
+      "latin_name": "Os metatarsale",
+      "region": "Foot",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/metatarsal.json"
+    },
+    {
+      "id": "phalanx-foot",
+      "name": "Phalanx (toe)",
+      "latin_name": "Phalanx",
+      "region": "Foot",
+      "type": "Long",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/phalanx-foot.json"
+    }
+  ]
+}

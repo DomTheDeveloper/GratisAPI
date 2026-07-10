@@ -1,0 +1,8 @@
+{
+  "id": "png",
+  "extension": ".png",
+  "name": "Portable Network Graphics",
+  "category": "Image",
+  "description": "A lossless raster image format supporting transparency.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/png.json"
+}

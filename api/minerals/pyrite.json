@@ -1,0 +1,9 @@
+{
+  "id": "pyrite",
+  "name": "Pyrite",
+  "chemical_formula": "FeS2",
+  "mohs_hardness": 6.25,
+  "color": "Brass yellow",
+  "luster": "Metallic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/pyrite.json"
+}

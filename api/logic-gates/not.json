@@ -1,0 +1,9 @@
+{
+  "id": "not",
+  "name": "NOT",
+  "symbol_text": "1",
+  "inputs": 1,
+  "truth_table": "Output is the inverse of the input: 1 becomes 0 and 0 becomes 1.",
+  "boolean_expression": "Y = ¬A",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/logic-gates/not.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sojourner",
+  "name": "Sojourner",
+  "agency": "NASA",
+  "launch_year": 1996,
+  "status": "Inactive",
+  "mission": "First rover on Mars, part of the Mars Pathfinder mission.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/sojourner.json"
+}

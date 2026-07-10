@@ -1,0 +1,7 @@
+{
+  "id": "git-clone",
+  "command": "git clone",
+  "category": "Setup",
+  "description": "Clone a repository into a new directory, copying its full history and setting up remote tracking.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-clone.json"
+}

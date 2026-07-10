@@ -1,0 +1,7 @@
+{
+  "id": "order-by",
+  "keyword": "ORDER BY",
+  "category": "Clause",
+  "description": "Sorts the result set by one or more columns.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/order-by.json"
+}

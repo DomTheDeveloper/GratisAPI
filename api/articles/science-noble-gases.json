@@ -1,0 +1,17 @@
+{
+  "id": "science-noble-gases",
+  "title": "The Noble Gases",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-12",
+  "tags": [
+    "chemistry",
+    "elements",
+    "noble-gases"
+  ],
+  "summary": "The noble gases are a family of remarkably unreactive elements whose stability comes from their perfectly filled electron shells.",
+  "body": "Tucked into the far right column of the periodic table sits a quiet aristocracy of elements: the noble gases. This group includes helium, neon, argon, krypton, xenon, and the radioactive radon, with the synthetic oganesson rounding out the bottom. What unites them is a striking reluctance to react with anything at all.\n\nThe reason lies in their electron structure. Each noble gas has a complete outer shell of electrons, the most stable arrangement an atom can achieve. Because they have nothing to gain or lose by bonding, they float through the world as isolated single atoms rather than forming molecules or compounds. For decades chemists believed they were entirely inert, which earned them the older name inert gases.\n\nThat reputation cracked in 1962 when chemists coaxed xenon into forming compounds with fluorine, the most aggressive of all elements. Still, such reactions require extreme conditions and remain exotic curiosities.\n\nDespite their aloofness, the noble gases are deeply woven into daily life. Helium fills balloons and cools the superconducting magnets in MRI machines. Neon glows red orange in bright signage, while argon fills incandescent bulbs and shields welds from oxygen. Krypton and xenon appear in specialized lighting and camera flashes. Radon, by contrast, is a health hazard that seeps from certain soils into basements.\n\nHelium is also cosmically abundant, forged in the Big Bang and in the cores of stars, making it the second most common element in the universe after hydrogen. You can look up all six naturally occurring noble gases, along with their atomic numbers and properties, through the GratisAPI endpoint at /api/elements/index.json.",
+  "word_count": 263,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-noble-gases.json"
+}

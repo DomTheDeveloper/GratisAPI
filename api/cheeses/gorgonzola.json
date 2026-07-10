@@ -1,0 +1,9 @@
+{
+  "id": "gorgonzola",
+  "name": "Gorgonzola",
+  "country_of_origin": "Italy",
+  "milk": "Cow",
+  "texture": "Blue",
+  "flavor": "Sharp, salty, and tangy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gorgonzola.json"
+}

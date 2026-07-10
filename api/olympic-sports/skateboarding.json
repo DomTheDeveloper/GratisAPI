@@ -1,0 +1,8 @@
+{
+  "id": "skateboarding",
+  "name": "Skateboarding",
+  "category": "Summer",
+  "type": "Individual",
+  "first_olympics_year": 2020,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/skateboarding.json"
+}

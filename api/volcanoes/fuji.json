@@ -1,0 +1,9 @@
+{
+  "id": "fuji",
+  "name": "Mount Fuji",
+  "country": "Japan",
+  "type": "Stratovolcano",
+  "elevation_m": 3776,
+  "last_major_eruption": 1707,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/fuji.json"
+}

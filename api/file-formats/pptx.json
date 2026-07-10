@@ -1,0 +1,8 @@
+{
+  "id": "pptx",
+  "extension": ".pptx",
+  "name": "Microsoft PowerPoint Presentation",
+  "category": "Document",
+  "description": "The default presentation format used by Microsoft PowerPoint.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/pptx.json"
+}

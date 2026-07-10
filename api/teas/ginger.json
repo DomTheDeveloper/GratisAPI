@@ -1,0 +1,9 @@
+{
+  "id": "ginger",
+  "name": "Ginger",
+  "type": "Herbal",
+  "origin_region": "Asia",
+  "caffeine": "None",
+  "notes": "Spicy, warming root infusion often taken for colds.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/ginger.json"
+}

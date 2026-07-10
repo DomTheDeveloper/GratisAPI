@@ -1,0 +1,16 @@
+{
+  "id": "world-new-seven-wonders",
+  "title": "The New Seven Wonders",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-01-19",
+  "tags": [
+    "history",
+    "wonders"
+  ],
+  "summary": "In 2007 a global vote chose seven modern wonders from the world's surviving monuments. This article introduces the winners of that campaign.",
+  "body": "Because six of the seven ancient wonders have long since crumbled, a modern campaign set out to name a new list of marvels that people could actually visit. In 2007, after a worldwide poll that drew tens of millions of votes, a private foundation announced the New Seven Wonders of the World.\n\nThe winners spanned the globe and thousands of years of history. The Great Wall of China, a vast fortification snaking across northern China, represented one of the largest construction projects ever undertaken. Petra, carved into rose coloured cliffs in Jordan, showcased the artistry of the Nabataean civilisation.\n\nFrom the Americas came Machu Picchu, the mountaintop Inca citadel in Peru, and Chichen Itza, the great Maya pyramid city in Mexico. The towering statue of Christ the Redeemer overlooking Rio de Janeiro represented Brazil and the modern era, being by far the youngest structure on the list.\n\nEurope and Asia contributed two icons of empire and love. The Colosseum in Rome, the mighty amphitheatre where gladiators once fought, stood for the grandeur of the ancient Roman world. The Taj Mahal in India, a white marble mausoleum built by a grieving emperor for his wife, was celebrated as one of the most beautiful buildings ever made.\n\nThe campaign was not without criticism. It was run by a commercial organisation rather than an official body, and the voting was open and unscientific, so the results reflect popularity as much as historical importance. Still, the list succeeded in sparking global interest in cultural heritage. The GratisAPI dataset lets you explore such landmarks and their locations, a useful foundation for travel apps, quizzes, and lessons about the wonders people treasure today.",
+  "word_count": 277,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-new-seven-wonders.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "central-park-tower",
+  "name": "Central Park Tower",
+  "city": "New York City",
+  "country": "United States",
+  "height_m": 472,
+  "floors": 98,
+  "completed_year": 2020,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/central-park-tower.json"
+}

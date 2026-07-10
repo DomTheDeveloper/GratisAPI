@@ -1,0 +1,9 @@
+{
+  "id": "subaru",
+  "name": "Subaru Telescope",
+  "type": "Ground",
+  "location_or_orbit": "Mauna Kea, Hawaii, United States",
+  "wavelength": "Optical",
+  "first_light_year": 1998,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/subaru.json"
+}

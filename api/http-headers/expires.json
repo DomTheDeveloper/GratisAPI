@@ -1,0 +1,8 @@
+{
+  "id": "expires",
+  "header": "Expires",
+  "type": "Response",
+  "description": "The date/time after which the response is considered stale.",
+  "example": "Wed, 21 Oct 2025 07:28:00 GMT",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/expires.json"
+}

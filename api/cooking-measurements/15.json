@@ -1,0 +1,10 @@
+{
+  "id": 15,
+  "unit": "Kilogram",
+  "abbreviation": "kg",
+  "type": "Weight",
+  "milliliters": null,
+  "grams": 1000.0,
+  "note": "Equals 1000 grams.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/15.json"
+}

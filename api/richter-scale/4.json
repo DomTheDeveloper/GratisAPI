@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "magnitude_range": "4.0-4.9",
+  "class": "Light",
+  "effects": "Noticeable shaking; minor damage to objects.",
+  "approx_frequency_per_year": 10000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/4.json"
+}

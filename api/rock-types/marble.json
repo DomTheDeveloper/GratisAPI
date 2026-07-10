@@ -1,0 +1,8 @@
+{
+  "id": "marble",
+  "name": "Marble",
+  "type": "Metamorphic",
+  "description": "Recrystallized limestone prized for its color and smooth texture.",
+  "common_use": "Sculpture, flooring, and countertops.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/marble.json"
+}

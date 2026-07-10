@@ -1,0 +1,9 @@
+{
+  "id": "very-large-telescope",
+  "name": "Very Large Telescope (VLT)",
+  "type": "Ground",
+  "location_or_orbit": "Cerro Paranal, Chile",
+  "wavelength": "Optical",
+  "first_light_year": 1998,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/very-large-telescope.json"
+}

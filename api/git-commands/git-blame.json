@@ -1,0 +1,7 @@
+{
+  "id": "git-blame",
+  "command": "git blame",
+  "category": "Inspection",
+  "description": "Show what revision and author last modified each line of a file.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-blame.json"
+}

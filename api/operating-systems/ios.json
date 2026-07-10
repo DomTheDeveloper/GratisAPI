@@ -1,0 +1,9 @@
+{
+  "id": "ios",
+  "name": "iOS",
+  "family": "Mobile",
+  "first_release_year": 2007,
+  "developer": "Apple",
+  "kernel": "XNU",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/ios.json"
+}

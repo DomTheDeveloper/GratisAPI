@@ -1,0 +1,12 @@
+{
+  "id": "futurism",
+  "name": "Futurism",
+  "period": "1900s-1910s",
+  "origin_region": "Italy",
+  "key_artists": [
+    "Umberto Boccioni",
+    "Giacomo Balla"
+  ],
+  "description": "Movement celebrating speed, technology, and the dynamism of modern life.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/futurism.json"
+}

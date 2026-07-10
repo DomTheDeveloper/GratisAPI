@@ -1,0 +1,9 @@
+{
+  "id": "kepler-mission",
+  "name": "Kepler",
+  "agency": "NASA",
+  "launch_year": 2009,
+  "type": "Telescope",
+  "achievement": "Discovered thousands of exoplanets via the transit method.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/kepler-mission.json"
+}

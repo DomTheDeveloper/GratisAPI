@@ -1,0 +1,10 @@
+{
+  "id": "taipei-101",
+  "name": "Taipei 101",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "height_m": 508,
+  "floors": 101,
+  "completed_year": 2004,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/taipei-101.json"
+}

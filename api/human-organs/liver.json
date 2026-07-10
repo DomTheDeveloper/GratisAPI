@@ -1,0 +1,8 @@
+{
+  "id": "liver",
+  "name": "Liver",
+  "system": "Digestive system",
+  "function": "Filters blood, produces bile, and stores nutrients.",
+  "location": "Upper right abdomen",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/liver.json"
+}

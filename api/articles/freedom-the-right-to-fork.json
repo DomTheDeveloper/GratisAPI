@@ -1,0 +1,17 @@
+{
+  "id": "freedom-the-right-to-fork",
+  "title": "The Right to Fork",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-05-16",
+  "tags": [
+    "forking",
+    "governance",
+    "freedom"
+  ],
+  "summary": "The freedom to fork a project is the ultimate guarantee in free software, keeping maintainers accountable and users independent.",
+  "body": "To fork a project is to take its code and continue developing it independently, on your own terms. In free software this is not a hostile act but a fundamental right, guaranteed by the freedoms to modify and redistribute. The right to fork is quietly one of the most powerful features of the whole system.\n\nIts power lies in what it prevents. Because anyone can fork a free project, no maintainer holds absolute power over its users. If a project's leaders make decisions the community rejects, add unwanted restrictions, sell out, or simply abandon the work, the community can take the code and carry on. The threat of forking keeps maintainers accountable even when it is never exercised.\n\nHistory offers real examples. When the office suite OpenOffice stalled, the community forked it into LibreOffice, which flourished. When concerns arose about the stewardship of certain projects, forks preserved a free path forward. These were not failures of the system but the system working as designed, providing an exit when voice was not enough.\n\nForking also protects against death. Proprietary software dies when its owner stops supporting it, and users are simply stranded. Free software cannot truly die as long as anyone cares enough to keep a fork alive. The code outlives any single company or maintainer.\n\nThere are costs. Forks can fragment a community, split limited developer attention, and confuse users. A healthy ecosystem does not fork casually, and the mere ability to fork often makes actual forks unnecessary by encouraging compromise. The right matters more as a backstop than as a routine.\n\nGratisAPI is fully forkable. Everything, the data pipeline, the code, and the content, is available under the GPL. If we ever go astray, you do not have to persuade us to change course. You can take the whole thing and build the version you would rather have. That standing exit is what makes our promises trustworthy.",
+  "word_count": 318,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-the-right-to-fork.json"
+}

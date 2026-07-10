@@ -1,0 +1,9 @@
+{
+  "id": "black-eye",
+  "name": "Black Eye Galaxy (M64)",
+  "type": "Spiral",
+  "constellation": "Coma Berenices",
+  "distance_mly": 17,
+  "notes": "Named for the dark band of dust in front of its bright nucleus.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/black-eye.json"
+}

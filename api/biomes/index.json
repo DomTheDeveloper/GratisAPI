@@ -1,0 +1,131 @@
+{
+  "api": "biomes",
+  "title": "Terrestrial Biomes",
+  "description": "The major land biomes with their climate, rainfall, and typical vegetation.",
+  "emoji": "🌍",
+  "license": "GPL-2.0-or-later",
+  "count": 12,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/biomes/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/biomes/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/biomes/{id}.json"
+  },
+  "fields": [
+    "avg_rainfall_mm",
+    "climate",
+    "dominant_vegetation",
+    "example_regions",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "tropical-rainforest",
+      "name": "Tropical Rainforest",
+      "climate": "Hot and humid year-round",
+      "avg_rainfall_mm": 2500,
+      "example_regions": "Amazon Basin, Congo Basin, Southeast Asia",
+      "dominant_vegetation": "Dense broadleaf evergreen trees with layered canopy.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/tropical-rainforest.json"
+    },
+    {
+      "id": "tropical-savanna",
+      "name": "Tropical Savanna",
+      "climate": "Warm with distinct wet and dry seasons",
+      "avg_rainfall_mm": 1000,
+      "example_regions": "Serengeti, northern Australia, the Cerrado",
+      "dominant_vegetation": "Grasslands with scattered drought-tolerant trees.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/tropical-savanna.json"
+    },
+    {
+      "id": "desert",
+      "name": "Desert",
+      "climate": "Very hot or cold with extreme aridity",
+      "avg_rainfall_mm": 200,
+      "example_regions": "Sahara, Arabian, Mojave, Atacama",
+      "dominant_vegetation": "Sparse succulents, cacti, and hardy shrubs.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/desert.json"
+    },
+    {
+      "id": "temperate-grassland",
+      "name": "Temperate Grassland",
+      "climate": "Warm summers and cold winters, semi-arid",
+      "avg_rainfall_mm": 600,
+      "example_regions": "North American prairies, Eurasian steppe, pampas",
+      "dominant_vegetation": "Grasses and herbaceous plants with few trees.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/temperate-grassland.json"
+    },
+    {
+      "id": "temperate-deciduous-forest",
+      "name": "Temperate Deciduous Forest",
+      "climate": "Four distinct seasons with moderate rainfall",
+      "avg_rainfall_mm": 1200,
+      "example_regions": "Eastern North America, Western Europe, East Asia",
+      "dominant_vegetation": "Broadleaf trees that shed leaves in autumn.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/temperate-deciduous-forest.json"
+    },
+    {
+      "id": "mediterranean",
+      "name": "Mediterranean (Chaparral)",
+      "climate": "Hot dry summers and mild wet winters",
+      "avg_rainfall_mm": 500,
+      "example_regions": "California, Mediterranean Basin, central Chile",
+      "dominant_vegetation": "Drought-resistant evergreen shrubs and small trees.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/mediterranean.json"
+    },
+    {
+      "id": "taiga",
+      "name": "Taiga (Boreal Forest)",
+      "climate": "Long cold winters and short cool summers",
+      "avg_rainfall_mm": 500,
+      "example_regions": "Canada, Scandinavia, Siberia",
+      "dominant_vegetation": "Coniferous evergreen trees like spruce, fir, and pine.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/taiga.json"
+    },
+    {
+      "id": "tundra",
+      "name": "Tundra",
+      "climate": "Extremely cold with permafrost and short growing season",
+      "avg_rainfall_mm": 250,
+      "example_regions": "Arctic Circle, alpine peaks, northern Alaska",
+      "dominant_vegetation": "Mosses, lichens, sedges, and dwarf shrubs.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/tundra.json"
+    },
+    {
+      "id": "temperate-rainforest",
+      "name": "Temperate Rainforest",
+      "climate": "Cool, wet, and mild with high humidity",
+      "avg_rainfall_mm": 2000,
+      "example_regions": "Pacific Northwest, southern Chile, New Zealand",
+      "dominant_vegetation": "Towering conifers with dense ferns and mosses.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/temperate-rainforest.json"
+    },
+    {
+      "id": "montane",
+      "name": "Montane (Alpine)",
+      "climate": "Cold temperatures decreasing with elevation",
+      "avg_rainfall_mm": 1000,
+      "example_regions": "Andes, Himalayas, Rocky Mountains, Alps",
+      "dominant_vegetation": "Zoned vegetation from forest to alpine meadow and bare rock.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/montane.json"
+    },
+    {
+      "id": "mangrove",
+      "name": "Mangrove",
+      "climate": "Tropical coastal, warm and tidal",
+      "avg_rainfall_mm": 1800,
+      "example_regions": "Sundarbans, Florida Everglades, Southeast Asian coasts",
+      "dominant_vegetation": "Salt-tolerant mangrove trees with stilt roots.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/mangrove.json"
+    },
+    {
+      "id": "wetland",
+      "name": "Wetland",
+      "climate": "Varied, with waterlogged soils year-round",
+      "avg_rainfall_mm": 1200,
+      "example_regions": "Pantanal, Okavango Delta, Everglades",
+      "dominant_vegetation": "Reeds, sedges, grasses, and water-tolerant plants.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/wetland.json"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "webp",
+  "extension": ".webp",
+  "name": "WebP Image",
+  "category": "Image",
+  "description": "A modern image format offering both lossy and lossless compression.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/webp.json"
+}

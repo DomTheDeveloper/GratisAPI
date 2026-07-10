@@ -1,0 +1,9 @@
+{
+  "id": "ubuntu",
+  "name": "Ubuntu",
+  "family": "Linux",
+  "first_release_year": 2004,
+  "developer": "Canonical",
+  "kernel": "Linux",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/ubuntu.json"
+}

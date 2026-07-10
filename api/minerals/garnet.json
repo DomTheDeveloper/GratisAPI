@@ -1,0 +1,9 @@
+{
+  "id": "garnet",
+  "name": "Garnet",
+  "chemical_formula": "Fe3Al2(SiO4)3",
+  "mohs_hardness": 7.25,
+  "color": "Deep red, brown, or green",
+  "luster": "Vitreous to resinous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/garnet.json"
+}

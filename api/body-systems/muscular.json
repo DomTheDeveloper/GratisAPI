@@ -1,0 +1,12 @@
+{
+  "id": "muscular",
+  "name": "Muscular system",
+  "function": "Produces movement, maintains posture, and generates body heat.",
+  "key_organs": [
+    "Skeletal muscles",
+    "Smooth muscle",
+    "Cardiac muscle",
+    "Tendons"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/muscular.json"
+}

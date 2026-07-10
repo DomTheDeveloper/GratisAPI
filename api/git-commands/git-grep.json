@@ -1,0 +1,7 @@
+{
+  "id": "git-grep",
+  "command": "git grep",
+  "category": "Inspection",
+  "description": "Search tracked files in the working tree or a commit for lines matching a pattern.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-grep.json"
+}

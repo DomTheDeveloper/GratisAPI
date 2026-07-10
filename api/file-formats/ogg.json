@@ -1,0 +1,8 @@
+{
+  "id": "ogg",
+  "extension": ".ogg",
+  "name": "Ogg Vorbis",
+  "category": "Audio",
+  "description": "An open, patent-free lossy audio container and format.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/ogg.json"
+}

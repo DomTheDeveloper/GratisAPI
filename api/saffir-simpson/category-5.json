@@ -1,0 +1,9 @@
+{
+  "id": "category-5",
+  "category": "Category 5",
+  "wind_kmh_min": 252,
+  "wind_kmh_max": null,
+  "damage": "Catastrophic damage; a high percentage of homes destroyed.",
+  "storm_surge_m": 6.0,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-5.json"
+}

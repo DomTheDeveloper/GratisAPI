@@ -1,0 +1,390 @@
+{
+  "api": "katakana",
+  "title": "Katakana",
+  "description": "The 46 basic katakana characters of the Japanese syllabary with romaji.",
+  "emoji": "🇯🇵",
+  "license": "GPL-2.0-or-later",
+  "count": 46,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/katakana/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/katakana/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/katakana/{id}.json"
+  },
+  "fields": [
+    "character",
+    "consonant_group",
+    "id",
+    "romaji",
+    "vowel_row"
+  ],
+  "results": [
+    {
+      "id": "a",
+      "character": "ア",
+      "romaji": "a",
+      "vowel_row": "a",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/a.json"
+    },
+    {
+      "id": "i",
+      "character": "イ",
+      "romaji": "i",
+      "vowel_row": "i",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/i.json"
+    },
+    {
+      "id": "u",
+      "character": "ウ",
+      "romaji": "u",
+      "vowel_row": "u",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/u.json"
+    },
+    {
+      "id": "e",
+      "character": "エ",
+      "romaji": "e",
+      "vowel_row": "e",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/e.json"
+    },
+    {
+      "id": "o",
+      "character": "オ",
+      "romaji": "o",
+      "vowel_row": "o",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/o.json"
+    },
+    {
+      "id": "ka",
+      "character": "カ",
+      "romaji": "ka",
+      "vowel_row": "a",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ka.json"
+    },
+    {
+      "id": "ki",
+      "character": "キ",
+      "romaji": "ki",
+      "vowel_row": "i",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ki.json"
+    },
+    {
+      "id": "ku",
+      "character": "ク",
+      "romaji": "ku",
+      "vowel_row": "u",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ku.json"
+    },
+    {
+      "id": "ke",
+      "character": "ケ",
+      "romaji": "ke",
+      "vowel_row": "e",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ke.json"
+    },
+    {
+      "id": "ko",
+      "character": "コ",
+      "romaji": "ko",
+      "vowel_row": "o",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ko.json"
+    },
+    {
+      "id": "sa",
+      "character": "サ",
+      "romaji": "sa",
+      "vowel_row": "a",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/sa.json"
+    },
+    {
+      "id": "shi",
+      "character": "シ",
+      "romaji": "shi",
+      "vowel_row": "i",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/shi.json"
+    },
+    {
+      "id": "su",
+      "character": "ス",
+      "romaji": "su",
+      "vowel_row": "u",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/su.json"
+    },
+    {
+      "id": "se",
+      "character": "セ",
+      "romaji": "se",
+      "vowel_row": "e",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/se.json"
+    },
+    {
+      "id": "so",
+      "character": "ソ",
+      "romaji": "so",
+      "vowel_row": "o",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/so.json"
+    },
+    {
+      "id": "ta",
+      "character": "タ",
+      "romaji": "ta",
+      "vowel_row": "a",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ta.json"
+    },
+    {
+      "id": "chi",
+      "character": "チ",
+      "romaji": "chi",
+      "vowel_row": "i",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/chi.json"
+    },
+    {
+      "id": "tsu",
+      "character": "ツ",
+      "romaji": "tsu",
+      "vowel_row": "u",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/tsu.json"
+    },
+    {
+      "id": "te",
+      "character": "テ",
+      "romaji": "te",
+      "vowel_row": "e",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/te.json"
+    },
+    {
+      "id": "to",
+      "character": "ト",
+      "romaji": "to",
+      "vowel_row": "o",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/to.json"
+    },
+    {
+      "id": "na",
+      "character": "ナ",
+      "romaji": "na",
+      "vowel_row": "a",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/na.json"
+    },
+    {
+      "id": "ni",
+      "character": "ニ",
+      "romaji": "ni",
+      "vowel_row": "i",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ni.json"
+    },
+    {
+      "id": "nu",
+      "character": "ヌ",
+      "romaji": "nu",
+      "vowel_row": "u",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/nu.json"
+    },
+    {
+      "id": "ne",
+      "character": "ネ",
+      "romaji": "ne",
+      "vowel_row": "e",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ne.json"
+    },
+    {
+      "id": "no",
+      "character": "ノ",
+      "romaji": "no",
+      "vowel_row": "o",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/no.json"
+    },
+    {
+      "id": "ha",
+      "character": "ハ",
+      "romaji": "ha",
+      "vowel_row": "a",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ha.json"
+    },
+    {
+      "id": "hi",
+      "character": "ヒ",
+      "romaji": "hi",
+      "vowel_row": "i",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/hi.json"
+    },
+    {
+      "id": "fu",
+      "character": "フ",
+      "romaji": "fu",
+      "vowel_row": "u",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/fu.json"
+    },
+    {
+      "id": "he",
+      "character": "ヘ",
+      "romaji": "he",
+      "vowel_row": "e",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/he.json"
+    },
+    {
+      "id": "ho",
+      "character": "ホ",
+      "romaji": "ho",
+      "vowel_row": "o",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ho.json"
+    },
+    {
+      "id": "ma",
+      "character": "マ",
+      "romaji": "ma",
+      "vowel_row": "a",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ma.json"
+    },
+    {
+      "id": "mi",
+      "character": "ミ",
+      "romaji": "mi",
+      "vowel_row": "i",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/mi.json"
+    },
+    {
+      "id": "mu",
+      "character": "ム",
+      "romaji": "mu",
+      "vowel_row": "u",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/mu.json"
+    },
+    {
+      "id": "me",
+      "character": "メ",
+      "romaji": "me",
+      "vowel_row": "e",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/me.json"
+    },
+    {
+      "id": "mo",
+      "character": "モ",
+      "romaji": "mo",
+      "vowel_row": "o",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/mo.json"
+    },
+    {
+      "id": "ya",
+      "character": "ヤ",
+      "romaji": "ya",
+      "vowel_row": "a",
+      "consonant_group": "y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ya.json"
+    },
+    {
+      "id": "yu",
+      "character": "ユ",
+      "romaji": "yu",
+      "vowel_row": "u",
+      "consonant_group": "y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/yu.json"
+    },
+    {
+      "id": "yo",
+      "character": "ヨ",
+      "romaji": "yo",
+      "vowel_row": "o",
+      "consonant_group": "y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/yo.json"
+    },
+    {
+      "id": "ra",
+      "character": "ラ",
+      "romaji": "ra",
+      "vowel_row": "a",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ra.json"
+    },
+    {
+      "id": "ri",
+      "character": "リ",
+      "romaji": "ri",
+      "vowel_row": "i",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ri.json"
+    },
+    {
+      "id": "ru",
+      "character": "ル",
+      "romaji": "ru",
+      "vowel_row": "u",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ru.json"
+    },
+    {
+      "id": "re",
+      "character": "レ",
+      "romaji": "re",
+      "vowel_row": "e",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/re.json"
+    },
+    {
+      "id": "ro",
+      "character": "ロ",
+      "romaji": "ro",
+      "vowel_row": "o",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/ro.json"
+    },
+    {
+      "id": "wa",
+      "character": "ワ",
+      "romaji": "wa",
+      "vowel_row": "a",
+      "consonant_group": "w",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/wa.json"
+    },
+    {
+      "id": "wo",
+      "character": "ヲ",
+      "romaji": "wo",
+      "vowel_row": "o",
+      "consonant_group": "w",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/wo.json"
+    },
+    {
+      "id": "n",
+      "character": "ン",
+      "romaji": "n",
+      "vowel_row": "",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/katakana/n.json"
+    }
+  ]
+}

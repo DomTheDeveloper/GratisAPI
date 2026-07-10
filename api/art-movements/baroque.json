@@ -1,0 +1,13 @@
+{
+  "id": "baroque",
+  "name": "Baroque",
+  "period": "1600s-1750s",
+  "origin_region": "Italy",
+  "key_artists": [
+    "Caravaggio",
+    "Peter Paul Rubens",
+    "Rembrandt"
+  ],
+  "description": "Dramatic, ornate style using strong contrasts of light and movement.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/baroque.json"
+}

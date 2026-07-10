@@ -1,0 +1,8 @@
+{
+  "id": "pain",
+  "name": "Pain (nociception)",
+  "organ": "Nociceptors throughout the body",
+  "description": "Detection of harmful or damaging stimuli to protect the body.",
+  "type": "Other",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/pain.json"
+}

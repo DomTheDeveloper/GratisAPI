@@ -1,0 +1,7 @@
+{
+  "id": "horror",
+  "name": "Horror",
+  "description": "Films intended to frighten, shock, or unsettle the audience.",
+  "example_film": "The Exorcist",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/horror.json"
+}

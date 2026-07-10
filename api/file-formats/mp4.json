@@ -1,0 +1,8 @@
+{
+  "id": "mp4",
+  "extension": ".mp4",
+  "name": "MPEG-4 Video",
+  "category": "Video",
+  "description": "A widely used multimedia container for video and audio.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/mp4.json"
+}

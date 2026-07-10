@@ -1,0 +1,10 @@
+{
+  "id": "fibonacci-heap",
+  "name": "Fibonacci Heap",
+  "category": "Heap",
+  "access_big_o": "O(1)",
+  "search_big_o": "O(n)",
+  "insert_big_o": "O(1)",
+  "description": "A heap with amortized constant-time insert and decrease-key, used in advanced graph algorithms.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/fibonacci-heap.json"
+}

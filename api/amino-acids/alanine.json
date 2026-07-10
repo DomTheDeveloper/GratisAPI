@@ -1,0 +1,9 @@
+{
+  "id": "alanine",
+  "name": "Alanine",
+  "three_letter": "Ala",
+  "one_letter": "A",
+  "essential": false,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/alanine.json"
+}

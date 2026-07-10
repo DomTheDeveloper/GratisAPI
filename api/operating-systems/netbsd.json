@@ -1,0 +1,9 @@
+{
+  "id": "netbsd",
+  "name": "NetBSD",
+  "family": "BSD",
+  "first_release_year": 1993,
+  "developer": "NetBSD Foundation",
+  "kernel": "NetBSD",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/netbsd.json"
+}

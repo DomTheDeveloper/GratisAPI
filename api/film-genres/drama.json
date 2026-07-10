@@ -1,0 +1,7 @@
+{
+  "id": "drama",
+  "name": "Drama",
+  "description": "Character-driven films focused on realistic emotional and interpersonal conflict.",
+  "example_film": "The Godfather",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/drama.json"
+}

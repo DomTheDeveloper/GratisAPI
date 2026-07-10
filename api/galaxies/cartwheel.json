@@ -1,0 +1,9 @@
+{
+  "id": "cartwheel",
+  "name": "Cartwheel Galaxy",
+  "type": "Lenticular",
+  "constellation": "Sculptor",
+  "distance_mly": 500,
+  "notes": "A ring galaxy formed by a high-speed galactic collision.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/cartwheel.json"
+}

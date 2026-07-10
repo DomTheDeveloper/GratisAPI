@@ -1,0 +1,8 @@
+{
+  "id": "ef5",
+  "scale": "EF5",
+  "wind_kmh_min": 323,
+  "wind_kmh_max": null,
+  "damage_description": "Incredible damage; strong houses swept away, cars thrown far.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef5.json"
+}

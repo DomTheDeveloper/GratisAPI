@@ -1,0 +1,8 @@
+{
+  "id": "limestone",
+  "name": "Limestone",
+  "type": "Sedimentary",
+  "description": "Rock composed mainly of calcium carbonate from shells and marine debris.",
+  "common_use": "Cement production and building stone.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/limestone.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "tiff",
+  "extension": ".tiff",
+  "name": "Tagged Image File Format",
+  "category": "Image",
+  "description": "A flexible raster format often used in publishing and photography.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/tiff.json"
+}

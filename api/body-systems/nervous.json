@@ -1,0 +1,12 @@
+{
+  "id": "nervous",
+  "name": "Nervous system",
+  "function": "Detects stimuli and coordinates rapid responses throughout the body.",
+  "key_organs": [
+    "Brain",
+    "Spinal cord",
+    "Nerves",
+    "Sensory organs"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/nervous.json"
+}

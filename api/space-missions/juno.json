@@ -1,0 +1,9 @@
+{
+  "id": "juno",
+  "name": "Juno",
+  "agency": "NASA",
+  "launch_year": 2011,
+  "type": "Planetary",
+  "achievement": "Orbiter studying Jupiter's composition, gravity, and magnetic field.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/juno.json"
+}

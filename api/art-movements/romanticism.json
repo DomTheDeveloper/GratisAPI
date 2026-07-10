@@ -1,0 +1,13 @@
+{
+  "id": "romanticism",
+  "name": "Romanticism",
+  "period": "1800s-1850s",
+  "origin_region": "Europe",
+  "key_artists": [
+    "Eugène Delacroix",
+    "Caspar David Friedrich",
+    "J. M. W. Turner"
+  ],
+  "description": "Movement prizing emotion, nature, and the sublime over reason.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/romanticism.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "hubble-mission",
+  "name": "Hubble Space Telescope",
+  "agency": "NASA",
+  "launch_year": 1990,
+  "type": "Telescope",
+  "achievement": "Space telescope that transformed observational astronomy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/hubble-mission.json"
+}

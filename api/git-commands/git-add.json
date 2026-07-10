@@ -1,0 +1,7 @@
+{
+  "id": "git-add",
+  "command": "git add",
+  "category": "Snapshot",
+  "description": "Stage changes in the working directory for inclusion in the next commit.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-add.json"
+}

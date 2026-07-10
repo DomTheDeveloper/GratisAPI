@@ -1,0 +1,17 @@
+{
+  "id": "reference-http-headers",
+  "title": "HTTP Headers Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2025-03-12",
+  "tags": [
+    "http",
+    "headers",
+    "web"
+  ],
+  "summary": "HTTP headers carry the extra information that accompanies web requests and responses.",
+  "body": "An HTTP message is more than a method and a body. Alongside them travels a collection of headers, which are name and value pairs that carry extra information about the request or response. Headers are where much of the real coordination between a browser and a server happens, quietly shaping how content is delivered.\n\nRequest headers describe the client and what it wants. The Host header names the site being requested, which lets one server host many sites. The User-Agent header identifies the browser or program making the request. The Accept header states which content types the client can handle, and the Authorization header carries credentials that prove who the client is. Together these let the server tailor its response.\n\nResponse headers describe what the server is sending back. The Content-Type header states the MIME type of the body so the client knows how to interpret it. The Content-Length header gives its size. The Location header tells the client where to go during a redirect, working alongside the status code. These headers make the raw body usable.\n\nA large group of headers governs caching and performance. The Cache-Control header tells clients and intermediaries how long they may reuse a response, sparing the server from repeated work. Related headers let a client ask whether its cached copy is still fresh, so unchanged content need not be sent again.\n\nOther headers handle security. Headers can instruct a browser to use only secure connections, restrict which sources of scripts are trusted, or control cross origin requests. These modern headers have become essential for protecting users.\n\nGratisAPI provides a reference at /api/http-headers/index.json, where each entry names a header, notes whether it appears in requests or responses, and describes its purpose. It is a useful companion when debugging traffic or building tools that inspect it. Learning to read headers turns an opaque exchange into a readable conversation, and it is often the fastest path to understanding why a request behaved the way it did.",
+  "word_count": 329,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-http-headers.json"
+}

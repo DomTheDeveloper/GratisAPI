@@ -1,0 +1,9 @@
+{
+  "id": "villarrica",
+  "name": "Villarrica",
+  "country": "Chile",
+  "type": "Stratovolcano",
+  "elevation_m": 2847,
+  "last_major_eruption": 2015,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/villarrica.json"
+}

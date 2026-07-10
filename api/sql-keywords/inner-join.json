@@ -1,0 +1,7 @@
+{
+  "id": "inner-join",
+  "keyword": "INNER JOIN",
+  "category": "Clause",
+  "description": "Returns only rows with matching values in both joined tables.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/inner-join.json"
+}

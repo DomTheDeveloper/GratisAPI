@@ -1,0 +1,9 @@
+{
+  "id": "cysteine",
+  "name": "Cysteine",
+  "three_letter": "Cys",
+  "one_letter": "C",
+  "essential": false,
+  "polarity": "Polar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/cysteine.json"
+}

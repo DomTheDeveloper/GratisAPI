@@ -1,0 +1,10 @@
+{
+  "id": "tse",
+  "name": "Tse",
+  "uppercase": "Ц",
+  "lowercase": "ц",
+  "transliteration": "ts",
+  "sound": "ts as in sits",
+  "order": 24,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/tse.json"
+}

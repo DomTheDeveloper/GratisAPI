@@ -1,0 +1,8 @@
+{
+  "id": "content-type",
+  "header": "Content-Type",
+  "type": "Both",
+  "description": "Indicates the media type of the message body.",
+  "example": "application/json",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-type.json"
+}

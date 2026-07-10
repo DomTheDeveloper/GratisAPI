@@ -1,0 +1,9 @@
+{
+  "id": "tadpole",
+  "name": "Tadpole Galaxy",
+  "type": "Spiral",
+  "constellation": "Draco",
+  "distance_mly": 420,
+  "notes": "A disrupted barred spiral with a long tidal tail of stars.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/tadpole.json"
+}

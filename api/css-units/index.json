@@ -1,0 +1,168 @@
+{
+  "api": "css-units",
+  "title": "CSS Units",
+  "description": "CSS units for length, angle, time, and viewport measurements.",
+  "emoji": "📐",
+  "license": "GPL-2.0-or-later",
+  "count": 21,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/css-units/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/css-units/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/css-units/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "type",
+    "unit"
+  ],
+  "results": [
+    {
+      "id": "px",
+      "unit": "px",
+      "type": "Absolute",
+      "description": "Pixels; one device-independent pixel, the most common absolute unit.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/px.json"
+    },
+    {
+      "id": "cm",
+      "unit": "cm",
+      "type": "Absolute",
+      "description": "Centimeters; a physical length unit.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/cm.json"
+    },
+    {
+      "id": "mm",
+      "unit": "mm",
+      "type": "Absolute",
+      "description": "Millimeters; one tenth of a centimeter.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/mm.json"
+    },
+    {
+      "id": "in",
+      "unit": "in",
+      "type": "Absolute",
+      "description": "Inches; equal to 96px.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/in.json"
+    },
+    {
+      "id": "pt",
+      "unit": "pt",
+      "type": "Absolute",
+      "description": "Points; equal to 1/72 of an inch, common in print.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/pt.json"
+    },
+    {
+      "id": "pc",
+      "unit": "pc",
+      "type": "Absolute",
+      "description": "Picas; equal to 12 points or 1/6 of an inch.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/pc.json"
+    },
+    {
+      "id": "em",
+      "unit": "em",
+      "type": "Relative",
+      "description": "Relative to the font size of the current element.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/em.json"
+    },
+    {
+      "id": "rem",
+      "unit": "rem",
+      "type": "Relative",
+      "description": "Relative to the font size of the root (html) element.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/rem.json"
+    },
+    {
+      "id": "ex",
+      "unit": "ex",
+      "type": "Relative",
+      "description": "Relative to the x-height of the current font.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/ex.json"
+    },
+    {
+      "id": "ch",
+      "unit": "ch",
+      "type": "Relative",
+      "description": "Relative to the width of the '0' glyph in the current font.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/ch.json"
+    },
+    {
+      "id": "percent",
+      "unit": "%",
+      "type": "Relative",
+      "description": "Relative to the parent element's corresponding value.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/percent.json"
+    },
+    {
+      "id": "vw",
+      "unit": "vw",
+      "type": "Viewport",
+      "description": "One percent of the viewport's width.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/vw.json"
+    },
+    {
+      "id": "vh",
+      "unit": "vh",
+      "type": "Viewport",
+      "description": "One percent of the viewport's height.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/vh.json"
+    },
+    {
+      "id": "vmin",
+      "unit": "vmin",
+      "type": "Viewport",
+      "description": "One percent of the viewport's smaller dimension.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/vmin.json"
+    },
+    {
+      "id": "vmax",
+      "unit": "vmax",
+      "type": "Viewport",
+      "description": "One percent of the viewport's larger dimension.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/vmax.json"
+    },
+    {
+      "id": "deg",
+      "unit": "deg",
+      "type": "Angle",
+      "description": "Degrees; a full circle is 360deg.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/deg.json"
+    },
+    {
+      "id": "rad",
+      "unit": "rad",
+      "type": "Angle",
+      "description": "Radians; a full circle is 2π radians.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/rad.json"
+    },
+    {
+      "id": "grad",
+      "unit": "grad",
+      "type": "Angle",
+      "description": "Gradians; a full circle is 400grad.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/grad.json"
+    },
+    {
+      "id": "turn",
+      "unit": "turn",
+      "type": "Angle",
+      "description": "Turns; one turn equals a full 360-degree circle.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/turn.json"
+    },
+    {
+      "id": "s",
+      "unit": "s",
+      "type": "Time",
+      "description": "Seconds; used for animation and transition durations.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/s.json"
+    },
+    {
+      "id": "ms",
+      "unit": "ms",
+      "type": "Time",
+      "description": "Milliseconds; one thousandth of a second.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/ms.json"
+    }
+  ]
+}

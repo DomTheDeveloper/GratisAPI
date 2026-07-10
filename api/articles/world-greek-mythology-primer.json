@@ -1,0 +1,16 @@
+{
+  "id": "world-greek-mythology-primer",
+  "title": "A Primer on Greek Mythology",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-08-09",
+  "tags": [
+    "mythology",
+    "greek"
+  ],
+  "summary": "Greek mythology gave the Western world its gods, heroes, and monsters. This article introduces the stories that still echo through art and language today.",
+  "body": "Few bodies of storytelling have shaped Western culture as deeply as Greek mythology. Its gods, heroes, and monsters have populated art, literature, and everyday language for thousands of years, and their names still label planets, brands, and constellations.\n\nThe Greeks imagined a universe that began in chaos and gradually took shape as the first divine beings emerged. From them came the Titans, and from the Titans came the Olympian gods who overthrew their parents and took command of the cosmos. This pattern of one generation supplanting the last runs through the mythology like a heartbeat.\n\nThe gods lived atop Mount Olympus and were strikingly human in temperament. They loved, quarrelled, schemed, and took revenge, meddling constantly in mortal affairs. Zeus ruled with his thunderbolt, Poseidon commanded the seas, and Hades governed the dead, while goddesses such as Athena, Hera, and Aphrodite wielded power in their own domains.\n\nAlongside the gods stood the heroes, mortals of extraordinary ability who often had a divine parent. Heracles performed his twelve labours, Perseus slew the gorgon Medusa, and Odysseus spent ten years struggling home from the Trojan War. Their adventures explored courage, cunning, and the limits of human ambition against the will of the gods.\n\nThese myths were never a fixed scripture. They varied from city to city and poet to poet, passed down orally before writers like Homer and Hesiod gave them lasting form. That flexibility is part of why they endure and adapt so easily. The GratisAPI Greek gods dataset at /api/greek-gods/index.json lists the major deities with their domains and symbols, a convenient starting point for study, games, or creative projects rooted in these timeless tales.",
+  "word_count": 274,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-greek-mythology-primer.json"
+}

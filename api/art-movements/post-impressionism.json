@@ -1,0 +1,13 @@
+{
+  "id": "post-impressionism",
+  "name": "Post-Impressionism",
+  "period": "1880s-1900s",
+  "origin_region": "France",
+  "key_artists": [
+    "Vincent van Gogh",
+    "Paul Cézanne",
+    "Paul Gauguin"
+  ],
+  "description": "Reaction to Impressionism using bold color and structure for expressive ends.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/post-impressionism.json"
+}

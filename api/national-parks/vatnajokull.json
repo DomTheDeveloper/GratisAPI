@@ -1,0 +1,9 @@
+{
+  "id": "vatnajokull",
+  "name": "Vatnajokull National Park",
+  "country": "Iceland",
+  "established_year": 2008,
+  "area_km2": 14700,
+  "notable_feature": "Europe's largest glacier, with ice caves and volcanoes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/vatnajokull.json"
+}

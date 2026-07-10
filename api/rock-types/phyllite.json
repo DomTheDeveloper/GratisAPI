@@ -1,0 +1,8 @@
+{
+  "id": "phyllite",
+  "name": "Phyllite",
+  "type": "Metamorphic",
+  "description": "Foliated rock between slate and schist with a silky sheen.",
+  "common_use": "Decorative and building stone.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/phyllite.json"
+}

@@ -1,0 +1,266 @@
+{
+  "api": "volcanoes",
+  "title": "Notable Volcanoes",
+  "description": "Famous volcanoes with their type, location, and most recent major eruption.",
+  "emoji": "🌋",
+  "license": "GPL-2.0-or-later",
+  "count": 27,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/{id}.json"
+  },
+  "fields": [
+    "country",
+    "elevation_m",
+    "id",
+    "last_major_eruption",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "vesuvius",
+      "name": "Mount Vesuvius",
+      "country": "Italy",
+      "type": "Complex",
+      "elevation_m": 1281,
+      "last_major_eruption": 1944,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/vesuvius.json"
+    },
+    {
+      "id": "etna",
+      "name": "Mount Etna",
+      "country": "Italy",
+      "type": "Stratovolcano",
+      "elevation_m": 3357,
+      "last_major_eruption": 2023,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/etna.json"
+    },
+    {
+      "id": "stromboli",
+      "name": "Stromboli",
+      "country": "Italy",
+      "type": "Stratovolcano",
+      "elevation_m": 924,
+      "last_major_eruption": 2024,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/stromboli.json"
+    },
+    {
+      "id": "fuji",
+      "name": "Mount Fuji",
+      "country": "Japan",
+      "type": "Stratovolcano",
+      "elevation_m": 3776,
+      "last_major_eruption": 1707,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/fuji.json"
+    },
+    {
+      "id": "sakurajima",
+      "name": "Sakurajima",
+      "country": "Japan",
+      "type": "Stratovolcano",
+      "elevation_m": 1117,
+      "last_major_eruption": 2022,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/sakurajima.json"
+    },
+    {
+      "id": "krakatoa",
+      "name": "Krakatoa",
+      "country": "Indonesia",
+      "type": "Caldera",
+      "elevation_m": 813,
+      "last_major_eruption": 2020,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/krakatoa.json"
+    },
+    {
+      "id": "tambora",
+      "name": "Mount Tambora",
+      "country": "Indonesia",
+      "type": "Stratovolcano",
+      "elevation_m": 2850,
+      "last_major_eruption": 1815,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/tambora.json"
+    },
+    {
+      "id": "merapi",
+      "name": "Mount Merapi",
+      "country": "Indonesia",
+      "type": "Stratovolcano",
+      "elevation_m": 2910,
+      "last_major_eruption": 2023,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/merapi.json"
+    },
+    {
+      "id": "pinatubo",
+      "name": "Mount Pinatubo",
+      "country": "Philippines",
+      "type": "Stratovolcano",
+      "elevation_m": 1486,
+      "last_major_eruption": 1991,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/pinatubo.json"
+    },
+    {
+      "id": "mayon",
+      "name": "Mayon",
+      "country": "Philippines",
+      "type": "Stratovolcano",
+      "elevation_m": 2463,
+      "last_major_eruption": 2018,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/mayon.json"
+    },
+    {
+      "id": "taal",
+      "name": "Taal Volcano",
+      "country": "Philippines",
+      "type": "Caldera",
+      "elevation_m": 311,
+      "last_major_eruption": 2022,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/taal.json"
+    },
+    {
+      "id": "st-helens",
+      "name": "Mount St. Helens",
+      "country": "United States",
+      "type": "Stratovolcano",
+      "elevation_m": 2549,
+      "last_major_eruption": 1980,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/st-helens.json"
+    },
+    {
+      "id": "kilauea",
+      "name": "Kilauea",
+      "country": "United States",
+      "type": "Shield",
+      "elevation_m": 1247,
+      "last_major_eruption": 2023,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/kilauea.json"
+    },
+    {
+      "id": "mauna-loa",
+      "name": "Mauna Loa",
+      "country": "United States",
+      "type": "Shield",
+      "elevation_m": 4169,
+      "last_major_eruption": 2022,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/mauna-loa.json"
+    },
+    {
+      "id": "rainier",
+      "name": "Mount Rainier",
+      "country": "United States",
+      "type": "Stratovolcano",
+      "elevation_m": 4392,
+      "last_major_eruption": "1450 CE",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/rainier.json"
+    },
+    {
+      "id": "yellowstone",
+      "name": "Yellowstone Caldera",
+      "country": "United States",
+      "type": "Caldera",
+      "elevation_m": 2805,
+      "last_major_eruption": "640,000 years ago",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/yellowstone.json"
+    },
+    {
+      "id": "popocatepetl",
+      "name": "Popocatepetl",
+      "country": "Mexico",
+      "type": "Stratovolcano",
+      "elevation_m": 5426,
+      "last_major_eruption": 2023,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/popocatepetl.json"
+    },
+    {
+      "id": "colima",
+      "name": "Volcan de Colima",
+      "country": "Mexico",
+      "type": "Stratovolcano",
+      "elevation_m": 3820,
+      "last_major_eruption": 2017,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/colima.json"
+    },
+    {
+      "id": "cotopaxi",
+      "name": "Cotopaxi",
+      "country": "Ecuador",
+      "type": "Stratovolcano",
+      "elevation_m": 5897,
+      "last_major_eruption": 2023,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/cotopaxi.json"
+    },
+    {
+      "id": "villarrica",
+      "name": "Villarrica",
+      "country": "Chile",
+      "type": "Stratovolcano",
+      "elevation_m": 2847,
+      "last_major_eruption": 2015,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/villarrica.json"
+    },
+    {
+      "id": "nevado-del-ruiz",
+      "name": "Nevado del Ruiz",
+      "country": "Colombia",
+      "type": "Stratovolcano",
+      "elevation_m": 5321,
+      "last_major_eruption": 1985,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/nevado-del-ruiz.json"
+    },
+    {
+      "id": "kilimanjaro",
+      "name": "Mount Kilimanjaro",
+      "country": "Tanzania",
+      "type": "Stratovolcano",
+      "elevation_m": 5895,
+      "last_major_eruption": "150,000 years ago",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/kilimanjaro.json"
+    },
+    {
+      "id": "nyiragongo",
+      "name": "Mount Nyiragongo",
+      "country": "DR Congo",
+      "type": "Stratovolcano",
+      "elevation_m": 3470,
+      "last_major_eruption": 2021,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/nyiragongo.json"
+    },
+    {
+      "id": "erebus",
+      "name": "Mount Erebus",
+      "country": "Antarctica",
+      "type": "Stratovolcano",
+      "elevation_m": 3794,
+      "last_major_eruption": 2024,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/erebus.json"
+    },
+    {
+      "id": "eyjafjallajokull",
+      "name": "Eyjafjallajokull",
+      "country": "Iceland",
+      "type": "Stratovolcano",
+      "elevation_m": 1651,
+      "last_major_eruption": 2010,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/eyjafjallajokull.json"
+    },
+    {
+      "id": "hekla",
+      "name": "Hekla",
+      "country": "Iceland",
+      "type": "Stratovolcano",
+      "elevation_m": 1491,
+      "last_major_eruption": 2000,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/hekla.json"
+    },
+    {
+      "id": "teide",
+      "name": "Mount Teide",
+      "country": "Spain",
+      "type": "Stratovolcano",
+      "elevation_m": 3715,
+      "last_major_eruption": 1909,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/teide.json"
+    }
+  ]
+}

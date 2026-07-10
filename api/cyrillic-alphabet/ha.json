@@ -1,0 +1,10 @@
+{
+  "id": "ha",
+  "name": "Ha",
+  "uppercase": "Х",
+  "lowercase": "х",
+  "transliteration": "kh",
+  "sound": "ch as in Scottish loch",
+  "order": 23,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ha.json"
+}

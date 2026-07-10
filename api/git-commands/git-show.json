@@ -1,0 +1,7 @@
+{
+  "id": "git-show",
+  "command": "git show",
+  "category": "Inspection",
+  "description": "Display details about a commit, tag, or other Git object, including its diff.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-show.json"
+}

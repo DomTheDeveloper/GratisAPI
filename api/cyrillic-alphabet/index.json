@@ -1,0 +1,354 @@
+{
+  "api": "cyrillic-alphabet",
+  "title": "Cyrillic Alphabet",
+  "description": "The 33 letters of the modern Russian Cyrillic alphabet with transliteration and sound.",
+  "emoji": "🇷🇺",
+  "license": "GPL-2.0-or-later",
+  "count": 33,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/{id}.json"
+  },
+  "fields": [
+    "id",
+    "lowercase",
+    "name",
+    "order",
+    "sound",
+    "transliteration",
+    "uppercase"
+  ],
+  "results": [
+    {
+      "id": "a",
+      "name": "A",
+      "uppercase": "А",
+      "lowercase": "а",
+      "transliteration": "a",
+      "sound": "a as in father",
+      "order": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/a.json"
+    },
+    {
+      "id": "be",
+      "name": "Be",
+      "uppercase": "Б",
+      "lowercase": "б",
+      "transliteration": "b",
+      "sound": "b as in bad",
+      "order": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/be.json"
+    },
+    {
+      "id": "ve",
+      "name": "Ve",
+      "uppercase": "В",
+      "lowercase": "в",
+      "transliteration": "v",
+      "sound": "v as in van",
+      "order": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ve.json"
+    },
+    {
+      "id": "ge",
+      "name": "Ge",
+      "uppercase": "Г",
+      "lowercase": "г",
+      "transliteration": "g",
+      "sound": "g as in go",
+      "order": 4,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ge.json"
+    },
+    {
+      "id": "de",
+      "name": "De",
+      "uppercase": "Д",
+      "lowercase": "д",
+      "transliteration": "d",
+      "sound": "d as in do",
+      "order": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/de.json"
+    },
+    {
+      "id": "ye",
+      "name": "Ye",
+      "uppercase": "Е",
+      "lowercase": "е",
+      "transliteration": "ye",
+      "sound": "ye as in yes",
+      "order": 6,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ye.json"
+    },
+    {
+      "id": "yo",
+      "name": "Yo",
+      "uppercase": "Ё",
+      "lowercase": "ё",
+      "transliteration": "yo",
+      "sound": "yo as in yonder",
+      "order": 7,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/yo.json"
+    },
+    {
+      "id": "zhe",
+      "name": "Zhe",
+      "uppercase": "Ж",
+      "lowercase": "ж",
+      "transliteration": "zh",
+      "sound": "s as in measure",
+      "order": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/zhe.json"
+    },
+    {
+      "id": "ze",
+      "name": "Ze",
+      "uppercase": "З",
+      "lowercase": "з",
+      "transliteration": "z",
+      "sound": "z as in zoo",
+      "order": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ze.json"
+    },
+    {
+      "id": "i",
+      "name": "I",
+      "uppercase": "И",
+      "lowercase": "и",
+      "transliteration": "i",
+      "sound": "ee as in meet",
+      "order": 10,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/i.json"
+    },
+    {
+      "id": "i_kratkoye",
+      "name": "I Kratkoye",
+      "uppercase": "Й",
+      "lowercase": "й",
+      "transliteration": "y",
+      "sound": "y as in boy",
+      "order": 11,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/i_kratkoye.json"
+    },
+    {
+      "id": "ka",
+      "name": "Ka",
+      "uppercase": "К",
+      "lowercase": "к",
+      "transliteration": "k",
+      "sound": "k as in kept",
+      "order": 12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ka.json"
+    },
+    {
+      "id": "el",
+      "name": "El",
+      "uppercase": "Л",
+      "lowercase": "л",
+      "transliteration": "l",
+      "sound": "l as in lamp",
+      "order": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/el.json"
+    },
+    {
+      "id": "em",
+      "name": "Em",
+      "uppercase": "М",
+      "lowercase": "м",
+      "transliteration": "m",
+      "sound": "m as in map",
+      "order": 14,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/em.json"
+    },
+    {
+      "id": "en",
+      "name": "En",
+      "uppercase": "Н",
+      "lowercase": "н",
+      "transliteration": "n",
+      "sound": "n as in not",
+      "order": 15,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/en.json"
+    },
+    {
+      "id": "o",
+      "name": "O",
+      "uppercase": "О",
+      "lowercase": "о",
+      "transliteration": "o",
+      "sound": "o as in more",
+      "order": 16,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/o.json"
+    },
+    {
+      "id": "pe",
+      "name": "Pe",
+      "uppercase": "П",
+      "lowercase": "п",
+      "transliteration": "p",
+      "sound": "p as in pet",
+      "order": 17,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/pe.json"
+    },
+    {
+      "id": "er",
+      "name": "Er",
+      "uppercase": "Р",
+      "lowercase": "р",
+      "transliteration": "r",
+      "sound": "rolled r",
+      "order": 18,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/er.json"
+    },
+    {
+      "id": "es",
+      "name": "Es",
+      "uppercase": "С",
+      "lowercase": "с",
+      "transliteration": "s",
+      "sound": "s as in see",
+      "order": 19,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/es.json"
+    },
+    {
+      "id": "te",
+      "name": "Te",
+      "uppercase": "Т",
+      "lowercase": "т",
+      "transliteration": "t",
+      "sound": "t as in top",
+      "order": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/te.json"
+    },
+    {
+      "id": "u",
+      "name": "U",
+      "uppercase": "У",
+      "lowercase": "у",
+      "transliteration": "u",
+      "sound": "oo as in boot",
+      "order": 21,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/u.json"
+    },
+    {
+      "id": "ef",
+      "name": "Ef",
+      "uppercase": "Ф",
+      "lowercase": "ф",
+      "transliteration": "f",
+      "sound": "f as in face",
+      "order": 22,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ef.json"
+    },
+    {
+      "id": "ha",
+      "name": "Ha",
+      "uppercase": "Х",
+      "lowercase": "х",
+      "transliteration": "kh",
+      "sound": "ch as in Scottish loch",
+      "order": 23,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ha.json"
+    },
+    {
+      "id": "tse",
+      "name": "Tse",
+      "uppercase": "Ц",
+      "lowercase": "ц",
+      "transliteration": "ts",
+      "sound": "ts as in sits",
+      "order": 24,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/tse.json"
+    },
+    {
+      "id": "che",
+      "name": "Che",
+      "uppercase": "Ч",
+      "lowercase": "ч",
+      "transliteration": "ch",
+      "sound": "ch as in check",
+      "order": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/che.json"
+    },
+    {
+      "id": "sha",
+      "name": "Sha",
+      "uppercase": "Ш",
+      "lowercase": "ш",
+      "transliteration": "sh",
+      "sound": "sh as in shop",
+      "order": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/sha.json"
+    },
+    {
+      "id": "shcha",
+      "name": "Shcha",
+      "uppercase": "Щ",
+      "lowercase": "щ",
+      "transliteration": "shch",
+      "sound": "soft sh as in fresh cheese",
+      "order": 27,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/shcha.json"
+    },
+    {
+      "id": "tvyordy_znak",
+      "name": "Tvyordy Znak",
+      "uppercase": "Ъ",
+      "lowercase": "ъ",
+      "transliteration": "″",
+      "sound": "hard sign (silent)",
+      "order": 28,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/tvyordy_znak.json"
+    },
+    {
+      "id": "y",
+      "name": "Y",
+      "uppercase": "Ы",
+      "lowercase": "ы",
+      "transliteration": "y",
+      "sound": "i as in ill (back)",
+      "order": 29,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/y.json"
+    },
+    {
+      "id": "myagky_znak",
+      "name": "Myagky Znak",
+      "uppercase": "Ь",
+      "lowercase": "ь",
+      "transliteration": "'",
+      "sound": "soft sign (silent)",
+      "order": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/myagky_znak.json"
+    },
+    {
+      "id": "e",
+      "name": "E",
+      "uppercase": "Э",
+      "lowercase": "э",
+      "transliteration": "e",
+      "sound": "e as in met",
+      "order": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/e.json"
+    },
+    {
+      "id": "yu",
+      "name": "Yu",
+      "uppercase": "Ю",
+      "lowercase": "ю",
+      "transliteration": "yu",
+      "sound": "yu as in universe",
+      "order": 32,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/yu.json"
+    },
+    {
+      "id": "ya",
+      "name": "Ya",
+      "uppercase": "Я",
+      "lowercase": "я",
+      "transliteration": "ya",
+      "sound": "ya as in yard",
+      "order": 33,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ya.json"
+    }
+  ]
+}

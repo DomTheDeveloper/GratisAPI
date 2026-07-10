@@ -1,0 +1,7 @@
+{
+  "id": "romance",
+  "name": "Romance",
+  "description": "Films centered on love stories and the relationships between characters.",
+  "example_film": "Casablanca",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/romance.json"
+}

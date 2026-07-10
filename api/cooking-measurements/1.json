@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "unit": "Pinch",
+  "abbreviation": "pinch",
+  "type": "Volume",
+  "milliliters": 0.31,
+  "grams": null,
+  "note": "About 1/16 teaspoon.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/1.json"
+}

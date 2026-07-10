@@ -1,0 +1,9 @@
+{
+  "id": "patience",
+  "name": "Patience",
+  "type": "Virtue",
+  "latin": "Patientia",
+  "opposite": "Wrath",
+  "description": "Forbearance, endurance, and the capacity to forgive and show mercy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/patience.json"
+}

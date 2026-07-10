@@ -1,0 +1,9 @@
+{
+  "id": "alma",
+  "name": "Atacama Large Millimeter Array (ALMA)",
+  "type": "Ground",
+  "location_or_orbit": "Chajnantor Plateau, Chile",
+  "wavelength": "Radio",
+  "first_light_year": 2011,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/alma.json"
+}

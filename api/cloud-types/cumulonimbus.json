@@ -1,0 +1,8 @@
+{
+  "id": "cumulonimbus",
+  "name": "Cumulonimbus",
+  "abbreviation": "Cb",
+  "altitude_level": "Vertical",
+  "description": "Towering thunderstorm cloud producing heavy rain, lightning, and hail.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cumulonimbus.json"
+}

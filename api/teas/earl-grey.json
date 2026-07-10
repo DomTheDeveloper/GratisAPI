@@ -1,0 +1,9 @@
+{
+  "id": "earl-grey",
+  "name": "Earl Grey",
+  "type": "Black",
+  "origin_region": "Blend (China/India base)",
+  "caffeine": "High",
+  "notes": "Black tea flavored with oil of bergamot, giving a citrusy aroma.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/earl-grey.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "origin",
+  "header": "Origin",
+  "type": "Request",
+  "description": "Indicates the origin (scheme, host, port) that caused the request.",
+  "example": "https://example.com",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/origin.json"
+}

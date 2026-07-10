@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "Sriracha Sauce",
+  "scoville_min": 1000,
+  "scoville_max": 2500,
+  "type": "Sauce",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/4.json"
+}

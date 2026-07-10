@@ -1,0 +1,8 @@
+{
+  "id": "schist",
+  "name": "Schist",
+  "type": "Metamorphic",
+  "description": "Foliated rock with visible platy minerals like mica that reflect light.",
+  "common_use": "Decorative stone.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/schist.json"
+}

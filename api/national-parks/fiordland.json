@@ -1,0 +1,9 @@
+{
+  "id": "fiordland",
+  "name": "Fiordland National Park",
+  "country": "New Zealand",
+  "established_year": 1952,
+  "area_km2": 12500,
+  "notable_feature": "Deep glacier-carved fjords including Milford Sound.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/fiordland.json"
+}

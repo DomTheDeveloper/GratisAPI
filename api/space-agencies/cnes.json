@@ -1,0 +1,9 @@
+{
+  "id": "cnes",
+  "name": "Centre National d'Etudes Spatiales",
+  "abbreviation": "CNES",
+  "country": "France",
+  "founded_year": 1961,
+  "headquarters": "Paris, France",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/cnes.json"
+}

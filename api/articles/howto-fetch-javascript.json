@@ -1,0 +1,17 @@
+{
+  "id": "howto-fetch-javascript",
+  "title": "Fetching Data with the JavaScript fetch() API",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-02-14",
+  "tags": [
+    "javascript",
+    "fetch",
+    "browser"
+  ],
+  "summary": "Learn how to pull GratisAPI data straight into the browser using the built-in fetch() function, with no libraries required.",
+  "body": "Every GratisAPI endpoint is a plain JSON file served over HTTPS, which makes the browser's built-in fetch() function all you need. There are no API keys to manage, no headers to set, and no rate limits to worry about. You simply request a URL and read the response.\n\nHere is the core pattern. Call fetch() with the full endpoint URL, then convert the response to JSON with the .json() method, which itself returns a promise:\n\nfetch(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\n  .then(response => response.json())\n  .then(data => console.log(data))\n  .catch(error => console.error(error));\n\nThe /api/quotes/index.json endpoint returns an object describing the collection along with the list of items. Because the data is static, the same request always returns the same shape, so you can rely on the structure when you write your rendering code.\n\nA few practical tips. First, always attach a .catch() handler so that network failures do not silently break your page. Second, remember that fetch() only rejects on network errors, not on HTTP error statuses, so if you need to detect a missing file you should check response.ok before parsing. Third, because the files never change without a new deploy, the browser and any intermediate CDN cache them aggressively, which keeps repeat visits fast.\n\nOnce you have the parsed data, rendering it is ordinary DOM work. Loop over the array of records, build elements, and append them to the page. Since GratisAPI ships whole datasets in a single file, you get everything in one round trip and can filter or sort on the client without additional requests. This makes fetch() an ideal match for the API's static, no-nonsense design.",
+  "word_count": 264,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-fetch-javascript.json"
+}

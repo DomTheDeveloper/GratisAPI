@@ -1,0 +1,7 @@
+{
+  "id": "s",
+  "unit": "s",
+  "type": "Time",
+  "description": "Seconds; used for animation and transition durations.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/s.json"
+}

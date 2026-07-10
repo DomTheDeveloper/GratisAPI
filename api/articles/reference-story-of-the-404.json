@@ -1,0 +1,17 @@
+{
+  "id": "reference-story-of-the-404",
+  "title": "The Story of the 404",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-04-12",
+  "tags": [
+    "http",
+    "404",
+    "history"
+  ],
+  "summary": "The 404 Not Found status has become the most recognizable error on the web. Here is where it came from.",
+  "body": "Of all the numbers on the web, 404 is the one that escaped into everyday language. People say a topic is a 404 when it cannot be found, even far away from any computer. The code has a specific technical meaning, but its cultural life is far larger.\n\nTechnically, 404 belongs to the family of client error codes in the 400 range. It means the server understood the request perfectly well but could not find anything at the requested address. Importantly, 404 does not say whether the absence is temporary or permanent; there is a separate code, 410 Gone, for resources that have been deliberately removed for good.\n\nA popular myth claims the number comes from a room 404 at a research center where the early web was born, supposedly the office where a missing file would have lived. It is a charming story, but there is no real evidence for it. The truth is more ordinary: 404 simply follows the numbering scheme laid out in the early HTTP specifications, where the second and third digits distinguish specific errors within the 400 group.\n\nWhat makes 404 special is how visible it is. Almost every other error is handled quietly by software, but a 404 is often shown directly to a person who clicked a broken link. Over time, designers turned these pages into playful, branded experiences, which cemented the number in popular memory.\n\nYou can find 404 alongside its siblings in the GratisAPI status dataset at /api/http-status/index.json, complete with its official name and description. Studying it is a small lesson in how a dry technical detail can take on a life of its own. The next time you hit a 404, remember that you are looking at the most famous three digits the web ever produced.",
+  "word_count": 296,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-story-of-the-404.json"
+}

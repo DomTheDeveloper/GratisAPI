@@ -1,0 +1,17 @@
+{
+  "id": "freedom-gnu-gpl-explained",
+  "title": "The GNU General Public License Explained",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-08-15",
+  "tags": [
+    "gpl",
+    "licensing",
+    "copyleft"
+  ],
+  "summary": "The GPL is the most widely used copyleft license, granting the four freedoms while requiring that derived works remain free.",
+  "body": "The GNU General Public License, or GPL, is the most widely used free software license and the flagship expression of copyleft. Written originally by Richard Stallman for the GNU Project and maintained by the Free Software Foundation, it turns the four essential freedoms into concrete, enforceable legal terms.\n\nAt its core the GPL makes a bargain. It grants every recipient the freedom to run, study, modify, and redistribute the software. In exchange, it requires that if you distribute the software or a modified version, you do so under the same license and make the corresponding source code available. This is the copyleft condition, and it is what keeps GPL software free through every generation of derivation.\n\nA crucial detail concerns source code. The GPL insists that whoever receives a binary must be able to obtain the source, because without source the freedoms to study and modify are hollow. Distributing a compiled GPL program while withholding its source violates the license.\n\nThe GPL does not forbid selling software or using it commercially. You may charge whatever you like for copies or services. What you may not do is strip away the freedoms from those you distribute to. Commerce and freedom coexist; only the removal of freedom is prohibited.\n\nThe license has appeared in several versions. Version 2 was published in 1991 and version 3 in 2007, each responding to the legal and technological landscape of its time. Related licenses, such as the Lesser GPL and the Affero GPL, adapt the same principles to libraries and networked software respectively.\n\nGratisAPI is licensed GPL-2.0-or-later. That means anyone may use and build on our work, but the freedoms must travel with it. The GPL is the legal backbone that makes our promise of libre software something more than a good intention.",
+  "word_count": 297,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-gnu-gpl-explained.json"
+}

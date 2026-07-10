@@ -1,0 +1,7 @@
+{
+  "id": "epic",
+  "name": "Epic",
+  "description": "Grand-scale films with sweeping settings, large casts, and long runtimes.",
+  "example_film": "Ben-Hur",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/epic.json"
+}

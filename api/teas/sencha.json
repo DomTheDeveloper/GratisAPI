@@ -1,0 +1,9 @@
+{
+  "id": "sencha",
+  "name": "Sencha",
+  "type": "Green",
+  "origin_region": "Japan",
+  "caffeine": "Medium",
+  "notes": "Steamed green tea, grassy and refreshing; Japan's most common tea.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/sencha.json"
+}

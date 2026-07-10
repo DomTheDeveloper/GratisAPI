@@ -1,0 +1,9 @@
+{
+  "id": "manchego",
+  "name": "Manchego",
+  "country_of_origin": "Spain",
+  "milk": "Sheep",
+  "texture": "Hard",
+  "flavor": "Nutty, tangy, and slightly sweet",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/manchego.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "curiosity-mission",
+  "name": "Mars Science Laboratory (Curiosity)",
+  "agency": "NASA",
+  "launch_year": 2011,
+  "type": "Planetary",
+  "achievement": "Advanced rover assessing Mars' past habitability in Gale Crater.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/curiosity-mission.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "swiss-national-park",
+  "name": "Swiss National Park",
+  "country": "Switzerland",
+  "established_year": 1914,
+  "area_km2": 170,
+  "notable_feature": "The Alps' oldest national park, a strict wilderness reserve.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/swiss-national-park.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "shale",
+  "name": "Shale",
+  "type": "Sedimentary",
+  "description": "Fine-grained rock formed from compacted mud and clay that splits in layers.",
+  "common_use": "Brick and ceramic manufacture.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/shale.json"
+}

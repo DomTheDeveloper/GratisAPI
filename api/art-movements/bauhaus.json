@@ -1,0 +1,13 @@
+{
+  "id": "bauhaus",
+  "name": "Bauhaus",
+  "period": "1910s-1930s",
+  "origin_region": "Germany",
+  "key_artists": [
+    "Wassily Kandinsky",
+    "Paul Klee",
+    "László Moholy-Nagy"
+  ],
+  "description": "School uniting art, craft, and technology in functional modern design.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/bauhaus.json"
+}

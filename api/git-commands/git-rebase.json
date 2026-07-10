@@ -1,0 +1,7 @@
+{
+  "id": "git-rebase",
+  "command": "git rebase",
+  "category": "Branching",
+  "description": "Reapply commits on top of another base tip to produce a linear history.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-rebase.json"
+}

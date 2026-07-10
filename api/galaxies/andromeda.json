@@ -1,0 +1,9 @@
+{
+  "id": "andromeda",
+  "name": "Andromeda Galaxy (M31)",
+  "type": "Spiral",
+  "constellation": "Andromeda",
+  "distance_mly": 2.5,
+  "notes": "Nearest large galaxy to the Milky Way; on a collision course with it.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/andromeda.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tropical-rainforest",
+  "name": "Tropical Rainforest",
+  "climate": "Hot and humid year-round",
+  "avg_rainfall_mm": 2500,
+  "example_regions": "Amazon Basin, Congo Basin, Southeast Asia",
+  "dominant_vegetation": "Dense broadleaf evergreen trees with layered canopy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/tropical-rainforest.json"
+}

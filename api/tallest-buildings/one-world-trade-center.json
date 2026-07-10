@@ -1,0 +1,10 @@
+{
+  "id": "one-world-trade-center",
+  "name": "One World Trade Center",
+  "city": "New York City",
+  "country": "United States",
+  "height_m": 541,
+  "floors": 94,
+  "completed_year": 2014,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/one-world-trade-center.json"
+}

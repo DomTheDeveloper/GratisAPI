@@ -1,0 +1,9 @@
+{
+  "id": "or",
+  "name": "OR",
+  "symbol_text": "≥1",
+  "inputs": 2,
+  "truth_table": "Output is 1 when at least one input is 1.",
+  "boolean_expression": "Y = A + B",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/logic-gates/or.json"
+}

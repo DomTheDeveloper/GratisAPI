@@ -1,0 +1,9 @@
+{
+  "id": "gyokuro",
+  "name": "Gyokuro",
+  "type": "Green",
+  "origin_region": "Japan",
+  "caffeine": "High",
+  "notes": "Shade-grown before harvest, prized for its sweet umami character.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/gyokuro.json"
+}

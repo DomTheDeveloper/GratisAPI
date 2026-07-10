@@ -1,0 +1,9 @@
+{
+  "id": "triangulum",
+  "name": "Triangulum Galaxy (M33)",
+  "type": "Spiral",
+  "constellation": "Triangulum",
+  "distance_mly": 2.7,
+  "notes": "Third-largest member of the Local Group.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/triangulum.json"
+}

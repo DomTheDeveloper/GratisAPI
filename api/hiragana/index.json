@@ -1,0 +1,390 @@
+{
+  "api": "hiragana",
+  "title": "Hiragana",
+  "description": "The 46 basic hiragana characters of the Japanese syllabary with romaji.",
+  "emoji": "🇯🇵",
+  "license": "GPL-2.0-or-later",
+  "count": 46,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/{id}.json"
+  },
+  "fields": [
+    "character",
+    "consonant_group",
+    "id",
+    "romaji",
+    "vowel_row"
+  ],
+  "results": [
+    {
+      "id": "a",
+      "character": "あ",
+      "romaji": "a",
+      "vowel_row": "a",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/a.json"
+    },
+    {
+      "id": "i",
+      "character": "い",
+      "romaji": "i",
+      "vowel_row": "i",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/i.json"
+    },
+    {
+      "id": "u",
+      "character": "う",
+      "romaji": "u",
+      "vowel_row": "u",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/u.json"
+    },
+    {
+      "id": "e",
+      "character": "え",
+      "romaji": "e",
+      "vowel_row": "e",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/e.json"
+    },
+    {
+      "id": "o",
+      "character": "お",
+      "romaji": "o",
+      "vowel_row": "o",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/o.json"
+    },
+    {
+      "id": "ka",
+      "character": "か",
+      "romaji": "ka",
+      "vowel_row": "a",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ka.json"
+    },
+    {
+      "id": "ki",
+      "character": "き",
+      "romaji": "ki",
+      "vowel_row": "i",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ki.json"
+    },
+    {
+      "id": "ku",
+      "character": "く",
+      "romaji": "ku",
+      "vowel_row": "u",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ku.json"
+    },
+    {
+      "id": "ke",
+      "character": "け",
+      "romaji": "ke",
+      "vowel_row": "e",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ke.json"
+    },
+    {
+      "id": "ko",
+      "character": "こ",
+      "romaji": "ko",
+      "vowel_row": "o",
+      "consonant_group": "k",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ko.json"
+    },
+    {
+      "id": "sa",
+      "character": "さ",
+      "romaji": "sa",
+      "vowel_row": "a",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/sa.json"
+    },
+    {
+      "id": "shi",
+      "character": "し",
+      "romaji": "shi",
+      "vowel_row": "i",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/shi.json"
+    },
+    {
+      "id": "su",
+      "character": "す",
+      "romaji": "su",
+      "vowel_row": "u",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/su.json"
+    },
+    {
+      "id": "se",
+      "character": "せ",
+      "romaji": "se",
+      "vowel_row": "e",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/se.json"
+    },
+    {
+      "id": "so",
+      "character": "そ",
+      "romaji": "so",
+      "vowel_row": "o",
+      "consonant_group": "s",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/so.json"
+    },
+    {
+      "id": "ta",
+      "character": "た",
+      "romaji": "ta",
+      "vowel_row": "a",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ta.json"
+    },
+    {
+      "id": "chi",
+      "character": "ち",
+      "romaji": "chi",
+      "vowel_row": "i",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/chi.json"
+    },
+    {
+      "id": "tsu",
+      "character": "つ",
+      "romaji": "tsu",
+      "vowel_row": "u",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/tsu.json"
+    },
+    {
+      "id": "te",
+      "character": "て",
+      "romaji": "te",
+      "vowel_row": "e",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/te.json"
+    },
+    {
+      "id": "to",
+      "character": "と",
+      "romaji": "to",
+      "vowel_row": "o",
+      "consonant_group": "t",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/to.json"
+    },
+    {
+      "id": "na",
+      "character": "な",
+      "romaji": "na",
+      "vowel_row": "a",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/na.json"
+    },
+    {
+      "id": "ni",
+      "character": "に",
+      "romaji": "ni",
+      "vowel_row": "i",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ni.json"
+    },
+    {
+      "id": "nu",
+      "character": "ぬ",
+      "romaji": "nu",
+      "vowel_row": "u",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/nu.json"
+    },
+    {
+      "id": "ne",
+      "character": "ね",
+      "romaji": "ne",
+      "vowel_row": "e",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ne.json"
+    },
+    {
+      "id": "no",
+      "character": "の",
+      "romaji": "no",
+      "vowel_row": "o",
+      "consonant_group": "n",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/no.json"
+    },
+    {
+      "id": "ha",
+      "character": "は",
+      "romaji": "ha",
+      "vowel_row": "a",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ha.json"
+    },
+    {
+      "id": "hi",
+      "character": "ひ",
+      "romaji": "hi",
+      "vowel_row": "i",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/hi.json"
+    },
+    {
+      "id": "fu",
+      "character": "ふ",
+      "romaji": "fu",
+      "vowel_row": "u",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/fu.json"
+    },
+    {
+      "id": "he",
+      "character": "へ",
+      "romaji": "he",
+      "vowel_row": "e",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/he.json"
+    },
+    {
+      "id": "ho",
+      "character": "ほ",
+      "romaji": "ho",
+      "vowel_row": "o",
+      "consonant_group": "h",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ho.json"
+    },
+    {
+      "id": "ma",
+      "character": "ま",
+      "romaji": "ma",
+      "vowel_row": "a",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ma.json"
+    },
+    {
+      "id": "mi",
+      "character": "み",
+      "romaji": "mi",
+      "vowel_row": "i",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/mi.json"
+    },
+    {
+      "id": "mu",
+      "character": "む",
+      "romaji": "mu",
+      "vowel_row": "u",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/mu.json"
+    },
+    {
+      "id": "me",
+      "character": "め",
+      "romaji": "me",
+      "vowel_row": "e",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/me.json"
+    },
+    {
+      "id": "mo",
+      "character": "も",
+      "romaji": "mo",
+      "vowel_row": "o",
+      "consonant_group": "m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/mo.json"
+    },
+    {
+      "id": "ya",
+      "character": "や",
+      "romaji": "ya",
+      "vowel_row": "a",
+      "consonant_group": "y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ya.json"
+    },
+    {
+      "id": "yu",
+      "character": "ゆ",
+      "romaji": "yu",
+      "vowel_row": "u",
+      "consonant_group": "y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/yu.json"
+    },
+    {
+      "id": "yo",
+      "character": "よ",
+      "romaji": "yo",
+      "vowel_row": "o",
+      "consonant_group": "y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/yo.json"
+    },
+    {
+      "id": "ra",
+      "character": "ら",
+      "romaji": "ra",
+      "vowel_row": "a",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ra.json"
+    },
+    {
+      "id": "ri",
+      "character": "り",
+      "romaji": "ri",
+      "vowel_row": "i",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ri.json"
+    },
+    {
+      "id": "ru",
+      "character": "る",
+      "romaji": "ru",
+      "vowel_row": "u",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ru.json"
+    },
+    {
+      "id": "re",
+      "character": "れ",
+      "romaji": "re",
+      "vowel_row": "e",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/re.json"
+    },
+    {
+      "id": "ro",
+      "character": "ろ",
+      "romaji": "ro",
+      "vowel_row": "o",
+      "consonant_group": "r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/ro.json"
+    },
+    {
+      "id": "wa",
+      "character": "わ",
+      "romaji": "wa",
+      "vowel_row": "a",
+      "consonant_group": "w",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/wa.json"
+    },
+    {
+      "id": "wo",
+      "character": "を",
+      "romaji": "wo",
+      "vowel_row": "o",
+      "consonant_group": "w",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/wo.json"
+    },
+    {
+      "id": "n",
+      "character": "ん",
+      "romaji": "n",
+      "vowel_row": "",
+      "consonant_group": "",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hiragana/n.json"
+    }
+  ]
+}

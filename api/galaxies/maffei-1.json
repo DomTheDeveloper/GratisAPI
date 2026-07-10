@@ -1,0 +1,9 @@
+{
+  "id": "maffei-1",
+  "name": "Maffei 1",
+  "type": "Elliptical",
+  "constellation": "Cassiopeia",
+  "distance_mly": 9.8,
+  "notes": "The nearest giant elliptical galaxy, heavily obscured by the Milky Way.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/maffei-1.json"
+}

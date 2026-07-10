@@ -1,0 +1,7 @@
+{
+  "id": "pc",
+  "unit": "pc",
+  "type": "Absolute",
+  "description": "Picas; equal to 12 points or 1/6 of an inch.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/pc.json"
+}

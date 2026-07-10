@@ -1,0 +1,8 @@
+{
+  "id": "sacrum",
+  "name": "Sacrum",
+  "latin_name": "Os sacrum",
+  "region": "Spine",
+  "type": "Irregular",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/sacrum.json"
+}

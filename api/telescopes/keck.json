@@ -1,0 +1,9 @@
+{
+  "id": "keck",
+  "name": "W. M. Keck Observatory",
+  "type": "Ground",
+  "location_or_orbit": "Mauna Kea, Hawaii, United States",
+  "wavelength": "Optical",
+  "first_light_year": 1993,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/keck.json"
+}

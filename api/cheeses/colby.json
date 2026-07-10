@@ -1,0 +1,9 @@
+{
+  "id": "colby",
+  "name": "Colby",
+  "country_of_origin": "United States",
+  "milk": "Cow",
+  "texture": "Semi-hard",
+  "flavor": "Mild, milky, and slightly sweet",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/colby.json"
+}

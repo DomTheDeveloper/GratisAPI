@@ -1,0 +1,9 @@
+{
+  "id": "assam",
+  "name": "Assam",
+  "type": "Black",
+  "origin_region": "Assam, India",
+  "caffeine": "High",
+  "notes": "Malty and brisk, grown in the lowlands of northeast India.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/assam.json"
+}

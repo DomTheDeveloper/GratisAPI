@@ -1,0 +1,8 @@
+{
+  "id": "obsidian",
+  "name": "Obsidian",
+  "type": "Igneous",
+  "description": "Glassy black rock formed when lava cools too quickly to crystallize.",
+  "common_use": "Cutting tools and jewelry.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/obsidian.json"
+}

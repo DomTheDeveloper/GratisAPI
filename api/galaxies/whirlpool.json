@@ -1,0 +1,9 @@
+{
+  "id": "whirlpool",
+  "name": "Whirlpool Galaxy (M51)",
+  "type": "Spiral",
+  "constellation": "Canes Venatici",
+  "distance_mly": 31,
+  "notes": "A grand-design spiral interacting with companion galaxy NGC 5195.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/whirlpool.json"
+}

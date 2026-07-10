@@ -1,0 +1,91 @@
+{
+  "api": "mohs-scale",
+  "title": "Mohs Hardness Scale",
+  "description": "Mineral hardness from 1 (talc) to 10 (diamond) with reference minerals.",
+  "emoji": "💎",
+  "license": "GPL-2.0-or-later",
+  "count": 10,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/{id}.json"
+  },
+  "fields": [
+    "description",
+    "hardness",
+    "id",
+    "mineral"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "hardness": 1,
+      "mineral": "Talc",
+      "description": "Easily scratched by a fingernail.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/1.json"
+    },
+    {
+      "id": 2,
+      "hardness": 2,
+      "mineral": "Gypsum",
+      "description": "Scratched by a fingernail.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/2.json"
+    },
+    {
+      "id": 3,
+      "hardness": 3,
+      "mineral": "Calcite",
+      "description": "Scratched by a copper coin.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/3.json"
+    },
+    {
+      "id": 4,
+      "hardness": 4,
+      "mineral": "Fluorite",
+      "description": "Easily scratched by a knife.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/4.json"
+    },
+    {
+      "id": 5,
+      "hardness": 5,
+      "mineral": "Apatite",
+      "description": "Scratched by a knife with difficulty.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/5.json"
+    },
+    {
+      "id": 6,
+      "hardness": 6,
+      "mineral": "Orthoclase feldspar",
+      "description": "Scratched by a steel file; scratches glass.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/6.json"
+    },
+    {
+      "id": 7,
+      "hardness": 7,
+      "mineral": "Quartz",
+      "description": "Scratches glass and steel.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/7.json"
+    },
+    {
+      "id": 8,
+      "hardness": 8,
+      "mineral": "Topaz",
+      "description": "Scratches quartz.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/8.json"
+    },
+    {
+      "id": 9,
+      "hardness": 9,
+      "mineral": "Corundum",
+      "description": "Scratches topaz; includes ruby and sapphire.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/9.json"
+    },
+    {
+      "id": 10,
+      "hardness": 10,
+      "mineral": "Diamond",
+      "description": "Hardest known natural material; scratches all others.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mohs-scale/10.json"
+    }
+  ]
+}

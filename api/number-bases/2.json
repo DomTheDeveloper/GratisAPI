@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "name": "Ternary",
+  "base": 3,
+  "digits": "012",
+  "common_use": "Balanced ternary computing and some theoretical computer science.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/2.json"
+}

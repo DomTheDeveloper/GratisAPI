@@ -1,0 +1,17 @@
+{
+  "id": "freedom-reproducibility-and-open-data",
+  "title": "Reproducibility and Open Data",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-06-11",
+  "tags": [
+    "reproducibility",
+    "science",
+    "open-data"
+  ],
+  "summary": "Reproducibility is a cornerstone of science, and open data is essential to letting others verify and build on published results.",
+  "body": "Reproducibility is a foundational principle of science: a result is trustworthy only if others, following the same methods, can obtain the same outcome. A finding no one else can reproduce is not yet knowledge but a claim awaiting confirmation. Open data is increasingly essential to making reproducibility possible.\n\nModern research runs on data. Studies analyze large datasets with complex software, and the conclusions depend entirely on both the data and the exact processing applied to it. If the underlying data is hidden, other researchers cannot check whether the analysis was done correctly, whether the results hold, or whether errors crept in. They are asked to take the conclusions on faith.\n\nScience has confronted a so-called replication crisis, in which many published findings across several fields proved difficult or impossible to reproduce. The causes are varied, but a recurring theme is the unavailability of data and code. When materials are closed, mistakes and even misconduct can hide, and honest work cannot be independently confirmed.\n\nOpen data addresses this directly. When researchers publish their datasets alongside their papers, others can rerun the analysis, test alternative methods, catch errors, and extend the work in new directions. Reproducibility shifts from a hopeful assumption to something anyone can actually attempt. Open code matters for the same reason, since the processing steps are part of the method.\n\nThere are legitimate limits. Some data cannot be shared because it identifies individuals or carries genuine privacy risks, and responsible openness respects those boundaries. But a great deal of research data has no such constraint and is closed only by habit or convenience.\n\nGratisAPI supports this culture in a modest way. By providing data in open, stable, machine readable form under a free license, we make it easier for anyone to reproduce an analysis that used our data, and to verify rather than trust. Reproducibility depends on access, and access is what an open API is for.",
+  "word_count": 318,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-reproducibility-and-open-data.json"
+}

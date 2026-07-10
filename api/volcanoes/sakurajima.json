@@ -1,0 +1,9 @@
+{
+  "id": "sakurajima",
+  "name": "Sakurajima",
+  "country": "Japan",
+  "type": "Stratovolcano",
+  "elevation_m": 1117,
+  "last_major_eruption": 2022,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/sakurajima.json"
+}

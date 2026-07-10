@@ -1,0 +1,8 @@
+{
+  "id": "mp3",
+  "extension": ".mp3",
+  "name": "MP3 Audio",
+  "category": "Audio",
+  "description": "A widely used lossy compressed audio format.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/mp3.json"
+}

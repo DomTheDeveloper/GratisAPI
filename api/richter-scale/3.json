@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "magnitude_range": "3.0-3.9",
+  "class": "Minor",
+  "effects": "Often felt indoors; rarely causes damage.",
+  "approx_frequency_per_year": 100000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/3.json"
+}

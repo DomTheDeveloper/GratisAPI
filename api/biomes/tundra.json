@@ -1,0 +1,9 @@
+{
+  "id": "tundra",
+  "name": "Tundra",
+  "climate": "Extremely cold with permafrost and short growing season",
+  "avg_rainfall_mm": 250,
+  "example_regions": "Arctic Circle, alpine peaks, northern Alaska",
+  "dominant_vegetation": "Mosses, lichens, sedges, and dwarf shrubs.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/tundra.json"
+}

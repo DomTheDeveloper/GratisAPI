@@ -1,0 +1,9 @@
+{
+  "id": "temperate-rainforest",
+  "name": "Temperate Rainforest",
+  "climate": "Cool, wet, and mild with high humidity",
+  "avg_rainfall_mm": 2000,
+  "example_regions": "Pacific Northwest, southern Chile, New Zealand",
+  "dominant_vegetation": "Towering conifers with dense ferns and mosses.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/temperate-rainforest.json"
+}

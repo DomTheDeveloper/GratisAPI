@@ -1,0 +1,9 @@
+{
+  "id": "pinatubo",
+  "name": "Mount Pinatubo",
+  "country": "Philippines",
+  "type": "Stratovolcano",
+  "elevation_m": 1486,
+  "last_major_eruption": 1991,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/pinatubo.json"
+}

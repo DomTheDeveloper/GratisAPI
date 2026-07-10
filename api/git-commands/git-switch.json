@@ -1,0 +1,7 @@
+{
+  "id": "git-switch",
+  "command": "git switch",
+  "category": "Branching",
+  "description": "Switch to an existing branch or create a new one, a modern alternative to checkout.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-switch.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 19,
+  "unit": "Metric Cup",
+  "abbreviation": "cup",
+  "type": "Volume",
+  "milliliters": 250.0,
+  "grams": null,
+  "note": "Metric cup used in Australia and parts of Europe.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/19.json"
+}

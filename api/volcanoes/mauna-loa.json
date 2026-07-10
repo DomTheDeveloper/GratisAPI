@@ -1,0 +1,9 @@
+{
+  "id": "mauna-loa",
+  "name": "Mauna Loa",
+  "country": "United States",
+  "type": "Shield",
+  "elevation_m": 4169,
+  "last_major_eruption": 2022,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/mauna-loa.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "asparagine",
+  "name": "Asparagine",
+  "three_letter": "Asn",
+  "one_letter": "N",
+  "essential": false,
+  "polarity": "Polar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/asparagine.json"
+}

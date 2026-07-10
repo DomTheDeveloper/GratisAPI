@@ -1,0 +1,9 @@
+{
+  "id": "calcite",
+  "name": "Calcite",
+  "chemical_formula": "CaCO3",
+  "mohs_hardness": 3.0,
+  "color": "Colorless, white, or pale tints",
+  "luster": "Vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/calcite.json"
+}

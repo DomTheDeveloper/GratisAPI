@@ -1,0 +1,7 @@
+{
+  "id": "psychological-thriller",
+  "name": "Psychological Thriller",
+  "description": "Thrillers that emphasize mental tension, paranoia, and unstable perception.",
+  "example_film": "Se7en",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/psychological-thriller.json"
+}

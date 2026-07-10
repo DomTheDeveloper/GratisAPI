@@ -1,0 +1,9 @@
+{
+  "id": "mica-biotite",
+  "name": "Biotite Mica",
+  "chemical_formula": "K(Mg,Fe)3(AlSi3O10)(OH)2",
+  "mohs_hardness": 2.75,
+  "color": "Black to dark brown",
+  "luster": "Vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/mica-biotite.json"
+}

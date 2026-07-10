@@ -1,0 +1,293 @@
+{
+  "api": "national-parks",
+  "title": "National Parks",
+  "description": "Famous national parks worldwide with their location, size, and notable features.",
+  "emoji": "🏞️",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/{id}.json"
+  },
+  "fields": [
+    "area_km2",
+    "country",
+    "established_year",
+    "id",
+    "name",
+    "notable_feature"
+  ],
+  "results": [
+    {
+      "id": "yellowstone",
+      "name": "Yellowstone National Park",
+      "country": "United States",
+      "established_year": 1872,
+      "area_km2": 8991,
+      "notable_feature": "Geothermal geysers including Old Faithful and abundant wildlife.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/yellowstone.json"
+    },
+    {
+      "id": "yosemite",
+      "name": "Yosemite National Park",
+      "country": "United States",
+      "established_year": 1890,
+      "area_km2": 3027,
+      "notable_feature": "Granite cliffs like El Capitan and Half Dome, and giant sequoias.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/yosemite.json"
+    },
+    {
+      "id": "grand-canyon",
+      "name": "Grand Canyon National Park",
+      "country": "United States",
+      "established_year": 1919,
+      "area_km2": 4926,
+      "notable_feature": "A mile-deep canyon carved by the Colorado River.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/grand-canyon.json"
+    },
+    {
+      "id": "banff",
+      "name": "Banff National Park",
+      "country": "Canada",
+      "established_year": 1885,
+      "area_km2": 6641,
+      "notable_feature": "Turquoise glacial lakes and Rocky Mountain peaks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/banff.json"
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper National Park",
+      "country": "Canada",
+      "established_year": 1907,
+      "area_km2": 11000,
+      "notable_feature": "Largest park in the Canadian Rockies, known for dark-sky stargazing.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/jasper.json"
+    },
+    {
+      "id": "torres-del-paine",
+      "name": "Torres del Paine National Park",
+      "country": "Chile",
+      "established_year": 1959,
+      "area_km2": 2270,
+      "notable_feature": "Dramatic granite towers, glaciers, and Patagonian steppe.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/torres-del-paine.json"
+    },
+    {
+      "id": "iguazu",
+      "name": "Iguazu National Park",
+      "country": "Argentina",
+      "established_year": 1934,
+      "area_km2": 672,
+      "notable_feature": "The vast Iguazu Falls system on the border with Brazil.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/iguazu.json"
+    },
+    {
+      "id": "serengeti",
+      "name": "Serengeti National Park",
+      "country": "Tanzania",
+      "established_year": 1951,
+      "area_km2": 14750,
+      "notable_feature": "The great wildebeest migration across endless plains.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/serengeti.json"
+    },
+    {
+      "id": "kruger",
+      "name": "Kruger National Park",
+      "country": "South Africa",
+      "established_year": 1926,
+      "area_km2": 19485,
+      "notable_feature": "One of Africa's largest reserves, home to the Big Five.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/kruger.json"
+    },
+    {
+      "id": "maasai-mara",
+      "name": "Maasai Mara National Reserve",
+      "country": "Kenya",
+      "established_year": 1961,
+      "area_km2": 1510,
+      "notable_feature": "Big-cat country and northern end of the wildebeest migration.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/maasai-mara.json"
+    },
+    {
+      "id": "fiordland",
+      "name": "Fiordland National Park",
+      "country": "New Zealand",
+      "established_year": 1952,
+      "area_km2": 12500,
+      "notable_feature": "Deep glacier-carved fjords including Milford Sound.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/fiordland.json"
+    },
+    {
+      "id": "kakadu",
+      "name": "Kakadu National Park",
+      "country": "Australia",
+      "established_year": 1979,
+      "area_km2": 19804,
+      "notable_feature": "Ancient Aboriginal rock art, wetlands, and crocodiles.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/kakadu.json"
+    },
+    {
+      "id": "plitvice-lakes",
+      "name": "Plitvice Lakes National Park",
+      "country": "Croatia",
+      "established_year": 1949,
+      "area_km2": 295,
+      "notable_feature": "A cascade of terraced lakes linked by waterfalls.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/plitvice-lakes.json"
+    },
+    {
+      "id": "swiss-national-park",
+      "name": "Swiss National Park",
+      "country": "Switzerland",
+      "established_year": 1914,
+      "area_km2": 170,
+      "notable_feature": "The Alps' oldest national park, a strict wilderness reserve.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/swiss-national-park.json"
+    },
+    {
+      "id": "vatnajokull",
+      "name": "Vatnajokull National Park",
+      "country": "Iceland",
+      "established_year": 2008,
+      "area_km2": 14700,
+      "notable_feature": "Europe's largest glacier, with ice caves and volcanoes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/vatnajokull.json"
+    },
+    {
+      "id": "sarek",
+      "name": "Sarek National Park",
+      "country": "Sweden",
+      "established_year": 1909,
+      "area_km2": 1970,
+      "notable_feature": "Roadless Arctic wilderness of peaks, glaciers, and valleys.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/sarek.json"
+    },
+    {
+      "id": "etosha",
+      "name": "Etosha National Park",
+      "country": "Namibia",
+      "established_year": 1907,
+      "area_km2": 22270,
+      "notable_feature": "A vast salt pan and waterholes teeming with wildlife.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/etosha.json"
+    },
+    {
+      "id": "galapagos",
+      "name": "Galapagos National Park",
+      "country": "Ecuador",
+      "established_year": 1959,
+      "area_km2": 7995,
+      "notable_feature": "Endemic wildlife that inspired Darwin's theory of evolution.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/galapagos.json"
+    },
+    {
+      "id": "manu",
+      "name": "Manu National Park",
+      "country": "Peru",
+      "established_year": 1973,
+      "area_km2": 17163,
+      "notable_feature": "Amazon biodiversity hotspot spanning Andes to rainforest.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/manu.json"
+    },
+    {
+      "id": "tikal",
+      "name": "Tikal National Park",
+      "country": "Guatemala",
+      "established_year": 1955,
+      "area_km2": 575,
+      "notable_feature": "Ancient Maya temples rising above dense jungle.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/tikal.json"
+    },
+    {
+      "id": "komodo",
+      "name": "Komodo National Park",
+      "country": "Indonesia",
+      "established_year": 1980,
+      "area_km2": 1733,
+      "notable_feature": "The wild habitat of the Komodo dragon.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/komodo.json"
+    },
+    {
+      "id": "chitwan",
+      "name": "Chitwan National Park",
+      "country": "Nepal",
+      "established_year": 1973,
+      "area_km2": 953,
+      "notable_feature": "One-horned rhinos and Bengal tigers in lowland jungle.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/chitwan.json"
+    },
+    {
+      "id": "jim-corbett",
+      "name": "Jim Corbett National Park",
+      "country": "India",
+      "established_year": 1936,
+      "area_km2": 521,
+      "notable_feature": "India's oldest national park, a Bengal tiger stronghold.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/jim-corbett.json"
+    },
+    {
+      "id": "zhangjiajie",
+      "name": "Zhangjiajie National Forest Park",
+      "country": "China",
+      "established_year": 1982,
+      "area_km2": 48,
+      "notable_feature": "Towering quartzite sandstone pillars rising through mist.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/zhangjiajie.json"
+    },
+    {
+      "id": "fuji-hakone-izu",
+      "name": "Fuji-Hakone-Izu National Park",
+      "country": "Japan",
+      "established_year": 1936,
+      "area_km2": 1227,
+      "notable_feature": "Encompasses Mount Fuji, hot springs, and the Izu coast.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/fuji-hakone-izu.json"
+    },
+    {
+      "id": "snowdonia",
+      "name": "Snowdonia National Park",
+      "country": "United Kingdom",
+      "established_year": 1951,
+      "area_km2": 2176,
+      "notable_feature": "Rugged Welsh mountains crowned by Mount Snowdon.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/snowdonia.json"
+    },
+    {
+      "id": "cairngorms",
+      "name": "Cairngorms National Park",
+      "country": "United Kingdom",
+      "established_year": 2003,
+      "area_km2": 4528,
+      "notable_feature": "The UK's largest national park, with high Scottish plateaus.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/cairngorms.json"
+    },
+    {
+      "id": "sagarmatha",
+      "name": "Sagarmatha National Park",
+      "country": "Nepal",
+      "established_year": 1976,
+      "area_km2": 1148,
+      "notable_feature": "Home to Mount Everest and Sherpa mountain culture.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/sagarmatha.json"
+    },
+    {
+      "id": "tongariro",
+      "name": "Tongariro National Park",
+      "country": "New Zealand",
+      "established_year": 1887,
+      "area_km2": 786,
+      "notable_feature": "Active volcanoes and the famous Alpine Crossing trek.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/tongariro.json"
+    },
+    {
+      "id": "denali",
+      "name": "Denali National Park",
+      "country": "United States",
+      "established_year": 1917,
+      "area_km2": 24585,
+      "notable_feature": "Denali, the highest peak in North America, amid subarctic wilderness.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/denali.json"
+    }
+  ]
+}

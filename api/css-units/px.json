@@ -1,0 +1,7 @@
+{
+  "id": "px",
+  "unit": "px",
+  "type": "Absolute",
+  "description": "Pixels; one device-independent pixel, the most common absolute unit.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/px.json"
+}

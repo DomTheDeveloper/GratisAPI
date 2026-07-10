@@ -1,0 +1,7 @@
+{
+  "id": "git-push",
+  "command": "git push",
+  "category": "Sharing",
+  "description": "Upload local commits and refs to a remote repository.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-push.json"
+}

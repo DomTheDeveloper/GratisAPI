@@ -1,0 +1,8 @@
+{
+  "id": "accept-language",
+  "header": "Accept-Language",
+  "type": "Request",
+  "description": "Indicates the natural languages the client prefers.",
+  "example": "en-US,en;q=0.9",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/accept-language.json"
+}

@@ -1,0 +1,76 @@
+"""Common minerals with their physical properties."""
+
+META = {
+    "name": "minerals",
+    "title": "Common Minerals",
+    "description": "Common rock-forming and economically important minerals and their properties.",
+    "emoji": "💎",
+}
+
+# id, name, chemical_formula, mohs_hardness, color, luster
+_RAW = [
+    ("quartz", "Quartz", "SiO2", 7.0,
+     "Colorless to white, purple, pink, or smoky", "Vitreous"),
+    ("feldspar", "Orthoclase Feldspar", "KAlSi3O8", 6.0,
+     "White, pink, or grey", "Vitreous"),
+    ("mica-muscovite", "Muscovite Mica", "KAl2(AlSi3O10)(OH)2", 2.5,
+     "Colorless to silvery or pale brown", "Pearly"),
+    ("mica-biotite", "Biotite Mica", "K(Mg,Fe)3(AlSi3O10)(OH)2", 2.75,
+     "Black to dark brown", "Vitreous"),
+    ("calcite", "Calcite", "CaCO3", 3.0,
+     "Colorless, white, or pale tints", "Vitreous"),
+    ("dolomite", "Dolomite", "CaMg(CO3)2", 3.75,
+     "White, grey, or pinkish", "Vitreous"),
+    ("gypsum", "Gypsum", "CaSO4·2H2O", 2.0,
+     "Colorless, white, or grey", "Vitreous to silky"),
+    ("halite", "Halite", "NaCl", 2.5,
+     "Colorless, white, or tinted", "Vitreous"),
+    ("fluorite", "Fluorite", "CaF2", 4.0,
+     "Purple, green, blue, or yellow", "Vitreous"),
+    ("apatite", "Apatite", "Ca5(PO4)3(F,Cl,OH)", 5.0,
+     "Green, blue, yellow, or brown", "Vitreous"),
+    ("hematite", "Hematite", "Fe2O3", 6.0,
+     "Steel grey to reddish brown", "Metallic to earthy"),
+    ("magnetite", "Magnetite", "Fe3O4", 6.0,
+     "Black", "Metallic"),
+    ("pyrite", "Pyrite", "FeS2", 6.25,
+     "Brass yellow", "Metallic"),
+    ("galena", "Galena", "PbS", 2.5,
+     "Lead grey", "Metallic"),
+    ("sphalerite", "Sphalerite", "ZnS", 3.75,
+     "Yellow, brown, to black", "Resinous to adamantine"),
+    ("chalcopyrite", "Chalcopyrite", "CuFeS2", 3.75,
+     "Brass to golden yellow", "Metallic"),
+    ("graphite", "Graphite", "C", 1.5,
+     "Steel grey to black", "Metallic to dull"),
+    ("talc", "Talc", "Mg3Si4O10(OH)2", 1.0,
+     "White, grey, or pale green", "Pearly to greasy"),
+    ("corundum", "Corundum", "Al2O3", 9.0,
+     "Colorless, red (ruby), or blue (sapphire)", "Adamantine to vitreous"),
+    ("diamond", "Diamond", "C", 10.0,
+     "Colorless to yellow, brown, or blue", "Adamantine"),
+    ("topaz", "Topaz", "Al2SiO4(F,OH)2", 8.0,
+     "Colorless, blue, yellow, or pink", "Vitreous"),
+    ("garnet", "Garnet", "Fe3Al2(SiO4)3", 7.25,
+     "Deep red, brown, or green", "Vitreous to resinous"),
+    ("olivine", "Olivine", "(Mg,Fe)2SiO4", 6.75,
+     "Olive green to yellow-green", "Vitreous"),
+    ("malachite", "Malachite", "Cu2CO3(OH)2", 3.75,
+     "Bright green", "Silky to dull"),
+    ("azurite", "Azurite", "Cu3(CO3)2(OH)2", 3.75,
+     "Deep azure blue", "Vitreous"),
+    ("sulfur", "Sulfur", "S", 2.0,
+     "Bright yellow", "Resinous"),
+]
+
+ITEMS = [
+    {
+        "id": r[0],
+        "name": r[1],
+        "chemical_formula": r[2],
+        "mohs_hardness": r[3],
+        "color": r[4],
+        "luster": r[5],
+    }
+    for r in _RAW
+]

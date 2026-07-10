@@ -1,0 +1,10 @@
+{
+  "id": "kk100",
+  "name": "KK100",
+  "city": "Shenzhen",
+  "country": "China",
+  "height_m": 442,
+  "floors": 100,
+  "completed_year": 2011,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/kk100.json"
+}

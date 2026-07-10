@@ -1,0 +1,9 @@
+{
+  "id": "yellowstone",
+  "name": "Yellowstone National Park",
+  "country": "United States",
+  "established_year": 1872,
+  "area_km2": 8991,
+  "notable_feature": "Geothermal geysers including Old Faithful and abundant wildlife.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/yellowstone.json"
+}

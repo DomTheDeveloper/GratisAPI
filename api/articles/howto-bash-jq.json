@@ -1,0 +1,17 @@
+{
+  "id": "howto-bash-jq",
+  "title": "Using GratisAPI in Bash Scripts with jq",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-10-16",
+  "tags": [
+    "bash",
+    "jq",
+    "cli"
+  ],
+  "summary": "Combine curl and jq to filter, transform, and extract fields from GratisAPI data in shell scripts.",
+  "body": "The combination of curl and jq turns the shell into a capable JSON processing environment. GratisAPI's static endpoints make it easy to script data pulls, extract specific fields, and feed results into other commands.\n\njq is a lightweight command-line JSON processor. Install it from your package manager, then pipe curl output into it. To list every quote's author, fetch the endpoint and select the field:\n\ncurl -s https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json | jq '.quotes[].author'\n\nThe filter .quotes[] iterates the array, and .author picks one field from each record. You can build up more complex expressions. To count records, use jq '.count'. To grab a random item, combine jq with shell tools, or use jq's own functions to select and slice.\n\njq shines at reshaping data. The following pulls just the id and name from the colors collection into compact objects:\n\ncurl -s .../api/colors/index.json | jq '.colors[] | {id, name}'\n\nYou can filter with select, for example .colors[] | select(.name | startswith(\"Dark\")) to keep only colors whose name begins with a given prefix. Add the -r flag to jq for raw output without quotes, which is ideal when you want to feed values into a loop or another command.\n\nA common pattern is a script that downloads a collection, extracts a list of ids, and loops over them to fetch individual records. Because there are no rate limits, such loops run freely, though caching the initial download avoids redundant network calls. With just curl, jq, and a few lines of Bash, you can automate reporting, generate CSV, or drive other tools entirely from GratisAPI data.",
+  "word_count": 261,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-bash-jq.json"
+}

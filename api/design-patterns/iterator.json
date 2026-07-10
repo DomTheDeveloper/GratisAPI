@@ -1,0 +1,7 @@
+{
+  "id": "iterator",
+  "name": "Iterator",
+  "category": "Behavioral",
+  "description": "Provides a way to access elements of a collection sequentially without exposing its underlying representation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/iterator.json"
+}

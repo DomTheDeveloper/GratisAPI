@@ -1,0 +1,9 @@
+{
+  "id": "sunflower",
+  "name": "Sunflower Galaxy (M63)",
+  "type": "Spiral",
+  "constellation": "Canes Venatici",
+  "distance_mly": 27,
+  "notes": "A flocculent spiral with many short, patchy arms.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/sunflower.json"
+}

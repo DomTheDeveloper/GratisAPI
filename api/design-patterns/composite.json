@@ -1,0 +1,7 @@
+{
+  "id": "composite",
+  "name": "Composite",
+  "category": "Structural",
+  "description": "Composes objects into tree structures to represent part-whole hierarchies, treating individual and composite objects uniformly.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/composite.json"
+}

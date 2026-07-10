@@ -1,0 +1,9 @@
+{
+  "id": "spirit-opportunity",
+  "name": "Mars Exploration Rovers",
+  "agency": "NASA",
+  "launch_year": 2003,
+  "type": "Planetary",
+  "achievement": "Spirit and Opportunity found evidence of past water on Mars.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/spirit-opportunity.json"
+}

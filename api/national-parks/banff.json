@@ -1,0 +1,9 @@
+{
+  "id": "banff",
+  "name": "Banff National Park",
+  "country": "Canada",
+  "established_year": 1885,
+  "area_km2": 6641,
+  "notable_feature": "Turquoise glacial lakes and Rocky Mountain peaks.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/banff.json"
+}

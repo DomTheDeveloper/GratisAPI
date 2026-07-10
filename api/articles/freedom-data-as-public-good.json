@@ -1,0 +1,17 @@
+{
+  "id": "freedom-data-as-public-good",
+  "title": "Data as a Public Good",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-04-02",
+  "tags": [
+    "public-good",
+    "data",
+    "economics"
+  ],
+  "summary": "Data has the economic character of a public good, which makes a strong case for providing certain datasets freely to everyone.",
+  "body": "Economists use the term public good for something with two particular properties: it is non-rivalrous, meaning one person's use does not diminish another's, and it is non-excludable, meaning it is difficult to prevent people from using it. Classic examples include clean air, national defense, and lighthouses. Much data fits this description remarkably well.\n\nData is strikingly non-rivalrous. If you download a dataset, there is exactly as much left for everyone else. Unlike a loaf of bread or a barrel of oil, information is not consumed by use. It can be copied endlessly at almost no cost, which means the natural abundance of data is limited only by the artificial scarcity we choose to impose on it.\n\nThis has an important consequence. When a resource is non-rivalrous, restricting access does not conserve anything; it simply excludes people who could have benefited at no cost to anyone else. Charging for access to abundant data, or locking it behind keys, creates scarcity where none needs to exist. The exclusion is a choice, not a necessity.\n\nMarkets tend to underproduce public goods, because it is hard to profit from something everyone can freely use. This is a standard argument for why public institutions fund lighthouses, basic research, and, one can argue, foundational datasets. Some data is too broadly useful to be left entirely to private incentives.\n\nNot all data is a public good. Personal data raises real questions of privacy and consent, and some datasets are genuinely costly to gather and maintain. Treating data as a public good does not mean all information should be free, but that broadly useful, non-personal data has an economic character that favors openness.\n\nGratisAPI treats its data accordingly. Because serving one more request costs almost nothing and deprives no one, we see no reason to ration access. Data that behaves like a public good should be offered like one.",
+  "word_count": 311,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-data-as-public-good.json"
+}

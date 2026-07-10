@@ -1,0 +1,7 @@
+{
+  "id": "proxy",
+  "name": "Proxy",
+  "category": "Structural",
+  "description": "Provides a surrogate or placeholder for another object to control access to it.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/proxy.json"
+}

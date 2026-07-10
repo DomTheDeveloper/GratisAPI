@@ -1,0 +1,104 @@
+{
+  "api": "mars-rovers",
+  "title": "Mars Rovers and Landers",
+  "description": "Mars rovers and notable landers with their agency, launch year, and mission status.",
+  "emoji": "🔴",
+  "license": "GPL-2.0-or-later",
+  "count": 9,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/{id}.json"
+  },
+  "fields": [
+    "agency",
+    "id",
+    "launch_year",
+    "mission",
+    "name",
+    "status"
+  ],
+  "results": [
+    {
+      "id": "sojourner",
+      "name": "Sojourner",
+      "agency": "NASA",
+      "launch_year": 1996,
+      "status": "Inactive",
+      "mission": "First rover on Mars, part of the Mars Pathfinder mission.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/sojourner.json"
+    },
+    {
+      "id": "spirit",
+      "name": "Spirit (MER-A)",
+      "agency": "NASA",
+      "launch_year": 2003,
+      "status": "Inactive",
+      "mission": "Mars Exploration Rover that studied rocks and soil for signs of past water.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/spirit.json"
+    },
+    {
+      "id": "opportunity",
+      "name": "Opportunity (MER-B)",
+      "agency": "NASA",
+      "launch_year": 2003,
+      "status": "Inactive",
+      "mission": "Mars Exploration Rover that operated for nearly 15 years and found evidence of past water.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/opportunity.json"
+    },
+    {
+      "id": "curiosity",
+      "name": "Curiosity",
+      "agency": "NASA",
+      "launch_year": 2011,
+      "status": "Active",
+      "mission": "Mars Science Laboratory rover exploring Gale Crater for habitability.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/curiosity.json"
+    },
+    {
+      "id": "perseverance",
+      "name": "Perseverance",
+      "agency": "NASA",
+      "launch_year": 2020,
+      "status": "Active",
+      "mission": "Rover searching for signs of ancient life and collecting samples in Jezero Crater.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/perseverance.json"
+    },
+    {
+      "id": "zhurong",
+      "name": "Zhurong",
+      "agency": "CNSA",
+      "launch_year": 2020,
+      "status": "Inactive",
+      "mission": "China's first Mars rover, part of the Tianwen-1 mission.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/zhurong.json"
+    },
+    {
+      "id": "insight",
+      "name": "InSight",
+      "agency": "NASA",
+      "launch_year": 2018,
+      "status": "Inactive",
+      "mission": "Stationary lander that studied the deep interior and seismology of Mars.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/insight.json"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "agency": "NASA",
+      "launch_year": 2007,
+      "status": "Inactive",
+      "mission": "Lander that confirmed subsurface water ice in the Martian arctic.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/phoenix.json"
+    },
+    {
+      "id": "viking-1",
+      "name": "Viking 1",
+      "agency": "NASA",
+      "launch_year": 1975,
+      "status": "Inactive",
+      "mission": "First lander to successfully operate on the Martian surface.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/viking-1.json"
+    }
+  ]
+}

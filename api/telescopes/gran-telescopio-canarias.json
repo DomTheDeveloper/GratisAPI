@@ -1,0 +1,9 @@
+{
+  "id": "gran-telescopio-canarias",
+  "name": "Gran Telescopio Canarias",
+  "type": "Ground",
+  "location_or_orbit": "La Palma, Canary Islands, Spain",
+  "wavelength": "Optical",
+  "first_light_year": 2007,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/gran-telescopio-canarias.json"
+}

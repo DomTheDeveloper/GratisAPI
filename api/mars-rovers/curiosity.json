@@ -1,0 +1,9 @@
+{
+  "id": "curiosity",
+  "name": "Curiosity",
+  "agency": "NASA",
+  "launch_year": 2011,
+  "status": "Active",
+  "mission": "Mars Science Laboratory rover exploring Gale Crater for habitability.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/curiosity.json"
+}

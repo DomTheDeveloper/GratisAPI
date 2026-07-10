@@ -1,0 +1,8 @@
+{
+  "id": "vary",
+  "header": "Vary",
+  "type": "Response",
+  "description": "Lists request headers that affect how the response is selected for caching.",
+  "example": "Accept-Encoding",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/vary.json"
+}

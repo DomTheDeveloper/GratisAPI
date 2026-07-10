@@ -1,0 +1,7 @@
+{
+  "id": "git-checkout",
+  "command": "git checkout",
+  "category": "Branching",
+  "description": "Switch branches or restore working tree files.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-checkout.json"
+}

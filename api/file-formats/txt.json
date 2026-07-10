@@ -1,0 +1,8 @@
+{
+  "id": "txt",
+  "extension": ".txt",
+  "name": "Plain Text",
+  "category": "Document",
+  "description": "An unformatted plain-text file.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/txt.json"
+}

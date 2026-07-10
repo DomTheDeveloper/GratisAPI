@@ -1,0 +1,8 @@
+{
+  "id": "fencing",
+  "name": "Fencing",
+  "origin_country": "France",
+  "type": "Weapon-based",
+  "description": "European sword-based sport using the foil, épée, and sabre.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/fencing.json"
+}

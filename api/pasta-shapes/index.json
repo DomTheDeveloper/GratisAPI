@@ -1,0 +1,262 @@
+{
+  "api": "pasta-shapes",
+  "title": "Pasta Shapes",
+  "description": "A collection of Italian pasta shapes with their literal meaning and typical use.",
+  "emoji": "🍝",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/{id}.json"
+  },
+  "fields": [
+    "category",
+    "id",
+    "name",
+    "translation",
+    "typical_use"
+  ],
+  "results": [
+    {
+      "id": "spaghetti",
+      "name": "Spaghetti",
+      "category": "Long",
+      "translation": "Little strings",
+      "typical_use": "Tomato, oil, or seafood sauces such as marinara and aglio e olio.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/spaghetti.json"
+    },
+    {
+      "id": "spaghettini",
+      "name": "Spaghettini",
+      "category": "Long",
+      "translation": "Thin little strings",
+      "typical_use": "Light, delicate sauces where thinner strands suit.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/spaghettini.json"
+    },
+    {
+      "id": "linguine",
+      "name": "Linguine",
+      "category": "Long",
+      "translation": "Little tongues",
+      "typical_use": "Seafood and pesto sauces; classic with clams (alle vongole).",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/linguine.json"
+    },
+    {
+      "id": "fettuccine",
+      "name": "Fettuccine",
+      "category": "Long",
+      "translation": "Little ribbons",
+      "typical_use": "Rich, creamy sauces such as Alfredo and meat ragu.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/fettuccine.json"
+    },
+    {
+      "id": "tagliatelle",
+      "name": "Tagliatelle",
+      "category": "Long",
+      "translation": "To cut",
+      "typical_use": "Hearty meat sauces, most famously Bolognese.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/tagliatelle.json"
+    },
+    {
+      "id": "pappardelle",
+      "name": "Pappardelle",
+      "category": "Long",
+      "translation": "To gobble up",
+      "typical_use": "Wide ribbons for rich game and braised meat ragus.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/pappardelle.json"
+    },
+    {
+      "id": "bucatini",
+      "name": "Bucatini",
+      "category": "Long",
+      "translation": "Little holes",
+      "typical_use": "Hollow strands ideal for amatriciana and cacio e pepe.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/bucatini.json"
+    },
+    {
+      "id": "vermicelli",
+      "name": "Vermicelli",
+      "category": "Long",
+      "translation": "Little worms",
+      "typical_use": "Light sauces and broths; thinner than spaghetti.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/vermicelli.json"
+    },
+    {
+      "id": "capellini",
+      "name": "Capellini",
+      "category": "Long",
+      "translation": "Little hairs",
+      "typical_use": "Very fine strands for delicate broths and light sauces.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/capellini.json"
+    },
+    {
+      "id": "penne",
+      "name": "Penne",
+      "category": "Short",
+      "translation": "Quills or pens",
+      "typical_use": "Chunky sauces and baked dishes; ridges hold sauce well.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/penne.json"
+    },
+    {
+      "id": "fusilli",
+      "name": "Fusilli",
+      "category": "Short",
+      "translation": "Little spindles",
+      "typical_use": "Pesto and creamy sauces; spirals trap sauce and pasta salads.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/fusilli.json"
+    },
+    {
+      "id": "farfalle",
+      "name": "Farfalle",
+      "category": "Short",
+      "translation": "Butterflies",
+      "typical_use": "Light cream or tomato sauces and cold pasta salads.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/farfalle.json"
+    },
+    {
+      "id": "orecchiette",
+      "name": "Orecchiette",
+      "category": "Short",
+      "translation": "Little ears",
+      "typical_use": "Classic with broccoli rabe and sausage in Puglia.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/orecchiette.json"
+    },
+    {
+      "id": "rotini",
+      "name": "Rotini",
+      "category": "Short",
+      "translation": "Small wheels",
+      "typical_use": "Corkscrew shape for pasta salads and thick sauces.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/rotini.json"
+    },
+    {
+      "id": "gemelli",
+      "name": "Gemelli",
+      "category": "Short",
+      "translation": "Twins",
+      "typical_use": "Pesto, oil, and light tomato sauces; two twisted strands.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/gemelli.json"
+    },
+    {
+      "id": "cavatappi",
+      "name": "Cavatappi",
+      "category": "Short",
+      "translation": "Corkscrew",
+      "typical_use": "Baked dishes and cheese sauces; ridged spirals cling to sauce.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/cavatappi.json"
+    },
+    {
+      "id": "radiatori",
+      "name": "Radiatori",
+      "category": "Short",
+      "translation": "Radiators",
+      "typical_use": "Thick, creamy sauces caught in the ruffled ridges.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/radiatori.json"
+    },
+    {
+      "id": "rigatoni",
+      "name": "Rigatoni",
+      "category": "Tube",
+      "translation": "Large ridged ones",
+      "typical_use": "Hearty meat sauces and baked dishes; ridges hold sauce.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/rigatoni.json"
+    },
+    {
+      "id": "macaroni",
+      "name": "Macaroni",
+      "category": "Tube",
+      "translation": null,
+      "typical_use": "Cheese sauces, most famously macaroni and cheese.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/macaroni.json"
+    },
+    {
+      "id": "ziti",
+      "name": "Ziti",
+      "category": "Tube",
+      "translation": "Bridegrooms",
+      "typical_use": "Baked casseroles such as baked ziti with tomato and cheese.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/ziti.json"
+    },
+    {
+      "id": "cannelloni",
+      "name": "Cannelloni",
+      "category": "Tube",
+      "translation": "Large reeds",
+      "typical_use": "Stuffed with meat or ricotta, then baked in sauce.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/cannelloni.json"
+    },
+    {
+      "id": "manicotti",
+      "name": "Manicotti",
+      "category": "Tube",
+      "translation": "Little muffs",
+      "typical_use": "Large tubes filled with ricotta and baked.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/manicotti.json"
+    },
+    {
+      "id": "lasagne",
+      "name": "Lasagne",
+      "category": "Sheet",
+      "translation": "Cooking pot",
+      "typical_use": "Layered and baked with ragu, bechamel, and cheese.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/lasagne.json"
+    },
+    {
+      "id": "ravioli",
+      "name": "Ravioli",
+      "category": "Stuffed",
+      "translation": null,
+      "typical_use": "Filled pillows of cheese, meat, or vegetables in sauce.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/ravioli.json"
+    },
+    {
+      "id": "tortellini",
+      "name": "Tortellini",
+      "category": "Stuffed",
+      "translation": "Little cakes",
+      "typical_use": "Small rings filled with meat, served in broth or sauce.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/tortellini.json"
+    },
+    {
+      "id": "agnolotti",
+      "name": "Agnolotti",
+      "category": "Stuffed",
+      "translation": "Little lambs",
+      "typical_use": "Piedmontese filled pockets, often with roasted meat.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/agnolotti.json"
+    },
+    {
+      "id": "tortelloni",
+      "name": "Tortelloni",
+      "category": "Stuffed",
+      "translation": "Large little cakes",
+      "typical_use": "Larger stuffed pasta, typically ricotta and spinach.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/tortelloni.json"
+    },
+    {
+      "id": "orzo",
+      "name": "Orzo",
+      "category": "Mini",
+      "translation": "Barley",
+      "typical_use": "Soups, salads, and pilaf-style dishes; resembles rice grains.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/orzo.json"
+    },
+    {
+      "id": "ditalini",
+      "name": "Ditalini",
+      "category": "Mini",
+      "translation": "Little thimbles",
+      "typical_use": "Soups such as pasta e fagioli and minestrone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/ditalini.json"
+    },
+    {
+      "id": "stelline",
+      "name": "Stelline",
+      "category": "Mini",
+      "translation": "Little stars",
+      "typical_use": "Light soups and broths, popular in children's dishes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/pasta-shapes/stelline.json"
+    }
+  ]
+}

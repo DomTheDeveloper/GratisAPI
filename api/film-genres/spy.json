@@ -1,0 +1,7 @@
+{
+  "id": "spy",
+  "name": "Spy",
+  "description": "Films following espionage agents amid intrigue and international stakes.",
+  "example_film": "Goldfinger",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/spy.json"
+}

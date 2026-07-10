@@ -1,0 +1,16 @@
+{
+  "id": "world-roman-numerals",
+  "title": "How Roman Numerals Work",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-07-15",
+  "tags": [
+    "numbers",
+    "history"
+  ],
+  "summary": "Roman numerals build numbers from seven letters using addition and subtraction. This article explains the rules behind this ancient counting system.",
+  "body": "Roman numerals still appear on clock faces, in book chapters, and after the names of kings and popes, long after the empire that created them fell. Learning how they work reveals an elegant, if quirky, system of counting with letters.\n\nThe entire system uses just seven symbols: I for one, V for five, X for ten, L for fifty, C for one hundred, D for five hundred, and M for one thousand. Every number is built by combining these letters, generally writing the largest values first and adding them together. So the number thirty is written XXX, and the year 2018 becomes MMXVIII.\n\nThe clever twist is subtraction. Rather than writing four as IIII, the Romans placed a smaller symbol before a larger one to mean subtract, so four becomes IV and nine becomes IX. The same trick gives us forty as XL and ninety as XC. This rule keeps numbers shorter but makes them a little harder to read at first.\n\nThe system has real limitations. There is no symbol for zero, and no simple way to write very large numbers or fractions, which made complicated arithmetic awkward. These shortcomings are a major reason Europe eventually adopted the Hindu Arabic numerals we use today, which handle place value and zero with ease.\n\nYet Roman numerals survive because they look dignified and traditional. They mark the hours on grand clocks, number the Super Bowl, and lend gravity to monuments and film credits. The GratisAPI Roman numerals dataset at /api/roman-numerals/index.json maps values to their numeral forms, a useful reference for building converters, teaching tools, or puzzles that draw on this ancient way of writing numbers.",
+  "word_count": 274,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-roman-numerals.json"
+}

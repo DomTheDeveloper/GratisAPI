@@ -1,0 +1,9 @@
+{
+  "id": "cairngorms",
+  "name": "Cairngorms National Park",
+  "country": "United Kingdom",
+  "established_year": 2003,
+  "area_km2": 4528,
+  "notable_feature": "The UK's largest national park, with high Scottish plateaus.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/cairngorms.json"
+}

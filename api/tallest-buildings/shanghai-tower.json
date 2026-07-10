@@ -1,0 +1,10 @@
+{
+  "id": "shanghai-tower",
+  "name": "Shanghai Tower",
+  "city": "Shanghai",
+  "country": "China",
+  "height_m": 632,
+  "floors": 128,
+  "completed_year": 2015,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/shanghai-tower.json"
+}

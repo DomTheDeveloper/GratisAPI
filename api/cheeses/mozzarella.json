@@ -1,0 +1,9 @@
+{
+  "id": "mozzarella",
+  "name": "Mozzarella",
+  "country_of_origin": "Italy",
+  "milk": "Buffalo",
+  "texture": "Soft",
+  "flavor": "Mild, milky, and fresh",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/mozzarella.json"
+}

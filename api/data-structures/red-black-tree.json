@@ -1,0 +1,10 @@
+{
+  "id": "red-black-tree",
+  "name": "Red-Black Tree",
+  "category": "Tree",
+  "access_big_o": "O(log n)",
+  "search_big_o": "O(log n)",
+  "insert_big_o": "O(log n)",
+  "description": "A self-balancing binary search tree using node colors to maintain balance during insertion and deletion.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/red-black-tree.json"
+}

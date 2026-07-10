@@ -1,0 +1,17 @@
+{
+  "id": "freedom-static-hosting-as-freedom",
+  "title": "Static Hosting as a Form of Freedom",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2025-01-15",
+  "tags": [
+    "static-hosting",
+    "architecture",
+    "freedom"
+  ],
+  "summary": "Serving an API as static files brings a surprising amount of freedom: low cost, easy mirroring, durability, and independence.",
+  "body": "There is a quiet radicalism in serving an API as nothing but static files. No application server, no database, no dynamic backend, just precomputed data sitting in files that any web server can hand out. This humble architecture turns out to carry a surprising amount of freedom.\n\nThe first freedom is from cost. Static files are extraordinarily cheap to serve. They can be cached aggressively, distributed across content networks, and handled by inexpensive or even free hosting. Low cost is not merely convenient; it is what makes a no-fee, no-key promise sustainable over the long term rather than a subsidy waiting to be withdrawn.\n\nThe second freedom is from lock-in. Static files depend on no particular vendor's proprietary platform. They can be moved from one host to another, served from your own machine, or copied to a dozen mirrors. There is no special runtime to reproduce, no managed database to migrate. If a host disappears, you simply put the files somewhere else.\n\nThe third freedom is durability. A static site has almost nothing to break. There is no server process to crash, no database to corrupt, no dependency to fall out of date and open a security hole. Files served today will serve identically in ten years, which suits a project meant to last.\n\nThe fourth freedom is mirrorability. Because the whole API is just files, anyone can download the entire thing and host their own copy. This makes the right to fork tangible and cheap. The data cannot be held hostage by a single point of control when copies can multiply freely.\n\nStatic hosting is not suitable for everything; genuinely interactive or personalized services need more. But for open, public data that changes slowly, it is close to ideal. GratisAPI is static by design, and that design is itself an expression of the freedom we are trying to provide.",
+  "word_count": 310,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-static-hosting-as-freedom.json"
+}

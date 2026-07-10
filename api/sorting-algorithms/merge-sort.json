@@ -1,0 +1,10 @@
+{
+  "id": "merge-sort",
+  "name": "Merge Sort",
+  "best_case": "O(n log n)",
+  "average_case": "O(n log n)",
+  "worst_case": "O(n log n)",
+  "space_complexity": "O(n)",
+  "stable": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/merge-sort.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "pride",
+  "name": "Pride",
+  "type": "Sin",
+  "latin": "Superbia",
+  "opposite": "Humility",
+  "description": "Excessive self-esteem and regard for oneself above others, traditionally considered the root of the deadly sins.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/pride.json"
+}

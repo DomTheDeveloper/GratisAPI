@@ -1,0 +1,9 @@
+{
+  "id": "nyiragongo",
+  "name": "Mount Nyiragongo",
+  "country": "DR Congo",
+  "type": "Stratovolcano",
+  "elevation_m": 3470,
+  "last_major_eruption": 2021,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/nyiragongo.json"
+}

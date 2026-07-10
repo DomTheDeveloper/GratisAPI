@@ -1,0 +1,7 @@
+{
+  "id": "pt",
+  "unit": "pt",
+  "type": "Absolute",
+  "description": "Points; equal to 1/72 of an inch, common in print.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/pt.json"
+}

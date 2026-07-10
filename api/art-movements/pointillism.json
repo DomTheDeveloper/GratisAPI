@@ -1,0 +1,12 @@
+{
+  "id": "pointillism",
+  "name": "Pointillism",
+  "period": "1880s-1900s",
+  "origin_region": "France",
+  "key_artists": [
+    "Georges Seurat",
+    "Paul Signac"
+  ],
+  "description": "Technique building images from small distinct dots of pure color.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/pointillism.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nevado-del-ruiz",
+  "name": "Nevado del Ruiz",
+  "country": "Colombia",
+  "type": "Stratovolcano",
+  "elevation_m": 5321,
+  "last_major_eruption": 1985,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/nevado-del-ruiz.json"
+}

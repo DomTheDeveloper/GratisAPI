@@ -1,0 +1,8 @@
+{
+  "id": "altostratus",
+  "name": "Altostratus",
+  "abbreviation": "As",
+  "altitude_level": "Middle",
+  "description": "Grey or blue-grey sheet covering the sky, through which the sun appears dimly.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/altostratus.json"
+}

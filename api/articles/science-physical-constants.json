@@ -1,0 +1,17 @@
+{
+  "id": "science-physical-constants",
+  "title": "Physical Constants That Shape Reality",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-09-09",
+  "tags": [
+    "physics",
+    "constants",
+    "fundamental"
+  ],
+  "summary": "A handful of fixed numbers, from the gravitational constant to Planck's constant, govern the behavior of the entire physical universe.",
+  "body": "The laws of physics are written in the language of mathematics, and threaded through those equations are certain fixed numbers that never change no matter where or when you measure them. These physical constants set the scale of reality itself, and even slight differences in their values would produce a universe unrecognizable to us.\n\nSome constants govern the fundamental forces. The gravitational constant, denoted G, fixes the strength of gravity and determines how planets orbit and galaxies hold together. The elementary charge sets the size of the electric charge carried by a single proton or electron. The Coulomb constant scales the force between charged particles.\n\nOthers define the very grain of nature. Planck's constant, symbolized h, sits at the heart of quantum mechanics and describes the smallest possible chunks, or quanta, of energy. Its tiny value explains why quantum effects dominate the atomic world yet vanish in everyday life. The Boltzmann constant links the temperature of a substance to the energy of its individual particles, bridging the microscopic and the thermal.\n\nA few constants are so important that scientists have redefined the units of measurement around them. Since 2019 the kilogram, the ampere, and other base units are anchored to exact fixed values of constants like Planck's constant and the elementary charge, rather than to physical artifacts. This makes the entire system of measurement reproducible in any laboratory on Earth.\n\nPerhaps most intriguing are the dimensionless constants, pure numbers with no units, such as the fine structure constant near one over 137, which controls the strength of electromagnetic interactions. Physicists still cannot explain why it has the value it does.\n\nYou can look up the values and symbols of key physical constants through the GratisAPI endpoint at /api/physical-constants/index.json.",
+  "word_count": 288,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-physical-constants.json"
+}

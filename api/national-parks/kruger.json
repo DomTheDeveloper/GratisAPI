@@ -1,0 +1,9 @@
+{
+  "id": "kruger",
+  "name": "Kruger National Park",
+  "country": "South Africa",
+  "established_year": 1926,
+  "area_km2": 19485,
+  "notable_feature": "One of Africa's largest reserves, home to the Big Five.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/kruger.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "taekwondo",
+  "name": "Taekwondo",
+  "origin_country": "South Korea",
+  "type": "Striking",
+  "description": "Korean art known for fast, high, and spinning kicks.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/taekwondo.json"
+}

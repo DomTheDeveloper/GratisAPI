@@ -1,0 +1,9 @@
+{
+  "id": "category-3",
+  "category": "Category 3",
+  "wind_kmh_min": 178,
+  "wind_kmh_max": 208,
+  "damage": "Devastating damage; well-built homes may lose roof decking.",
+  "storm_surge_m": 3.5,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-3.json"
+}

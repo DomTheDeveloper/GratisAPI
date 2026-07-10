@@ -1,0 +1,9 @@
+{
+  "id": "green-bank",
+  "name": "Green Bank Telescope",
+  "type": "Ground",
+  "location_or_orbit": "Green Bank, West Virginia, United States",
+  "wavelength": "Radio",
+  "first_light_year": 2000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/green-bank.json"
+}

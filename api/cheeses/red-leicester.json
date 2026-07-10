@@ -1,0 +1,9 @@
+{
+  "id": "red-leicester",
+  "name": "Red Leicester",
+  "country_of_origin": "England",
+  "milk": "Cow",
+  "texture": "Hard",
+  "flavor": "Mild, nutty, and slightly sweet",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/red-leicester.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "pioneer-10",
+  "name": "Pioneer 10",
+  "agency": "NASA",
+  "launch_year": 1972,
+  "type": "Planetary",
+  "achievement": "First spacecraft to fly by Jupiter.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/pioneer-10.json"
+}

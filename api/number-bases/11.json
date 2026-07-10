@@ -1,0 +1,8 @@
+{
+  "id": 11,
+  "name": "Base32",
+  "base": 32,
+  "digits": "A-Z and 2-7 (RFC 4648)",
+  "common_use": "Case-insensitive encoding for identifiers and data transfer.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/11.json"
+}

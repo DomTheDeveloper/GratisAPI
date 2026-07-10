@@ -1,0 +1,17 @@
+{
+  "id": "freedom-true-cost-of-free-apis",
+  "title": "The True Cost of \"Free\" Commercial APIs",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-02-14",
+  "tags": [
+    "apis",
+    "cost",
+    "lock-in"
+  ],
+  "summary": "Commercial APIs advertised as free often carry hidden costs in data, dependency, and the constant risk of changing terms.",
+  "body": "Many commercial APIs advertise a free tier, and for a developer starting a project the offer is tempting. But free here almost always means gratis in a narrow, conditional sense, and the true cost tends to reveal itself later. Understanding those costs is part of using such services wisely.\n\nThe most familiar cost is the bait and switch. A free tier draws you in, you build your application on it, and then the terms change. Rate limits tighten, prices appear, features move behind payment, or the free tier is quietly discontinued. Because your application now depends on the service, you are poorly positioned to refuse. The initial gratis offer was an investment in your future dependence.\n\nAnother cost is data. When money does not change hands, you are frequently paying with information. Your queries, usage patterns, and sometimes your users' data become the product. A free API can be a sensor pointed at your project, and the value extracted may exceed what a modest fee would have cost.\n\nLock-in is a subtler cost. Proprietary APIs often use unique formats, authentication schemes, and behaviors that make migration difficult. The longer you stay, the more expensive leaving becomes. This is not an accident; friction to exit is a deliberate feature of many business models.\n\nThere is also the fragility of dependence itself. A closed API can vanish, get acquired, deprecate the endpoints you rely on, or suffer an outage you cannot diagnose because you cannot see inside it. You are building on ground you do not control.\n\nNone of this makes commercial APIs illegitimate. Companies must sustain themselves, and paid services can be honest and excellent. The problem is the word free attached to arrangements that are anything but. GratisAPI exists partly as a counterexample: gratis with no hidden bill, and libre so the exit door is never locked.",
+  "word_count": 307,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-true-cost-of-free-apis.json"
+}

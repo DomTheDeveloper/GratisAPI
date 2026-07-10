@@ -1,0 +1,8 @@
+{
+  "id": "set-cookie",
+  "header": "Set-Cookie",
+  "type": "Response",
+  "description": "Sends a cookie from the server to be stored by the client.",
+  "example": "session_id=abc123; HttpOnly",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/set-cookie.json"
+}

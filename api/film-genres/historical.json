@@ -1,0 +1,7 @@
+{
+  "id": "historical",
+  "name": "Historical",
+  "description": "Films set in and dramatizing events from the past.",
+  "example_film": "Schindler's List",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/historical.json"
+}

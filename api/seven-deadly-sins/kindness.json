@@ -1,0 +1,9 @@
+{
+  "id": "kindness",
+  "name": "Kindness",
+  "type": "Virtue",
+  "latin": "Humanitas",
+  "opposite": "Envy",
+  "description": "Compassion, friendship, and goodwill without prejudice or ill intent.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/kindness.json"
+}

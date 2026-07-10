@@ -1,0 +1,17 @@
+{
+  "id": "howto-curl-basics",
+  "title": "curl Basics for GratisAPI",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-09-05",
+  "tags": [
+    "curl",
+    "cli",
+    "http"
+  ],
+  "summary": "Explore GratisAPI endpoints straight from your terminal with the ubiquitous curl command.",
+  "body": "curl is installed almost everywhere and is the fastest way to poke at a GratisAPI endpoint without writing any code. Since the API needs no keys and no special headers, a plain GET is all it takes.\n\nRequest an endpoint by passing its URL:\n\ncurl https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\n\nThat prints the raw JSON to your terminal. To make it readable, add the silent flag and pipe the output through a formatter. If you have Python available, curl -s URL | python3 -m json.tool pretty-prints the result with no extra tools to install.\n\nA few flags are worth knowing. The -s flag silences the progress meter so only the body prints. The -o filename flag saves the response to a file, which is handy for snapshotting a dataset. The -I flag fetches only the headers, useful for checking the content type or caching headers without downloading the whole body. The -L flag follows redirects, though GratisAPI URLs are direct.\n\nTo inspect response headers and body together, use -i. To see the caching behavior, look at the Cache-Control and ETag headers in the response, since GitHub Pages serves these static files with cache-friendly headers.\n\nYou can also fetch a single item rather than a whole collection. Endpoints follow a predictable pattern, so a specific record lives at a URL like /api/quotes/{id}.json where id is the record's identifier. This means curl is enough not only to browse collections but also to grab individual entries. For quick verification, exploration, or shell scripting, curl remains the simplest entry point into the entire API.",
+  "word_count": 256,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-curl-basics.json"
+}

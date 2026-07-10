@@ -1,0 +1,8 @@
+{
+  "id": "diaphragm",
+  "name": "Diaphragm",
+  "system": "Respiratory system",
+  "function": "Contracts to draw air into the lungs during breathing.",
+  "location": "Below the lungs, separating chest and abdomen",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/diaphragm.json"
+}

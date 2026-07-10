@@ -1,0 +1,16 @@
+{
+  "id": "world-seven-continents",
+  "title": "The Seven Continents",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-06-22",
+  "tags": [
+    "continents",
+    "geography"
+  ],
+  "summary": "Most schools teach seven continents, from vast Asia to frozen Antarctica. This article explains what a continent is and why the count varies.",
+  "body": "The world is commonly divided into seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Together they hold every mountain, desert, and city on the planet, ordered here from largest to smallest.\n\nAsia is the giant, covering about a third of the land surface and home to more than half of humanity. Africa follows, straddling the equator with the greatest spread of climates and an unmatched diversity of wildlife. The Americas stretch nearly from pole to pole, while Antarctica sits frozen at the bottom of the world, a continent with no permanent human population.\n\nThe number seven is not universal. Some traditions combine Europe and Asia into a single landmass called Eurasia, since no ocean separates them, giving six continents. Others merge the two Americas, also yielding six but by a different route. A few models count only four or five. The disagreements arise because a continent is partly a geographical fact and partly a cultural convention.\n\nGeologists take a different view again, thinking in terms of tectonic plates and continental shelves rather than the shapes we see on maps. By that reasoning some argue for a hidden eighth continent, Zealandia, largely submerged beneath the ocean around New Zealand.\n\nContinents drift slowly over millions of years, once joined in a single supercontinent called Pangaea and destined to reassemble in the distant future. For everyday purposes, though, the familiar seven remain the standard. The GratisAPI continents dataset at /api/continents/index.json lists each one with its area and population, giving you a clean starting point for maps, quizzes, and lessons about how we carve up the world.",
+  "word_count": 267,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-seven-continents.json"
+}

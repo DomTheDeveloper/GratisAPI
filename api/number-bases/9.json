@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "name": "Hexadecimal",
+  "base": 16,
+  "digits": "0123456789ABCDEF",
+  "common_use": "Memory addresses, color codes, and byte representation in computing.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/9.json"
+}

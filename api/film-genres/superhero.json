@@ -1,0 +1,7 @@
+{
+  "id": "superhero",
+  "name": "Superhero",
+  "description": "Films following costumed heroes with extraordinary powers battling villains.",
+  "example_film": "The Dark Knight",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/superhero.json"
+}

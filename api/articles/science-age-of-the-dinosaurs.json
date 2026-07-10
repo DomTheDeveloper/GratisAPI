@@ -1,0 +1,17 @@
+{
+  "id": "science-age-of-the-dinosaurs",
+  "title": "The Age of the Dinosaurs",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-03-08",
+  "tags": [
+    "paleontology",
+    "dinosaurs",
+    "prehistoric"
+  ],
+  "summary": "Dinosaurs dominated the land for over 160 million years across the Mesozoic Era before a catastrophic extinction ended their reign.",
+  "body": "For a span of time almost impossible to grasp, dinosaurs ruled the Earth. Their reign lasted more than 160 million years, dwarfing the few million years that humans and our ancestors have existed. This great era is called the Mesozoic, and geologists divide it into three periods: the Triassic, the Jurassic, and the Cretaceous.\n\nDinosaurs first appeared during the Triassic, around 230 million years ago, when the continents were joined into a single landmass called Pangaea. Early dinosaurs were relatively small, but they gradually rose to dominance. In the Jurassic that followed, they grew to spectacular sizes. The long necked sauropods such as Brachiosaurus and Diplodocus became the largest animals ever to walk on land, browsing treetops on pillar like legs.\n\nThe Cretaceous period brought some of the most famous dinosaurs of all. Tyrannosaurus rex, one of the largest land predators known, prowled North America near the very end of the age, while the three horned Triceratops and the armored Ankylosaurus defended themselves against such hunters. Duck billed dinosaurs roamed in vast herds.\n\nThen it ended abruptly. About 66 million years ago a massive asteroid struck what is now Mexico, unleashing wildfires, tsunamis, and a global winter as dust blocked the Sun. This catastrophe wiped out the non bird dinosaurs along with roughly three quarters of all species on Earth. Yet the dinosaurs did not vanish entirely. Birds are the living descendants of small feathered dinosaurs, which means the lineage survives all around us today.\n\nModern research shows many dinosaurs were active, warm blooded, and often feathered, a far cry from the sluggish reptiles once imagined. You can browse dinosaur species and their details through the GratisAPI endpoint at /api/dinosaurs/index.json.",
+  "word_count": 280,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-age-of-the-dinosaurs.json"
+}

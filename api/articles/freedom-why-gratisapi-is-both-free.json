@@ -1,0 +1,17 @@
+{
+  "id": "freedom-why-gratisapi-is-both-free",
+  "title": "Why GratisAPI Is Both Free and Free",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-11-18",
+  "tags": [
+    "gratisapi",
+    "gratis",
+    "libre"
+  ],
+  "summary": "GratisAPI is deliberately free in both senses of the word: it costs nothing and it respects your freedom to use and reshape it.",
+  "body": "The name GratisAPI contains a small joke with a serious point. It is free in both senses that the English word confusingly combines: gratis, meaning it costs nothing, and libre, meaning it respects your freedom. Most services that call themselves free deliver only the first, and often not even that once you count the hidden costs.\n\nOn the gratis side, the promise is plain. There is no fee to use GratisAPI, no paid tier that unlocks the real functionality, and no invoice waiting at the end of a trial. You do not need a credit card on file. The data is there to be used, at no monetary cost, by anyone.\n\nOn the libre side, the promise runs deeper. The data and the code that produces it are released under the GPL, a strong copyleft license. That means you may study exactly how the API is built, modify it to suit your needs, run your own copy, and redistribute your version to others. If GratisAPI ever disappoints you or disappears, you are not stranded, because you can take everything and continue.\n\nThese two properties reinforce each other. A gratis-only service can lure you in and then change the terms, because you have no way to leave. A libre-only service might respect your freedom in principle but still charge in ways that exclude people. Combining both closes those gaps: the price is zero and the exit is always open.\n\nWe also try to honor the spirit behind the freedoms. GratisAPI is static and requires no keys, sets no trackers, and imposes no artificial scarcity. The goal is that using it should feel like drawing water from a public well rather than renting access from a landlord.\n\nBeing both kinds of free is not a marketing angle. It is the entire reason the project exists.",
+  "word_count": 303,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-why-gratisapi-is-both-free.json"
+}

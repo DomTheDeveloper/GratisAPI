@@ -1,0 +1,8 @@
+{
+  "id": "css",
+  "extension": ".css",
+  "name": "Cascading Style Sheets",
+  "category": "Code",
+  "description": "A stylesheet language used to describe web page presentation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/css.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "freedom-gplv2-vs-gplv3",
+  "title": "GPLv2 vs GPLv3",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-09-21",
+  "tags": [
+    "gpl",
+    "gplv2",
+    "gplv3"
+  ],
+  "summary": "The two major versions of the GPL share a purpose but differ on patents, hardware locks, and license compatibility.",
+  "body": "The GNU General Public License exists in two major versions still in wide use. Version 2 was published in 1991 and version 3 in 2007. Both are strong copyleft licenses built on the same four freedoms, but they differ in important ways shaped by sixteen years of legal and technological change.\n\nGPLv2 is short and direct. It grants the freedoms, imposes the copyleft requirement, and demands source availability. For many years it was the default license of the free software world, and enormously influential software, including the Linux kernel, remains under it.\n\nGPLv3 addressed problems that had emerged since 1991. One was tivoization, a practice in which hardware accepts only manufacturer-signed software, so that even though users receive source code, the device refuses to run their modified versions. GPLv3 adds terms requiring that the information needed to install modified versions be provided for certain products, closing that loophole in the spirit of freedom.\n\nGPLv3 also strengthened patent provisions, aiming to prevent distributors from using patent claims to undermine users' freedoms, and it responded to patent agreements of the era. In addition, it improved compatibility with several other free licenses and clarified international legal language.\n\nThese changes were not universally welcomed. Some projects, notably the Linux kernel, chose to stay on GPLv2, in part because relicensing would require agreement from a vast number of contributors and in part due to disagreement with the new terms. This illustrates that moving between versions is a real decision with real costs.\n\nAuthors often license their work as a given version or later, which lets users choose a newer version if they prefer. GratisAPI uses GPL-2.0-or-later, embracing that flexibility. Understanding the differences helps explain why the choice of a small version number can carry significant consequences.",
+  "word_count": 291,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-gplv2-vs-gplv3.json"
+}

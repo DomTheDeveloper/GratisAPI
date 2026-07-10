@@ -1,0 +1,7 @@
+{
+  "id": "builder",
+  "name": "Builder",
+  "category": "Creational",
+  "description": "Separates the construction of a complex object from its representation so the same process can create different representations.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/builder.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "radius",
+  "name": "Radius",
+  "latin_name": "Radius",
+  "region": "Arm",
+  "type": "Long",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-bones/radius.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "name": "Vigesimal",
+  "base": 20,
+  "digits": "Digits 0-9 then A-J",
+  "common_use": "Mayan and some historical counting systems.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/10.json"
+}

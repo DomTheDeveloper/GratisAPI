@@ -1,0 +1,9 @@
+{
+  "id": "windows-xp",
+  "name": "Windows XP",
+  "family": "Windows",
+  "first_release_year": 2001,
+  "developer": "Microsoft",
+  "kernel": "Windows NT",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-xp.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cream-cheese",
+  "name": "Cream Cheese",
+  "country_of_origin": "United States",
+  "milk": "Cow",
+  "texture": "Soft",
+  "flavor": "Mild, tangy, and rich",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/cream-cheese.json"
+}

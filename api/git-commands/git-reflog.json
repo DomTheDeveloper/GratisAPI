@@ -1,0 +1,7 @@
+{
+  "id": "git-reflog",
+  "command": "git reflog",
+  "category": "Inspection",
+  "description": "Show a log of where the branch tips and HEAD have pointed, useful for recovering lost commits.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-reflog.json"
+}

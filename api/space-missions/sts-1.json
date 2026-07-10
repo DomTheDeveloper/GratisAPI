@@ -1,0 +1,9 @@
+{
+  "id": "sts-1",
+  "name": "STS-1 (Space Shuttle Columbia)",
+  "agency": "NASA",
+  "launch_year": 1981,
+  "type": "Crewed",
+  "achievement": "First orbital flight of the reusable Space Shuttle.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/sts-1.json"
+}

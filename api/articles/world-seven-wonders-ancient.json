@@ -1,0 +1,16 @@
+{
+  "id": "world-seven-wonders-ancient",
+  "title": "The Seven Wonders of the Ancient World",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-12-15",
+  "tags": [
+    "history",
+    "wonders"
+  ],
+  "summary": "Ancient Greek travellers compiled a list of seven astonishing structures, of which only the Great Pyramid survives. This article revisits these lost marvels.",
+  "body": "The Seven Wonders of the Ancient World were a list of remarkable structures compiled by Greek writers to celebrate the greatest achievements of their known world. The list was essentially a travel guide, naming the sights a cultured person of the Mediterranean simply had to see.\n\nThe Great Pyramid of Giza is the oldest of the seven and the only one still standing today. Built as a tomb for the pharaoh Khufu more than four and a half thousand years ago, it remained the tallest human made structure on Earth for thousands of years. The other six have all vanished, leaving only descriptions and fragments.\n\nThe Hanging Gardens of Babylon were said to be a tiered paradise of greenery in the Mesopotamian desert, though scholars still debate whether they truly existed. The Statue of Zeus at Olympia and the Temple of Artemis at Ephesus honoured great gods, while the Mausoleum at Halicarnassus was a tomb so magnificent that its name became a word for grand tombs everywhere.\n\nThe Colossus of Rhodes, a giant bronze statue of the sun god, stood over a harbour before an earthquake toppled it. The Lighthouse of Alexandria guided ships into one of the ancient world's greatest ports and stood for centuries before earthquakes finally brought it down.\n\nWhat unites the seven is human ambition on a staggering scale, achieved without modern machinery. That they mostly no longer exist adds a note of melancholy and reminds us that even the grandest works can fade. The GratisAPI seven wonders dataset at /api/seven-wonders/index.json lists each wonder with its location and a short description, a tidy reference for lessons, quizzes, and projects about the marvels of antiquity.",
+  "word_count": 278,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-seven-wonders-ancient.json"
+}

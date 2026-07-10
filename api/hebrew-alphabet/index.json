@@ -1,0 +1,221 @@
+{
+  "api": "hebrew-alphabet",
+  "title": "Hebrew Alphabet",
+  "description": "The 22 letters of the Hebrew alphabet with transliteration and numeric (gematria) value.",
+  "emoji": "🇮🇱",
+  "license": "GPL-2.0-or-later",
+  "count": 22,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/{id}.json"
+  },
+  "fields": [
+    "id",
+    "letter",
+    "name",
+    "numeric_value",
+    "order",
+    "transliteration"
+  ],
+  "results": [
+    {
+      "id": "alef",
+      "name": "Alef",
+      "letter": "א",
+      "transliteration": "'",
+      "numeric_value": 1,
+      "order": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/alef.json"
+    },
+    {
+      "id": "bet",
+      "name": "Bet",
+      "letter": "ב",
+      "transliteration": "b",
+      "numeric_value": 2,
+      "order": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/bet.json"
+    },
+    {
+      "id": "gimel",
+      "name": "Gimel",
+      "letter": "ג",
+      "transliteration": "g",
+      "numeric_value": 3,
+      "order": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/gimel.json"
+    },
+    {
+      "id": "dalet",
+      "name": "Dalet",
+      "letter": "ד",
+      "transliteration": "d",
+      "numeric_value": 4,
+      "order": 4,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/dalet.json"
+    },
+    {
+      "id": "he",
+      "name": "He",
+      "letter": "ה",
+      "transliteration": "h",
+      "numeric_value": 5,
+      "order": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/he.json"
+    },
+    {
+      "id": "vav",
+      "name": "Vav",
+      "letter": "ו",
+      "transliteration": "v",
+      "numeric_value": 6,
+      "order": 6,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/vav.json"
+    },
+    {
+      "id": "zayin",
+      "name": "Zayin",
+      "letter": "ז",
+      "transliteration": "z",
+      "numeric_value": 7,
+      "order": 7,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/zayin.json"
+    },
+    {
+      "id": "het",
+      "name": "Het",
+      "letter": "ח",
+      "transliteration": "kh",
+      "numeric_value": 8,
+      "order": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/het.json"
+    },
+    {
+      "id": "tet",
+      "name": "Tet",
+      "letter": "ט",
+      "transliteration": "t",
+      "numeric_value": 9,
+      "order": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/tet.json"
+    },
+    {
+      "id": "yod",
+      "name": "Yod",
+      "letter": "י",
+      "transliteration": "y",
+      "numeric_value": 10,
+      "order": 10,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/yod.json"
+    },
+    {
+      "id": "kaf",
+      "name": "Kaf",
+      "letter": "כ",
+      "transliteration": "k",
+      "numeric_value": 20,
+      "order": 11,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/kaf.json"
+    },
+    {
+      "id": "lamed",
+      "name": "Lamed",
+      "letter": "ל",
+      "transliteration": "l",
+      "numeric_value": 30,
+      "order": 12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/lamed.json"
+    },
+    {
+      "id": "mem",
+      "name": "Mem",
+      "letter": "מ",
+      "transliteration": "m",
+      "numeric_value": 40,
+      "order": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/mem.json"
+    },
+    {
+      "id": "nun",
+      "name": "Nun",
+      "letter": "נ",
+      "transliteration": "n",
+      "numeric_value": 50,
+      "order": 14,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/nun.json"
+    },
+    {
+      "id": "samekh",
+      "name": "Samekh",
+      "letter": "ס",
+      "transliteration": "s",
+      "numeric_value": 60,
+      "order": 15,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/samekh.json"
+    },
+    {
+      "id": "ayin",
+      "name": "Ayin",
+      "letter": "ע",
+      "transliteration": "'",
+      "numeric_value": 70,
+      "order": 16,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/ayin.json"
+    },
+    {
+      "id": "pe",
+      "name": "Pe",
+      "letter": "פ",
+      "transliteration": "p",
+      "numeric_value": 80,
+      "order": 17,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/pe.json"
+    },
+    {
+      "id": "tsadi",
+      "name": "Tsadi",
+      "letter": "צ",
+      "transliteration": "ts",
+      "numeric_value": 90,
+      "order": 18,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/tsadi.json"
+    },
+    {
+      "id": "qof",
+      "name": "Qof",
+      "letter": "ק",
+      "transliteration": "q",
+      "numeric_value": 100,
+      "order": 19,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/qof.json"
+    },
+    {
+      "id": "resh",
+      "name": "Resh",
+      "letter": "ר",
+      "transliteration": "r",
+      "numeric_value": 200,
+      "order": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/resh.json"
+    },
+    {
+      "id": "shin",
+      "name": "Shin",
+      "letter": "ש",
+      "transliteration": "sh",
+      "numeric_value": 300,
+      "order": 21,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/shin.json"
+    },
+    {
+      "id": "tav",
+      "name": "Tav",
+      "letter": "ת",
+      "transliteration": "t",
+      "numeric_value": 400,
+      "order": 22,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hebrew-alphabet/tav.json"
+    }
+  ]
+}

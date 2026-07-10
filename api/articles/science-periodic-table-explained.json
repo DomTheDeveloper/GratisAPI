@@ -1,0 +1,17 @@
+{
+  "id": "science-periodic-table-explained",
+  "title": "The Periodic Table Explained",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-01-15",
+  "tags": [
+    "chemistry",
+    "elements",
+    "periodic-table"
+  ],
+  "summary": "The periodic table organizes every known chemical element by its properties, revealing patterns that have guided chemistry for over 150 years.",
+  "body": "The periodic table is one of the most powerful organizing tools in all of science. It arranges the chemical elements in order of increasing atomic number, which is the number of protons in an atom's nucleus. The genius of the table lies not in the ordering alone but in the way it wraps into rows and columns so that elements with similar chemical behavior line up in the same vertical group.\n\nDmitri Mendeleev published an early version in 1869. His arrangement was so insightful that he left gaps for elements not yet discovered and correctly predicted their properties. Modern tables contain 118 confirmed elements, from hydrogen at number one to oganesson at number 118.\n\nEach horizontal row is called a period, and each vertical column is called a group. Elements in the same group share the same number of electrons in their outermost shell, which largely determines how they react. The alkali metals in group one are soft and violently reactive with water, while the noble gases in group eighteen are almost completely unreactive.\n\nThe table also separates into broad regions. Metals occupy the left and center, nonmetals sit on the upper right, and a diagonal band of metalloids straddles the boundary. Below the main body lie the lanthanides and actinides, two rows of elements pulled out to keep the table compact.\n\nYou can explore structured data for every element, including symbol, atomic number, and atomic mass, through the GratisAPI endpoint at /api/elements/index.json. Having the elements in machine readable form makes it easy to build quizzes, reference tools, or visualizations that bring the periodic system to life.",
+  "word_count": 267,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-periodic-table-explained.json"
+}

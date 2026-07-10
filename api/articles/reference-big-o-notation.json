@@ -1,0 +1,17 @@
+{
+  "id": "reference-big-o-notation",
+  "title": "Big-O Notation Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-02-09",
+  "tags": [
+    "big-o",
+    "algorithms",
+    "cs"
+  ],
+  "summary": "Big-O notation describes how an algorithm's running time grows as its input gets larger.",
+  "body": "When comparing algorithms, the raw time in seconds is misleading because it depends on the machine, the language, and countless other details. Big-O notation offers a better measure. It describes how the work an algorithm does grows as the size of its input grows, ignoring constant factors and focusing on the shape of that growth.\n\nThe idea is to express the number of steps as a function of the input size and keep only the dominant term. If an algorithm takes a fixed number of steps no matter the input, it is constant time, written as order one. If the steps grow in direct proportion to the input, it is linear time. These simple categories let you compare algorithms without running them.\n\nSeveral growth rates appear constantly. Constant time is the ideal, unaffected by input size. Logarithmic time grows very slowly and is typical of algorithms that repeatedly halve the problem, such as binary search. Linear time grows proportionally. The combination called linearithmic time, slightly worse than linear, is the mark of the best general sorting algorithms. Quadratic time, where work grows with the square of the input, becomes painful quickly, and exponential time is impractical for all but tiny inputs.\n\nBig-O describes the worst case, the upper bound on how bad things can get. This matters because it tells you how an algorithm behaves under stress, when the input is large or unfavorable. An algorithm that is fast on small inputs can still be unusable at scale if its growth rate is poor.\n\nThe practical lesson is that growth rate dominates once inputs get large. A quadratic algorithm may beat a linearithmic one on ten items, but on a million items the difference is enormous. This is why understanding Big-O guides real decisions about which approach to use.\n\nGratisAPI complements this with its sorting reference at /api/sorting-algorithms/index.json, where each algorithm is listed with its time complexity. Seeing those complexities side by side turns the abstract theory of Big-O into concrete, comparable numbers.",
+  "word_count": 333,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-big-o-notation.json"
+}

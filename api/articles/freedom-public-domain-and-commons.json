@@ -1,0 +1,17 @@
+{
+  "id": "freedom-public-domain-and-commons",
+  "title": "The Public Domain and the Commons",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-01-09",
+  "tags": [
+    "public-domain",
+    "commons",
+    "copyright"
+  ],
+  "summary": "The public domain and the commons describe shared resources that belong to everyone, forming a foundation for free culture and open data.",
+  "body": "The public domain is the body of creative and intellectual work that is not owned by anyone. A work enters the public domain when its copyright expires, when it was never eligible for copyright, or when its creator deliberately releases it. Once there, it belongs to everyone and no one, free for any use without permission or payment.\n\nThe public domain is not a wasteland but a treasury. The works of Shakespeare, the music of Bach, foundational scientific results, and countless facts about the world sit in it. Every new creation draws on this shared inheritance, remixing and building upon what came before. A healthy public domain is the soil from which culture grows.\n\nThe commons is a broader idea: resources held and managed collectively rather than owned privately. Historically the word described shared pastures and fisheries. Applied to knowledge, a commons is a pool of information, code, or culture that a community shares and stewards together. Free software, open data, and openly licensed writing all form parts of a knowledge commons.\n\nBoth face pressures. Copyright terms have been extended repeatedly, delaying the entry of works into the public domain and enclosing what might otherwise be shared. Data can be fenced behind restrictive licenses or technical barriers. The economist's warning about a tragedy of the commons is often invoked, though knowledge commons behave differently from grazing land, since information is not depleted by use.\n\nTools like Creative Commons licenses and public domain dedications let creators deliberately contribute to the commons, choosing openness where the law would otherwise impose restriction. They are the cultural counterpart to free software licenses.\n\nGratisAPI draws on public domain and openly licensed data wherever possible, and returns its own work to the commons under the GPL. The commons only endures if people keep contributing to it, and we consider that contribution part of the point.",
+  "word_count": 309,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-public-domain-and-commons.json"
+}

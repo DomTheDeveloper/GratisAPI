@@ -1,0 +1,14 @@
+{
+  "id": "reproductive",
+  "name": "Reproductive system",
+  "function": "Produces gametes and hormones and enables the creation of offspring.",
+  "key_organs": [
+    "Ovaries",
+    "Uterus",
+    "Testes",
+    "Prostate",
+    "Penis",
+    "Vagina"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/reproductive.json"
+}

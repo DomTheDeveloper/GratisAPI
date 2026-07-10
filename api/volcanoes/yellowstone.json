@@ -1,0 +1,9 @@
+{
+  "id": "yellowstone",
+  "name": "Yellowstone Caldera",
+  "country": "United States",
+  "type": "Caldera",
+  "elevation_m": 2805,
+  "last_major_eruption": "640,000 years ago",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/yellowstone.json"
+}

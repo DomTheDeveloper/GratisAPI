@@ -1,0 +1,9 @@
+{
+  "id": "jim-corbett",
+  "name": "Jim Corbett National Park",
+  "country": "India",
+  "established_year": 1936,
+  "area_km2": 521,
+  "notable_feature": "India's oldest national park, a Bengal tiger stronghold.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/jim-corbett.json"
+}

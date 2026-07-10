@@ -1,0 +1,9 @@
+{
+  "id": "queso-fresco",
+  "name": "Queso Fresco",
+  "country_of_origin": "Mexico",
+  "milk": "Cow",
+  "texture": "Soft",
+  "flavor": "Mild, milky, and lightly salty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/queso-fresco.json"
+}

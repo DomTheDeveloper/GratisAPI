@@ -1,0 +1,8 @@
+{
+  "id": "basalt",
+  "name": "Basalt",
+  "type": "Igneous",
+  "description": "Fine-grained, dark volcanic rock that makes up much of the ocean floor.",
+  "common_use": "Road aggregate and crushed stone.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/basalt.json"
+}

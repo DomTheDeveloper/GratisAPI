@@ -1,0 +1,8 @@
+{
+  "id": "figure-skating",
+  "name": "Figure Skating",
+  "category": "Winter",
+  "type": "Individual",
+  "first_olympics_year": 1908,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/figure-skating.json"
+}

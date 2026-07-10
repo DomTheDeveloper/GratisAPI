@@ -1,0 +1,9 @@
+{
+  "id": "arecibo",
+  "name": "Arecibo Observatory",
+  "type": "Ground",
+  "location_or_orbit": "Arecibo, Puerto Rico",
+  "wavelength": "Radio",
+  "first_light_year": 1963,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/arecibo.json"
+}

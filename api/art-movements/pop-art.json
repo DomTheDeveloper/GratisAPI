@@ -1,0 +1,12 @@
+{
+  "id": "pop-art",
+  "name": "Pop Art",
+  "period": "1950s-1970s",
+  "origin_region": "United Kingdom and United States",
+  "key_artists": [
+    "Andy Warhol",
+    "Roy Lichtenstein"
+  ],
+  "description": "Art drawing on advertising, comics, and mass consumer culture.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/pop-art.json"
+}

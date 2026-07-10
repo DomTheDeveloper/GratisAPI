@@ -1,0 +1,8 @@
+{
+  "id": "kickboxing",
+  "name": "Kickboxing",
+  "origin_country": "Japan",
+  "type": "Striking",
+  "description": "Hybrid stand-up combat sport combining boxing punches with kicks.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/kickboxing.json"
+}

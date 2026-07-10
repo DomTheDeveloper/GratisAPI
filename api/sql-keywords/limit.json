@@ -1,0 +1,7 @@
+{
+  "id": "limit",
+  "keyword": "LIMIT",
+  "category": "Clause",
+  "description": "Restricts the number of rows returned by a query.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/limit.json"
+}

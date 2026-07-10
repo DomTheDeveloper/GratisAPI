@@ -1,0 +1,184 @@
+{
+  "api": "sorting-algorithms",
+  "title": "Sorting Algorithms",
+  "description": "Well-known comparison and non-comparison sorting algorithms with their complexity and stability.",
+  "emoji": "🔣",
+  "license": "GPL-2.0-or-later",
+  "count": 16,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/{id}.json"
+  },
+  "fields": [
+    "average_case",
+    "best_case",
+    "id",
+    "name",
+    "space_complexity",
+    "stable",
+    "worst_case"
+  ],
+  "results": [
+    {
+      "id": "bubble-sort",
+      "name": "Bubble Sort",
+      "best_case": "O(n)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/bubble-sort.json"
+    },
+    {
+      "id": "insertion-sort",
+      "name": "Insertion Sort",
+      "best_case": "O(n)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/insertion-sort.json"
+    },
+    {
+      "id": "selection-sort",
+      "name": "Selection Sort",
+      "best_case": "O(n^2)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/selection-sort.json"
+    },
+    {
+      "id": "merge-sort",
+      "name": "Merge Sort",
+      "best_case": "O(n log n)",
+      "average_case": "O(n log n)",
+      "worst_case": "O(n log n)",
+      "space_complexity": "O(n)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/merge-sort.json"
+    },
+    {
+      "id": "quick-sort",
+      "name": "Quick Sort",
+      "best_case": "O(n log n)",
+      "average_case": "O(n log n)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(log n)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/quick-sort.json"
+    },
+    {
+      "id": "heap-sort",
+      "name": "Heap Sort",
+      "best_case": "O(n log n)",
+      "average_case": "O(n log n)",
+      "worst_case": "O(n log n)",
+      "space_complexity": "O(1)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/heap-sort.json"
+    },
+    {
+      "id": "shell-sort",
+      "name": "Shell Sort",
+      "best_case": "O(n log n)",
+      "average_case": "O(n^1.5)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/shell-sort.json"
+    },
+    {
+      "id": "counting-sort",
+      "name": "Counting Sort",
+      "best_case": "O(n + k)",
+      "average_case": "O(n + k)",
+      "worst_case": "O(n + k)",
+      "space_complexity": "O(n + k)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/counting-sort.json"
+    },
+    {
+      "id": "radix-sort",
+      "name": "Radix Sort",
+      "best_case": "O(nk)",
+      "average_case": "O(nk)",
+      "worst_case": "O(nk)",
+      "space_complexity": "O(n + k)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/radix-sort.json"
+    },
+    {
+      "id": "bucket-sort",
+      "name": "Bucket Sort",
+      "best_case": "O(n + k)",
+      "average_case": "O(n + k)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(n + k)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/bucket-sort.json"
+    },
+    {
+      "id": "tim-sort",
+      "name": "Tim Sort",
+      "best_case": "O(n)",
+      "average_case": "O(n log n)",
+      "worst_case": "O(n log n)",
+      "space_complexity": "O(n)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/tim-sort.json"
+    },
+    {
+      "id": "cocktail-sort",
+      "name": "Cocktail Shaker Sort",
+      "best_case": "O(n)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/cocktail-sort.json"
+    },
+    {
+      "id": "gnome-sort",
+      "name": "Gnome Sort",
+      "best_case": "O(n)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/gnome-sort.json"
+    },
+    {
+      "id": "comb-sort",
+      "name": "Comb Sort",
+      "best_case": "O(n log n)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/comb-sort.json"
+    },
+    {
+      "id": "cycle-sort",
+      "name": "Cycle Sort",
+      "best_case": "O(n^2)",
+      "average_case": "O(n^2)",
+      "worst_case": "O(n^2)",
+      "space_complexity": "O(1)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/cycle-sort.json"
+    },
+    {
+      "id": "intro-sort",
+      "name": "Intro Sort",
+      "best_case": "O(n log n)",
+      "average_case": "O(n log n)",
+      "worst_case": "O(n log n)",
+      "space_complexity": "O(log n)",
+      "stable": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/intro-sort.json"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "api": "operating-systems",
+  "title": "Operating Systems",
+  "description": "Notable operating systems with their family, developer, and kernel.",
+  "emoji": "💻",
+  "license": "GPL-2.0-or-later",
+  "count": 26,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/{id}.json"
+  },
+  "fields": [
+    "developer",
+    "family",
+    "first_release_year",
+    "id",
+    "kernel",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "unix",
+      "name": "Unix",
+      "family": "Unix",
+      "first_release_year": 1969,
+      "developer": "Bell Labs",
+      "kernel": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/unix.json"
+    },
+    {
+      "id": "windows-95",
+      "name": "Windows 95",
+      "family": "Windows",
+      "first_release_year": 1995,
+      "developer": "Microsoft",
+      "kernel": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-95.json"
+    },
+    {
+      "id": "windows-xp",
+      "name": "Windows XP",
+      "family": "Windows",
+      "first_release_year": 2001,
+      "developer": "Microsoft",
+      "kernel": "Windows NT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-xp.json"
+    },
+    {
+      "id": "windows-7",
+      "name": "Windows 7",
+      "family": "Windows",
+      "first_release_year": 2009,
+      "developer": "Microsoft",
+      "kernel": "Windows NT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-7.json"
+    },
+    {
+      "id": "windows-10",
+      "name": "Windows 10",
+      "family": "Windows",
+      "first_release_year": 2015,
+      "developer": "Microsoft",
+      "kernel": "Windows NT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-10.json"
+    },
+    {
+      "id": "windows-11",
+      "name": "Windows 11",
+      "family": "Windows",
+      "first_release_year": 2021,
+      "developer": "Microsoft",
+      "kernel": "Windows NT",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-11.json"
+    },
+    {
+      "id": "ms-dos",
+      "name": "MS-DOS",
+      "family": "Other",
+      "first_release_year": 1981,
+      "developer": "Microsoft",
+      "kernel": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/ms-dos.json"
+    },
+    {
+      "id": "macos",
+      "name": "macOS",
+      "family": "macOS",
+      "first_release_year": 2001,
+      "developer": "Apple",
+      "kernel": "XNU",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/macos.json"
+    },
+    {
+      "id": "mac-os-classic",
+      "name": "Mac OS (Classic)",
+      "family": "Other",
+      "first_release_year": 1984,
+      "developer": "Apple",
+      "kernel": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/mac-os-classic.json"
+    },
+    {
+      "id": "linux",
+      "name": "Linux",
+      "family": "Linux",
+      "first_release_year": 1991,
+      "developer": "Linus Torvalds",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/linux.json"
+    },
+    {
+      "id": "ubuntu",
+      "name": "Ubuntu",
+      "family": "Linux",
+      "first_release_year": 2004,
+      "developer": "Canonical",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/ubuntu.json"
+    },
+    {
+      "id": "debian",
+      "name": "Debian",
+      "family": "Linux",
+      "first_release_year": 1993,
+      "developer": "Debian Project",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/debian.json"
+    },
+    {
+      "id": "fedora",
+      "name": "Fedora",
+      "family": "Linux",
+      "first_release_year": 2003,
+      "developer": "Red Hat",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/fedora.json"
+    },
+    {
+      "id": "red-hat-enterprise-linux",
+      "name": "Red Hat Enterprise Linux",
+      "family": "Linux",
+      "first_release_year": 2000,
+      "developer": "Red Hat",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/red-hat-enterprise-linux.json"
+    },
+    {
+      "id": "arch-linux",
+      "name": "Arch Linux",
+      "family": "Linux",
+      "first_release_year": 2002,
+      "developer": "Arch Linux",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/arch-linux.json"
+    },
+    {
+      "id": "android",
+      "name": "Android",
+      "family": "Mobile",
+      "first_release_year": 2008,
+      "developer": "Google",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/android.json"
+    },
+    {
+      "id": "ios",
+      "name": "iOS",
+      "family": "Mobile",
+      "first_release_year": 2007,
+      "developer": "Apple",
+      "kernel": "XNU",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/ios.json"
+    },
+    {
+      "id": "freebsd",
+      "name": "FreeBSD",
+      "family": "BSD",
+      "first_release_year": 1993,
+      "developer": "FreeBSD Project",
+      "kernel": "FreeBSD",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/freebsd.json"
+    },
+    {
+      "id": "openbsd",
+      "name": "OpenBSD",
+      "family": "BSD",
+      "first_release_year": 1996,
+      "developer": "OpenBSD Project",
+      "kernel": "OpenBSD",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/openbsd.json"
+    },
+    {
+      "id": "netbsd",
+      "name": "NetBSD",
+      "family": "BSD",
+      "first_release_year": 1993,
+      "developer": "NetBSD Foundation",
+      "kernel": "NetBSD",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/netbsd.json"
+    },
+    {
+      "id": "solaris",
+      "name": "Solaris",
+      "family": "Unix",
+      "first_release_year": 1992,
+      "developer": "Sun Microsystems",
+      "kernel": "SunOS",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/solaris.json"
+    },
+    {
+      "id": "chrome-os",
+      "name": "ChromeOS",
+      "family": "Linux",
+      "first_release_year": 2011,
+      "developer": "Google",
+      "kernel": "Linux",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/chrome-os.json"
+    },
+    {
+      "id": "os-2",
+      "name": "OS/2",
+      "family": "Other",
+      "first_release_year": 1987,
+      "developer": "IBM and Microsoft",
+      "kernel": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/os-2.json"
+    },
+    {
+      "id": "beos",
+      "name": "BeOS",
+      "family": "Other",
+      "first_release_year": 1995,
+      "developer": "Be Inc.",
+      "kernel": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/beos.json"
+    },
+    {
+      "id": "haiku",
+      "name": "Haiku",
+      "family": "Other",
+      "first_release_year": 2009,
+      "developer": "Haiku Inc.",
+      "kernel": "Haiku kernel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/haiku.json"
+    },
+    {
+      "id": "amigaos",
+      "name": "AmigaOS",
+      "family": "Other",
+      "first_release_year": 1985,
+      "developer": "Commodore",
+      "kernel": "Exec",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/amigaos.json"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6,
+  "magnitude_range": "6.0-6.9",
+  "class": "Strong",
+  "effects": "Damage in populated areas over tens of kilometers.",
+  "approx_frequency_per_year": 100,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/6.json"
+}

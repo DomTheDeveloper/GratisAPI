@@ -1,0 +1,16 @@
+{
+  "id": "world-twelve-olympians",
+  "title": "The Twelve Olympian Gods",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-09-03",
+  "tags": [
+    "mythology",
+    "greek"
+  ],
+  "summary": "At the heart of Greek religion stood twelve great gods who ruled from Mount Olympus. This article introduces the principal members of that divine council.",
+  "body": "At the centre of Greek mythology sat the twelve Olympians, the principal gods who ruled the cosmos from their palaces on Mount Olympus. Though ancient sources sometimes disagree on the exact roster, a core group appears again and again as the governing council of the divine world.\n\nZeus was their king, god of the sky and thunder, whose authority the others acknowledged even as they schemed around him. His siblings included Hera, goddess of marriage and his frequently wronged wife; Poseidon, lord of the sea and earthquakes; and Demeter, goddess of the harvest whose grief for her lost daughter explained the changing seasons.\n\nThe next generation, mostly children of Zeus, filled out the council. Athena, born from her father's head, was goddess of wisdom and strategic war. Apollo governed the sun, music, and prophecy, while his twin Artemis ruled the hunt and the wild. Ares embodied the brutality of battle, Aphrodite presided over love and beauty, and Hephaestus, the divine smith, forged wonders at his crooked forge.\n\nRounding out the group were Hermes, the swift messenger and god of travellers and thieves, and either Hestia, gentle goddess of the hearth, or Dionysus, god of wine and ecstasy, depending on the tradition. Hades, though a brother of Zeus, was usually excluded because he dwelt in the underworld rather than on Olympus.\n\nEach god had recognisable symbols and domains that made them easy to identify in art: Zeus with his eagle and thunderbolt, Poseidon with his trident, Athena with her owl. The GratisAPI Greek gods dataset at /api/greek-gods/index.json captures these attributes in a clean format, ideal for building quizzes, family trees, or games that draw on the enduring cast of Olympus.",
+  "word_count": 279,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-twelve-olympians.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "world-us-presidents",
+  "title": "The Presidents of the United States",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-08-19",
+  "tags": [
+    "history",
+    "politics"
+  ],
+  "summary": "From George Washington onward, dozens of presidents have led the United States. This article surveys the office and the people who have held it.",
+  "body": "The office of President of the United States is among the most powerful and closely watched positions in the world. Since the nation's founding, a long line of individuals has held the role, each shaping the country and, often, the wider world during their time in office.\n\nGeorge Washington, the commander of the revolutionary army, became the first president in 1789 and set many precedents simply by how he conducted himself, including the tradition of stepping down after two terms. That informal limit held for a century and a half until it was finally written into the Constitution after Franklin Roosevelt won four elections during the Depression and the Second World War.\n\nSeveral presidents are remembered for guiding the nation through defining crises. Abraham Lincoln led the country through its Civil War and moved to end slavery before his assassination. Franklin Roosevelt steered the United States through economic collapse and global conflict. Others are recalled for scandal, such as Richard Nixon, who resigned rather than face impeachment over Watergate.\n\nThe presidency has grown far beyond what the founders imagined. Early presidents governed a young agricultural republic, while modern ones command the world's largest economy and military, and their decisions ripple across the globe. The role blends head of state, head of government, and commander in chief in a single elected figure.\n\nCounting the presidency involves a curious quirk: because one president served two non consecutive terms, the count of presidencies exceeds the number of individual people who have held the office. The GratisAPI US presidents dataset at /api/us-presidents/index.json lists each president with their party, term dates, and number, a clean foundation for building timelines, quizzes, or lessons in American history.",
+  "word_count": 280,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-us-presidents.json"
+}

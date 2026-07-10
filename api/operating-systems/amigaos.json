@@ -1,0 +1,9 @@
+{
+  "id": "amigaos",
+  "name": "AmigaOS",
+  "family": "Other",
+  "first_release_year": 1985,
+  "developer": "Commodore",
+  "kernel": "Exec",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/amigaos.json"
+}

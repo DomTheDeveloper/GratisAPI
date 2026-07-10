@@ -1,0 +1,9 @@
+{
+  "id": "spitzer",
+  "name": "Spitzer Space Telescope",
+  "type": "Space",
+  "location_or_orbit": "Earth-trailing heliocentric orbit",
+  "wavelength": "Infrared",
+  "first_light_year": 2003,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/spitzer.json"
+}

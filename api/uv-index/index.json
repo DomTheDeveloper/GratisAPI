@@ -1,0 +1,62 @@
+{
+  "api": "uv-index",
+  "title": "UV Index",
+  "description": "WHO UV Index exposure categories with associated risk and protection advice.",
+  "emoji": "☀️",
+  "license": "GPL-2.0-or-later",
+  "count": 5,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/{id}.json"
+  },
+  "fields": [
+    "category",
+    "id",
+    "protection_advice",
+    "range",
+    "risk"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "range": "0-2",
+      "category": "Low",
+      "risk": "Minimal danger from the sun for the average person.",
+      "protection_advice": "No protection needed. You can safely stay outside.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/1.json"
+    },
+    {
+      "id": 2,
+      "range": "3-5",
+      "category": "Moderate",
+      "risk": "Moderate risk of harm from unprotected sun exposure.",
+      "protection_advice": "Seek shade during midday hours; wear sunscreen, a hat, and sunglasses.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/2.json"
+    },
+    {
+      "id": 3,
+      "range": "6-7",
+      "category": "High",
+      "risk": "High risk of harm from unprotected sun exposure.",
+      "protection_advice": "Reduce time in the sun between 10am and 4pm; apply SPF 30+ sunscreen, cover up, and wear a hat.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/3.json"
+    },
+    {
+      "id": 4,
+      "range": "8-10",
+      "category": "Very High",
+      "risk": "Very high risk of harm; unprotected skin can burn quickly.",
+      "protection_advice": "Minimize sun exposure midday; sunscreen, protective clothing, hat, and sunglasses are a must.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/4.json"
+    },
+    {
+      "id": 5,
+      "range": "11+",
+      "category": "Extreme",
+      "risk": "Extreme risk of harm; unprotected skin can burn in minutes.",
+      "protection_advice": "Avoid the sun midday; take all precautions including shade, clothing, hat, sunglasses, and SPF 30+ sunscreen.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/uv-index/5.json"
+    }
+  ]
+}

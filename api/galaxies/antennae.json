@@ -1,0 +1,9 @@
+{
+  "id": "antennae",
+  "name": "Antennae Galaxies",
+  "type": "Irregular",
+  "constellation": "Corvus",
+  "distance_mly": 45,
+  "notes": "A pair of interacting galaxies (NGC 4038/4039) merging together.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/antennae.json"
+}

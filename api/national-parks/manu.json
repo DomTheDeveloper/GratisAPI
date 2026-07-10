@@ -1,0 +1,9 @@
+{
+  "id": "manu",
+  "name": "Manu National Park",
+  "country": "Peru",
+  "established_year": 1973,
+  "area_km2": 17163,
+  "notable_feature": "Amazon biodiversity hotspot spanning Andes to rainforest.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/manu.json"
+}

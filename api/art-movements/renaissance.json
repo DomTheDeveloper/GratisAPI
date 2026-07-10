@@ -1,0 +1,13 @@
+{
+  "id": "renaissance",
+  "name": "Renaissance",
+  "period": "1400s-1600s",
+  "origin_region": "Italy",
+  "key_artists": [
+    "Leonardo da Vinci",
+    "Michelangelo",
+    "Raphael"
+  ],
+  "description": "Rebirth of classical ideals emphasizing realism, perspective, and human anatomy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/renaissance.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "freedom-the-open-data-movement",
+  "title": "The Open Data Movement",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-12-12",
+  "tags": [
+    "open-data",
+    "movement",
+    "transparency"
+  ],
+  "summary": "The open data movement holds that certain data, especially data funded by the public, should be freely available for anyone to use and share.",
+  "body": "The open data movement extends the logic of free software to information itself. Its core belief is that many kinds of data, particularly data gathered by governments and public institutions, should be freely available for anyone to access, use, modify, and share, without restrictive licensing or paywalls.\n\nThe reasoning is partly about fairness. When data collection is paid for by taxpayers, the resulting datasets are in a real sense already owned by the public. Charging citizens again to access what their taxes produced, or locking it behind proprietary formats, is hard to justify. Open data returns that information to the people who funded it.\n\nThe reasoning is also about value. Data left closed is data left inert. When datasets are opened, unexpected uses emerge. Independent researchers verify official findings, journalists uncover patterns, entrepreneurs build services, and civic technologists create tools that improve public life. The same dataset can serve purposes its collectors never imagined.\n\nGood open data follows recognized principles. It should be complete, primary, timely, accessible, machine readable, non-discriminatory, non-proprietary in format, and free of restrictive licenses. Simply publishing a scanned document is not enough; the data must be structured so that machines and people can actually work with it.\n\nThe movement has produced real institutions: government open data portals, international charters, and organizations that rank countries on how openly they publish information. It intersects with open science, open government, and the broader push for transparency.\n\nGratisAPI is a small participant in this movement. By packaging open datasets into a convenient, freely usable API with no keys and no cost, we try to lower the distance between data that is technically public and data that is actually usable. Open in principle means little if it is inconvenient in practice, and closing that gap is part of the work.",
+  "word_count": 299,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-the-open-data-movement.json"
+}

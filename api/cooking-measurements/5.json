@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "unit": "Fluid Ounce",
+  "abbreviation": "fl oz",
+  "type": "Volume",
+  "milliliters": 29.57,
+  "grams": null,
+  "note": "US fluid ounce; equals 2 tablespoons.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/5.json"
+}

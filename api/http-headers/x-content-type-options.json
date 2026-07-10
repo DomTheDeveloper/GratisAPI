@@ -1,0 +1,8 @@
+{
+  "id": "x-content-type-options",
+  "header": "X-Content-Type-Options",
+  "type": "Response",
+  "description": "Prevents the browser from MIME-sniffing the content type.",
+  "example": "nosniff",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/x-content-type-options.json"
+}

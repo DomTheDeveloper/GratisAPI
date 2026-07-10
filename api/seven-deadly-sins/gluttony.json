@@ -1,0 +1,9 @@
+{
+  "id": "gluttony",
+  "name": "Gluttony",
+  "type": "Sin",
+  "latin": "Gula",
+  "opposite": "Temperance",
+  "description": "Overindulgence and overconsumption of food, drink, or other goods.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/gluttony.json"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "set",
+  "keyword": "SET",
+  "category": "Clause",
+  "description": "Specifies the columns and values to change in an UPDATE statement.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/set.json"
+}

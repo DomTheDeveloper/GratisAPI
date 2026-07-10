@@ -1,0 +1,10 @@
+{
+  "id": "em",
+  "name": "Em",
+  "uppercase": "М",
+  "lowercase": "м",
+  "transliteration": "m",
+  "sound": "m as in map",
+  "order": 14,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/em.json"
+}

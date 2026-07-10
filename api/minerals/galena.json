@@ -1,0 +1,9 @@
+{
+  "id": "galena",
+  "name": "Galena",
+  "chemical_formula": "PbS",
+  "mohs_hardness": 2.5,
+  "color": "Lead grey",
+  "luster": "Metallic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/galena.json"
+}

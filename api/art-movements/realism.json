@@ -1,0 +1,13 @@
+{
+  "id": "realism",
+  "name": "Realism",
+  "period": "1840s-1880s",
+  "origin_region": "France",
+  "key_artists": [
+    "Gustave Courbet",
+    "Jean-François Millet",
+    "Honoré Daumier"
+  ],
+  "description": "Depiction of everyday life and ordinary people without idealization.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/realism.json"
+}

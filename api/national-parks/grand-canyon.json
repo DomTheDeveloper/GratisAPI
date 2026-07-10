@@ -1,0 +1,9 @@
+{
+  "id": "grand-canyon",
+  "name": "Grand Canyon National Park",
+  "country": "United States",
+  "established_year": 1919,
+  "area_km2": 4926,
+  "notable_feature": "A mile-deep canyon carved by the Colorado River.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/grand-canyon.json"
+}

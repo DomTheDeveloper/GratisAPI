@@ -1,0 +1,9 @@
+{
+  "id": "ms-dos",
+  "name": "MS-DOS",
+  "family": "Other",
+  "first_release_year": 1981,
+  "developer": "Microsoft",
+  "kernel": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/ms-dos.json"
+}

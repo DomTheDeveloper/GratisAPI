@@ -1,0 +1,10 @@
+{
+  "id": "tvyordy_znak",
+  "name": "Tvyordy Znak",
+  "uppercase": "Ъ",
+  "lowercase": "ъ",
+  "transliteration": "″",
+  "sound": "hard sign (silent)",
+  "order": 28,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/tvyordy_znak.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "csv",
+  "extension": ".csv",
+  "name": "Comma-Separated Values",
+  "category": "Data",
+  "description": "A plain-text format storing tabular data with delimited fields.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/csv.json"
+}

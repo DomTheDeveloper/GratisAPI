@@ -1,0 +1,7 @@
+{
+  "id": "strategy",
+  "name": "Strategy",
+  "category": "Behavioral",
+  "description": "Defines a family of interchangeable algorithms and encapsulates each so they can vary independently of clients.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/strategy.json"
+}

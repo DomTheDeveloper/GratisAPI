@@ -1,0 +1,7 @@
+{
+  "id": "alter",
+  "keyword": "ALTER",
+  "category": "DDL",
+  "description": "Modifies the structure of an existing database object.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/alter.json"
+}

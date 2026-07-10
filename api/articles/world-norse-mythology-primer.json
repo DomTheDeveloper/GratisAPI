@@ -1,0 +1,16 @@
+{
+  "id": "world-norse-mythology-primer",
+  "title": "A Primer on Norse Mythology",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-10-11",
+  "tags": [
+    "mythology",
+    "norse"
+  ],
+  "summary": "Norse mythology tells of gods, giants, and a world tree, all moving toward a foretold doom called Ragnarok. This article introduces its striking cosmology.",
+  "body": "Norse mythology, the belief system of the medieval Scandinavians and their ancestors, offers one of the most vivid and fatalistic visions of the cosmos in world tradition. Its gods know they are doomed and fight on regardless, which gives the whole mythology a heroic, tragic grandeur.\n\nAt the centre stands Yggdrasil, an immense world tree whose roots and branches connect nine worlds. These include Asgard, home of the gods; Midgard, the realm of humans; and Jotunheim, land of the giants who are the gods' perpetual rivals. The whole structure is alive with creatures gnawing at its roots and perched in its branches.\n\nThe gods fall into two families, the Aesir and the Vanir, who fought a war before making peace. Odin, the one eyed all father, rules the Aesir and constantly seeks wisdom, even sacrificing an eye and hanging himself on the world tree to gain knowledge of the runes. Thor, his son, defends gods and humans with his hammer Mjolnir, while the trickster Loki blurs the line between ally and enemy.\n\nWhat sets Norse myth apart is its ending. The gods know a final battle called Ragnarok is coming, in which many of them, including Odin and Thor, will die and the world will be consumed by fire and flood. Yet the myths promise that a new, green world will rise afterward, giving the darkness a thread of hope.\n\nMuch of what survives comes from Icelandic texts written down after the region had already converted to Christianity. The GratisAPI Norse gods dataset at /api/norse-gods/index.json lists the major deities with their domains and symbols, a useful resource for games, study, or creative work inspired by this stark and powerful tradition.",
+  "word_count": 280,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-norse-mythology-primer.json"
+}

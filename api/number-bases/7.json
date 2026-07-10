@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "name": "Decimal",
+  "base": 10,
+  "digits": "0123456789",
+  "common_use": "Everyday human arithmetic and the standard number system.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/7.json"
+}

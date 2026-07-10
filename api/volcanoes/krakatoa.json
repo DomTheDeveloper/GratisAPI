@@ -1,0 +1,9 @@
+{
+  "id": "krakatoa",
+  "name": "Krakatoa",
+  "country": "Indonesia",
+  "type": "Caldera",
+  "elevation_m": 813,
+  "last_major_eruption": 2020,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/krakatoa.json"
+}

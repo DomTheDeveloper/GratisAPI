@@ -1,0 +1,8 @@
+{
+  "id": "temperature",
+  "name": "Temperature (thermoception)",
+  "organ": "Skin",
+  "description": "Detection of heat and cold through thermoreceptors.",
+  "type": "Other",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/temperature.json"
+}

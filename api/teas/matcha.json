@@ -1,0 +1,9 @@
+{
+  "id": "matcha",
+  "name": "Matcha",
+  "type": "Green",
+  "origin_region": "Japan",
+  "caffeine": "High",
+  "notes": "Stone-ground shade-grown leaves whisked into a frothy suspension.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/matcha.json"
+}

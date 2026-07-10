@@ -1,0 +1,9 @@
+{
+  "id": "kepler",
+  "name": "Kepler Space Telescope",
+  "type": "Space",
+  "location_or_orbit": "Earth-trailing heliocentric orbit",
+  "wavelength": "Optical",
+  "first_light_year": 2009,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/kepler.json"
+}

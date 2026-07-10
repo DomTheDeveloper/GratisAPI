@@ -1,0 +1,9 @@
+{
+  "id": "eyjafjallajokull",
+  "name": "Eyjafjallajokull",
+  "country": "Iceland",
+  "type": "Stratovolcano",
+  "elevation_m": 1651,
+  "last_major_eruption": 2010,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/eyjafjallajokull.json"
+}

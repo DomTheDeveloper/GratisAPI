@@ -1,0 +1,8 @@
+{
+  "id": "json",
+  "extension": ".json",
+  "name": "JavaScript Object Notation",
+  "category": "Data",
+  "description": "A lightweight, text-based data interchange format.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/json.json"
+}

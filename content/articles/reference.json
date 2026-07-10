@@ -1,0 +1,338 @@
+[
+  {
+    "id": "reference-what-is-an-api",
+    "title": "What is an API?",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-01-15",
+    "tags": [
+      "api",
+      "basics",
+      "web"
+    ],
+    "summary": "An introduction to application programming interfaces and why they matter for modern software.",
+    "body": "An API, or application programming interface, is a set of rules that lets one piece of software talk to another. Instead of a human clicking buttons in an app, a program sends a request and receives a structured response it can process automatically. APIs define what requests are allowed, what data must be provided, and what will come back.\n\nThink of an API as a contract between a provider and a consumer. The provider promises that if you ask a question in the agreed format, you will get an answer in a predictable shape. This lets teams build on top of each other's work without needing to understand every internal detail. A weather app does not calculate the forecast itself; it asks a weather API and displays the result.\n\nAPIs come in many styles. Web APIs, which are the most common today, work over the same protocols that power websites. You send a request to a web address and receive data back, often in JSON. Other kinds of interfaces exist inside operating systems and libraries, but when people say API today they usually mean a web service.\n\nGratisAPI is itself a collection of small, free web APIs. Each dataset lives at a stable web address that returns plain JSON. For example, you can fetch a list of HTTP methods from /api/http-methods/index.json or color definitions from /api/colors/index.json. Because the data is static, there are no keys, no rate limits, and no sign up required.\n\nUnderstanding APIs is the foundation for almost everything else in modern development. Once you grasp the idea of a request and a structured response, concepts like REST, JSON, and status codes fall into place naturally. The rest of this reference series builds on that single idea."
+  },
+  {
+    "id": "reference-what-is-rest",
+    "title": "What is REST?",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-02-08",
+    "tags": [
+      "rest",
+      "api",
+      "http"
+    ],
+    "summary": "REST is an architectural style for web APIs built around resources and standard HTTP methods.",
+    "body": "REST stands for Representational State Transfer. It is not a protocol or a library but a set of design principles for building web services. Roy Fielding described it in his doctoral work in 2000, and it has since become the dominant way people design web APIs.\n\nThe central idea of REST is the resource. A resource is any thing your system knows about, such as a user, an order, or a country. Each resource has a stable address, and you interact with it using the standard methods of the web. You retrieve a resource, create a new one, update it, or remove it, all through the same small vocabulary of HTTP verbs.\n\nREST APIs are described as stateless, meaning each request carries everything the server needs to understand it. The server does not remember previous requests from the same client. This makes REST services easy to scale, because any server can handle any request without shared memory of past conversations.\n\nResponses in REST APIs are usually representations of a resource in a convenient format, most often JSON. When you fetch a country from a REST service, you get a JSON document describing that country. GratisAPI follows a REST inspired layout. Each dataset sits at its own address, such as /api/tcp-ports/index.json, and returns a representation you can read directly.\n\nA well designed REST API is predictable. If you know how to fetch one kind of resource, you can guess how to fetch another. This consistency is what makes REST pleasant to work with. While strict REST has formal rules about links and discoverability, most everyday APIs adopt the practical core: clear addresses, standard methods, and structured responses. That practical core is enough to make different systems cooperate reliably across the web."
+  },
+  {
+    "id": "reference-what-is-json",
+    "title": "What is JSON?",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-03-01",
+    "tags": [
+      "json",
+      "data",
+      "format"
+    ],
+    "summary": "JSON is a lightweight, human readable format for exchanging structured data between programs.",
+    "body": "JSON stands for JavaScript Object Notation. It is a text format for representing structured data, and it has become the common language of web APIs. Despite the name, JSON is not tied to JavaScript; almost every programming language can read and write it.\n\nJSON is built from a few simple pieces. There are objects, which are collections of name and value pairs wrapped in curly braces. There are arrays, which are ordered lists wrapped in square brackets. And there are basic values: strings of text, numbers, the words true and false, and the empty value null. By nesting these pieces you can describe almost any data, from a single number to a deep tree of records.\n\nThe format became popular because it is both easy for people to read and easy for machines to parse. Compared to older formats, JSON is compact and has very little ceremony. A person can glance at a JSON document and understand its shape, while a program can turn that same text into native data structures in a single call.\n\nEvery dataset in GratisAPI is delivered as JSON. When you request an address such as /api/ascii/index.json, the server returns a JSON document, usually an array of objects where each object describes one entry. Your code parses that text and works with the values directly.\n\nA few rules keep JSON reliable. Strings must use double quotes, names in objects must be strings, and there are no trailing commas or comments. These constraints make the format strict enough that parsers rarely disagree about what a document means. That predictability is exactly why JSON has become the default choice for sending data across the web, and why every reference dataset in this project speaks it."
+  },
+  {
+    "id": "reference-http-status-codes",
+    "title": "HTTP Status Codes Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-03-20",
+    "tags": [
+      "http",
+      "status-codes",
+      "web"
+    ],
+    "summary": "HTTP status codes are three digit numbers that tell a client how a request turned out.",
+    "body": "Every time a browser or program makes an HTTP request, the server answers with a three digit status code. This small number is a compact summary of what happened, and learning to read it is one of the most useful skills in web development.\n\nStatus codes are grouped into five families by their first digit. Codes in the 100 range are informational and rarely seen directly. The 200 range means success; 200 itself means the request worked and 201 means something new was created. The 300 range is about redirection, telling the client the resource lives elsewhere. The 400 range signals a client error, meaning the request was somehow wrong, while the 500 range signals a server error, meaning the server failed to handle a valid request.\n\nSome codes appear constantly. A 200 confirms everything is fine. A 301 says a resource has moved permanently. A 400 means the request was malformed, a 401 means authentication is required, and a 403 means access is forbidden. The famous 404 means the requested thing was not found. On the server side, a 500 is a generic internal error and a 503 means the service is temporarily unavailable.\n\nGratisAPI ships the full list as data. You can fetch it from /api/http-status/index.json and get an array of objects, each with a code, a short name, and a description. This is handy for building lookup tools, documentation, or teaching material without typing the whole table by hand.\n\nStatus codes matter because they let clients react intelligently. A program can retry on a 503, prompt for login on a 401, or show a friendly message on a 404, all by inspecting a single number. Treating the status code as the first thing you check makes debugging faster and your software more resilient to the many ways a request can go wrong."
+  },
+  {
+    "id": "reference-story-of-the-404",
+    "title": "The Story of the 404",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-04-12",
+    "tags": [
+      "http",
+      "404",
+      "history"
+    ],
+    "summary": "The 404 Not Found status has become the most recognizable error on the web. Here is where it came from.",
+    "body": "Of all the numbers on the web, 404 is the one that escaped into everyday language. People say a topic is a 404 when it cannot be found, even far away from any computer. The code has a specific technical meaning, but its cultural life is far larger.\n\nTechnically, 404 belongs to the family of client error codes in the 400 range. It means the server understood the request perfectly well but could not find anything at the requested address. Importantly, 404 does not say whether the absence is temporary or permanent; there is a separate code, 410 Gone, for resources that have been deliberately removed for good.\n\nA popular myth claims the number comes from a room 404 at a research center where the early web was born, supposedly the office where a missing file would have lived. It is a charming story, but there is no real evidence for it. The truth is more ordinary: 404 simply follows the numbering scheme laid out in the early HTTP specifications, where the second and third digits distinguish specific errors within the 400 group.\n\nWhat makes 404 special is how visible it is. Almost every other error is handled quietly by software, but a 404 is often shown directly to a person who clicked a broken link. Over time, designers turned these pages into playful, branded experiences, which cemented the number in popular memory.\n\nYou can find 404 alongside its siblings in the GratisAPI status dataset at /api/http-status/index.json, complete with its official name and description. Studying it is a small lesson in how a dry technical detail can take on a life of its own. The next time you hit a 404, remember that you are looking at the most famous three digits the web ever produced."
+  },
+  {
+    "id": "reference-http-methods",
+    "title": "HTTP Methods Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-05-03",
+    "tags": [
+      "http",
+      "methods",
+      "rest"
+    ],
+    "summary": "HTTP methods are the verbs of the web, describing what action a request intends to perform.",
+    "body": "When a client makes an HTTP request, it does more than name an address. It also states an intention using an HTTP method, sometimes called a verb. The method tells the server what kind of action the client wants to perform on the resource at that address.\n\nThe most common method is GET, which asks the server to return a resource without changing anything. GET is the workhorse of the web; every time you load a page or fetch data, you are sending a GET. Because it only reads, a GET can be repeated safely and its results can be cached.\n\nPOST is used to send data to the server, often to create something new or trigger processing. Unlike GET, a POST may change the state of the server, so repeating it can have real effects. PUT replaces a resource entirely with the data you send, while PATCH updates only part of it. DELETE, as the name suggests, asks the server to remove a resource.\n\nTwo important ideas describe how these methods behave. A method is safe if it does not modify anything, which applies to GET and HEAD. A method is idempotent if making the same request several times has the same effect as making it once; GET, PUT, and DELETE are idempotent, while POST generally is not. These properties guide how clients and caches can treat requests.\n\nGratisAPI publishes the method list as data at /api/http-methods/index.json. Each entry names a method and describes its purpose and properties, which is useful for building documentation or teaching tools. Because GratisAPI serves static data, every endpoint responds to GET, matching the read only nature of the project.\n\nChoosing the right method is central to designing a clean REST API. Using GET for reads, POST for creation, and DELETE for removal makes your interface predictable, and predictability is what lets other developers use your service with confidence."
+  },
+  {
+    "id": "reference-mime-types",
+    "title": "MIME Types Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-05-28",
+    "tags": [
+      "mime",
+      "http",
+      "content-type"
+    ],
+    "summary": "MIME types label the kind of content in a file or response so software knows how to handle it.",
+    "body": "A MIME type is a short label that tells software what kind of data it is looking at. The name comes from Multipurpose Internet Mail Extensions, a standard first created for email attachments, but the labels are now used everywhere, especially on the web.\n\nA MIME type has two parts separated by a slash. The first part is a general category, such as text, image, audio, or application. The second part is the specific format within that category. So plain text is text and plain, a JSON document is application and json, a PNG image is image and png, and an HTML page is text and html. This simple two part scheme can name thousands of formats.\n\nOn the web, MIME types travel in a header called Content-Type. When a server sends a response, it includes this header so the browser knows whether to render a page, show an image, or download a file. If the label is wrong, the browser may misinterpret the content, showing raw code instead of a picture or refusing to run a script. Getting the type right is essential for correct behavior.\n\nMIME types also drive content negotiation, where a client uses an Accept header to say which formats it can handle and the server responds with the best match. This lets one address serve HTML to a browser and JSON to a program.\n\nGratisAPI provides a reference list at /api/mime-types/index.json. Each entry pairs a type with a common file extension and a short description, which is handy for building file upload validators, download tools, or lookup features. The API itself is served with the application and json type so clients parse it correctly.\n\nUnderstanding MIME types helps explain many everyday puzzles, from why a download opens in the wrong program to why a browser refuses to display a file. The label is small, but it shapes how every piece of content on the web is treated."
+  },
+  {
+    "id": "reference-well-known-ports",
+    "title": "Well Known Network Ports",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-06-19",
+    "tags": [
+      "networking",
+      "ports",
+      "tcp"
+    ],
+    "summary": "Well known ports are reserved numbers that identify common network services like web and email.",
+    "body": "When two computers talk over a network, an address alone is not enough. A single machine may run many services at once, so each connection also names a port, a number that identifies which service the traffic is meant for. Ports let one server host a website, an email service, and a database without confusion.\n\nPort numbers range from 0 to 65535, and they are divided into groups. The lowest range, from 0 to 1023, holds the well known ports, reserved for common services by a central authority. Above that sits a range of registered ports assigned to specific applications, and the highest range is left free for temporary connections that clients create on the fly.\n\nMany well known ports are worth memorizing. Web traffic uses port 80 for plain HTTP and port 443 for secure HTTPS. Email relies on port 25 for sending mail and other numbers for retrieving it. Secure remote login over SSH uses port 22, file transfer over FTP uses port 21, and domain name lookups use port 53. Knowing these makes reading network configuration far easier.\n\nPorts combine with the transport protocol to form a complete endpoint. Most services run over TCP, which provides reliable ordered delivery, while some real time services use UDP, which is faster but less careful. The same number can mean different things on TCP and UDP, so both matter.\n\nGratisAPI offers this reference at /api/tcp-ports/index.json. Each entry lists a port number, the service that uses it, and a short description, which is useful for building firewall tools, teaching material, or configuration checkers. Rather than searching scattered documentation, you can pull the whole table in one request.\n\nUnderstanding ports demystifies a great deal of networking. Once you know that an address plus a port names a specific service, concepts like firewalls, forwarding, and secure connections become much easier to reason about."
+  },
+  {
+    "id": "reference-ascii-table",
+    "title": "The ASCII Table",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-07-10",
+    "tags": [
+      "ascii",
+      "encoding",
+      "text"
+    ],
+    "summary": "ASCII is the foundational character encoding that maps letters, digits, and symbols to numbers.",
+    "body": "Computers store everything as numbers, including text. ASCII, the American Standard Code for Information Interchange, is the scheme that first gave every common English character an agreed number. Created in the early 1960s, it remains the bedrock beneath almost all modern text handling.\n\nASCII defines 128 codes, numbered 0 through 127. The first 32 are control codes, invisible signals such as newline, tab, and carriage return that once directed printers and terminals. The remaining codes cover printable characters: the space, punctuation, the digits 0 through 9, and the uppercase and lowercase English letters. So the letter A is 65, the letter a is 97, and the digit 0 is 48.\n\nThe layout of ASCII was designed with clever patterns. Uppercase and lowercase letters are separated by exactly 32, so you can switch case by adding or subtracting that value. The digits are arranged in order starting at 48, so converting a digit character to its numeric value is simple subtraction. These regularities made early text processing efficient on limited hardware.\n\nBecause ASCII only covers English, it could not represent accented letters or other scripts. That limitation led to many incompatible extensions and eventually to Unicode, which includes ASCII as its first 128 codes. This backward compatibility means every ASCII document is already valid modern text.\n\nGratisAPI provides the full table at /api/ascii/index.json. Each entry gives a code, the character it represents, and a description, which is useful for building encoders, teaching demos, or debugging tools that show the raw bytes behind text. Having the table as data saves you from retyping it.\n\nEven decades after its creation, ASCII quietly underlies programming languages, file formats, and network protocols. Learning the table gives you insight into how text truly works inside a computer, and it makes many puzzling encoding problems suddenly clear."
+  },
+  {
+    "id": "reference-unicode-vs-ascii",
+    "title": "Unicode vs ASCII",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-08-02",
+    "tags": [
+      "unicode",
+      "ascii",
+      "encoding"
+    ],
+    "summary": "Unicode extends the idea of ASCII to cover every writing system, using encodings like UTF-8.",
+    "body": "ASCII was a triumph of its era, but it had a hard limit. With only 128 codes, it could represent English letters and basic symbols, yet it had no room for accented characters, let alone the thousands of symbols used in other writing systems. As computing went global, this became a serious problem.\n\nUnicode was created to solve it once and for all. Instead of 128 codes, Unicode aims to give every character in every human writing system a unique number, called a code point. It covers the Latin alphabet, Greek, Cyrillic, Arabic, Chinese, mathematical symbols, and even emoji. Crucially, the first 128 Unicode code points are identical to ASCII, so old text remains valid.\n\nThere is an important distinction between a code point and how it is stored. A code point is just a number; an encoding decides how that number becomes bytes. The most common encoding today is UTF-8, which is clever in a key way. For the original ASCII characters it uses a single byte identical to ASCII, and for other characters it uses two, three, or four bytes. This means a plain English document in UTF-8 is byte for byte the same as it was in ASCII.\n\nThis design is why UTF-8 won. It gave the world universal text without breaking the enormous body of existing ASCII data. Other encodings like UTF-16 exist, but UTF-8 dominates the web and most file formats.\n\nGratisAPI serves its data as UTF-8 JSON, and its ASCII dataset at /api/ascii/index.json shows the shared foundation both systems rest on. Studying that overlap makes the relationship concrete: ASCII is simply the first small neighborhood of the vast Unicode city.\n\nUnderstanding the difference resolves many everyday mysteries, such as why a document full of strange symbols usually means an encoding mismatch. The lesson is to always know which encoding your text uses, and to prefer UTF-8, which handles the whole world while staying compatible with the past."
+  },
+  {
+    "id": "reference-what-is-openapi",
+    "title": "What is OpenAPI?",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-09-14",
+    "tags": [
+      "openapi",
+      "api",
+      "documentation"
+    ],
+    "summary": "OpenAPI is a standard format for describing REST APIs in a machine readable document.",
+    "body": "An API is only useful if people know how to call it. Traditionally that knowledge lived in prose documentation, which could drift out of date and be read differently by different developers. OpenAPI solves this by describing an API in a precise, machine readable document.\n\nOpenAPI, formerly known as Swagger, is a specification for writing these descriptions. An OpenAPI document lists every address the API exposes, the methods each one accepts, the parameters it expects, and the shape of the data it returns. It is usually written in JSON or the closely related YAML format, so both humans and programs can read it.\n\nThe value of a machine readable description is that tools can act on it. From a single OpenAPI file, you can automatically generate interactive documentation, client libraries in many languages, request validators, and even mock servers for testing. This removes a great deal of tedious hand work and keeps the description and the real behavior in step.\n\nAn OpenAPI document has a clear structure. It declares the version of the specification, general information about the API, and a collection of paths. Under each path sit the operations, and each operation describes its parameters and its possible responses, including the status codes it may return. Reusable data shapes are defined once and referenced throughout, keeping the document tidy.\n\nGratisAPI ships its own description as an openapi.json file at the root of the project. That single file documents every dataset endpoint, so tools can discover what is available without guessing. It is a practical demonstration of the idea: one authoritative file describing the whole service.\n\nLearning OpenAPI pays off whether you build APIs or consume them. As a producer, you get free documentation and tooling. As a consumer, you get a reliable map of exactly how to talk to a service. In both roles, a good OpenAPI document turns an API from a mystery into a contract you can trust."
+  },
+  {
+    "id": "reference-swagger-ui",
+    "title": "Swagger UI Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-10-05",
+    "tags": [
+      "swagger",
+      "openapi",
+      "documentation"
+    ],
+    "summary": "Swagger UI turns an OpenAPI document into an interactive web page for exploring and testing an API.",
+    "body": "Writing an OpenAPI document describes an API precisely, but a raw specification file is not much fun to read. Swagger UI bridges that gap. It is a tool that takes an OpenAPI document and renders it as a friendly, interactive web page where anyone can explore the API.\n\nWhen you open a Swagger UI page, you see a tidy list of every operation the API offers, grouped and labeled. Expanding an operation reveals its description, the parameters it accepts, and the responses it can return, all drawn directly from the OpenAPI file. Because the page is generated from the specification, it never falls out of sync with the documented contract.\n\nThe feature that makes Swagger UI special is the try it out button. Rather than copying details into a separate tool, you can fill in parameters and send a real request straight from the documentation page. The response appears immediately, including the status code, the headers, and the body. This turns documentation into a hands on playground and dramatically shortens the time it takes to learn an unfamiliar API.\n\nSwagger UI grew out of the Swagger project, which later evolved into the OpenAPI standard. The name Swagger stuck for the tooling even after the specification was renamed, which is why you often see both terms together. The tool is widely used because it is free, works in any browser, and needs only a valid specification file to function.\n\nGratisAPI publishes an openapi.json file that any Swagger UI instance can load, letting you browse and test every dataset endpoint interactively. Pointing the tool at that file gives you a live catalog of the whole service.\n\nFor anyone building or consuming APIs, Swagger UI is a small investment with a large payoff. It transforms a static description into an interactive guide, making it easier for newcomers to understand a service and for maintainers to demonstrate exactly how it behaves."
+  },
+  {
+    "id": "reference-color-models",
+    "title": "Color Models: Hex, RGB and HSL",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-11-08",
+    "tags": [
+      "colors",
+      "css",
+      "design"
+    ],
+    "summary": "Digital colors can be described in several ways, including hexadecimal, RGB, and HSL notations.",
+    "body": "Screens create color by mixing three primary lights: red, green, and blue. Every color you see on a display is some combination of these three, and the different color models are simply different ways of writing down that combination.\n\nThe RGB model states the intensity of each primary directly. Each channel usually ranges from 0 to 255, so pure red is 255 red, 0 green, 0 blue. Mixing full red and full green with no blue gives yellow, while equal amounts of all three produce shades of gray, from black at zero to white at maximum. Because it maps directly to the hardware, RGB is the most fundamental model.\n\nHexadecimal notation is just RGB written more compactly. Instead of three decimal numbers, each channel is written as a two digit hexadecimal value, joined into a six digit code preceded by a hash. So the same pure red becomes a familiar code where red is at its maximum and the other channels are zero. Designers favor hex because it is short and easy to paste into stylesheets.\n\nHSL takes a different, more human approach. It describes a color by its hue, an angle around the color wheel; its saturation, how vivid or gray it is; and its lightness, how bright it is. HSL is often easier to reason about when you want to adjust a color, since you can shift the hue or dim the lightness without recomputing three separate channels.\n\nAll three models can describe the same color; they are just different coordinate systems for the same space. Converting between them is a matter of arithmetic, and good tools do it automatically.\n\nGratisAPI provides a color reference at /api/colors/index.json, where each entry lists a name alongside its hex, RGB, and often HSL values. This makes it easy to build palettes, swatches, or conversion tools without deriving the numbers yourself. Understanding the three models lets you pick whichever is most convenient for the task, whether you are matching a brand color or generating a smooth gradient."
+  },
+  {
+    "id": "reference-css-units",
+    "title": "CSS Units Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2023-12-01",
+    "tags": [
+      "css",
+      "web",
+      "layout"
+    ],
+    "summary": "CSS offers many units of length, split between absolute measures and flexible relative ones.",
+    "body": "When you style a web page, nearly every size you set needs a unit. CSS offers a surprising number of them, and choosing well is the difference between a rigid layout and one that adapts gracefully to different screens. The units fall into two broad families: absolute and relative.\n\nAbsolute units describe a fixed physical size. The pixel is the most common; on the web it is a device independent unit that stays roughly constant regardless of screen density. Other absolute units like centimeters and inches exist but are mainly useful for print, where real physical dimensions matter. Absolute units are predictable but do not adapt to a user's settings.\n\nRelative units are where CSS becomes flexible. The em unit is relative to the font size of the current element, so padding set in em scales with the text around it. The rem unit is relative to the root font size, giving a single consistent basis for the whole page and making it easy to scale an entire design. Percentages size an element relative to its parent, which is essential for fluid layouts.\n\nA particularly useful group is the viewport units. One unit of viewport width equals one percent of the browser window's width, and the viewport height unit works the same way for height. These let elements respond directly to the size of the screen, which is invaluable for full page sections and responsive typography.\n\nChoosing units thoughtfully improves both accessibility and responsiveness. Sizing text in rem, for example, respects a user who has increased their default font size, while sizing in fixed pixels ignores that preference.\n\nGratisAPI offers a reference at /api/css-units/index.json listing each unit with its name, category, and a short description. It is handy for building style tools, cheat sheets, or teaching material. Mastering the units frees you from guesswork and lets you build layouts that feel intentional on a phone, a laptop, and a large monitor alike."
+  },
+  {
+    "id": "reference-common-data-structures",
+    "title": "Common Data Structures",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-01-16",
+    "tags": [
+      "data-structures",
+      "programming",
+      "cs"
+    ],
+    "summary": "Data structures are the different ways programs organize information to make operations efficient.",
+    "body": "A data structure is a way of organizing information inside a program so that it can be used efficiently. Choosing the right structure for a task often matters more than any other decision, because it determines how fast common operations will be. A handful of structures appear again and again across all of computing.\n\nThe array is the most basic. It stores elements in a contiguous block, so you can jump to any position instantly by its index. Arrays are ideal when you know how many items you have and want fast access by position, but inserting into the middle can be slow because other elements must shift.\n\nThe linked list stores each element in its own node that points to the next. This makes inserting and removing items cheap, since you only adjust a few pointers, but reaching a particular item means walking from the start. Stacks and queues are specialized lists: a stack removes the most recently added item first, while a queue removes the oldest first.\n\nThe hash table stores key and value pairs and uses a hash function to place each key in a slot. This gives nearly instant lookup, insertion, and deletion by key on average, which is why hash tables underpin so many programs. Trees organize data hierarchically; a binary search tree keeps items in order so you can search, insert, and delete in time proportional to the tree's depth. Graphs generalize trees to model networks of connections, such as roads or social links.\n\nEach structure trades one strength for another. Arrays give fast indexed access but rigid size; hash tables give fast key lookup but no order; trees give ordered data with efficient search. Knowing these trade offs is the heart of good program design.\n\nGratisAPI provides a reference at /api/data-structures/index.json, with each entry naming a structure and describing its properties and typical operations. It is a compact study aid for interviews or coursework, and a reminder that picking the right container is often the first step toward efficient code."
+  },
+  {
+    "id": "reference-big-o-notation",
+    "title": "Big-O Notation Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-02-09",
+    "tags": [
+      "big-o",
+      "algorithms",
+      "cs"
+    ],
+    "summary": "Big-O notation describes how an algorithm's running time grows as its input gets larger.",
+    "body": "When comparing algorithms, the raw time in seconds is misleading because it depends on the machine, the language, and countless other details. Big-O notation offers a better measure. It describes how the work an algorithm does grows as the size of its input grows, ignoring constant factors and focusing on the shape of that growth.\n\nThe idea is to express the number of steps as a function of the input size and keep only the dominant term. If an algorithm takes a fixed number of steps no matter the input, it is constant time, written as order one. If the steps grow in direct proportion to the input, it is linear time. These simple categories let you compare algorithms without running them.\n\nSeveral growth rates appear constantly. Constant time is the ideal, unaffected by input size. Logarithmic time grows very slowly and is typical of algorithms that repeatedly halve the problem, such as binary search. Linear time grows proportionally. The combination called linearithmic time, slightly worse than linear, is the mark of the best general sorting algorithms. Quadratic time, where work grows with the square of the input, becomes painful quickly, and exponential time is impractical for all but tiny inputs.\n\nBig-O describes the worst case, the upper bound on how bad things can get. This matters because it tells you how an algorithm behaves under stress, when the input is large or unfavorable. An algorithm that is fast on small inputs can still be unusable at scale if its growth rate is poor.\n\nThe practical lesson is that growth rate dominates once inputs get large. A quadratic algorithm may beat a linearithmic one on ten items, but on a million items the difference is enormous. This is why understanding Big-O guides real decisions about which approach to use.\n\nGratisAPI complements this with its sorting reference at /api/sorting-algorithms/index.json, where each algorithm is listed with its time complexity. Seeing those complexities side by side turns the abstract theory of Big-O into concrete, comparable numbers."
+  },
+  {
+    "id": "reference-sorting-algorithms",
+    "title": "Sorting Algorithms Compared",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-03-04",
+    "tags": [
+      "sorting",
+      "algorithms",
+      "cs"
+    ],
+    "summary": "Sorting algorithms arrange data in order, and they differ widely in speed, memory, and simplicity.",
+    "body": "Sorting is one of the most studied problems in computing, because putting data in order makes so many other tasks easier. Many algorithms solve it, and comparing them is a classic way to learn how algorithm design trades simplicity against speed.\n\nThe simplest algorithms are easy to understand but slow. Bubble sort repeatedly steps through the list, swapping neighbors that are out of order, until no swaps remain. Selection sort finds the smallest remaining item and moves it into place each pass. Insertion sort builds the sorted list one item at a time, sliding each new value into position. All three take quadratic time, meaning their work grows with the square of the input, so they struggle on large lists but are fine for small ones.\n\nThe faster algorithms use a divide and conquer strategy. Merge sort splits the list in half, sorts each half, and merges the results, guaranteeing linearithmic time in every case but needing extra memory. Quicksort partitions the list around a chosen pivot and sorts the parts; it is usually very fast and works in place, though a poor pivot can degrade it to quadratic time. Heapsort uses a heap structure to achieve reliable linearithmic time with little extra memory.\n\nBeyond speed, algorithms differ in other ways. A stable sort preserves the relative order of items that compare equal, which matters when sorting by multiple keys. An in place sort uses little extra memory. These properties often decide which algorithm fits a real situation, since the theoretically fastest choice is not always the most practical.\n\nGratisAPI provides a reference at /api/sorting-algorithms/index.json. Each entry names an algorithm and lists its best, average, and worst case time complexity, along with notes on stability and memory use. Seeing them together makes the trade offs vivid.\n\nStudying sorting is really studying algorithm design in miniature. The same lessons, that clever strategies beat brute force and that no single method is best for every case, apply throughout computer science."
+  },
+  {
+    "id": "reference-design-patterns",
+    "title": "An Overview of Design Patterns",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-04-11",
+    "tags": [
+      "design-patterns",
+      "programming",
+      "architecture"
+    ],
+    "summary": "Design patterns are reusable solutions to recurring problems in object oriented software design.",
+    "body": "As programmers built larger systems, they noticed the same design problems appearing over and over. Design patterns are the collected, named solutions to those recurring problems. A pattern is not code you copy but a proven approach you adapt, and having names for these approaches gives teams a shared vocabulary.\n\nThe classic patterns are usually grouped into three families. Creational patterns deal with how objects are made. The singleton ensures a class has only one instance, the factory hides the details of which concrete class to build, and the builder assembles a complex object step by step. These patterns keep object creation flexible and centralized.\n\nStructural patterns deal with how objects are composed into larger structures. The adapter lets two incompatible interfaces work together by translating between them. The decorator wraps an object to add behavior without changing its class. The facade offers a simple front door to a complicated subsystem. These patterns help you assemble parts cleanly.\n\nBehavioral patterns deal with how objects communicate. The observer lets many objects react automatically when one changes state, which underlies most event systems. The strategy lets you swap an algorithm at run time by treating it as an interchangeable object. The iterator provides a standard way to walk through a collection without exposing its internals.\n\nPatterns are valuable because they capture hard won experience. When you recognize that a problem fits the observer pattern, you inherit a solution that many others have refined and tested. Patterns also make code easier to discuss, since a single word can convey a whole design idea to a teammate.\n\nA word of caution accompanies them: patterns are tools, not goals. Forcing a pattern where a simple approach would do adds needless complexity. The skill is recognizing when a problem genuinely matches a pattern.\n\nGratisAPI offers a reference at /api/design-patterns/index.json, listing each pattern with its category and a short description. It serves as a quick reminder of the catalog, a useful companion when you sense a familiar problem and want to recall the pattern that fits it."
+  },
+  {
+    "id": "reference-git-commands",
+    "title": "A Git Commands Cheat Sheet",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-05-07",
+    "tags": [
+      "git",
+      "version-control",
+      "tools"
+    ],
+    "summary": "A tour of the essential git commands every developer uses to track and share code changes.",
+    "body": "Git is the version control system that most of the software world runs on. It records the history of a project, lets many people work together without overwriting each other, and makes it safe to experiment because you can always return to an earlier state. A modest set of commands covers most daily work.\n\nEverything begins with a repository. The command that clones an existing project copies it to your machine along with its full history, while the command that initializes a repository turns a plain folder into a tracked one. From there, your work revolves around commits, which are saved snapshots of the project.\n\nMaking a commit takes two steps. First you stage the changes you want to record, selecting which edits belong together. Then you commit the staged changes with a message describing them. This two stage process lets you craft tidy, meaningful history rather than dumping every change at once. The status command shows what is staged, changed, or untracked, and the diff command shows exactly what you altered.\n\nBranches are where git shines. A branch is an independent line of development, so you can build a feature without disturbing the main code. You create a branch, switch to it, do your work, and later merge it back. If two branches change the same lines, git reports a conflict for you to resolve by hand, which sounds scary but is routine.\n\nSharing happens through remotes. The command that pushes sends your commits to a shared server, while the command that pulls fetches and integrates others' work. The log command lets you review the history that results.\n\nGratisAPI provides a reference at /api/git-commands/index.json, where each entry names a command and describes what it does. It makes a handy pocket guide while you build the habits. Git rewards a little study; once the core commands feel natural, you gain a safety net that makes bold changes and smooth collaboration possible."
+  },
+  {
+    "id": "reference-sql-keywords",
+    "title": "SQL Keywords Overview",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-06-13",
+    "tags": [
+      "sql",
+      "database",
+      "query"
+    ],
+    "summary": "SQL uses a set of keywords to define, query, and modify data stored in relational databases.",
+    "body": "SQL, the Structured Query Language, is how programs talk to relational databases. It reads almost like English, and a relatively small set of keywords covers the vast majority of what you will ever write. Grouping those keywords by purpose makes the language easy to learn.\n\nThe most common task is asking questions of the data, and that is the job of SELECT. A query names the columns you want with SELECT and the table they come from with FROM. You narrow the results with WHERE, which filters rows by a condition. You arrange them with ORDER BY and group them for summaries with GROUP BY, often paired with functions that count or total values.\n\nChanging data uses a second group of keywords. INSERT adds new rows, UPDATE modifies existing ones, and DELETE removes them. Each of these is usually paired with a condition so you affect only the intended rows; forgetting a WHERE clause on an update or delete is a classic and painful mistake.\n\nA third group defines the structure of the database itself. CREATE makes a new table or other object, ALTER changes an existing one, and DROP removes it entirely. These commands shape the containers that hold your data rather than the data inside them.\n\nOne of SQL's most powerful features is the JOIN, which combines rows from two tables based on a related column. Joins are what make relational databases relational, letting you connect customers to their orders or books to their authors in a single query. Learning to think in joins is a turning point for anyone using SQL.\n\nGratisAPI offers a reference at /api/sql-keywords/index.json, listing each keyword with its category and a description of what it does. It is a compact study aid while the vocabulary settles into memory. Because SQL is so widespread, across web apps, analytics, and reporting, the effort to learn these keywords pays off across almost every kind of software work."
+  },
+  {
+    "id": "reference-logic-gates",
+    "title": "Logic Gates Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-08-05",
+    "tags": [
+      "logic-gates",
+      "hardware",
+      "electronics"
+    ],
+    "summary": "Logic gates are the basic building blocks of digital circuits, combining binary signals into outputs.",
+    "body": "Beneath every computer lies an ocean of tiny switches, and logic gates are how those switches are organized to compute. A logic gate takes one or more binary inputs, each either a zero or a one, and produces a binary output according to a fixed rule. From these simple rules, all of digital computation is built.\n\nThe basic gates are few. The AND gate outputs one only when all its inputs are one. The OR gate outputs one when at least one input is one. The NOT gate, which has a single input, simply flips it, turning a zero into a one and back. These three correspond directly to the logical ideas of and, or, and not, which is why the field is called logic.\n\nSeveral other gates are combinations of these. The NAND gate is an AND followed by a NOT, and the NOR gate is an OR followed by a NOT. The XOR, or exclusive or, gate outputs one only when its inputs differ, which makes it central to arithmetic. Remarkably, the NAND gate alone can be wired to reproduce every other gate, which is why it is called universal.\n\nEach gate is fully described by a truth table, a small chart listing the output for every possible combination of inputs. Truth tables make gates precise and let engineers reason about circuits with certainty rather than guesswork.\n\nThe real power comes from combining gates. Wire them together and you can build a circuit that adds two numbers, stores a bit of memory, or chooses between inputs. Stack millions of such circuits and you have a processor. Everything a computer does ultimately reduces to gates switching in patterns.\n\nGratisAPI provides a reference at /api/logic-gates/index.json, where each entry names a gate, gives its symbol, and includes its truth table. It is a handy companion when studying digital electronics or building simple circuits. Understanding gates reveals that the dazzling capability of computers rests on rules a child could follow."
+  },
+  {
+    "id": "reference-number-bases",
+    "title": "Number Bases and Binary",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2024-09-18",
+    "tags": [
+      "binary",
+      "number-bases",
+      "cs"
+    ],
+    "summary": "Number bases are different ways of writing numbers, and computers rely on base two, or binary.",
+    "body": "We usually count in tens without thinking about why. The decimal system uses ten digits, zero through nine, and each position in a number counts a power of ten. But ten is not special to mathematics; it is just the number of fingers we happen to have. Numbers can be written in any base, and computers use a different one.\n\nComputers work in binary, or base two, which uses only two digits, zero and one. Each position counts a power of two rather than ten. So the binary number one zero one one means one eight, no fours, one two, and one one, which totals eleven in decimal. Binary suits computers because a circuit can easily represent two states, on and off, but not ten reliably.\n\nBinary numbers grow long quickly, so programmers often use hexadecimal, or base sixteen, as a compact shorthand. Because sixteen is two to the fourth power, each hexadecimal digit stands for exactly four binary digits, making conversion effortless. Hexadecimal uses the digits zero through nine and then the letters A through F for the values ten through fifteen. This is why color codes and memory addresses are often written in hex.\n\nOctal, or base eight, works on the same principle with each digit standing for three binary digits, though it is less common today. Converting between bases is a matter of grouping bits or repeatedly dividing, and once the pattern clicks it becomes routine.\n\nThe key insight is that the number itself does not change between bases, only the way we write it. Eleven objects are eleven objects whether you write the count in decimal, binary, or hex. The base is just notation.\n\nGratisAPI offers a reference at /api/number-bases/index.json that shows values across common bases side by side, which is useful for building converters or checking your own conversions. Understanding bases demystifies a great deal of low level computing, from bit manipulation to memory addresses, and it reveals that our everyday base ten is only one choice among many."
+  },
+  {
+    "id": "reference-file-formats",
+    "title": "File Formats Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2025-01-20",
+    "tags": [
+      "file-formats",
+      "data",
+      "files"
+    ],
+    "summary": "A file format defines how data is arranged inside a file so that programs can read it correctly.",
+    "body": "A file is just a sequence of bytes, and by itself that sequence means nothing. A file format is the agreed convention that gives those bytes meaning, telling a program how to interpret them as an image, a document, a sound, or structured data. Without formats, files would be unreadable noise.\n\nFormats fall into two broad kinds. Text formats store data as human readable characters, so you can open them in any editor and understand them. Examples include plain text, CSV for tabular data, JSON and XML for structured data, and HTML for web pages. Binary formats store data as raw bytes optimized for a program rather than a person, which makes them compact and fast but unreadable without the right software. Images, audio, video, and compiled programs are usually binary.\n\nMany formats begin with a signature, a few bytes at the start that identify the type. This magic number lets programs recognize a file's true format even if its name is wrong. The file extension at the end of a name is only a hint; the signature is the real evidence, which is why renaming a file does not change what it actually is.\n\nFormats also differ in how they handle size. Some compress their data to save space, and compression can be lossless, preserving every detail, or lossy, discarding some information for a smaller file. Photographs often use lossy compression because slight imperfections go unnoticed, while archives use lossless compression because every byte must survive.\n\nChoosing a format means weighing readability, size, and compatibility. A text format is great for data you must inspect or edit, while a binary format is better when efficiency matters most.\n\nGratisAPI provides a reference at /api/file-formats/index.json, where each entry names a format, its typical extension, and a description of its use. It pairs naturally with the MIME types dataset, since formats and MIME types describe the same thing from different angles. Understanding formats explains why files open in particular programs and why the bytes inside them are arranged as they are."
+  },
+  {
+    "id": "reference-http-headers",
+    "title": "HTTP Headers Explained",
+    "category": "Reference",
+    "author": "The GratisAPI Team",
+    "date": "2025-03-12",
+    "tags": [
+      "http",
+      "headers",
+      "web"
+    ],
+    "summary": "HTTP headers carry the extra information that accompanies web requests and responses.",
+    "body": "An HTTP message is more than a method and a body. Alongside them travels a collection of headers, which are name and value pairs that carry extra information about the request or response. Headers are where much of the real coordination between a browser and a server happens, quietly shaping how content is delivered.\n\nRequest headers describe the client and what it wants. The Host header names the site being requested, which lets one server host many sites. The User-Agent header identifies the browser or program making the request. The Accept header states which content types the client can handle, and the Authorization header carries credentials that prove who the client is. Together these let the server tailor its response.\n\nResponse headers describe what the server is sending back. The Content-Type header states the MIME type of the body so the client knows how to interpret it. The Content-Length header gives its size. The Location header tells the client where to go during a redirect, working alongside the status code. These headers make the raw body usable.\n\nA large group of headers governs caching and performance. The Cache-Control header tells clients and intermediaries how long they may reuse a response, sparing the server from repeated work. Related headers let a client ask whether its cached copy is still fresh, so unchanged content need not be sent again.\n\nOther headers handle security. Headers can instruct a browser to use only secure connections, restrict which sources of scripts are trusted, or control cross origin requests. These modern headers have become essential for protecting users.\n\nGratisAPI provides a reference at /api/http-headers/index.json, where each entry names a header, notes whether it appears in requests or responses, and describes its purpose. It is a useful companion when debugging traffic or building tools that inspect it. Learning to read headers turns an opaque exchange into a readable conversation, and it is often the fastest path to understanding why a request behaved the way it did."
+  }
+]

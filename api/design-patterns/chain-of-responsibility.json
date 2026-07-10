@@ -1,0 +1,7 @@
+{
+  "id": "chain-of-responsibility",
+  "name": "Chain of Responsibility",
+  "category": "Behavioral",
+  "description": "Passes a request along a chain of handlers until one of them handles it, decoupling sender from receiver.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/chain-of-responsibility.json"
+}

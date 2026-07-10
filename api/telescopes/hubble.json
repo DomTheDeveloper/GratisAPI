@@ -1,0 +1,9 @@
+{
+  "id": "hubble",
+  "name": "Hubble Space Telescope",
+  "type": "Space",
+  "location_or_orbit": "Low Earth orbit (~535 km)",
+  "wavelength": "Optical",
+  "first_light_year": 1990,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/hubble.json"
+}

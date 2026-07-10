@@ -1,0 +1,8 @@
+{
+  "id": "k-pop",
+  "name": "K-pop",
+  "origin_decade": "1990s",
+  "origin_region": "South Korea",
+  "description": "South Korean pop music known for polished production and choreographed groups.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/k-pop.json"
+}

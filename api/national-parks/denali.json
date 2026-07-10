@@ -1,0 +1,9 @@
+{
+  "id": "denali",
+  "name": "Denali National Park",
+  "country": "United States",
+  "established_year": 1917,
+  "area_km2": 24585,
+  "notable_feature": "Denali, the highest peak in North America, amid subarctic wilderness.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/denali.json"
+}

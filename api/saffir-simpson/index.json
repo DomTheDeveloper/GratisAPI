@@ -1,0 +1,86 @@
+{
+  "api": "saffir-simpson",
+  "title": "Saffir-Simpson Scale",
+  "description": "Hurricane wind categories with wind speeds, damage, and storm surge.",
+  "emoji": "🌪",
+  "license": "GPL-2.0-or-later",
+  "count": 7,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/{id}.json"
+  },
+  "fields": [
+    "category",
+    "damage",
+    "id",
+    "storm_surge_m",
+    "wind_kmh_max",
+    "wind_kmh_min"
+  ],
+  "results": [
+    {
+      "id": "tropical-depression",
+      "category": "Tropical Depression",
+      "wind_kmh_min": 0,
+      "wind_kmh_max": 62,
+      "damage": "No significant damage; heavy rain and flooding possible.",
+      "storm_surge_m": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/tropical-depression.json"
+    },
+    {
+      "id": "tropical-storm",
+      "category": "Tropical Storm",
+      "wind_kmh_min": 63,
+      "wind_kmh_max": 118,
+      "damage": "Minor damage to trees and unanchored objects.",
+      "storm_surge_m": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/tropical-storm.json"
+    },
+    {
+      "id": "category-1",
+      "category": "Category 1",
+      "wind_kmh_min": 119,
+      "wind_kmh_max": 153,
+      "damage": "Very dangerous winds; damage to roofs, siding, and trees.",
+      "storm_surge_m": 1.5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-1.json"
+    },
+    {
+      "id": "category-2",
+      "category": "Category 2",
+      "wind_kmh_min": 154,
+      "wind_kmh_max": 177,
+      "damage": "Extremely dangerous winds; major roof and siding damage.",
+      "storm_surge_m": 2.5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-2.json"
+    },
+    {
+      "id": "category-3",
+      "category": "Category 3",
+      "wind_kmh_min": 178,
+      "wind_kmh_max": 208,
+      "damage": "Devastating damage; well-built homes may lose roof decking.",
+      "storm_surge_m": 3.5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-3.json"
+    },
+    {
+      "id": "category-4",
+      "category": "Category 4",
+      "wind_kmh_min": 209,
+      "wind_kmh_max": 251,
+      "damage": "Catastrophic damage; severe damage to walls and roofs.",
+      "storm_surge_m": 5.5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-4.json"
+    },
+    {
+      "id": "category-5",
+      "category": "Category 5",
+      "wind_kmh_min": 252,
+      "wind_kmh_max": null,
+      "damage": "Catastrophic damage; a high percentage of homes destroyed.",
+      "storm_surge_m": 6.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-5.json"
+    }
+  ]
+}

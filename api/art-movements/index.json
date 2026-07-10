@@ -1,0 +1,352 @@
+{
+  "api": "art-movements",
+  "title": "Art Movements",
+  "description": "Major art movements with their period, region of origin, key artists, and a short description.",
+  "emoji": "🎨",
+  "license": "GPL-2.0-or-later",
+  "count": 26,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "key_artists",
+    "name",
+    "origin_region",
+    "period"
+  ],
+  "results": [
+    {
+      "id": "renaissance",
+      "name": "Renaissance",
+      "period": "1400s-1600s",
+      "origin_region": "Italy",
+      "key_artists": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael"
+      ],
+      "description": "Rebirth of classical ideals emphasizing realism, perspective, and human anatomy.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/renaissance.json"
+    },
+    {
+      "id": "mannerism",
+      "name": "Mannerism",
+      "period": "1520s-1600s",
+      "origin_region": "Italy",
+      "key_artists": [
+        "El Greco",
+        "Parmigianino",
+        "Pontormo"
+      ],
+      "description": "Late Renaissance style marked by elongated figures and artificial elegance.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/mannerism.json"
+    },
+    {
+      "id": "baroque",
+      "name": "Baroque",
+      "period": "1600s-1750s",
+      "origin_region": "Italy",
+      "key_artists": [
+        "Caravaggio",
+        "Peter Paul Rubens",
+        "Rembrandt"
+      ],
+      "description": "Dramatic, ornate style using strong contrasts of light and movement.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/baroque.json"
+    },
+    {
+      "id": "rococo",
+      "name": "Rococo",
+      "period": "1700s-1760s",
+      "origin_region": "France",
+      "key_artists": [
+        "Jean-Honoré Fragonard",
+        "François Boucher",
+        "Antoine Watteau"
+      ],
+      "description": "Light, decorative style with pastel colors and playful, aristocratic themes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/rococo.json"
+    },
+    {
+      "id": "neoclassicism",
+      "name": "Neoclassicism",
+      "period": "1750s-1830s",
+      "origin_region": "France",
+      "key_artists": [
+        "Jacques-Louis David",
+        "Jean-Auguste-Dominique Ingres"
+      ],
+      "description": "Revival of classical antiquity emphasizing order, clarity, and restraint.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/neoclassicism.json"
+    },
+    {
+      "id": "romanticism",
+      "name": "Romanticism",
+      "period": "1800s-1850s",
+      "origin_region": "Europe",
+      "key_artists": [
+        "Eugène Delacroix",
+        "Caspar David Friedrich",
+        "J. M. W. Turner"
+      ],
+      "description": "Movement prizing emotion, nature, and the sublime over reason.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/romanticism.json"
+    },
+    {
+      "id": "realism",
+      "name": "Realism",
+      "period": "1840s-1880s",
+      "origin_region": "France",
+      "key_artists": [
+        "Gustave Courbet",
+        "Jean-François Millet",
+        "Honoré Daumier"
+      ],
+      "description": "Depiction of everyday life and ordinary people without idealization.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/realism.json"
+    },
+    {
+      "id": "impressionism",
+      "name": "Impressionism",
+      "period": "1860s-1880s",
+      "origin_region": "France",
+      "key_artists": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "description": "Style capturing fleeting light and atmosphere with loose, visible brushwork.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/impressionism.json"
+    },
+    {
+      "id": "post-impressionism",
+      "name": "Post-Impressionism",
+      "period": "1880s-1900s",
+      "origin_region": "France",
+      "key_artists": [
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Paul Gauguin"
+      ],
+      "description": "Reaction to Impressionism using bold color and structure for expressive ends.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/post-impressionism.json"
+    },
+    {
+      "id": "pointillism",
+      "name": "Pointillism",
+      "period": "1880s-1900s",
+      "origin_region": "France",
+      "key_artists": [
+        "Georges Seurat",
+        "Paul Signac"
+      ],
+      "description": "Technique building images from small distinct dots of pure color.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/pointillism.json"
+    },
+    {
+      "id": "symbolism",
+      "name": "Symbolism",
+      "period": "1880s-1910s",
+      "origin_region": "France",
+      "key_artists": [
+        "Gustav Klimt",
+        "Odilon Redon",
+        "Gustave Moreau"
+      ],
+      "description": "Movement expressing ideas and emotions through suggestive, mystical imagery.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/symbolism.json"
+    },
+    {
+      "id": "art-nouveau",
+      "name": "Art Nouveau",
+      "period": "1890s-1910s",
+      "origin_region": "Europe",
+      "key_artists": [
+        "Alphonse Mucha",
+        "Gustav Klimt",
+        "Antoni Gaudí"
+      ],
+      "description": "Decorative style based on flowing organic lines and natural forms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/art-nouveau.json"
+    },
+    {
+      "id": "fauvism",
+      "name": "Fauvism",
+      "period": "1900s-1910s",
+      "origin_region": "France",
+      "key_artists": [
+        "Henri Matisse",
+        "André Derain"
+      ],
+      "description": "Movement using intense, non-naturalistic color for emotional impact.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/fauvism.json"
+    },
+    {
+      "id": "expressionism",
+      "name": "Expressionism",
+      "period": "1900s-1930s",
+      "origin_region": "Germany",
+      "key_artists": [
+        "Edvard Munch",
+        "Ernst Ludwig Kirchner",
+        "Wassily Kandinsky"
+      ],
+      "description": "Art distorting reality to convey subjective emotion and inner experience.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/expressionism.json"
+    },
+    {
+      "id": "cubism",
+      "name": "Cubism",
+      "period": "1900s-1920s",
+      "origin_region": "France",
+      "key_artists": [
+        "Pablo Picasso",
+        "Georges Braque"
+      ],
+      "description": "Style fragmenting subjects into geometric planes shown from multiple angles.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/cubism.json"
+    },
+    {
+      "id": "futurism",
+      "name": "Futurism",
+      "period": "1900s-1910s",
+      "origin_region": "Italy",
+      "key_artists": [
+        "Umberto Boccioni",
+        "Giacomo Balla"
+      ],
+      "description": "Movement celebrating speed, technology, and the dynamism of modern life.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/futurism.json"
+    },
+    {
+      "id": "constructivism",
+      "name": "Constructivism",
+      "period": "1910s-1930s",
+      "origin_region": "Russia",
+      "key_artists": [
+        "Vladimir Tatlin",
+        "El Lissitzky",
+        "Alexander Rodchenko"
+      ],
+      "description": "Abstract art tied to industry and social purpose using geometric forms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/constructivism.json"
+    },
+    {
+      "id": "suprematism",
+      "name": "Suprematism",
+      "period": "1910s-1920s",
+      "origin_region": "Russia",
+      "key_artists": [
+        "Kazimir Malevich"
+      ],
+      "description": "Pure abstraction reduced to basic geometric shapes and limited color.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/suprematism.json"
+    },
+    {
+      "id": "dada",
+      "name": "Dada",
+      "period": "1910s-1920s",
+      "origin_region": "Switzerland",
+      "key_artists": [
+        "Marcel Duchamp",
+        "Hans Arp",
+        "Man Ray"
+      ],
+      "description": "Anti-art movement embracing absurdity and chance in reaction to war.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/dada.json"
+    },
+    {
+      "id": "de-stijl",
+      "name": "De Stijl",
+      "period": "1910s-1930s",
+      "origin_region": "Netherlands",
+      "key_artists": [
+        "Piet Mondrian",
+        "Theo van Doesburg"
+      ],
+      "description": "Abstraction reduced to straight lines, right angles, and primary colors.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/de-stijl.json"
+    },
+    {
+      "id": "bauhaus",
+      "name": "Bauhaus",
+      "period": "1910s-1930s",
+      "origin_region": "Germany",
+      "key_artists": [
+        "Wassily Kandinsky",
+        "Paul Klee",
+        "László Moholy-Nagy"
+      ],
+      "description": "School uniting art, craft, and technology in functional modern design.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/bauhaus.json"
+    },
+    {
+      "id": "surrealism",
+      "name": "Surrealism",
+      "period": "1920s-1950s",
+      "origin_region": "France",
+      "key_artists": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Max Ernst"
+      ],
+      "description": "Movement exploring dreams and the unconscious through irrational imagery.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/surrealism.json"
+    },
+    {
+      "id": "abstract-expressionism",
+      "name": "Abstract Expressionism",
+      "period": "1940s-1950s",
+      "origin_region": "United States",
+      "key_artists": [
+        "Jackson Pollock",
+        "Mark Rothko",
+        "Willem de Kooning"
+      ],
+      "description": "Spontaneous, gestural abstraction emphasizing scale and raw emotion.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/abstract-expressionism.json"
+    },
+    {
+      "id": "pop-art",
+      "name": "Pop Art",
+      "period": "1950s-1970s",
+      "origin_region": "United Kingdom and United States",
+      "key_artists": [
+        "Andy Warhol",
+        "Roy Lichtenstein"
+      ],
+      "description": "Art drawing on advertising, comics, and mass consumer culture.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/pop-art.json"
+    },
+    {
+      "id": "minimalism",
+      "name": "Minimalism",
+      "period": "1960s-1970s",
+      "origin_region": "United States",
+      "key_artists": [
+        "Donald Judd",
+        "Dan Flavin",
+        "Agnes Martin"
+      ],
+      "description": "Movement stripping art to simple geometric forms and industrial materials.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/minimalism.json"
+    },
+    {
+      "id": "conceptual-art",
+      "name": "Conceptual Art",
+      "period": "1960s-1970s",
+      "origin_region": "United States",
+      "key_artists": [
+        "Sol LeWitt",
+        "Joseph Kosuth",
+        "Yoko Ono"
+      ],
+      "description": "Art in which the underlying idea takes precedence over the finished object.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/conceptual-art.json"
+    }
+  ]
+}

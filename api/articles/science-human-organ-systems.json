@@ -1,0 +1,17 @@
+{
+  "id": "science-human-organ-systems",
+  "title": "The Human Organ Systems",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2025-02-11",
+  "tags": [
+    "biology",
+    "anatomy",
+    "human-body"
+  ],
+  "summary": "The human body is organized into interconnected organ systems, each a team of organs working together to keep us alive.",
+  "body": "The human body is a marvel of organization. Trillions of cells group into tissues, tissues form organs, and organs cooperate in larger teams called organ systems. Each system handles a broad task, and together the roughly eleven systems keep the body alive and functioning.\n\nSeveral systems work to supply and distribute what the body needs. The respiratory system, centered on the lungs, brings in oxygen and expels carbon dioxide. The circulatory system, driven by the heart, pumps blood through a vast network of vessels to carry oxygen, nutrients, and waste. The digestive system breaks food down into absorbable nutrients, while the urinary system filters the blood and removes waste as urine.\n\nOther systems provide structure and movement. The skeletal system of bones gives the body its frame and protects delicate organs, and the muscular system pulls on those bones to produce every movement, from a heartbeat to a sprint. Wrapping it all is the integumentary system, the skin, hair, and nails that shield us from the outside world.\n\nControl and defense fall to still other systems. The nervous system, made of the brain, spinal cord, and nerves, senses the environment and coordinates rapid responses. The endocrine system uses hormones to send slower, longer lasting chemical signals that regulate growth, metabolism, and mood. The immune, or lymphatic, system defends against invaders, and the reproductive system carries out the making of new life.\n\nNo system works in isolation. Breathing depends on muscles, delivering oxygen depends on blood, and all of it is coordinated by nerves and hormones. This constant cooperation keeps the internal environment stable, a balance called homeostasis. You can browse the major body systems and the organs within them through the GratisAPI endpoint at /api/body-systems/index.json.",
+  "word_count": 285,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-human-organ-systems.json"
+}

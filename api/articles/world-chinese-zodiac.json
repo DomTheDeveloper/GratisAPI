@@ -1,0 +1,16 @@
+{
+  "id": "world-chinese-zodiac",
+  "title": "The Chinese Zodiac",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-03-08",
+  "tags": [
+    "zodiac",
+    "china"
+  ],
+  "summary": "The Chinese zodiac assigns each year one of twelve animals in a repeating cycle. This article explains the cycle and the legend behind it.",
+  "body": "The Chinese zodiac works very differently from its Western counterpart. Instead of dividing a single year into twelve signs, it assigns each whole year one of twelve animals, which repeat in a fixed cycle. Your sign depends on the year you were born rather than the month.\n\nThe twelve animals are the rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, and pig. A popular legend explains their order through a great race organised by the Jade Emperor. The clever rat rode on the ox and jumped ahead at the finish to claim first place, while the pig, who paused to eat and nap, came last.\n\nEach animal is believed to lend its qualities to people born in its year. Those born in the year of the dragon, the only mythical creature in the group, are thought to be ambitious and charismatic, which makes dragon years especially popular for having children. The system is deeply woven into East Asian culture and features prominently in Lunar New Year celebrations.\n\nThe full picture is more intricate still. The twelve animals combine with five elements, wood, fire, earth, metal, and water, producing a grand cycle of sixty years before any exact combination repeats. Traditional astrologers also consider the animal of your birth month, day, and hour, building a detailed personal profile.\n\nBecause the cycle follows the lunar calendar, the animal years do not align neatly with the Western calendar, beginning instead with the Lunar New Year in late winter. The GratisAPI Chinese zodiac dataset at /api/chinese-zodiac/index.json lists each animal with its associated traits and years, a handy reference for building New Year greetings, quizzes, or apps that celebrate this ancient cycle.",
+  "word_count": 280,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-chinese-zodiac.json"
+}

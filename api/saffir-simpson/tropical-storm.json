@@ -1,0 +1,9 @@
+{
+  "id": "tropical-storm",
+  "category": "Tropical Storm",
+  "wind_kmh_min": 63,
+  "wind_kmh_max": 118,
+  "damage": "Minor damage to trees and unanchored objects.",
+  "storm_surge_m": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/tropical-storm.json"
+}

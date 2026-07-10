@@ -1,0 +1,8 @@
+{
+  "id": "ef3",
+  "scale": "EF3",
+  "wind_kmh_min": 218,
+  "wind_kmh_max": 266,
+  "damage_description": "Severe damage; entire stories of well-built houses destroyed.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef3.json"
+}

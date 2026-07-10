@@ -1,0 +1,9 @@
+{
+  "id": "chitwan",
+  "name": "Chitwan National Park",
+  "country": "Nepal",
+  "established_year": 1973,
+  "area_km2": 953,
+  "notable_feature": "One-horned rhinos and Bengal tigers in lowland jungle.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/chitwan.json"
+}

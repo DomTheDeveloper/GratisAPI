@@ -1,0 +1,8 @@
+{
+  "id": "server",
+  "header": "Server",
+  "type": "Response",
+  "description": "Describes the software used by the origin server.",
+  "example": "nginx/1.21.0",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/server.json"
+}

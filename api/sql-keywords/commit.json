@@ -1,0 +1,7 @@
+{
+  "id": "commit",
+  "keyword": "COMMIT",
+  "category": "TCL",
+  "description": "Permanently saves all changes made in the current transaction.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/commit.json"
+}

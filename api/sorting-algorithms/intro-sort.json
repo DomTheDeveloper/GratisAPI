@@ -1,0 +1,10 @@
+{
+  "id": "intro-sort",
+  "name": "Intro Sort",
+  "best_case": "O(n log n)",
+  "average_case": "O(n log n)",
+  "worst_case": "O(n log n)",
+  "space_complexity": "O(log n)",
+  "stable": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/intro-sort.json"
+}

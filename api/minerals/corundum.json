@@ -1,0 +1,9 @@
+{
+  "id": "corundum",
+  "name": "Corundum",
+  "chemical_formula": "Al2O3",
+  "mohs_hardness": 9.0,
+  "color": "Colorless, red (ruby), or blue (sapphire)",
+  "luster": "Adamantine to vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/corundum.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tryptophan",
+  "name": "Tryptophan",
+  "three_letter": "Trp",
+  "one_letter": "W",
+  "essential": true,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/tryptophan.json"
+}

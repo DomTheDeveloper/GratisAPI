@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "name": "Tabasco Pepper",
+  "scoville_min": 30000,
+  "scoville_max": 50000,
+  "type": "Pepper",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/10.json"
+}

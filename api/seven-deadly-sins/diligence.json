@@ -1,0 +1,9 @@
+{
+  "id": "diligence",
+  "name": "Diligence",
+  "type": "Virtue",
+  "latin": "Industria",
+  "opposite": "Sloth",
+  "description": "Careful, persistent effort and a strong work ethic in one's duties.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/diligence.json"
+}

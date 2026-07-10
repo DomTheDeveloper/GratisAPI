@@ -1,0 +1,17 @@
+{
+  "id": "reference-mime-types",
+  "title": "MIME Types Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-05-28",
+  "tags": [
+    "mime",
+    "http",
+    "content-type"
+  ],
+  "summary": "MIME types label the kind of content in a file or response so software knows how to handle it.",
+  "body": "A MIME type is a short label that tells software what kind of data it is looking at. The name comes from Multipurpose Internet Mail Extensions, a standard first created for email attachments, but the labels are now used everywhere, especially on the web.\n\nA MIME type has two parts separated by a slash. The first part is a general category, such as text, image, audio, or application. The second part is the specific format within that category. So plain text is text and plain, a JSON document is application and json, a PNG image is image and png, and an HTML page is text and html. This simple two part scheme can name thousands of formats.\n\nOn the web, MIME types travel in a header called Content-Type. When a server sends a response, it includes this header so the browser knows whether to render a page, show an image, or download a file. If the label is wrong, the browser may misinterpret the content, showing raw code instead of a picture or refusing to run a script. Getting the type right is essential for correct behavior.\n\nMIME types also drive content negotiation, where a client uses an Accept header to say which formats it can handle and the server responds with the best match. This lets one address serve HTML to a browser and JSON to a program.\n\nGratisAPI provides a reference list at /api/mime-types/index.json. Each entry pairs a type with a common file extension and a short description, which is handy for building file upload validators, download tools, or lookup features. The API itself is served with the application and json type so clients parse it correctly.\n\nUnderstanding MIME types helps explain many everyday puzzles, from why a download opens in the wrong program to why a browser refuses to display a file. The label is small, but it shapes how every piece of content on the web is treated.",
+  "word_count": 322,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-mime-types.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "gabbro",
+  "name": "Gabbro",
+  "type": "Igneous",
+  "description": "Coarse-grained dark rock, the intrusive equivalent of basalt.",
+  "common_use": "Crushed stone and dimension stone.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/gabbro.json"
+}

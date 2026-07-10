@@ -1,0 +1,9 @@
+{
+  "id": "sphalerite",
+  "name": "Sphalerite",
+  "chemical_formula": "ZnS",
+  "mohs_hardness": 3.75,
+  "color": "Yellow, brown, to black",
+  "luster": "Resinous to adamantine",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/sphalerite.json"
+}

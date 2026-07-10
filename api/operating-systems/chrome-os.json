@@ -1,0 +1,9 @@
+{
+  "id": "chrome-os",
+  "name": "ChromeOS",
+  "family": "Linux",
+  "first_release_year": 2011,
+  "developer": "Google",
+  "kernel": "Linux",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/chrome-os.json"
+}

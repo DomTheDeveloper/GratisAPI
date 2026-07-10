@@ -1,0 +1,7 @@
+{
+  "id": "memento",
+  "name": "Memento",
+  "category": "Behavioral",
+  "description": "Captures and externalizes an object's internal state so it can be restored later without violating encapsulation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/memento.json"
+}

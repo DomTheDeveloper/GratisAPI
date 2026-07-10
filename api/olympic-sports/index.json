@@ -1,0 +1,366 @@
+{
+  "api": "olympic-sports",
+  "title": "Olympic Sports",
+  "description": "Summer and Winter Olympic sports with their category, competition type, and year first contested.",
+  "emoji": "🏅",
+  "license": "GPL-2.0-or-later",
+  "count": 43,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/{id}.json"
+  },
+  "fields": [
+    "category",
+    "first_olympics_year",
+    "id",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "athletics",
+      "name": "Athletics",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/athletics.json"
+    },
+    {
+      "id": "swimming",
+      "name": "Swimming",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/swimming.json"
+    },
+    {
+      "id": "gymnastics",
+      "name": "Artistic Gymnastics",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/gymnastics.json"
+    },
+    {
+      "id": "cycling",
+      "name": "Cycling",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/cycling.json"
+    },
+    {
+      "id": "fencing",
+      "name": "Fencing",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/fencing.json"
+    },
+    {
+      "id": "weightlifting",
+      "name": "Weightlifting",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/weightlifting.json"
+    },
+    {
+      "id": "wrestling",
+      "name": "Wrestling",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/wrestling.json"
+    },
+    {
+      "id": "shooting",
+      "name": "Shooting",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/shooting.json"
+    },
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1896,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/tennis.json"
+    },
+    {
+      "id": "rowing",
+      "name": "Rowing",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1900,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/rowing.json"
+    },
+    {
+      "id": "sailing",
+      "name": "Sailing",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1900,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/sailing.json"
+    },
+    {
+      "id": "football",
+      "name": "Football",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1900,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/football.json"
+    },
+    {
+      "id": "archery",
+      "name": "Archery",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1900,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/archery.json"
+    },
+    {
+      "id": "water-polo",
+      "name": "Water Polo",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1900,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/water-polo.json"
+    },
+    {
+      "id": "diving",
+      "name": "Diving",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1904,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/diving.json"
+    },
+    {
+      "id": "boxing",
+      "name": "Boxing",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1904,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/boxing.json"
+    },
+    {
+      "id": "field-hockey",
+      "name": "Field Hockey",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1908,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/field-hockey.json"
+    },
+    {
+      "id": "equestrian",
+      "name": "Equestrian",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1900,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/equestrian.json"
+    },
+    {
+      "id": "modern-pentathlon",
+      "name": "Modern Pentathlon",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1912,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/modern-pentathlon.json"
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1936,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/basketball.json"
+    },
+    {
+      "id": "canoeing",
+      "name": "Canoe Sprint",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1936,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/canoeing.json"
+    },
+    {
+      "id": "volleyball",
+      "name": "Volleyball",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1964,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/volleyball.json"
+    },
+    {
+      "id": "judo",
+      "name": "Judo",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1964,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/judo.json"
+    },
+    {
+      "id": "handball",
+      "name": "Handball",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 1936,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/handball.json"
+    },
+    {
+      "id": "table-tennis",
+      "name": "Table Tennis",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1988,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/table-tennis.json"
+    },
+    {
+      "id": "badminton",
+      "name": "Badminton",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 1992,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/badminton.json"
+    },
+    {
+      "id": "taekwondo",
+      "name": "Taekwondo",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 2000,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/taekwondo.json"
+    },
+    {
+      "id": "triathlon",
+      "name": "Triathlon",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 2000,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/triathlon.json"
+    },
+    {
+      "id": "rugby-sevens",
+      "name": "Rugby Sevens",
+      "category": "Summer",
+      "type": "Team",
+      "first_olympics_year": 2016,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/rugby-sevens.json"
+    },
+    {
+      "id": "surfing",
+      "name": "Surfing",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 2020,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/surfing.json"
+    },
+    {
+      "id": "skateboarding",
+      "name": "Skateboarding",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 2020,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/skateboarding.json"
+    },
+    {
+      "id": "sport-climbing",
+      "name": "Sport Climbing",
+      "category": "Summer",
+      "type": "Individual",
+      "first_olympics_year": 2020,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/sport-climbing.json"
+    },
+    {
+      "id": "alpine-skiing",
+      "name": "Alpine Skiing",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1936,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/alpine-skiing.json"
+    },
+    {
+      "id": "cross-country-skiing",
+      "name": "Cross-Country Skiing",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1924,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/cross-country-skiing.json"
+    },
+    {
+      "id": "ski-jumping",
+      "name": "Ski Jumping",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1924,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/ski-jumping.json"
+    },
+    {
+      "id": "figure-skating",
+      "name": "Figure Skating",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1908,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/figure-skating.json"
+    },
+    {
+      "id": "speed-skating",
+      "name": "Speed Skating",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1924,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/speed-skating.json"
+    },
+    {
+      "id": "ice-hockey",
+      "name": "Ice Hockey",
+      "category": "Winter",
+      "type": "Team",
+      "first_olympics_year": 1920,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/ice-hockey.json"
+    },
+    {
+      "id": "bobsleigh",
+      "name": "Bobsleigh",
+      "category": "Winter",
+      "type": "Team",
+      "first_olympics_year": 1924,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/bobsleigh.json"
+    },
+    {
+      "id": "luge",
+      "name": "Luge",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1964,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/luge.json"
+    },
+    {
+      "id": "biathlon",
+      "name": "Biathlon",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1960,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/biathlon.json"
+    },
+    {
+      "id": "curling",
+      "name": "Curling",
+      "category": "Winter",
+      "type": "Team",
+      "first_olympics_year": 1924,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/curling.json"
+    },
+    {
+      "id": "snowboarding",
+      "name": "Snowboarding",
+      "category": "Winter",
+      "type": "Individual",
+      "first_olympics_year": 1998,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/snowboarding.json"
+    }
+  ]
+}

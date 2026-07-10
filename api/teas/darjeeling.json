@@ -1,0 +1,9 @@
+{
+  "id": "darjeeling",
+  "name": "Darjeeling",
+  "type": "Black",
+  "origin_region": "Darjeeling, India",
+  "caffeine": "Medium",
+  "notes": "Light, floral and muscatel; called the 'champagne of teas'.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/darjeeling.json"
+}

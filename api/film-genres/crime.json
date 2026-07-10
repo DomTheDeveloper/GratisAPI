@@ -1,0 +1,7 @@
+{
+  "id": "crime",
+  "name": "Crime",
+  "description": "Films focused on criminals, law enforcement, and the underworld.",
+  "example_film": "Goodfellas",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/crime.json"
+}

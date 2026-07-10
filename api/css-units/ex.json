@@ -1,0 +1,7 @@
+{
+  "id": "ex",
+  "unit": "ex",
+  "type": "Relative",
+  "description": "Relative to the x-height of the current font.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/ex.json"
+}

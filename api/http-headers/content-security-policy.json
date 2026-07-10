@@ -1,0 +1,8 @@
+{
+  "id": "content-security-policy",
+  "header": "Content-Security-Policy",
+  "type": "Response",
+  "description": "Controls resources the user agent is allowed to load for a page.",
+  "example": "default-src 'self'",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/content-security-policy.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "cache-control",
+  "header": "Cache-Control",
+  "type": "Both",
+  "description": "Directives for caching mechanisms in both requests and responses.",
+  "example": "no-cache",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/cache-control.json"
+}

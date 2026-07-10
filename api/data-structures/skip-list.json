@@ -1,0 +1,10 @@
+{
+  "id": "skip-list",
+  "name": "Skip List",
+  "category": "Linear",
+  "access_big_o": "O(log n)",
+  "search_big_o": "O(log n)",
+  "insert_big_o": "O(log n)",
+  "description": "A layered linked list with express lanes that allow probabilistic logarithmic search and insertion.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/skip-list.json"
+}

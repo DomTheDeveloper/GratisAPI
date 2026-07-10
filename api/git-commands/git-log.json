@@ -1,0 +1,7 @@
+{
+  "id": "git-log",
+  "command": "git log",
+  "category": "Inspection",
+  "description": "Show the commit history for the current branch.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-log.json"
+}

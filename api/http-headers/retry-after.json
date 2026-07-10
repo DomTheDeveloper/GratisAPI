@@ -1,0 +1,8 @@
+{
+  "id": "retry-after",
+  "header": "Retry-After",
+  "type": "Response",
+  "description": "Indicates how long to wait before making a follow-up request.",
+  "example": "120",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/retry-after.json"
+}

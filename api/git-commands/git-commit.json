@@ -1,0 +1,7 @@
+{
+  "id": "git-commit",
+  "command": "git commit",
+  "category": "Snapshot",
+  "description": "Record the staged changes to the repository along with a descriptive message.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-commit.json"
+}

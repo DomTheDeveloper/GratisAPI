@@ -1,0 +1,10 @@
+{
+  "id": "petronas-tower-2",
+  "name": "Petronas Tower 2",
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "height_m": 452,
+  "floors": 88,
+  "completed_year": 1998,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/petronas-tower-2.json"
+}

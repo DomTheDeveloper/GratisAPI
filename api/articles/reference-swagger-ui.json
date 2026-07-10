@@ -1,0 +1,17 @@
+{
+  "id": "reference-swagger-ui",
+  "title": "Swagger UI Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-10-05",
+  "tags": [
+    "swagger",
+    "openapi",
+    "documentation"
+  ],
+  "summary": "Swagger UI turns an OpenAPI document into an interactive web page for exploring and testing an API.",
+  "body": "Writing an OpenAPI document describes an API precisely, but a raw specification file is not much fun to read. Swagger UI bridges that gap. It is a tool that takes an OpenAPI document and renders it as a friendly, interactive web page where anyone can explore the API.\n\nWhen you open a Swagger UI page, you see a tidy list of every operation the API offers, grouped and labeled. Expanding an operation reveals its description, the parameters it accepts, and the responses it can return, all drawn directly from the OpenAPI file. Because the page is generated from the specification, it never falls out of sync with the documented contract.\n\nThe feature that makes Swagger UI special is the try it out button. Rather than copying details into a separate tool, you can fill in parameters and send a real request straight from the documentation page. The response appears immediately, including the status code, the headers, and the body. This turns documentation into a hands on playground and dramatically shortens the time it takes to learn an unfamiliar API.\n\nSwagger UI grew out of the Swagger project, which later evolved into the OpenAPI standard. The name Swagger stuck for the tooling even after the specification was renamed, which is why you often see both terms together. The tool is widely used because it is free, works in any browser, and needs only a valid specification file to function.\n\nGratisAPI publishes an openapi.json file that any Swagger UI instance can load, letting you browse and test every dataset endpoint interactively. Pointing the tool at that file gives you a live catalog of the whole service.\n\nFor anyone building or consuming APIs, Swagger UI is a small investment with a large payoff. It transforms a static description into an interactive guide, making it easier for newcomers to understand a service and for maintainers to demonstrate exactly how it behaves.",
+  "word_count": 317,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-swagger-ui.json"
+}

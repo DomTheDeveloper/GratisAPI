@@ -1,0 +1,9 @@
+{
+  "id": "sulfur",
+  "name": "Sulfur",
+  "chemical_formula": "S",
+  "mohs_hardness": 2.0,
+  "color": "Bright yellow",
+  "luster": "Resinous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/sulfur.json"
+}

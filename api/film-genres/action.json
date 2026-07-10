@@ -1,0 +1,7 @@
+{
+  "id": "action",
+  "name": "Action",
+  "description": "Films centered on physical feats, chases, fights, and high-stakes sequences.",
+  "example_film": "Die Hard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/action.json"
+}

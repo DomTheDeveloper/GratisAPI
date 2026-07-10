@@ -1,0 +1,17 @@
+{
+  "id": "freedom-free-software-vs-open-source",
+  "title": "Free Software vs Open Source",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-10-30",
+  "tags": [
+    "open-source",
+    "free-software",
+    "movements"
+  ],
+  "summary": "Free software and open source describe nearly the same set of programs but rest on different values and rhetoric.",
+  "body": "Free software and open source refer to substantially the same collection of programs, yet they arise from different philosophies. Understanding the distinction clarifies debates that can otherwise seem like mere quibbling over words.\n\nThe free software movement, led by the Free Software Foundation, frames its case in terms of ethics and liberty. Its central claim is that users have a right to control the software they run, and that proprietary software wrongs them by denying that control. Freedom is the goal, and the practical benefits are welcome consequences.\n\nThe term open source was introduced in 1998 by people who wanted to promote the same development practices to businesses without the moral framing. The Open Source Initiative maintains the Open Source Definition, which in practice recognizes nearly the same licenses the FSF approves. Its rhetoric emphasizes practical advantages: better code quality, faster development, and reliability that come from open collaboration.\n\nBecause the two definitions cover almost the same programs, a given piece of software is usually both free and open source at once. Some people use the combined term FOSS, or FLOSS to include libre, precisely to sidestep the disagreement.\n\nThe difference is one of emphasis and values rather than which software qualifies. Free software advocates worry that focusing only on practical benefits leaves out the ethical core and makes it easier to compromise on freedom when convenient. Open source advocates counter that a pragmatic message reaches audiences that moral arguments do not.\n\nGratisAPI is comfortable being called both. Our license, the GPL, is approved by both the FSF and the OSI, so the code is free software and open source simultaneously. But we lean toward the language of freedom, because our reason for existing is not merely that open data is efficient. It is that access to public data should be a right, not a privilege.",
+  "word_count": 306,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-free-software-vs-open-source.json"
+}

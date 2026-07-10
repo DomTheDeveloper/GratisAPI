@@ -1,0 +1,9 @@
+{
+  "id": "insight",
+  "name": "InSight",
+  "agency": "NASA",
+  "launch_year": 2018,
+  "status": "Inactive",
+  "mission": "Stationary lander that studied the deep interior and seismology of Mars.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/insight.json"
+}

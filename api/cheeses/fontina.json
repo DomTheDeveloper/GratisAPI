@@ -1,0 +1,9 @@
+{
+  "id": "fontina",
+  "name": "Fontina",
+  "country_of_origin": "Italy",
+  "milk": "Cow",
+  "texture": "Semi-soft",
+  "flavor": "Nutty, earthy, and mild",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/fontina.json"
+}

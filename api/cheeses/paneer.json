@@ -1,0 +1,9 @@
+{
+  "id": "paneer",
+  "name": "Paneer",
+  "country_of_origin": "India",
+  "milk": "Cow",
+  "texture": "Semi-soft",
+  "flavor": "Mild, milky, and fresh",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/paneer.json"
+}

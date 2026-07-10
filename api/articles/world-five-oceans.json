@@ -1,0 +1,16 @@
+{
+  "id": "world-five-oceans",
+  "title": "The Five Oceans",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-07-14",
+  "tags": [
+    "oceans",
+    "geography"
+  ],
+  "summary": "One connected body of saltwater covers most of the planet, traditionally divided into five oceans. This article introduces the Pacific, Atlantic, Indian, Southern, and Arctic.",
+  "body": "Water covers more than seventy percent of the Earth's surface, and almost all of it belongs to a single connected global ocean. For convenience we divide that ocean into five named parts: the Pacific, the Atlantic, the Indian, the Southern, and the Arctic.\n\nThe Pacific is by far the largest, so vast that all the continents could fit inside it with room to spare. It is also the deepest, home to the Mariana Trench, whose floor lies almost eleven kilometres below the surface. The Atlantic, second in size, separates the Americas from Europe and Africa and has carried much of the world's trade and migration.\n\nThe Indian Ocean, the third largest, is warm and monsoon driven, shaping the climate and history of the lands around its rim. The Southern Ocean encircles Antarctica and was only formally recognised by many authorities in recent decades; its powerful circumpolar current isolates the frozen continent and drives global weather. The Arctic, the smallest and shallowest, is capped by sea ice that is shrinking as the planet warms.\n\nThe oceans regulate everything. They absorb heat and carbon dioxide, generate much of the oxygen we breathe through microscopic plankton, and drive the weather through vast currents that redistribute warmth around the globe. Life almost certainly began in the sea, and the oceans still hold the majority of it.\n\nDespite their importance, the deep oceans remain less explored than the surface of the Moon. The GratisAPI oceans dataset at /api/oceans/index.json lists each ocean with its area and average depth, a compact reference for building maps, quizzes, and lessons about the waters that make our planet habitable.",
+  "word_count": 269,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-five-oceans.json"
+}

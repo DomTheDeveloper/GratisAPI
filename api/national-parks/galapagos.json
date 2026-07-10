@@ -1,0 +1,9 @@
+{
+  "id": "galapagos",
+  "name": "Galapagos National Park",
+  "country": "Ecuador",
+  "established_year": 1959,
+  "area_km2": 7995,
+  "notable_feature": "Endemic wildlife that inspired Darwin's theory of evolution.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/galapagos.json"
+}

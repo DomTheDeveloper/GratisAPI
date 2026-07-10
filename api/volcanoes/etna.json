@@ -1,0 +1,9 @@
+{
+  "id": "etna",
+  "name": "Mount Etna",
+  "country": "Italy",
+  "type": "Stratovolcano",
+  "elevation_m": 3357,
+  "last_major_eruption": 2023,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/etna.json"
+}

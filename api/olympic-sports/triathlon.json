@@ -1,0 +1,8 @@
+{
+  "id": "triathlon",
+  "name": "Triathlon",
+  "category": "Summer",
+  "type": "Individual",
+  "first_olympics_year": 2000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/triathlon.json"
+}

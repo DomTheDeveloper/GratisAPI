@@ -1,0 +1,9 @@
+{
+  "id": "viking-1",
+  "name": "Viking 1",
+  "agency": "NASA",
+  "launch_year": 1975,
+  "status": "Inactive",
+  "mission": "First lander to successfully operate on the Martian surface.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/viking-1.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "science-mohs-hardness-scale",
+  "title": "The Mohs Hardness Scale",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-08-19",
+  "tags": [
+    "geology",
+    "minerals",
+    "hardness"
+  ],
+  "summary": "The Mohs scale ranks minerals by scratch resistance from soft talc to hard diamond, a simple field test still used by geologists.",
+  "body": "How do you tell one mineral from another when they look similar? One of the oldest and most practical answers is to test how hard they are, and the standard tool for that is the Mohs hardness scale. Devised in 1812 by the German geologist Friedrich Mohs, it ranks minerals by their resistance to being scratched.\n\nThe scale runs from 1 to 10 and is anchored by ten reference minerals. At the soft end sits talc, rated 1, so soft it can be scratched by a fingernail and crumbles into the powder used in talcum. At the hard end is diamond, rated 10, the hardest naturally occurring material known, capable of scratching everything below it and scratched by nothing but another diamond. In between lie gypsum at 2, calcite at 3, fluorite at 4, apatite at 5, feldspar at 6, quartz at 7, topaz at 8, and corundum, the mineral of rubies and sapphires, at 9.\n\nThe test itself is beautifully simple. A harder mineral will scratch a softer one, but not the other way around. Geologists in the field carry a few reference materials, or simply use common objects: a fingernail rates about 2.5, a copper coin around 3, and a steel knife blade or nail near 5.5. If a mystery mineral scratches glass but not a knife, its hardness can be narrowed down quickly.\n\nOne important caveat is that the scale is ordinal, not proportional. The steps are not evenly spaced. Diamond at 10 is many times harder than corundum at 9, a far bigger jump than the gap between talc and gypsum. Still, for quick identification the Mohs scale remains indispensable and is often reported alongside other mineral data in geological reference collections.",
+  "word_count": 286,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-mohs-hardness-scale.json"
+}

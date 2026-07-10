@@ -1,0 +1,9 @@
+{
+  "id": "serine",
+  "name": "Serine",
+  "three_letter": "Ser",
+  "one_letter": "S",
+  "essential": false,
+  "polarity": "Polar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/serine.json"
+}

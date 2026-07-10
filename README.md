@@ -6,10 +6,12 @@ _Gratis_ means free — and GratisAPI is free in every sense. No API keys, no ra
 limits, no sign-up, no tracking, no cost. Ever. Every endpoint is a plain JSON
 file served straight from GitHub Pages' global CDN.
 
-**60 APIs · 2,500+ records · 0 dollars.**
+**116 APIs · 3,890 records · 120 articles · 0 dollars.**
 
 🌐 **Live:** https://domthedeveloper.github.io/GratisAPI/
 📖 **Docs (Swagger UI):** https://domthedeveloper.github.io/GratisAPI/docs/
+📝 **Articles:** https://domthedeveloper.github.io/GratisAPI/articles/
+🆓 **Philosophy:** https://domthedeveloper.github.io/GratisAPI/philosophy/
 📄 **OpenAPI spec:** https://domthedeveloper.github.io/GratisAPI/openapi.json
 
 ---
@@ -62,8 +64,10 @@ Each dataset index looks like:
 
 ## Available APIs
 
-The live directory of every API is always at
+There are **116 APIs** in total — from `amino-acids` to `volcanoes`. The live,
+always-current directory of every one is at
 [`/api/index.json`](https://domthedeveloper.github.io/GratisAPI/api/index.json).
+A selection is listed below.
 
 | API | Records | What's in it |
 | --- | ---: | --- |
@@ -127,6 +131,19 @@ The live directory of every API is always at
 | ♟️ `chess-pieces` | 6 | Symbols, value, movement |
 | 🃏 `playing-cards` | 52 | A standard 52-card deck |
 | 📅 `calendar` | 19 | Months & days of the week |
+
+## Articles & Philosophy
+
+GratisAPI is more than data. The [**Articles**](https://domthedeveloper.github.io/GratisAPI/articles/)
+section has **120 articles** across five categories — Tutorials, Philosophy,
+Science, Culture and Reference — covering how to use the APIs from any language,
+deep-dives into the datasets, and essays on free data. Even the articles are an
+API: they're served from [`/api/articles/`](https://domthedeveloper.github.io/GratisAPI/api/articles/index.json).
+
+The [**Philosophy**](https://domthedeveloper.github.io/GratisAPI/philosophy/) page
+explains the two meanings of "free" — _gratis_ (free of charge) and _libre_ (free
+as in freedom) — the free software movement, Richard Stallman and the FSF, and why
+GratisAPI is deliberately both.
 
 ## Building locally
 

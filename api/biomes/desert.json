@@ -1,0 +1,9 @@
+{
+  "id": "desert",
+  "name": "Desert",
+  "climate": "Very hot or cold with extreme aridity",
+  "avg_rainfall_mm": 200,
+  "example_regions": "Sahara, Arabian, Mojave, Atacama",
+  "dominant_vegetation": "Sparse succulents, cacti, and hardy shrubs.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/desert.json"
+}

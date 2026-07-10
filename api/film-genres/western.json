@@ -1,0 +1,7 @@
+{
+  "id": "western",
+  "name": "Western",
+  "description": "Films set in the American Old West emphasizing frontier life and lawlessness.",
+  "example_film": "The Good, the Bad and the Ugly",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/western.json"
+}

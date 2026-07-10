@@ -1,0 +1,9 @@
+{
+  "id": "ngc-1569",
+  "name": "NGC 1569",
+  "type": "Dwarf",
+  "constellation": "Camelopardalis",
+  "distance_mly": 11,
+  "notes": "A dwarf irregular starburst galaxy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-1569.json"
+}

@@ -1,0 +1,182 @@
+{
+  "api": "design-patterns",
+  "title": "Design Patterns",
+  "description": "The 23 classic Gang of Four object-oriented software design patterns.",
+  "emoji": "🧩",
+  "license": "GPL-2.0-or-later",
+  "count": 23,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/{id}.json"
+  },
+  "fields": [
+    "category",
+    "description",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "abstract-factory",
+      "name": "Abstract Factory",
+      "category": "Creational",
+      "description": "Provides an interface for creating families of related objects without specifying their concrete classes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/abstract-factory.json"
+    },
+    {
+      "id": "builder",
+      "name": "Builder",
+      "category": "Creational",
+      "description": "Separates the construction of a complex object from its representation so the same process can create different representations.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/builder.json"
+    },
+    {
+      "id": "factory-method",
+      "name": "Factory Method",
+      "category": "Creational",
+      "description": "Defines an interface for creating an object but lets subclasses decide which class to instantiate.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/factory-method.json"
+    },
+    {
+      "id": "prototype",
+      "name": "Prototype",
+      "category": "Creational",
+      "description": "Creates new objects by copying an existing prototypical instance rather than instantiating from scratch.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/prototype.json"
+    },
+    {
+      "id": "singleton",
+      "name": "Singleton",
+      "category": "Creational",
+      "description": "Ensures a class has only one instance and provides a global point of access to it.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/singleton.json"
+    },
+    {
+      "id": "adapter",
+      "name": "Adapter",
+      "category": "Structural",
+      "description": "Converts the interface of a class into another interface clients expect, letting incompatible classes work together.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/adapter.json"
+    },
+    {
+      "id": "bridge",
+      "name": "Bridge",
+      "category": "Structural",
+      "description": "Decouples an abstraction from its implementation so the two can vary independently.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/bridge.json"
+    },
+    {
+      "id": "composite",
+      "name": "Composite",
+      "category": "Structural",
+      "description": "Composes objects into tree structures to represent part-whole hierarchies, treating individual and composite objects uniformly.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/composite.json"
+    },
+    {
+      "id": "decorator",
+      "name": "Decorator",
+      "category": "Structural",
+      "description": "Attaches additional responsibilities to an object dynamically, providing a flexible alternative to subclassing.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/decorator.json"
+    },
+    {
+      "id": "facade",
+      "name": "Facade",
+      "category": "Structural",
+      "description": "Provides a unified, simplified interface to a set of interfaces in a subsystem.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/facade.json"
+    },
+    {
+      "id": "flyweight",
+      "name": "Flyweight",
+      "category": "Structural",
+      "description": "Uses sharing to support large numbers of fine-grained objects efficiently by keeping common state extrinsic.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/flyweight.json"
+    },
+    {
+      "id": "proxy",
+      "name": "Proxy",
+      "category": "Structural",
+      "description": "Provides a surrogate or placeholder for another object to control access to it.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/proxy.json"
+    },
+    {
+      "id": "chain-of-responsibility",
+      "name": "Chain of Responsibility",
+      "category": "Behavioral",
+      "description": "Passes a request along a chain of handlers until one of them handles it, decoupling sender from receiver.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/chain-of-responsibility.json"
+    },
+    {
+      "id": "command",
+      "name": "Command",
+      "category": "Behavioral",
+      "description": "Encapsulates a request as an object, allowing parameterization, queuing, logging, and undoable operations.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/command.json"
+    },
+    {
+      "id": "interpreter",
+      "name": "Interpreter",
+      "category": "Behavioral",
+      "description": "Defines a grammar for a language and an interpreter that uses the representation to interpret sentences in it.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/interpreter.json"
+    },
+    {
+      "id": "iterator",
+      "name": "Iterator",
+      "category": "Behavioral",
+      "description": "Provides a way to access elements of a collection sequentially without exposing its underlying representation.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/iterator.json"
+    },
+    {
+      "id": "mediator",
+      "name": "Mediator",
+      "category": "Behavioral",
+      "description": "Defines an object that encapsulates how a set of objects interact, promoting loose coupling.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/mediator.json"
+    },
+    {
+      "id": "memento",
+      "name": "Memento",
+      "category": "Behavioral",
+      "description": "Captures and externalizes an object's internal state so it can be restored later without violating encapsulation.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/memento.json"
+    },
+    {
+      "id": "observer",
+      "name": "Observer",
+      "category": "Behavioral",
+      "description": "Defines a one-to-many dependency so that when one object changes state, all its dependents are notified automatically.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/observer.json"
+    },
+    {
+      "id": "state",
+      "name": "State",
+      "category": "Behavioral",
+      "description": "Allows an object to alter its behavior when its internal state changes, appearing to change its class.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/state.json"
+    },
+    {
+      "id": "strategy",
+      "name": "Strategy",
+      "category": "Behavioral",
+      "description": "Defines a family of interchangeable algorithms and encapsulates each so they can vary independently of clients.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/strategy.json"
+    },
+    {
+      "id": "template-method",
+      "name": "Template Method",
+      "category": "Behavioral",
+      "description": "Defines the skeleton of an algorithm in a method, deferring some steps to subclasses.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/template-method.json"
+    },
+    {
+      "id": "visitor",
+      "name": "Visitor",
+      "category": "Behavioral",
+      "description": "Represents an operation to be performed on the elements of an object structure without changing their classes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/visitor.json"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "erebus",
+  "name": "Mount Erebus",
+  "country": "Antarctica",
+  "type": "Stratovolcano",
+  "elevation_m": 3794,
+  "last_major_eruption": 2024,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/erebus.json"
+}

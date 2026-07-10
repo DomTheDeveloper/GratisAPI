@@ -1,0 +1,17 @@
+{
+  "id": "freedom-what-gratis-means",
+  "title": "What \"Gratis\" Really Means",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-01-14",
+  "tags": [
+    "gratis",
+    "terminology",
+    "cost"
+  ],
+  "summary": "The word gratis describes something you can obtain without paying money, and understanding it helps clear up a common confusion in software.",
+  "body": "The word gratis comes from Latin and describes something offered at no monetary cost. When people say software is free as in free beer, gratis is the sense they mean. You do not hand over money to obtain it, download it, or use it. That is the whole of the claim.\n\nGratis says nothing about what you are allowed to do with the thing once you have it. A gratis program might forbid you from copying it, studying how it works, or sharing it with a friend. Many popular applications cost nothing to install yet come wrapped in restrictive terms. They are gratis but not liberating.\n\nThe English word free carries both meanings at once, which is the root of endless misunderstanding. A price of zero and a grant of liberty are entirely different properties, and a program can have one, both, or neither. Several other languages avoid this trap by using separate words, which is why English speakers often borrow gratis and libre to be precise.\n\nGratis matters because cost is a real barrier. A student, a researcher in a poor region, or a hobbyist tinkering on a weekend may simply not be able to pay. Removing the price tag widens the circle of people who can participate. But a gratis offer can also be a trap when the true cost is hidden in advertising, data collection, or lock-in.\n\nGratisAPI is gratis in the plainest sense. There is no fee, no paid tier, and no invoice. Yet we consider that only half of what a free service should be. Understanding gratis on its own, separate from questions of liberty, is the first step toward thinking clearly about software freedom.",
+  "word_count": 280,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-what-gratis-means.json"
+}

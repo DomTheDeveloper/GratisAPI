@@ -1,0 +1,17 @@
+{
+  "id": "reference-sql-keywords",
+  "title": "SQL Keywords Overview",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-06-13",
+  "tags": [
+    "sql",
+    "database",
+    "query"
+  ],
+  "summary": "SQL uses a set of keywords to define, query, and modify data stored in relational databases.",
+  "body": "SQL, the Structured Query Language, is how programs talk to relational databases. It reads almost like English, and a relatively small set of keywords covers the vast majority of what you will ever write. Grouping those keywords by purpose makes the language easy to learn.\n\nThe most common task is asking questions of the data, and that is the job of SELECT. A query names the columns you want with SELECT and the table they come from with FROM. You narrow the results with WHERE, which filters rows by a condition. You arrange them with ORDER BY and group them for summaries with GROUP BY, often paired with functions that count or total values.\n\nChanging data uses a second group of keywords. INSERT adds new rows, UPDATE modifies existing ones, and DELETE removes them. Each of these is usually paired with a condition so you affect only the intended rows; forgetting a WHERE clause on an update or delete is a classic and painful mistake.\n\nA third group defines the structure of the database itself. CREATE makes a new table or other object, ALTER changes an existing one, and DROP removes it entirely. These commands shape the containers that hold your data rather than the data inside them.\n\nOne of SQL's most powerful features is the JOIN, which combines rows from two tables based on a related column. Joins are what make relational databases relational, letting you connect customers to their orders or books to their authors in a single query. Learning to think in joins is a turning point for anyone using SQL.\n\nGratisAPI offers a reference at /api/sql-keywords/index.json, listing each keyword with its category and a description of what it does. It is a compact study aid while the vocabulary settles into memory. Because SQL is so widespread, across web apps, analytics, and reporting, the effort to learn these keywords pays off across almost every kind of software work.",
+  "word_count": 321,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-sql-keywords.json"
+}

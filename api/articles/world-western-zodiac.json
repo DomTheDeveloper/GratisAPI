@@ -1,0 +1,16 @@
+{
+  "id": "world-western-zodiac",
+  "title": "The Western Zodiac",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-02-14",
+  "tags": [
+    "zodiac",
+    "astrology"
+  ],
+  "summary": "The Western zodiac divides the year into twelve signs, from Aries to Pisces. This article explains their origins and enduring popularity.",
+  "body": "The Western zodiac is one of the most familiar systems of symbols in the world. Ask most people their star sign and they can answer instantly, even if they place no faith in astrology. The system divides the year into twelve signs, each linked to a constellation and a span of dates.\n\nThe twelve signs are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces. They begin with Aries around the spring equinox and proceed through the year, each governing roughly a month. Your sign is determined by where the sun appeared against the stars on the day you were born.\n\nThe system has ancient roots in Babylonian astronomy, later refined by the Greeks, who gave the signs many of the names and mythological associations we use today. The word zodiac itself comes from a Greek term meaning circle of animals, since most of the signs are living creatures.\n\nAstrologers group the signs by four classical elements, fire, earth, air, and water, and by qualities that describe how each sign expresses its energy. From these combinations they draw the personality traits popularly attached to each sign, such as the boldness of Aries or the balance of Libra. Astronomers stress that these associations have no physical basis, and that the constellations have drifted since the signs were fixed.\n\nWhether taken as guidance, entertainment, or cultural shorthand, the zodiac remains woven into daily life, from newspaper horoscopes to conversation. The GratisAPI zodiac dataset at /api/zodiac/index.json lists each sign with its dates, element, and symbol, a clean reference for building horoscope apps, quizzes, or any project that plays with the twelve signs.",
+  "word_count": 273,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-western-zodiac.json"
+}

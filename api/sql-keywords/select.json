@@ -1,0 +1,7 @@
+{
+  "id": "select",
+  "keyword": "SELECT",
+  "category": "DQL",
+  "description": "Retrieves rows and columns from one or more tables.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/select.json"
+}

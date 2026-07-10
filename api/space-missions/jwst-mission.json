@@ -1,0 +1,9 @@
+{
+  "id": "jwst-mission",
+  "name": "James Webb Space Telescope",
+  "agency": "NASA",
+  "launch_year": 2021,
+  "type": "Telescope",
+  "achievement": "Most powerful infrared space telescope ever launched.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/jwst-mission.json"
+}

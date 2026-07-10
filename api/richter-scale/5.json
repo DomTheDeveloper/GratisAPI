@@ -1,0 +1,8 @@
+{
+  "id": 5,
+  "magnitude_range": "5.0-5.9",
+  "class": "Moderate",
+  "effects": "Damage to weak or poorly built structures.",
+  "approx_frequency_per_year": 1000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/5.json"
+}

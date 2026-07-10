@@ -1,0 +1,9 @@
+{
+  "id": "wetland",
+  "name": "Wetland",
+  "climate": "Varied, with waterlogged soils year-round",
+  "avg_rainfall_mm": 1200,
+  "example_regions": "Pantanal, Okavango Delta, Everglades",
+  "dominant_vegetation": "Reeds, sedges, grasses, and water-tolerant plants.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/wetland.json"
+}

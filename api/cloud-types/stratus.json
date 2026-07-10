@@ -1,0 +1,8 @@
+{
+  "id": "stratus",
+  "name": "Stratus",
+  "abbreviation": "St",
+  "altitude_level": "Low",
+  "description": "Uniform grey layer resembling fog that does not reach the ground; may drizzle.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/stratus.json"
+}

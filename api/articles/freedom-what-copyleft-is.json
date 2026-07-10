@@ -1,0 +1,17 @@
+{
+  "id": "freedom-what-copyleft-is",
+  "title": "What Copyleft Is",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-07-03",
+  "tags": [
+    "copyleft",
+    "licensing",
+    "gpl"
+  ],
+  "summary": "Copyleft is a clever use of copyright law that keeps software free by requiring derived works to carry the same freedoms forward.",
+  "body": "Copyleft is a strategy for keeping software free by turning copyright law against its usual purpose. Ordinarily, copyright lets an author restrict copying and modification. Copyleft uses that same legal power to guarantee the opposite: that a work, and every version derived from it, remains free for all users.\n\nThe mechanism is a license condition. A copyleft license grants everyone the four freedoms to use, study, modify, and share the software, but attaches one requirement. If you distribute the software, or a modified version of it, you must pass along those same freedoms under the same license. You may not take the code, improve it, and lock the result away as proprietary.\n\nThe name is a play on copyright, suggesting a mirror image. Where copyright typically hoards rights for the author, copyleft spreads them to everyone and uses the law to keep them spread. It is sometimes described as a viral or share-alike condition, because the freedom propagates to derived works.\n\nCopyleft contrasts with permissive licensing. A permissive license, such as the MIT or BSD license, grants the freedoms but does not require them to be preserved downstream. Someone can take permissively licensed code and incorporate it into a closed product. Copyleft closes that path, ensuring that what starts free stays free.\n\nThere are degrees of copyleft. Strong copyleft, as in the GPL, extends to an entire combined work. Weak copyleft, as in the Lesser GPL, applies more narrowly, allowing linking with proprietary code under conditions. Each represents a different balance between spreading freedom and easing adoption.\n\nGratisAPI is released under the GPL, a strong copyleft license. That choice means our data tools cannot be quietly absorbed into a closed product. Whatever is built on them must keep the freedoms alive, which is exactly the point of copyleft.",
+  "word_count": 298,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-what-copyleft-is.json"
+}

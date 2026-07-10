@@ -1,0 +1,17 @@
+{
+  "id": "science-what-makes-a-mammal",
+  "title": "What Makes a Mammal",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-02-19",
+  "tags": [
+    "biology",
+    "mammals",
+    "animals"
+  ],
+  "summary": "Mammals share a set of defining traits, from hair and milk to warm blood, that set them apart from every other group of animals.",
+  "body": "Humans, whales, bats, and elephants may seem to have little in common, yet all belong to the same class of animals: the mammals. Despite their staggering diversity, mammals share a handful of defining features that unite them and distinguish them from birds, reptiles, fish, and amphibians.\n\nThe most famous trait gives the group its name. Female mammals produce milk from mammary glands to nourish their young. This provides newborns with a rich, ready supply of nutrition and antibodies during their most vulnerable days. A second hallmark is hair or fur, which every mammal has at some point in life, even whales that carry only a few whiskers. Hair provides insulation, camouflage, and sensation.\n\nMammals are also warm blooded, meaning they generate their own body heat and maintain a stable internal temperature regardless of their surroundings. This lets them stay active in cold climates and at night, though it demands a great deal of food to fuel. Internally, mammals share other signatures: a four chambered heart that keeps oxygen rich and oxygen poor blood separate, a muscular diaphragm that drives breathing, and three tiny bones in the middle ear that transmit sound with great sensitivity.\n\nMammals are usually divided into three groups by how they reproduce. The vast majority are placental mammals, whose young develop fully inside the mother. Marsupials such as kangaroos give birth to tiny underdeveloped young that finish growing in a pouch. A small and ancient group, the monotremes, including the platypus and echidnas, actually lay eggs yet still produce milk.\n\nMost mammals also have specialized teeth of different shapes for cutting and grinding food. You can explore mammals and other animals through the GratisAPI endpoint at /api/animals/index.json.",
+  "word_count": 280,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-what-makes-a-mammal.json"
+}

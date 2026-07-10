@@ -1,0 +1,10 @@
+{
+  "id": "myagky_znak",
+  "name": "Myagky Znak",
+  "uppercase": "Ь",
+  "lowercase": "ь",
+  "transliteration": "'",
+  "sound": "soft sign (silent)",
+  "order": 30,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/myagky_znak.json"
+}

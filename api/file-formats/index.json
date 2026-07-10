@@ -1,0 +1,326 @@
+{
+  "api": "file-formats",
+  "title": "File Formats",
+  "description": "Common file formats identified by extension and category.",
+  "emoji": "📁",
+  "license": "GPL-2.0-or-later",
+  "count": 38,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/{id}.json"
+  },
+  "fields": [
+    "category",
+    "description",
+    "extension",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "pdf",
+      "extension": ".pdf",
+      "name": "Portable Document Format",
+      "category": "Document",
+      "description": "A fixed-layout document format that preserves formatting across devices.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/pdf.json"
+    },
+    {
+      "id": "docx",
+      "extension": ".docx",
+      "name": "Microsoft Word Document",
+      "category": "Document",
+      "description": "The default word-processing format used by Microsoft Word.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/docx.json"
+    },
+    {
+      "id": "txt",
+      "extension": ".txt",
+      "name": "Plain Text",
+      "category": "Document",
+      "description": "An unformatted plain-text file.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/txt.json"
+    },
+    {
+      "id": "xlsx",
+      "extension": ".xlsx",
+      "name": "Microsoft Excel Spreadsheet",
+      "category": "Document",
+      "description": "The default spreadsheet format used by Microsoft Excel.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/xlsx.json"
+    },
+    {
+      "id": "pptx",
+      "extension": ".pptx",
+      "name": "Microsoft PowerPoint Presentation",
+      "category": "Document",
+      "description": "The default presentation format used by Microsoft PowerPoint.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/pptx.json"
+    },
+    {
+      "id": "odt",
+      "extension": ".odt",
+      "name": "OpenDocument Text",
+      "category": "Document",
+      "description": "An open-standard word-processing document format.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/odt.json"
+    },
+    {
+      "id": "jpg",
+      "extension": ".jpg",
+      "name": "JPEG Image",
+      "category": "Image",
+      "description": "A lossy compressed raster image format common for photographs.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/jpg.json"
+    },
+    {
+      "id": "png",
+      "extension": ".png",
+      "name": "Portable Network Graphics",
+      "category": "Image",
+      "description": "A lossless raster image format supporting transparency.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/png.json"
+    },
+    {
+      "id": "gif",
+      "extension": ".gif",
+      "name": "Graphics Interchange Format",
+      "category": "Image",
+      "description": "A raster image format supporting animation and limited color palettes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/gif.json"
+    },
+    {
+      "id": "svg",
+      "extension": ".svg",
+      "name": "Scalable Vector Graphics",
+      "category": "Image",
+      "description": "An XML-based vector image format that scales without quality loss.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/svg.json"
+    },
+    {
+      "id": "webp",
+      "extension": ".webp",
+      "name": "WebP Image",
+      "category": "Image",
+      "description": "A modern image format offering both lossy and lossless compression.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/webp.json"
+    },
+    {
+      "id": "bmp",
+      "extension": ".bmp",
+      "name": "Bitmap Image",
+      "category": "Image",
+      "description": "An uncompressed raster image format developed by Microsoft.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/bmp.json"
+    },
+    {
+      "id": "tiff",
+      "extension": ".tiff",
+      "name": "Tagged Image File Format",
+      "category": "Image",
+      "description": "A flexible raster format often used in publishing and photography.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/tiff.json"
+    },
+    {
+      "id": "mp3",
+      "extension": ".mp3",
+      "name": "MP3 Audio",
+      "category": "Audio",
+      "description": "A widely used lossy compressed audio format.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/mp3.json"
+    },
+    {
+      "id": "wav",
+      "extension": ".wav",
+      "name": "Waveform Audio",
+      "category": "Audio",
+      "description": "An uncompressed audio format developed by Microsoft and IBM.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/wav.json"
+    },
+    {
+      "id": "flac",
+      "extension": ".flac",
+      "name": "Free Lossless Audio Codec",
+      "category": "Audio",
+      "description": "A lossless compressed audio format.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/flac.json"
+    },
+    {
+      "id": "aac",
+      "extension": ".aac",
+      "name": "Advanced Audio Coding",
+      "category": "Audio",
+      "description": "A lossy audio format designed as a successor to MP3.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/aac.json"
+    },
+    {
+      "id": "ogg",
+      "extension": ".ogg",
+      "name": "Ogg Vorbis",
+      "category": "Audio",
+      "description": "An open, patent-free lossy audio container and format.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/ogg.json"
+    },
+    {
+      "id": "mp4",
+      "extension": ".mp4",
+      "name": "MPEG-4 Video",
+      "category": "Video",
+      "description": "A widely used multimedia container for video and audio.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/mp4.json"
+    },
+    {
+      "id": "avi",
+      "extension": ".avi",
+      "name": "Audio Video Interleave",
+      "category": "Video",
+      "description": "A multimedia container format introduced by Microsoft.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/avi.json"
+    },
+    {
+      "id": "mkv",
+      "extension": ".mkv",
+      "name": "Matroska Video",
+      "category": "Video",
+      "description": "An open multimedia container capable of holding many tracks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/mkv.json"
+    },
+    {
+      "id": "mov",
+      "extension": ".mov",
+      "name": "QuickTime Movie",
+      "category": "Video",
+      "description": "A multimedia container developed by Apple for QuickTime.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/mov.json"
+    },
+    {
+      "id": "webm",
+      "extension": ".webm",
+      "name": "WebM Video",
+      "category": "Video",
+      "description": "An open, royalty-free video format designed for the web.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/webm.json"
+    },
+    {
+      "id": "zip",
+      "extension": ".zip",
+      "name": "ZIP Archive",
+      "category": "Archive",
+      "description": "A widely used archive format supporting lossless compression.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/zip.json"
+    },
+    {
+      "id": "rar",
+      "extension": ".rar",
+      "name": "RAR Archive",
+      "category": "Archive",
+      "description": "A proprietary archive format with strong compression.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/rar.json"
+    },
+    {
+      "id": "tar",
+      "extension": ".tar",
+      "name": "Tape Archive",
+      "category": "Archive",
+      "description": "A format that bundles multiple files into one, often compressed separately.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/tar.json"
+    },
+    {
+      "id": "gz",
+      "extension": ".gz",
+      "name": "Gzip Archive",
+      "category": "Archive",
+      "description": "A file compressed with the gzip algorithm.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/gz.json"
+    },
+    {
+      "id": "7z",
+      "extension": ".7z",
+      "name": "7-Zip Archive",
+      "category": "Archive",
+      "description": "An open archive format with a high compression ratio.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/7z.json"
+    },
+    {
+      "id": "html",
+      "extension": ".html",
+      "name": "HyperText Markup Language",
+      "category": "Code",
+      "description": "The standard markup language for web pages.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/html.json"
+    },
+    {
+      "id": "css",
+      "extension": ".css",
+      "name": "Cascading Style Sheets",
+      "category": "Code",
+      "description": "A stylesheet language used to describe web page presentation.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/css.json"
+    },
+    {
+      "id": "js",
+      "extension": ".js",
+      "name": "JavaScript",
+      "category": "Code",
+      "description": "A scripting language source file used primarily for the web.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/js.json"
+    },
+    {
+      "id": "py",
+      "extension": ".py",
+      "name": "Python Source",
+      "category": "Code",
+      "description": "A source code file written in the Python programming language.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/py.json"
+    },
+    {
+      "id": "json",
+      "extension": ".json",
+      "name": "JavaScript Object Notation",
+      "category": "Data",
+      "description": "A lightweight, text-based data interchange format.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/json.json"
+    },
+    {
+      "id": "csv",
+      "extension": ".csv",
+      "name": "Comma-Separated Values",
+      "category": "Data",
+      "description": "A plain-text format storing tabular data with delimited fields.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/csv.json"
+    },
+    {
+      "id": "xml",
+      "extension": ".xml",
+      "name": "Extensible Markup Language",
+      "category": "Data",
+      "description": "A markup language for structured, machine-readable data.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/xml.json"
+    },
+    {
+      "id": "sql",
+      "extension": ".sql",
+      "name": "SQL Script",
+      "category": "Data",
+      "description": "A file containing SQL statements for a database.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/sql.json"
+    },
+    {
+      "id": "exe",
+      "extension": ".exe",
+      "name": "Windows Executable",
+      "category": "Executable",
+      "description": "An executable program file for Windows.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/exe.json"
+    },
+    {
+      "id": "apk",
+      "extension": ".apk",
+      "name": "Android Package",
+      "category": "Executable",
+      "description": "An installable application package for the Android operating system.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/apk.json"
+    }
+  ]
+}

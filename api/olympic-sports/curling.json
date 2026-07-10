@@ -1,0 +1,8 @@
+{
+  "id": "curling",
+  "name": "Curling",
+  "category": "Winter",
+  "type": "Team",
+  "first_olympics_year": 1924,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/curling.json"
+}

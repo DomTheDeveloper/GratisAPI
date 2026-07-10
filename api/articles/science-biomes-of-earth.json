@@ -1,0 +1,17 @@
+{
+  "id": "science-biomes-of-earth",
+  "title": "The Biomes of Earth",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2025-05-06",
+  "tags": [
+    "ecology",
+    "biomes",
+    "environment"
+  ],
+  "summary": "Biomes are the great communities of life that blanket the planet, each shaped by its climate into distinctive forests, grasslands, deserts, and more.",
+  "body": "Zoom out from any single forest or meadow and you begin to see that life on Earth arranges itself into vast regional patterns. These large scale communities, defined by their climate and the plants and animals adapted to it, are called biomes. They are the broadest way ecologists divide up the living world.\n\nClimate is the great architect of biomes, especially temperature and rainfall. Near the equator, warmth and heavy rain produce tropical rainforests, the most biologically rich places on the planet, teeming with more species than anywhere else. Where rain is seasonal, tropical grasslands called savannas spread out, dotted with grazing herds. In the dry belts around the tropics lie the deserts, where little rain falls and plants and animals have evolved remarkable tricks to conserve water.\n\nMoving toward the poles, temperate regions host their own biomes. Temperate forests of oak and maple shed their leaves each autumn, while temperate grasslands, known as prairies or steppes, once fed enormous herds of bison. Further north stretches the taiga, a great belt of coniferous evergreen forest, and beyond it the treeless tundra, where the ground stays frozen and only hardy mosses and shrubs survive the brief, cool summers.\n\nBiomes are not limited to land. Aquatic biomes, covering most of the planet, include freshwater lakes and rivers as well as the vast marine realm of oceans, coral reefs, and estuaries. Coral reefs in particular rival rainforests for their density of life.\n\nUnderstanding biomes helps us see how climate shapes life and why changes to that climate ripple through entire ecosystems. As global temperatures shift, the boundaries between biomes are already moving, reshaping where different communities of life can thrive.",
+  "word_count": 277,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-biomes-of-earth.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cotopaxi",
+  "name": "Cotopaxi",
+  "country": "Ecuador",
+  "type": "Stratovolcano",
+  "elevation_m": 5897,
+  "last_major_eruption": 2023,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/cotopaxi.json"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "slasher",
+  "name": "Slasher",
+  "description": "Horror subgenre in which a killer stalks and murders a series of victims.",
+  "example_film": "Halloween",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/slasher.json"
+}

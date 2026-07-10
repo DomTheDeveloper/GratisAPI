@@ -1,0 +1,17 @@
+{
+  "id": "reference-design-patterns",
+  "title": "An Overview of Design Patterns",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-04-11",
+  "tags": [
+    "design-patterns",
+    "programming",
+    "architecture"
+  ],
+  "summary": "Design patterns are reusable solutions to recurring problems in object oriented software design.",
+  "body": "As programmers built larger systems, they noticed the same design problems appearing over and over. Design patterns are the collected, named solutions to those recurring problems. A pattern is not code you copy but a proven approach you adapt, and having names for these approaches gives teams a shared vocabulary.\n\nThe classic patterns are usually grouped into three families. Creational patterns deal with how objects are made. The singleton ensures a class has only one instance, the factory hides the details of which concrete class to build, and the builder assembles a complex object step by step. These patterns keep object creation flexible and centralized.\n\nStructural patterns deal with how objects are composed into larger structures. The adapter lets two incompatible interfaces work together by translating between them. The decorator wraps an object to add behavior without changing its class. The facade offers a simple front door to a complicated subsystem. These patterns help you assemble parts cleanly.\n\nBehavioral patterns deal with how objects communicate. The observer lets many objects react automatically when one changes state, which underlies most event systems. The strategy lets you swap an algorithm at run time by treating it as an interchangeable object. The iterator provides a standard way to walk through a collection without exposing its internals.\n\nPatterns are valuable because they capture hard won experience. When you recognize that a problem fits the observer pattern, you inherit a solution that many others have refined and tested. Patterns also make code easier to discuss, since a single word can convey a whole design idea to a teammate.\n\nA word of caution accompanies them: patterns are tools, not goals. Forcing a pattern where a simple approach would do adds needless complexity. The skill is recognizing when a problem genuinely matches a pattern.\n\nGratisAPI offers a reference at /api/design-patterns/index.json, listing each pattern with its category and a short description. It serves as a quick reminder of the catalog, a useful companion when you sense a familiar problem and want to recall the pattern that fits it.",
+  "word_count": 340,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-design-patterns.json"
+}

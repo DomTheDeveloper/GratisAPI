@@ -1,0 +1,7 @@
+{
+  "id": "git-config",
+  "command": "git config",
+  "category": "Setup",
+  "description": "Get and set repository or global configuration options such as user name and email.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-config.json"
+}

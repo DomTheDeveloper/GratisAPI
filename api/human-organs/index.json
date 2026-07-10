@@ -1,0 +1,270 @@
+{
+  "api": "human-organs",
+  "title": "Human Organs",
+  "description": "Major organs of the human body, their organ system, function, and location.",
+  "emoji": "🫀",
+  "license": "GPL-2.0-or-later",
+  "count": 31,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/{id}.json"
+  },
+  "fields": [
+    "function",
+    "id",
+    "location",
+    "name",
+    "system"
+  ],
+  "results": [
+    {
+      "id": "brain",
+      "name": "Brain",
+      "system": "Nervous system",
+      "function": "Controls thought, movement, and body functions and processes sensory information.",
+      "location": "Head, within the cranium",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/brain.json"
+    },
+    {
+      "id": "spinal-cord",
+      "name": "Spinal cord",
+      "system": "Nervous system",
+      "function": "Relays signals between the brain and the rest of the body.",
+      "location": "Vertebral canal of the spine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/spinal-cord.json"
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "system": "Cardiovascular system",
+      "function": "Pumps blood throughout the body.",
+      "location": "Thoracic cavity, between the lungs",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/heart.json"
+    },
+    {
+      "id": "lungs",
+      "name": "Lungs",
+      "system": "Respiratory system",
+      "function": "Exchange oxygen and carbon dioxide between air and blood.",
+      "location": "Thoracic cavity, either side of the heart",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/lungs.json"
+    },
+    {
+      "id": "trachea",
+      "name": "Trachea",
+      "system": "Respiratory system",
+      "function": "Conducts air between the larynx and the bronchi.",
+      "location": "Neck and upper chest",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/trachea.json"
+    },
+    {
+      "id": "diaphragm",
+      "name": "Diaphragm",
+      "system": "Respiratory system",
+      "function": "Contracts to draw air into the lungs during breathing.",
+      "location": "Below the lungs, separating chest and abdomen",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/diaphragm.json"
+    },
+    {
+      "id": "liver",
+      "name": "Liver",
+      "system": "Digestive system",
+      "function": "Filters blood, produces bile, and stores nutrients.",
+      "location": "Upper right abdomen",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/liver.json"
+    },
+    {
+      "id": "stomach",
+      "name": "Stomach",
+      "system": "Digestive system",
+      "function": "Breaks down food using acid and enzymes.",
+      "location": "Upper left abdomen",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/stomach.json"
+    },
+    {
+      "id": "small-intestine",
+      "name": "Small intestine",
+      "system": "Digestive system",
+      "function": "Absorbs most nutrients from digested food.",
+      "location": "Central abdomen",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/small-intestine.json"
+    },
+    {
+      "id": "large-intestine",
+      "name": "Large intestine",
+      "system": "Digestive system",
+      "function": "Absorbs water and forms and stores feces.",
+      "location": "Perimeter of the abdomen",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/large-intestine.json"
+    },
+    {
+      "id": "esophagus",
+      "name": "Esophagus",
+      "system": "Digestive system",
+      "function": "Carries food from the throat to the stomach.",
+      "location": "Behind the trachea, from throat to stomach",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/esophagus.json"
+    },
+    {
+      "id": "pancreas",
+      "name": "Pancreas",
+      "system": "Digestive system",
+      "function": "Secretes digestive enzymes and regulates blood sugar via insulin.",
+      "location": "Behind the stomach",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/pancreas.json"
+    },
+    {
+      "id": "gallbladder",
+      "name": "Gallbladder",
+      "system": "Digestive system",
+      "function": "Stores and concentrates bile produced by the liver.",
+      "location": "Beneath the liver",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/gallbladder.json"
+    },
+    {
+      "id": "kidneys",
+      "name": "Kidneys",
+      "system": "Urinary system",
+      "function": "Filter blood to produce urine and regulate fluid balance.",
+      "location": "Posterior abdomen, either side of the spine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/kidneys.json"
+    },
+    {
+      "id": "bladder",
+      "name": "Urinary bladder",
+      "system": "Urinary system",
+      "function": "Stores urine before it is expelled from the body.",
+      "location": "Pelvis",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/bladder.json"
+    },
+    {
+      "id": "ureters",
+      "name": "Ureters",
+      "system": "Urinary system",
+      "function": "Carry urine from the kidneys to the bladder.",
+      "location": "From kidneys to bladder",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/ureters.json"
+    },
+    {
+      "id": "urethra",
+      "name": "Urethra",
+      "system": "Urinary system",
+      "function": "Conducts urine from the bladder out of the body.",
+      "location": "From bladder to exterior",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/urethra.json"
+    },
+    {
+      "id": "skin",
+      "name": "Skin",
+      "system": "Integumentary system",
+      "function": "Protects the body, regulates temperature, and senses the environment.",
+      "location": "Entire external surface of the body",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/skin.json"
+    },
+    {
+      "id": "spleen",
+      "name": "Spleen",
+      "system": "Lymphatic system",
+      "function": "Filters blood and helps fight infection.",
+      "location": "Upper left abdomen, behind the stomach",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/spleen.json"
+    },
+    {
+      "id": "thymus",
+      "name": "Thymus",
+      "system": "Lymphatic system",
+      "function": "Matures T-lymphocytes for the immune system.",
+      "location": "Upper chest, behind the sternum",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/thymus.json"
+    },
+    {
+      "id": "tonsils",
+      "name": "Tonsils",
+      "system": "Lymphatic system",
+      "function": "Trap pathogens entering through the mouth and nose.",
+      "location": "Back of the throat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/tonsils.json"
+    },
+    {
+      "id": "thyroid",
+      "name": "Thyroid gland",
+      "system": "Endocrine system",
+      "function": "Secretes hormones that regulate metabolism.",
+      "location": "Front of the neck",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/thyroid.json"
+    },
+    {
+      "id": "pituitary",
+      "name": "Pituitary gland",
+      "system": "Endocrine system",
+      "function": "Master gland that regulates other endocrine glands.",
+      "location": "Base of the brain",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/pituitary.json"
+    },
+    {
+      "id": "adrenal-glands",
+      "name": "Adrenal glands",
+      "system": "Endocrine system",
+      "function": "Produce hormones such as adrenaline and cortisol.",
+      "location": "On top of each kidney",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/adrenal-glands.json"
+    },
+    {
+      "id": "eyes",
+      "name": "Eyes",
+      "system": "Nervous system",
+      "function": "Detect light to provide the sense of vision.",
+      "location": "Eye sockets of the skull",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/eyes.json"
+    },
+    {
+      "id": "ears",
+      "name": "Ears",
+      "system": "Nervous system",
+      "function": "Detect sound and help maintain balance.",
+      "location": "Either side of the head",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/ears.json"
+    },
+    {
+      "id": "tongue",
+      "name": "Tongue",
+      "system": "Digestive system",
+      "function": "Manipulates food, aids speech, and senses taste.",
+      "location": "Floor of the mouth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/tongue.json"
+    },
+    {
+      "id": "ovaries",
+      "name": "Ovaries",
+      "system": "Reproductive system",
+      "function": "Produce egg cells and female sex hormones.",
+      "location": "Pelvis, either side of the uterus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/ovaries.json"
+    },
+    {
+      "id": "uterus",
+      "name": "Uterus",
+      "system": "Reproductive system",
+      "function": "Houses and nourishes a developing fetus.",
+      "location": "Female pelvis",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/uterus.json"
+    },
+    {
+      "id": "testes",
+      "name": "Testes",
+      "system": "Reproductive system",
+      "function": "Produce sperm and male sex hormones.",
+      "location": "Scrotum",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/testes.json"
+    },
+    {
+      "id": "prostate",
+      "name": "Prostate gland",
+      "system": "Reproductive system",
+      "function": "Produces fluid that nourishes and transports sperm.",
+      "location": "Below the male bladder",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/prostate.json"
+    }
+  ]
+}

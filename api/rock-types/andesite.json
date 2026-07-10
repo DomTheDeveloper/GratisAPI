@@ -1,0 +1,8 @@
+{
+  "id": "andesite",
+  "name": "Andesite",
+  "type": "Igneous",
+  "description": "Fine-grained volcanic rock common in continental arc volcanoes.",
+  "common_use": "Construction aggregate.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/andesite.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "glutamine",
+  "name": "Glutamine",
+  "three_letter": "Gln",
+  "one_letter": "Q",
+  "essential": false,
+  "polarity": "Polar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/glutamine.json"
+}

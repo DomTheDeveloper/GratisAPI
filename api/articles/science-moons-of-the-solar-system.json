@@ -1,0 +1,17 @@
+{
+  "id": "science-moons-of-the-solar-system",
+  "title": "The Moons of the Solar System",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-08-14",
+  "tags": [
+    "astronomy",
+    "moons",
+    "solar-system"
+  ],
+  "summary": "The solar system hosts hundreds of moons, ranging from tiny captured rocks to worlds larger than the planet Mercury.",
+  "body": "Planets rarely travel alone. Circling most of them are moons, natural satellites that range from irregular chunks of rock a few kilometers across to giant worlds with atmospheres and underground oceans. The solar system contains hundreds of confirmed moons, and the count keeps rising as astronomers spot ever smaller ones.\n\nEarth has just one Moon, but it is unusually large relative to its planet and stabilizes our climate by keeping the tilt of Earth's axis steady. The gas and ice giants, by contrast, command whole swarms of satellites. Jupiter and Saturn each have dozens of confirmed moons, while Mercury and Venus have none at all.\n\nSome moons are remarkable worlds in their own right. Jupiter's Ganymede is the largest moon in the solar system, bigger than the planet Mercury, and it even generates its own magnetic field. Saturn's Titan is wrapped in a thick orange atmosphere and has lakes of liquid methane on its surface. Several icy moons, including Jupiter's Europa and Saturn's Enceladus, are believed to hide vast oceans of liquid water beneath their frozen crusts, making them prime targets in the search for life beyond Earth. Enceladus even sprays plumes of water vapor into space through cracks near its south pole.\n\nMoons form in several ways. Large regular moons often condense from disks of debris around a newborn planet, while small irregular ones are frequently asteroids or comets captured by a planet's gravity. Mars owes its two tiny lumpy moons, Phobos and Deimos, to just such a capture.\n\nYou can browse notable moons across the solar system, along with the planets they orbit, through the GratisAPI endpoint at /api/moons/index.json.",
+  "word_count": 271,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-moons-of-the-solar-system.json"
+}

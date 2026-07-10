@@ -1,0 +1,7 @@
+{
+  "id": "not",
+  "keyword": "NOT",
+  "category": "Operator",
+  "description": "Negates a condition.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/not.json"
+}

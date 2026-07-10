@@ -1,0 +1,8 @@
+{
+  "id": "boxing",
+  "name": "Boxing",
+  "origin_country": "United Kingdom",
+  "type": "Striking",
+  "description": "Combat sport contested with punches thrown by gloved fists.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/boxing.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "rowing",
+  "name": "Rowing",
+  "category": "Summer",
+  "type": "Team",
+  "first_olympics_year": 1900,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/rowing.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dada",
+  "name": "Dada",
+  "period": "1910s-1920s",
+  "origin_region": "Switzerland",
+  "key_artists": [
+    "Marcel Duchamp",
+    "Hans Arp",
+    "Man Ray"
+  ],
+  "description": "Anti-art movement embracing absurdity and chance in reaction to war.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/dada.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "teide",
+  "name": "Mount Teide",
+  "country": "Spain",
+  "type": "Stratovolcano",
+  "elevation_m": 3715,
+  "last_major_eruption": 1909,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/teide.json"
+}

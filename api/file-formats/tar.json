@@ -1,0 +1,8 @@
+{
+  "id": "tar",
+  "extension": ".tar",
+  "name": "Tape Archive",
+  "category": "Archive",
+  "description": "A format that bundles multiple files into one, often compressed separately.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/tar.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pumice",
+  "name": "Pumice",
+  "type": "Igneous",
+  "description": "Light, porous volcanic rock full of gas bubbles that can float on water.",
+  "common_use": "Abrasives and lightweight concrete.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/pumice.json"
+}

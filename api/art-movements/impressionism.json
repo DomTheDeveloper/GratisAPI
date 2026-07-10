@@ -1,0 +1,13 @@
+{
+  "id": "impressionism",
+  "name": "Impressionism",
+  "period": "1860s-1880s",
+  "origin_region": "France",
+  "key_artists": [
+    "Claude Monet",
+    "Pierre-Auguste Renoir",
+    "Edgar Degas"
+  ],
+  "description": "Style capturing fleeting light and atmosphere with loose, visible brushwork.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/impressionism.json"
+}

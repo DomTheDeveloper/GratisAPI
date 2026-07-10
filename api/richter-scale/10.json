@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "magnitude_range": "10.0 and greater",
+  "class": "Epic",
+  "effects": "Never recorded; theoretical extreme magnitude.",
+  "approx_frequency_per_year": null,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/10.json"
+}

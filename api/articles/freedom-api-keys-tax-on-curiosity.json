@@ -1,0 +1,17 @@
+{
+  "id": "freedom-api-keys-tax-on-curiosity",
+  "title": "Why API Keys Are a Tax on Curiosity",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-03-08",
+  "tags": [
+    "api-keys",
+    "friction",
+    "access"
+  ],
+  "summary": "Mandatory API keys add friction that discourages casual exploration, quietly taxing the curiosity that drives learning and experimentation.",
+  "body": "Requiring an API key before anyone can make a single request is so common that it is rarely questioned. Yet mandatory keys impose a quiet cost on the very thing that makes technology vibrant: casual, low-stakes curiosity. In that sense a key requirement functions as a tax on exploration.\n\nConsider the path a key demands. To try an API, you must find the signup page, create an account, verify an email, perhaps confirm a phone number, accept terms of service, generate a key, and store it securely. Only then can you make the request you wanted to make ten minutes ago. Each step is small, but together they turn a moment of curiosity into a chore.\n\nMost curiosity does not survive that friction. A student wondering how an API responds, a developer testing an idea at midnight, a teacher building a quick classroom example, a person simply poking at how something works, all of them are more likely to give up than to complete a registration flow. The ideas that die at the signup wall are invisible, but they are real.\n\nKeys exist for reasons, of course. They enable rate limiting, usage tracking, abuse prevention, and billing. For a commercial service metering paid access, keys make sense. But for open, public data, the justification is weaker, and the tracking that keys enable is often a cost to users rather than a benefit.\n\nThere are gentler ways to protect a service. Anonymous rate limiting by address, static hosting that scales cheaply, and caching can handle load without demanding identity from every visitor. A public well does not ask for your name before you drink.\n\nGratisAPI requires no keys at all. You can make your first request immediately, with a single line, before curiosity has a chance to cool. Removing that tax is a deliberate design choice, because the experiments people never start are the most expensive ones of all.",
+  "word_count": 318,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-api-keys-tax-on-curiosity.json"
+}

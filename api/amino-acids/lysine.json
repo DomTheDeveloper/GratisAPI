@@ -1,0 +1,9 @@
+{
+  "id": "lysine",
+  "name": "Lysine",
+  "three_letter": "Lys",
+  "one_letter": "K",
+  "essential": true,
+  "polarity": "Basic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/lysine.json"
+}

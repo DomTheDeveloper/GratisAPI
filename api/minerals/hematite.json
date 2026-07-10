@@ -1,0 +1,9 @@
+{
+  "id": "hematite",
+  "name": "Hematite",
+  "chemical_formula": "Fe2O3",
+  "mohs_hardness": 6.0,
+  "color": "Steel grey to reddish brown",
+  "luster": "Metallic to earthy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/hematite.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "hekla",
+  "name": "Hekla",
+  "country": "Iceland",
+  "type": "Stratovolcano",
+  "elevation_m": 1491,
+  "last_major_eruption": 2000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/hekla.json"
+}

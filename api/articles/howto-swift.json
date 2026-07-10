@@ -1,0 +1,17 @@
+{
+  "id": "howto-swift",
+  "title": "Consuming GratisAPI in Swift",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-04-08",
+  "tags": [
+    "swift",
+    "urlsession",
+    "codable"
+  ],
+  "summary": "Fetch GratisAPI data in Swift with URLSession and decode it using Codable structs.",
+  "body": "Swift's URLSession and the Codable protocol make consuming GratisAPI clean and type-safe, which is ideal for iOS, macOS, and server-side Swift projects. Because the endpoints are static JSON files with no keys, the networking code is minimal.\n\nStart by defining Codable structs that mirror the response. Swift's JSONDecoder maps JSON keys to your properties automatically when the names match:\n\nstruct Response: Codable {\n    let count: Int\n    let quotes: [Quote]\n}\n\nstruct Quote: Codable {\n    let text: String\n    let author: String\n}\n\nThen fetch and decode using the async URLSession API:\n\nlet url = URL(string: \"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")!\nlet (data, _) = try await URLSession.shared.data(from: url)\nlet result = try JSONDecoder().decode(Response.self, from: data)\nprint(\"Loaded \\(result.count) quotes\")\n\nThe data(from:) method returns the body and a response object; you can inspect the response as an HTTPURLResponse to check the status code before trusting the payload. The try keyword surfaces both network and decoding errors, so wrap the call in a do/catch to handle them gracefully.\n\nIf JSON keys use a different style than your Swift properties, set the decoder's keyDecodingStrategy or provide CodingKeys. Mark optional fields with a question mark so a missing value does not cause the decode to throw.\n\nBecause GratisAPI returns entire collections, one request gives you an array to drive a SwiftUI list or a table view. In SwiftUI you might call this loader from a task modifier and store the result in an observable model. With no authentication and no rate limits, GratisAPI integrates smoothly into the Swift concurrency model, giving you strongly typed open data with very little code and full compile-time safety about its structure.",
+  "word_count": 267,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-swift.json"
+}

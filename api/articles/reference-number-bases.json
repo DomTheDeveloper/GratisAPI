@@ -1,0 +1,17 @@
+{
+  "id": "reference-number-bases",
+  "title": "Number Bases and Binary",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-09-18",
+  "tags": [
+    "binary",
+    "number-bases",
+    "cs"
+  ],
+  "summary": "Number bases are different ways of writing numbers, and computers rely on base two, or binary.",
+  "body": "We usually count in tens without thinking about why. The decimal system uses ten digits, zero through nine, and each position in a number counts a power of ten. But ten is not special to mathematics; it is just the number of fingers we happen to have. Numbers can be written in any base, and computers use a different one.\n\nComputers work in binary, or base two, which uses only two digits, zero and one. Each position counts a power of two rather than ten. So the binary number one zero one one means one eight, no fours, one two, and one one, which totals eleven in decimal. Binary suits computers because a circuit can easily represent two states, on and off, but not ten reliably.\n\nBinary numbers grow long quickly, so programmers often use hexadecimal, or base sixteen, as a compact shorthand. Because sixteen is two to the fourth power, each hexadecimal digit stands for exactly four binary digits, making conversion effortless. Hexadecimal uses the digits zero through nine and then the letters A through F for the values ten through fifteen. This is why color codes and memory addresses are often written in hex.\n\nOctal, or base eight, works on the same principle with each digit standing for three binary digits, though it is less common today. Converting between bases is a matter of grouping bits or repeatedly dividing, and once the pattern clicks it becomes routine.\n\nThe key insight is that the number itself does not change between bases, only the way we write it. Eleven objects are eleven objects whether you write the count in decimal, binary, or hex. The base is just notation.\n\nGratisAPI offers a reference at /api/number-bases/index.json that shows values across common bases side by side, which is useful for building converters or checking your own conversions. Understanding bases demystifies a great deal of low level computing, from bit manipulation to memory addresses, and it reveals that our everyday base ten is only one choice among many.",
+  "word_count": 334,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-number-bases.json"
+}

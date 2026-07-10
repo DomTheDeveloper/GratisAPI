@@ -1,0 +1,17 @@
+{
+  "id": "science-ph-scale",
+  "title": "The pH Scale",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-09-23",
+  "tags": [
+    "chemistry",
+    "acids",
+    "ph"
+  ],
+  "summary": "The pH scale measures how acidic or basic a solution is, running from strong acids at zero to strong bases at fourteen.",
+  "body": "Whether a liquid is a mild acid like lemon juice or a caustic base like drain cleaner is captured by a single number: its pH. The pH scale is one of chemistry's most useful measurements, telling us at a glance how acidic or basic, also called alkaline, a water based solution is.\n\nThe scale typically runs from 0 to 14. A pH of 7 is neutral, the value of pure water. Numbers below 7 indicate acidity, and the lower the number the stronger the acid, so stomach acid near 2 and battery acid near 0 sit at the extreme. Numbers above 7 indicate a base, and the higher the number the stronger the base, with household ammonia around 11 and lye near 14. Everyday substances span the range: black coffee is mildly acidic near 5, while baking soda in water is mildly basic near 9.\n\nBehind the number is the concentration of hydrogen ions in the solution. More precisely, pH is defined as the negative logarithm of the hydrogen ion concentration. Because it is a logarithmic scale, each whole step represents a tenfold change. A solution of pH 4 is ten times more acidic than one of pH 5 and a hundred times more acidic than one of pH 6. This is why small differences in pH can have large effects.\n\npH matters far beyond the laboratory. Blood must stay within a narrow range near 7.4, and even slight deviations are dangerous. Soil pH determines which crops will thrive, aquariums must be kept balanced for fish to survive, and swimming pools are constantly adjusted. Chemists measure pH with electronic meters or with indicator dyes such as litmus paper, which turns red in acid and blue in base.",
+  "word_count": 287,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-ph-scale.json"
+}

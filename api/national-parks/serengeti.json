@@ -1,0 +1,9 @@
+{
+  "id": "serengeti",
+  "name": "Serengeti National Park",
+  "country": "Tanzania",
+  "established_year": 1951,
+  "area_km2": 14750,
+  "notable_feature": "The great wildebeest migration across endless plains.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/serengeti.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "suprematism",
+  "name": "Suprematism",
+  "period": "1910s-1920s",
+  "origin_region": "Russia",
+  "key_artists": [
+    "Kazimir Malevich"
+  ],
+  "description": "Pure abstraction reduced to basic geometric shapes and limited color.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/suprematism.json"
+}

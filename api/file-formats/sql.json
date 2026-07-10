@@ -1,0 +1,8 @@
+{
+  "id": "sql",
+  "extension": ".sql",
+  "name": "SQL Script",
+  "category": "Data",
+  "description": "A file containing SQL statements for a database.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/sql.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "judo",
+  "name": "Judo",
+  "origin_country": "Japan",
+  "type": "Grappling",
+  "description": "Modern Japanese art focused on throws and pinning an opponent.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/judo.json"
+}

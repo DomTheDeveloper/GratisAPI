@@ -1,0 +1,9 @@
+{
+  "id": "peppermint",
+  "name": "Peppermint",
+  "type": "Herbal",
+  "origin_region": "Europe",
+  "caffeine": "None",
+  "notes": "Cooling, minty infusion often used to aid digestion.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/peppermint.json"
+}

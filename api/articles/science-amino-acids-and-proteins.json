@@ -1,0 +1,17 @@
+{
+  "id": "science-amino-acids-and-proteins",
+  "title": "Amino Acids and Proteins",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-10-17",
+  "tags": [
+    "biology",
+    "biochemistry",
+    "proteins"
+  ],
+  "summary": "Amino acids are the building blocks that link together to form proteins, the molecular machines that run nearly every process in living cells.",
+  "body": "Proteins do most of the work inside living things. They build tissues, speed up chemical reactions, carry oxygen, fight infection, and relay signals. Yet for all their variety, every protein is assembled from the same small set of building blocks: the amino acids.\n\nThere are twenty standard amino acids used to build proteins in living organisms. Each one shares a common core structure, a central carbon atom bonded to an amino group, an acid group, and a hydrogen, but each carries a distinct side chain that gives it a unique character. Some side chains are water loving, others water repelling, some carry electric charge, and these differences determine how the finished protein behaves.\n\nAmino acids link together like beads on a string through bonds called peptide bonds, forming long chains. The particular sequence of amino acids in a chain is dictated by the genetic code stored in DNA. That sequence is everything, because the chain does not stay stretched out. It folds spontaneously into a precise three dimensional shape, and this shape determines the protein's function. A misfolded protein can fail entirely or even cause disease.\n\nFor humans, nine of the twenty amino acids are considered essential, meaning our bodies cannot manufacture them and we must obtain them from food. Proteins from animal sources generally contain all nine, while plant foods can be combined to supply the full set. The remaining amino acids are termed non essential because our cells can build them as needed.\n\nThe elegance of the system is that just twenty building blocks, arranged in different orders and lengths, can create the countless proteins that make life possible, from the keratin in hair to the enzymes digesting your last meal. You can explore the twenty amino acids and their properties through the GratisAPI endpoint at /api/amino-acids/index.json.",
+  "word_count": 299,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-amino-acids-and-proteins.json"
+}

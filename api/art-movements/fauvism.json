@@ -1,0 +1,12 @@
+{
+  "id": "fauvism",
+  "name": "Fauvism",
+  "period": "1900s-1910s",
+  "origin_region": "France",
+  "key_artists": [
+    "Henri Matisse",
+    "André Derain"
+  ],
+  "description": "Movement using intense, non-naturalistic color for emotional impact.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/fauvism.json"
+}

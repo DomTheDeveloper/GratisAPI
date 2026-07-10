@@ -1,0 +1,8 @@
+{
+  "id": 5,
+  "name": "Tabasco Sauce",
+  "scoville_min": 2500,
+  "scoville_max": 5000,
+  "type": "Sauce",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/5.json"
+}

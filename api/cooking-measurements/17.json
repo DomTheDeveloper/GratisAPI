@@ -1,0 +1,10 @@
+{
+  "id": 17,
+  "unit": "Pound",
+  "abbreviation": "lb",
+  "type": "Weight",
+  "milliliters": null,
+  "grams": 453.59,
+  "note": "Equals 16 ounces.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/17.json"
+}

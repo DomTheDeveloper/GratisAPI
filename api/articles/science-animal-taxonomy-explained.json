@@ -1,0 +1,17 @@
+{
+  "id": "science-animal-taxonomy-explained",
+  "title": "Animal Taxonomy Explained",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-01-13",
+  "tags": [
+    "biology",
+    "taxonomy",
+    "animals"
+  ],
+  "summary": "Taxonomy is the science of naming and classifying living things, organizing the animal kingdom into a nested hierarchy from kingdom down to species.",
+  "body": "With millions of animal species sharing the planet, biologists need a systematic way to name and organize them. That system is called taxonomy, and its foundations were laid in the eighteenth century by the Swedish naturalist Carl Linnaeus.\n\nThe heart of the system is a nested hierarchy of ranks. From the broadest to the most specific, the main levels are kingdom, phylum, class, order, family, genus, and species. Each animal belongs to one group at every level. A domestic dog, for instance, belongs to the kingdom Animalia, the phylum Chordata, the class Mammalia, the order Carnivora, the family Canidae, the genus Canis, and the species familiaris. Students often memorize the order with a phrase such as King Philip Came Over For Good Soup.\n\nLinnaeus also gave us binomial nomenclature, the two part scientific name every species carries. The name combines the genus and species, always written in italics with the genus capitalized, as in Canis familiaris or Homo sapiens. This universal naming avoids the confusion of common names, which vary by language and region and sometimes apply to several different animals.\n\nModern taxonomy has evolved beyond simply grouping animals by appearance. Today classification aims to reflect evolutionary relationships, so that groups share a common ancestor. DNA analysis has reshaped parts of the tree of life, sometimes revealing that creatures which look alike are only distantly related, or that unlikely looking animals are close cousins.\n\nUnderstanding these ranks helps make sense of biodiversity and how species relate to one another. You can browse animals along with their classification details through the GratisAPI endpoint at /api/animals/index.json.",
+  "word_count": 264,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-animal-taxonomy-explained.json"
+}

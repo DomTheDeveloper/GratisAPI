@@ -1,0 +1,17 @@
+{
+  "id": "howto-color-palette-picker",
+  "title": "Building a Color-Palette Picker",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-08-14",
+  "tags": [
+    "javascript",
+    "colors",
+    "ui"
+  ],
+  "summary": "Use the GratisAPI colors endpoint to build an interactive named-color palette picker.",
+  "body": "The colors collection makes an excellent basis for an interactive palette picker. Each record includes a name and its hex, RGB, and HSL values, so you have everything needed to render swatches and copy values on click.\n\nFetch the endpoint at /api/colors/index.json and build a swatch for each record. Set each swatch's background to the color's hex value:\n\nasync function buildPalette() {\n  const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\");\n  const data = await res.json();\n  const container = document.getElementById(\"palette\");\n  data.colors.forEach(c => {\n    const swatch = document.createElement(\"div\");\n    swatch.style.background = c.hex;\n    swatch.title = c.name;\n    swatch.addEventListener(\"click\", () => navigator.clipboard.writeText(c.hex));\n    container.appendChild(swatch);\n  });\n}\n\nbuildPalette();\n\nSetting the title attribute gives each swatch a hover tooltip with the color name, and the click handler copies the hex value to the clipboard using the Clipboard API, a small touch that makes the picker genuinely useful for designers.\n\nBecause the full collection loads in one request, adding features costs nothing in extra network calls. You can add a search box that filters the swatches by name in memory, or sort the array by hue using the HSL values each record provides. A toggle could switch the copied value between hex, RGB, and HSL formats, since all three are present in the data.\n\nLay the swatches out with CSS grid or flexbox so they wrap responsively, and add a label that appears on hover showing the name and value together. Handle errors by wrapping the fetch in try/catch and showing a message if the request fails.\n\nThe finished picker is a single static page powered entirely by GratisAPI, with no build step, no keys, and no server. It demonstrates how a well-shaped open dataset can drive a polished, practical tool with only a modest amount of front-end code.",
+  "word_count": 286,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-color-palette-picker.json"
+}

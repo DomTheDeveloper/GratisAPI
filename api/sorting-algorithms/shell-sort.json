@@ -1,0 +1,10 @@
+{
+  "id": "shell-sort",
+  "name": "Shell Sort",
+  "best_case": "O(n log n)",
+  "average_case": "O(n^1.5)",
+  "worst_case": "O(n^2)",
+  "space_complexity": "O(1)",
+  "stable": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/shell-sort.json"
+}

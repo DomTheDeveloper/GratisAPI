@@ -1,0 +1,7 @@
+{
+  "id": "grant",
+  "keyword": "GRANT",
+  "category": "DCL",
+  "description": "Gives specific privileges to a database user or role.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/grant.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "symbolism",
+  "name": "Symbolism",
+  "period": "1880s-1910s",
+  "origin_region": "France",
+  "key_artists": [
+    "Gustav Klimt",
+    "Odilon Redon",
+    "Gustave Moreau"
+  ],
+  "description": "Movement expressing ideas and emotions through suggestive, mystical imagery.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/symbolism.json"
+}

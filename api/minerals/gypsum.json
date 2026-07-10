@@ -1,0 +1,9 @@
+{
+  "id": "gypsum",
+  "name": "Gypsum",
+  "chemical_formula": "CaSO4·2H2O",
+  "mohs_hardness": 2.0,
+  "color": "Colorless, white, or grey",
+  "luster": "Vitreous to silky",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/gypsum.json"
+}

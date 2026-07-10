@@ -1,0 +1,9 @@
+{
+  "id": "phoenix",
+  "name": "Phoenix",
+  "agency": "NASA",
+  "launch_year": 2007,
+  "status": "Inactive",
+  "mission": "Lander that confirmed subsurface water ice in the Martian arctic.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/phoenix.json"
+}

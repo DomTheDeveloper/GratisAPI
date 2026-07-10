@@ -1,0 +1,9 @@
+{
+  "id": "windows-10",
+  "name": "Windows 10",
+  "family": "Windows",
+  "first_release_year": 2015,
+  "developer": "Microsoft",
+  "kernel": "Windows NT",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-10.json"
+}

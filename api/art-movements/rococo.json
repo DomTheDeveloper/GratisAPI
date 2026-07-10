@@ -1,0 +1,13 @@
+{
+  "id": "rococo",
+  "name": "Rococo",
+  "period": "1700s-1760s",
+  "origin_region": "France",
+  "key_artists": [
+    "Jean-Honoré Fragonard",
+    "François Boucher",
+    "Antoine Watteau"
+  ],
+  "description": "Light, decorative style with pastel colors and playful, aristocratic themes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/rococo.json"
+}

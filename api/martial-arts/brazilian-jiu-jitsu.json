@@ -1,0 +1,8 @@
+{
+  "id": "brazilian-jiu-jitsu",
+  "name": "Brazilian Jiu-Jitsu",
+  "origin_country": "Brazil",
+  "type": "Grappling",
+  "description": "Ground-fighting art focused on submissions via joint locks and chokes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/martial-arts/brazilian-jiu-jitsu.json"
+}

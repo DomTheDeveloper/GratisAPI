@@ -1,0 +1,8 @@
+{
+  "id": "range",
+  "header": "Range",
+  "type": "Request",
+  "description": "Requests only part of a resource, specified as byte ranges.",
+  "example": "bytes=0-1023",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/range.json"
+}

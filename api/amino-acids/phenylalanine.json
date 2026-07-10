@@ -1,0 +1,9 @@
+{
+  "id": "phenylalanine",
+  "name": "Phenylalanine",
+  "three_letter": "Phe",
+  "one_letter": "F",
+  "essential": true,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/phenylalanine.json"
+}

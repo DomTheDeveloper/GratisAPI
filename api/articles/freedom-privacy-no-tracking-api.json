@@ -1,0 +1,17 @@
+{
+  "id": "freedom-privacy-no-tracking-api",
+  "title": "Privacy and a No-Tracking API",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-07-20",
+  "tags": [
+    "privacy",
+    "tracking",
+    "surveillance"
+  ],
+  "summary": "An API that tracks its users turns a simple tool into a surveillance instrument; refusing to track is a deliberate act of respect.",
+  "body": "Every request to an API can, in principle, be logged, profiled, and tied back to whoever made it. Over time these records reveal a great deal: what a developer is building, what a researcher is investigating, what questions a person is asking of the world. An API that tracks its users quietly becomes an instrument of surveillance, whatever its stated purpose.\n\nTracking usually rides in on the requirement to identify yourself. API keys, accounts, and tokens exist partly to attach a name to every request. Once requests are tied to identity, they can be aggregated into a profile, retained indefinitely, analyzed, and sometimes sold or handed over. The convenience of a key and the surveillance it enables are two sides of one design.\n\nThe harms are not hypothetical. Usage data can expose confidential projects to competitors, reveal a journalist's sources through the pattern of their queries, or chill the simple curiosity of someone afraid to ask a question that might be recorded. Even when no misuse occurs, the mere knowledge that one is watched changes behavior. Surveillance narrows the range of what people feel free to explore.\n\nThe standard justifications for tracking, abuse prevention and analytics, rarely require identifying individuals. Load can be managed with anonymous, address based rate limiting. Aggregate demand can be understood without building dossiers. The choice to track people is usually a choice, not a necessity.\n\nA no-tracking API takes the opposite stance. It asks for no account, sets no cookies, plants no analytics beacons, and keeps no profile of who you are or what you are doing. The tool does its job and forgets you, as a good tool should. What it does not collect, it cannot leak, sell, or be compelled to reveal.\n\nGratisAPI is designed to be forgettable in exactly this way. There is no key to tie requests to you and nothing that watches what you build. Privacy here is not a policy promise but a property of the design, and that is deliberate.",
+  "word_count": 332,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-privacy-no-tracking-api.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "world-currencies-explained",
+  "title": "World Currencies Explained",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-02-08",
+  "tags": [
+    "currencies",
+    "economics"
+  ],
+  "summary": "There are around 180 currencies in circulation worldwide, each identified by a three-letter code. This article introduces how currencies are named, coded, and used.",
+  "body": "Every day trillions of units of value change hands in currencies whose names most of us never encounter. There are roughly 180 currencies recognised as legal tender around the world, though the exact count shifts as nations adopt shared money or introduce new units.\n\nThe backbone of the modern system is the ISO 4217 standard, which assigns each currency a three-letter code. The first two letters usually match the country code and the third names the currency itself, so the United States dollar becomes USD, the British pound becomes GBP, and the Japanese yen becomes JPY. These codes make international banking and travel far less error prone than spelled out names would be.\n\nSome currencies are shared across many countries. The euro, introduced in 1999, is used by twenty European Union members and several other territories. The CFA franc circulates across much of West and Central Africa. Sharing a currency removes exchange costs between partners but also removes each country's ability to set its own monetary policy.\n\nCurrencies also carry deep cultural weight. Symbols such as the dollar sign, the pound sign, and the yen sign are instantly recognisable, and the imagery on banknotes often celebrates national heroes, landmarks, and wildlife. A country's money is one of the most widely circulated pieces of design it ever produces.\n\nThe GratisAPI currencies dataset at /api/currencies/index.json lists codes, names, and symbols in a clean format suitable for building converters, e-commerce checkouts, or educational tools. Because exchange rates move constantly, the dataset focuses on stable reference information rather than live prices, giving you a reliable foundation to combine with a rates feed of your choosing.",
+  "word_count": 271,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-currencies-explained.json"
+}

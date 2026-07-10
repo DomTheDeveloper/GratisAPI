@@ -1,0 +1,9 @@
+{
+  "id": "reblochon",
+  "name": "Reblochon",
+  "country_of_origin": "France",
+  "milk": "Cow",
+  "texture": "Soft",
+  "flavor": "Nutty, fruity, and creamy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/reblochon.json"
+}

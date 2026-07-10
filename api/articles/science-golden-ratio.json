@@ -1,0 +1,17 @@
+{
+  "id": "science-golden-ratio",
+  "title": "The Golden Ratio",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-12-07",
+  "tags": [
+    "mathematics",
+    "golden-ratio",
+    "geometry"
+  ],
+  "summary": "The golden ratio is a special proportion, roughly 1.618, that appears in geometry, nature, and art and is intimately tied to the Fibonacci sequence.",
+  "body": "Among the mathematical constants, few have captured the imagination like the golden ratio. Denoted by the Greek letter phi, it has a value of approximately 1.61803. It is defined by a simple geometric idea: divide a line into two parts so that the ratio of the whole to the longer part equals the ratio of the longer part to the shorter part. Only one proportion satisfies this, and that proportion is the golden ratio.\n\nPhi has some remarkable algebraic properties. Its square equals itself plus one, and its reciprocal equals itself minus one. These tidy relationships fall out directly from its definition and make phi unique among numbers.\n\nThe golden ratio is deeply connected to the Fibonacci sequence, the series in which each number is the sum of the two before it: 1, 1, 2, 3, 5, 8, 13, and so on. As you go further along the sequence, the ratio of each number to the one before it draws ever closer to phi. This link ties the golden ratio to real patterns in nature, since Fibonacci numbers appear in the spiral arrangements of sunflower seeds, pinecones, and the branching of plants, arrangements that pack elements efficiently.\n\nThe golden ratio has a long history in art and architecture, where it is often claimed to produce especially pleasing proportions. Some of these claims are genuine and deliberate, while others are romantic exaggerations read into buildings and paintings after the fact. Either way, the golden rectangle, whose sides are in the golden ratio, remains a favorite tool of designers.\n\nGeometrically, phi is woven into the five pointed star and the regular pentagon, where the ratio of a diagonal to a side is exactly the golden ratio. You can find phi and its properties through the GratisAPI endpoint at /api/math-constants/index.json.",
+  "word_count": 297,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-golden-ratio.json"
+}

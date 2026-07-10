@@ -1,0 +1,7 @@
+{
+  "id": "distinct",
+  "keyword": "DISTINCT",
+  "category": "Clause",
+  "description": "Removes duplicate rows from the result set.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/distinct.json"
+}

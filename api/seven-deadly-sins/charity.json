@@ -1,0 +1,9 @@
+{
+  "id": "charity",
+  "name": "Charity",
+  "type": "Virtue",
+  "latin": "Caritas",
+  "opposite": "Greed",
+  "description": "Selfless love and generosity toward others and toward God.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/charity.json"
+}

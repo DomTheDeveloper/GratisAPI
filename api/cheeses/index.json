@@ -1,0 +1,347 @@
+{
+  "api": "cheeses",
+  "title": "Cheeses",
+  "description": "A collection of famous cheeses with their country of origin, milk type, texture, and flavor.",
+  "emoji": "🧀",
+  "license": "GPL-2.0-or-later",
+  "count": 36,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/{id}.json"
+  },
+  "fields": [
+    "country_of_origin",
+    "flavor",
+    "id",
+    "milk",
+    "name",
+    "texture"
+  ],
+  "results": [
+    {
+      "id": "cheddar",
+      "name": "Cheddar",
+      "country_of_origin": "England",
+      "milk": "Cow",
+      "texture": "Hard",
+      "flavor": "Sharp, tangy, and nutty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/cheddar.json"
+    },
+    {
+      "id": "brie",
+      "name": "Brie",
+      "country_of_origin": "France",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Buttery, creamy, and mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/brie.json"
+    },
+    {
+      "id": "camembert",
+      "name": "Camembert",
+      "country_of_origin": "France",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Earthy, mushroomy, and rich",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/camembert.json"
+    },
+    {
+      "id": "roquefort",
+      "name": "Roquefort",
+      "country_of_origin": "France",
+      "milk": "Sheep",
+      "texture": "Blue",
+      "flavor": "Sharp, salty, and tangy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/roquefort.json"
+    },
+    {
+      "id": "gruyere",
+      "name": "Gruyere",
+      "country_of_origin": "Switzerland",
+      "milk": "Cow",
+      "texture": "Hard",
+      "flavor": "Nutty, sweet, and slightly salty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gruyere.json"
+    },
+    {
+      "id": "emmental",
+      "name": "Emmental",
+      "country_of_origin": "Switzerland",
+      "milk": "Cow",
+      "texture": "Hard",
+      "flavor": "Mild, buttery, and nutty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/emmental.json"
+    },
+    {
+      "id": "gouda",
+      "name": "Gouda",
+      "country_of_origin": "Netherlands",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Sweet, caramel-like, and creamy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gouda.json"
+    },
+    {
+      "id": "edam",
+      "name": "Edam",
+      "country_of_origin": "Netherlands",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Mild, slightly salty, and nutty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/edam.json"
+    },
+    {
+      "id": "parmigiano-reggiano",
+      "name": "Parmigiano-Reggiano",
+      "country_of_origin": "Italy",
+      "milk": "Cow",
+      "texture": "Hard",
+      "flavor": "Nutty, savory, and umami-rich",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/parmigiano-reggiano.json"
+    },
+    {
+      "id": "mozzarella",
+      "name": "Mozzarella",
+      "country_of_origin": "Italy",
+      "milk": "Buffalo",
+      "texture": "Soft",
+      "flavor": "Mild, milky, and fresh",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/mozzarella.json"
+    },
+    {
+      "id": "gorgonzola",
+      "name": "Gorgonzola",
+      "country_of_origin": "Italy",
+      "milk": "Cow",
+      "texture": "Blue",
+      "flavor": "Sharp, salty, and tangy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gorgonzola.json"
+    },
+    {
+      "id": "pecorino-romano",
+      "name": "Pecorino Romano",
+      "country_of_origin": "Italy",
+      "milk": "Sheep",
+      "texture": "Hard",
+      "flavor": "Salty, sharp, and tangy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/pecorino-romano.json"
+    },
+    {
+      "id": "ricotta",
+      "name": "Ricotta",
+      "country_of_origin": "Italy",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Mild, sweet, and creamy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/ricotta.json"
+    },
+    {
+      "id": "provolone",
+      "name": "Provolone",
+      "country_of_origin": "Italy",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Mild to sharp, smooth, and savory",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/provolone.json"
+    },
+    {
+      "id": "fontina",
+      "name": "Fontina",
+      "country_of_origin": "Italy",
+      "milk": "Cow",
+      "texture": "Semi-soft",
+      "flavor": "Nutty, earthy, and mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/fontina.json"
+    },
+    {
+      "id": "manchego",
+      "name": "Manchego",
+      "country_of_origin": "Spain",
+      "milk": "Sheep",
+      "texture": "Hard",
+      "flavor": "Nutty, tangy, and slightly sweet",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/manchego.json"
+    },
+    {
+      "id": "feta",
+      "name": "Feta",
+      "country_of_origin": "Greece",
+      "milk": "Sheep",
+      "texture": "Soft",
+      "flavor": "Salty, tangy, and briny",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/feta.json"
+    },
+    {
+      "id": "halloumi",
+      "name": "Halloumi",
+      "country_of_origin": "Cyprus",
+      "milk": "Mixed",
+      "texture": "Semi-hard",
+      "flavor": "Salty and mild, with a firm springy bite",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/halloumi.json"
+    },
+    {
+      "id": "gorgonzola-dolce",
+      "name": "Gorgonzola Dolce",
+      "country_of_origin": "Italy",
+      "milk": "Cow",
+      "texture": "Blue",
+      "flavor": "Creamy, mild, and sweet",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gorgonzola-dolce.json"
+    },
+    {
+      "id": "stilton",
+      "name": "Stilton",
+      "country_of_origin": "England",
+      "milk": "Cow",
+      "texture": "Blue",
+      "flavor": "Rich, tangy, and savory",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/stilton.json"
+    },
+    {
+      "id": "wensleydale",
+      "name": "Wensleydale",
+      "country_of_origin": "England",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Mild, crumbly, and slightly sweet",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/wensleydale.json"
+    },
+    {
+      "id": "red-leicester",
+      "name": "Red Leicester",
+      "country_of_origin": "England",
+      "milk": "Cow",
+      "texture": "Hard",
+      "flavor": "Mild, nutty, and slightly sweet",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/red-leicester.json"
+    },
+    {
+      "id": "monterey-jack",
+      "name": "Monterey Jack",
+      "country_of_origin": "United States",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Mild, buttery, and creamy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/monterey-jack.json"
+    },
+    {
+      "id": "colby",
+      "name": "Colby",
+      "country_of_origin": "United States",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Mild, milky, and slightly sweet",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/colby.json"
+    },
+    {
+      "id": "cream-cheese",
+      "name": "Cream Cheese",
+      "country_of_origin": "United States",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Mild, tangy, and rich",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/cream-cheese.json"
+    },
+    {
+      "id": "cottage-cheese",
+      "name": "Cottage Cheese",
+      "country_of_origin": "United States",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Mild, milky, and slightly tangy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/cottage-cheese.json"
+    },
+    {
+      "id": "havarti",
+      "name": "Havarti",
+      "country_of_origin": "Denmark",
+      "milk": "Cow",
+      "texture": "Semi-soft",
+      "flavor": "Buttery, creamy, and mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/havarti.json"
+    },
+    {
+      "id": "danish-blue",
+      "name": "Danish Blue (Danablu)",
+      "country_of_origin": "Denmark",
+      "milk": "Cow",
+      "texture": "Blue",
+      "flavor": "Sharp, salty, and metallic tang",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/danish-blue.json"
+    },
+    {
+      "id": "gjetost",
+      "name": "Gjetost (Brunost)",
+      "country_of_origin": "Norway",
+      "milk": "Goat",
+      "texture": "Semi-hard",
+      "flavor": "Sweet, caramelized, and fudgy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gjetost.json"
+    },
+    {
+      "id": "comte",
+      "name": "Comte",
+      "country_of_origin": "France",
+      "milk": "Cow",
+      "texture": "Hard",
+      "flavor": "Nutty, sweet, and complex",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/comte.json"
+    },
+    {
+      "id": "reblochon",
+      "name": "Reblochon",
+      "country_of_origin": "France",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Nutty, fruity, and creamy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/reblochon.json"
+    },
+    {
+      "id": "munster",
+      "name": "Munster",
+      "country_of_origin": "France",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Strong, pungent, and tangy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/munster.json"
+    },
+    {
+      "id": "chevre",
+      "name": "Chevre",
+      "country_of_origin": "France",
+      "milk": "Goat",
+      "texture": "Soft",
+      "flavor": "Tangy, tart, and earthy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/chevre.json"
+    },
+    {
+      "id": "paneer",
+      "name": "Paneer",
+      "country_of_origin": "India",
+      "milk": "Cow",
+      "texture": "Semi-soft",
+      "flavor": "Mild, milky, and fresh",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/paneer.json"
+    },
+    {
+      "id": "queso-fresco",
+      "name": "Queso Fresco",
+      "country_of_origin": "Mexico",
+      "milk": "Cow",
+      "texture": "Soft",
+      "flavor": "Mild, milky, and lightly salty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/queso-fresco.json"
+    },
+    {
+      "id": "raclette",
+      "name": "Raclette",
+      "country_of_origin": "Switzerland",
+      "milk": "Cow",
+      "texture": "Semi-hard",
+      "flavor": "Nutty, savory, and creamy when melted",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/raclette.json"
+    }
+  ]
+}

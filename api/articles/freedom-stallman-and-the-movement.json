@@ -1,0 +1,17 @@
+{
+  "id": "freedom-stallman-and-the-movement",
+  "title": "Richard Stallman and the Free Software Movement",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-27",
+  "tags": [
+    "stallman",
+    "history",
+    "free-software"
+  ],
+  "summary": "Richard Stallman launched the free software movement in the 1980s, arguing that users deserve control over the software they run.",
+  "body": "Richard Stallman is the programmer and activist who gave the free software movement its founding ideas. Working at the MIT Artificial Intelligence Laboratory in the 1970s and early 1980s, he grew frustrated as the collaborative, sharing culture of early computing gave way to proprietary licensing that forbade programmers from studying or improving the tools they used.\n\nA frequently told anecdote involves a laser printer whose controlling software Stallman was not permitted to modify to add a useful feature. Whatever the exact details, the broader pattern was clear to him: software was being locked away, and the people who depended on it were losing the ability to understand and fix their own tools.\n\nIn 1983 Stallman announced the GNU Project, an effort to build a complete operating system that users would be free to run, study, modify, and share. In 1985 he founded the Free Software Foundation to support that work and to advance software freedom more broadly. He also wrote foundational software, including much of the GNU toolchain, and drafted the GNU General Public License.\n\nStallman's central argument is ethical rather than merely practical. He holds that proprietary software gives its owners unjust power over users, and that people have a right to control the programs that shape their lives. This framing distinguishes the free software movement from later movements that emphasize development efficiency.\n\nStallman has also been a controversial figure whose public statements on various topics have drawn significant criticism and led to disputes within the community he helped create. Acknowledging this is part of a fair account.\n\nWhatever one makes of the man, the ideas he articulated, that software should respect its users' freedom, reshaped computing and made projects like GratisAPI possible.",
+  "word_count": 284,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-stallman-and-the-movement.json"
+}

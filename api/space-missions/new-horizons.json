@@ -1,0 +1,9 @@
+{
+  "id": "new-horizons",
+  "name": "New Horizons",
+  "agency": "NASA",
+  "launch_year": 2006,
+  "type": "Probe",
+  "achievement": "First spacecraft to fly by Pluto.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/new-horizons.json"
+}

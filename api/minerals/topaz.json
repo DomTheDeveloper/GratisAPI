@@ -1,0 +1,9 @@
+{
+  "id": "topaz",
+  "name": "Topaz",
+  "chemical_formula": "Al2SiO4(F,OH)2",
+  "mohs_hardness": 8.0,
+  "color": "Colorless, blue, yellow, or pink",
+  "luster": "Vitreous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/topaz.json"
+}

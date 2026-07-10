@@ -1,0 +1,17 @@
+{
+  "id": "science-tour-of-the-solar-system",
+  "title": "A Tour of the Solar System",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-06-18",
+  "tags": [
+    "astronomy",
+    "planets",
+    "solar-system"
+  ],
+  "summary": "A journey outward from the Sun reveals eight distinct planets, from scorched rocky worlds to giant balls of gas and ice.",
+  "body": "Our solar system is a family of eight planets orbiting a single ordinary star, the Sun. Taking a tour outward from the center reveals just how varied these worlds are.\n\nThe inner four planets are small and rocky. Mercury, closest to the Sun, is a cratered ball of rock with almost no atmosphere and wild temperature swings. Venus, shrouded in thick clouds of carbon dioxide, is the hottest planet of all thanks to a runaway greenhouse effect. Earth, our blue home, is the only known world with liquid water on its surface and abundant life. Mars, the red planet, is a cold desert that once had rivers and lakes and remains a prime target in the search for past life.\n\nBeyond Mars lies the asteroid belt, and then the character of the solar system changes dramatically. The outer four are giant planets. Jupiter is a colossus of gas so massive it could swallow all the other planets, famous for its Great Red Spot, a storm larger than Earth. Saturn, adorned with spectacular rings of ice and rock, is the jewel of the solar system. Uranus and Neptune are ice giants, frigid blue worlds rich in water, ammonia, and methane, with Uranus tipped so far over that it rolls around the Sun on its side.\n\nThe planets differ enormously in size, composition, and the number of moons they host. Distances are vast, measured in hundreds of millions of kilometers, and light from the Sun takes hours to reach the outer worlds.\n\nYou can compare orbital periods, diameters, and other statistics for all eight planets through the GratisAPI endpoint at /api/planets/index.json.",
+  "word_count": 269,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-tour-of-the-solar-system.json"
+}

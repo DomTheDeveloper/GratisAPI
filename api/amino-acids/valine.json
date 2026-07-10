@@ -1,0 +1,9 @@
+{
+  "id": "valine",
+  "name": "Valine",
+  "three_letter": "Val",
+  "one_letter": "V",
+  "essential": true,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/valine.json"
+}

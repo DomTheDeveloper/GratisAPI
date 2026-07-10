@@ -1,0 +1,10 @@
+{
+  "id": "pe",
+  "name": "Pe",
+  "uppercase": "П",
+  "lowercase": "п",
+  "transliteration": "p",
+  "sound": "p as in pet",
+  "order": 17,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/pe.json"
+}

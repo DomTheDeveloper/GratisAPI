@@ -1,0 +1,10 @@
+{
+  "id": "hash-table",
+  "name": "Hash Table",
+  "category": "Hash",
+  "access_big_o": null,
+  "search_big_o": "O(1)",
+  "insert_big_o": "O(1)",
+  "description": "Maps keys to values using a hash function; average constant-time lookup and insertion.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/hash-table.json"
+}

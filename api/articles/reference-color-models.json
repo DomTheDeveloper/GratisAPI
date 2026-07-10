@@ -1,0 +1,17 @@
+{
+  "id": "reference-color-models",
+  "title": "Color Models: Hex, RGB and HSL",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-11-08",
+  "tags": [
+    "colors",
+    "css",
+    "design"
+  ],
+  "summary": "Digital colors can be described in several ways, including hexadecimal, RGB, and HSL notations.",
+  "body": "Screens create color by mixing three primary lights: red, green, and blue. Every color you see on a display is some combination of these three, and the different color models are simply different ways of writing down that combination.\n\nThe RGB model states the intensity of each primary directly. Each channel usually ranges from 0 to 255, so pure red is 255 red, 0 green, 0 blue. Mixing full red and full green with no blue gives yellow, while equal amounts of all three produce shades of gray, from black at zero to white at maximum. Because it maps directly to the hardware, RGB is the most fundamental model.\n\nHexadecimal notation is just RGB written more compactly. Instead of three decimal numbers, each channel is written as a two digit hexadecimal value, joined into a six digit code preceded by a hash. So the same pure red becomes a familiar code where red is at its maximum and the other channels are zero. Designers favor hex because it is short and easy to paste into stylesheets.\n\nHSL takes a different, more human approach. It describes a color by its hue, an angle around the color wheel; its saturation, how vivid or gray it is; and its lightness, how bright it is. HSL is often easier to reason about when you want to adjust a color, since you can shift the hue or dim the lightness without recomputing three separate channels.\n\nAll three models can describe the same color; they are just different coordinate systems for the same space. Converting between them is a matter of arithmetic, and good tools do it automatically.\n\nGratisAPI provides a color reference at /api/colors/index.json, where each entry lists a name alongside its hex, RGB, and often HSL values. This makes it easy to build palettes, swatches, or conversion tools without deriving the numbers yourself. Understanding the three models lets you pick whichever is most convenient for the task, whether you are matching a brand color or generating a smooth gradient.",
+  "word_count": 335,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-color-models.json"
+}

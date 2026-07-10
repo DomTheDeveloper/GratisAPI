@@ -1,0 +1,9 @@
+{
+  "id": "gruyere",
+  "name": "Gruyere",
+  "country_of_origin": "Switzerland",
+  "milk": "Cow",
+  "texture": "Hard",
+  "flavor": "Nutty, sweet, and slightly salty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/gruyere.json"
+}

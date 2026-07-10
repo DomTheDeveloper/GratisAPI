@@ -1,0 +1,7 @@
+{
+  "id": "documentary",
+  "name": "Documentary",
+  "description": "Non-fiction films presenting real people, events, and factual subjects.",
+  "example_film": "Hoop Dreams",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/documentary.json"
+}

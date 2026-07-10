@@ -1,0 +1,13 @@
+{
+  "id": "respiratory",
+  "name": "Respiratory system",
+  "function": "Exchanges oxygen and carbon dioxide between the air and the blood.",
+  "key_organs": [
+    "Nose",
+    "Trachea",
+    "Bronchi",
+    "Lungs",
+    "Diaphragm"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/respiratory.json"
+}

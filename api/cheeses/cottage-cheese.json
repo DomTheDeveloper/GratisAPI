@@ -1,0 +1,9 @@
+{
+  "id": "cottage-cheese",
+  "name": "Cottage Cheese",
+  "country_of_origin": "United States",
+  "milk": "Cow",
+  "texture": "Soft",
+  "flavor": "Mild, milky, and slightly tangy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/cottage-cheese.json"
+}

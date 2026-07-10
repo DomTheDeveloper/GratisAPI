@@ -1,0 +1,7 @@
+{
+  "id": "abstract-factory",
+  "name": "Abstract Factory",
+  "category": "Creational",
+  "description": "Provides an interface for creating families of related objects without specifying their concrete classes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/abstract-factory.json"
+}

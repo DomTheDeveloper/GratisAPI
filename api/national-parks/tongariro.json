@@ -1,0 +1,9 @@
+{
+  "id": "tongariro",
+  "name": "Tongariro National Park",
+  "country": "New Zealand",
+  "established_year": 1887,
+  "area_km2": 786,
+  "notable_feature": "Active volcanoes and the famous Alpine Crossing trek.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/tongariro.json"
+}

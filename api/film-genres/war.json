@@ -1,0 +1,7 @@
+{
+  "id": "war",
+  "name": "War",
+  "description": "Films depicting armed conflict and its impact on soldiers and civilians.",
+  "example_film": "Saving Private Ryan",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/war.json"
+}

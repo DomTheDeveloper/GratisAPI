@@ -1,0 +1,9 @@
+{
+  "id": "colima",
+  "name": "Volcan de Colima",
+  "country": "Mexico",
+  "type": "Stratovolcano",
+  "elevation_m": 3820,
+  "last_major_eruption": 2017,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/colima.json"
+}

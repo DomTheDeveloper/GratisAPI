@@ -1,0 +1,8 @@
+{
+  "id": "stomach",
+  "name": "Stomach",
+  "system": "Digestive system",
+  "function": "Breaks down food using acid and enzymes.",
+  "location": "Upper left abdomen",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-organs/stomach.json"
+}

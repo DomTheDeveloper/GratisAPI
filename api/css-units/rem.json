@@ -1,0 +1,7 @@
+{
+  "id": "rem",
+  "unit": "rem",
+  "type": "Relative",
+  "description": "Relative to the font size of the root (html) element.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/css-units/rem.json"
+}

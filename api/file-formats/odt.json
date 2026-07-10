@@ -1,0 +1,8 @@
+{
+  "id": "odt",
+  "extension": ".odt",
+  "name": "OpenDocument Text",
+  "category": "Document",
+  "description": "An open-standard word-processing document format.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/odt.json"
+}

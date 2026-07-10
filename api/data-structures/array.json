@@ -1,0 +1,10 @@
+{
+  "id": "array",
+  "name": "Array",
+  "category": "Linear",
+  "access_big_o": "O(1)",
+  "search_big_o": "O(n)",
+  "insert_big_o": "O(n)",
+  "description": "A contiguous block of memory storing elements of the same type, indexed by position.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/array.json"
+}

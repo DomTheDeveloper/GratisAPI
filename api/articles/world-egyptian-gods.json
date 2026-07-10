@@ -1,0 +1,16 @@
+{
+  "id": "world-egyptian-gods",
+  "title": "The Gods of Ancient Egypt",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-11-20",
+  "tags": [
+    "mythology",
+    "egyptian"
+  ],
+  "summary": "Ancient Egypt worshipped a vast pantheon over thousands of years, from the sun god Ra to Osiris, lord of the dead. This article introduces its enduring deities.",
+  "body": "The religion of ancient Egypt endured for more than three thousand years, longer than most civilisations have existed at all. Over that immense span the Egyptians worshipped hundreds of gods, whose roles shifted and merged as dynasties rose and fell along the Nile.\n\nMany Egyptian gods were depicted with human bodies and animal heads, a striking convention that expressed each deity's nature. Anubis, guardian of the dead and overseer of mummification, had the head of a jackal. Horus, the sky god and protector of kings, had the head of a falcon. Thoth, god of writing and wisdom, was shown with the head of an ibis.\n\nThe sun stood at the centre of Egyptian belief. Ra, the sun god, sailed across the sky each day in his solar barque and battled the forces of chaos each night to be reborn at dawn. Pharaohs claimed close kinship with the gods, and their vast temples and tombs were built to sustain this cosmic order.\n\nPerhaps the most beloved story was that of Osiris, the god of the afterlife who was murdered by his jealous brother Set, restored by his devoted wife Isis, and became ruler of the dead. Their son Horus avenged him, and the tale gave Egyptians hope of their own resurrection. The famous weighing of the heart determined whether a soul was worthy of eternal life.\n\nThese beliefs shaped some of humanity's most enduring monuments, from the pyramids to the temples of Karnak. The GratisAPI Egyptian gods dataset at /api/egyptian-gods/index.json lists the major deities with their domains and symbols, a clean foundation for study, games, or creative projects drawing on the mysteries of the Nile.",
+  "word_count": 274,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-egyptian-gods.json"
+}

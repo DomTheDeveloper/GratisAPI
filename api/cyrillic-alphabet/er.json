@@ -1,0 +1,10 @@
+{
+  "id": "er",
+  "name": "Er",
+  "uppercase": "Р",
+  "lowercase": "р",
+  "transliteration": "r",
+  "sound": "rolled r",
+  "order": 18,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/er.json"
+}

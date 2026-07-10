@@ -1,0 +1,9 @@
+{
+  "id": "nasa",
+  "name": "National Aeronautics and Space Administration",
+  "abbreviation": "NASA",
+  "country": "United States",
+  "founded_year": 1958,
+  "headquarters": "Washington, D.C., United States",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-agencies/nasa.json"
+}

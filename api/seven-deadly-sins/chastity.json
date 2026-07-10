@@ -1,0 +1,9 @@
+{
+  "id": "chastity",
+  "name": "Chastity",
+  "type": "Virtue",
+  "latin": "Castitas",
+  "opposite": "Lust",
+  "description": "Purity and restraint, embracing self-control over one's desires.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/chastity.json"
+}

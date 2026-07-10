@@ -1,0 +1,10 @@
+{
+  "id": "priority-queue",
+  "name": "Priority Queue",
+  "category": "Heap",
+  "access_big_o": "O(1)",
+  "search_big_o": "O(n)",
+  "insert_big_o": "O(log n)",
+  "description": "An abstract queue where each element has a priority and the highest-priority element is served first.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/priority-queue.json"
+}

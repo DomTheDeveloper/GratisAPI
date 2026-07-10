@@ -1,0 +1,8 @@
+{
+  "id": "referer",
+  "header": "Referer",
+  "type": "Request",
+  "description": "The address of the page that linked to the requested resource.",
+  "example": "https://example.com/page",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/referer.json"
+}

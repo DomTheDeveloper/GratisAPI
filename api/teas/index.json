@@ -1,0 +1,257 @@
+{
+  "api": "teas",
+  "title": "Types of Tea",
+  "description": "A collection of well-known teas with their type, origin, and caffeine level.",
+  "emoji": "🍵",
+  "license": "GPL-2.0-or-later",
+  "count": 26,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/teas/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/teas/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/teas/{id}.json"
+  },
+  "fields": [
+    "caffeine",
+    "id",
+    "name",
+    "notes",
+    "origin_region",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "english-breakfast",
+      "name": "English Breakfast",
+      "type": "Black",
+      "origin_region": "Blend (India, Sri Lanka, Kenya)",
+      "caffeine": "High",
+      "notes": "Full-bodied, robust blend traditionally taken with milk.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/english-breakfast.json"
+    },
+    {
+      "id": "earl-grey",
+      "name": "Earl Grey",
+      "type": "Black",
+      "origin_region": "Blend (China/India base)",
+      "caffeine": "High",
+      "notes": "Black tea flavored with oil of bergamot, giving a citrusy aroma.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/earl-grey.json"
+    },
+    {
+      "id": "assam",
+      "name": "Assam",
+      "type": "Black",
+      "origin_region": "Assam, India",
+      "caffeine": "High",
+      "notes": "Malty and brisk, grown in the lowlands of northeast India.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/assam.json"
+    },
+    {
+      "id": "darjeeling",
+      "name": "Darjeeling",
+      "type": "Black",
+      "origin_region": "Darjeeling, India",
+      "caffeine": "Medium",
+      "notes": "Light, floral and muscatel; called the 'champagne of teas'.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/darjeeling.json"
+    },
+    {
+      "id": "ceylon",
+      "name": "Ceylon",
+      "type": "Black",
+      "origin_region": "Sri Lanka",
+      "caffeine": "High",
+      "notes": "Bright and citrusy black tea from the island of Sri Lanka.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/ceylon.json"
+    },
+    {
+      "id": "keemun",
+      "name": "Keemun",
+      "type": "Black",
+      "origin_region": "Anhui, China",
+      "caffeine": "Medium",
+      "notes": "Wine-like and slightly smoky, a classic Chinese black tea.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/keemun.json"
+    },
+    {
+      "id": "lapsang-souchong",
+      "name": "Lapsang Souchong",
+      "type": "Black",
+      "origin_region": "Fujian, China",
+      "caffeine": "Medium",
+      "notes": "Dried over pinewood fires for a distinctive smoky flavor.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/lapsang-souchong.json"
+    },
+    {
+      "id": "sencha",
+      "name": "Sencha",
+      "type": "Green",
+      "origin_region": "Japan",
+      "caffeine": "Medium",
+      "notes": "Steamed green tea, grassy and refreshing; Japan's most common tea.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/sencha.json"
+    },
+    {
+      "id": "matcha",
+      "name": "Matcha",
+      "type": "Green",
+      "origin_region": "Japan",
+      "caffeine": "High",
+      "notes": "Stone-ground shade-grown leaves whisked into a frothy suspension.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/matcha.json"
+    },
+    {
+      "id": "gyokuro",
+      "name": "Gyokuro",
+      "type": "Green",
+      "origin_region": "Japan",
+      "caffeine": "High",
+      "notes": "Shade-grown before harvest, prized for its sweet umami character.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/gyokuro.json"
+    },
+    {
+      "id": "dragon-well",
+      "name": "Dragon Well (Longjing)",
+      "type": "Green",
+      "origin_region": "Zhejiang, China",
+      "caffeine": "Medium",
+      "notes": "Pan-fired flat leaves with a nutty, chestnut-like taste.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/dragon-well.json"
+    },
+    {
+      "id": "gunpowder",
+      "name": "Gunpowder",
+      "type": "Green",
+      "origin_region": "Zhejiang, China",
+      "caffeine": "Medium",
+      "notes": "Rolled into small pellets; bold and slightly smoky.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/gunpowder.json"
+    },
+    {
+      "id": "genmaicha",
+      "name": "Genmaicha",
+      "type": "Green",
+      "origin_region": "Japan",
+      "caffeine": "Low",
+      "notes": "Green tea blended with roasted brown rice for a toasty flavor.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/genmaicha.json"
+    },
+    {
+      "id": "silver-needle",
+      "name": "Silver Needle (Baihao Yinzhen)",
+      "type": "White",
+      "origin_region": "Fujian, China",
+      "caffeine": "Low",
+      "notes": "Made only from young buds; delicate, sweet and mellow.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/silver-needle.json"
+    },
+    {
+      "id": "white-peony",
+      "name": "White Peony (Bai Mudan)",
+      "type": "White",
+      "origin_region": "Fujian, China",
+      "caffeine": "Low",
+      "notes": "Buds and leaves; fuller and more floral than Silver Needle.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/white-peony.json"
+    },
+    {
+      "id": "tieguanyin",
+      "name": "Tieguanyin",
+      "type": "Oolong",
+      "origin_region": "Fujian, China",
+      "caffeine": "Medium",
+      "notes": "Iron Goddess of Mercy; orchid-like and lightly oxidized.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/tieguanyin.json"
+    },
+    {
+      "id": "da-hong-pao",
+      "name": "Da Hong Pao",
+      "type": "Oolong",
+      "origin_region": "Wuyi, Fujian, China",
+      "caffeine": "Medium",
+      "notes": "Roasted rock oolong with a rich mineral, roasted character.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/da-hong-pao.json"
+    },
+    {
+      "id": "dong-ding",
+      "name": "Dong Ding",
+      "type": "Oolong",
+      "origin_region": "Taiwan",
+      "caffeine": "Medium",
+      "notes": "Traditional Taiwanese oolong, smooth with a roasted finish.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/dong-ding.json"
+    },
+    {
+      "id": "milk-oolong",
+      "name": "Milk Oolong (Jin Xuan)",
+      "type": "Oolong",
+      "origin_region": "Taiwan",
+      "caffeine": "Medium",
+      "notes": "Naturally creamy, buttery aroma from the Jin Xuan cultivar.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/milk-oolong.json"
+    },
+    {
+      "id": "sheng-puerh",
+      "name": "Sheng Pu-erh (Raw)",
+      "type": "Pu-erh",
+      "origin_region": "Yunnan, China",
+      "caffeine": "Medium",
+      "notes": "Naturally aged fermented tea; grassy young, mellowing over years.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/sheng-puerh.json"
+    },
+    {
+      "id": "shou-puerh",
+      "name": "Shou Pu-erh (Ripe)",
+      "type": "Pu-erh",
+      "origin_region": "Yunnan, China",
+      "caffeine": "Medium",
+      "notes": "Pile-fermented for an earthy, smooth, dark liquor.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/shou-puerh.json"
+    },
+    {
+      "id": "chamomile",
+      "name": "Chamomile",
+      "type": "Herbal",
+      "origin_region": "Europe/Western Asia",
+      "caffeine": "None",
+      "notes": "Dried flowers with an apple-like aroma; calming before sleep.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/chamomile.json"
+    },
+    {
+      "id": "peppermint",
+      "name": "Peppermint",
+      "type": "Herbal",
+      "origin_region": "Europe",
+      "caffeine": "None",
+      "notes": "Cooling, minty infusion often used to aid digestion.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/peppermint.json"
+    },
+    {
+      "id": "rooibos",
+      "name": "Rooibos",
+      "type": "Herbal",
+      "origin_region": "South Africa",
+      "caffeine": "None",
+      "notes": "Naturally sweet red bush tisane rich in antioxidants.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/rooibos.json"
+    },
+    {
+      "id": "hibiscus",
+      "name": "Hibiscus",
+      "type": "Herbal",
+      "origin_region": "Tropical regions",
+      "caffeine": "None",
+      "notes": "Tart, ruby-red infusion of dried hibiscus flowers.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/hibiscus.json"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "type": "Herbal",
+      "origin_region": "Asia",
+      "caffeine": "None",
+      "notes": "Spicy, warming root infusion often taken for colds.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/ginger.json"
+    }
+  ]
+}

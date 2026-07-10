@@ -1,0 +1,17 @@
+{
+  "id": "reference-http-status-codes",
+  "title": "HTTP Status Codes Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-20",
+  "tags": [
+    "http",
+    "status-codes",
+    "web"
+  ],
+  "summary": "HTTP status codes are three digit numbers that tell a client how a request turned out.",
+  "body": "Every time a browser or program makes an HTTP request, the server answers with a three digit status code. This small number is a compact summary of what happened, and learning to read it is one of the most useful skills in web development.\n\nStatus codes are grouped into five families by their first digit. Codes in the 100 range are informational and rarely seen directly. The 200 range means success; 200 itself means the request worked and 201 means something new was created. The 300 range is about redirection, telling the client the resource lives elsewhere. The 400 range signals a client error, meaning the request was somehow wrong, while the 500 range signals a server error, meaning the server failed to handle a valid request.\n\nSome codes appear constantly. A 200 confirms everything is fine. A 301 says a resource has moved permanently. A 400 means the request was malformed, a 401 means authentication is required, and a 403 means access is forbidden. The famous 404 means the requested thing was not found. On the server side, a 500 is a generic internal error and a 503 means the service is temporarily unavailable.\n\nGratisAPI ships the full list as data. You can fetch it from /api/http-status/index.json and get an array of objects, each with a code, a short name, and a description. This is handy for building lookup tools, documentation, or teaching material without typing the whole table by hand.\n\nStatus codes matter because they let clients react intelligently. A program can retry on a 503, prompt for login on a 401, or show a friendly message on a 404, all by inspecting a single number. Treating the status code as the first thing you check makes debugging faster and your software more resilient to the many ways a request can go wrong.",
+  "word_count": 305,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-http-status-codes.json"
+}

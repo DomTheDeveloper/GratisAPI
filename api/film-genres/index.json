@@ -1,0 +1,231 @@
+{
+  "api": "film-genres",
+  "title": "Film Genres",
+  "description": "Common film genres with a short description and a representative example film.",
+  "emoji": "🎬",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/{id}.json"
+  },
+  "fields": [
+    "description",
+    "example_film",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "action",
+      "name": "Action",
+      "description": "Films centered on physical feats, chases, fights, and high-stakes sequences.",
+      "example_film": "Die Hard",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/action.json"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "description": "Stories of journeys, quests, and exploration in exotic or dangerous settings.",
+      "example_film": "Raiders of the Lost Ark",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/adventure.json"
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy",
+      "description": "Films designed primarily to amuse and provoke laughter.",
+      "example_film": "Some Like It Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/comedy.json"
+    },
+    {
+      "id": "drama",
+      "name": "Drama",
+      "description": "Character-driven films focused on realistic emotional and interpersonal conflict.",
+      "example_film": "The Godfather",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/drama.json"
+    },
+    {
+      "id": "horror",
+      "name": "Horror",
+      "description": "Films intended to frighten, shock, or unsettle the audience.",
+      "example_film": "The Exorcist",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/horror.json"
+    },
+    {
+      "id": "thriller",
+      "name": "Thriller",
+      "description": "Suspenseful films that keep audiences tense through danger and uncertainty.",
+      "example_film": "Psycho",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/thriller.json"
+    },
+    {
+      "id": "science-fiction",
+      "name": "Science Fiction",
+      "description": "Speculative films exploring futuristic technology, space, and imagined science.",
+      "example_film": "Blade Runner",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/science-fiction.json"
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "description": "Films set in magical worlds with supernatural elements and mythical beings.",
+      "example_film": "The Lord of the Rings: The Fellowship of the Ring",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/fantasy.json"
+    },
+    {
+      "id": "romance",
+      "name": "Romance",
+      "description": "Films centered on love stories and the relationships between characters.",
+      "example_film": "Casablanca",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/romance.json"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery",
+      "description": "Films built around solving a crime or uncovering a hidden truth.",
+      "example_film": "Chinatown",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/mystery.json"
+    },
+    {
+      "id": "crime",
+      "name": "Crime",
+      "description": "Films focused on criminals, law enforcement, and the underworld.",
+      "example_film": "Goodfellas",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/crime.json"
+    },
+    {
+      "id": "western",
+      "name": "Western",
+      "description": "Films set in the American Old West emphasizing frontier life and lawlessness.",
+      "example_film": "The Good, the Bad and the Ugly",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/western.json"
+    },
+    {
+      "id": "war",
+      "name": "War",
+      "description": "Films depicting armed conflict and its impact on soldiers and civilians.",
+      "example_film": "Saving Private Ryan",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/war.json"
+    },
+    {
+      "id": "musical",
+      "name": "Musical",
+      "description": "Films in which song and dance numbers are integral to the narrative.",
+      "example_film": "Singin' in the Rain",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/musical.json"
+    },
+    {
+      "id": "animation",
+      "name": "Animation",
+      "description": "Films created frame by frame using drawn, computer, or model imagery.",
+      "example_film": "Spirited Away",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/animation.json"
+    },
+    {
+      "id": "documentary",
+      "name": "Documentary",
+      "description": "Non-fiction films presenting real people, events, and factual subjects.",
+      "example_film": "Hoop Dreams",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/documentary.json"
+    },
+    {
+      "id": "film-noir",
+      "name": "Film Noir",
+      "description": "Stylized crime dramas marked by moral ambiguity and shadowy visuals.",
+      "example_film": "Double Indemnity",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/film-noir.json"
+    },
+    {
+      "id": "biographical",
+      "name": "Biographical",
+      "description": "Dramatized films recounting the life of a real historical figure.",
+      "example_film": "Lawrence of Arabia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/biographical.json"
+    },
+    {
+      "id": "historical",
+      "name": "Historical",
+      "description": "Films set in and dramatizing events from the past.",
+      "example_film": "Schindler's List",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/historical.json"
+    },
+    {
+      "id": "superhero",
+      "name": "Superhero",
+      "description": "Films following costumed heroes with extraordinary powers battling villains.",
+      "example_film": "The Dark Knight",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/superhero.json"
+    },
+    {
+      "id": "disaster",
+      "name": "Disaster",
+      "description": "Films depicting large-scale catastrophes and survival against them.",
+      "example_film": "The Towering Inferno",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/disaster.json"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "description": "Films centered on athletes, competition, and the world of sport.",
+      "example_film": "Rocky",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/sports.json"
+    },
+    {
+      "id": "coming-of-age",
+      "name": "Coming-of-Age",
+      "description": "Films tracing a young protagonist's growth into maturity.",
+      "example_film": "Stand by Me",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/coming-of-age.json"
+    },
+    {
+      "id": "road-movie",
+      "name": "Road Movie",
+      "description": "Films structured around a journey along the road as a path of self-discovery.",
+      "example_film": "Thelma & Louise",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/road-movie.json"
+    },
+    {
+      "id": "heist",
+      "name": "Heist",
+      "description": "Films built around planning and executing an elaborate robbery.",
+      "example_film": "Ocean's Eleven",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/heist.json"
+    },
+    {
+      "id": "spy",
+      "name": "Spy",
+      "description": "Films following espionage agents amid intrigue and international stakes.",
+      "example_film": "Goldfinger",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/spy.json"
+    },
+    {
+      "id": "romantic-comedy",
+      "name": "Romantic Comedy",
+      "description": "Light-hearted films blending love stories with humor.",
+      "example_film": "When Harry Met Sally",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/romantic-comedy.json"
+    },
+    {
+      "id": "psychological-thriller",
+      "name": "Psychological Thriller",
+      "description": "Thrillers that emphasize mental tension, paranoia, and unstable perception.",
+      "example_film": "Se7en",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/psychological-thriller.json"
+    },
+    {
+      "id": "epic",
+      "name": "Epic",
+      "description": "Grand-scale films with sweeping settings, large casts, and long runtimes.",
+      "example_film": "Ben-Hur",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/epic.json"
+    },
+    {
+      "id": "slasher",
+      "name": "Slasher",
+      "description": "Horror subgenre in which a killer stalks and murders a series of victims.",
+      "example_film": "Halloween",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/slasher.json"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "factory-method",
+  "name": "Factory Method",
+  "category": "Creational",
+  "description": "Defines an interface for creating an object but lets subclasses decide which class to instantiate.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/factory-method.json"
+}

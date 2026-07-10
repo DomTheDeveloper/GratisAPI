@@ -1,0 +1,8 @@
+{
+  "id": 5,
+  "name": "Senary",
+  "base": 6,
+  "digits": "012345",
+  "common_use": "Dice games and some counting systems.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/5.json"
+}

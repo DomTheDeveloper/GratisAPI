@@ -1,0 +1,17 @@
+{
+  "id": "howto-python-requests",
+  "title": "Fetching GratisAPI with Python's requests Library",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-07-08",
+  "tags": [
+    "python",
+    "requests",
+    "http"
+  ],
+  "summary": "Retrieve and parse GratisAPI endpoints in Python using the popular requests library.",
+  "body": "The requests library is the most common way to make HTTP calls in Python, and it works seamlessly with GratisAPI. Because every endpoint is a static JSON file with no authentication, a single call gets you a full dataset.\n\nInstall the library with pip install requests, then fetch and parse an endpoint:\n\nimport requests\n\nurl = \"https://domthedeveloper.github.io/GratisAPI/api/elements/index.json\"\nresponse = requests.get(url, timeout=10)\nresponse.raise_for_status()\ndata = response.json()\n\nprint(f\"Loaded {data['count']} elements\")\nfor element in data[\"elements\"]:\n    print(element[\"name\"], element[\"symbol\"])\n\nThe raise_for_status call is important. Unlike JavaScript's fetch, requests does not automatically raise on a 404 or 500, so calling raise_for_status turns any error status into a Python exception you can catch. The .json() method parses the response body into ordinary Python dictionaries and lists.\n\nSetting a timeout is good practice for any network call so your script does not hang indefinitely if the connection stalls. Wrap the request in a try/except around requests.exceptions.RequestException to handle both connection failures and bad statuses in one place.\n\nBecause GratisAPI ships complete collections, you generally make one request and then work with the data locally. This suits Python's data tooling well. You can feed the list of records straight into a loop, into a comprehension for filtering, or into a library like pandas for analysis. There is no pagination to chase and no token to refresh, so a script can go from zero to usable data in about five lines. For repeated runs, consider caching the response to a local file, since the static endpoints only change when the project is redeployed.",
+  "word_count": 253,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-python-requests.json"
+}

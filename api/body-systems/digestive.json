@@ -1,0 +1,15 @@
+{
+  "id": "digestive",
+  "name": "Digestive system",
+  "function": "Breaks down food, absorbs nutrients, and eliminates solid waste.",
+  "key_organs": [
+    "Mouth",
+    "Esophagus",
+    "Stomach",
+    "Small intestine",
+    "Large intestine",
+    "Liver",
+    "Pancreas"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/digestive.json"
+}

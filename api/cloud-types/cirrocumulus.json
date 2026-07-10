@@ -1,0 +1,8 @@
+{
+  "id": "cirrocumulus",
+  "name": "Cirrocumulus",
+  "abbreviation": "Cc",
+  "altitude_level": "High",
+  "description": "Small white patches or ripples of cloud, forming a mackerel sky.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/cirrocumulus.json"
+}

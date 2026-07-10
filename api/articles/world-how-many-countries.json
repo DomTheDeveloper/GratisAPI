@@ -1,0 +1,16 @@
+{
+  "id": "world-how-many-countries",
+  "title": "How Many Countries Are There?",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2023-01-15",
+  "tags": [
+    "countries",
+    "geography"
+  ],
+  "summary": "The number of countries in the world depends on who is counting, but the most widely used figure is 195. This article explains where that number comes from.",
+  "body": "Ask how many countries there are and you will get several different answers, all of them defensible. The most commonly cited figure is 195, which counts the 193 member states of the United Nations plus two observer states, the Holy See and the State of Palestine. This is the number most textbooks and reference works use today.\n\nThe count grows if you include territories with partial recognition. Places such as Taiwan, Kosovo, and Western Sahara are recognised by some governments but not others, so whether they appear on a list depends on the political stance of whoever is compiling it. There is no single global authority that settles these disputes definitively.\n\nThe idea of a country is also more slippery than it first appears. Sovereignty, permanent population, defined territory, and the capacity to enter relations with other states are the classic criteria set out in the Montevideo Convention of 1933. Yet many entities meet some but not all of these tests, which is why the edges of the list stay blurry.\n\nThe number has changed enormously over the past century. The breakup of empires after the two world wars, the wave of African independence in the 1960s, and the collapse of the Soviet Union and Yugoslavia in the early 1990s each added dozens of new states. South Sudan, which became independent in 2011, is the newest widely recognised country.\n\nIf you want to explore the data yourself, the GratisAPI countries dataset is available at /api/countries/index.json, with details on capitals, regions, and populations. It is a good starting point for anyone building quizzes, dashboards, or teaching tools that need a clean, consistent list of the world's nations.",
+  "word_count": 276,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-how-many-countries.json"
+}

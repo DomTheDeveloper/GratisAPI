@@ -1,0 +1,16 @@
+{
+  "id": "world-morse-code-history",
+  "title": "A Short History of Morse Code",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-06-10",
+  "tags": [
+    "communication",
+    "history"
+  ],
+  "summary": "Morse code turned language into dots and dashes and connected the world by telegraph. This article traces its invention and lasting legacy.",
+  "body": "Before the telephone and the internet, the fastest way to send a message across a continent was to tap it out in Morse code. This simple system of dots and dashes helped shrink the world in the nineteenth century and remains in limited use today.\n\nMorse code was developed in the 1830s and 1840s alongside the electric telegraph, with Samuel Morse and his collaborators among its key figures. The idea was elegant: represent each letter and number with a unique sequence of short signals, called dots, and long signals, called dashes. A skilled operator could send and receive these signals with remarkable speed.\n\nThe design was cleverly efficient. The most common letters were given the shortest codes, so the letter E is a single dot and T is a single dash, while rarer letters received longer sequences. This kept messages as brief as possible, an early example of the kind of thinking that later shaped data compression.\n\nFor over a century Morse code was the backbone of long distance communication, carried first along telegraph wires and later through the air by radio. Its most famous sequence is the distress signal SOS, three dots, three dashes, three dots, chosen because it is simple and unmistakable. Ships in danger tapped it out to summon help across the empty ocean.\n\nThough professional maritime use of Morse ended in the 1990s, the code has not died. Amateur radio operators still use it, it can be sent by light or sound when other methods fail, and it can even be tapped out by people unable to speak. The GratisAPI Morse code dataset at /api/morse-code/index.json lists each character with its dot and dash pattern, a handy reference for building translators, learning tools, or puzzles.",
+  "word_count": 288,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-morse-code-history.json"
+}

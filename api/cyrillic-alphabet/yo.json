@@ -1,0 +1,10 @@
+{
+  "id": "yo",
+  "name": "Yo",
+  "uppercase": "Ё",
+  "lowercase": "ё",
+  "transliteration": "yo",
+  "sound": "yo as in yonder",
+  "order": 7,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/yo.json"
+}

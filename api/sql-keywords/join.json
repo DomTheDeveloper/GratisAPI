@@ -1,0 +1,7 @@
+{
+  "id": "join",
+  "keyword": "JOIN",
+  "category": "Clause",
+  "description": "Combines rows from two or more tables based on a related column.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/join.json"
+}

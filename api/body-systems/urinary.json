@@ -1,0 +1,12 @@
+{
+  "id": "urinary",
+  "name": "Urinary system",
+  "function": "Filters blood, removes waste, and regulates water and electrolyte balance.",
+  "key_organs": [
+    "Kidneys",
+    "Ureters",
+    "Bladder",
+    "Urethra"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/urinary.json"
+}

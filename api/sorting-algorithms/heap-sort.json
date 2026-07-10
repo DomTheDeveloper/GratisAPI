@@ -1,0 +1,10 @@
+{
+  "id": "heap-sort",
+  "name": "Heap Sort",
+  "best_case": "O(n log n)",
+  "average_case": "O(n log n)",
+  "worst_case": "O(n log n)",
+  "space_complexity": "O(1)",
+  "stable": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/heap-sort.json"
+}

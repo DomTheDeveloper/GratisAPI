@@ -1,0 +1,16 @@
+{
+  "id": "world-birthstones",
+  "title": "Birthstones Month by Month",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2025-03-11",
+  "tags": [
+    "gemstones",
+    "tradition"
+  ],
+  "summary": "Each month of the year is linked to a birthstone, from January's garnet to December's turquoise. This article explores the tradition and its gems.",
+  "body": "The custom of associating each month with a particular gemstone, known as a birthstone, is a charming tradition that blends folklore, jewellery, and personal identity. Many people wear their birthstone as a way of carrying a small piece of meaning tied to the month they were born.\n\nThe modern list runs through the year with a distinctive gem for each month. January is garnet, February amethyst, March aquamarine, April the diamond, May emerald, and June often the pearl. The second half of the year brings July's ruby, August's peridot, September's sapphire, October's opal, November's topaz, and December's turquoise, though several months have alternative stones.\n\nThe tradition has deep and tangled roots. Some trace it back to the twelve stones on the breastplate of the high priest described in the Hebrew Bible, later linked to the months and the signs of the zodiac. Over the centuries the associations shifted, and the list most people use today was formalised by jewellers in the early twentieth century to standardise the custom.\n\nEach stone carries its own supposed powers and meanings, drawn from centuries of legend. Emeralds were once thought to reveal the truth, rubies to protect against harm, and amethysts to guard against overindulgence. Whether or not anyone takes these old beliefs seriously, they add a layer of story to a beautiful object.\n\nBirthstones remain hugely popular in the jewellery trade, offering a ready made way to make a gift feel personal. The GratisAPI birthstones dataset at /api/birthstones/index.json lists each month with its associated stone and traditional meanings, a tidy reference for building gift finders, quizzes, or apps that celebrate this enduring tradition.",
+  "word_count": 270,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-birthstones.json"
+}

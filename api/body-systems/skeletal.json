@@ -1,0 +1,12 @@
+{
+  "id": "skeletal",
+  "name": "Skeletal system",
+  "function": "Supports the body, protects organs, enables movement, and produces blood cells.",
+  "key_organs": [
+    "Bones",
+    "Cartilage",
+    "Ligaments",
+    "Bone marrow"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/skeletal.json"
+}

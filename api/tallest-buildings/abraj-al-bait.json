@@ -1,0 +1,10 @@
+{
+  "id": "abraj-al-bait",
+  "name": "Abraj Al-Bait Clock Tower",
+  "city": "Mecca",
+  "country": "Saudi Arabia",
+  "height_m": 601,
+  "floors": 120,
+  "completed_year": 2012,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/abraj-al-bait.json"
+}

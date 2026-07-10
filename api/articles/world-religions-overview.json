@@ -1,0 +1,16 @@
+{
+  "id": "world-religions-overview",
+  "title": "An Overview of World Religions",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-09-23",
+  "tags": [
+    "religion",
+    "culture"
+  ],
+  "summary": "Billions of people follow the world's major faiths, from Christianity to Buddhism. This article offers a brief, respectful overview of the largest traditions.",
+  "body": "Religion has shaped human civilisation for as long as records exist, guiding morality, inspiring art, and binding communities together. Today the majority of people identify with one of a handful of major traditions, though thousands of smaller faiths also flourish around the world.\n\nChristianity is the largest religion, with roughly a third of humanity among its followers. Centred on the life and teachings of Jesus of Nazareth, it spans many branches, including Catholic, Orthodox, and Protestant churches. Islam is the second largest and one of the fastest growing, built on the teachings revealed to the prophet Muhammad and recorded in the Quran.\n\nThe Indian subcontinent gave rise to several great traditions. Hinduism, among the oldest living religions, encompasses a vast diversity of beliefs and practices centred on concepts such as karma and rebirth. Buddhism, founded on the insights of the Buddha, spread across Asia with its path toward liberation from suffering. Sikhism and Jainism also arose in the region.\n\nJudaism, though smaller in number, holds enormous historical importance as the oldest of the Abrahamic faiths and the shared root of Christianity and Islam. Its scriptures and traditions have influenced law, ethics, and culture far beyond its own community.\n\nAlongside these major faiths are countless indigenous and folk religions, as well as a growing number of people who follow no religion at all. Studying the world's faiths side by side reveals both striking differences and surprising common ground in the questions they ask about meaning, morality, and what lies beyond this life. The GratisAPI catalogue offers datasets on related topics such as mythologies and cultural traditions, a respectful starting point for education, comparison, and exploration.",
+  "word_count": 274,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-religions-overview.json"
+}

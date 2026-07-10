@@ -1,0 +1,10 @@
+{
+  "id": "bucket-sort",
+  "name": "Bucket Sort",
+  "best_case": "O(n + k)",
+  "average_case": "O(n + k)",
+  "worst_case": "O(n^2)",
+  "space_complexity": "O(n + k)",
+  "stable": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sorting-algorithms/bucket-sort.json"
+}

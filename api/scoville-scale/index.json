@@ -1,0 +1,182 @@
+{
+  "api": "scoville-scale",
+  "title": "Scoville Scale",
+  "description": "Peppers, hot sauces, and extracts ranked by Scoville heat units (SHU).",
+  "emoji": "🌶",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/{id}.json"
+  },
+  "fields": [
+    "id",
+    "name",
+    "scoville_max",
+    "scoville_min",
+    "type"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "name": "Bell Pepper",
+      "scoville_min": 0,
+      "scoville_max": 0,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/1.json"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoncini",
+      "scoville_min": 100,
+      "scoville_max": 500,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/2.json"
+    },
+    {
+      "id": 3,
+      "name": "Poblano",
+      "scoville_min": 1000,
+      "scoville_max": 2000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/3.json"
+    },
+    {
+      "id": 4,
+      "name": "Sriracha Sauce",
+      "scoville_min": 1000,
+      "scoville_max": 2500,
+      "type": "Sauce",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/4.json"
+    },
+    {
+      "id": 5,
+      "name": "Tabasco Sauce",
+      "scoville_min": 2500,
+      "scoville_max": 5000,
+      "type": "Sauce",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/5.json"
+    },
+    {
+      "id": 6,
+      "name": "Jalapeno",
+      "scoville_min": 2500,
+      "scoville_max": 8000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/6.json"
+    },
+    {
+      "id": 7,
+      "name": "Chipotle",
+      "scoville_min": 2500,
+      "scoville_max": 8000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/7.json"
+    },
+    {
+      "id": 8,
+      "name": "Serrano",
+      "scoville_min": 10000,
+      "scoville_max": 23000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/8.json"
+    },
+    {
+      "id": 9,
+      "name": "Cayenne",
+      "scoville_min": 30000,
+      "scoville_max": 50000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/9.json"
+    },
+    {
+      "id": 10,
+      "name": "Tabasco Pepper",
+      "scoville_min": 30000,
+      "scoville_max": 50000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/10.json"
+    },
+    {
+      "id": 11,
+      "name": "Thai Pepper",
+      "scoville_min": 50000,
+      "scoville_max": 100000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/11.json"
+    },
+    {
+      "id": 12,
+      "name": "Habanero",
+      "scoville_min": 100000,
+      "scoville_max": 350000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/12.json"
+    },
+    {
+      "id": 13,
+      "name": "Scotch Bonnet",
+      "scoville_min": 100000,
+      "scoville_max": 350000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/13.json"
+    },
+    {
+      "id": 14,
+      "name": "Ghost Pepper (Bhut Jolokia)",
+      "scoville_min": 855000,
+      "scoville_max": 1041427,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/14.json"
+    },
+    {
+      "id": 15,
+      "name": "Trinidad Scorpion",
+      "scoville_min": 1200000,
+      "scoville_max": 2000000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/15.json"
+    },
+    {
+      "id": 16,
+      "name": "Carolina Reaper",
+      "scoville_min": 1400000,
+      "scoville_max": 2200000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/16.json"
+    },
+    {
+      "id": 17,
+      "name": "Pepper X",
+      "scoville_min": 2693000,
+      "scoville_max": 2693000,
+      "type": "Pepper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/17.json"
+    },
+    {
+      "id": 18,
+      "name": "Dave's Insanity Sauce",
+      "scoville_min": 180000,
+      "scoville_max": 180000,
+      "type": "Sauce",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/18.json"
+    },
+    {
+      "id": 19,
+      "name": "Blair's 16 Million Reserve",
+      "scoville_min": 16000000,
+      "scoville_max": 16000000,
+      "type": "Extract",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/19.json"
+    },
+    {
+      "id": 20,
+      "name": "Pure Capsaicin",
+      "scoville_min": 16000000,
+      "scoville_max": 16000000,
+      "type": "Extract",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/20.json"
+    }
+  ]
+}

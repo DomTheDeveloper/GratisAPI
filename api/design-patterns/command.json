@@ -1,0 +1,7 @@
+{
+  "id": "command",
+  "name": "Command",
+  "category": "Behavioral",
+  "description": "Encapsulates a request as an object, allowing parameterization, queuing, logging, and undoable operations.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/command.json"
+}

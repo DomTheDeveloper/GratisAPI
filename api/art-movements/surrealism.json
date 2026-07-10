@@ -1,0 +1,13 @@
+{
+  "id": "surrealism",
+  "name": "Surrealism",
+  "period": "1920s-1950s",
+  "origin_region": "France",
+  "key_artists": [
+    "Salvador Dalí",
+    "René Magritte",
+    "Max Ernst"
+  ],
+  "description": "Movement exploring dreams and the unconscious through irrational imagery.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/surrealism.json"
+}

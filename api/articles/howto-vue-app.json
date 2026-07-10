@@ -1,0 +1,17 @@
+{
+  "id": "howto-vue-app",
+  "title": "Using GratisAPI in a Vue App",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-05-18",
+  "tags": [
+    "vue",
+    "javascript",
+    "composition-api"
+  ],
+  "summary": "Load GratisAPI data into a Vue component using the Composition API and reactive refs.",
+  "body": "Vue's reactivity system pairs nicely with GratisAPI's static JSON files. With the Composition API you fetch the data in the setup function, store it in a ref, and let Vue update the template automatically when the value arrives.\n\nHere is a single-file component that loads the colors collection. The onMounted lifecycle hook triggers the request after the component is mounted, and the ref keeps the result reactive:\n\n<script setup>\nimport { ref, onMounted } from \"vue\";\n\nconst colors = ref([]);\nconst loading = ref(true);\n\nonMounted(async () => {\n  try {\n    const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\");\n    const data = await res.json();\n    colors.value = data.colors;\n  } finally {\n    loading.value = false;\n  }\n});\n</script>\n\n<template>\n  <p v-if=\"loading\">Loading...</p>\n  <ul v-else>\n    <li v-for=\"c in colors\" :key=\"c.id\">{{ c.name }} - {{ c.hex }}</li>\n  </ul>\n</template>\n\nThe v-for directive iterates the array, and binding :key to each record's id helps Vue track items efficiently. The v-if and v-else pair swaps a loading message for the list once data is ready.\n\nBecause the endpoint returns the whole collection at once, you can build computed properties to filter or sort without touching the network again. For example, a computed value could return only colors whose name matches a search box. If you use Pinia for state management, move the fetch into a store action so multiple components can share the same cached data. The key point is that GratisAPI asks nothing special of Vue: no keys, no auth, just a fetch of a static file that slots directly into the framework's reactive model.",
+  "word_count": 255,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-vue-app.json"
+}

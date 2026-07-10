@@ -1,0 +1,17 @@
+{
+  "id": "reference-http-methods",
+  "title": "HTTP Methods Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-05-03",
+  "tags": [
+    "http",
+    "methods",
+    "rest"
+  ],
+  "summary": "HTTP methods are the verbs of the web, describing what action a request intends to perform.",
+  "body": "When a client makes an HTTP request, it does more than name an address. It also states an intention using an HTTP method, sometimes called a verb. The method tells the server what kind of action the client wants to perform on the resource at that address.\n\nThe most common method is GET, which asks the server to return a resource without changing anything. GET is the workhorse of the web; every time you load a page or fetch data, you are sending a GET. Because it only reads, a GET can be repeated safely and its results can be cached.\n\nPOST is used to send data to the server, often to create something new or trigger processing. Unlike GET, a POST may change the state of the server, so repeating it can have real effects. PUT replaces a resource entirely with the data you send, while PATCH updates only part of it. DELETE, as the name suggests, asks the server to remove a resource.\n\nTwo important ideas describe how these methods behave. A method is safe if it does not modify anything, which applies to GET and HEAD. A method is idempotent if making the same request several times has the same effect as making it once; GET, PUT, and DELETE are idempotent, while POST generally is not. These properties guide how clients and caches can treat requests.\n\nGratisAPI publishes the method list as data at /api/http-methods/index.json. Each entry names a method and describes its purpose and properties, which is useful for building documentation or teaching tools. Because GratisAPI serves static data, every endpoint responds to GET, matching the read only nature of the project.\n\nChoosing the right method is central to designing a clean REST API. Using GET for reads, POST for creation, and DELETE for removal makes your interface predictable, and predictability is what lets other developers use your service with confidence.",
+  "word_count": 315,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-http-methods.json"
+}

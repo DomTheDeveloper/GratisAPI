@@ -1,0 +1,9 @@
+{
+  "id": "ngc-2903",
+  "name": "NGC 2903",
+  "type": "Spiral",
+  "constellation": "Leo",
+  "distance_mly": 30,
+  "notes": "A bright barred spiral galaxy with active star formation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/ngc-2903.json"
+}

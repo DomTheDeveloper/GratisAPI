@@ -1,0 +1,8 @@
+{
+  "id": "accept-encoding",
+  "header": "Accept-Encoding",
+  "type": "Request",
+  "description": "Lists the content encodings (compression) the client accepts.",
+  "example": "gzip, deflate, br",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/accept-encoding.json"
+}

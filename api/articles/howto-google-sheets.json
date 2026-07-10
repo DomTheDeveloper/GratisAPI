@@ -1,0 +1,17 @@
+{
+  "id": "howto-google-sheets",
+  "title": "Pulling GratisAPI Data into Google Sheets",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-05-20",
+  "tags": [
+    "google-sheets",
+    "apps-script",
+    "no-code"
+  ],
+  "summary": "Import GratisAPI collections into a spreadsheet using IMPORTDATA or a short Apps Script function.",
+  "body": "You do not need to be a programmer to use GratisAPI. Google Sheets can pull the data in with a built-in formula or a small script, turning any endpoint into a live spreadsheet.\n\nFor the simplest cases, the IMPORTDATA function fetches a URL directly into cells. However, IMPORTDATA expects CSV or plain tabular text, and GratisAPI serves JSON, so it works best with a helper that returns flattened data. The most reliable approach for JSON is a short Apps Script custom function.\n\nOpen Extensions, then Apps Script, and add a function that fetches an endpoint and returns a two-dimensional array, which Sheets spreads across cells:\n\nfunction GRATIS(url, key) {\n  const res = UrlFetchApp.fetch(url);\n  const data = JSON.parse(res.getContentText());\n  const rows = data[key];\n  const headers = Object.keys(rows[0]);\n  const out = [headers];\n  rows.forEach(r => out.push(headers.map(h => r[h])));\n  return out;\n}\n\nBack in the sheet, call it like a formula: =GRATIS(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\", \"colors\"). The first argument is the endpoint URL and the second is the key holding the record array. The function returns a header row followed by one row per record, and Sheets fills the surrounding cells automatically.\n\nUrlFetchApp handles the network request inside Google's infrastructure, so there are no keys to configure and no CORS issues to worry about. Because GratisAPI endpoints are static and keyless, the fetch just works.\n\nOnce the data is in the grid, all of Sheets is available: sort, filter, build pivot tables, or chart the results. If you want the sheet to refresh, re-open it or use a time-driven trigger in Apps Script to re-run the fetch on a schedule. This makes GratisAPI a friendly data source for analysts and non-developers who live in spreadsheets rather than code editors.",
+  "word_count": 281,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-google-sheets.json"
+}

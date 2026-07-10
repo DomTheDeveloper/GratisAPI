@@ -1,0 +1,17 @@
+{
+  "id": "reference-what-is-an-api",
+  "title": "What is an API?",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-01-15",
+  "tags": [
+    "api",
+    "basics",
+    "web"
+  ],
+  "summary": "An introduction to application programming interfaces and why they matter for modern software.",
+  "body": "An API, or application programming interface, is a set of rules that lets one piece of software talk to another. Instead of a human clicking buttons in an app, a program sends a request and receives a structured response it can process automatically. APIs define what requests are allowed, what data must be provided, and what will come back.\n\nThink of an API as a contract between a provider and a consumer. The provider promises that if you ask a question in the agreed format, you will get an answer in a predictable shape. This lets teams build on top of each other's work without needing to understand every internal detail. A weather app does not calculate the forecast itself; it asks a weather API and displays the result.\n\nAPIs come in many styles. Web APIs, which are the most common today, work over the same protocols that power websites. You send a request to a web address and receive data back, often in JSON. Other kinds of interfaces exist inside operating systems and libraries, but when people say API today they usually mean a web service.\n\nGratisAPI is itself a collection of small, free web APIs. Each dataset lives at a stable web address that returns plain JSON. For example, you can fetch a list of HTTP methods from /api/http-methods/index.json or color definitions from /api/colors/index.json. Because the data is static, there are no keys, no rate limits, and no sign up required.\n\nUnderstanding APIs is the foundation for almost everything else in modern development. Once you grasp the idea of a request and a structured response, concepts like REST, JSON, and status codes fall into place naturally. The rest of this reference series builds on that single idea.",
+  "word_count": 289,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-what-is-an-api.json"
+}

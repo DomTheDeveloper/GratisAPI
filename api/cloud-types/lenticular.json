@@ -1,0 +1,8 @@
+{
+  "id": "lenticular",
+  "name": "Lenticular",
+  "abbreviation": "Ac len",
+  "altitude_level": "Middle",
+  "description": "Smooth, lens- or saucer-shaped clouds that form over hills and mountains.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/lenticular.json"
+}

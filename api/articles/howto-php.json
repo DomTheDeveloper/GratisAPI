@@ -1,0 +1,17 @@
+{
+  "id": "howto-php",
+  "title": "Consuming GratisAPI in PHP",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-01-15",
+  "tags": [
+    "php",
+    "json",
+    "web"
+  ],
+  "summary": "Fetch and decode GratisAPI endpoints in PHP using file_get_contents or cURL.",
+  "body": "PHP can consume GratisAPI with nothing more than its built-in functions. Because the endpoints are static JSON files that need no authentication, a one-line fetch followed by a decode is enough.\n\nThe simplest method uses file_get_contents to retrieve the body and json_decode to parse it. Pass true as the second argument to json_decode so you get associative arrays instead of objects:\n\n<?php\n$url = \"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\";\n$body = file_get_contents($url);\n$data = json_decode($body, true);\n\necho \"Loaded \" . $data[\"count\"] . \" colors\\n\";\nforeach ($data[\"colors\"] as $color) {\n    echo $color[\"name\"] . \": \" . $color[\"hex\"] . \"\\n\";\n}\n\nFor file_get_contents to fetch a URL, the allow_url_fopen setting must be enabled, which it is by default on most hosts. If it is disabled, or if you need finer control over timeouts and error handling, use the cURL extension instead. With cURL you create a handle, set CURLOPT_RETURNTRANSFER so the body is returned rather than printed, execute the request, and then decode the result.\n\nAlways check that json_decode did not return null, which signals a parse failure, and verify the HTTP status when using cURL so a missing endpoint does not pass silently. Wrapping the logic in a small helper function keeps your calling code tidy.\n\nBecause GratisAPI serves complete collections, a single request gives you the whole dataset to loop over with foreach. This makes it easy to render a table, seed a database, or power a widget on a page. With no keys to store and no rate limits to respect, GratisAPI fits comfortably into any PHP project, from a plain script to a full framework like Laravel where you might wrap the call in an HTTP client service.",
+  "word_count": 276,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-php.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "biathlon",
+  "name": "Biathlon",
+  "category": "Winter",
+  "type": "Individual",
+  "first_olympics_year": 1960,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/biathlon.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 20,
+  "name": "Pure Capsaicin",
+  "scoville_min": 16000000,
+  "scoville_max": 16000000,
+  "type": "Extract",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/scoville-scale/20.json"
+}

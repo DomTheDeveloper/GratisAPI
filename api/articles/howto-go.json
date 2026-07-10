@@ -1,0 +1,17 @@
+{
+  "id": "howto-go",
+  "title": "Consuming GratisAPI in Go",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-11-13",
+  "tags": [
+    "go",
+    "http",
+    "json"
+  ],
+  "summary": "Fetch a GratisAPI endpoint in Go using net/http and decode it into typed structs.",
+  "body": "Go's standard library includes everything needed to consume GratisAPI: an HTTP client in net/http and a JSON decoder in encoding/json. Because the endpoints are static and keyless, the code is short and dependency-free.\n\nGo encourages decoding JSON into typed structs. Define a struct that mirrors the fields you care about, then decode the response body into it:\n\npackage main\n\nimport (\n    \"encoding/json\"\n    \"fmt\"\n    \"net/http\"\n)\n\ntype Response struct {\n    Count  int `json:\"count\"`\n    Quotes []struct {\n        Text   string `json:\"text\"`\n        Author string `json:\"author\"`\n    } `json:\"quotes\"`\n}\n\nfunc main() {\n    resp, err := http.Get(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\n    if err != nil { panic(err) }\n    defer resp.Body.Close()\n\n    var data Response\n    json.NewDecoder(resp.Body).Decode(&data)\n    fmt.Printf(\"Loaded %d quotes\\n\", data.Count)\n}\n\nThe struct tags map JSON keys to Go fields. You only need to declare the fields you intend to use; the decoder ignores the rest. Always defer resp.Body.Close() to release the connection, and in production check the error returned by Decode as well as the HTTP status code.\n\nGo's static typing gives you an early guarantee that your code and the data agree in shape. If you would rather stay dynamic, decode into a map[string]interface{} instead, though structs are clearer and safer for known schemas.\n\nBecause GratisAPI returns whole collections at once, a single http.Get gives you the full dataset to range over. This fits Go's concurrency model well: you can fire off several requests in goroutines and collect the results through channels, all against static files that impose no rate limits and require no authentication.",
+  "word_count": 245,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-go.json"
+}

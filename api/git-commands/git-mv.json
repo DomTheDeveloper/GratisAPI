@@ -1,0 +1,7 @@
+{
+  "id": "git-mv",
+  "command": "git mv",
+  "category": "Snapshot",
+  "description": "Move or rename a file, directory, or symlink while staging the change.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-mv.json"
+}

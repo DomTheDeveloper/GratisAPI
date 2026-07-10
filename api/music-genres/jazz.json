@@ -1,0 +1,8 @@
+{
+  "id": "jazz",
+  "name": "Jazz",
+  "origin_decade": "1910s",
+  "origin_region": "New Orleans, United States",
+  "description": "Improvisation-driven genre blending blues, ragtime, and swing rhythms.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/jazz.json"
+}

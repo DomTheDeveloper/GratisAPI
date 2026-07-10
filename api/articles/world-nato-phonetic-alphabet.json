@@ -1,0 +1,16 @@
+{
+  "id": "world-nato-phonetic-alphabet",
+  "title": "The NATO Phonetic Alphabet",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-05-06",
+  "tags": [
+    "communication",
+    "alphabet"
+  ],
+  "summary": "Alfa, Bravo, Charlie: the NATO phonetic alphabet spells out letters clearly over noisy radio links. This article explains how and why it was created.",
+  "body": "When a pilot reads a call sign over a crackling radio, the difference between the letters B and D can be impossible to hear. The NATO phonetic alphabet solves this by replacing each letter with a distinct word, so that even a garbled transmission comes through clearly.\n\nThe system assigns a code word to every letter: Alfa, Bravo, Charlie, Delta, Echo, and so on through to X-ray, Yankee, and Zulu. The words were carefully chosen and tested so that they sound different from one another even amid heavy static and across speakers of many languages. Alfa and Juliett are spelled unusually to help non English speakers pronounce them correctly.\n\nDespite its name, the alphabet is not just a military tool. It was adopted by the International Civil Aviation Organization in the 1950s and is used worldwide in aviation, shipping, emergency services, and everyday customer support calls, whenever someone needs to spell something out without any risk of confusion.\n\nThe alphabet emerged from decades of trial and error. Earlier spelling alphabets varied from country to country, causing dangerous misunderstandings between allies. After extensive research into which words survived poor radio conditions best, the current version was standardised so that everyone, everywhere, would use the same set.\n\nIts usefulness extends far beyond radios. Anyone reading out a serial number, a booking reference, or a password over the phone benefits from a shared, unambiguous way to name letters. The GratisAPI NATO alphabet dataset at /api/nato-alphabet/index.json lists each letter with its code word, a simple and reliable reference for building communication tools, training aids, or games that put the alphabet to work.",
+  "word_count": 268,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-nato-phonetic-alphabet.json"
+}

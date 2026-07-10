@@ -20,29 +20,48 @@ BASE_URL = "https://domthedeveloper.github.io/GratisAPI"
 # Order in which datasets appear in listings (by module name). Any module not
 # listed here is appended automatically, so new datasets show up without edits.
 DATASET_ORDER = [
+    # Reading
+    "articles",
     # World & geography
     "countries", "us_states", "continents", "oceans", "mountains", "rivers",
-    "lakes", "deserts", "waterfalls", "currencies", "languages",
+    "lakes", "deserts", "waterfalls", "volcanoes", "national_parks",
+    "tallest_buildings", "currencies", "languages",
     # Life & nature
     "animals", "dinosaurs", "dog_breeds", "cat_breeds", "birds", "sharks",
-    "trees", "flowers", "fruits", "vegetables", "spices",
+    "trees", "flowers", "fruits", "vegetables", "spices", "biomes",
+    # Human body
+    "human_bones", "human_organs", "body_systems", "human_senses",
+    "amino_acids", "vitamins", "blood_types",
     # Science
-    "elements", "physical_constants", "math_constants", "si_prefixes",
-    "vitamins", "blood_types", "beaufort_scale",
+    "elements", "minerals", "rock_types", "physical_constants",
+    "math_constants", "si_prefixes",
+    # Scales & measurement
+    "richter_scale", "saffir_simpson", "fujita_scale", "beaufort_scale",
+    "mohs_scale", "ph_scale", "scoville_scale", "uv_index", "paper_sizes",
+    "cooking_measurements", "number_bases",
     # Space
-    "planets", "moons", "constellations", "stars", "zodiac",
+    "planets", "moons", "constellations", "stars", "galaxies", "space_agencies",
+    "space_missions", "mars_rovers", "telescopes", "zodiac",
+    # Earth & sky
+    "cloud_types",
     # Computing & web
-    "http_status", "http_methods", "mime_types", "tcp_ports",
-    "programming_languages", "ascii",
+    "http_status", "http_methods", "http_headers", "mime_types", "tcp_ports",
+    "programming_languages", "operating_systems", "file_formats", "ascii",
+    "css_units", "sql_keywords", "data_structures", "sorting_algorithms",
+    "design_patterns", "git_commands", "logic_gates",
     # Language & symbols
-    "greek_alphabet", "nato_alphabet", "morse_code", "roman_numerals",
+    "greek_alphabet", "cyrillic_alphabet", "hebrew_alphabet", "hiragana",
+    "katakana", "braille", "nato_alphabet", "morse_code", "roman_numerals",
     # Culture, myth & history
-    "quotes", "us_presidents", "greek_gods", "norse_gods", "egyptian_gods",
-    "seven_wonders", "chinese_zodiac", "birthstones", "tarot_major_arcana",
-    "gemstones",
+    "quotes", "us_presidents", "greek_gods", "roman_gods", "norse_gods",
+    "egyptian_gods", "hindu_gods", "celtic_gods", "world_religions",
+    "seven_wonders", "seven_deadly_sins", "chinese_zodiac", "birthstones",
+    "tarot_major_arcana", "gemstones",
     # Arts, food & games
-    "colors", "musical_instruments", "cocktails", "chess_pieces",
-    "playing_cards", "calendar",
+    "colors", "art_movements", "music_genres", "film_genres",
+    "musical_instruments", "martial_arts", "olympic_sports", "cocktails",
+    "teas", "cheeses", "pasta_shapes", "chess_pieces", "playing_cards",
+    "calendar",
 ]
 
 
@@ -203,7 +222,8 @@ def build_openapi(modules, summaries):
 
 
 def build_sitemap(modules):
-    urls = [f"{BASE_URL}/", f"{BASE_URL}/docs/", f"{BASE_URL}/openapi.json",
+    urls = [f"{BASE_URL}/", f"{BASE_URL}/articles/", f"{BASE_URL}/philosophy/",
+            f"{BASE_URL}/docs/", f"{BASE_URL}/openapi.json",
             f"{BASE_URL}/api/index.json"]
     for module in modules:
         name = module.META["name"]

@@ -1,0 +1,9 @@
+{
+  "id": "zhangjiajie",
+  "name": "Zhangjiajie National Forest Park",
+  "country": "China",
+  "established_year": 1982,
+  "area_km2": 48,
+  "notable_feature": "Towering quartzite sandstone pillars rising through mist.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/zhangjiajie.json"
+}

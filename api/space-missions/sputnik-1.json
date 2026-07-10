@@ -1,0 +1,9 @@
+{
+  "id": "sputnik-1",
+  "name": "Sputnik 1",
+  "agency": "USSR",
+  "launch_year": 1957,
+  "type": "Probe",
+  "achievement": "First artificial satellite to orbit Earth.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/sputnik-1.json"
+}

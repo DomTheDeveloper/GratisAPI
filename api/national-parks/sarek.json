@@ -1,0 +1,9 @@
+{
+  "id": "sarek",
+  "name": "Sarek National Park",
+  "country": "Sweden",
+  "established_year": 1909,
+  "area_km2": 1970,
+  "notable_feature": "Roadless Arctic wilderness of peaks, glaciers, and valleys.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/sarek.json"
+}

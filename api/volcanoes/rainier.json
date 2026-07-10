@@ -1,0 +1,9 @@
+{
+  "id": "rainier",
+  "name": "Mount Rainier",
+  "country": "United States",
+  "type": "Stratovolcano",
+  "elevation_m": 4392,
+  "last_major_eruption": "1450 CE",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/rainier.json"
+}

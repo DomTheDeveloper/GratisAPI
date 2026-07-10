@@ -1,0 +1,16 @@
+{
+  "id": "world-greek-alphabet",
+  "title": "The Greek Alphabet",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2025-01-14",
+  "tags": [
+    "alphabet",
+    "greek"
+  ],
+  "summary": "The Greek alphabet gave the world its very word for alphabet and underpins science and mathematics. This article introduces its twenty-four letters.",
+  "body": "The Greek alphabet is one of the most influential writing systems ever devised. Its twenty-four letters, from alpha to omega, have been in continuous use for around three thousand years and lie at the root of the Latin and Cyrillic scripts used by much of the world today.\n\nThe alphabet was a genuine breakthrough. Adapting an earlier Phoenician script, the Greeks made the crucial innovation of writing down vowels as separate letters, not just consonants. This made the script far easier to read and learn, and it is often called the first true alphabet for exactly this reason. The very word alphabet comes from its first two letters, alpha and beta.\n\nMany of the letters are instantly familiar because they appear everywhere in science and mathematics. Pi names the ratio of a circle's circumference to its diameter, delta signals change, sigma indicates a sum, and lambda, mu, and omega crowd the pages of physics textbooks. Greek letters give specialists a rich supply of ready made symbols.\n\nThe letters also saturate everyday culture. Alpha and omega together mean the beginning and the end, a phrase drawn from the alphabet's first and last letters. University fraternities and sororities name themselves with Greek letters, and countless products and brands borrow their prestige.\n\nBeyond its many borrowings, the alphabet remains the living script of the Greek language, used daily by millions of people. Learning it opens a window onto classical literature, the New Testament, and the origins of Western science. The GratisAPI Greek alphabet dataset at /api/greek-alphabet/index.json lists each letter with its name and both upper and lower case forms, a handy reference for building learning tools, quizzes, or projects that draw on this remarkable script.",
+  "word_count": 282,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-greek-alphabet.json"
+}

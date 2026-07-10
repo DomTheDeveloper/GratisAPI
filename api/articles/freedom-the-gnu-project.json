@@ -1,0 +1,17 @@
+{
+  "id": "freedom-the-gnu-project",
+  "title": "The GNU Project",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-06-06",
+  "tags": [
+    "gnu",
+    "history",
+    "operating-system"
+  ],
+  "summary": "Launched in 1983, the GNU Project set out to build a complete free operating system and produced much of the software the world now runs.",
+  "body": "The GNU Project is a collaborative effort, announced by Richard Stallman in 1983, to develop a complete operating system that would be entirely free software. The name is a recursive acronym meaning GNU's Not Unix, signaling that GNU would be compatible with the widely used Unix system while sharing none of its proprietary code.\n\nBuilding an operating system is enormous work, and the project proceeded piece by piece. Over the years GNU developers produced a vast collection of essential components: the GCC compiler, the GNU C Library, the Bash shell, the Emacs editor, the coreutils, and many more. Much of this software became foundational infrastructure used far beyond the free software community.\n\nOne major piece proved stubborn. The kernel, the central component that manages hardware and processes, was slow to mature under the GNU Hurd effort. In 1991 Linus Torvalds released the Linux kernel, which was soon combined with the GNU system components to form a complete, working, free operating system.\n\nThis history is the source of a long-running naming debate. The FSF and the GNU Project argue that the combined system should be called GNU/Linux to credit the GNU components, while much of the public simply says Linux. The dispute reflects a genuine question of attribution rather than mere pedantry.\n\nBeyond code, the GNU Project produced enduring institutions and ideas: the General Public License, the free software definition, and a philosophy that continues to shape debates about technology and rights.\n\nGratisAPI stands on this inheritance. The tools we build with, the licenses we use, and the very idea that software should respect its users all trace back in part to the ambitious decision, made in 1983, to build an operating system that would belong to everyone.",
+  "word_count": 287,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-the-gnu-project.json"
+}

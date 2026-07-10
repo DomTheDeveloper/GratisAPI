@@ -1,0 +1,8 @@
+{
+  "id": "blues",
+  "name": "Blues",
+  "origin_decade": "1900s",
+  "origin_region": "Southern United States",
+  "description": "African American folk music built on the twelve-bar form and blue notes, ancestral to jazz and rock.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/blues.json"
+}

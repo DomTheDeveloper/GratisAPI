@@ -1,0 +1,8 @@
+{
+  "id": "host",
+  "header": "Host",
+  "type": "Request",
+  "description": "Specifies the domain name and optional port of the target server.",
+  "example": "www.example.com",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/host.json"
+}

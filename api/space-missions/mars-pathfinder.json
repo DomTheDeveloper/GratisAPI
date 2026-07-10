@@ -1,0 +1,9 @@
+{
+  "id": "mars-pathfinder",
+  "name": "Mars Pathfinder",
+  "agency": "NASA",
+  "launch_year": 1996,
+  "type": "Planetary",
+  "achievement": "Delivered the first rover, Sojourner, to Mars.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/mars-pathfinder.json"
+}

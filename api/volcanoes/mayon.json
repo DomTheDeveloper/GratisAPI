@@ -1,0 +1,9 @@
+{
+  "id": "mayon",
+  "name": "Mayon",
+  "country": "Philippines",
+  "type": "Stratovolcano",
+  "elevation_m": 2463,
+  "last_major_eruption": 2018,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/mayon.json"
+}

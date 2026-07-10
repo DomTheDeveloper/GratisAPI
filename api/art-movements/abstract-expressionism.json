@@ -1,0 +1,13 @@
+{
+  "id": "abstract-expressionism",
+  "name": "Abstract Expressionism",
+  "period": "1940s-1950s",
+  "origin_region": "United States",
+  "key_artists": [
+    "Jackson Pollock",
+    "Mark Rothko",
+    "Willem de Kooning"
+  ],
+  "description": "Spontaneous, gestural abstraction emphasizing scale and raw emotion.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/abstract-expressionism.json"
+}

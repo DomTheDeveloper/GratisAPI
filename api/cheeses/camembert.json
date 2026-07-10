@@ -1,0 +1,9 @@
+{
+  "id": "camembert",
+  "name": "Camembert",
+  "country_of_origin": "France",
+  "milk": "Cow",
+  "texture": "Soft",
+  "flavor": "Earthy, mushroomy, and rich",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/camembert.json"
+}

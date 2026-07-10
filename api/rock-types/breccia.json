@@ -1,0 +1,8 @@
+{
+  "id": "breccia",
+  "name": "Breccia",
+  "type": "Sedimentary",
+  "description": "Rock of angular, broken fragments cemented in a fine matrix.",
+  "common_use": "Decorative and ornamental stone.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/breccia.json"
+}

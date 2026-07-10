@@ -1,0 +1,10 @@
+{
+  "id": "111-west-57th-street",
+  "name": "111 West 57th Street",
+  "city": "New York City",
+  "country": "United States",
+  "height_m": 435,
+  "floors": 84,
+  "completed_year": 2021,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/111-west-57th-street.json"
+}

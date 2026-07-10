@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "unit": "Cup",
+  "abbreviation": "c",
+  "type": "Volume",
+  "milliliters": 236.59,
+  "grams": null,
+  "note": "US cup; equals 8 fluid ounces.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/6.json"
+}

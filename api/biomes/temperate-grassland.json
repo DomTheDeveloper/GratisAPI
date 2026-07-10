@@ -1,0 +1,9 @@
+{
+  "id": "temperate-grassland",
+  "name": "Temperate Grassland",
+  "climate": "Warm summers and cold winters, semi-arid",
+  "avg_rainfall_mm": 600,
+  "example_regions": "North American prairies, Eurasian steppe, pampas",
+  "dominant_vegetation": "Grasses and herbaceous plants with few trees.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/temperate-grassland.json"
+}

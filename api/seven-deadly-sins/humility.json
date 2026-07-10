@@ -1,0 +1,9 @@
+{
+  "id": "humility",
+  "name": "Humility",
+  "type": "Virtue",
+  "latin": "Humilitas",
+  "opposite": "Pride",
+  "description": "Modesty and a lack of excessive pride, valuing others and recognizing one's limits.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/humility.json"
+}

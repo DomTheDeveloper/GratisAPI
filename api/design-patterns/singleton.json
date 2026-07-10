@@ -1,0 +1,7 @@
+{
+  "id": "singleton",
+  "name": "Singleton",
+  "category": "Creational",
+  "description": "Ensures a class has only one instance and provides a global point of access to it.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/singleton.json"
+}

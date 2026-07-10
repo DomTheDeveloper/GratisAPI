@@ -1,0 +1,273 @@
+{
+  "api": "sql-keywords",
+  "title": "SQL Keywords",
+  "description": "Common SQL keywords and clauses grouped by language category.",
+  "emoji": "🗄",
+  "license": "GPL-2.0-or-later",
+  "count": 36,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/{id}.json"
+  },
+  "fields": [
+    "category",
+    "description",
+    "id",
+    "keyword"
+  ],
+  "results": [
+    {
+      "id": "select",
+      "keyword": "SELECT",
+      "category": "DQL",
+      "description": "Retrieves rows and columns from one or more tables.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/select.json"
+    },
+    {
+      "id": "from",
+      "keyword": "FROM",
+      "category": "Clause",
+      "description": "Specifies the table or tables from which to retrieve data.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/from.json"
+    },
+    {
+      "id": "where",
+      "keyword": "WHERE",
+      "category": "Clause",
+      "description": "Filters rows based on a specified condition.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/where.json"
+    },
+    {
+      "id": "group-by",
+      "keyword": "GROUP BY",
+      "category": "Clause",
+      "description": "Groups rows that share values so aggregate functions apply per group.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/group-by.json"
+    },
+    {
+      "id": "having",
+      "keyword": "HAVING",
+      "category": "Clause",
+      "description": "Filters groups produced by GROUP BY based on a condition.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/having.json"
+    },
+    {
+      "id": "order-by",
+      "keyword": "ORDER BY",
+      "category": "Clause",
+      "description": "Sorts the result set by one or more columns.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/order-by.json"
+    },
+    {
+      "id": "limit",
+      "keyword": "LIMIT",
+      "category": "Clause",
+      "description": "Restricts the number of rows returned by a query.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/limit.json"
+    },
+    {
+      "id": "distinct",
+      "keyword": "DISTINCT",
+      "category": "Clause",
+      "description": "Removes duplicate rows from the result set.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/distinct.json"
+    },
+    {
+      "id": "join",
+      "keyword": "JOIN",
+      "category": "Clause",
+      "description": "Combines rows from two or more tables based on a related column.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/join.json"
+    },
+    {
+      "id": "inner-join",
+      "keyword": "INNER JOIN",
+      "category": "Clause",
+      "description": "Returns only rows with matching values in both joined tables.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/inner-join.json"
+    },
+    {
+      "id": "left-join",
+      "keyword": "LEFT JOIN",
+      "category": "Clause",
+      "description": "Returns all rows from the left table and matched rows from the right.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/left-join.json"
+    },
+    {
+      "id": "union",
+      "keyword": "UNION",
+      "category": "Operator",
+      "description": "Combines the result sets of two queries, removing duplicates.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/union.json"
+    },
+    {
+      "id": "as",
+      "keyword": "AS",
+      "category": "Clause",
+      "description": "Assigns an alias to a column or table.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/as.json"
+    },
+    {
+      "id": "on",
+      "keyword": "ON",
+      "category": "Clause",
+      "description": "Specifies the condition used to join tables.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/on.json"
+    },
+    {
+      "id": "insert",
+      "keyword": "INSERT",
+      "category": "DML",
+      "description": "Adds one or more new rows into a table.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/insert.json"
+    },
+    {
+      "id": "update",
+      "keyword": "UPDATE",
+      "category": "DML",
+      "description": "Modifies existing rows in a table.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/update.json"
+    },
+    {
+      "id": "delete",
+      "keyword": "DELETE",
+      "category": "DML",
+      "description": "Removes one or more rows from a table.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/delete.json"
+    },
+    {
+      "id": "values",
+      "keyword": "VALUES",
+      "category": "Clause",
+      "description": "Specifies the data to insert with an INSERT statement.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/values.json"
+    },
+    {
+      "id": "set",
+      "keyword": "SET",
+      "category": "Clause",
+      "description": "Specifies the columns and values to change in an UPDATE statement.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/set.json"
+    },
+    {
+      "id": "create",
+      "keyword": "CREATE",
+      "category": "DDL",
+      "description": "Creates a new database object such as a table, index, or view.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/create.json"
+    },
+    {
+      "id": "alter",
+      "keyword": "ALTER",
+      "category": "DDL",
+      "description": "Modifies the structure of an existing database object.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/alter.json"
+    },
+    {
+      "id": "drop",
+      "keyword": "DROP",
+      "category": "DDL",
+      "description": "Permanently deletes a database object such as a table or index.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/drop.json"
+    },
+    {
+      "id": "truncate",
+      "keyword": "TRUNCATE",
+      "category": "DDL",
+      "description": "Quickly removes all rows from a table without logging individual deletes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/truncate.json"
+    },
+    {
+      "id": "grant",
+      "keyword": "GRANT",
+      "category": "DCL",
+      "description": "Gives specific privileges to a database user or role.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/grant.json"
+    },
+    {
+      "id": "revoke",
+      "keyword": "REVOKE",
+      "category": "DCL",
+      "description": "Removes previously granted privileges from a user or role.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/revoke.json"
+    },
+    {
+      "id": "commit",
+      "keyword": "COMMIT",
+      "category": "TCL",
+      "description": "Permanently saves all changes made in the current transaction.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/commit.json"
+    },
+    {
+      "id": "rollback",
+      "keyword": "ROLLBACK",
+      "category": "TCL",
+      "description": "Undoes changes made in the current transaction.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/rollback.json"
+    },
+    {
+      "id": "savepoint",
+      "keyword": "SAVEPOINT",
+      "category": "TCL",
+      "description": "Sets a point within a transaction to which you can later roll back.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/savepoint.json"
+    },
+    {
+      "id": "and",
+      "keyword": "AND",
+      "category": "Operator",
+      "description": "Combines conditions; all must be true for a row to match.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/and.json"
+    },
+    {
+      "id": "or",
+      "keyword": "OR",
+      "category": "Operator",
+      "description": "Combines conditions; at least one must be true for a row to match.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/or.json"
+    },
+    {
+      "id": "not",
+      "keyword": "NOT",
+      "category": "Operator",
+      "description": "Negates a condition.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/not.json"
+    },
+    {
+      "id": "in",
+      "keyword": "IN",
+      "category": "Operator",
+      "description": "Tests whether a value matches any value in a list or subquery.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/in.json"
+    },
+    {
+      "id": "between",
+      "keyword": "BETWEEN",
+      "category": "Operator",
+      "description": "Tests whether a value falls within an inclusive range.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/between.json"
+    },
+    {
+      "id": "like",
+      "keyword": "LIKE",
+      "category": "Operator",
+      "description": "Matches a value against a pattern using wildcards.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/like.json"
+    },
+    {
+      "id": "is-null",
+      "keyword": "IS NULL",
+      "category": "Operator",
+      "description": "Tests whether a value is NULL.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/is-null.json"
+    },
+    {
+      "id": "exists",
+      "keyword": "EXISTS",
+      "category": "Operator",
+      "description": "Tests whether a subquery returns any rows.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/exists.json"
+    }
+  ]
+}

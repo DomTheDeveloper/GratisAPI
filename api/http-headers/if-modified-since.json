@@ -1,0 +1,8 @@
+{
+  "id": "if-modified-since",
+  "header": "If-Modified-Since",
+  "type": "Request",
+  "description": "Makes the request conditional on the resource being modified since a date.",
+  "example": "Sat, 29 Oct 1994 19:43:31 GMT",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/if-modified-since.json"
+}

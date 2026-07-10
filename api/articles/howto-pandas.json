@@ -1,0 +1,17 @@
+{
+  "id": "howto-pandas",
+  "title": "Loading GratisAPI Data into pandas",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2023-08-19",
+  "tags": [
+    "python",
+    "pandas",
+    "data"
+  ],
+  "summary": "Turn a GratisAPI collection into a pandas DataFrame for quick analysis and exploration.",
+  "body": "GratisAPI collections are lists of uniform records, which is exactly the shape pandas loves. In a few lines you can pull an endpoint into a DataFrame and start slicing, filtering, and aggregating.\n\nThe simplest route is to fetch the JSON and hand the list of records to the DataFrame constructor:\n\nimport requests\nimport pandas as pd\n\nurl = \"https://domthedeveloper.github.io/GratisAPI/api/elements/index.json\"\ndata = requests.get(url, timeout=10).json()\ndf = pd.DataFrame(data[\"elements\"])\n\nprint(df.head())\nprint(df.describe())\n\nBecause each endpoint wraps its records under a named key, point the DataFrame at that inner list rather than the whole response object. Once loaded, the full power of pandas is available. You can sort by a column, filter with boolean masks, group and aggregate, or compute summary statistics with describe.\n\nFor example, with the elements collection you could compute the average atomic mass by group, or select all elements discovered in a given century. With the countries collection you could sort by population or filter by continent. Since GratisAPI returns entire datasets in one request, the whole collection is already in memory, so every operation is fast and offline after that first call.\n\nIf you prefer, pandas can even read JSON directly with pd.read_json, though pulling the record list out yourself gives you more control over nested fields. For nested structures, pd.json_normalize flattens objects into columns. When you are done exploring, export the DataFrame to CSV or Parquet with to_csv or to_parquet to snapshot the data locally. This pattern makes GratisAPI a convenient, no-friction source of clean example datasets for teaching, prototyping, and quick analysis.",
+  "word_count": 254,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-pandas.json"
+}

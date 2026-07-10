@@ -1,0 +1,8 @@
+{
+  "id": "exe",
+  "extension": ".exe",
+  "name": "Windows Executable",
+  "category": "Executable",
+  "description": "An executable program file for Windows.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/exe.json"
+}

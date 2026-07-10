@@ -1,0 +1,10 @@
+{
+  "id": "binary-search-tree",
+  "name": "Binary Search Tree",
+  "category": "Tree",
+  "access_big_o": "O(log n)",
+  "search_big_o": "O(log n)",
+  "insert_big_o": "O(log n)",
+  "description": "A binary tree where each node's left subtree is smaller and right subtree is larger than the node.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/binary-search-tree.json"
+}

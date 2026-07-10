@@ -1,0 +1,7 @@
+{
+  "id": "sports",
+  "name": "Sports",
+  "description": "Films centered on athletes, competition, and the world of sport.",
+  "example_film": "Rocky",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/sports.json"
+}

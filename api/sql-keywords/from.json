@@ -1,0 +1,7 @@
+{
+  "id": "from",
+  "keyword": "FROM",
+  "category": "Clause",
+  "description": "Specifies the table or tables from which to retrieve data.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/from.json"
+}

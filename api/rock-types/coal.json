@@ -1,0 +1,8 @@
+{
+  "id": "coal",
+  "name": "Coal",
+  "type": "Sedimentary",
+  "description": "Combustible black rock formed from compressed ancient plant matter.",
+  "common_use": "Fuel and electricity generation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/coal.json"
+}

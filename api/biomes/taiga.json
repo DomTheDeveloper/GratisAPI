@@ -1,0 +1,9 @@
+{
+  "id": "taiga",
+  "name": "Taiga (Boreal Forest)",
+  "climate": "Long cold winters and short cool summers",
+  "avg_rainfall_mm": 500,
+  "example_regions": "Canada, Scandinavia, Siberia",
+  "dominant_vegetation": "Coniferous evergreen trees like spruce, fir, and pine.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/taiga.json"
+}

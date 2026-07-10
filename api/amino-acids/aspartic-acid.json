@@ -1,0 +1,9 @@
+{
+  "id": "aspartic-acid",
+  "name": "Aspartic acid",
+  "three_letter": "Asp",
+  "one_letter": "D",
+  "essential": false,
+  "polarity": "Acidic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/aspartic-acid.json"
+}

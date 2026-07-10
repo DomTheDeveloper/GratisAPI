@@ -1,0 +1,9 @@
+{
+  "id": "category-4",
+  "category": "Category 4",
+  "wind_kmh_min": 209,
+  "wind_kmh_max": 251,
+  "damage": "Catastrophic damage; severe damage to walls and roofs.",
+  "storm_surge_m": 5.5,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/saffir-simpson/category-4.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "english-breakfast",
+  "name": "English Breakfast",
+  "type": "Black",
+  "origin_region": "Blend (India, Sri Lanka, Kenya)",
+  "caffeine": "High",
+  "notes": "Full-bodied, robust blend traditionally taken with milk.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/english-breakfast.json"
+}

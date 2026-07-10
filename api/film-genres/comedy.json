@@ -1,0 +1,7 @@
+{
+  "id": "comedy",
+  "name": "Comedy",
+  "description": "Films designed primarily to amuse and provoke laughter.",
+  "example_film": "Some Like It Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/comedy.json"
+}

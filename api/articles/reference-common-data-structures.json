@@ -1,0 +1,17 @@
+{
+  "id": "reference-common-data-structures",
+  "title": "Common Data Structures",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-01-16",
+  "tags": [
+    "data-structures",
+    "programming",
+    "cs"
+  ],
+  "summary": "Data structures are the different ways programs organize information to make operations efficient.",
+  "body": "A data structure is a way of organizing information inside a program so that it can be used efficiently. Choosing the right structure for a task often matters more than any other decision, because it determines how fast common operations will be. A handful of structures appear again and again across all of computing.\n\nThe array is the most basic. It stores elements in a contiguous block, so you can jump to any position instantly by its index. Arrays are ideal when you know how many items you have and want fast access by position, but inserting into the middle can be slow because other elements must shift.\n\nThe linked list stores each element in its own node that points to the next. This makes inserting and removing items cheap, since you only adjust a few pointers, but reaching a particular item means walking from the start. Stacks and queues are specialized lists: a stack removes the most recently added item first, while a queue removes the oldest first.\n\nThe hash table stores key and value pairs and uses a hash function to place each key in a slot. This gives nearly instant lookup, insertion, and deletion by key on average, which is why hash tables underpin so many programs. Trees organize data hierarchically; a binary search tree keeps items in order so you can search, insert, and delete in time proportional to the tree's depth. Graphs generalize trees to model networks of connections, such as roads or social links.\n\nEach structure trades one strength for another. Arrays give fast indexed access but rigid size; hash tables give fast key lookup but no order; trees give ordered data with efficient search. Knowing these trade offs is the heart of good program design.\n\nGratisAPI provides a reference at /api/data-structures/index.json, with each entry naming a structure and describing its properties and typical operations. It is a compact study aid for interviews or coursework, and a reminder that picking the right container is often the first step toward efficient code.",
+  "word_count": 337,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-common-data-structures.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mangrove",
+  "name": "Mangrove",
+  "climate": "Tropical coastal, warm and tidal",
+  "avg_rainfall_mm": 1800,
+  "example_regions": "Sundarbans, Florida Everglades, Southeast Asian coasts",
+  "dominant_vegetation": "Salt-tolerant mangrove trees with stilt roots.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/mangrove.json"
+}

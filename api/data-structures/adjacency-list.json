@@ -1,0 +1,10 @@
+{
+  "id": "adjacency-list",
+  "name": "Adjacency List",
+  "category": "Graph",
+  "access_big_o": null,
+  "search_big_o": "O(V + E)",
+  "insert_big_o": "O(1)",
+  "description": "A graph representation storing, for each vertex, a list of its adjacent vertices; space-efficient for sparse graphs.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/adjacency-list.json"
+}

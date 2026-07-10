@@ -1,0 +1,9 @@
+{
+  "id": "small-magellanic-cloud",
+  "name": "Small Magellanic Cloud",
+  "type": "Dwarf",
+  "constellation": "Tucana",
+  "distance_mly": 0.2,
+  "notes": "A dwarf satellite galaxy of the Milky Way.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/small-magellanic-cloud.json"
+}

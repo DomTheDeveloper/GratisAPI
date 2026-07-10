@@ -1,0 +1,7 @@
+{
+  "id": "git-cherry-pick",
+  "command": "git cherry-pick",
+  "category": "Branching",
+  "description": "Apply the changes introduced by one or more existing commits onto the current branch.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-cherry-pick.json"
+}

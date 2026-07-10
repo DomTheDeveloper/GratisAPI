@@ -1,0 +1,17 @@
+{
+  "id": "reference-unicode-vs-ascii",
+  "title": "Unicode vs ASCII",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-08-02",
+  "tags": [
+    "unicode",
+    "ascii",
+    "encoding"
+  ],
+  "summary": "Unicode extends the idea of ASCII to cover every writing system, using encodings like UTF-8.",
+  "body": "ASCII was a triumph of its era, but it had a hard limit. With only 128 codes, it could represent English letters and basic symbols, yet it had no room for accented characters, let alone the thousands of symbols used in other writing systems. As computing went global, this became a serious problem.\n\nUnicode was created to solve it once and for all. Instead of 128 codes, Unicode aims to give every character in every human writing system a unique number, called a code point. It covers the Latin alphabet, Greek, Cyrillic, Arabic, Chinese, mathematical symbols, and even emoji. Crucially, the first 128 Unicode code points are identical to ASCII, so old text remains valid.\n\nThere is an important distinction between a code point and how it is stored. A code point is just a number; an encoding decides how that number becomes bytes. The most common encoding today is UTF-8, which is clever in a key way. For the original ASCII characters it uses a single byte identical to ASCII, and for other characters it uses two, three, or four bytes. This means a plain English document in UTF-8 is byte for byte the same as it was in ASCII.\n\nThis design is why UTF-8 won. It gave the world universal text without breaking the enormous body of existing ASCII data. Other encodings like UTF-16 exist, but UTF-8 dominates the web and most file formats.\n\nGratisAPI serves its data as UTF-8 JSON, and its ASCII dataset at /api/ascii/index.json shows the shared foundation both systems rest on. Studying that overlap makes the relationship concrete: ASCII is simply the first small neighborhood of the vast Unicode city.\n\nUnderstanding the difference resolves many everyday mysteries, such as why a document full of strange symbols usually means an encoding mismatch. The lesson is to always know which encoding your text uses, and to prefer UTF-8, which handles the whole world while staying compatible with the past.",
+  "word_count": 323,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-unicode-vs-ascii.json"
+}

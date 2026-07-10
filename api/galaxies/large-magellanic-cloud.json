@@ -1,0 +1,9 @@
+{
+  "id": "large-magellanic-cloud",
+  "name": "Large Magellanic Cloud",
+  "type": "Irregular",
+  "constellation": "Dorado",
+  "distance_mly": 0.163,
+  "notes": "A satellite galaxy of the Milky Way visible from the Southern Hemisphere.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/large-magellanic-cloud.json"
+}

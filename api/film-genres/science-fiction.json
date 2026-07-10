@@ -1,0 +1,7 @@
+{
+  "id": "science-fiction",
+  "name": "Science Fiction",
+  "description": "Speculative films exploring futuristic technology, space, and imagined science.",
+  "example_film": "Blade Runner",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/science-fiction.json"
+}

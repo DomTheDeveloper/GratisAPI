@@ -1,0 +1,9 @@
+{
+  "id": "glycine",
+  "name": "Glycine",
+  "three_letter": "Gly",
+  "one_letter": "G",
+  "essential": false,
+  "polarity": "Nonpolar",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/amino-acids/glycine.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "apk",
+  "extension": ".apk",
+  "name": "Android Package",
+  "category": "Executable",
+  "description": "An installable application package for the Android operating system.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/apk.json"
+}

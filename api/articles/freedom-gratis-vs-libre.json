@@ -1,0 +1,17 @@
+{
+  "id": "freedom-gratis-vs-libre",
+  "title": "Gratis vs Libre: Two Kinds of Free",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-03-02",
+  "tags": [
+    "gratis",
+    "libre",
+    "comparison"
+  ],
+  "summary": "English uses one word, free, for two unrelated ideas, and separating them is essential to thinking clearly about software.",
+  "body": "English is unusually clumsy here. The single word free must carry two ideas that have nothing necessary to do with each other: a price of zero and a grant of liberty. The free software movement popularized a memorable slogan to keep them apart, contrasting free as in free beer with free as in free speech.\n\nGratis names the first idea, cost. Libre names the second, freedom. Because they are independent properties, any combination is possible. A program can be gratis and libre, like most GNU tools. It can be libre but sold for a price. It can be gratis but proprietary, like many advertising-funded apps you download without paying. And of course it can be neither, sold under restrictive terms.\n\nThe trap most people fall into is assuming that no price means freedom. It does not. A gratis application can still forbid you from copying it, hide its source code, spy on you, and stop working the moment its maker decides. You paid nothing, but you control nothing. The absence of a bill is not the presence of liberty.\n\nThe reverse confusion also happens. People hear that free software can be sold and assume the movement is about business models. It is not. Whether money changes hands is beside the point; what matters is which freedoms travel with the software.\n\nThinking clearly requires holding both axes in mind at once. Ask two separate questions of any tool: what does it cost me, and what may I do with it? The answers are unrelated, and a full picture needs both.\n\nGratisAPI deliberately pursues both kinds of free. It costs nothing, and its code and data are openly licensed so your freedoms are real. The name is a small joke about a serious distinction that too many discussions still blur.",
+  "word_count": 298,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-gratis-vs-libre.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "freedom-sustainability-of-free-projects",
+  "title": "The Sustainability of Free Projects",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2024-08-25",
+  "tags": [
+    "sustainability",
+    "maintenance",
+    "funding"
+  ],
+  "summary": "Free projects face a real challenge in staying alive over time, but low costs, community, and openness offer paths to endurance.",
+  "body": "A fair account of free software must face an uncomfortable question: how do projects that charge nothing survive? Maintenance takes time and effort, servers cost money, and the people who do the work have to eat. Sustainability is a genuine challenge, and pretending otherwise helps no one.\n\nThe difficulty is real. Countless free projects are maintained by volunteers in their spare time, and burnout is common. Some critical software the whole world depends on is quietly kept alive by one or two exhausted people. When they stop, the software can stall or decay. The mismatch between how much a project is used and how little its maintainers are supported is a well-known problem.\n\nYet free projects have real advantages in endurance. Openness means the work is never trapped with a single owner; if one maintainer stops, another can pick it up, because the right to fork guarantees continuity. Free software cannot be killed by a bankruptcy or an acquisition in the way proprietary software can.\n\nSeveral funding models have emerged. Some projects thrive on donations and membership. Some are supported by foundations. Some are funded by companies that depend on the software and pay developers to maintain it. Others sell services, support, or hosting around freely licensed code. None is perfect, and the search for stable funding continues, but the ecosystem is not without answers.\n\nDesign choices also affect sustainability. A project with low running costs is far easier to keep alive than one with heavy infrastructure. Static files served from cheap or free hosting, minimal moving parts, and simple architecture reduce the ongoing burden to something a small team or even one person can carry indefinitely.\n\nGratisAPI leans on that last strategy. By staying static, keyless, and simple, it keeps its costs near zero, which makes sustaining it realistic rather than heroic. And because everything is openly licensed, the project can outlive any of us. Sustainability is not guaranteed, but it is designed for.",
+  "word_count": 325,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-sustainability-of-free-projects.json"
+}

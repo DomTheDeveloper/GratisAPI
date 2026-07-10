@@ -1,0 +1,10 @@
+{
+  "id": "ge",
+  "name": "Ge",
+  "uppercase": "Г",
+  "lowercase": "г",
+  "transliteration": "g",
+  "sound": "g as in go",
+  "order": 4,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ge.json"
+}

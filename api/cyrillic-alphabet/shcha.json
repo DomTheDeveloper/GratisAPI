@@ -1,0 +1,10 @@
+{
+  "id": "shcha",
+  "name": "Shcha",
+  "uppercase": "Щ",
+  "lowercase": "щ",
+  "transliteration": "shch",
+  "sound": "soft sh as in fresh cheese",
+  "order": 27,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/shcha.json"
+}

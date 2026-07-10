@@ -1,0 +1,7 @@
+{
+  "id": "state",
+  "name": "State",
+  "category": "Behavioral",
+  "description": "Allows an object to alter its behavior when its internal state changes, appearing to change its class.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/state.json"
+}

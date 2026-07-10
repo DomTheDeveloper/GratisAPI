@@ -1,0 +1,9 @@
+{
+  "id": "tess",
+  "name": "Transiting Exoplanet Survey Satellite",
+  "type": "Space",
+  "location_or_orbit": "High Earth elliptical orbit",
+  "wavelength": "Optical",
+  "first_light_year": 2018,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/tess.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fast",
+  "name": "Five-hundred-meter Aperture Spherical Telescope (FAST)",
+  "type": "Ground",
+  "location_or_orbit": "Guizhou, China",
+  "wavelength": "Radio",
+  "first_light_year": 2016,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/telescopes/fast.json"
+}

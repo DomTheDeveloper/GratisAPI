@@ -1,0 +1,7 @@
+{
+  "id": "git-status",
+  "command": "git status",
+  "category": "Snapshot",
+  "description": "Show the working tree status, including staged, unstaged, and untracked files.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-status.json"
+}

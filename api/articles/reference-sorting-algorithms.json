@@ -1,0 +1,17 @@
+{
+  "id": "reference-sorting-algorithms",
+  "title": "Sorting Algorithms Compared",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-03-04",
+  "tags": [
+    "sorting",
+    "algorithms",
+    "cs"
+  ],
+  "summary": "Sorting algorithms arrange data in order, and they differ widely in speed, memory, and simplicity.",
+  "body": "Sorting is one of the most studied problems in computing, because putting data in order makes so many other tasks easier. Many algorithms solve it, and comparing them is a classic way to learn how algorithm design trades simplicity against speed.\n\nThe simplest algorithms are easy to understand but slow. Bubble sort repeatedly steps through the list, swapping neighbors that are out of order, until no swaps remain. Selection sort finds the smallest remaining item and moves it into place each pass. Insertion sort builds the sorted list one item at a time, sliding each new value into position. All three take quadratic time, meaning their work grows with the square of the input, so they struggle on large lists but are fine for small ones.\n\nThe faster algorithms use a divide and conquer strategy. Merge sort splits the list in half, sorts each half, and merges the results, guaranteeing linearithmic time in every case but needing extra memory. Quicksort partitions the list around a chosen pivot and sorts the parts; it is usually very fast and works in place, though a poor pivot can degrade it to quadratic time. Heapsort uses a heap structure to achieve reliable linearithmic time with little extra memory.\n\nBeyond speed, algorithms differ in other ways. A stable sort preserves the relative order of items that compare equal, which matters when sorting by multiple keys. An in place sort uses little extra memory. These properties often decide which algorithm fits a real situation, since the theoretically fastest choice is not always the most practical.\n\nGratisAPI provides a reference at /api/sorting-algorithms/index.json. Each entry names an algorithm and lists its best, average, and worst case time complexity, along with notes on stability and memory use. Seeing them together makes the trade offs vivid.\n\nStudying sorting is really studying algorithm design in miniature. The same lessons, that clever strategies beat brute force and that no single method is best for every case, apply throughout computer science.",
+  "word_count": 328,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-sorting-algorithms.json"
+}

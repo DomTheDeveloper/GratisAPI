@@ -1,0 +1,7 @@
+{
+  "id": "bridge",
+  "name": "Bridge",
+  "category": "Structural",
+  "description": "Decouples an abstraction from its implementation so the two can vary independently.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/bridge.json"
+}

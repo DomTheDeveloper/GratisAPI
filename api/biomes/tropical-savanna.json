@@ -1,0 +1,9 @@
+{
+  "id": "tropical-savanna",
+  "name": "Tropical Savanna",
+  "climate": "Warm with distinct wet and dry seasons",
+  "avg_rainfall_mm": 1000,
+  "example_regions": "Serengeti, northern Australia, the Cerrado",
+  "dominant_vegetation": "Grasslands with scattered drought-tolerant trees.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/tropical-savanna.json"
+}

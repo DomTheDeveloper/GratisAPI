@@ -1,0 +1,7 @@
+{
+  "id": "facade",
+  "name": "Facade",
+  "category": "Structural",
+  "description": "Provides a unified, simplified interface to a set of interfaces in a subsystem.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/facade.json"
+}

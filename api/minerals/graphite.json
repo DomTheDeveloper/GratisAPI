@@ -1,0 +1,9 @@
+{
+  "id": "graphite",
+  "name": "Graphite",
+  "chemical_formula": "C",
+  "mohs_hardness": 1.5,
+  "color": "Steel grey to black",
+  "luster": "Metallic to dull",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/minerals/graphite.json"
+}

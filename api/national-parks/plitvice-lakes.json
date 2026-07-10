@@ -1,0 +1,9 @@
+{
+  "id": "plitvice-lakes",
+  "name": "Plitvice Lakes National Park",
+  "country": "Croatia",
+  "established_year": 1949,
+  "area_km2": 295,
+  "notable_feature": "A cascade of terraced lakes linked by waterfalls.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/plitvice-lakes.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "world-tarot-major-arcana",
+  "title": "The Major Arcana of Tarot",
+  "category": "Culture",
+  "author": "The GratisAPI Team",
+  "date": "2024-04-12",
+  "tags": [
+    "tarot",
+    "symbolism"
+  ],
+  "summary": "The Major Arcana are twenty-two symbolic cards at the heart of the tarot deck. This article introduces their imagery and interpretation.",
+  "body": "A tarot deck is divided into two parts, and the twenty-two cards of the Major Arcana are its dramatic core. Where the Minor Arcana resemble ordinary playing cards, the Major Arcana are rich symbolic images that many readers treat as the most meaningful cards in a spread.\n\nThe sequence runs from the Fool, numbered zero, through cards such as the Magician, the High Priestess, the Empress, and the Emperor, on to the Wheel of Fortune, Death, the Tower, the Star, the Sun, and finally the World. Read in order, they are often described as the Fool's Journey, an allegory of a soul passing through the great experiences and lessons of life.\n\nEach card carries layers of meaning drawn from mythology, astrology, and medieval symbolism. Some, like the Sun and the Star, are generally seen as hopeful. Others, like the Tower and Death, look ominous but are usually interpreted more subtly. Death, for instance, is commonly read as transformation and endings that make way for new beginnings rather than literal demise.\n\nTarot began in fifteenth century Europe as a card game, and only centuries later did it become associated with divination and self reflection. Today people use the cards in many ways, from fortune telling to meditation to creative brainstorming, without necessarily believing they predict the future.\n\nThe imagery has also become a wellspring for artists, who reinterpret the traditional cards in countless visual styles. The GratisAPI tarot Major Arcana dataset at /api/tarot-major-arcana/index.json lists each card with its number, name, and traditional meanings, a clean reference for building reading apps, study tools, or creative projects inspired by these enduring images.",
+  "word_count": 269,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/world-tarot-major-arcana.json"
+}

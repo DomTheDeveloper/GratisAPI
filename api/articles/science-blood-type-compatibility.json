@@ -1,0 +1,17 @@
+{
+  "id": "science-blood-type-compatibility",
+  "title": "Blood Type Compatibility",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-05-21",
+  "tags": [
+    "biology",
+    "medicine",
+    "blood-types"
+  ],
+  "summary": "Blood types determine who can safely donate to whom, a matching system that is a matter of life and death in transfusions.",
+  "body": "Not all blood is alike, and mixing the wrong types can be fatal. This is why blood typing is one of the most important routine tests in medicine. The system that matters most is the ABO group, which sorts blood into four types: A, B, AB, and O.\n\nThe types are defined by molecules called antigens on the surface of red blood cells. Type A blood carries the A antigen, type B carries the B antigen, type AB carries both, and type O carries neither. Crucially, your blood plasma contains antibodies against whichever antigens you lack. A person with type A blood, for example, has antibodies that attack type B cells. If incompatible blood is transfused, these antibodies cause the donor cells to clump together, which can be deadly.\n\nThis leads to the famous compatibility rules. Type O negative blood has no ABO antigens and is called the universal donor because it can be given to almost anyone in an emergency. Type AB positive blood, carrying every antigen and no attacking antibodies, is the universal recipient, able to receive from any group.\n\nLayered on top of ABO is the Rhesus, or Rh, factor, another antigen that a person either has, making them positive, or lacks, making them negative. This is the plus or minus you see after your blood type. The Rh factor matters especially in pregnancy, where a mismatch between mother and baby can cause serious complications that doctors now prevent with a simple injection.\n\nBecause of these rules, blood banks must carefully match donors and recipients, and certain types are always in high demand. You can look up the antigens, antibodies, and compatibility of each blood type through the GratisAPI endpoint at /api/blood-types/index.json.",
+  "word_count": 285,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-blood-type-compatibility.json"
+}

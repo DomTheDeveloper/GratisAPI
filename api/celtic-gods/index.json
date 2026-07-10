@@ -1,0 +1,166 @@
+{
+  "api": "celtic-gods",
+  "title": "Celtic Gods and Mythological Figures",
+  "description": "Deities and legendary figures from Irish, Welsh, and Gaulish Celtic mythology.",
+  "emoji": "🍀",
+  "license": "GPL-2.0-or-later",
+  "count": 18,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/{id}.json"
+  },
+  "fields": [
+    "domain",
+    "id",
+    "name",
+    "notes",
+    "tradition"
+  ],
+  "results": [
+    {
+      "id": "the-dagda",
+      "name": "The Dagda",
+      "domain": "Fertility, abundance, and wisdom",
+      "tradition": "Irish",
+      "notes": "Father-figure of the Tuatha De Danann, owning a cauldron of plenty and a magic club.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/the-dagda.json"
+    },
+    {
+      "id": "the-morrigan",
+      "name": "The Morrigan",
+      "domain": "War, fate, and sovereignty",
+      "tradition": "Irish",
+      "notes": "A goddess of battle and prophecy, often appearing as a crow.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/the-morrigan.json"
+    },
+    {
+      "id": "lugh",
+      "name": "Lugh",
+      "domain": "Skill, crafts, and light",
+      "tradition": "Irish",
+      "notes": "Master of many arts among the Tuatha De Danann; the festival Lughnasadh bears his name.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/lugh.json"
+    },
+    {
+      "id": "brigid",
+      "name": "Brigid",
+      "domain": "Poetry, healing, and smithcraft",
+      "tradition": "Irish",
+      "notes": "Daughter of the Dagda, later associated with the Christian Saint Brigid.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/brigid.json"
+    },
+    {
+      "id": "nuada",
+      "name": "Nuada",
+      "domain": "Kingship",
+      "tradition": "Irish",
+      "notes": "First king of the Tuatha De Danann, who received a silver arm after losing his own.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/nuada.json"
+    },
+    {
+      "id": "danu",
+      "name": "Danu",
+      "domain": "Mother goddess and rivers",
+      "tradition": "Irish",
+      "notes": "Ancestral mother of the Tuatha De Danann, whose name means 'people of the goddess Danu'.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/danu.json"
+    },
+    {
+      "id": "manannan-mac-lir",
+      "name": "Manannan mac Lir",
+      "domain": "The sea and the otherworld",
+      "tradition": "Irish",
+      "notes": "Sea god who rides across the waves and guards the passage to the otherworld.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/manannan-mac-lir.json"
+    },
+    {
+      "id": "aengus",
+      "name": "Aengus",
+      "domain": "Love, youth, and poetic inspiration",
+      "tradition": "Irish",
+      "notes": "Son of the Dagda, associated with the palace at Brugh na Boinne (Newgrange).",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/aengus.json"
+    },
+    {
+      "id": "ogma",
+      "name": "Ogma",
+      "domain": "Eloquence, language, and strength",
+      "tradition": "Irish",
+      "notes": "Credited with inventing the Ogham script; a warrior and champion of the Tuatha De Danann.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/ogma.json"
+    },
+    {
+      "id": "dian-cecht",
+      "name": "Dian Cecht",
+      "domain": "Healing and medicine",
+      "tradition": "Irish",
+      "notes": "Physician of the Tuatha De Danann who crafted a silver arm for King Nuada.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/dian-cecht.json"
+    },
+    {
+      "id": "cu-chulainn",
+      "name": "Cu Chulainn",
+      "domain": "Heroism and battle",
+      "tradition": "Irish",
+      "notes": "Legendary warrior of the Ulster Cycle, famed for his battle-frenzy and the Tain Bo Cuailnge.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/cu-chulainn.json"
+    },
+    {
+      "id": "rhiannon",
+      "name": "Rhiannon",
+      "domain": "Horses, sovereignty, and the otherworld",
+      "tradition": "Welsh",
+      "notes": "A figure of the Mabinogi associated with a white horse and magical birds.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/rhiannon.json"
+    },
+    {
+      "id": "arawn",
+      "name": "Arawn",
+      "domain": "The otherworld of Annwn",
+      "tradition": "Welsh",
+      "notes": "King of the underworld realm of Annwn in the First Branch of the Mabinogi.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/arawn.json"
+    },
+    {
+      "id": "gwydion",
+      "name": "Gwydion",
+      "domain": "Magic and trickery",
+      "tradition": "Welsh",
+      "notes": "A magician and hero of the Fourth Branch of the Mabinogi.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/gwydion.json"
+    },
+    {
+      "id": "arianrhod",
+      "name": "Arianrhod",
+      "domain": "The moon and stars",
+      "tradition": "Welsh",
+      "notes": "A figure of the Mabinogi linked to the constellation Corona Borealis (Caer Arianrhod).",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/arianrhod.json"
+    },
+    {
+      "id": "bran-the-blessed",
+      "name": "Bran the Blessed",
+      "domain": "Kingship and protection",
+      "tradition": "Welsh",
+      "notes": "Giant king of Britain in the Mabinogi whose severed head guarded the land.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/bran-the-blessed.json"
+    },
+    {
+      "id": "cernunnos",
+      "name": "Cernunnos",
+      "domain": "Animals, fertility, and the wild",
+      "tradition": "Gaulish",
+      "notes": "Horned deity depicted on the Gundestrup cauldron and Gaulish carvings.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/cernunnos.json"
+    },
+    {
+      "id": "epona",
+      "name": "Epona",
+      "domain": "Horses, fertility, and protection",
+      "tradition": "Gaulish",
+      "notes": "Horse goddess venerated across Gaul and adopted by the Roman cavalry.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/celtic-gods/epona.json"
+    }
+  ]
+}

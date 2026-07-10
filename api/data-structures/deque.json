@@ -1,0 +1,10 @@
+{
+  "id": "deque",
+  "name": "Deque",
+  "category": "Linear",
+  "access_big_o": "O(1)",
+  "search_big_o": "O(n)",
+  "insert_big_o": "O(1)",
+  "description": "A double-ended queue allowing constant-time insertion and removal at both ends.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/deque.json"
+}

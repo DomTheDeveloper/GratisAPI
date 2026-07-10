@@ -1,0 +1,8 @@
+{
+  "id": "etag",
+  "header": "ETag",
+  "type": "Response",
+  "description": "An identifier for a specific version of a resource, used for caching.",
+  "example": "\"33a64df5\"",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/etag.json"
+}

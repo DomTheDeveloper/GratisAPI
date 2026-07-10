@@ -1,0 +1,7 @@
+{
+  "id": "truncate",
+  "keyword": "TRUNCATE",
+  "category": "DDL",
+  "description": "Quickly removes all rows from a table without logging individual deletes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/truncate.json"
+}

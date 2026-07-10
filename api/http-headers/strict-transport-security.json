@@ -1,0 +1,8 @@
+{
+  "id": "strict-transport-security",
+  "header": "Strict-Transport-Security",
+  "type": "Response",
+  "description": "Forces the browser to use HTTPS for future requests to the domain.",
+  "example": "max-age=31536000",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/strict-transport-security.json"
+}

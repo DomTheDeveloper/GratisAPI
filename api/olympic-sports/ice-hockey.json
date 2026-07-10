@@ -1,0 +1,8 @@
+{
+  "id": "ice-hockey",
+  "name": "Ice Hockey",
+  "category": "Winter",
+  "type": "Team",
+  "first_olympics_year": 1920,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/ice-hockey.json"
+}

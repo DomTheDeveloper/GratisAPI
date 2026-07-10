@@ -1,0 +1,338 @@
+[
+  {
+    "id": "howto-fetch-javascript",
+    "title": "Fetching Data with the JavaScript fetch() API",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-02-14",
+    "tags": [
+      "javascript",
+      "fetch",
+      "browser"
+    ],
+    "summary": "Learn how to pull GratisAPI data straight into the browser using the built-in fetch() function, with no libraries required.",
+    "body": "Every GratisAPI endpoint is a plain JSON file served over HTTPS, which makes the browser's built-in fetch() function all you need. There are no API keys to manage, no headers to set, and no rate limits to worry about. You simply request a URL and read the response.\n\nHere is the core pattern. Call fetch() with the full endpoint URL, then convert the response to JSON with the .json() method, which itself returns a promise:\n\nfetch(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\n  .then(response => response.json())\n  .then(data => console.log(data))\n  .catch(error => console.error(error));\n\nThe /api/quotes/index.json endpoint returns an object describing the collection along with the list of items. Because the data is static, the same request always returns the same shape, so you can rely on the structure when you write your rendering code.\n\nA few practical tips. First, always attach a .catch() handler so that network failures do not silently break your page. Second, remember that fetch() only rejects on network errors, not on HTTP error statuses, so if you need to detect a missing file you should check response.ok before parsing. Third, because the files never change without a new deploy, the browser and any intermediate CDN cache them aggressively, which keeps repeat visits fast.\n\nOnce you have the parsed data, rendering it is ordinary DOM work. Loop over the array of records, build elements, and append them to the page. Since GratisAPI ships whole datasets in a single file, you get everything in one round trip and can filter or sort on the client without additional requests. This makes fetch() an ideal match for the API's static, no-nonsense design."
+  },
+  {
+    "id": "howto-async-await",
+    "title": "Using async and await with GratisAPI",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-03-09",
+    "tags": [
+      "javascript",
+      "async",
+      "await"
+    ],
+    "summary": "Rewrite your GratisAPI calls with async/await for flatter, more readable code that handles errors cleanly.",
+    "body": "Promise chains work, but async and await make asynchronous code read like ordinary sequential code. Because GratisAPI endpoints are simple JSON files, they are a perfect place to practice the pattern.\n\nDeclare a function with the async keyword, then use await to pause until each promise settles. Wrap the logic in a try/catch block so that both network failures and parsing problems land in one place:\n\nasync function getColors() {\n  try {\n    const response = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\");\n    if (!response.ok) throw new Error(\"HTTP \" + response.status);\n    const data = await response.json();\n    return data;\n  } catch (error) {\n    console.error(\"Failed to load colors:\", error);\n    return null;\n  }\n}\n\nNotice the response.ok check. The fetch() promise resolves even when the server returns a 404, so without this guard a missing endpoint would slip through and only fail later when you tried to use undefined data. Throwing early keeps your error handling honest.\n\nBecause await unwraps the promise for you, the returned data is a normal JavaScript object you can immediately loop over. If you need to load several endpoints at once, do not await them one after another in a loop, which runs them in series. Instead kick them all off and await Promise.all, so the requests overlap:\n\nconst [colors, quotes] = await Promise.all([getColors(), getQuotes()]);\n\nThis parallel approach matters more as you combine datasets. GratisAPI serves each collection as a complete file, so two endpoints mean two independent downloads that the browser can run concurrently. The result is code that is both easier to read and faster than a naive sequential chain."
+  },
+  {
+    "id": "howto-react-app",
+    "title": "Using GratisAPI in a React App",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-04-21",
+    "tags": [
+      "react",
+      "javascript",
+      "hooks"
+    ],
+    "summary": "Fetch and render GratisAPI collections inside a React component using useEffect and useState.",
+    "body": "React makes consuming GratisAPI straightforward because the data is static and predictable. The standard approach is to fetch once when a component mounts, store the result in state, and render from that state.\n\nUse the useState hook to hold the data, a loading flag, and any error. Use the useEffect hook to perform the fetch after the first render. Pass an empty dependency array so the request runs only once:\n\nimport { useState, useEffect } from \"react\";\n\nfunction Quotes() {\n  const [quotes, setQuotes] = useState([]);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    fetch(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\n      .then(r => r.json())\n      .then(data => { setQuotes(data.quotes); setLoading(false); })\n      .catch(() => setLoading(false));\n  }, []);\n\n  if (loading) return <p>Loading...</p>;\n  return <ul>{quotes.map(q => <li key={q.id}>{q.text}</li>)}</ul>;\n}\n\nA couple of details make this robust. Always provide a stable key prop, and GratisAPI records include an id field that is ideal for this. Keep a loading state so the interface does not flash empty content while the request is in flight, and handle errors so a network hiccup does not leave the user staring at a blank screen.\n\nBecause GratisAPI returns entire datasets in a single file, you rarely need to re-fetch. Load the collection once, then filter, sort, or paginate in memory using ordinary array methods and additional state. For larger apps you might move the fetch into a custom hook such as useGratisAPI, or into a data library like React Query that adds caching and revalidation for free. Either way, the underlying request stays a simple, keyless GET against a static JSON file."
+  },
+  {
+    "id": "howto-vue-app",
+    "title": "Using GratisAPI in a Vue App",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-05-18",
+    "tags": [
+      "vue",
+      "javascript",
+      "composition-api"
+    ],
+    "summary": "Load GratisAPI data into a Vue component using the Composition API and reactive refs.",
+    "body": "Vue's reactivity system pairs nicely with GratisAPI's static JSON files. With the Composition API you fetch the data in the setup function, store it in a ref, and let Vue update the template automatically when the value arrives.\n\nHere is a single-file component that loads the colors collection. The onMounted lifecycle hook triggers the request after the component is mounted, and the ref keeps the result reactive:\n\n<script setup>\nimport { ref, onMounted } from \"vue\";\n\nconst colors = ref([]);\nconst loading = ref(true);\n\nonMounted(async () => {\n  try {\n    const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\");\n    const data = await res.json();\n    colors.value = data.colors;\n  } finally {\n    loading.value = false;\n  }\n});\n</script>\n\n<template>\n  <p v-if=\"loading\">Loading...</p>\n  <ul v-else>\n    <li v-for=\"c in colors\" :key=\"c.id\">{{ c.name }} - {{ c.hex }}</li>\n  </ul>\n</template>\n\nThe v-for directive iterates the array, and binding :key to each record's id helps Vue track items efficiently. The v-if and v-else pair swaps a loading message for the list once data is ready.\n\nBecause the endpoint returns the whole collection at once, you can build computed properties to filter or sort without touching the network again. For example, a computed value could return only colors whose name matches a search box. If you use Pinia for state management, move the fetch into a store action so multiple components can share the same cached data. The key point is that GratisAPI asks nothing special of Vue: no keys, no auth, just a fetch of a static file that slots directly into the framework's reactive model."
+  },
+  {
+    "id": "howto-nodejs",
+    "title": "Calling GratisAPI from Node.js",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-06-11",
+    "tags": [
+      "nodejs",
+      "javascript",
+      "server"
+    ],
+    "summary": "Use the native fetch available in modern Node.js to retrieve GratisAPI data on the server.",
+    "body": "Modern versions of Node.js, from version 18 onward, ship with a global fetch function, so calling GratisAPI on the server needs no dependencies at all. The code looks almost identical to browser code.\n\nCreate a script and await a fetch against any endpoint:\n\nasync function main() {\n  const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/countries/index.json\");\n  if (!res.ok) throw new Error(\"Request failed: \" + res.status);\n  const data = await res.json();\n  console.log(`Loaded ${data.count} countries`);\n}\n\nmain().catch(console.error);\n\nRun it with node script.mjs. If you are on an older Node release without global fetch, either upgrade or install a small library such as node-fetch and import it at the top.\n\nServer-side use unlocks a few patterns the browser cannot easily do. You can fetch an endpoint, transform or enrich the data, and expose your own tailored API to your front end. You can run a scheduled job that pulls a GratisAPI collection and writes it to your database as seed data. You can also cache responses on disk, which is especially sensible here because the files are static and only change when the project is redeployed.\n\nOne genuine advantage of server-side fetching is avoiding cross-origin concerns entirely. Browsers enforce CORS, but a Node process does not, so you have full freedom over how you request and combine endpoints. Because GratisAPI imposes no rate limits and no keys, you can call it as often as your job requires. Just be a good citizen and cache when you can, since re-downloading an unchanged static file on every request wastes bandwidth for no benefit. A simple in-memory Map keyed by URL, or a timed cache, is usually all you need."
+  },
+  {
+    "id": "howto-python-requests",
+    "title": "Fetching GratisAPI with Python's requests Library",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-07-08",
+    "tags": [
+      "python",
+      "requests",
+      "http"
+    ],
+    "summary": "Retrieve and parse GratisAPI endpoints in Python using the popular requests library.",
+    "body": "The requests library is the most common way to make HTTP calls in Python, and it works seamlessly with GratisAPI. Because every endpoint is a static JSON file with no authentication, a single call gets you a full dataset.\n\nInstall the library with pip install requests, then fetch and parse an endpoint:\n\nimport requests\n\nurl = \"https://domthedeveloper.github.io/GratisAPI/api/elements/index.json\"\nresponse = requests.get(url, timeout=10)\nresponse.raise_for_status()\ndata = response.json()\n\nprint(f\"Loaded {data['count']} elements\")\nfor element in data[\"elements\"]:\n    print(element[\"name\"], element[\"symbol\"])\n\nThe raise_for_status call is important. Unlike JavaScript's fetch, requests does not automatically raise on a 404 or 500, so calling raise_for_status turns any error status into a Python exception you can catch. The .json() method parses the response body into ordinary Python dictionaries and lists.\n\nSetting a timeout is good practice for any network call so your script does not hang indefinitely if the connection stalls. Wrap the request in a try/except around requests.exceptions.RequestException to handle both connection failures and bad statuses in one place.\n\nBecause GratisAPI ships complete collections, you generally make one request and then work with the data locally. This suits Python's data tooling well. You can feed the list of records straight into a loop, into a comprehension for filtering, or into a library like pandas for analysis. There is no pagination to chase and no token to refresh, so a script can go from zero to usable data in about five lines. For repeated runs, consider caching the response to a local file, since the static endpoints only change when the project is redeployed."
+  },
+  {
+    "id": "howto-pandas",
+    "title": "Loading GratisAPI Data into pandas",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-08-19",
+    "tags": [
+      "python",
+      "pandas",
+      "data"
+    ],
+    "summary": "Turn a GratisAPI collection into a pandas DataFrame for quick analysis and exploration.",
+    "body": "GratisAPI collections are lists of uniform records, which is exactly the shape pandas loves. In a few lines you can pull an endpoint into a DataFrame and start slicing, filtering, and aggregating.\n\nThe simplest route is to fetch the JSON and hand the list of records to the DataFrame constructor:\n\nimport requests\nimport pandas as pd\n\nurl = \"https://domthedeveloper.github.io/GratisAPI/api/elements/index.json\"\ndata = requests.get(url, timeout=10).json()\ndf = pd.DataFrame(data[\"elements\"])\n\nprint(df.head())\nprint(df.describe())\n\nBecause each endpoint wraps its records under a named key, point the DataFrame at that inner list rather than the whole response object. Once loaded, the full power of pandas is available. You can sort by a column, filter with boolean masks, group and aggregate, or compute summary statistics with describe.\n\nFor example, with the elements collection you could compute the average atomic mass by group, or select all elements discovered in a given century. With the countries collection you could sort by population or filter by continent. Since GratisAPI returns entire datasets in one request, the whole collection is already in memory, so every operation is fast and offline after that first call.\n\nIf you prefer, pandas can even read JSON directly with pd.read_json, though pulling the record list out yourself gives you more control over nested fields. For nested structures, pd.json_normalize flattens objects into columns. When you are done exploring, export the DataFrame to CSV or Parquet with to_csv or to_parquet to snapshot the data locally. This pattern makes GratisAPI a convenient, no-friction source of clean example datasets for teaching, prototyping, and quick analysis."
+  },
+  {
+    "id": "howto-curl-basics",
+    "title": "curl Basics for GratisAPI",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-09-05",
+    "tags": [
+      "curl",
+      "cli",
+      "http"
+    ],
+    "summary": "Explore GratisAPI endpoints straight from your terminal with the ubiquitous curl command.",
+    "body": "curl is installed almost everywhere and is the fastest way to poke at a GratisAPI endpoint without writing any code. Since the API needs no keys and no special headers, a plain GET is all it takes.\n\nRequest an endpoint by passing its URL:\n\ncurl https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\n\nThat prints the raw JSON to your terminal. To make it readable, add the silent flag and pipe the output through a formatter. If you have Python available, curl -s URL | python3 -m json.tool pretty-prints the result with no extra tools to install.\n\nA few flags are worth knowing. The -s flag silences the progress meter so only the body prints. The -o filename flag saves the response to a file, which is handy for snapshotting a dataset. The -I flag fetches only the headers, useful for checking the content type or caching headers without downloading the whole body. The -L flag follows redirects, though GratisAPI URLs are direct.\n\nTo inspect response headers and body together, use -i. To see the caching behavior, look at the Cache-Control and ETag headers in the response, since GitHub Pages serves these static files with cache-friendly headers.\n\nYou can also fetch a single item rather than a whole collection. Endpoints follow a predictable pattern, so a specific record lives at a URL like /api/quotes/{id}.json where id is the record's identifier. This means curl is enough not only to browse collections but also to grab individual entries. For quick verification, exploration, or shell scripting, curl remains the simplest entry point into the entire API."
+  },
+  {
+    "id": "howto-bash-jq",
+    "title": "Using GratisAPI in Bash Scripts with jq",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-10-16",
+    "tags": [
+      "bash",
+      "jq",
+      "cli"
+    ],
+    "summary": "Combine curl and jq to filter, transform, and extract fields from GratisAPI data in shell scripts.",
+    "body": "The combination of curl and jq turns the shell into a capable JSON processing environment. GratisAPI's static endpoints make it easy to script data pulls, extract specific fields, and feed results into other commands.\n\njq is a lightweight command-line JSON processor. Install it from your package manager, then pipe curl output into it. To list every quote's author, fetch the endpoint and select the field:\n\ncurl -s https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json | jq '.quotes[].author'\n\nThe filter .quotes[] iterates the array, and .author picks one field from each record. You can build up more complex expressions. To count records, use jq '.count'. To grab a random item, combine jq with shell tools, or use jq's own functions to select and slice.\n\njq shines at reshaping data. The following pulls just the id and name from the colors collection into compact objects:\n\ncurl -s .../api/colors/index.json | jq '.colors[] | {id, name}'\n\nYou can filter with select, for example .colors[] | select(.name | startswith(\"Dark\")) to keep only colors whose name begins with a given prefix. Add the -r flag to jq for raw output without quotes, which is ideal when you want to feed values into a loop or another command.\n\nA common pattern is a script that downloads a collection, extracts a list of ids, and loops over them to fetch individual records. Because there are no rate limits, such loops run freely, though caching the initial download avoids redundant network calls. With just curl, jq, and a few lines of Bash, you can automate reporting, generate CSV, or drive other tools entirely from GratisAPI data."
+  },
+  {
+    "id": "howto-go",
+    "title": "Consuming GratisAPI in Go",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-11-13",
+    "tags": [
+      "go",
+      "http",
+      "json"
+    ],
+    "summary": "Fetch a GratisAPI endpoint in Go using net/http and decode it into typed structs.",
+    "body": "Go's standard library includes everything needed to consume GratisAPI: an HTTP client in net/http and a JSON decoder in encoding/json. Because the endpoints are static and keyless, the code is short and dependency-free.\n\nGo encourages decoding JSON into typed structs. Define a struct that mirrors the fields you care about, then decode the response body into it:\n\npackage main\n\nimport (\n    \"encoding/json\"\n    \"fmt\"\n    \"net/http\"\n)\n\ntype Response struct {\n    Count  int `json:\"count\"`\n    Quotes []struct {\n        Text   string `json:\"text\"`\n        Author string `json:\"author\"`\n    } `json:\"quotes\"`\n}\n\nfunc main() {\n    resp, err := http.Get(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\n    if err != nil { panic(err) }\n    defer resp.Body.Close()\n\n    var data Response\n    json.NewDecoder(resp.Body).Decode(&data)\n    fmt.Printf(\"Loaded %d quotes\\n\", data.Count)\n}\n\nThe struct tags map JSON keys to Go fields. You only need to declare the fields you intend to use; the decoder ignores the rest. Always defer resp.Body.Close() to release the connection, and in production check the error returned by Decode as well as the HTTP status code.\n\nGo's static typing gives you an early guarantee that your code and the data agree in shape. If you would rather stay dynamic, decode into a map[string]interface{} instead, though structs are clearer and safer for known schemas.\n\nBecause GratisAPI returns whole collections at once, a single http.Get gives you the full dataset to range over. This fits Go's concurrency model well: you can fire off several requests in goroutines and collect the results through channels, all against static files that impose no rate limits and require no authentication."
+  },
+  {
+    "id": "howto-rust",
+    "title": "Consuming GratisAPI in Rust",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2023-12-07",
+    "tags": [
+      "rust",
+      "reqwest",
+      "serde"
+    ],
+    "summary": "Use reqwest and serde to fetch and deserialize GratisAPI data into strongly typed Rust structs.",
+    "body": "Rust's ecosystem makes HTTP JSON work both safe and ergonomic through two crates: reqwest for requests and serde for deserialization. GratisAPI's static, keyless endpoints are a clean target.\n\nAdd reqwest with the json feature and serde with derive to your Cargo.toml. Then define structs that derive Deserialize and let serde map the JSON automatically:\n\nuse serde::Deserialize;\n\n#[derive(Deserialize)]\nstruct Response {\n    count: u32,\n    quotes: Vec<Quote>,\n}\n\n#[derive(Deserialize)]\nstruct Quote {\n    text: String,\n    author: String,\n}\n\n#[tokio::main]\nasync fn main() -> Result<(), reqwest::Error> {\n    let url = \"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\";\n    let data: Response = reqwest::get(url).await?.json().await?;\n    println!(\"Loaded {} quotes\", data.count);\n    Ok(())\n}\n\nThe json method on the response deserializes the body directly into your typed struct, and the ? operator propagates any error cleanly. Field names in the struct match the JSON keys; use serde's rename attribute when they differ.\n\nThis approach gives you compile-time confidence about the data's shape. If a field is optional, model it as an Option so missing values do not cause a decode failure. For a synchronous program without an async runtime, reqwest offers a blocking client behind a feature flag, which avoids pulling in tokio.\n\nBecause each endpoint returns a full collection, one request yields a Vec you can iterate, filter, and map with Rust's expressive iterator methods. There are no rate limits and no tokens, so the only real concern is the same as everywhere: cache the static files when you fetch them repeatedly, since they change only on redeploy. The result is fast, memory-safe access to open data with almost no boilerplate."
+  },
+  {
+    "id": "howto-php",
+    "title": "Consuming GratisAPI in PHP",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-01-15",
+    "tags": [
+      "php",
+      "json",
+      "web"
+    ],
+    "summary": "Fetch and decode GratisAPI endpoints in PHP using file_get_contents or cURL.",
+    "body": "PHP can consume GratisAPI with nothing more than its built-in functions. Because the endpoints are static JSON files that need no authentication, a one-line fetch followed by a decode is enough.\n\nThe simplest method uses file_get_contents to retrieve the body and json_decode to parse it. Pass true as the second argument to json_decode so you get associative arrays instead of objects:\n\n<?php\n$url = \"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\";\n$body = file_get_contents($url);\n$data = json_decode($body, true);\n\necho \"Loaded \" . $data[\"count\"] . \" colors\\n\";\nforeach ($data[\"colors\"] as $color) {\n    echo $color[\"name\"] . \": \" . $color[\"hex\"] . \"\\n\";\n}\n\nFor file_get_contents to fetch a URL, the allow_url_fopen setting must be enabled, which it is by default on most hosts. If it is disabled, or if you need finer control over timeouts and error handling, use the cURL extension instead. With cURL you create a handle, set CURLOPT_RETURNTRANSFER so the body is returned rather than printed, execute the request, and then decode the result.\n\nAlways check that json_decode did not return null, which signals a parse failure, and verify the HTTP status when using cURL so a missing endpoint does not pass silently. Wrapping the logic in a small helper function keeps your calling code tidy.\n\nBecause GratisAPI serves complete collections, a single request gives you the whole dataset to loop over with foreach. This makes it easy to render a table, seed a database, or power a widget on a page. With no keys to store and no rate limits to respect, GratisAPI fits comfortably into any PHP project, from a plain script to a full framework like Laravel where you might wrap the call in an HTTP client service."
+  },
+  {
+    "id": "howto-ruby",
+    "title": "Consuming GratisAPI in Ruby",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-02-09",
+    "tags": [
+      "ruby",
+      "json",
+      "net-http"
+    ],
+    "summary": "Retrieve GratisAPI data in Ruby using the standard net/http and json libraries.",
+    "body": "Ruby's standard library covers everything you need to consume GratisAPI. The net/http library handles the request and the json library parses the response, so no gems are required for basic use.\n\nHere is the compact pattern. Require both libraries, build a URI, fetch it, and parse the body:\n\nrequire \"net/http\"\nrequire \"json\"\n\nurl = URI(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\nresponse = Net::HTTP.get(url)\ndata = JSON.parse(response)\n\nputs \"Loaded #{data['count']} quotes\"\ndata[\"quotes\"].each do |quote|\n  puts \"#{quote['text']} - #{quote['author']}\"\nend\n\nJSON.parse turns the response text into ordinary Ruby hashes and arrays, so you access fields with string keys. Net::HTTP.get is a convenience method that returns the body directly; for more control over status codes and headers, use Net::HTTP.start with a request object instead.\n\nFor cleaner error handling, wrap the call in a begin/rescue block to catch network exceptions, and check the response code when you need to distinguish a missing endpoint from a valid empty result. If you prefer a friendlier interface, popular gems like httparty or faraday reduce the ceremony, but they are optional conveniences rather than requirements.\n\nBecause GratisAPI returns entire collections in a single file, one request hands you the whole dataset to iterate with each, map, or select. This suits Ruby's expressive enumerable methods perfectly. You might select all records matching a condition, map them into a new shape, or sort them before display. Since there are no API keys and no rate limits, a Ruby script can fetch, transform, and present open data in just a handful of lines, whether it runs as a one-off task or inside a Rails application."
+  },
+  {
+    "id": "howto-java",
+    "title": "Consuming GratisAPI in Java",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-03-12",
+    "tags": [
+      "java",
+      "http-client",
+      "json"
+    ],
+    "summary": "Use Java's built-in HttpClient to fetch GratisAPI endpoints and parse the JSON response.",
+    "body": "Modern Java, from version 11 onward, includes a capable HttpClient in the java.net.http package, so fetching GratisAPI needs no external HTTP library. You do still need a JSON parser, and popular choices include Jackson and Gson.\n\nFirst make the request. Build a client, construct a request pointing at the endpoint, and send it, asking for the body as a String:\n\nimport java.net.http.*;\nimport java.net.URI;\n\nHttpClient client = HttpClient.newHttpClient();\nHttpRequest request = HttpRequest.newBuilder()\n    .uri(URI.create(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\"))\n    .build();\nHttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());\nSystem.out.println(response.statusCode());\n\nWith the JSON text in hand, parse it. Using Jackson's ObjectMapper you can bind the response to a plain Java class whose fields mirror the JSON keys, or read it into a generic tree of JsonNode objects when you only need a few values. Gson works similarly through its fromJson method and mapping classes.\n\nCheck response.statusCode() before parsing so a 404 does not lead to a confusing parse error. For asynchronous work, HttpClient also offers sendAsync, which returns a CompletableFuture you can chain, letting you fetch several endpoints without blocking a thread each.\n\nBecause GratisAPI serves complete collections, a single request delivers the full dataset, which you then iterate with ordinary Java loops or streams. The Streams API is a natural fit for filtering and transforming the records. Since the endpoints require no authentication and impose no rate limits, the only setup is choosing a JSON library. Once that is in place, GratisAPI becomes a clean, keyless data source you can wire into anything from a command-line tool to a Spring service."
+  },
+  {
+    "id": "howto-swift",
+    "title": "Consuming GratisAPI in Swift",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-04-08",
+    "tags": [
+      "swift",
+      "urlsession",
+      "codable"
+    ],
+    "summary": "Fetch GratisAPI data in Swift with URLSession and decode it using Codable structs.",
+    "body": "Swift's URLSession and the Codable protocol make consuming GratisAPI clean and type-safe, which is ideal for iOS, macOS, and server-side Swift projects. Because the endpoints are static JSON files with no keys, the networking code is minimal.\n\nStart by defining Codable structs that mirror the response. Swift's JSONDecoder maps JSON keys to your properties automatically when the names match:\n\nstruct Response: Codable {\n    let count: Int\n    let quotes: [Quote]\n}\n\nstruct Quote: Codable {\n    let text: String\n    let author: String\n}\n\nThen fetch and decode using the async URLSession API:\n\nlet url = URL(string: \"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")!\nlet (data, _) = try await URLSession.shared.data(from: url)\nlet result = try JSONDecoder().decode(Response.self, from: data)\nprint(\"Loaded \\(result.count) quotes\")\n\nThe data(from:) method returns the body and a response object; you can inspect the response as an HTTPURLResponse to check the status code before trusting the payload. The try keyword surfaces both network and decoding errors, so wrap the call in a do/catch to handle them gracefully.\n\nIf JSON keys use a different style than your Swift properties, set the decoder's keyDecodingStrategy or provide CodingKeys. Mark optional fields with a question mark so a missing value does not cause the decode to throw.\n\nBecause GratisAPI returns entire collections, one request gives you an array to drive a SwiftUI list or a table view. In SwiftUI you might call this loader from a task modifier and store the result in an observable model. With no authentication and no rate limits, GratisAPI integrates smoothly into the Swift concurrency model, giving you strongly typed open data with very little code and full compile-time safety about its structure."
+  },
+  {
+    "id": "howto-google-sheets",
+    "title": "Pulling GratisAPI Data into Google Sheets",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-05-20",
+    "tags": [
+      "google-sheets",
+      "apps-script",
+      "no-code"
+    ],
+    "summary": "Import GratisAPI collections into a spreadsheet using IMPORTDATA or a short Apps Script function.",
+    "body": "You do not need to be a programmer to use GratisAPI. Google Sheets can pull the data in with a built-in formula or a small script, turning any endpoint into a live spreadsheet.\n\nFor the simplest cases, the IMPORTDATA function fetches a URL directly into cells. However, IMPORTDATA expects CSV or plain tabular text, and GratisAPI serves JSON, so it works best with a helper that returns flattened data. The most reliable approach for JSON is a short Apps Script custom function.\n\nOpen Extensions, then Apps Script, and add a function that fetches an endpoint and returns a two-dimensional array, which Sheets spreads across cells:\n\nfunction GRATIS(url, key) {\n  const res = UrlFetchApp.fetch(url);\n  const data = JSON.parse(res.getContentText());\n  const rows = data[key];\n  const headers = Object.keys(rows[0]);\n  const out = [headers];\n  rows.forEach(r => out.push(headers.map(h => r[h])));\n  return out;\n}\n\nBack in the sheet, call it like a formula: =GRATIS(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\", \"colors\"). The first argument is the endpoint URL and the second is the key holding the record array. The function returns a header row followed by one row per record, and Sheets fills the surrounding cells automatically.\n\nUrlFetchApp handles the network request inside Google's infrastructure, so there are no keys to configure and no CORS issues to worry about. Because GratisAPI endpoints are static and keyless, the fetch just works.\n\nOnce the data is in the grid, all of Sheets is available: sort, filter, build pivot tables, or chart the results. If you want the sheet to refresh, re-open it or use a time-driven trigger in Apps Script to re-run the fetch on a schedule. This makes GratisAPI a friendly data source for analysts and non-developers who live in spreadsheets rather than code editors."
+  },
+  {
+    "id": "howto-excel-power-query",
+    "title": "Loading GratisAPI Data into Excel Power Query",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-06-17",
+    "tags": [
+      "excel",
+      "power-query",
+      "no-code"
+    ],
+    "summary": "Use Excel's Power Query to import, expand, and refresh GratisAPI JSON collections.",
+    "body": "Excel's Power Query, also called Get and Transform, has native support for reading JSON from a web URL, which makes GratisAPI easy to load and refresh without any code.\n\nStart on the Data tab. Choose Get Data, then From Other Sources, then From Web, and paste an endpoint URL such as https://domthedeveloper.github.io/GratisAPI/api/countries/index.json. Excel fetches the file and opens the Power Query editor, showing the JSON as a record.\n\nThe top-level response is an object with metadata fields and a key holding the list of records. In the editor, drill into that list key, then convert it to a table. Power Query shows a column of record values with an expand button in the header. Click it and select the fields you want, and each becomes its own column. What began as nested JSON is now a clean, flat table ready for the worksheet.\n\nWhen the shape looks right, choose Close and Load to drop the table onto a sheet. The real payoff comes later: because Power Query remembers the query steps, you can click Refresh at any time to re-pull the endpoint and reapply your transformations automatically. You can also set the query to refresh when the workbook opens or on a timer.\n\nEvery transformation is recorded as a step in the applied-steps list, so you can rename columns, change types, filter rows, or sort, and the whole pipeline replays on each refresh. Because GratisAPI endpoints are static files with no authentication, choose anonymous access when Excel prompts for credentials, and the connection just works.\n\nThis workflow turns any GratisAPI collection into a refreshable, analysis-ready Excel table. For business users and analysts who prefer Excel to programming, it is the most direct way to bring open data into familiar tools like PivotTables and charts."
+  },
+  {
+    "id": "howto-random-quote-widget",
+    "title": "Building a Random-Quote Widget",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-07-22",
+    "tags": [
+      "javascript",
+      "widget",
+      "quotes"
+    ],
+    "summary": "Create a small self-contained widget that displays a random quote from the GratisAPI quotes endpoint.",
+    "body": "A random-quote widget is a perfect first project with GratisAPI. It needs one endpoint, a little JavaScript, and no backend at all, yet it teaches fetching, parsing, and rendering in one go.\n\nThe quotes collection lives at /api/quotes/index.json and returns an object with a quotes array. Fetch it once, pick a random element, and drop it into the page:\n\nasync function showQuote() {\n  const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\");\n  const data = await res.json();\n  const quotes = data.quotes;\n  const q = quotes[Math.floor(Math.random() * quotes.length)];\n  document.getElementById(\"quote\").textContent = q.text;\n  document.getElementById(\"author\").textContent = q.author;\n}\n\nshowQuote();\n\nThe expression Math.floor(Math.random() * quotes.length) produces a valid random index into the array. Because the whole collection arrives in a single request, you do not need to hit the network again to show another quote. Wire a button to a function that picks a new random element from the array you already have:\n\ndocument.getElementById(\"next\").addEventListener(\"click\", () => {\n  const q = quotes[Math.floor(Math.random() * quotes.length)];\n  // update the DOM here\n});\n\nThis is a real advantage of GratisAPI's full-dataset design. A widget backed by a paginated API would need a fresh request per quote, but here one download powers unlimited shuffles.\n\nTo make it robust, keep the fetched array in a variable at a scope both functions can see, and add a try/catch so a network failure shows a friendly fallback message rather than nothing. For a finishing touch, style the quote with CSS and fade it in on change. The entire widget fits in a single HTML file you can embed anywhere, needs no keys, and costs nothing to run, which is exactly the spirit of a gratis, static API."
+  },
+  {
+    "id": "howto-color-palette-picker",
+    "title": "Building a Color-Palette Picker",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-08-14",
+    "tags": [
+      "javascript",
+      "colors",
+      "ui"
+    ],
+    "summary": "Use the GratisAPI colors endpoint to build an interactive named-color palette picker.",
+    "body": "The colors collection makes an excellent basis for an interactive palette picker. Each record includes a name and its hex, RGB, and HSL values, so you have everything needed to render swatches and copy values on click.\n\nFetch the endpoint at /api/colors/index.json and build a swatch for each record. Set each swatch's background to the color's hex value:\n\nasync function buildPalette() {\n  const res = await fetch(\"https://domthedeveloper.github.io/GratisAPI/api/colors/index.json\");\n  const data = await res.json();\n  const container = document.getElementById(\"palette\");\n  data.colors.forEach(c => {\n    const swatch = document.createElement(\"div\");\n    swatch.style.background = c.hex;\n    swatch.title = c.name;\n    swatch.addEventListener(\"click\", () => navigator.clipboard.writeText(c.hex));\n    container.appendChild(swatch);\n  });\n}\n\nbuildPalette();\n\nSetting the title attribute gives each swatch a hover tooltip with the color name, and the click handler copies the hex value to the clipboard using the Clipboard API, a small touch that makes the picker genuinely useful for designers.\n\nBecause the full collection loads in one request, adding features costs nothing in extra network calls. You can add a search box that filters the swatches by name in memory, or sort the array by hue using the HSL values each record provides. A toggle could switch the copied value between hex, RGB, and HSL formats, since all three are present in the data.\n\nLay the swatches out with CSS grid or flexbox so they wrap responsively, and add a label that appears on hover showing the name and value together. Handle errors by wrapping the fetch in try/catch and showing a message if the request fails.\n\nThe finished picker is a single static page powered entirely by GratisAPI, with no build step, no keys, and no server. It demonstrates how a well-shaped open dataset can drive a polished, practical tool with only a modest amount of front-end code."
+  },
+  {
+    "id": "howto-browser-caching",
+    "title": "Caching GratisAPI Responses in the Browser",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-09-25",
+    "tags": [
+      "javascript",
+      "caching",
+      "performance"
+    ],
+    "summary": "Speed up repeat visits by caching GratisAPI data with localStorage, the Cache API, or a service worker.",
+    "body": "GratisAPI endpoints are static files that change only when the project is redeployed, which makes them excellent candidates for aggressive client-side caching. Caching cuts repeat load times and reduces needless bandwidth.\n\nThe simplest option is localStorage. After the first fetch, store the JSON string keyed by URL, and on later loads read from storage before hitting the network:\n\nasync function getCached(url) {\n  const hit = localStorage.getItem(url);\n  if (hit) return JSON.parse(hit);\n  const res = await fetch(url);\n  const text = await res.text();\n  localStorage.setItem(url, text);\n  return JSON.parse(text);\n}\n\nThis works well for small collections. To avoid serving stale data forever, store a timestamp alongside the value and treat entries older than a chosen window as expired, re-fetching when needed. Since the data only changes on redeploy, a generous expiry such as a day is usually safe.\n\nFor larger payloads or offline support, the Cache API is a better fit. It stores full Response objects and is designed to work inside a service worker. A service worker can intercept requests to GratisAPI and serve them from the cache first, falling back to the network on a miss. A stale-while-revalidate strategy returns the cached copy immediately for speed while quietly refreshing it in the background.\n\nYou can also lean on the browser's own HTTP cache. GitHub Pages serves these files with cache-friendly headers and ETags, so a normal fetch may already be satisfied from cache without any code on your part. Adding an explicit layer simply gives you more control over expiry and offline behavior.\n\nWhichever method you choose, remember to provide a way to clear the cache during development so you always see fresh data after a redeploy. With sensible caching, a GratisAPI-powered page loads instantly on return visits while still respecting the API's static nature."
+  },
+  {
+    "id": "howto-error-handling",
+    "title": "Handling Errors and Missing Records Gracefully",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-10-30",
+    "tags": [
+      "javascript",
+      "errors",
+      "reliability"
+    ],
+    "summary": "Write defensive code that survives network failures, missing endpoints, and absent fields when consuming GratisAPI.",
+    "body": "Even a keyless, rate-limit-free API can fail for reasons outside its control: a dropped connection, a mistyped URL, or a record that lacks a field you expected. Robust code anticipates these cases rather than assuming every request succeeds.\n\nStart with the request itself. In the browser, fetch does not reject on HTTP error statuses, so always check response.ok before parsing. A request for a nonexistent endpoint, such as a misspelled collection name, returns a 404 that fetch happily resolves:\n\nconst res = await fetch(url);\nif (!res.ok) {\n  throw new Error(`Request failed with status ${res.status}`);\n}\nconst data = await res.json();\n\nWrap the whole thing in try/catch so both network errors and JSON parse failures are handled in one place. Show the user a clear fallback message instead of leaving the interface blank or broken.\n\nNext, guard against missing records. When you fetch a single item by id, the file may not exist if the id is wrong, which again surfaces as a 404. Treat that as a distinct case and tell the user the record was not found rather than showing an error meant for real failures.\n\nFinally, be defensive about individual fields. Even within a valid collection, do not assume every record has every property. Use optional chaining and sensible defaults, for example record?.author ?? \"Unknown\", so a single incomplete entry does not crash your rendering loop. When iterating, skip or flag records that fail validation instead of letting one bad item break the whole page.\n\nA good pattern is a small wrapper function that performs the fetch, checks the status, parses the body, and returns either the data or a clear error object your calling code can branch on. Centralizing this logic keeps every call site clean and consistent. Because GratisAPI is simple and stable, these safeguards are lightweight, but they turn a fragile demo into something you can ship with confidence."
+  },
+  {
+    "id": "howto-no-pagination",
+    "title": "Why GratisAPI Has No Pagination (and How to Work with Full Datasets)",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2024-11-18",
+    "tags": [
+      "design",
+      "datasets",
+      "performance"
+    ],
+    "summary": "Understand the deliberate choice to serve whole collections at once, and how to handle them efficiently on the client.",
+    "body": "Many APIs split large results across pages, forcing clients to make repeated requests with offset and limit parameters. GratisAPI deliberately does not. Each collection is served as a single static JSON file containing every record, and this is a feature, not an oversight.\n\nThe reason is the architecture. GratisAPI is a set of plain files hosted on GitHub Pages with no server-side code to run queries or slice results. There is no backend that could compute a page on demand. Instead, the whole dataset ships at once from a URL like /api/countries/index.json, and the client works with it locally. Because the collections are curated and modest in size, downloading a complete file is fast and cheap, and it happens only once.\n\nThis approach has real advantages. A single request means one round trip instead of many, which is often faster overall than paging. Once the data is in memory, filtering, sorting, searching, and paginating become instant local operations with no further network calls. You are never rate-limited mid-scroll, and you never juggle cursor tokens.\n\nTo work with a full dataset, fetch it once and keep it in a variable or in state. Then apply array methods to shape it. To show a page, use slice with a computed offset. To search, use filter. To order, use sort. For example, to display twenty records at a time you slice the array by page index, all without touching the server again.\n\nIf a collection ever grew large enough to matter, you could load it once and cache it in localStorage or a service worker, so even the initial download is amortized across visits. But in practice the datasets are small enough that the whole model just works. Embracing the full-dataset design leads to simpler code: no pagination state machine, no loading spinners between pages, just one fetch and then fast, offline-style interaction with the complete collection."
+  },
+  {
+    "id": "howto-openapi-swagger",
+    "title": "Using the OpenAPI Spec and Swagger UI",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2025-01-14",
+    "tags": [
+      "openapi",
+      "swagger",
+      "documentation"
+    ],
+    "summary": "Explore GratisAPI endpoints interactively and generate clients using the published OpenAPI specification.",
+    "body": "GratisAPI publishes a machine-readable OpenAPI specification that describes its endpoints, response shapes, and metadata. This document unlocks interactive documentation, client generation, and validation, all from a single source of truth.\n\nThe OpenAPI file is linked from the root index at /api/index.json under the openapi field, and the project's documentation site presents it through Swagger UI. Swagger UI renders the spec as a browsable page where each endpoint is listed with its description and example responses. You can expand an operation and use the Try it out button to send a live request and see the actual JSON come back, which is a fast way to learn an endpoint before writing any code.\n\nBecause the spec is standard OpenAPI, it works with the broad ecosystem of tools built around that format. You can feed it to a code generator such as openapi-generator to produce a typed client library in your language of choice, saving you from writing request and model code by hand. You can import it into API testing tools like Postman or Insomnia to get a ready-made collection of requests. You can also use it to validate that responses match the documented schema in your test suite.\n\nReading the spec directly is useful too. It lists every collection, the structure of each record, and the URL patterns, so it doubles as a concise catalog of what GratisAPI offers. Since the endpoints require no authentication, the spec has no security schemes to configure; you point a tool at it and go.\n\nKeeping documentation in an OpenAPI file rather than prose means the description stays accurate and testable as the API grows. For consumers, it lowers the barrier to entry: explore interactively in Swagger UI, generate a client in seconds, and trust that the documented shapes match what the static files actually return."
+  },
+  {
+    "id": "howto-self-hosting",
+    "title": "Mirroring or Self-Hosting GratisAPI",
+    "category": "Tutorials",
+    "author": "The GratisAPI Team",
+    "date": "2025-02-26",
+    "tags": [
+      "self-hosting",
+      "github-pages",
+      "open-data"
+    ],
+    "summary": "Because GratisAPI is fully open and static, you can clone, mirror, or host your own copy anywhere in minutes.",
+    "body": "GratisAPI is both gratis and libre. The data is licensed under the GPL and the entire project is a collection of static files, which means you are free to mirror it, host your own instance, or fork it and extend it. There is nothing to unlock and no server software to license.\n\nThe simplest mirror is a clone. Clone the repository from GitHub and you have every JSON file locally. Since the API is just static files under an api directory, you can serve that folder with any web server. A one-line command like python3 -m http.server from the project root will serve the files for local development, and your code can point at http://localhost:8000/api/quotes/index.json instead of the public URL.\n\nFor a permanent instance, deploy the static files to any static host: GitHub Pages, GitLab Pages, Netlify, Cloudflare Pages, or an S3 bucket behind a CDN. Because there is no build step required to serve the data and no backend, deployment is simply copying files. Point your host at the api directory and the endpoints work exactly as they do on the original.\n\nWhy self-host? A mirror insulates you from any upstream changes or downtime, gives you full control over caching and custom domains, and lets you add or modify collections for your own needs. If you fork the project, you can add new datasets by dropping in JSON files that follow the same shape, then regenerate the index and OpenAPI spec so your additions are discoverable.\n\nRespect the GPL license when you redistribute: keep the license file and make your source available under the same terms. Beyond that, the project is designed to be copied. The whole point of a gratis, static, open-data API is that no one is locked in. If you depend on GratisAPI in production, running your own mirror is the most reliable way to use it, and it takes only minutes to set up."
+  }
+]

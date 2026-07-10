@@ -1,0 +1,9 @@
+{
+  "id": "torres-del-paine",
+  "name": "Torres del Paine National Park",
+  "country": "Chile",
+  "established_year": 1959,
+  "area_km2": 2270,
+  "notable_feature": "Dramatic granite towers, glaciers, and Patagonian steppe.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/torres-del-paine.json"
+}

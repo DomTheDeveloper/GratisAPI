@@ -1,0 +1,17 @@
+{
+  "id": "science-88-constellations",
+  "title": "The 88 Constellations",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2023-04-05",
+  "tags": [
+    "astronomy",
+    "constellations",
+    "stars"
+  ],
+  "summary": "The sky is officially divided into 88 constellations, a map that astronomers use to organize and locate everything in the heavens.",
+  "body": "When you look up at a clear night sky, the scattered points of light seem random. For thousands of years, though, human cultures have grouped those points into pictures, and today astronomers recognize exactly 88 official constellations that together cover the entire celestial sphere.\n\nMany of the constellations we use come from ancient Greece and were catalogued by the astronomer Ptolemy nearly two thousand years ago. These include the zodiac figures such as Leo the lion and Scorpius the scorpion, as well as prominent groups like Orion the hunter and Ursa Major, the great bear that contains the Big Dipper. Other constellations, especially those in the far southern sky invisible from Europe, were added by explorers and astronomers in the sixteenth through eighteenth centuries and bear names like Telescopium and Microscopium.\n\nIn 1922 the International Astronomical Union formally adopted the list of 88, and a few years later fixed precise boundaries between them. This turned the constellations from loose pictures into an exact coordinate grid. Every star, galaxy, and comet now falls within the borders of a specific constellation, much as every town falls within a country.\n\nIt is worth remembering that the stars in a constellation are almost never physically related. They can lie at wildly different distances, appearing close only because they happen to fall along the same line of sight from Earth. The pattern is a trick of perspective, not a true cluster.\n\nConstellations remain a practical tool for navigating the sky. You can browse the full list of all 88, along with details about each, through the GratisAPI endpoint at /api/constellations/index.json.",
+  "word_count": 265,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-88-constellations.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "yosemite",
+  "name": "Yosemite National Park",
+  "country": "United States",
+  "established_year": 1890,
+  "area_km2": 3027,
+  "notable_feature": "Granite cliffs like El Capitan and Half Dome, and giant sequoias.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/yosemite.json"
+}

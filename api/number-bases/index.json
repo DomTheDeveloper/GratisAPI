@@ -1,0 +1,126 @@
+{
+  "api": "number-bases",
+  "title": "Number Bases",
+  "description": "Common numeral systems and positional number bases with their digit sets.",
+  "emoji": "🔢",
+  "license": "GPL-2.0-or-later",
+  "count": 13,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/{id}.json"
+  },
+  "fields": [
+    "base",
+    "common_use",
+    "digits",
+    "id",
+    "name"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "name": "Binary",
+      "base": 2,
+      "digits": "01",
+      "common_use": "Digital electronics and computer memory; the native language of computers.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/1.json"
+    },
+    {
+      "id": 2,
+      "name": "Ternary",
+      "base": 3,
+      "digits": "012",
+      "common_use": "Balanced ternary computing and some theoretical computer science.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/2.json"
+    },
+    {
+      "id": 3,
+      "name": "Quaternary",
+      "base": 4,
+      "digits": "0123",
+      "common_use": "Genetics (DNA base pairs) and some digital signalling.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/3.json"
+    },
+    {
+      "id": 4,
+      "name": "Quinary",
+      "base": 5,
+      "digits": "01234",
+      "common_use": "Some tally and abacus systems; historical counting.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/4.json"
+    },
+    {
+      "id": 5,
+      "name": "Senary",
+      "base": 6,
+      "digits": "012345",
+      "common_use": "Dice games and some counting systems.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/5.json"
+    },
+    {
+      "id": 6,
+      "name": "Octal",
+      "base": 8,
+      "digits": "01234567",
+      "common_use": "Unix file permissions and older computing systems.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/6.json"
+    },
+    {
+      "id": 7,
+      "name": "Decimal",
+      "base": 10,
+      "digits": "0123456789",
+      "common_use": "Everyday human arithmetic and the standard number system.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/7.json"
+    },
+    {
+      "id": 8,
+      "name": "Duodecimal",
+      "base": 12,
+      "digits": "0123456789AB",
+      "common_use": "Clocks, months, dozens, and imperial units.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/8.json"
+    },
+    {
+      "id": 9,
+      "name": "Hexadecimal",
+      "base": 16,
+      "digits": "0123456789ABCDEF",
+      "common_use": "Memory addresses, color codes, and byte representation in computing.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/9.json"
+    },
+    {
+      "id": 10,
+      "name": "Vigesimal",
+      "base": 20,
+      "digits": "Digits 0-9 then A-J",
+      "common_use": "Mayan and some historical counting systems.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/10.json"
+    },
+    {
+      "id": 11,
+      "name": "Base32",
+      "base": 32,
+      "digits": "A-Z and 2-7 (RFC 4648)",
+      "common_use": "Case-insensitive encoding for identifiers and data transfer.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/11.json"
+    },
+    {
+      "id": 12,
+      "name": "Base64",
+      "base": 64,
+      "digits": "A-Z, a-z, 0-9, + and / (RFC 4648)",
+      "common_use": "Encoding binary data as ASCII text in email and data URLs.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/12.json"
+    },
+    {
+      "id": 13,
+      "name": "Sexagesimal",
+      "base": 60,
+      "digits": "Sixty distinct values",
+      "common_use": "Time (minutes, seconds) and angular measurement (degrees).",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/13.json"
+    }
+  ]
+}

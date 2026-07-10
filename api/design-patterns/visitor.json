@@ -1,0 +1,7 @@
+{
+  "id": "visitor",
+  "name": "Visitor",
+  "category": "Behavioral",
+  "description": "Represents an operation to be performed on the elements of an object structure without changing their classes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/visitor.json"
+}

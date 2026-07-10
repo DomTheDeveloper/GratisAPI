@@ -1,0 +1,17 @@
+{
+  "id": "reference-what-is-rest",
+  "title": "What is REST?",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2023-02-08",
+  "tags": [
+    "rest",
+    "api",
+    "http"
+  ],
+  "summary": "REST is an architectural style for web APIs built around resources and standard HTTP methods.",
+  "body": "REST stands for Representational State Transfer. It is not a protocol or a library but a set of design principles for building web services. Roy Fielding described it in his doctoral work in 2000, and it has since become the dominant way people design web APIs.\n\nThe central idea of REST is the resource. A resource is any thing your system knows about, such as a user, an order, or a country. Each resource has a stable address, and you interact with it using the standard methods of the web. You retrieve a resource, create a new one, update it, or remove it, all through the same small vocabulary of HTTP verbs.\n\nREST APIs are described as stateless, meaning each request carries everything the server needs to understand it. The server does not remember previous requests from the same client. This makes REST services easy to scale, because any server can handle any request without shared memory of past conversations.\n\nResponses in REST APIs are usually representations of a resource in a convenient format, most often JSON. When you fetch a country from a REST service, you get a JSON document describing that country. GratisAPI follows a REST inspired layout. Each dataset sits at its own address, such as /api/tcp-ports/index.json, and returns a representation you can read directly.\n\nA well designed REST API is predictable. If you know how to fetch one kind of resource, you can guess how to fetch another. This consistency is what makes REST pleasant to work with. While strict REST has formal rules about links and discoverability, most everyday APIs adopt the practical core: clear addresses, standard methods, and structured responses. That practical core is enough to make different systems cooperate reliably across the web.",
+  "word_count": 290,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-what-is-rest.json"
+}

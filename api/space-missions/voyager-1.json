@@ -1,0 +1,9 @@
+{
+  "id": "voyager-1",
+  "name": "Voyager 1",
+  "agency": "NASA",
+  "launch_year": 1977,
+  "type": "Probe",
+  "achievement": "Farthest human-made object; first to enter interstellar space.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/voyager-1.json"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "flyweight",
+  "name": "Flyweight",
+  "category": "Structural",
+  "description": "Uses sharing to support large numbers of fine-grained objects efficiently by keeping common state extrinsic.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/flyweight.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 13,
+  "name": "Sexagesimal",
+  "base": 60,
+  "digits": "Sixty distinct values",
+  "common_use": "Time (minutes, seconds) and angular measurement (degrees).",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/13.json"
+}

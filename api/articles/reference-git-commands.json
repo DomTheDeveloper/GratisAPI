@@ -1,0 +1,17 @@
+{
+  "id": "reference-git-commands",
+  "title": "A Git Commands Cheat Sheet",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2024-05-07",
+  "tags": [
+    "git",
+    "version-control",
+    "tools"
+  ],
+  "summary": "A tour of the essential git commands every developer uses to track and share code changes.",
+  "body": "Git is the version control system that most of the software world runs on. It records the history of a project, lets many people work together without overwriting each other, and makes it safe to experiment because you can always return to an earlier state. A modest set of commands covers most daily work.\n\nEverything begins with a repository. The command that clones an existing project copies it to your machine along with its full history, while the command that initializes a repository turns a plain folder into a tracked one. From there, your work revolves around commits, which are saved snapshots of the project.\n\nMaking a commit takes two steps. First you stage the changes you want to record, selecting which edits belong together. Then you commit the staged changes with a message describing them. This two stage process lets you craft tidy, meaningful history rather than dumping every change at once. The status command shows what is staged, changed, or untracked, and the diff command shows exactly what you altered.\n\nBranches are where git shines. A branch is an independent line of development, so you can build a feature without disturbing the main code. You create a branch, switch to it, do your work, and later merge it back. If two branches change the same lines, git reports a conflict for you to resolve by hand, which sounds scary but is routine.\n\nSharing happens through remotes. The command that pushes sends your commits to a shared server, while the command that pulls fetches and integrates others' work. The log command lets you review the history that results.\n\nGratisAPI provides a reference at /api/git-commands/index.json, where each entry names a command and describes what it does. It makes a handy pocket guide while you build the habits. Git rewards a little study; once the core commands feel natural, you gain a safety net that makes bold changes and smooth collaboration possible.",
+  "word_count": 321,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-git-commands.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 8,
+  "name": "Duodecimal",
+  "base": 12,
+  "digits": "0123456789AB",
+  "common_use": "Clocks, months, dozens, and imperial units.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/8.json"
+}

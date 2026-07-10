@@ -1,0 +1,9 @@
+{
+  "id": "kakadu",
+  "name": "Kakadu National Park",
+  "country": "Australia",
+  "established_year": 1979,
+  "area_km2": 19804,
+  "notable_feature": "Ancient Aboriginal rock art, wetlands, and crocodiles.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/kakadu.json"
+}

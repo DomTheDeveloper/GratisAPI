@@ -1,0 +1,8 @@
+{
+  "id": "gneiss",
+  "name": "Gneiss",
+  "type": "Metamorphic",
+  "description": "Banded rock with alternating light and dark mineral layers.",
+  "common_use": "Building stone and aggregate.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/gneiss.json"
+}

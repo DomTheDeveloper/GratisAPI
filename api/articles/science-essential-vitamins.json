@@ -1,0 +1,17 @@
+{
+  "id": "science-essential-vitamins",
+  "title": "The Essential Vitamins",
+  "category": "Science",
+  "author": "The GratisAPI Team",
+  "date": "2024-06-10",
+  "tags": [
+    "biology",
+    "nutrition",
+    "vitamins"
+  ],
+  "summary": "Vitamins are essential nutrients the body needs in small amounts, each playing a specific role in keeping us healthy.",
+  "body": "Vitamins are a group of nutrients that the human body needs in only tiny quantities, yet cannot survive without. Unlike proteins, fats, and carbohydrates, which supply energy and building material in bulk, vitamins act as helpers that keep countless biochemical reactions running. Because the body generally cannot make them in sufficient amounts, we must obtain them from food.\n\nThere are thirteen recognized vitamins, and they fall into two broad categories based on how they dissolve. The fat soluble vitamins, A, D, E, and K, dissolve in fats and can be stored in the body's fatty tissue and liver for later use. The water soluble vitamins, which include vitamin C and the eight B vitamins, dissolve in water and are mostly not stored, so they need to be replenished regularly, and any excess is flushed out in urine.\n\nEach vitamin has its own job. Vitamin A supports vision and immune function. The B vitamins help convert food into energy and build red blood cells and DNA. Vitamin C aids the body in making collagen and acts as an antioxidant, and a severe lack of it causes scurvy, the disease that once plagued sailors on long voyages. Vitamin D helps the body absorb calcium for strong bones, and our skin can make it when exposed to sunlight. Vitamin K is essential for blood to clot properly.\n\nHistorically, the discovery of vitamins solved the mystery of deficiency diseases like scurvy, rickets, and beriberi, which turned out to be caused not by infection but by the absence of specific nutrients. A varied, balanced diet usually supplies all thirteen in the right amounts.\n\nYou can explore each vitamin, its functions, and its food sources through the GratisAPI endpoint at /api/vitamins/index.json.",
+  "word_count": 285,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/science-essential-vitamins.json"
+}

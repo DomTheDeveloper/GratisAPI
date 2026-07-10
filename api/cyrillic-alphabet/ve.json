@@ -1,0 +1,10 @@
+{
+  "id": "ve",
+  "name": "Ve",
+  "uppercase": "В",
+  "lowercase": "в",
+  "transliteration": "v",
+  "sound": "v as in van",
+  "order": 3,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/ve.json"
+}

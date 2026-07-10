@@ -1,0 +1,8 @@
+{
+  "id": "touch",
+  "name": "Touch (tactition)",
+  "organ": "Skin",
+  "description": "Detection of pressure, vibration, and texture through the skin.",
+  "type": "Classic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/touch.json"
+}

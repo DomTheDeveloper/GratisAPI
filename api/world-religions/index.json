@@ -1,0 +1,203 @@
+{
+  "api": "world-religions",
+  "title": "World Religions",
+  "description": "Major world religions with their origins, regions, and approximate adherent counts.",
+  "emoji": "🛐",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/{id}.json"
+  },
+  "fields": [
+    "adherents_millions",
+    "classification",
+    "founded",
+    "id",
+    "name",
+    "origin_region"
+  ],
+  "results": [
+    {
+      "id": "christianity",
+      "name": "Christianity",
+      "founded": "1st century CE",
+      "origin_region": "Levant (Roman Judea)",
+      "adherents_millions": 2400,
+      "classification": "Abrahamic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/christianity.json"
+    },
+    {
+      "id": "islam",
+      "name": "Islam",
+      "founded": "7th century CE",
+      "origin_region": "Arabian Peninsula",
+      "adherents_millions": 1900,
+      "classification": "Abrahamic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/islam.json"
+    },
+    {
+      "id": "hinduism",
+      "name": "Hinduism",
+      "founded": "No single founder; roots by ~2000 BCE",
+      "origin_region": "Indian subcontinent",
+      "adherents_millions": 1200,
+      "classification": "Dharmic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/hinduism.json"
+    },
+    {
+      "id": "buddhism",
+      "name": "Buddhism",
+      "founded": "5th-4th century BCE",
+      "origin_region": "Indian subcontinent",
+      "adherents_millions": 500,
+      "classification": "Dharmic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/buddhism.json"
+    },
+    {
+      "id": "sikhism",
+      "name": "Sikhism",
+      "founded": "15th century CE",
+      "origin_region": "Punjab, Indian subcontinent",
+      "adherents_millions": 25,
+      "classification": "Dharmic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/sikhism.json"
+    },
+    {
+      "id": "judaism",
+      "name": "Judaism",
+      "founded": "Ancient (1st-2nd millennium BCE)",
+      "origin_region": "Levant",
+      "adherents_millions": 15,
+      "classification": "Abrahamic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/judaism.json"
+    },
+    {
+      "id": "bahai-faith",
+      "name": "Bahai Faith",
+      "founded": "19th century CE",
+      "origin_region": "Persia (Iran)",
+      "adherents_millions": 8,
+      "classification": "Abrahamic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/bahai-faith.json"
+    },
+    {
+      "id": "jainism",
+      "name": "Jainism",
+      "founded": "Ancient; reformed 6th century BCE",
+      "origin_region": "Indian subcontinent",
+      "adherents_millions": 6,
+      "classification": "Dharmic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/jainism.json"
+    },
+    {
+      "id": "shinto",
+      "name": "Shinto",
+      "founded": "Ancient (prehistoric Japan)",
+      "origin_region": "Japan",
+      "adherents_millions": 100,
+      "classification": "East Asian",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/shinto.json"
+    },
+    {
+      "id": "taoism",
+      "name": "Taoism",
+      "founded": "6th-4th century BCE",
+      "origin_region": "China",
+      "adherents_millions": 12,
+      "classification": "East Asian",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/taoism.json"
+    },
+    {
+      "id": "confucianism",
+      "name": "Confucianism",
+      "founded": "6th-5th century BCE",
+      "origin_region": "China",
+      "adherents_millions": 6,
+      "classification": "East Asian",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/confucianism.json"
+    },
+    {
+      "id": "chinese-folk-religion",
+      "name": "Chinese Folk Religion",
+      "founded": "Ancient (prehistoric China)",
+      "origin_region": "China",
+      "adherents_millions": 400,
+      "classification": "East Asian",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/chinese-folk-religion.json"
+    },
+    {
+      "id": "zoroastrianism",
+      "name": "Zoroastrianism",
+      "founded": "2nd-1st millennium BCE",
+      "origin_region": "Ancient Persia",
+      "adherents_millions": null,
+      "classification": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/zoroastrianism.json"
+    },
+    {
+      "id": "african-traditional-religions",
+      "name": "African Traditional Religions",
+      "founded": "Ancient (prehistoric)",
+      "origin_region": "Sub-Saharan Africa",
+      "adherents_millions": 100,
+      "classification": "Indigenous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/african-traditional-religions.json"
+    },
+    {
+      "id": "cao-dai",
+      "name": "Cao Dai",
+      "founded": "20th century CE (1926)",
+      "origin_region": "Vietnam",
+      "adherents_millions": 5,
+      "classification": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/cao-dai.json"
+    },
+    {
+      "id": "tenrikyo",
+      "name": "Tenrikyo",
+      "founded": "19th century CE",
+      "origin_region": "Japan",
+      "adherents_millions": 2,
+      "classification": "East Asian",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/tenrikyo.json"
+    },
+    {
+      "id": "rastafari",
+      "name": "Rastafari",
+      "founded": "20th century CE (1930s)",
+      "origin_region": "Jamaica",
+      "adherents_millions": 1,
+      "classification": "Abrahamic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/rastafari.json"
+    },
+    {
+      "id": "wicca",
+      "name": "Wicca",
+      "founded": "20th century CE (mid-1900s)",
+      "origin_region": "England",
+      "adherents_millions": null,
+      "classification": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/wicca.json"
+    },
+    {
+      "id": "druze",
+      "name": "Druze",
+      "founded": "11th century CE",
+      "origin_region": "Levant (Egypt and Syria)",
+      "adherents_millions": 1,
+      "classification": "Abrahamic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/druze.json"
+    },
+    {
+      "id": "native-american-religions",
+      "name": "Native American Religions",
+      "founded": "Ancient (prehistoric)",
+      "origin_region": "The Americas",
+      "adherents_millions": null,
+      "classification": "Indigenous",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/world-religions/native-american-religions.json"
+    }
+  ]
+}

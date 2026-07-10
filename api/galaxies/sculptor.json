@@ -1,0 +1,9 @@
+{
+  "id": "sculptor",
+  "name": "Sculptor Galaxy (NGC 253)",
+  "type": "Spiral",
+  "constellation": "Sculptor",
+  "distance_mly": 11,
+  "notes": "A prominent starburst galaxy in the Sculptor Group.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/sculptor.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tikal",
+  "name": "Tikal National Park",
+  "country": "Guatemala",
+  "established_year": 1955,
+  "area_km2": 575,
+  "notable_feature": "Ancient Maya temples rising above dense jungle.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/national-parks/tikal.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "edam",
+  "name": "Edam",
+  "country_of_origin": "Netherlands",
+  "milk": "Cow",
+  "texture": "Semi-hard",
+  "flavor": "Mild, slightly salty, and nutty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/edam.json"
+}

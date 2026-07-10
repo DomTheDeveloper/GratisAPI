@@ -1,0 +1,14 @@
+{
+  "id": "endocrine",
+  "name": "Endocrine system",
+  "function": "Regulates body processes through hormones secreted into the bloodstream.",
+  "key_organs": [
+    "Pituitary gland",
+    "Thyroid gland",
+    "Adrenal glands",
+    "Pancreas",
+    "Ovaries",
+    "Testes"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/endocrine.json"
+}

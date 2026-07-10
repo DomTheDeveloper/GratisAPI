@@ -1,0 +1,9 @@
+{
+  "id": "freebsd",
+  "name": "FreeBSD",
+  "family": "BSD",
+  "first_release_year": 1993,
+  "developer": "FreeBSD Project",
+  "kernel": "FreeBSD",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/freebsd.json"
+}

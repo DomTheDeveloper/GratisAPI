@@ -1,0 +1,9 @@
+{
+  "id": "temperate-deciduous-forest",
+  "name": "Temperate Deciduous Forest",
+  "climate": "Four distinct seasons with moderate rainfall",
+  "avg_rainfall_mm": 1200,
+  "example_regions": "Eastern North America, Western Europe, East Asia",
+  "dominant_vegetation": "Broadleaf trees that shed leaves in autumn.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/biomes/temperate-deciduous-forest.json"
+}

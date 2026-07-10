@@ -1,0 +1,9 @@
+{
+  "id": "windows-7",
+  "name": "Windows 7",
+  "family": "Windows",
+  "first_release_year": 2009,
+  "developer": "Microsoft",
+  "kernel": "Windows NT",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-7.json"
+}

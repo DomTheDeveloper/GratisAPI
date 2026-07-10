@@ -1,0 +1,10 @@
+{
+  "id": "es",
+  "name": "Es",
+  "uppercase": "С",
+  "lowercase": "с",
+  "transliteration": "s",
+  "sound": "s as in see",
+  "order": 19,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cyrillic-alphabet/es.json"
+}

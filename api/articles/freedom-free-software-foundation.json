@@ -1,0 +1,17 @@
+{
+  "id": "freedom-free-software-foundation",
+  "title": "The Free Software Foundation",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-04-19",
+  "tags": [
+    "fsf",
+    "organization",
+    "history"
+  ],
+  "summary": "Founded in 1985, the Free Software Foundation is the nonprofit that stewards the ideals and legal tools of the free software movement.",
+  "body": "The Free Software Foundation, or FSF, is a nonprofit organization founded by Richard Stallman in 1985 to support the free software movement. Its early purpose was practical: to fund and organize development of the GNU system by employing programmers and accepting donations. Over time its role broadened into advocacy, education, and stewardship of the movement's legal and philosophical foundations.\n\nOne of the FSF's most consequential contributions is the family of GNU licenses. The organization publishes and maintains the GNU General Public License, the Lesser General Public License, and the Affero General Public License, along with the GNU Free Documentation License. These licenses turn the abstract idea of software freedom into enforceable legal terms that developers can attach to their work.\n\nThe FSF also maintains a definition of free software built around four essential freedoms, and it curates a list of licenses it considers compatible with those freedoms. Its sister organization in Europe, the Free Software Foundation Europe, pursues related goals in a different legal and cultural context.\n\nBeyond licensing, the FSF runs public campaigns on issues such as digital restrictions management, which it opposes, and the promotion of fully free operating system distributions. It maintains the Free Software Directory and recognizes hardware and software that respect user freedom through its certification programs.\n\nThe organization is deliberately uncompromising. Where others accept partial openness, the FSF tends to insist on the complete set of freedoms, which sometimes places it at odds with more pragmatic parts of the software world.\n\nProjects like GratisAPI benefit directly from the FSF's work. The GPL license under which our code is released, and the very vocabulary of gratis and libre we use to describe ourselves, are products of the intellectual and legal groundwork the Foundation laid.",
+  "word_count": 289,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-free-software-foundation.json"
+}

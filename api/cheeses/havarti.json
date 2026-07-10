@@ -1,0 +1,9 @@
+{
+  "id": "havarti",
+  "name": "Havarti",
+  "country_of_origin": "Denmark",
+  "milk": "Cow",
+  "texture": "Semi-soft",
+  "flavor": "Buttery, creamy, and mild",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/havarti.json"
+}

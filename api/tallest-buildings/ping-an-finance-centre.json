@@ -1,0 +1,10 @@
+{
+  "id": "ping-an-finance-centre",
+  "name": "Ping An Finance Centre",
+  "city": "Shenzhen",
+  "country": "China",
+  "height_m": 599,
+  "floors": 115,
+  "completed_year": 2017,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/ping-an-finance-centre.json"
+}

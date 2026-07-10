@@ -1,0 +1,9 @@
+{
+  "id": "voyager-2",
+  "name": "Voyager 2",
+  "agency": "NASA",
+  "launch_year": 1977,
+  "type": "Probe",
+  "achievement": "Only spacecraft to fly by all four giant planets.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/voyager-2.json"
+}

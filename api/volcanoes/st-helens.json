@@ -1,0 +1,9 @@
+{
+  "id": "st-helens",
+  "name": "Mount St. Helens",
+  "country": "United States",
+  "type": "Stratovolcano",
+  "elevation_m": 2549,
+  "last_major_eruption": 1980,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/st-helens.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "opportunity",
+  "name": "Opportunity (MER-B)",
+  "agency": "NASA",
+  "launch_year": 2003,
+  "status": "Inactive",
+  "mission": "Mars Exploration Rover that operated for nearly 15 years and found evidence of past water.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mars-rovers/opportunity.json"
+}

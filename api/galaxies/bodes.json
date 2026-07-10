@@ -1,0 +1,9 @@
+{
+  "id": "bodes",
+  "name": "Bode's Galaxy (M81)",
+  "type": "Spiral",
+  "constellation": "Ursa Major",
+  "distance_mly": 12,
+  "notes": "A grand-design spiral galaxy near M82.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/bodes.json"
+}

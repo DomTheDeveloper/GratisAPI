@@ -1,0 +1,9 @@
+{
+  "id": "halloumi",
+  "name": "Halloumi",
+  "country_of_origin": "Cyprus",
+  "milk": "Mixed",
+  "texture": "Semi-hard",
+  "flavor": "Salty and mild, with a firm springy bite",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/halloumi.json"
+}

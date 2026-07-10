@@ -1,0 +1,17 @@
+{
+  "id": "howto-excel-power-query",
+  "title": "Loading GratisAPI Data into Excel Power Query",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-06-17",
+  "tags": [
+    "excel",
+    "power-query",
+    "no-code"
+  ],
+  "summary": "Use Excel's Power Query to import, expand, and refresh GratisAPI JSON collections.",
+  "body": "Excel's Power Query, also called Get and Transform, has native support for reading JSON from a web URL, which makes GratisAPI easy to load and refresh without any code.\n\nStart on the Data tab. Choose Get Data, then From Other Sources, then From Web, and paste an endpoint URL such as https://domthedeveloper.github.io/GratisAPI/api/countries/index.json. Excel fetches the file and opens the Power Query editor, showing the JSON as a record.\n\nThe top-level response is an object with metadata fields and a key holding the list of records. In the editor, drill into that list key, then convert it to a table. Power Query shows a column of record values with an expand button in the header. Click it and select the fields you want, and each becomes its own column. What began as nested JSON is now a clean, flat table ready for the worksheet.\n\nWhen the shape looks right, choose Close and Load to drop the table onto a sheet. The real payoff comes later: because Power Query remembers the query steps, you can click Refresh at any time to re-pull the endpoint and reapply your transformations automatically. You can also set the query to refresh when the workbook opens or on a timer.\n\nEvery transformation is recorded as a step in the applied-steps list, so you can rename columns, change types, filter rows, or sort, and the whole pipeline replays on each refresh. Because GratisAPI endpoints are static files with no authentication, choose anonymous access when Excel prompts for credentials, and the connection just works.\n\nThis workflow turns any GratisAPI collection into a refreshable, analysis-ready Excel table. For business users and analysts who prefer Excel to programming, it is the most direct way to bring open data into familiar tools like PivotTables and charts.",
+  "word_count": 294,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-excel-power-query.json"
+}

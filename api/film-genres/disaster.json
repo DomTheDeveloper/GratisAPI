@@ -1,0 +1,7 @@
+{
+  "id": "disaster",
+  "name": "Disaster",
+  "description": "Films depicting large-scale catastrophes and survival against them.",
+  "example_film": "The Towering Inferno",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/disaster.json"
+}

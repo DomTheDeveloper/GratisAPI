@@ -1,0 +1,42 @@
+"""Major organs of the human body with system, function, and location."""
+
+META = {
+    "name": "human_organs",
+    "title": "Human Organs",
+    "description": "Major organs of the human body, their organ system, function, and location.",
+    "emoji": "\U0001FAC0",
+}
+
+ITEMS = [
+    {"id": "brain", "name": "Brain", "system": "Nervous system", "function": "Controls thought, movement, and body functions and processes sensory information.", "location": "Head, within the cranium"},
+    {"id": "spinal-cord", "name": "Spinal cord", "system": "Nervous system", "function": "Relays signals between the brain and the rest of the body.", "location": "Vertebral canal of the spine"},
+    {"id": "heart", "name": "Heart", "system": "Cardiovascular system", "function": "Pumps blood throughout the body.", "location": "Thoracic cavity, between the lungs"},
+    {"id": "lungs", "name": "Lungs", "system": "Respiratory system", "function": "Exchange oxygen and carbon dioxide between air and blood.", "location": "Thoracic cavity, either side of the heart"},
+    {"id": "trachea", "name": "Trachea", "system": "Respiratory system", "function": "Conducts air between the larynx and the bronchi.", "location": "Neck and upper chest"},
+    {"id": "diaphragm", "name": "Diaphragm", "system": "Respiratory system", "function": "Contracts to draw air into the lungs during breathing.", "location": "Below the lungs, separating chest and abdomen"},
+    {"id": "liver", "name": "Liver", "system": "Digestive system", "function": "Filters blood, produces bile, and stores nutrients.", "location": "Upper right abdomen"},
+    {"id": "stomach", "name": "Stomach", "system": "Digestive system", "function": "Breaks down food using acid and enzymes.", "location": "Upper left abdomen"},
+    {"id": "small-intestine", "name": "Small intestine", "system": "Digestive system", "function": "Absorbs most nutrients from digested food.", "location": "Central abdomen"},
+    {"id": "large-intestine", "name": "Large intestine", "system": "Digestive system", "function": "Absorbs water and forms and stores feces.", "location": "Perimeter of the abdomen"},
+    {"id": "esophagus", "name": "Esophagus", "system": "Digestive system", "function": "Carries food from the throat to the stomach.", "location": "Behind the trachea, from throat to stomach"},
+    {"id": "pancreas", "name": "Pancreas", "system": "Digestive system", "function": "Secretes digestive enzymes and regulates blood sugar via insulin.", "location": "Behind the stomach"},
+    {"id": "gallbladder", "name": "Gallbladder", "system": "Digestive system", "function": "Stores and concentrates bile produced by the liver.", "location": "Beneath the liver"},
+    {"id": "kidneys", "name": "Kidneys", "system": "Urinary system", "function": "Filter blood to produce urine and regulate fluid balance.", "location": "Posterior abdomen, either side of the spine"},
+    {"id": "bladder", "name": "Urinary bladder", "system": "Urinary system", "function": "Stores urine before it is expelled from the body.", "location": "Pelvis"},
+    {"id": "ureters", "name": "Ureters", "system": "Urinary system", "function": "Carry urine from the kidneys to the bladder.", "location": "From kidneys to bladder"},
+    {"id": "urethra", "name": "Urethra", "system": "Urinary system", "function": "Conducts urine from the bladder out of the body.", "location": "From bladder to exterior"},
+    {"id": "skin", "name": "Skin", "system": "Integumentary system", "function": "Protects the body, regulates temperature, and senses the environment.", "location": "Entire external surface of the body"},
+    {"id": "spleen", "name": "Spleen", "system": "Lymphatic system", "function": "Filters blood and helps fight infection.", "location": "Upper left abdomen, behind the stomach"},
+    {"id": "thymus", "name": "Thymus", "system": "Lymphatic system", "function": "Matures T-lymphocytes for the immune system.", "location": "Upper chest, behind the sternum"},
+    {"id": "tonsils", "name": "Tonsils", "system": "Lymphatic system", "function": "Trap pathogens entering through the mouth and nose.", "location": "Back of the throat"},
+    {"id": "thyroid", "name": "Thyroid gland", "system": "Endocrine system", "function": "Secretes hormones that regulate metabolism.", "location": "Front of the neck"},
+    {"id": "pituitary", "name": "Pituitary gland", "system": "Endocrine system", "function": "Master gland that regulates other endocrine glands.", "location": "Base of the brain"},
+    {"id": "adrenal-glands", "name": "Adrenal glands", "system": "Endocrine system", "function": "Produce hormones such as adrenaline and cortisol.", "location": "On top of each kidney"},
+    {"id": "eyes", "name": "Eyes", "system": "Nervous system", "function": "Detect light to provide the sense of vision.", "location": "Eye sockets of the skull"},
+    {"id": "ears", "name": "Ears", "system": "Nervous system", "function": "Detect sound and help maintain balance.", "location": "Either side of the head"},
+    {"id": "tongue", "name": "Tongue", "system": "Digestive system", "function": "Manipulates food, aids speech, and senses taste.", "location": "Floor of the mouth"},
+    {"id": "ovaries", "name": "Ovaries", "system": "Reproductive system", "function": "Produce egg cells and female sex hormones.", "location": "Pelvis, either side of the uterus"},
+    {"id": "uterus", "name": "Uterus", "system": "Reproductive system", "function": "Houses and nourishes a developing fetus.", "location": "Female pelvis"},
+    {"id": "testes", "name": "Testes", "system": "Reproductive system", "function": "Produce sperm and male sex hormones.", "location": "Scrotum"},
+    {"id": "prostate", "name": "Prostate gland", "system": "Reproductive system", "function": "Produces fluid that nourishes and transports sperm.", "location": "Below the male bladder"},
+]

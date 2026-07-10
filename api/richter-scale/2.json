@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "magnitude_range": "2.0-2.9",
+  "class": "Minor",
+  "effects": "Generally not felt, but recorded.",
+  "approx_frequency_per_year": 1000000,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/richter-scale/2.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wrath",
+  "name": "Wrath",
+  "type": "Sin",
+  "latin": "Ira",
+  "opposite": "Patience",
+  "description": "Uncontrolled feelings of anger, hatred, and the desire for revenge.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-deadly-sins/wrath.json"
+}

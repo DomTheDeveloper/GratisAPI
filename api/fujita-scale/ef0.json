@@ -1,0 +1,8 @@
+{
+  "id": "ef0",
+  "scale": "EF0",
+  "wind_kmh_min": 105,
+  "wind_kmh_max": 137,
+  "damage_description": "Minor damage; peeled roof surfaces, broken tree branches.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fujita-scale/ef0.json"
+}

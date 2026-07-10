@@ -1,0 +1,17 @@
+{
+  "id": "freedom-what-libre-means",
+  "title": "What \"Libre\" Really Means",
+  "category": "Philosophy",
+  "author": "The GratisAPI Team",
+  "date": "2023-02-08",
+  "tags": [
+    "libre",
+    "liberty",
+    "terminology"
+  ],
+  "summary": "Libre refers to freedom rather than price, describing software that respects the liberty of the people who use it.",
+  "body": "Libre is a word English has borrowed from French and Spanish to name a specific idea: freedom, not price. When people say software is free as in freedom, libre is what they mean. It describes the liberties a user holds over a program, entirely apart from whether any money changed hands.\n\nLibre software can be sold. Nothing about the concept requires a price of zero. A vendor may charge for copies, support, or convenience. What makes the software libre is that everyone who receives a copy also receives the freedom to run it, study it, modify it, and pass it along. Liberty travels with the code.\n\nThe distinction turns on control. With proprietary software, the developer holds power over the user, deciding what the program may and may not do and forbidding inspection of its inner workings. Libre software inverts that relationship. The user, alone or in community, holds the power to understand and change the tool they depend on.\n\nThis is not a small technical footnote. Software increasingly mediates work, communication, health, and civic life. A program you cannot study or alter is a program that governs you on terms set by someone else. Libre software insists that the people affected by a tool should be able to control it.\n\nThe Free Software Foundation formalized this idea as four essential freedoms, which together define whether a program is libre. A tool that grants all four respects its users; one that withholds any of them does not, regardless of its price.\n\nGratisAPI aims to be libre as well as gratis. The data and the code are openly licensed so that anyone may inspect, adapt, and rebuild them. Cost is only part of freedom, and libre names the part that lasts.",
+  "word_count": 290,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/freedom-what-libre-means.json"
+}

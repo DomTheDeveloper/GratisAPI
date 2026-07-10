@@ -1,0 +1,17 @@
+{
+  "id": "reference-file-formats",
+  "title": "File Formats Explained",
+  "category": "Reference",
+  "author": "The GratisAPI Team",
+  "date": "2025-01-20",
+  "tags": [
+    "file-formats",
+    "data",
+    "files"
+  ],
+  "summary": "A file format defines how data is arranged inside a file so that programs can read it correctly.",
+  "body": "A file is just a sequence of bytes, and by itself that sequence means nothing. A file format is the agreed convention that gives those bytes meaning, telling a program how to interpret them as an image, a document, a sound, or structured data. Without formats, files would be unreadable noise.\n\nFormats fall into two broad kinds. Text formats store data as human readable characters, so you can open them in any editor and understand them. Examples include plain text, CSV for tabular data, JSON and XML for structured data, and HTML for web pages. Binary formats store data as raw bytes optimized for a program rather than a person, which makes them compact and fast but unreadable without the right software. Images, audio, video, and compiled programs are usually binary.\n\nMany formats begin with a signature, a few bytes at the start that identify the type. This magic number lets programs recognize a file's true format even if its name is wrong. The file extension at the end of a name is only a hint; the signature is the real evidence, which is why renaming a file does not change what it actually is.\n\nFormats also differ in how they handle size. Some compress their data to save space, and compression can be lossless, preserving every detail, or lossy, discarding some information for a smaller file. Photographs often use lossy compression because slight imperfections go unnoticed, while archives use lossless compression because every byte must survive.\n\nChoosing a format means weighing readability, size, and compatibility. A text format is great for data you must inspect or edit, while a binary format is better when efficiency matters most.\n\nGratisAPI provides a reference at /api/file-formats/index.json, where each entry names a format, its typical extension, and a description of its use. It pairs naturally with the MIME types dataset, since formats and MIME types describe the same thing from different angles. Understanding formats explains why files open in particular programs and why the bytes inside them are arranged as they are.",
+  "word_count": 339,
+  "reading_time_min": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/reference-file-formats.json"
+}

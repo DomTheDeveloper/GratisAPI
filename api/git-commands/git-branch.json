@@ -1,0 +1,7 @@
+{
+  "id": "git-branch",
+  "command": "git branch",
+  "category": "Branching",
+  "description": "List, create, or delete branches.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-branch.json"
+}

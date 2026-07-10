@@ -1,0 +1,13 @@
+{
+  "id": "conceptual-art",
+  "name": "Conceptual Art",
+  "period": "1960s-1970s",
+  "origin_region": "United States",
+  "key_artists": [
+    "Sol LeWitt",
+    "Joseph Kosuth",
+    "Yoko Ono"
+  ],
+  "description": "Art in which the underlying idea takes precedence over the finished object.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/conceptual-art.json"
+}

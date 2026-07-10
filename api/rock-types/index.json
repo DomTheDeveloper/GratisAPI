@@ -1,0 +1,182 @@
+{
+  "api": "rock-types",
+  "title": "Rock Types",
+  "description": "Common igneous, sedimentary, and metamorphic rocks and their uses.",
+  "emoji": "🪨",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/{id}.json"
+  },
+  "fields": [
+    "common_use",
+    "description",
+    "id",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "granite",
+      "name": "Granite",
+      "type": "Igneous",
+      "description": "Coarse-grained rock of quartz and feldspar formed from slowly cooled magma.",
+      "common_use": "Countertops, monuments, and building facades.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/granite.json"
+    },
+    {
+      "id": "basalt",
+      "name": "Basalt",
+      "type": "Igneous",
+      "description": "Fine-grained, dark volcanic rock that makes up much of the ocean floor.",
+      "common_use": "Road aggregate and crushed stone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/basalt.json"
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "type": "Igneous",
+      "description": "Glassy black rock formed when lava cools too quickly to crystallize.",
+      "common_use": "Cutting tools and jewelry.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/obsidian.json"
+    },
+    {
+      "id": "pumice",
+      "name": "Pumice",
+      "type": "Igneous",
+      "description": "Light, porous volcanic rock full of gas bubbles that can float on water.",
+      "common_use": "Abrasives and lightweight concrete.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/pumice.json"
+    },
+    {
+      "id": "gabbro",
+      "name": "Gabbro",
+      "type": "Igneous",
+      "description": "Coarse-grained dark rock, the intrusive equivalent of basalt.",
+      "common_use": "Crushed stone and dimension stone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/gabbro.json"
+    },
+    {
+      "id": "andesite",
+      "name": "Andesite",
+      "type": "Igneous",
+      "description": "Fine-grained volcanic rock common in continental arc volcanoes.",
+      "common_use": "Construction aggregate.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/andesite.json"
+    },
+    {
+      "id": "sandstone",
+      "name": "Sandstone",
+      "type": "Sedimentary",
+      "description": "Rock made of cemented sand-sized grains, often quartz.",
+      "common_use": "Building stone and paving.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/sandstone.json"
+    },
+    {
+      "id": "limestone",
+      "name": "Limestone",
+      "type": "Sedimentary",
+      "description": "Rock composed mainly of calcium carbonate from shells and marine debris.",
+      "common_use": "Cement production and building stone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/limestone.json"
+    },
+    {
+      "id": "shale",
+      "name": "Shale",
+      "type": "Sedimentary",
+      "description": "Fine-grained rock formed from compacted mud and clay that splits in layers.",
+      "common_use": "Brick and ceramic manufacture.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/shale.json"
+    },
+    {
+      "id": "conglomerate",
+      "name": "Conglomerate",
+      "type": "Sedimentary",
+      "description": "Rock of rounded gravel and pebbles cemented together.",
+      "common_use": "Decorative stone and aggregate.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/conglomerate.json"
+    },
+    {
+      "id": "chalk",
+      "name": "Chalk",
+      "type": "Sedimentary",
+      "description": "Soft white limestone made of microscopic marine plankton skeletons.",
+      "common_use": "Writing chalk and lime.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/chalk.json"
+    },
+    {
+      "id": "coal",
+      "name": "Coal",
+      "type": "Sedimentary",
+      "description": "Combustible black rock formed from compressed ancient plant matter.",
+      "common_use": "Fuel and electricity generation.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/coal.json"
+    },
+    {
+      "id": "breccia",
+      "name": "Breccia",
+      "type": "Sedimentary",
+      "description": "Rock of angular, broken fragments cemented in a fine matrix.",
+      "common_use": "Decorative and ornamental stone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/breccia.json"
+    },
+    {
+      "id": "marble",
+      "name": "Marble",
+      "type": "Metamorphic",
+      "description": "Recrystallized limestone prized for its color and smooth texture.",
+      "common_use": "Sculpture, flooring, and countertops.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/marble.json"
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "type": "Metamorphic",
+      "description": "Fine-grained rock derived from shale that splits into thin flat sheets.",
+      "common_use": "Roofing tiles and flooring.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/slate.json"
+    },
+    {
+      "id": "gneiss",
+      "name": "Gneiss",
+      "type": "Metamorphic",
+      "description": "Banded rock with alternating light and dark mineral layers.",
+      "common_use": "Building stone and aggregate.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/gneiss.json"
+    },
+    {
+      "id": "schist",
+      "name": "Schist",
+      "type": "Metamorphic",
+      "description": "Foliated rock with visible platy minerals like mica that reflect light.",
+      "common_use": "Decorative stone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/schist.json"
+    },
+    {
+      "id": "quartzite",
+      "name": "Quartzite",
+      "type": "Metamorphic",
+      "description": "Very hard rock formed from metamorphosed quartz sandstone.",
+      "common_use": "Countertops and railway ballast.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/quartzite.json"
+    },
+    {
+      "id": "phyllite",
+      "name": "Phyllite",
+      "type": "Metamorphic",
+      "description": "Foliated rock between slate and schist with a silky sheen.",
+      "common_use": "Decorative and building stone.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/phyllite.json"
+    },
+    {
+      "id": "anthracite",
+      "name": "Anthracite",
+      "type": "Metamorphic",
+      "description": "The hardest, highest-carbon form of coal, formed under heat and pressure.",
+      "common_use": "High-grade fuel.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rock-types/anthracite.json"
+    }
+  ]
+}

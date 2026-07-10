@@ -1,0 +1,8 @@
+{
+  "id": "athletics",
+  "name": "Athletics",
+  "category": "Summer",
+  "type": "Individual",
+  "first_olympics_year": 1896,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/olympic-sports/athletics.json"
+}

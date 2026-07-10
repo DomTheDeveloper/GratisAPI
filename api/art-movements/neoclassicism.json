@@ -1,0 +1,12 @@
+{
+  "id": "neoclassicism",
+  "name": "Neoclassicism",
+  "period": "1750s-1830s",
+  "origin_region": "France",
+  "key_artists": [
+    "Jacques-Louis David",
+    "Jean-Auguste-Dominique Ingres"
+  ],
+  "description": "Revival of classical antiquity emphasizing order, clarity, and restraint.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/neoclassicism.json"
+}

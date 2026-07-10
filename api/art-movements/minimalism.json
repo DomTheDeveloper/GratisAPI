@@ -1,0 +1,13 @@
+{
+  "id": "minimalism",
+  "name": "Minimalism",
+  "period": "1960s-1970s",
+  "origin_region": "United States",
+  "key_artists": [
+    "Donald Judd",
+    "Dan Flavin",
+    "Agnes Martin"
+  ],
+  "description": "Movement stripping art to simple geometric forms and industrial materials.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/art-movements/minimalism.json"
+}

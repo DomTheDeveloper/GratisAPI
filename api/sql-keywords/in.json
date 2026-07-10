@@ -1,0 +1,7 @@
+{
+  "id": "in",
+  "keyword": "IN",
+  "category": "Operator",
+  "description": "Tests whether a value matches any value in a list or subquery.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/in.json"
+}

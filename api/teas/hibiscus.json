@@ -1,0 +1,9 @@
+{
+  "id": "hibiscus",
+  "name": "Hibiscus",
+  "type": "Herbal",
+  "origin_region": "Tropical regions",
+  "caffeine": "None",
+  "notes": "Tart, ruby-red infusion of dried hibiscus flowers.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/teas/hibiscus.json"
+}

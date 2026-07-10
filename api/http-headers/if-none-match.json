@@ -1,0 +1,8 @@
+{
+  "id": "if-none-match",
+  "header": "If-None-Match",
+  "type": "Request",
+  "description": "Makes the request conditional; server responds only if the ETag differs.",
+  "example": "\"33a64df5\"",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/if-none-match.json"
+}

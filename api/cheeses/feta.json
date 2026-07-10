@@ -1,0 +1,9 @@
+{
+  "id": "feta",
+  "name": "Feta",
+  "country_of_origin": "Greece",
+  "milk": "Sheep",
+  "texture": "Soft",
+  "flavor": "Salty, tangy, and briny",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cheeses/feta.json"
+}

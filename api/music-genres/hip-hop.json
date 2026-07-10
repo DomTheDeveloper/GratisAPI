@@ -1,0 +1,8 @@
+{
+  "id": "hip-hop",
+  "name": "Hip Hop",
+  "origin_decade": "1970s",
+  "origin_region": "Bronx, New York, United States",
+  "description": "Culture and genre built on rapping over beats, sampling, and DJing.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/music-genres/hip-hop.json"
+}

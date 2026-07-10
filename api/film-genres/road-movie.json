@@ -1,0 +1,7 @@
+{
+  "id": "road-movie",
+  "name": "Road Movie",
+  "description": "Films structured around a journey along the road as a path of self-discovery.",
+  "example_film": "Thelma & Louise",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/film-genres/road-movie.json"
+}

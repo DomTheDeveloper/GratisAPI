@@ -1,0 +1,7 @@
+{
+  "id": "decorator",
+  "name": "Decorator",
+  "category": "Structural",
+  "description": "Attaches additional responsibilities to an object dynamically, providing a flexible alternative to subclassing.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/decorator.json"
+}

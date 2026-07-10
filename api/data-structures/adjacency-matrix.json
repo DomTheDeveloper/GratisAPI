@@ -1,0 +1,10 @@
+{
+  "id": "adjacency-matrix",
+  "name": "Adjacency Matrix",
+  "category": "Graph",
+  "access_big_o": "O(1)",
+  "search_big_o": "O(1)",
+  "insert_big_o": "O(1)",
+  "description": "A graph representation using a V-by-V matrix where each cell marks whether an edge exists between two vertices.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/data-structures/adjacency-matrix.json"
+}

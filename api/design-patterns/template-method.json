@@ -1,0 +1,7 @@
+{
+  "id": "template-method",
+  "name": "Template Method",
+  "category": "Behavioral",
+  "description": "Defines the skeleton of an algorithm in a method, deferring some steps to subclasses.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/design-patterns/template-method.json"
+}

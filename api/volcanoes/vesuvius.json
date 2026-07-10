@@ -1,0 +1,9 @@
+{
+  "id": "vesuvius",
+  "name": "Mount Vesuvius",
+  "country": "Italy",
+  "type": "Complex",
+  "elevation_m": 1281,
+  "last_major_eruption": 1944,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/volcanoes/vesuvius.json"
+}

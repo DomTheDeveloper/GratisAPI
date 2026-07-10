@@ -1,0 +1,8 @@
+{
+  "id": "nimbostratus",
+  "name": "Nimbostratus",
+  "abbreviation": "Ns",
+  "altitude_level": "Middle",
+  "description": "Thick, dark, featureless layer producing continuous rain or snow.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cloud-types/nimbostratus.json"
+}

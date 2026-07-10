@@ -1,0 +1,222 @@
+{
+  "api": "roman-gods",
+  "title": "Roman Gods",
+  "description": "Major deities of ancient Roman religion with their Greek equivalents.",
+  "emoji": "🏛️",
+  "license": "GPL-2.0-or-later",
+  "count": 25,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/{id}.json"
+  },
+  "fields": [
+    "domain",
+    "greek_equivalent",
+    "id",
+    "name",
+    "symbol"
+  ],
+  "results": [
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "domain": "Sky, thunder, and king of the gods",
+      "greek_equivalent": "Zeus",
+      "symbol": "Thunderbolt and eagle",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/jupiter.json"
+    },
+    {
+      "id": "juno",
+      "name": "Juno",
+      "domain": "Marriage, women, and the state",
+      "greek_equivalent": "Hera",
+      "symbol": "Peacock",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/juno.json"
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "domain": "The sea and earthquakes",
+      "greek_equivalent": "Poseidon",
+      "symbol": "Trident",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/neptune.json"
+    },
+    {
+      "id": "minerva",
+      "name": "Minerva",
+      "domain": "Wisdom, crafts, and strategic warfare",
+      "greek_equivalent": "Athena",
+      "symbol": "Owl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/minerva.json"
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "domain": "War",
+      "greek_equivalent": "Ares",
+      "symbol": "Spear and shield",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/mars.json"
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "domain": "Love, beauty, and fertility",
+      "greek_equivalent": "Aphrodite",
+      "symbol": "Dove and myrtle",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/venus.json"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "domain": "Sun, music, poetry, and prophecy",
+      "greek_equivalent": "Apollo",
+      "symbol": "Lyre and laurel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/apollo.json"
+    },
+    {
+      "id": "diana",
+      "name": "Diana",
+      "domain": "The hunt, the moon, and wild animals",
+      "greek_equivalent": "Artemis",
+      "symbol": "Bow and crescent moon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/diana.json"
+    },
+    {
+      "id": "vulcan",
+      "name": "Vulcan",
+      "domain": "Fire, metalworking, and the forge",
+      "greek_equivalent": "Hephaestus",
+      "symbol": "Hammer and anvil",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/vulcan.json"
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "domain": "Commerce, travel, and messages",
+      "greek_equivalent": "Hermes",
+      "symbol": "Caduceus and winged sandals",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/mercury.json"
+    },
+    {
+      "id": "ceres",
+      "name": "Ceres",
+      "domain": "Agriculture, grain, and the harvest",
+      "greek_equivalent": "Demeter",
+      "symbol": "Sheaf of wheat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/ceres.json"
+    },
+    {
+      "id": "vesta",
+      "name": "Vesta",
+      "domain": "Hearth, home, and family",
+      "greek_equivalent": "Hestia",
+      "symbol": "Sacred hearth flame",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/vesta.json"
+    },
+    {
+      "id": "bacchus",
+      "name": "Bacchus",
+      "domain": "Wine, revelry, and ecstasy",
+      "greek_equivalent": "Dionysus",
+      "symbol": "Grapevine and thyrsus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/bacchus.json"
+    },
+    {
+      "id": "pluto",
+      "name": "Pluto",
+      "domain": "The underworld and the dead",
+      "greek_equivalent": "Hades",
+      "symbol": "Bident and Cerberus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/pluto.json"
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "domain": "Time, agriculture, and abundance",
+      "greek_equivalent": "Cronus",
+      "symbol": "Scythe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/saturn.json"
+    },
+    {
+      "id": "janus",
+      "name": "Janus",
+      "domain": "Beginnings, doorways, and transitions",
+      "greek_equivalent": null,
+      "symbol": "Two faces looking in opposite directions",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/janus.json"
+    },
+    {
+      "id": "cupid",
+      "name": "Cupid",
+      "domain": "Desire and erotic love",
+      "greek_equivalent": "Eros",
+      "symbol": "Bow and arrow",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/cupid.json"
+    },
+    {
+      "id": "fortuna",
+      "name": "Fortuna",
+      "domain": "Fortune and luck",
+      "greek_equivalent": "Tyche",
+      "symbol": "Wheel and cornucopia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/fortuna.json"
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "domain": "Victory",
+      "greek_equivalent": "Nike",
+      "symbol": "Wings and laurel wreath",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/victoria.json"
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "domain": "The dawn",
+      "greek_equivalent": "Eos",
+      "symbol": "Rosy light of morning",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/aurora.json"
+    },
+    {
+      "id": "sol",
+      "name": "Sol",
+      "domain": "The sun",
+      "greek_equivalent": "Helios",
+      "symbol": "Radiant crown",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/sol.json"
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "domain": "The moon",
+      "greek_equivalent": "Selene",
+      "symbol": "Crescent moon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/luna.json"
+    },
+    {
+      "id": "faunus",
+      "name": "Faunus",
+      "domain": "Forests, fields, and shepherds",
+      "greek_equivalent": "Pan",
+      "symbol": "Horns and pan pipes",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/faunus.json"
+    },
+    {
+      "id": "flora",
+      "name": "Flora",
+      "domain": "Flowers and spring",
+      "greek_equivalent": "Chloris",
+      "symbol": "Flowers and blossoms",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/flora.json"
+    },
+    {
+      "id": "bellona",
+      "name": "Bellona",
+      "domain": "War",
+      "greek_equivalent": "Enyo",
+      "symbol": "Sword and helmet",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-gods/bellona.json"
+    }
+  ]
+}

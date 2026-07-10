@@ -1,0 +1,8 @@
+{
+  "id": "gif",
+  "extension": ".gif",
+  "name": "Graphics Interchange Format",
+  "category": "Image",
+  "description": "A raster image format supporting animation and limited color palettes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/file-formats/gif.json"
+}

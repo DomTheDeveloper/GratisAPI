@@ -1,0 +1,7 @@
+{
+  "id": "git-diff",
+  "command": "git diff",
+  "category": "Snapshot",
+  "description": "Show changes between commits, the working tree, and the staging area.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/git-commands/git-diff.json"
+}

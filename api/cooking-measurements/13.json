@@ -1,0 +1,10 @@
+{
+  "id": 13,
+  "unit": "Milligram",
+  "abbreviation": "mg",
+  "type": "Weight",
+  "milliliters": null,
+  "grams": 0.001,
+  "note": "Equals 1/1000 of a gram.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cooking-measurements/13.json"
+}

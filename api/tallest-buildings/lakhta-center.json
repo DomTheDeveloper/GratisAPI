@@ -1,0 +1,10 @@
+{
+  "id": "lakhta-center",
+  "name": "Lakhta Center",
+  "city": "Saint Petersburg",
+  "country": "Russia",
+  "height_m": 462,
+  "floors": 87,
+  "completed_year": 2019,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tallest-buildings/lakhta-center.json"
+}

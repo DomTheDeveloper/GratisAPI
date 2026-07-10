@@ -1,0 +1,94 @@
+{
+  "api": "human-senses",
+  "title": "Human Senses",
+  "description": "The human senses, including the classic five plus balance, proprioception, and more.",
+  "emoji": "👁",
+  "license": "GPL-2.0-or-later",
+  "count": 9,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "name",
+    "organ",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "sight",
+      "name": "Sight (vision)",
+      "organ": "Eyes",
+      "description": "Detection of light, color, and motion to perceive the visual world.",
+      "type": "Classic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/sight.json"
+    },
+    {
+      "id": "hearing",
+      "name": "Hearing (audition)",
+      "organ": "Ears",
+      "description": "Detection of sound waves as vibrations in the air.",
+      "type": "Classic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/hearing.json"
+    },
+    {
+      "id": "smell",
+      "name": "Smell (olfaction)",
+      "organ": "Nose",
+      "description": "Detection of airborne chemical molecules to perceive odors.",
+      "type": "Classic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/smell.json"
+    },
+    {
+      "id": "taste",
+      "name": "Taste (gustation)",
+      "organ": "Tongue",
+      "description": "Detection of dissolved chemicals to perceive sweet, sour, salty, bitter, and umami.",
+      "type": "Classic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/taste.json"
+    },
+    {
+      "id": "touch",
+      "name": "Touch (tactition)",
+      "organ": "Skin",
+      "description": "Detection of pressure, vibration, and texture through the skin.",
+      "type": "Classic",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/touch.json"
+    },
+    {
+      "id": "balance",
+      "name": "Balance (equilibrioception)",
+      "organ": "Vestibular system of the inner ear",
+      "description": "Sense of body orientation, acceleration, and equilibrium.",
+      "type": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/balance.json"
+    },
+    {
+      "id": "proprioception",
+      "name": "Proprioception",
+      "organ": "Muscles and joints",
+      "description": "Awareness of the position and movement of the body's parts.",
+      "type": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/proprioception.json"
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature (thermoception)",
+      "organ": "Skin",
+      "description": "Detection of heat and cold through thermoreceptors.",
+      "type": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/temperature.json"
+    },
+    {
+      "id": "pain",
+      "name": "Pain (nociception)",
+      "organ": "Nociceptors throughout the body",
+      "description": "Detection of harmful or damaging stimuli to protect the body.",
+      "type": "Other",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/human-senses/pain.json"
+    }
+  ]
+}

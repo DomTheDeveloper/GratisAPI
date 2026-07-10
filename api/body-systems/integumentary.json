@@ -1,0 +1,13 @@
+{
+  "id": "integumentary",
+  "name": "Integumentary system",
+  "function": "Protects the body, regulates temperature, and provides sensory information.",
+  "key_organs": [
+    "Skin",
+    "Hair",
+    "Nails",
+    "Sweat glands",
+    "Sebaceous glands"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/integumentary.json"
+}

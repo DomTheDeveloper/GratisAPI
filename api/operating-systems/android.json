@@ -1,0 +1,9 @@
+{
+  "id": "android",
+  "name": "Android",
+  "family": "Mobile",
+  "first_release_year": 2008,
+  "developer": "Google",
+  "kernel": "Linux",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/android.json"
+}

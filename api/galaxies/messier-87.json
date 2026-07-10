@@ -1,0 +1,9 @@
+{
+  "id": "messier-87",
+  "name": "Messier 87 (M87)",
+  "type": "Elliptical",
+  "constellation": "Virgo",
+  "distance_mly": 53,
+  "notes": "Supergiant elliptical whose black hole was the first ever imaged.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/messier-87.json"
+}

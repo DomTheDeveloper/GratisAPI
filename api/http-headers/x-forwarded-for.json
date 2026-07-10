@@ -1,0 +1,8 @@
+{
+  "id": "x-forwarded-for",
+  "header": "X-Forwarded-For",
+  "type": "Request",
+  "description": "Identifies the originating IP address of a client through a proxy.",
+  "example": "203.0.113.195",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-headers/x-forwarded-for.json"
+}

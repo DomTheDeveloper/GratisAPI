@@ -1,0 +1,13 @@
+{
+  "id": "cardiovascular",
+  "name": "Cardiovascular system",
+  "function": "Circulates blood to transport oxygen, nutrients, and waste products.",
+  "key_organs": [
+    "Heart",
+    "Arteries",
+    "Veins",
+    "Capillaries",
+    "Blood"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/body-systems/cardiovascular.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 12,
+  "name": "Base64",
+  "base": 64,
+  "digits": "A-Z, a-z, 0-9, + and / (RFC 4648)",
+  "common_use": "Encoding binary data as ASCII text in email and data URLs.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/number-bases/12.json"
+}

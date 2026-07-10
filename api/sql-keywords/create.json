@@ -1,0 +1,7 @@
+{
+  "id": "create",
+  "keyword": "CREATE",
+  "category": "DDL",
+  "description": "Creates a new database object such as a table, index, or view.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sql-keywords/create.json"
+}

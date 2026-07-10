@@ -1,0 +1,9 @@
+{
+  "id": "artemis-1",
+  "name": "Artemis 1",
+  "agency": "NASA",
+  "launch_year": 2022,
+  "type": "Lunar",
+  "achievement": "First integrated test of the SLS rocket and Orion spacecraft around the Moon.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/space-missions/artemis-1.json"
+}

@@ -1,0 +1,248 @@
+{
+  "api": "hindu-gods",
+  "title": "Hindu Gods",
+  "description": "Major deities of Hinduism with their domains, consorts, and mounts.",
+  "emoji": "🕉️",
+  "license": "GPL-2.0-or-later",
+  "count": 25,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/{id}.json"
+  },
+  "fields": [
+    "consort",
+    "domain",
+    "id",
+    "name",
+    "notes",
+    "vehicle_mount"
+  ],
+  "results": [
+    {
+      "id": "brahma",
+      "name": "Brahma",
+      "domain": "Creation",
+      "consort": "Saraswati",
+      "vehicle_mount": "Hamsa (swan/goose)",
+      "notes": "The creator god of the Trimurti, depicted with four heads and four arms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/brahma.json"
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "domain": "Preservation and protection",
+      "consort": "Lakshmi",
+      "vehicle_mount": "Garuda (eagle) and Shesha (serpent)",
+      "notes": "The preserver of the Trimurti, who descends in avatars such as Rama and Krishna.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/vishnu.json"
+    },
+    {
+      "id": "shiva",
+      "name": "Shiva",
+      "domain": "Destruction and transformation",
+      "consort": "Parvati",
+      "vehicle_mount": "Nandi (bull)",
+      "notes": "The destroyer of the Trimurti, associated with asceticism, yoga, and the cosmic dance.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/shiva.json"
+    },
+    {
+      "id": "saraswati",
+      "name": "Saraswati",
+      "domain": "Knowledge, music, and the arts",
+      "consort": "Brahma",
+      "vehicle_mount": "Hamsa (swan)",
+      "notes": "Goddess of learning and wisdom, often shown playing the veena.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/saraswati.json"
+    },
+    {
+      "id": "lakshmi",
+      "name": "Lakshmi",
+      "domain": "Wealth, fortune, and prosperity",
+      "consort": "Vishnu",
+      "vehicle_mount": "Uluka (owl)",
+      "notes": "Goddess of prosperity, central to the festival of Diwali.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/lakshmi.json"
+    },
+    {
+      "id": "parvati",
+      "name": "Parvati",
+      "domain": "Love, fertility, and devotion",
+      "consort": "Shiva",
+      "vehicle_mount": "Lion or tiger",
+      "notes": "Goddess of power and motherhood; manifests fierce forms such as Durga and Kali.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/parvati.json"
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha",
+      "domain": "Beginnings, wisdom, and removal of obstacles",
+      "consort": null,
+      "vehicle_mount": "Mushika (mouse)",
+      "notes": "Elephant-headed son of Shiva and Parvati, invoked before new ventures.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/ganesha.json"
+    },
+    {
+      "id": "kartikeya",
+      "name": "Kartikeya",
+      "domain": "War and victory",
+      "consort": "Devasena and Valli",
+      "vehicle_mount": "Peacock",
+      "notes": "God of war, also known as Murugan or Skanda, son of Shiva and Parvati.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/kartikeya.json"
+    },
+    {
+      "id": "durga",
+      "name": "Durga",
+      "domain": "Protection and battle against evil",
+      "consort": "Shiva",
+      "vehicle_mount": "Lion or tiger",
+      "notes": "Warrior goddess who slew the buffalo demon Mahishasura; celebrated at Durga Puja.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/durga.json"
+    },
+    {
+      "id": "kali",
+      "name": "Kali",
+      "domain": "Time, destruction, and liberation",
+      "consort": "Shiva",
+      "vehicle_mount": null,
+      "notes": "Fierce goddess who destroys evil forces; a form of the divine mother.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/kali.json"
+    },
+    {
+      "id": "krishna",
+      "name": "Krishna",
+      "domain": "Love, compassion, and divine play",
+      "consort": "Radha and Rukmini",
+      "vehicle_mount": null,
+      "notes": "Eighth avatar of Vishnu and speaker of the Bhagavad Gita.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/krishna.json"
+    },
+    {
+      "id": "rama",
+      "name": "Rama",
+      "domain": "Righteousness and virtue",
+      "consort": "Sita",
+      "vehicle_mount": null,
+      "notes": "Seventh avatar of Vishnu and hero of the epic Ramayana.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/rama.json"
+    },
+    {
+      "id": "hanuman",
+      "name": "Hanuman",
+      "domain": "Strength, devotion, and service",
+      "consort": null,
+      "vehicle_mount": null,
+      "notes": "Devoted companion of Rama, revered for boundless strength and loyalty.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/hanuman.json"
+    },
+    {
+      "id": "indra",
+      "name": "Indra",
+      "domain": "Storms, rain, and the heavens",
+      "consort": "Shachi",
+      "vehicle_mount": "Airavata (white elephant)",
+      "notes": "King of the devas and lord of the sky, wielding the thunderbolt vajra.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/indra.json"
+    },
+    {
+      "id": "agni",
+      "name": "Agni",
+      "domain": "Fire",
+      "consort": "Svaha",
+      "vehicle_mount": "Ram",
+      "notes": "God of fire and messenger to the gods, central to Vedic sacrifice.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/agni.json"
+    },
+    {
+      "id": "varuna",
+      "name": "Varuna",
+      "domain": "Water, oceans, and cosmic order",
+      "consort": "Varuni",
+      "vehicle_mount": "Makara (sea creature)",
+      "notes": "Guardian of moral law and the celestial waters.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/varuna.json"
+    },
+    {
+      "id": "vayu",
+      "name": "Vayu",
+      "domain": "Wind and air",
+      "consort": null,
+      "vehicle_mount": "Gazelle",
+      "notes": "God of the wind and the breath of life; father of Hanuman and Bhima.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/vayu.json"
+    },
+    {
+      "id": "surya",
+      "name": "Surya",
+      "domain": "The Sun",
+      "consort": "Sanjna",
+      "vehicle_mount": "Chariot drawn by seven horses",
+      "notes": "The solar deity who traverses the sky in a radiant chariot.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/surya.json"
+    },
+    {
+      "id": "chandra",
+      "name": "Chandra",
+      "domain": "The Moon",
+      "consort": "Rohini and the Nakshatras",
+      "vehicle_mount": "Chariot drawn by antelopes",
+      "notes": "The lunar deity governing plants, night, and the tides.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/chandra.json"
+    },
+    {
+      "id": "yama",
+      "name": "Yama",
+      "domain": "Death and justice",
+      "consort": "Dhumorna",
+      "vehicle_mount": "Buffalo",
+      "notes": "God of death who judges the dead and upholds cosmic law.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/yama.json"
+    },
+    {
+      "id": "kubera",
+      "name": "Kubera",
+      "domain": "Wealth and the north",
+      "consort": "Bhadra",
+      "vehicle_mount": "Man (Nara) or elephant",
+      "notes": "Lord of riches and treasurer of the gods, guardian of the northern direction.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/kubera.json"
+    },
+    {
+      "id": "ganga",
+      "name": "Ganga",
+      "domain": "The sacred river Ganges",
+      "consort": null,
+      "vehicle_mount": "Makara (crocodile)",
+      "notes": "Goddess personifying the Ganges, whose waters are believed to purify.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/ganga.json"
+    },
+    {
+      "id": "saraswati-river",
+      "name": "Hayagriva",
+      "domain": "Knowledge and wisdom",
+      "consort": null,
+      "vehicle_mount": null,
+      "notes": "Horse-headed avatar of Vishnu who restored the sacred Vedas.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/saraswati-river.json"
+    },
+    {
+      "id": "narasimha",
+      "name": "Narasimha",
+      "domain": "Protection and destruction of evil",
+      "consort": "Lakshmi",
+      "vehicle_mount": null,
+      "notes": "Fourth avatar of Vishnu, half-man and half-lion, who slew the tyrant Hiranyakashipu.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/narasimha.json"
+    },
+    {
+      "id": "annapurna",
+      "name": "Annapurna",
+      "domain": "Food and nourishment",
+      "consort": "Shiva",
+      "vehicle_mount": null,
+      "notes": "Goddess of food and cooking, a benevolent form of Parvati.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/hindu-gods/annapurna.json"
+    }
+  ]
+}

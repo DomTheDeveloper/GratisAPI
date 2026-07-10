@@ -1,0 +1,17 @@
+{
+  "id": "howto-ruby",
+  "title": "Consuming GratisAPI in Ruby",
+  "category": "Tutorials",
+  "author": "The GratisAPI Team",
+  "date": "2024-02-09",
+  "tags": [
+    "ruby",
+    "json",
+    "net-http"
+  ],
+  "summary": "Retrieve GratisAPI data in Ruby using the standard net/http and json libraries.",
+  "body": "Ruby's standard library covers everything you need to consume GratisAPI. The net/http library handles the request and the json library parses the response, so no gems are required for basic use.\n\nHere is the compact pattern. Require both libraries, build a URI, fetch it, and parse the body:\n\nrequire \"net/http\"\nrequire \"json\"\n\nurl = URI(\"https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json\")\nresponse = Net::HTTP.get(url)\ndata = JSON.parse(response)\n\nputs \"Loaded #{data['count']} quotes\"\ndata[\"quotes\"].each do |quote|\n  puts \"#{quote['text']} - #{quote['author']}\"\nend\n\nJSON.parse turns the response text into ordinary Ruby hashes and arrays, so you access fields with string keys. Net::HTTP.get is a convenience method that returns the body directly; for more control over status codes and headers, use Net::HTTP.start with a request object instead.\n\nFor cleaner error handling, wrap the call in a begin/rescue block to catch network exceptions, and check the response code when you need to distinguish a missing endpoint from a valid empty result. If you prefer a friendlier interface, popular gems like httparty or faraday reduce the ceremony, but they are optional conveniences rather than requirements.\n\nBecause GratisAPI returns entire collections in a single file, one request hands you the whole dataset to iterate with each, map, or select. This suits Ruby's expressive enumerable methods perfectly. You might select all records matching a condition, map them into a new shape, or sort them before display. Since there are no API keys and no rate limits, a Ruby script can fetch, transform, and present open data in just a handful of lines, whether it runs as a one-off task or inside a Rails application.",
+  "word_count": 259,
+  "reading_time_min": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/articles/howto-ruby.json"
+}

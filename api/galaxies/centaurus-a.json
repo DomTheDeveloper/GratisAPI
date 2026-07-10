@@ -1,0 +1,9 @@
+{
+  "id": "centaurus-a",
+  "name": "Centaurus A (NGC 5128)",
+  "type": "Lenticular",
+  "constellation": "Centaurus",
+  "distance_mly": 13,
+  "notes": "One of the closest radio galaxies to Earth.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/galaxies/centaurus-a.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "windows-11",
+  "name": "Windows 11",
+  "family": "Windows",
+  "first_release_year": 2021,
+  "developer": "Microsoft",
+  "kernel": "Windows NT",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/operating-systems/windows-11.json"
+}
