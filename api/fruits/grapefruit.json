@@ -1,0 +1,11 @@
+{
+  "id": "grapefruit",
+  "name": "Grapefruit",
+  "scientific_name": "Citrus paradisi",
+  "family": "Rutaceae",
+  "type": "Citrus",
+  "color": "Pink",
+  "origin_region": "Caribbean (Barbados)",
+  "calories_per_100g": 42,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/grapefruit.json"
+}

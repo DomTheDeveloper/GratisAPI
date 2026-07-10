@@ -1,0 +1,9 @@
+{
+  "id": "titicaca",
+  "name": "Lake Titicaca",
+  "area_km2": 8372,
+  "max_depth_m": 281,
+  "continent": "South America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/titicaca.json"
+}

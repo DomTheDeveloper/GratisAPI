@@ -1,0 +1,31 @@
+META = {
+    "name": "tarot-major-arcana",
+    "title": "Tarot Major Arcana",
+    "description": "The twenty-two Major Arcana cards of the tarot with keywords and elemental association.",
+    "emoji": "🔮",
+}
+
+ITEMS = [
+    {"id": "the-fool", "number": 0, "name": "The Fool", "keywords": ["beginnings", "innocence", "spontaneity"], "element": "Air"},
+    {"id": "the-magician", "number": 1, "name": "The Magician", "keywords": ["manifestation", "power", "skill"], "element": "Air"},
+    {"id": "the-high-priestess", "number": 2, "name": "The High Priestess", "keywords": ["intuition", "mystery", "subconscious"], "element": "Water"},
+    {"id": "the-empress", "number": 3, "name": "The Empress", "keywords": ["fertility", "abundance", "nurturing"], "element": "Earth"},
+    {"id": "the-emperor", "number": 4, "name": "The Emperor", "keywords": ["authority", "structure", "control"], "element": "Fire"},
+    {"id": "the-hierophant", "number": 5, "name": "The Hierophant", "keywords": ["tradition", "conformity", "spirituality"], "element": "Earth"},
+    {"id": "the-lovers", "number": 6, "name": "The Lovers", "keywords": ["love", "harmony", "choices"], "element": "Air"},
+    {"id": "the-chariot", "number": 7, "name": "The Chariot", "keywords": ["willpower", "victory", "determination"], "element": "Water"},
+    {"id": "strength", "number": 8, "name": "Strength", "keywords": ["courage", "patience", "compassion"], "element": "Fire"},
+    {"id": "the-hermit", "number": 9, "name": "The Hermit", "keywords": ["introspection", "solitude", "guidance"], "element": "Earth"},
+    {"id": "wheel-of-fortune", "number": 10, "name": "Wheel of Fortune", "keywords": ["destiny", "cycles", "change"], "element": "Fire"},
+    {"id": "justice", "number": 11, "name": "Justice", "keywords": ["fairness", "truth", "cause and effect"], "element": "Air"},
+    {"id": "the-hanged-man", "number": 12, "name": "The Hanged Man", "keywords": ["surrender", "perspective", "sacrifice"], "element": "Water"},
+    {"id": "death", "number": 13, "name": "Death", "keywords": ["endings", "transformation", "transition"], "element": "Water"},
+    {"id": "temperance", "number": 14, "name": "Temperance", "keywords": ["balance", "moderation", "patience"], "element": "Fire"},
+    {"id": "the-devil", "number": 15, "name": "The Devil", "keywords": ["bondage", "materialism", "temptation"], "element": "Earth"},
+    {"id": "the-tower", "number": 16, "name": "The Tower", "keywords": ["upheaval", "sudden change", "revelation"], "element": "Fire"},
+    {"id": "the-star", "number": 17, "name": "The Star", "keywords": ["hope", "inspiration", "serenity"], "element": "Air"},
+    {"id": "the-moon", "number": 18, "name": "The Moon", "keywords": ["illusion", "intuition", "the unconscious"], "element": "Water"},
+    {"id": "the-sun", "number": 19, "name": "The Sun", "keywords": ["joy", "success", "vitality"], "element": "Fire"},
+    {"id": "judgement", "number": 20, "name": "Judgement", "keywords": ["reckoning", "awakening", "renewal"], "element": "Fire"},
+    {"id": "the-world", "number": 21, "name": "The World", "keywords": ["completion", "fulfillment", "wholeness"], "element": "Earth"},
+]

@@ -1,0 +1,9 @@
+{
+  "id": "atlantic",
+  "name": "Atlantic Ocean",
+  "area_km2": 106460000,
+  "avg_depth_m": 3646,
+  "max_depth_m": 8376,
+  "deepest_point": "Milwaukee Deep (Puerto Rico Trench)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/atlantic.json"
+}

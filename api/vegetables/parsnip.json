@@ -1,0 +1,10 @@
+{
+  "id": "parsnip",
+  "name": "Parsnip",
+  "scientific_name": "Pastinaca sativa",
+  "family": "Apiaceae",
+  "type": "Root",
+  "color": "Cream",
+  "calories_per_100g": 75,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/parsnip.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "green-iguana",
+  "common_name": "Green Iguana",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Iguanidae",
+  "genus": "Iguana",
+  "species": "Iguana iguana",
+  "conservation_status": "Least Concern",
+  "habitat": "Tropical forests of Central and South America",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/green-iguana.json"
+}

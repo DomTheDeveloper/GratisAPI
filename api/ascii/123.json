@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "decimal": 123,
+  "hex": "0x7B",
+  "octal": "0o173",
+  "binary": "01111011",
+  "character": "{",
+  "description": "Left Curly Bracket",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/123.json"
+}

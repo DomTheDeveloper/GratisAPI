@@ -1,0 +1,9 @@
+{
+  "id": "bloody-mary",
+  "name": "Bloody Mary",
+  "base_spirit": "Vodka",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/bloody-mary.json"
+}

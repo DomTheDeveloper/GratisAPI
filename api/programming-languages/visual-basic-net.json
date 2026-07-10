@@ -1,0 +1,13 @@
+{
+  "id": "visual-basic-net",
+  "name": "Visual Basic .NET",
+  "year": 2001,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative"
+  ],
+  "typing": "Static",
+  "designed_by": "Microsoft",
+  "extension": ".vb",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/visual-basic-net.json"
+}

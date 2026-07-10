@@ -1,0 +1,13 @@
+{
+  "id": "clojure",
+  "name": "Clojure",
+  "year": 2007,
+  "paradigm": [
+    "Functional",
+    "Concurrent"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Rich Hickey",
+  "extension": ".clj",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/clojure.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c",
+  "name": "C",
+  "year": 1972,
+  "paradigm": [
+    "Imperative",
+    "Procedural"
+  ],
+  "typing": "Static",
+  "designed_by": "Dennis Ritchie",
+  "extension": ".c",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/c.json"
+}

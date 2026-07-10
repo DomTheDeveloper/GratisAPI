@@ -1,0 +1,10 @@
+{
+  "id": "lily",
+  "name": "Lily",
+  "scientific_name": "Lilium",
+  "family": "Liliaceae",
+  "color": "White",
+  "bloom_season": "Summer",
+  "meaning": "Purity",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/lily.json"
+}

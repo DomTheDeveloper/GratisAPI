@@ -1,0 +1,9 @@
+{
+  "id": "turkana",
+  "name": "Lake Turkana",
+  "area_km2": 6405,
+  "max_depth_m": 109,
+  "continent": "Africa",
+  "type": "Salt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/turkana.json"
+}

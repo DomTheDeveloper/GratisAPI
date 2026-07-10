@@ -1,0 +1,18 @@
+{
+  "id": "midnightblue",
+  "name": "Midnight Blue",
+  "hex": "#191970",
+  "rgb": {
+    "r": 25,
+    "g": 25,
+    "b": 112
+  },
+  "rgb_string": "rgb(25, 25, 112)",
+  "hsl": {
+    "h": 240,
+    "s": 64,
+    "l": 27
+  },
+  "hsl_string": "hsl(240, 64%, 27%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/midnightblue.json"
+}

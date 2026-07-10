@@ -1,0 +1,974 @@
+{
+  "api": "ascii",
+  "title": "Printable ASCII Table",
+  "description": "The printable ASCII characters from decimal 32 to 126 with their numeric representations.",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 95,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/ascii/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/ascii/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/ascii/{id}.json"
+  },
+  "fields": [
+    "binary",
+    "character",
+    "decimal",
+    "description",
+    "hex",
+    "id",
+    "octal"
+  ],
+  "results": [
+    {
+      "id": 32,
+      "decimal": 32,
+      "hex": "0x20",
+      "octal": "0o040",
+      "binary": "00100000",
+      "character": " ",
+      "description": "Space",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/32.json"
+    },
+    {
+      "id": 33,
+      "decimal": 33,
+      "hex": "0x21",
+      "octal": "0o041",
+      "binary": "00100001",
+      "character": "!",
+      "description": "Exclamation Mark",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/33.json"
+    },
+    {
+      "id": 34,
+      "decimal": 34,
+      "hex": "0x22",
+      "octal": "0o042",
+      "binary": "00100010",
+      "character": "\"",
+      "description": "Quotation Mark",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/34.json"
+    },
+    {
+      "id": 35,
+      "decimal": 35,
+      "hex": "0x23",
+      "octal": "0o043",
+      "binary": "00100011",
+      "character": "#",
+      "description": "Number Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/35.json"
+    },
+    {
+      "id": 36,
+      "decimal": 36,
+      "hex": "0x24",
+      "octal": "0o044",
+      "binary": "00100100",
+      "character": "$",
+      "description": "Dollar Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/36.json"
+    },
+    {
+      "id": 37,
+      "decimal": 37,
+      "hex": "0x25",
+      "octal": "0o045",
+      "binary": "00100101",
+      "character": "%",
+      "description": "Percent Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/37.json"
+    },
+    {
+      "id": 38,
+      "decimal": 38,
+      "hex": "0x26",
+      "octal": "0o046",
+      "binary": "00100110",
+      "character": "&",
+      "description": "Ampersand",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/38.json"
+    },
+    {
+      "id": 39,
+      "decimal": 39,
+      "hex": "0x27",
+      "octal": "0o047",
+      "binary": "00100111",
+      "character": "'",
+      "description": "Apostrophe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/39.json"
+    },
+    {
+      "id": 40,
+      "decimal": 40,
+      "hex": "0x28",
+      "octal": "0o050",
+      "binary": "00101000",
+      "character": "(",
+      "description": "Left Parenthesis",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/40.json"
+    },
+    {
+      "id": 41,
+      "decimal": 41,
+      "hex": "0x29",
+      "octal": "0o051",
+      "binary": "00101001",
+      "character": ")",
+      "description": "Right Parenthesis",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/41.json"
+    },
+    {
+      "id": 42,
+      "decimal": 42,
+      "hex": "0x2A",
+      "octal": "0o052",
+      "binary": "00101010",
+      "character": "*",
+      "description": "Asterisk",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/42.json"
+    },
+    {
+      "id": 43,
+      "decimal": 43,
+      "hex": "0x2B",
+      "octal": "0o053",
+      "binary": "00101011",
+      "character": "+",
+      "description": "Plus Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/43.json"
+    },
+    {
+      "id": 44,
+      "decimal": 44,
+      "hex": "0x2C",
+      "octal": "0o054",
+      "binary": "00101100",
+      "character": ",",
+      "description": "Comma",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/44.json"
+    },
+    {
+      "id": 45,
+      "decimal": 45,
+      "hex": "0x2D",
+      "octal": "0o055",
+      "binary": "00101101",
+      "character": "-",
+      "description": "Hyphen-Minus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/45.json"
+    },
+    {
+      "id": 46,
+      "decimal": 46,
+      "hex": "0x2E",
+      "octal": "0o056",
+      "binary": "00101110",
+      "character": ".",
+      "description": "Full Stop",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/46.json"
+    },
+    {
+      "id": 47,
+      "decimal": 47,
+      "hex": "0x2F",
+      "octal": "0o057",
+      "binary": "00101111",
+      "character": "/",
+      "description": "Solidus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/47.json"
+    },
+    {
+      "id": 48,
+      "decimal": 48,
+      "hex": "0x30",
+      "octal": "0o060",
+      "binary": "00110000",
+      "character": "0",
+      "description": "Digit Zero",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/48.json"
+    },
+    {
+      "id": 49,
+      "decimal": 49,
+      "hex": "0x31",
+      "octal": "0o061",
+      "binary": "00110001",
+      "character": "1",
+      "description": "Digit One",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/49.json"
+    },
+    {
+      "id": 50,
+      "decimal": 50,
+      "hex": "0x32",
+      "octal": "0o062",
+      "binary": "00110010",
+      "character": "2",
+      "description": "Digit Two",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/50.json"
+    },
+    {
+      "id": 51,
+      "decimal": 51,
+      "hex": "0x33",
+      "octal": "0o063",
+      "binary": "00110011",
+      "character": "3",
+      "description": "Digit Three",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/51.json"
+    },
+    {
+      "id": 52,
+      "decimal": 52,
+      "hex": "0x34",
+      "octal": "0o064",
+      "binary": "00110100",
+      "character": "4",
+      "description": "Digit Four",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/52.json"
+    },
+    {
+      "id": 53,
+      "decimal": 53,
+      "hex": "0x35",
+      "octal": "0o065",
+      "binary": "00110101",
+      "character": "5",
+      "description": "Digit Five",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/53.json"
+    },
+    {
+      "id": 54,
+      "decimal": 54,
+      "hex": "0x36",
+      "octal": "0o066",
+      "binary": "00110110",
+      "character": "6",
+      "description": "Digit Six",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/54.json"
+    },
+    {
+      "id": 55,
+      "decimal": 55,
+      "hex": "0x37",
+      "octal": "0o067",
+      "binary": "00110111",
+      "character": "7",
+      "description": "Digit Seven",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/55.json"
+    },
+    {
+      "id": 56,
+      "decimal": 56,
+      "hex": "0x38",
+      "octal": "0o070",
+      "binary": "00111000",
+      "character": "8",
+      "description": "Digit Eight",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/56.json"
+    },
+    {
+      "id": 57,
+      "decimal": 57,
+      "hex": "0x39",
+      "octal": "0o071",
+      "binary": "00111001",
+      "character": "9",
+      "description": "Digit Nine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/57.json"
+    },
+    {
+      "id": 58,
+      "decimal": 58,
+      "hex": "0x3A",
+      "octal": "0o072",
+      "binary": "00111010",
+      "character": ":",
+      "description": "Colon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/58.json"
+    },
+    {
+      "id": 59,
+      "decimal": 59,
+      "hex": "0x3B",
+      "octal": "0o073",
+      "binary": "00111011",
+      "character": ";",
+      "description": "Semicolon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/59.json"
+    },
+    {
+      "id": 60,
+      "decimal": 60,
+      "hex": "0x3C",
+      "octal": "0o074",
+      "binary": "00111100",
+      "character": "<",
+      "description": "Less-Than Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/60.json"
+    },
+    {
+      "id": 61,
+      "decimal": 61,
+      "hex": "0x3D",
+      "octal": "0o075",
+      "binary": "00111101",
+      "character": "=",
+      "description": "Equals Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/61.json"
+    },
+    {
+      "id": 62,
+      "decimal": 62,
+      "hex": "0x3E",
+      "octal": "0o076",
+      "binary": "00111110",
+      "character": ">",
+      "description": "Greater-Than Sign",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/62.json"
+    },
+    {
+      "id": 63,
+      "decimal": 63,
+      "hex": "0x3F",
+      "octal": "0o077",
+      "binary": "00111111",
+      "character": "?",
+      "description": "Question Mark",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/63.json"
+    },
+    {
+      "id": 64,
+      "decimal": 64,
+      "hex": "0x40",
+      "octal": "0o100",
+      "binary": "01000000",
+      "character": "@",
+      "description": "Commercial At",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/64.json"
+    },
+    {
+      "id": 65,
+      "decimal": 65,
+      "hex": "0x41",
+      "octal": "0o101",
+      "binary": "01000001",
+      "character": "A",
+      "description": "Latin Capital Letter A",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/65.json"
+    },
+    {
+      "id": 66,
+      "decimal": 66,
+      "hex": "0x42",
+      "octal": "0o102",
+      "binary": "01000010",
+      "character": "B",
+      "description": "Latin Capital Letter B",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/66.json"
+    },
+    {
+      "id": 67,
+      "decimal": 67,
+      "hex": "0x43",
+      "octal": "0o103",
+      "binary": "01000011",
+      "character": "C",
+      "description": "Latin Capital Letter C",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/67.json"
+    },
+    {
+      "id": 68,
+      "decimal": 68,
+      "hex": "0x44",
+      "octal": "0o104",
+      "binary": "01000100",
+      "character": "D",
+      "description": "Latin Capital Letter D",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/68.json"
+    },
+    {
+      "id": 69,
+      "decimal": 69,
+      "hex": "0x45",
+      "octal": "0o105",
+      "binary": "01000101",
+      "character": "E",
+      "description": "Latin Capital Letter E",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/69.json"
+    },
+    {
+      "id": 70,
+      "decimal": 70,
+      "hex": "0x46",
+      "octal": "0o106",
+      "binary": "01000110",
+      "character": "F",
+      "description": "Latin Capital Letter F",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/70.json"
+    },
+    {
+      "id": 71,
+      "decimal": 71,
+      "hex": "0x47",
+      "octal": "0o107",
+      "binary": "01000111",
+      "character": "G",
+      "description": "Latin Capital Letter G",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/71.json"
+    },
+    {
+      "id": 72,
+      "decimal": 72,
+      "hex": "0x48",
+      "octal": "0o110",
+      "binary": "01001000",
+      "character": "H",
+      "description": "Latin Capital Letter H",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/72.json"
+    },
+    {
+      "id": 73,
+      "decimal": 73,
+      "hex": "0x49",
+      "octal": "0o111",
+      "binary": "01001001",
+      "character": "I",
+      "description": "Latin Capital Letter I",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/73.json"
+    },
+    {
+      "id": 74,
+      "decimal": 74,
+      "hex": "0x4A",
+      "octal": "0o112",
+      "binary": "01001010",
+      "character": "J",
+      "description": "Latin Capital Letter J",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/74.json"
+    },
+    {
+      "id": 75,
+      "decimal": 75,
+      "hex": "0x4B",
+      "octal": "0o113",
+      "binary": "01001011",
+      "character": "K",
+      "description": "Latin Capital Letter K",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/75.json"
+    },
+    {
+      "id": 76,
+      "decimal": 76,
+      "hex": "0x4C",
+      "octal": "0o114",
+      "binary": "01001100",
+      "character": "L",
+      "description": "Latin Capital Letter L",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/76.json"
+    },
+    {
+      "id": 77,
+      "decimal": 77,
+      "hex": "0x4D",
+      "octal": "0o115",
+      "binary": "01001101",
+      "character": "M",
+      "description": "Latin Capital Letter M",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/77.json"
+    },
+    {
+      "id": 78,
+      "decimal": 78,
+      "hex": "0x4E",
+      "octal": "0o116",
+      "binary": "01001110",
+      "character": "N",
+      "description": "Latin Capital Letter N",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/78.json"
+    },
+    {
+      "id": 79,
+      "decimal": 79,
+      "hex": "0x4F",
+      "octal": "0o117",
+      "binary": "01001111",
+      "character": "O",
+      "description": "Latin Capital Letter O",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/79.json"
+    },
+    {
+      "id": 80,
+      "decimal": 80,
+      "hex": "0x50",
+      "octal": "0o120",
+      "binary": "01010000",
+      "character": "P",
+      "description": "Latin Capital Letter P",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/80.json"
+    },
+    {
+      "id": 81,
+      "decimal": 81,
+      "hex": "0x51",
+      "octal": "0o121",
+      "binary": "01010001",
+      "character": "Q",
+      "description": "Latin Capital Letter Q",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/81.json"
+    },
+    {
+      "id": 82,
+      "decimal": 82,
+      "hex": "0x52",
+      "octal": "0o122",
+      "binary": "01010010",
+      "character": "R",
+      "description": "Latin Capital Letter R",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/82.json"
+    },
+    {
+      "id": 83,
+      "decimal": 83,
+      "hex": "0x53",
+      "octal": "0o123",
+      "binary": "01010011",
+      "character": "S",
+      "description": "Latin Capital Letter S",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/83.json"
+    },
+    {
+      "id": 84,
+      "decimal": 84,
+      "hex": "0x54",
+      "octal": "0o124",
+      "binary": "01010100",
+      "character": "T",
+      "description": "Latin Capital Letter T",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/84.json"
+    },
+    {
+      "id": 85,
+      "decimal": 85,
+      "hex": "0x55",
+      "octal": "0o125",
+      "binary": "01010101",
+      "character": "U",
+      "description": "Latin Capital Letter U",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/85.json"
+    },
+    {
+      "id": 86,
+      "decimal": 86,
+      "hex": "0x56",
+      "octal": "0o126",
+      "binary": "01010110",
+      "character": "V",
+      "description": "Latin Capital Letter V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/86.json"
+    },
+    {
+      "id": 87,
+      "decimal": 87,
+      "hex": "0x57",
+      "octal": "0o127",
+      "binary": "01010111",
+      "character": "W",
+      "description": "Latin Capital Letter W",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/87.json"
+    },
+    {
+      "id": 88,
+      "decimal": 88,
+      "hex": "0x58",
+      "octal": "0o130",
+      "binary": "01011000",
+      "character": "X",
+      "description": "Latin Capital Letter X",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/88.json"
+    },
+    {
+      "id": 89,
+      "decimal": 89,
+      "hex": "0x59",
+      "octal": "0o131",
+      "binary": "01011001",
+      "character": "Y",
+      "description": "Latin Capital Letter Y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/89.json"
+    },
+    {
+      "id": 90,
+      "decimal": 90,
+      "hex": "0x5A",
+      "octal": "0o132",
+      "binary": "01011010",
+      "character": "Z",
+      "description": "Latin Capital Letter Z",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/90.json"
+    },
+    {
+      "id": 91,
+      "decimal": 91,
+      "hex": "0x5B",
+      "octal": "0o133",
+      "binary": "01011011",
+      "character": "[",
+      "description": "Left Square Bracket",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/91.json"
+    },
+    {
+      "id": 92,
+      "decimal": 92,
+      "hex": "0x5C",
+      "octal": "0o134",
+      "binary": "01011100",
+      "character": "\\",
+      "description": "Reverse Solidus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/92.json"
+    },
+    {
+      "id": 93,
+      "decimal": 93,
+      "hex": "0x5D",
+      "octal": "0o135",
+      "binary": "01011101",
+      "character": "]",
+      "description": "Right Square Bracket",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/93.json"
+    },
+    {
+      "id": 94,
+      "decimal": 94,
+      "hex": "0x5E",
+      "octal": "0o136",
+      "binary": "01011110",
+      "character": "^",
+      "description": "Circumflex Accent",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/94.json"
+    },
+    {
+      "id": 95,
+      "decimal": 95,
+      "hex": "0x5F",
+      "octal": "0o137",
+      "binary": "01011111",
+      "character": "_",
+      "description": "Low Line",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/95.json"
+    },
+    {
+      "id": 96,
+      "decimal": 96,
+      "hex": "0x60",
+      "octal": "0o140",
+      "binary": "01100000",
+      "character": "`",
+      "description": "Grave Accent",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/96.json"
+    },
+    {
+      "id": 97,
+      "decimal": 97,
+      "hex": "0x61",
+      "octal": "0o141",
+      "binary": "01100001",
+      "character": "a",
+      "description": "Latin Small Letter A",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/97.json"
+    },
+    {
+      "id": 98,
+      "decimal": 98,
+      "hex": "0x62",
+      "octal": "0o142",
+      "binary": "01100010",
+      "character": "b",
+      "description": "Latin Small Letter B",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/98.json"
+    },
+    {
+      "id": 99,
+      "decimal": 99,
+      "hex": "0x63",
+      "octal": "0o143",
+      "binary": "01100011",
+      "character": "c",
+      "description": "Latin Small Letter C",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/99.json"
+    },
+    {
+      "id": 100,
+      "decimal": 100,
+      "hex": "0x64",
+      "octal": "0o144",
+      "binary": "01100100",
+      "character": "d",
+      "description": "Latin Small Letter D",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/100.json"
+    },
+    {
+      "id": 101,
+      "decimal": 101,
+      "hex": "0x65",
+      "octal": "0o145",
+      "binary": "01100101",
+      "character": "e",
+      "description": "Latin Small Letter E",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/101.json"
+    },
+    {
+      "id": 102,
+      "decimal": 102,
+      "hex": "0x66",
+      "octal": "0o146",
+      "binary": "01100110",
+      "character": "f",
+      "description": "Latin Small Letter F",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/102.json"
+    },
+    {
+      "id": 103,
+      "decimal": 103,
+      "hex": "0x67",
+      "octal": "0o147",
+      "binary": "01100111",
+      "character": "g",
+      "description": "Latin Small Letter G",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/103.json"
+    },
+    {
+      "id": 104,
+      "decimal": 104,
+      "hex": "0x68",
+      "octal": "0o150",
+      "binary": "01101000",
+      "character": "h",
+      "description": "Latin Small Letter H",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/104.json"
+    },
+    {
+      "id": 105,
+      "decimal": 105,
+      "hex": "0x69",
+      "octal": "0o151",
+      "binary": "01101001",
+      "character": "i",
+      "description": "Latin Small Letter I",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/105.json"
+    },
+    {
+      "id": 106,
+      "decimal": 106,
+      "hex": "0x6A",
+      "octal": "0o152",
+      "binary": "01101010",
+      "character": "j",
+      "description": "Latin Small Letter J",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/106.json"
+    },
+    {
+      "id": 107,
+      "decimal": 107,
+      "hex": "0x6B",
+      "octal": "0o153",
+      "binary": "01101011",
+      "character": "k",
+      "description": "Latin Small Letter K",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/107.json"
+    },
+    {
+      "id": 108,
+      "decimal": 108,
+      "hex": "0x6C",
+      "octal": "0o154",
+      "binary": "01101100",
+      "character": "l",
+      "description": "Latin Small Letter L",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/108.json"
+    },
+    {
+      "id": 109,
+      "decimal": 109,
+      "hex": "0x6D",
+      "octal": "0o155",
+      "binary": "01101101",
+      "character": "m",
+      "description": "Latin Small Letter M",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/109.json"
+    },
+    {
+      "id": 110,
+      "decimal": 110,
+      "hex": "0x6E",
+      "octal": "0o156",
+      "binary": "01101110",
+      "character": "n",
+      "description": "Latin Small Letter N",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/110.json"
+    },
+    {
+      "id": 111,
+      "decimal": 111,
+      "hex": "0x6F",
+      "octal": "0o157",
+      "binary": "01101111",
+      "character": "o",
+      "description": "Latin Small Letter O",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/111.json"
+    },
+    {
+      "id": 112,
+      "decimal": 112,
+      "hex": "0x70",
+      "octal": "0o160",
+      "binary": "01110000",
+      "character": "p",
+      "description": "Latin Small Letter P",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/112.json"
+    },
+    {
+      "id": 113,
+      "decimal": 113,
+      "hex": "0x71",
+      "octal": "0o161",
+      "binary": "01110001",
+      "character": "q",
+      "description": "Latin Small Letter Q",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/113.json"
+    },
+    {
+      "id": 114,
+      "decimal": 114,
+      "hex": "0x72",
+      "octal": "0o162",
+      "binary": "01110010",
+      "character": "r",
+      "description": "Latin Small Letter R",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/114.json"
+    },
+    {
+      "id": 115,
+      "decimal": 115,
+      "hex": "0x73",
+      "octal": "0o163",
+      "binary": "01110011",
+      "character": "s",
+      "description": "Latin Small Letter S",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/115.json"
+    },
+    {
+      "id": 116,
+      "decimal": 116,
+      "hex": "0x74",
+      "octal": "0o164",
+      "binary": "01110100",
+      "character": "t",
+      "description": "Latin Small Letter T",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/116.json"
+    },
+    {
+      "id": 117,
+      "decimal": 117,
+      "hex": "0x75",
+      "octal": "0o165",
+      "binary": "01110101",
+      "character": "u",
+      "description": "Latin Small Letter U",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/117.json"
+    },
+    {
+      "id": 118,
+      "decimal": 118,
+      "hex": "0x76",
+      "octal": "0o166",
+      "binary": "01110110",
+      "character": "v",
+      "description": "Latin Small Letter V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/118.json"
+    },
+    {
+      "id": 119,
+      "decimal": 119,
+      "hex": "0x77",
+      "octal": "0o167",
+      "binary": "01110111",
+      "character": "w",
+      "description": "Latin Small Letter W",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/119.json"
+    },
+    {
+      "id": 120,
+      "decimal": 120,
+      "hex": "0x78",
+      "octal": "0o170",
+      "binary": "01111000",
+      "character": "x",
+      "description": "Latin Small Letter X",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/120.json"
+    },
+    {
+      "id": 121,
+      "decimal": 121,
+      "hex": "0x79",
+      "octal": "0o171",
+      "binary": "01111001",
+      "character": "y",
+      "description": "Latin Small Letter Y",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/121.json"
+    },
+    {
+      "id": 122,
+      "decimal": 122,
+      "hex": "0x7A",
+      "octal": "0o172",
+      "binary": "01111010",
+      "character": "z",
+      "description": "Latin Small Letter Z",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/122.json"
+    },
+    {
+      "id": 123,
+      "decimal": 123,
+      "hex": "0x7B",
+      "octal": "0o173",
+      "binary": "01111011",
+      "character": "{",
+      "description": "Left Curly Bracket",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/123.json"
+    },
+    {
+      "id": 124,
+      "decimal": 124,
+      "hex": "0x7C",
+      "octal": "0o174",
+      "binary": "01111100",
+      "character": "|",
+      "description": "Vertical Line",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/124.json"
+    },
+    {
+      "id": 125,
+      "decimal": 125,
+      "hex": "0x7D",
+      "octal": "0o175",
+      "binary": "01111101",
+      "character": "}",
+      "description": "Right Curly Bracket",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/125.json"
+    },
+    {
+      "id": 126,
+      "decimal": 126,
+      "hex": "0x7E",
+      "octal": "0o176",
+      "binary": "01111110",
+      "character": "~",
+      "description": "Tilde",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/126.json"
+    }
+  ]
+}

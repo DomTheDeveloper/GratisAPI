@@ -1,0 +1,10 @@
+{
+  "id": "vinson",
+  "name": "Mount Vinson",
+  "height_m": 4892,
+  "range": "Sentinel Range",
+  "country": "Antarctica",
+  "continent": "Antarctica",
+  "first_ascent_year": 1966,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/vinson.json"
+}

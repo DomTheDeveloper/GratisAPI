@@ -1,0 +1,9 @@
+{
+  "id": "alpha-centauri",
+  "name": "Alpha Centauri A",
+  "constellation": "Centaurus",
+  "apparent_magnitude": -0.27,
+  "distance_ly": 4.37,
+  "spectral_type": "G2V",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/alpha-centauri.json"
+}

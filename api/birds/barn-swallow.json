@@ -1,0 +1,11 @@
+{
+  "id": "barn-swallow",
+  "common_name": "Barn Swallow",
+  "scientific_name": "Hirundo rustica",
+  "family": "Hirundinidae",
+  "habitat": "Open country near water",
+  "diet": "Insectivore",
+  "wingspan_cm": 33,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/barn-swallow.json"
+}

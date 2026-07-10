@@ -1,0 +1,12 @@
+{
+  "id": "iowa",
+  "name": "Iowa",
+  "abbreviation": "IA",
+  "capital": "Des Moines",
+  "largest_city": "Des Moines",
+  "population": 3190369,
+  "area_km2": 145746,
+  "statehood_year": 1846,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/iowa.json"
+}

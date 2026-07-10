@@ -1,0 +1,15 @@
+{
+  "id": "common-ostrich",
+  "common_name": "Common Ostrich",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Struthioniformes",
+  "family": "Struthionidae",
+  "genus": "Struthio",
+  "species": "Struthio camelus",
+  "conservation_status": "Least Concern",
+  "habitat": "Savanna and desert of Africa",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/common-ostrich.json"
+}

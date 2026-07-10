@@ -1,0 +1,10 @@
+{
+  "id": "otf",
+  "mime_type": "font/otf",
+  "name": "OpenType Font",
+  "category": "font",
+  "extensions": [
+    ".otf"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/otf.json"
+}

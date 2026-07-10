@@ -1,0 +1,10 @@
+{
+  "id": "sugar-maple",
+  "common_name": "Sugar Maple",
+  "scientific_name": "Acer saccharum",
+  "family": "Sapindaceae",
+  "type": "Deciduous",
+  "max_height_m": 35,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/sugar-maple.json"
+}

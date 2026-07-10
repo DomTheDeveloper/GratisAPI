@@ -1,0 +1,8 @@
+{
+  "id": "hecto",
+  "name": "hecto",
+  "symbol": "h",
+  "base_10": 2,
+  "factor": "1e2",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/hecto.json"
+}

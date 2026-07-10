@@ -1,0 +1,9 @@
+{
+  "id": "hu",
+  "code": "hu",
+  "name": "Hungarian",
+  "native_name": "Magyar",
+  "direction": "ltr",
+  "speakers_millions": 13,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/hu.json"
+}

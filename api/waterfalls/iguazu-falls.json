@@ -1,0 +1,9 @@
+{
+  "id": "iguazu-falls",
+  "name": "Iguazu Falls",
+  "height_m": 82,
+  "river": "Iguazu River",
+  "country": "Argentina / Brazil",
+  "continent": "South America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/iguazu-falls.json"
+}

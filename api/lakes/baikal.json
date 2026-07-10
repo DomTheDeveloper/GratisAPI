@@ -1,0 +1,9 @@
+{
+  "id": "baikal",
+  "name": "Lake Baikal",
+  "area_km2": 31500,
+  "max_depth_m": 1642,
+  "continent": "Asia",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/baikal.json"
+}

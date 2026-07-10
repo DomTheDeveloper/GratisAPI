@@ -1,0 +1,10 @@
+{
+  "id": "rtf",
+  "mime_type": "application/rtf",
+  "name": "Rich Text Format",
+  "category": "application",
+  "extensions": [
+    ".rtf"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/rtf.json"
+}

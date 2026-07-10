@@ -1,0 +1,10 @@
+{
+  "id": "post",
+  "method": "POST",
+  "description": "Submits an entity to the specified resource, often causing a change in state.",
+  "safe": false,
+  "idempotent": false,
+  "cacheable": false,
+  "has_request_body": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/post.json"
+}

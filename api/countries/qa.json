@@ -1,0 +1,13 @@
+{
+  "id": "qa",
+  "name": "Qatar",
+  "alpha2": "QA",
+  "alpha3": "QAT",
+  "capital": "Doha",
+  "continent": "Asia",
+  "currency_code": "QAR",
+  "currency": "Qatari Riyal",
+  "population_millions": 3,
+  "flag_emoji": "🇶🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/qa.json"
+}

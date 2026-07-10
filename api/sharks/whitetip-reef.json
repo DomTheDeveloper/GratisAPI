@@ -1,0 +1,12 @@
+{
+  "id": "whitetip-reef",
+  "common_name": "Whitetip Reef Shark",
+  "scientific_name": "Triaenodon obesus",
+  "family": "Carcharhinidae",
+  "max_length_m": 1.6,
+  "habitat": "Tropical coral reefs",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/whitetip-reef.json"
+}

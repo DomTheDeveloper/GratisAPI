@@ -1,0 +1,8 @@
+{
+  "id": 412,
+  "code": 412,
+  "message": "Precondition Failed",
+  "category": "Client Error",
+  "description": "A precondition given in the request headers was not met by the server.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/412.json"
+}

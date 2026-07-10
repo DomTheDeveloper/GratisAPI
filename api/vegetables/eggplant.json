@@ -1,0 +1,10 @@
+{
+  "id": "eggplant",
+  "name": "Eggplant",
+  "scientific_name": "Solanum melongena",
+  "family": "Solanaceae",
+  "type": "Fruit",
+  "color": "Purple",
+  "calories_per_100g": 25,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/eggplant.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lavenderblush",
+  "name": "Lavender Blush",
+  "hex": "#FFF0F5",
+  "rgb": {
+    "r": 255,
+    "g": 240,
+    "b": 245
+  },
+  "rgb_string": "rgb(255, 240, 245)",
+  "hsl": {
+    "h": 340,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(340, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lavenderblush.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 69,
+  "port": 69,
+  "service": "tftp",
+  "protocol": "UDP",
+  "description": "Trivial File Transfer Protocol.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/69.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ir",
+  "name": "Iran",
+  "alpha2": "IR",
+  "alpha3": "IRN",
+  "capital": "Tehran",
+  "continent": "Asia",
+  "currency_code": "IRR",
+  "currency": "Iranian Rial",
+  "population_millions": 88,
+  "flag_emoji": "🇮🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ir.json"
+}

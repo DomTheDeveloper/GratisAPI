@@ -1,0 +1,10 @@
+{
+  "id": "red-maple",
+  "common_name": "Red Maple",
+  "scientific_name": "Acer rubrum",
+  "family": "Sapindaceae",
+  "type": "Deciduous",
+  "max_height_m": 30,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/red-maple.json"
+}

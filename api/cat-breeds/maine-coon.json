@@ -1,0 +1,9 @@
+{
+  "id": "maine-coon",
+  "name": "Maine Coon",
+  "origin": "United States",
+  "coat": "Long",
+  "temperament": "Gentle, friendly and playful",
+  "life_expectancy_years": "12-15",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cat-breeds/maine-coon.json"
+}

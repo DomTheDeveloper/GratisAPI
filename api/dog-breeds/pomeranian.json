@@ -1,0 +1,10 @@
+{
+  "id": "pomeranian",
+  "name": "Pomeranian",
+  "group": "Toy",
+  "origin": "Germany",
+  "size": "Small",
+  "life_expectancy_years": "12-16",
+  "temperament": "Inquisitive, bold and lively",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/pomeranian.json"
+}

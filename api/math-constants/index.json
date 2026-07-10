@@ -1,0 +1,182 @@
+{
+  "api": "math-constants",
+  "title": "Math Constants",
+  "description": "Notable mathematical constants with symbols, values and descriptions.",
+  "emoji": "➗",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "name",
+    "symbol",
+    "value"
+  ],
+  "results": [
+    {
+      "id": "pi",
+      "name": "Pi",
+      "symbol": "pi",
+      "value": 3.141592653589793,
+      "description": "Ratio of a circle's circumference to its diameter.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/pi.json"
+    },
+    {
+      "id": "e",
+      "name": "Euler's number",
+      "symbol": "e",
+      "value": 2.718281828459045,
+      "description": "Base of the natural logarithm.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/e.json"
+    },
+    {
+      "id": "golden-ratio",
+      "name": "Golden ratio",
+      "symbol": "phi",
+      "value": 1.618033988749895,
+      "description": "Ratio where (a+b)/a equals a/b.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/golden-ratio.json"
+    },
+    {
+      "id": "square-root-2",
+      "name": "Square root of 2",
+      "symbol": "sqrt(2)",
+      "value": 1.4142135623730951,
+      "description": "Pythagoras' constant, diagonal of a unit square.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/square-root-2.json"
+    },
+    {
+      "id": "square-root-3",
+      "name": "Square root of 3",
+      "symbol": "sqrt(3)",
+      "value": 1.7320508075688772,
+      "description": "Theodorus' constant.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/square-root-3.json"
+    },
+    {
+      "id": "square-root-5",
+      "name": "Square root of 5",
+      "symbol": "sqrt(5)",
+      "value": 2.23606797749979,
+      "description": "Appears in the golden ratio formula.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/square-root-5.json"
+    },
+    {
+      "id": "euler-mascheroni",
+      "name": "Euler-Mascheroni constant",
+      "symbol": "gamma",
+      "value": 0.5772156649015329,
+      "description": "Limit of harmonic series minus natural logarithm.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/euler-mascheroni.json"
+    },
+    {
+      "id": "natural-log-2",
+      "name": "Natural logarithm of 2",
+      "symbol": "ln(2)",
+      "value": 0.6931471805599453,
+      "description": "Natural logarithm of two.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/natural-log-2.json"
+    },
+    {
+      "id": "natural-log-10",
+      "name": "Natural logarithm of 10",
+      "symbol": "ln(10)",
+      "value": 2.302585092994046,
+      "description": "Natural logarithm of ten.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/natural-log-10.json"
+    },
+    {
+      "id": "apery-constant",
+      "name": "Apery's constant",
+      "symbol": "zeta(3)",
+      "value": 1.2020569031595942,
+      "description": "Value of the Riemann zeta function at 3.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/apery-constant.json"
+    },
+    {
+      "id": "catalan-constant",
+      "name": "Catalan's constant",
+      "symbol": "G",
+      "value": 0.915965594177219,
+      "description": "Sum of alternating reciprocals of odd squares.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/catalan-constant.json"
+    },
+    {
+      "id": "feigenbaum-delta",
+      "name": "Feigenbaum constant delta",
+      "symbol": "delta",
+      "value": 4.66920160910299,
+      "description": "Ratio of bifurcation intervals in chaotic maps.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/feigenbaum-delta.json"
+    },
+    {
+      "id": "feigenbaum-alpha",
+      "name": "Feigenbaum constant alpha",
+      "symbol": "alpha",
+      "value": 2.502907875095892,
+      "description": "Reduction scaling in period-doubling bifurcations.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/feigenbaum-alpha.json"
+    },
+    {
+      "id": "twin-prime-constant",
+      "name": "Twin prime constant",
+      "symbol": "C_2",
+      "value": 0.6601618158468696,
+      "description": "Density constant for twin primes.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/twin-prime-constant.json"
+    },
+    {
+      "id": "khinchin-constant",
+      "name": "Khinchin's constant",
+      "symbol": "K_0",
+      "value": 2.685452001065306,
+      "description": "Geometric mean of continued fraction terms.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/khinchin-constant.json"
+    },
+    {
+      "id": "plastic-number",
+      "name": "Plastic number",
+      "symbol": "rho",
+      "value": 1.324717957244746,
+      "description": "Real root of x^3 = x + 1.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/plastic-number.json"
+    },
+    {
+      "id": "silver-ratio",
+      "name": "Silver ratio",
+      "symbol": "delta_S",
+      "value": 2.414213562373095,
+      "description": "1 + square root of 2.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/silver-ratio.json"
+    },
+    {
+      "id": "golden-angle",
+      "name": "Golden angle",
+      "symbol": "g",
+      "value": 2.399963229728653,
+      "description": "The golden ratio angle in radians.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/golden-angle.json"
+    },
+    {
+      "id": "tau",
+      "name": "Tau",
+      "symbol": "tau",
+      "value": 6.283185307179586,
+      "description": "Ratio of a circle's circumference to its radius, 2*pi.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/tau.json"
+    },
+    {
+      "id": "glaisher-kinkelin",
+      "name": "Glaisher-Kinkelin constant",
+      "symbol": "A",
+      "value": 1.2824271291006226,
+      "description": "Appears in asymptotics of the hyperfactorial.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/glaisher-kinkelin.json"
+    }
+  ]
+}

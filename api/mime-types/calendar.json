@@ -1,0 +1,10 @@
+{
+  "id": "calendar",
+  "mime_type": "text/calendar",
+  "name": "iCalendar",
+  "category": "text",
+  "extensions": [
+    ".ics"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/calendar.json"
+}

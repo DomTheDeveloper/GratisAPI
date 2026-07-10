@@ -1,0 +1,9 @@
+{
+  "id": "wien-displacement-constant",
+  "name": "Wien wavelength displacement law constant",
+  "symbol": "b",
+  "value": 0.002897771955,
+  "unit": "m K",
+  "category": "Thermodynamic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/wien-displacement-constant.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "black-garden-ant",
+  "common_name": "Black Garden Ant",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Insecta",
+  "order": "Hymenoptera",
+  "family": "Formicidae",
+  "genus": "Lasius",
+  "species": "Lasius niger",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Gardens and soil across Europe",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/black-garden-ant.json"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "scalloped-hammerhead",
+  "common_name": "Scalloped Hammerhead Shark",
+  "scientific_name": "Sphyrna lewini",
+  "family": "Sphyrnidae",
+  "max_length_m": 4.3,
+  "habitat": "Warm coastal and continental shelf waters",
+  "diet": "Carnivore",
+  "conservation_status": "Critically Endangered",
+  "danger_to_humans": "Moderate",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/scalloped-hammerhead.json"
+}

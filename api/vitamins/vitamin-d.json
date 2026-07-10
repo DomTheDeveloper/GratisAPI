@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-d",
+  "name": "Vitamin D",
+  "chemical_name": "Calciferol",
+  "solubility": "Fat",
+  "function": "Calcium absorption and bone health",
+  "deficiency_disease": "Rickets",
+  "food_sources": [
+    "Sunlight",
+    "Fatty fish",
+    "Fortified milk"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-d.json"
+}

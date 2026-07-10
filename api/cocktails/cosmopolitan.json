@@ -1,0 +1,9 @@
+{
+  "id": "cosmopolitan",
+  "name": "Cosmopolitan",
+  "base_spirit": "Vodka",
+  "type": "Sour",
+  "glass": "Coupe",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/cosmopolitan.json"
+}

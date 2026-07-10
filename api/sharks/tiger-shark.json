@@ -1,0 +1,12 @@
+{
+  "id": "tiger-shark",
+  "common_name": "Tiger Shark",
+  "scientific_name": "Galeocerdo cuvier",
+  "family": "Galeocerdonidae",
+  "max_length_m": 5.5,
+  "habitat": "Tropical and warm coastal waters",
+  "diet": "Carnivore",
+  "conservation_status": "Near Threatened",
+  "danger_to_humans": "High",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/tiger-shark.json"
+}

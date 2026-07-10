@@ -1,0 +1,10 @@
+{
+  "id": "airedale-terrier",
+  "name": "Airedale Terrier",
+  "group": "Terrier",
+  "origin": "United Kingdom",
+  "size": "Large",
+  "life_expectancy_years": "11-14",
+  "temperament": "Friendly, clever and courageous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/airedale-terrier.json"
+}

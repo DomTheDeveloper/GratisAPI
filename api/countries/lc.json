@@ -1,0 +1,13 @@
+{
+  "id": "lc",
+  "name": "Saint Lucia",
+  "alpha2": "LC",
+  "alpha3": "LCA",
+  "capital": "Castries",
+  "continent": "North America",
+  "currency_code": "XCD",
+  "currency": "East Caribbean Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇱🇨",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/lc.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "velociraptor",
+  "name": "Velociraptor",
+  "period": "Late Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 2.0,
+  "weight_kg": 15,
+  "region": "Mongolia and China",
+  "meaning": "Swift thief",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/velociraptor.json"
+}

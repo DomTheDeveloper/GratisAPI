@@ -1,0 +1,8 @@
+{
+  "id": "natural-log-2",
+  "name": "Natural logarithm of 2",
+  "symbol": "ln(2)",
+  "value": 0.6931471805599453,
+  "description": "Natural logarithm of two.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/natural-log-2.json"
+}

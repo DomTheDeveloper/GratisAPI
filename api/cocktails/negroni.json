@@ -1,0 +1,9 @@
+{
+  "id": "negroni",
+  "name": "Negroni",
+  "base_spirit": "Gin",
+  "type": "Spirit-forward",
+  "glass": "Rocks",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/negroni.json"
+}

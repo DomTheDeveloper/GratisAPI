@@ -1,0 +1,10 @@
+{
+  "id": "mount-rainier",
+  "name": "Mount Rainier",
+  "height_m": 4392,
+  "range": "Cascade Range",
+  "country": "United States",
+  "continent": "North America",
+  "first_ascent_year": 1870,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-rainier.json"
+}

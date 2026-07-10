@@ -1,0 +1,10 @@
+{
+  "id": 100,
+  "decimal": 100,
+  "hex": "0x64",
+  "octal": "0o144",
+  "binary": "01100100",
+  "character": "d",
+  "description": "Latin Small Letter D",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/100.json"
+}

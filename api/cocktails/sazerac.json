@@ -1,0 +1,9 @@
+{
+  "id": "sazerac",
+  "name": "Sazerac",
+  "base_spirit": "Whiskey",
+  "type": "Old Fashioned family",
+  "glass": "Rocks",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/sazerac.json"
+}

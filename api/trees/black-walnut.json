@@ -1,0 +1,10 @@
+{
+  "id": "black-walnut",
+  "common_name": "Black Walnut",
+  "scientific_name": "Juglans nigra",
+  "family": "Juglandaceae",
+  "type": "Deciduous",
+  "max_height_m": 40,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/black-walnut.json"
+}

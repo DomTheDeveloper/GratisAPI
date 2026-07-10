@@ -1,0 +1,11 @@
+{
+  "id": "ankylosaurus",
+  "name": "Ankylosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 8.0,
+  "weight_kg": 6000,
+  "region": "Western North America",
+  "meaning": "Fused lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/ankylosaurus.json"
+}

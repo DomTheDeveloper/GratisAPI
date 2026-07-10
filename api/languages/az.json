@@ -1,0 +1,9 @@
+{
+  "id": "az",
+  "code": "az",
+  "name": "Azerbaijani",
+  "native_name": "Azərbaycanca",
+  "direction": "ltr",
+  "speakers_millions": 24,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/az.json"
+}

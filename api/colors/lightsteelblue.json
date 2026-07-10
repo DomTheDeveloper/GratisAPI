@@ -1,0 +1,18 @@
+{
+  "id": "lightsteelblue",
+  "name": "Light Steel Blue",
+  "hex": "#B0C4DE",
+  "rgb": {
+    "r": 176,
+    "g": 196,
+    "b": 222
+  },
+  "rgb_string": "rgb(176, 196, 222)",
+  "hsl": {
+    "h": 214,
+    "s": 41,
+    "l": 78
+  },
+  "hsl_string": "hsl(214, 41%, 78%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightsteelblue.json"
+}

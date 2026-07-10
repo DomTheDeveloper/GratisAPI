@@ -17,10 +17,32 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 API_DIR = os.path.join(ROOT, "api")
 BASE_URL = "https://domthedeveloper.github.io/GratisAPI"
 
-# Order in which datasets appear in listings.
+# Order in which datasets appear in listings (by module name). Any module not
+# listed here is appended automatically, so new datasets show up without edits.
 DATASET_ORDER = [
-    "animals", "quotes", "colors", "countries", "continents", "planets",
-    "elements", "http_status", "currencies", "languages", "zodiac", "calendar",
+    # World & geography
+    "countries", "us_states", "continents", "oceans", "mountains", "rivers",
+    "lakes", "deserts", "waterfalls", "currencies", "languages",
+    # Life & nature
+    "animals", "dinosaurs", "dog_breeds", "cat_breeds", "birds", "sharks",
+    "trees", "flowers", "fruits", "vegetables", "spices",
+    # Science
+    "elements", "physical_constants", "math_constants", "si_prefixes",
+    "vitamins", "blood_types", "beaufort_scale",
+    # Space
+    "planets", "moons", "constellations", "stars", "zodiac",
+    # Computing & web
+    "http_status", "http_methods", "mime_types", "tcp_ports",
+    "programming_languages", "ascii",
+    # Language & symbols
+    "greek_alphabet", "nato_alphabet", "morse_code", "roman_numerals",
+    # Culture, myth & history
+    "quotes", "us_presidents", "greek_gods", "norse_gods", "egyptian_gods",
+    "seven_wonders", "chinese_zodiac", "birthstones", "tarot_major_arcana",
+    "gemstones",
+    # Arts, food & games
+    "colors", "musical_instruments", "cocktails", "chess_pieces",
+    "playing_cards", "calendar",
 ]
 
 
@@ -33,6 +55,14 @@ def load_datasets():
             found[mod.name] = module
     ordered = [found[n] for n in DATASET_ORDER if n in found]
     ordered += [m for n, m in found.items() if n not in DATASET_ORDER]
+    # Normalise every API slug to lowercase-hyphen for consistent URLs.
+    seen = {}
+    for module in ordered:
+        slug = module.META["name"].strip().lower().replace("_", "-")
+        if slug in seen:
+            raise ValueError(f"Duplicate API slug '{slug}' from {module.__name__} and {seen[slug]}")
+        seen[slug] = module.__name__
+        module.META["name"] = slug
     return ordered
 
 

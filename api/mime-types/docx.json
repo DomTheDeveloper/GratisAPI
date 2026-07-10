@@ -1,0 +1,10 @@
+{
+  "id": "docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "name": "Microsoft Word",
+  "category": "application",
+  "extensions": [
+    ".docx"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/docx.json"
+}

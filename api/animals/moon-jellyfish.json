@@ -1,0 +1,15 @@
+{
+  "id": "moon-jellyfish",
+  "common_name": "Moon Jellyfish",
+  "kingdom": "Animalia",
+  "phylum": "Cnidaria",
+  "class": "Scyphozoa",
+  "order": "Semaeostomeae",
+  "family": "Ulmaridae",
+  "genus": "Aurelia",
+  "species": "Aurelia aurita",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Coastal waters worldwide",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/moon-jellyfish.json"
+}

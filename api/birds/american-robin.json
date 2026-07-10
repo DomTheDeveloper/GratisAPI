@@ -1,0 +1,11 @@
+{
+  "id": "american-robin",
+  "common_name": "American Robin",
+  "scientific_name": "Turdus migratorius",
+  "family": "Turdidae",
+  "habitat": "Woodlands and gardens",
+  "diet": "Omnivore",
+  "wingspan_cm": 34,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/american-robin.json"
+}

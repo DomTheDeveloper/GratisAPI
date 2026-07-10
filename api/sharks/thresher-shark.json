@@ -1,0 +1,12 @@
+{
+  "id": "thresher-shark",
+  "common_name": "Common Thresher Shark",
+  "scientific_name": "Alopias vulpinus",
+  "family": "Alopiidae",
+  "max_length_m": 6.0,
+  "habitat": "Temperate and tropical open waters",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/thresher-shark.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mediumblue",
+  "name": "Medium Blue",
+  "hex": "#0000CD",
+  "rgb": {
+    "r": 0,
+    "g": 0,
+    "b": 205
+  },
+  "rgb_string": "rgb(0, 0, 205)",
+  "hsl": {
+    "h": 240,
+    "s": 100,
+    "l": 40
+  },
+  "hsl_string": "hsl(240, 100%, 40%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumblue.json"
+}

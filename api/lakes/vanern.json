@@ -1,0 +1,9 @@
+{
+  "id": "vanern",
+  "name": "Lake Vanern",
+  "area_km2": 5650,
+  "max_depth_m": 106,
+  "continent": "Europe",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/vanern.json"
+}

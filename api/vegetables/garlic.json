@@ -1,0 +1,10 @@
+{
+  "id": "garlic",
+  "name": "Garlic",
+  "scientific_name": "Allium sativum",
+  "family": "Amaryllidaceae",
+  "type": "Bulb",
+  "color": "White",
+  "calories_per_100g": 149,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/garlic.json"
+}

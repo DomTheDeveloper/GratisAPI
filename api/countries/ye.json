@@ -1,0 +1,13 @@
+{
+  "id": "ye",
+  "name": "Yemen",
+  "alpha2": "YE",
+  "alpha3": "YEM",
+  "capital": "Sanaa",
+  "continent": "Asia",
+  "currency_code": "YER",
+  "currency": "Yemeni Rial",
+  "population_millions": 33,
+  "flag_emoji": "🇾🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ye.json"
+}

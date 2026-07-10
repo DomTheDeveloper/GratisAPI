@@ -1,0 +1,15 @@
+{
+  "id": "whale-shark",
+  "common_name": "Whale Shark",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Chondrichthyes",
+  "order": "Orectolobiformes",
+  "family": "Rhincodontidae",
+  "genus": "Rhincodon",
+  "species": "Rhincodon typus",
+  "conservation_status": "Endangered",
+  "habitat": "Warm open oceans worldwide",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/whale-shark.json"
+}

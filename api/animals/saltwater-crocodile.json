@@ -1,0 +1,15 @@
+{
+  "id": "saltwater-crocodile",
+  "common_name": "Saltwater Crocodile",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Reptilia",
+  "order": "Crocodilia",
+  "family": "Crocodylidae",
+  "genus": "Crocodylus",
+  "species": "Crocodylus porosus",
+  "conservation_status": "Least Concern",
+  "habitat": "Coastal and estuarine waters of Asia-Pacific",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/saltwater-crocodile.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tj",
+  "name": "Tajikistan",
+  "alpha2": "TJ",
+  "alpha3": "TJK",
+  "capital": "Dushanbe",
+  "continent": "Asia",
+  "currency_code": "TJS",
+  "currency": "Somoni",
+  "population_millions": 10,
+  "flag_emoji": "🇹🇯",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tj.json"
+}

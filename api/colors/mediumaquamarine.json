@@ -1,0 +1,18 @@
+{
+  "id": "mediumaquamarine",
+  "name": "Medium Aquamarine",
+  "hex": "#66CDAA",
+  "rgb": {
+    "r": 102,
+    "g": 205,
+    "b": 170
+  },
+  "rgb_string": "rgb(102, 205, 170)",
+  "hsl": {
+    "h": 160,
+    "s": 51,
+    "l": 60
+  },
+  "hsl_string": "hsl(160, 51%, 60%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumaquamarine.json"
+}

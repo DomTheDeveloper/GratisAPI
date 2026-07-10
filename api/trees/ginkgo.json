@@ -1,0 +1,10 @@
+{
+  "id": "ginkgo",
+  "common_name": "Ginkgo",
+  "scientific_name": "Ginkgo biloba",
+  "family": "Ginkgoaceae",
+  "type": "Deciduous",
+  "max_height_m": 35,
+  "native_region": "China",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/ginkgo.json"
+}

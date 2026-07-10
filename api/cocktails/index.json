@@ -1,0 +1,392 @@
+{
+  "api": "cocktails",
+  "title": "Classic Cocktails",
+  "description": "Classic cocktails with their base spirit, family, serving glass, and IBA official status.",
+  "emoji": "🍸",
+  "license": "GPL-2.0-or-later",
+  "count": 41,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/{id}.json"
+  },
+  "fields": [
+    "base_spirit",
+    "glass",
+    "id",
+    "is_iba",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "martini",
+      "name": "Dry Martini",
+      "base_spirit": "Gin",
+      "type": "Spirit-forward",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/martini.json"
+    },
+    {
+      "id": "manhattan",
+      "name": "Manhattan",
+      "base_spirit": "Whiskey",
+      "type": "Spirit-forward",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/manhattan.json"
+    },
+    {
+      "id": "old-fashioned",
+      "name": "Old Fashioned",
+      "base_spirit": "Whiskey",
+      "type": "Old Fashioned family",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/old-fashioned.json"
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "base_spirit": "Gin",
+      "type": "Spirit-forward",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/negroni.json"
+    },
+    {
+      "id": "margarita",
+      "name": "Margarita",
+      "base_spirit": "Tequila",
+      "type": "Sour",
+      "glass": "Margarita",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/margarita.json"
+    },
+    {
+      "id": "daiquiri",
+      "name": "Daiquiri",
+      "base_spirit": "Rum",
+      "type": "Sour",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/daiquiri.json"
+    },
+    {
+      "id": "mojito",
+      "name": "Mojito",
+      "base_spirit": "Rum",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mojito.json"
+    },
+    {
+      "id": "cosmopolitan",
+      "name": "Cosmopolitan",
+      "base_spirit": "Vodka",
+      "type": "Sour",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/cosmopolitan.json"
+    },
+    {
+      "id": "whiskey-sour",
+      "name": "Whiskey Sour",
+      "base_spirit": "Whiskey",
+      "type": "Sour",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/whiskey-sour.json"
+    },
+    {
+      "id": "mai-tai",
+      "name": "Mai Tai",
+      "base_spirit": "Rum",
+      "type": "Tiki",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mai-tai.json"
+    },
+    {
+      "id": "pina-colada",
+      "name": "Pina Colada",
+      "base_spirit": "Rum",
+      "type": "Tiki",
+      "glass": "Hurricane",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/pina-colada.json"
+    },
+    {
+      "id": "moscow-mule",
+      "name": "Moscow Mule",
+      "base_spirit": "Vodka",
+      "type": "Highball",
+      "glass": "Copper Mug",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/moscow-mule.json"
+    },
+    {
+      "id": "bloody-mary",
+      "name": "Bloody Mary",
+      "base_spirit": "Vodka",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/bloody-mary.json"
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "base_spirit": "Gin",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/gin-and-tonic.json"
+    },
+    {
+      "id": "tom-collins",
+      "name": "Tom Collins",
+      "base_spirit": "Gin",
+      "type": "Highball",
+      "glass": "Collins",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/tom-collins.json"
+    },
+    {
+      "id": "aviation",
+      "name": "Aviation",
+      "base_spirit": "Gin",
+      "type": "Sour",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/aviation.json"
+    },
+    {
+      "id": "sidecar",
+      "name": "Sidecar",
+      "base_spirit": "Brandy",
+      "type": "Sour",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/sidecar.json"
+    },
+    {
+      "id": "sazerac",
+      "name": "Sazerac",
+      "base_spirit": "Whiskey",
+      "type": "Old Fashioned family",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/sazerac.json"
+    },
+    {
+      "id": "mint-julep",
+      "name": "Mint Julep",
+      "base_spirit": "Whiskey",
+      "type": "Julep",
+      "glass": "Julep Cup",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mint-julep.json"
+    },
+    {
+      "id": "caipirinha",
+      "name": "Caipirinha",
+      "base_spirit": "Rum",
+      "type": "Sour",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/caipirinha.json"
+    },
+    {
+      "id": "cuba-libre",
+      "name": "Cuba Libre",
+      "base_spirit": "Rum",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/cuba-libre.json"
+    },
+    {
+      "id": "dark-and-stormy",
+      "name": "Dark and Stormy",
+      "base_spirit": "Rum",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/dark-and-stormy.json"
+    },
+    {
+      "id": "espresso-martini",
+      "name": "Espresso Martini",
+      "base_spirit": "Vodka",
+      "type": "Dessert",
+      "glass": "Coupe",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/espresso-martini.json"
+    },
+    {
+      "id": "french-75",
+      "name": "French 75",
+      "base_spirit": "Gin",
+      "type": "Sparkling",
+      "glass": "Flute",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/french-75.json"
+    },
+    {
+      "id": "mimosa",
+      "name": "Mimosa",
+      "base_spirit": null,
+      "type": "Sparkling",
+      "glass": "Flute",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mimosa.json"
+    },
+    {
+      "id": "bellini",
+      "name": "Bellini",
+      "base_spirit": null,
+      "type": "Sparkling",
+      "glass": "Flute",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/bellini.json"
+    },
+    {
+      "id": "aperol-spritz",
+      "name": "Aperol Spritz",
+      "base_spirit": null,
+      "type": "Sparkling",
+      "glass": "Wine",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/aperol-spritz.json"
+    },
+    {
+      "id": "americano",
+      "name": "Americano",
+      "base_spirit": null,
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/americano.json"
+    },
+    {
+      "id": "boulevardier",
+      "name": "Boulevardier",
+      "base_spirit": "Whiskey",
+      "type": "Spirit-forward",
+      "glass": "Rocks",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/boulevardier.json"
+    },
+    {
+      "id": "vesper",
+      "name": "Vesper",
+      "base_spirit": "Gin",
+      "type": "Spirit-forward",
+      "glass": "Coupe",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/vesper.json"
+    },
+    {
+      "id": "gimlet",
+      "name": "Gimlet",
+      "base_spirit": "Gin",
+      "type": "Sour",
+      "glass": "Coupe",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/gimlet.json"
+    },
+    {
+      "id": "paloma",
+      "name": "Paloma",
+      "base_spirit": "Tequila",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/paloma.json"
+    },
+    {
+      "id": "tequila-sunrise",
+      "name": "Tequila Sunrise",
+      "base_spirit": "Tequila",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/tequila-sunrise.json"
+    },
+    {
+      "id": "long-island-iced-tea",
+      "name": "Long Island Iced Tea",
+      "base_spirit": "Vodka",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/long-island-iced-tea.json"
+    },
+    {
+      "id": "screwdriver",
+      "name": "Screwdriver",
+      "base_spirit": "Vodka",
+      "type": "Highball",
+      "glass": "Highball",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/screwdriver.json"
+    },
+    {
+      "id": "white-russian",
+      "name": "White Russian",
+      "base_spirit": "Vodka",
+      "type": "Dessert",
+      "glass": "Rocks",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/white-russian.json"
+    },
+    {
+      "id": "mudslide",
+      "name": "Mudslide",
+      "base_spirit": "Vodka",
+      "type": "Dessert",
+      "glass": "Hurricane",
+      "is_iba": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mudslide.json"
+    },
+    {
+      "id": "planters-punch",
+      "name": "Planter's Punch",
+      "base_spirit": "Rum",
+      "type": "Punch",
+      "glass": "Highball",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/planters-punch.json"
+    },
+    {
+      "id": "singapore-sling",
+      "name": "Singapore Sling",
+      "base_spirit": "Gin",
+      "type": "Sling",
+      "glass": "Hurricane",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/singapore-sling.json"
+    },
+    {
+      "id": "clover-club",
+      "name": "Clover Club",
+      "base_spirit": "Gin",
+      "type": "Sour",
+      "glass": "Coupe",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/clover-club.json"
+    },
+    {
+      "id": "bramble",
+      "name": "Bramble",
+      "base_spirit": "Gin",
+      "type": "Sour",
+      "glass": "Rocks",
+      "is_iba": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/bramble.json"
+    }
+  ]
+}

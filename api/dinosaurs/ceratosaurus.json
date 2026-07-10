@@ -1,0 +1,11 @@
+{
+  "id": "ceratosaurus",
+  "name": "Ceratosaurus",
+  "period": "Late Jurassic",
+  "diet": "Carnivore",
+  "length_m": 6.0,
+  "weight_kg": 700,
+  "region": "Western North America",
+  "meaning": "Horned lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/ceratosaurus.json"
+}

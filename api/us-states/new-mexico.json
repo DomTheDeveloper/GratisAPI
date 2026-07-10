@@ -1,0 +1,12 @@
+{
+  "id": "new-mexico",
+  "name": "New Mexico",
+  "abbreviation": "NM",
+  "capital": "Santa Fe",
+  "largest_city": "Albuquerque",
+  "population": 2117522,
+  "area_km2": 314917,
+  "statehood_year": 1912,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/new-mexico.json"
+}

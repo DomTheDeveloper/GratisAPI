@@ -1,0 +1,10 @@
+{
+  "id": "german-shepherd",
+  "name": "German Shepherd",
+  "group": "Herding",
+  "origin": "Germany",
+  "size": "Large",
+  "life_expectancy_years": "9-13",
+  "temperament": "Confident, courageous and smart",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/german-shepherd.json"
+}

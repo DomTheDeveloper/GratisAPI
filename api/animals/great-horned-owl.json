@@ -1,0 +1,15 @@
+{
+  "id": "great-horned-owl",
+  "common_name": "Great Horned Owl",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "genus": "Bubo",
+  "species": "Bubo virginianus",
+  "conservation_status": "Least Concern",
+  "habitat": "Forests and open country of the Americas",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/great-horned-owl.json"
+}

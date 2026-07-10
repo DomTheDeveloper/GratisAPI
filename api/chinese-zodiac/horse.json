@@ -1,0 +1,15 @@
+{
+  "id": "horse",
+  "animal": "Horse",
+  "order": 7,
+  "element": "Fire",
+  "yin_yang": "Yang",
+  "traits": "Energetic, independent, warm-hearted",
+  "recent_years": [
+    1990,
+    2002,
+    2014,
+    2026
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/horse.json"
+}

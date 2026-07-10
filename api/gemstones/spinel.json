@@ -1,0 +1,9 @@
+{
+  "id": "spinel",
+  "name": "Spinel",
+  "color": "Red to pink",
+  "mohs_hardness": 8.0,
+  "crystal_system": "Cubic",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/spinel.json"
+}

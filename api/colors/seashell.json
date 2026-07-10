@@ -1,0 +1,18 @@
+{
+  "id": "seashell",
+  "name": "Seashell",
+  "hex": "#FFF5EE",
+  "rgb": {
+    "r": 255,
+    "g": 245,
+    "b": 238
+  },
+  "rgb_string": "rgb(255, 245, 238)",
+  "hsl": {
+    "h": 25,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(25, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/seashell.json"
+}

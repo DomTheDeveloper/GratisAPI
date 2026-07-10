@@ -1,0 +1,10 @@
+{
+  "id": "zip",
+  "mime_type": "application/zip",
+  "name": "ZIP Archive",
+  "category": "application",
+  "extensions": [
+    ".zip"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/zip.json"
+}

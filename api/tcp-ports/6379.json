@@ -1,0 +1,8 @@
+{
+  "id": 6379,
+  "port": 6379,
+  "service": "redis",
+  "protocol": "TCP",
+  "description": "Redis in-memory data store.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/6379.json"
+}

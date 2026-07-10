@@ -1,0 +1,9 @@
+{
+  "id": "knight",
+  "name": "Knight",
+  "symbol_white": "♘",
+  "symbol_black": "♞",
+  "value": 3,
+  "movement": "In an L-shape; may jump over other pieces",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/knight.json"
+}

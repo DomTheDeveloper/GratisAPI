@@ -1,0 +1,13 @@
+{
+  "id": "zw",
+  "name": "Zimbabwe",
+  "alpha2": "ZW",
+  "alpha3": "ZWE",
+  "capital": "Harare",
+  "continent": "Africa",
+  "currency_code": "ZWL",
+  "currency": "Zimbabwean Dollar",
+  "population_millions": 15,
+  "flag_emoji": "🇿🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/zw.json"
+}

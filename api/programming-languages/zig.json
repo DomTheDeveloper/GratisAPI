@@ -1,0 +1,13 @@
+{
+  "id": "zig",
+  "name": "Zig",
+  "year": 2016,
+  "paradigm": [
+    "Imperative",
+    "Procedural"
+  ],
+  "typing": "Static",
+  "designed_by": "Andrew Kelley",
+  "extension": ".zig",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/zig.json"
+}

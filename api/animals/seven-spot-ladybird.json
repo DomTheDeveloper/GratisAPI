@@ -1,0 +1,15 @@
+{
+  "id": "seven-spot-ladybird",
+  "common_name": "Seven-spot Ladybird",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Insecta",
+  "order": "Coleoptera",
+  "family": "Coccinellidae",
+  "genus": "Coccinella",
+  "species": "Coccinella septempunctata",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Gardens, meadows and fields",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/seven-spot-ladybird.json"
+}

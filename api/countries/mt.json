@@ -1,0 +1,13 @@
+{
+  "id": "mt",
+  "name": "Malta",
+  "alpha2": "MT",
+  "alpha3": "MLT",
+  "capital": "Valletta",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇲🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mt.json"
+}

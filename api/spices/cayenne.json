@@ -1,0 +1,9 @@
+{
+  "id": "cayenne",
+  "name": "Cayenne Pepper",
+  "plant_part": "Fruit",
+  "origin_region": "South America",
+  "flavor": "Sharp, fiery",
+  "heat_level": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cayenne.json"
+}

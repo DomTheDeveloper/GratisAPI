@@ -1,0 +1,13 @@
+{
+  "id": "basic",
+  "name": "BASIC",
+  "year": 1964,
+  "paradigm": [
+    "Imperative",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "John Kemeny and Thomas Kurtz",
+  "extension": ".bas",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/basic.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 5,
+  "force": 5,
+  "description": "Fresh breeze",
+  "wind_kmh_min": 29,
+  "wind_kmh_max": 38,
+  "conditions": "Small trees sway; moderate waves with whitecaps.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/5.json"
+}

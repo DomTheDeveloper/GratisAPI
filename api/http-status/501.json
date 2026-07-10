@@ -3,5 +3,6 @@
   "code": 501,
   "message": "Not Implemented",
   "category": "Server Error",
+  "description": "The server does not support the functionality required to fulfill the request.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/501.json"
 }

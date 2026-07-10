@@ -1,0 +1,11 @@
+{
+  "id": "apatosaurus",
+  "name": "Apatosaurus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 23.0,
+  "weight_kg": 23000,
+  "region": "Western North America",
+  "meaning": "Deceptive lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/apatosaurus.json"
+}

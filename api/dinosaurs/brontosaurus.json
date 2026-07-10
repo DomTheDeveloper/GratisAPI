@@ -1,0 +1,11 @@
+{
+  "id": "brontosaurus",
+  "name": "Brontosaurus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 22.0,
+  "weight_kg": 15000,
+  "region": "Western North America",
+  "meaning": "Thunder lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/brontosaurus.json"
+}

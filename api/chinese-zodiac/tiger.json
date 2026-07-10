@@ -1,0 +1,15 @@
+{
+  "id": "tiger",
+  "animal": "Tiger",
+  "order": 3,
+  "element": "Wood",
+  "yin_yang": "Yang",
+  "traits": "Brave, confident, competitive",
+  "recent_years": [
+    1986,
+    1998,
+    2010,
+    2022
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/tiger.json"
+}

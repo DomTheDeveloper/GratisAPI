@@ -1,0 +1,14 @@
+{
+  "id": "swift",
+  "name": "Swift",
+  "year": 2014,
+  "paradigm": [
+    "Object-oriented",
+    "Functional",
+    "Imperative"
+  ],
+  "typing": "Static",
+  "designed_by": "Apple",
+  "extension": ".swift",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/swift.json"
+}

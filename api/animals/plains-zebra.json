@@ -1,0 +1,15 @@
+{
+  "id": "plains-zebra",
+  "common_name": "Plains Zebra",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Perissodactyla",
+  "family": "Equidae",
+  "genus": "Equus",
+  "species": "Equus quagga",
+  "conservation_status": "Near Threatened",
+  "habitat": "Grasslands and savanna of eastern Africa",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/plains-zebra.json"
+}

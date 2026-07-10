@@ -1,0 +1,15 @@
+{
+  "id": "emperor-scorpion",
+  "common_name": "Emperor Scorpion",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Arachnida",
+  "order": "Scorpiones",
+  "family": "Scorpionidae",
+  "genus": "Pandinus",
+  "species": "Pandinus imperator",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Rainforests and savanna of West Africa",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/emperor-scorpion.json"
+}

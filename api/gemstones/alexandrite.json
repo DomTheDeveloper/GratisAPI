@@ -1,0 +1,9 @@
+{
+  "id": "alexandrite",
+  "name": "Alexandrite",
+  "color": "Color-changing",
+  "mohs_hardness": 8.5,
+  "crystal_system": "Orthorhombic",
+  "type": "Precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/alexandrite.json"
+}

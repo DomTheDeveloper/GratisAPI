@@ -1,0 +1,15 @@
+{
+  "id": "dragon",
+  "animal": "Dragon",
+  "order": 5,
+  "element": "Earth",
+  "yin_yang": "Yang",
+  "traits": "Confident, ambitious, charismatic",
+  "recent_years": [
+    1988,
+    2000,
+    2012,
+    2024
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/dragon.json"
+}

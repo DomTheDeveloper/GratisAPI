@@ -1,0 +1,8 @@
+{
+  "id": "golden-ratio",
+  "name": "Golden ratio",
+  "symbol": "phi",
+  "value": 1.618033988749895,
+  "description": "Ratio where (a+b)/a equals a/b.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/golden-ratio.json"
+}

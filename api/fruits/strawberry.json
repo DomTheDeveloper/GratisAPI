@@ -1,0 +1,11 @@
+{
+  "id": "strawberry",
+  "name": "Strawberry",
+  "scientific_name": "Fragaria ananassa",
+  "family": "Rosaceae",
+  "type": "Berry",
+  "color": "Red",
+  "origin_region": "Europe and the Americas",
+  "calories_per_100g": 32,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/strawberry.json"
+}

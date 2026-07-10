@@ -1,0 +1,11 @@
+{
+  "id": "tomato",
+  "name": "Tomato",
+  "scientific_name": "Solanum lycopersicum",
+  "family": "Solanaceae",
+  "type": "Berry",
+  "color": "Red",
+  "origin_region": "South America",
+  "calories_per_100g": 18,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/tomato.json"
+}

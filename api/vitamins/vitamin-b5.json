@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b5",
+  "name": "Vitamin B5",
+  "chemical_name": "Pantothenic acid",
+  "solubility": "Water",
+  "function": "Synthesis of coenzyme A and fatty acids",
+  "deficiency_disease": "Paresthesia",
+  "food_sources": [
+    "Avocado",
+    "Eggs",
+    "Mushrooms"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b5.json"
+}

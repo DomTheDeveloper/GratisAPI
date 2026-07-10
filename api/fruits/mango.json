@@ -1,0 +1,11 @@
+{
+  "id": "mango",
+  "name": "Mango",
+  "scientific_name": "Mangifera indica",
+  "family": "Anacardiaceae",
+  "type": "Drupe",
+  "color": "Yellow",
+  "origin_region": "South Asia",
+  "calories_per_100g": 60,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/mango.json"
+}

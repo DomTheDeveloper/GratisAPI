@@ -1,0 +1,13 @@
+{
+  "id": "tcl",
+  "name": "Tcl",
+  "year": 1988,
+  "paradigm": [
+    "Scripting",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "John Ousterhout",
+  "extension": ".tcl",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/tcl.json"
+}

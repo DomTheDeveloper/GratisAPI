@@ -1,0 +1,12 @@
+{
+  "id": "hawaii",
+  "name": "Hawaii",
+  "abbreviation": "HI",
+  "capital": "Honolulu",
+  "largest_city": "Honolulu",
+  "population": 1455271,
+  "area_km2": 28313,
+  "statehood_year": 1959,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/hawaii.json"
+}

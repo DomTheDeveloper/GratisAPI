@@ -1,0 +1,13 @@
+{
+  "id": "md",
+  "name": "Moldova",
+  "alpha2": "MD",
+  "alpha3": "MDA",
+  "capital": "Chisinau",
+  "continent": "Europe",
+  "currency_code": "MDL",
+  "currency": "Moldovan Leu",
+  "population_millions": 3,
+  "flag_emoji": "🇲🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/md.json"
+}

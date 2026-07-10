@@ -1,0 +1,9 @@
+{
+  "id": "colorado",
+  "name": "Colorado",
+  "length_km": 2330,
+  "continent": "North America",
+  "outflow": "Gulf of California",
+  "countries": "United States, Mexico",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/colorado.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scots-pine",
+  "common_name": "Scots Pine",
+  "scientific_name": "Pinus sylvestris",
+  "family": "Pinaceae",
+  "type": "Coniferous",
+  "max_height_m": 35,
+  "native_region": "Europe and Asia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/scots-pine.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "great-wall-of-china",
+  "name": "Great Wall of China",
+  "category": "New",
+  "location": "China",
+  "built": "7th century BC onward",
+  "still_standing": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/great-wall-of-china.json"
+}

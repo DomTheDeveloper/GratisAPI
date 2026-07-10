@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "number": 1,
+  "name": "George Washington",
+  "party": "Unaffiliated",
+  "term_start": 1789,
+  "term_end": 1797,
+  "vice_president": "John Adams",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/1.json"
+}

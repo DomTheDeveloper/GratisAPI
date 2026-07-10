@@ -1,0 +1,12 @@
+{
+  "id": "alabama",
+  "name": "Alabama",
+  "abbreviation": "AL",
+  "capital": "Montgomery",
+  "largest_city": "Huntsville",
+  "population": 5024279,
+  "area_km2": 135767,
+  "statehood_year": 1819,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/alabama.json"
+}

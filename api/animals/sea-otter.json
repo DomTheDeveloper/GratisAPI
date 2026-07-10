@@ -1,0 +1,15 @@
+{
+  "id": "sea-otter",
+  "common_name": "Sea Otter",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Mustelidae",
+  "genus": "Enhydra",
+  "species": "Enhydra lutris",
+  "conservation_status": "Endangered",
+  "habitat": "North Pacific coastal waters",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/sea-otter.json"
+}

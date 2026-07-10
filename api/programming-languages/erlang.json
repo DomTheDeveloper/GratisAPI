@@ -1,0 +1,13 @@
+{
+  "id": "erlang",
+  "name": "Erlang",
+  "year": 1986,
+  "paradigm": [
+    "Functional",
+    "Concurrent"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Joe Armstrong",
+  "extension": ".erl",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/erlang.json"
+}

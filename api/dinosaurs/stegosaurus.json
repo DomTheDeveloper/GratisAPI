@@ -1,0 +1,11 @@
+{
+  "id": "stegosaurus",
+  "name": "Stegosaurus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 9.0,
+  "weight_kg": 3500,
+  "region": "Western North America",
+  "meaning": "Roof lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/stegosaurus.json"
+}

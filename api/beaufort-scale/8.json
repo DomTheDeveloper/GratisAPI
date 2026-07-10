@@ -1,0 +1,9 @@
+{
+  "id": 8,
+  "force": 8,
+  "description": "Gale",
+  "wind_kmh_min": 62,
+  "wind_kmh_max": 74,
+  "conditions": "Twigs break off trees; moderately high waves.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/8.json"
+}

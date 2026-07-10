@@ -1,0 +1,8 @@
+{
+  "id": 143,
+  "port": 143,
+  "service": "imap",
+  "protocol": "TCP",
+  "description": "Internet Message Access Protocol for retrieving email.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/143.json"
+}

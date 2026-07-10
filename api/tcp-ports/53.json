@@ -1,0 +1,8 @@
+{
+  "id": 53,
+  "port": 53,
+  "service": "dns",
+  "protocol": "TCP/UDP",
+  "description": "Domain Name System for resolving hostnames to IP addresses.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/53.json"
+}

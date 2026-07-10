@@ -1,0 +1,15 @@
+{
+  "id": "clown-anemonefish",
+  "common_name": "Clown Anemonefish",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Actinopterygii",
+  "order": "Perciformes",
+  "family": "Pomacentridae",
+  "genus": "Amphiprion",
+  "species": "Amphiprion ocellaris",
+  "conservation_status": "Least Concern",
+  "habitat": "Coral reefs of the Indo-Pacific",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/clown-anemonefish.json"
+}

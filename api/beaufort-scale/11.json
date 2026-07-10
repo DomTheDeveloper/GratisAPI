@@ -1,0 +1,9 @@
+{
+  "id": 11,
+  "force": 11,
+  "description": "Violent storm",
+  "wind_kmh_min": 103,
+  "wind_kmh_max": 117,
+  "conditions": "Widespread damage; exceptionally high waves.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/11.json"
+}

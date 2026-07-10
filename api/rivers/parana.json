@@ -1,0 +1,9 @@
+{
+  "id": "parana",
+  "name": "Parana",
+  "length_km": 4880,
+  "continent": "South America",
+  "outflow": "Atlantic Ocean (Rio de la Plata)",
+  "countries": "Brazil, Argentina, Paraguay",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/parana.json"
+}

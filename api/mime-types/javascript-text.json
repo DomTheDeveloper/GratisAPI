@@ -1,0 +1,11 @@
+{
+  "id": "javascript-text",
+  "mime_type": "text/javascript",
+  "name": "JavaScript (Text)",
+  "category": "text",
+  "extensions": [
+    ".js",
+    ".mjs"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/javascript-text.json"
+}

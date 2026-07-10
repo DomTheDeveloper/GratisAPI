@@ -1,0 +1,18 @@
+{
+  "id": "cornflowerblue",
+  "name": "Cornflower Blue",
+  "hex": "#6495ED",
+  "rgb": {
+    "r": 100,
+    "g": 149,
+    "b": 237
+  },
+  "rgb_string": "rgb(100, 149, 237)",
+  "hsl": {
+    "h": 219,
+    "s": 79,
+    "l": 66
+  },
+  "hsl_string": "hsl(219, 79%, 66%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cornflowerblue.json"
+}

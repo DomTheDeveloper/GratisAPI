@@ -1,0 +1,8 @@
+{
+  "id": "square-root-2",
+  "name": "Square root of 2",
+  "symbol": "sqrt(2)",
+  "value": 1.4142135623730951,
+  "description": "Pythagoras' constant, diagonal of a unit square.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/square-root-2.json"
+}

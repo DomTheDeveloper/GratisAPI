@@ -1,0 +1,8 @@
+{
+  "id": 194,
+  "port": 194,
+  "service": "irc",
+  "protocol": "TCP",
+  "description": "Internet Relay Chat.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/194.json"
+}

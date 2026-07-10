@@ -1,0 +1,13 @@
+{
+  "id": "lk",
+  "name": "Sri Lanka",
+  "alpha2": "LK",
+  "alpha3": "LKA",
+  "capital": "Sri Jayawardenepura Kotte",
+  "continent": "Asia",
+  "currency_code": "LKR",
+  "currency": "Sri Lankan Rupee",
+  "population_millions": 22,
+  "flag_emoji": "🇱🇰",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/lk.json"
+}

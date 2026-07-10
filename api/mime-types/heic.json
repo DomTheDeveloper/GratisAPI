@@ -1,0 +1,10 @@
+{
+  "id": "heic",
+  "mime_type": "image/heic",
+  "name": "HEIC Image",
+  "category": "image",
+  "extensions": [
+    ".heic"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/heic.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "force": 3,
+  "description": "Gentle breeze",
+  "wind_kmh_min": 12,
+  "wind_kmh_max": 19,
+  "conditions": "Leaves and twigs in motion; large wavelets.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/3.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hippopotamus",
+  "common_name": "Hippopotamus",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Hippopotamidae",
+  "genus": "Hippopotamus",
+  "species": "Hippopotamus amphibius",
+  "conservation_status": "Vulnerable",
+  "habitat": "Rivers and lakes of sub-Saharan Africa",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/hippopotamus.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "paloma",
+  "name": "Paloma",
+  "base_spirit": "Tequila",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/paloma.json"
+}

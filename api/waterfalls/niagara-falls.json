@@ -1,0 +1,9 @@
+{
+  "id": "niagara-falls",
+  "name": "Niagara Falls",
+  "height_m": 51,
+  "river": "Niagara River",
+  "country": "United States / Canada",
+  "continent": "North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/niagara-falls.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "juniper",
+  "name": "Juniper Berry",
+  "plant_part": "Fruit",
+  "origin_region": "Europe",
+  "flavor": "Piney, resinous",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/juniper.json"
+}

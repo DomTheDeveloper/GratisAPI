@@ -1,0 +1,9 @@
+{
+  "id": "pollux",
+  "name": "Pollux",
+  "constellation": "Gemini",
+  "apparent_magnitude": 1.14,
+  "distance_ly": 33.8,
+  "spectral_type": "K0III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/pollux.json"
+}

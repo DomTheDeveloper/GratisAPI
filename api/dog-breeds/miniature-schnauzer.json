@@ -1,0 +1,10 @@
+{
+  "id": "miniature-schnauzer",
+  "name": "Miniature Schnauzer",
+  "group": "Terrier",
+  "origin": "Germany",
+  "size": "Small",
+  "life_expectancy_years": "12-15",
+  "temperament": "Friendly, smart and obedient",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/miniature-schnauzer.json"
+}

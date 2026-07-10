@@ -1,0 +1,9 @@
+{
+  "id": "oregano",
+  "name": "Oregano",
+  "plant_part": "Leaf",
+  "origin_region": "Mediterranean",
+  "flavor": "Pungent, earthy",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/oregano.json"
+}

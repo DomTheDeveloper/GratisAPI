@@ -1,0 +1,9 @@
+{
+  "id": "murray-darling",
+  "name": "Murray-Darling",
+  "length_km": 3672,
+  "continent": "Oceania",
+  "outflow": "Southern Ocean",
+  "countries": "Australia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/murray-darling.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "southern",
+  "name": "Southern Ocean",
+  "area_km2": 21960000,
+  "avg_depth_m": 3270,
+  "max_depth_m": 7434,
+  "deepest_point": "Factorian Deep (South Sandwich Trench)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/southern.json"
+}

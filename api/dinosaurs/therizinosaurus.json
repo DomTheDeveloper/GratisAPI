@@ -1,0 +1,11 @@
+{
+  "id": "therizinosaurus",
+  "name": "Therizinosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 10.0,
+  "weight_kg": 5000,
+  "region": "Mongolia",
+  "meaning": "Scythe lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/therizinosaurus.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "TND",
+  "code": "TND",
+  "name": "Tunisian Dinar",
+  "symbol": "د.ت",
+  "minor_unit": 3,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/TND.json"
+}

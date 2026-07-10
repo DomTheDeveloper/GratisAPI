@@ -1,0 +1,10 @@
+{
+  "id": "bernese-mountain-dog",
+  "name": "Bernese Mountain Dog",
+  "group": "Working",
+  "origin": "Switzerland",
+  "size": "Large",
+  "life_expectancy_years": "7-10",
+  "temperament": "Good-natured, calm and strong",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/bernese-mountain-dog.json"
+}

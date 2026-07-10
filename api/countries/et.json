@@ -1,0 +1,13 @@
+{
+  "id": "et",
+  "name": "Ethiopia",
+  "alpha2": "ET",
+  "alpha3": "ETH",
+  "capital": "Addis Ababa",
+  "continent": "Africa",
+  "currency_code": "ETB",
+  "currency": "Ethiopian Birr",
+  "population_millions": 123,
+  "flag_emoji": "🇪🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/et.json"
+}

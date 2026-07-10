@@ -1,0 +1,9 @@
+{
+  "id": "vanilla",
+  "name": "Vanilla",
+  "plant_part": "Fruit",
+  "origin_region": "Mexico",
+  "flavor": "Sweet, creamy",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/vanilla.json"
+}

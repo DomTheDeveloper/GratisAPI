@@ -1,0 +1,11 @@
+{
+  "id": "yaml",
+  "mime_type": "text/yaml",
+  "name": "YAML",
+  "category": "text",
+  "extensions": [
+    ".yaml",
+    ".yml"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/yaml.json"
+}

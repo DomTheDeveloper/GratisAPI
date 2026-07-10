@@ -1,0 +1,11 @@
+{
+  "id": "gooseberry",
+  "name": "Gooseberry",
+  "scientific_name": "Ribes uva-crispa",
+  "family": "Grossulariaceae",
+  "type": "Berry",
+  "color": "Green",
+  "origin_region": "Europe and western Asia",
+  "calories_per_100g": 44,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/gooseberry.json"
+}

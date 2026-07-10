@@ -1,0 +1,15 @@
+{
+  "id": "platypus",
+  "common_name": "Platypus",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Monotremata",
+  "family": "Ornithorhynchidae",
+  "genus": "Ornithorhynchus",
+  "species": "Ornithorhynchus anatinus",
+  "conservation_status": "Near Threatened",
+  "habitat": "Freshwater streams of eastern Australia",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/platypus.json"
+}

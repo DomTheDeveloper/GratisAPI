@@ -1,0 +1,206 @@
+{
+  "api": "vitamins",
+  "title": "Vitamins",
+  "description": "The 13 essential human vitamins with function, solubility and food sources.",
+  "emoji": "💊",
+  "license": "GPL-2.0-or-later",
+  "count": 13,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/{id}.json"
+  },
+  "fields": [
+    "chemical_name",
+    "deficiency_disease",
+    "food_sources",
+    "function",
+    "id",
+    "name",
+    "solubility"
+  ],
+  "results": [
+    {
+      "id": "vitamin-a",
+      "name": "Vitamin A",
+      "chemical_name": "Retinol",
+      "solubility": "Fat",
+      "function": "Vision, immune function and skin health",
+      "deficiency_disease": "Night blindness",
+      "food_sources": [
+        "Carrots",
+        "Liver",
+        "Sweet potato"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-a.json"
+    },
+    {
+      "id": "vitamin-b1",
+      "name": "Vitamin B1",
+      "chemical_name": "Thiamine",
+      "solubility": "Water",
+      "function": "Energy metabolism and nerve function",
+      "deficiency_disease": "Beriberi",
+      "food_sources": [
+        "Whole grains",
+        "Pork",
+        "Legumes"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b1.json"
+    },
+    {
+      "id": "vitamin-b2",
+      "name": "Vitamin B2",
+      "chemical_name": "Riboflavin",
+      "solubility": "Water",
+      "function": "Energy production and cellular function",
+      "deficiency_disease": "Ariboflavinosis",
+      "food_sources": [
+        "Eggs",
+        "Milk",
+        "Almonds"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b2.json"
+    },
+    {
+      "id": "vitamin-b3",
+      "name": "Vitamin B3",
+      "chemical_name": "Niacin",
+      "solubility": "Water",
+      "function": "Energy metabolism and DNA repair",
+      "deficiency_disease": "Pellagra",
+      "food_sources": [
+        "Meat",
+        "Fish",
+        "Peanuts"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b3.json"
+    },
+    {
+      "id": "vitamin-b5",
+      "name": "Vitamin B5",
+      "chemical_name": "Pantothenic acid",
+      "solubility": "Water",
+      "function": "Synthesis of coenzyme A and fatty acids",
+      "deficiency_disease": "Paresthesia",
+      "food_sources": [
+        "Avocado",
+        "Eggs",
+        "Mushrooms"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b5.json"
+    },
+    {
+      "id": "vitamin-b6",
+      "name": "Vitamin B6",
+      "chemical_name": "Pyridoxine",
+      "solubility": "Water",
+      "function": "Amino acid metabolism and neurotransmitters",
+      "deficiency_disease": "Anaemia",
+      "food_sources": [
+        "Poultry",
+        "Bananas",
+        "Chickpeas"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b6.json"
+    },
+    {
+      "id": "vitamin-b7",
+      "name": "Vitamin B7",
+      "chemical_name": "Biotin",
+      "solubility": "Water",
+      "function": "Metabolism of fats, carbohydrates and protein",
+      "deficiency_disease": "Dermatitis",
+      "food_sources": [
+        "Eggs",
+        "Nuts",
+        "Salmon"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b7.json"
+    },
+    {
+      "id": "vitamin-b9",
+      "name": "Vitamin B9",
+      "chemical_name": "Folate",
+      "solubility": "Water",
+      "function": "DNA synthesis and cell division",
+      "deficiency_disease": "Neural tube defects",
+      "food_sources": [
+        "Leafy greens",
+        "Legumes",
+        "Citrus"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b9.json"
+    },
+    {
+      "id": "vitamin-b12",
+      "name": "Vitamin B12",
+      "chemical_name": "Cobalamin",
+      "solubility": "Water",
+      "function": "Red blood cell formation and nerve function",
+      "deficiency_disease": "Pernicious anaemia",
+      "food_sources": [
+        "Meat",
+        "Fish",
+        "Dairy"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b12.json"
+    },
+    {
+      "id": "vitamin-c",
+      "name": "Vitamin C",
+      "chemical_name": "Ascorbic acid",
+      "solubility": "Water",
+      "function": "Collagen synthesis and antioxidant defence",
+      "deficiency_disease": "Scurvy",
+      "food_sources": [
+        "Citrus",
+        "Peppers",
+        "Broccoli"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-c.json"
+    },
+    {
+      "id": "vitamin-d",
+      "name": "Vitamin D",
+      "chemical_name": "Calciferol",
+      "solubility": "Fat",
+      "function": "Calcium absorption and bone health",
+      "deficiency_disease": "Rickets",
+      "food_sources": [
+        "Sunlight",
+        "Fatty fish",
+        "Fortified milk"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-d.json"
+    },
+    {
+      "id": "vitamin-e",
+      "name": "Vitamin E",
+      "chemical_name": "Tocopherol",
+      "solubility": "Fat",
+      "function": "Antioxidant protecting cell membranes",
+      "deficiency_disease": "Nerve damage",
+      "food_sources": [
+        "Nuts",
+        "Seeds",
+        "Vegetable oils"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-e.json"
+    },
+    {
+      "id": "vitamin-k",
+      "name": "Vitamin K",
+      "chemical_name": "Phylloquinone",
+      "solubility": "Fat",
+      "function": "Blood clotting and bone metabolism",
+      "deficiency_disease": "Excessive bleeding",
+      "food_sources": [
+        "Leafy greens",
+        "Broccoli",
+        "Natto"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-k.json"
+    }
+  ]
+}

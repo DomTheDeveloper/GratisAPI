@@ -1,0 +1,10 @@
+{
+  "id": "arugula",
+  "name": "Arugula",
+  "scientific_name": "Eruca vesicaria",
+  "family": "Brassicaceae",
+  "type": "Leafy",
+  "color": "Green",
+  "calories_per_100g": 25,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/arugula.json"
+}

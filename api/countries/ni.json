@@ -1,0 +1,13 @@
+{
+  "id": "ni",
+  "name": "Nicaragua",
+  "alpha2": "NI",
+  "alpha3": "NIC",
+  "capital": "Managua",
+  "continent": "North America",
+  "currency_code": "NIO",
+  "currency": "Cordoba Oro",
+  "population_millions": 7,
+  "flag_emoji": "🇳🇮",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ni.json"
+}

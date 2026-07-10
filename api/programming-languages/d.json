@@ -1,0 +1,14 @@
+{
+  "id": "d",
+  "name": "D",
+  "year": 2001,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative",
+    "Functional"
+  ],
+  "typing": "Static",
+  "designed_by": "Walter Bright",
+  "extension": ".d",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/d.json"
+}

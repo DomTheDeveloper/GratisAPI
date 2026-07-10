@@ -1,0 +1,9 @@
+{
+  "id": "machu-picchu",
+  "name": "Machu Picchu",
+  "category": "New",
+  "location": "Peru",
+  "built": "c. 1450",
+  "still_standing": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/machu-picchu.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "achernar",
+  "name": "Achernar",
+  "constellation": "Eridanus",
+  "apparent_magnitude": 0.46,
+  "distance_ly": 139.0,
+  "spectral_type": "B6Vpe",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/achernar.json"
+}

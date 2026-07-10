@@ -1,0 +1,18 @@
+{
+  "id": "chartreuse",
+  "name": "Chartreuse",
+  "hex": "#7FFF00",
+  "rgb": {
+    "r": 127,
+    "g": 255,
+    "b": 0
+  },
+  "rgb_string": "rgb(127, 255, 0)",
+  "hsl": {
+    "h": 90,
+    "s": 100,
+    "l": 50
+  },
+  "hsl_string": "hsl(90, 100%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/chartreuse.json"
+}

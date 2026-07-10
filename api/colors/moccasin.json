@@ -1,0 +1,18 @@
+{
+  "id": "moccasin",
+  "name": "Moccasin",
+  "hex": "#FFE4B5",
+  "rgb": {
+    "r": 255,
+    "g": 228,
+    "b": 181
+  },
+  "rgb_string": "rgb(255, 228, 181)",
+  "hsl": {
+    "h": 38,
+    "s": 100,
+    "l": 85
+  },
+  "hsl_string": "hsl(38, 100%, 85%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/moccasin.json"
+}

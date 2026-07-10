@@ -1,0 +1,13 @@
+{
+  "id": "matlab",
+  "name": "MATLAB",
+  "year": 1984,
+  "paradigm": [
+    "Imperative",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Cleve Moler",
+  "extension": ".m",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/matlab.json"
+}

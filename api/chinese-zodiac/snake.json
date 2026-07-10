@@ -1,0 +1,15 @@
+{
+  "id": "snake",
+  "animal": "Snake",
+  "order": 6,
+  "element": "Fire",
+  "yin_yang": "Yin",
+  "traits": "Wise, intuitive, enigmatic",
+  "recent_years": [
+    1989,
+    2001,
+    2013,
+    2025
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/snake.json"
+}

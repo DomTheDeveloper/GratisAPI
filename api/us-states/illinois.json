@@ -1,0 +1,12 @@
+{
+  "id": "illinois",
+  "name": "Illinois",
+  "abbreviation": "IL",
+  "capital": "Springfield",
+  "largest_city": "Chicago",
+  "population": 12812508,
+  "area_km2": 149995,
+  "statehood_year": 1818,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/illinois.json"
+}

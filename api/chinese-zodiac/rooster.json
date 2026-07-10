@@ -1,0 +1,15 @@
+{
+  "id": "rooster",
+  "animal": "Rooster",
+  "order": 10,
+  "element": "Metal",
+  "yin_yang": "Yin",
+  "traits": "Observant, hardworking, confident",
+  "recent_years": [
+    1993,
+    2005,
+    2017,
+    2029
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/rooster.json"
+}

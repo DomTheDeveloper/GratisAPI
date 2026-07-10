@@ -1,0 +1,10 @@
+{
+  "id": "beetroot",
+  "name": "Beetroot",
+  "scientific_name": "Beta vulgaris",
+  "family": "Amaranthaceae",
+  "type": "Root",
+  "color": "Purple",
+  "calories_per_100g": 43,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/beetroot.json"
+}

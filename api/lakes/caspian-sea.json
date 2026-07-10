@@ -1,0 +1,9 @@
+{
+  "id": "caspian-sea",
+  "name": "Caspian Sea",
+  "area_km2": 371000,
+  "max_depth_m": 1025,
+  "continent": "Asia / Europe",
+  "type": "Salt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/caspian-sea.json"
+}

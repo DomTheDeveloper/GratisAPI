@@ -1,0 +1,11 @@
+{
+  "id": "mamenchisaurus",
+  "name": "Mamenchisaurus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 25.0,
+  "weight_kg": 20000,
+  "region": "China",
+  "meaning": "Mamenxi lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/mamenchisaurus.json"
+}

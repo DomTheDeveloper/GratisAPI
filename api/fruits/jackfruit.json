@@ -1,0 +1,11 @@
+{
+  "id": "jackfruit",
+  "name": "Jackfruit",
+  "scientific_name": "Artocarpus heterophyllus",
+  "family": "Moraceae",
+  "type": "Tropical",
+  "color": "Green",
+  "origin_region": "South India",
+  "calories_per_100g": 95,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/jackfruit.json"
+}

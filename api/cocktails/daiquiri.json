@@ -1,0 +1,9 @@
+{
+  "id": "daiquiri",
+  "name": "Daiquiri",
+  "base_spirit": "Rum",
+  "type": "Sour",
+  "glass": "Coupe",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/daiquiri.json"
+}

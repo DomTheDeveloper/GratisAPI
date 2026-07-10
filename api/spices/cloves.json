@@ -1,0 +1,9 @@
+{
+  "id": "cloves",
+  "name": "Cloves",
+  "plant_part": "Flower",
+  "origin_region": "Indonesia",
+  "flavor": "Sweet, pungent",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cloves.json"
+}

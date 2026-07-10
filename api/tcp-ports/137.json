@@ -1,0 +1,8 @@
+{
+  "id": 137,
+  "port": 137,
+  "service": "netbios-ns",
+  "protocol": "UDP",
+  "description": "NetBIOS Name Service.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/137.json"
+}

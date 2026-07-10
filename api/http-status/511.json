@@ -1,0 +1,8 @@
+{
+  "id": 511,
+  "code": 511,
+  "message": "Network Authentication Required",
+  "category": "Server Error",
+  "description": "The client needs to authenticate to gain network access.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/511.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "quince",
+  "name": "Quince",
+  "scientific_name": "Cydonia oblonga",
+  "family": "Rosaceae",
+  "type": "Pome",
+  "color": "Yellow",
+  "origin_region": "Caucasus and Southwest Asia",
+  "calories_per_100g": 57,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/quince.json"
+}

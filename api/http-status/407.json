@@ -1,0 +1,8 @@
+{
+  "id": 407,
+  "code": 407,
+  "message": "Proxy Authentication Required",
+  "category": "Client Error",
+  "description": "The client must first authenticate itself with the proxy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/407.json"
+}

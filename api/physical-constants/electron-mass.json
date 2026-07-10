@@ -1,0 +1,9 @@
+{
+  "id": "electron-mass",
+  "name": "Electron mass",
+  "symbol": "m_e",
+  "value": 9.1093837015e-31,
+  "unit": "kg",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/electron-mass.json"
+}

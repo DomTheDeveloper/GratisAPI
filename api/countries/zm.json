@@ -1,0 +1,13 @@
+{
+  "id": "zm",
+  "name": "Zambia",
+  "alpha2": "ZM",
+  "alpha3": "ZMB",
+  "capital": "Lusaka",
+  "continent": "Africa",
+  "currency_code": "ZMW",
+  "currency": "Zambian Kwacha",
+  "population_millions": 19,
+  "flag_emoji": "🇿🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/zm.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "vega",
+  "name": "Vega",
+  "constellation": "Lyra",
+  "apparent_magnitude": 0.03,
+  "distance_ly": 25.0,
+  "spectral_type": "A0V",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/vega.json"
+}

@@ -1,0 +1,518 @@
+{
+  "api": "tcp-ports",
+  "title": "Well-Known Ports",
+  "description": "Well-known TCP and UDP port numbers and the network services assigned to them.",
+  "emoji": "🔌",
+  "license": "GPL-2.0-or-later",
+  "count": 62,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/{id}.json"
+  },
+  "fields": [
+    "description",
+    "id",
+    "port",
+    "protocol",
+    "service"
+  ],
+  "results": [
+    {
+      "id": 20,
+      "port": 20,
+      "service": "ftp-data",
+      "protocol": "TCP",
+      "description": "File Transfer Protocol data transfer.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/20.json"
+    },
+    {
+      "id": 21,
+      "port": 21,
+      "service": "ftp",
+      "protocol": "TCP",
+      "description": "File Transfer Protocol control connection.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/21.json"
+    },
+    {
+      "id": 22,
+      "port": 22,
+      "service": "ssh",
+      "protocol": "TCP",
+      "description": "Secure Shell for encrypted remote login and file transfer.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/22.json"
+    },
+    {
+      "id": 23,
+      "port": 23,
+      "service": "telnet",
+      "protocol": "TCP",
+      "description": "Telnet protocol for unencrypted remote login.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/23.json"
+    },
+    {
+      "id": 25,
+      "port": 25,
+      "service": "smtp",
+      "protocol": "TCP",
+      "description": "Simple Mail Transfer Protocol for sending email.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/25.json"
+    },
+    {
+      "id": 37,
+      "port": 37,
+      "service": "time",
+      "protocol": "TCP/UDP",
+      "description": "Time protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/37.json"
+    },
+    {
+      "id": 43,
+      "port": 43,
+      "service": "whois",
+      "protocol": "TCP",
+      "description": "WHOIS directory service for domain registration lookups.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/43.json"
+    },
+    {
+      "id": 53,
+      "port": 53,
+      "service": "dns",
+      "protocol": "TCP/UDP",
+      "description": "Domain Name System for resolving hostnames to IP addresses.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/53.json"
+    },
+    {
+      "id": 67,
+      "port": 67,
+      "service": "dhcp-server",
+      "protocol": "UDP",
+      "description": "Dynamic Host Configuration Protocol server.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/67.json"
+    },
+    {
+      "id": 68,
+      "port": 68,
+      "service": "dhcp-client",
+      "protocol": "UDP",
+      "description": "Dynamic Host Configuration Protocol client.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/68.json"
+    },
+    {
+      "id": 69,
+      "port": 69,
+      "service": "tftp",
+      "protocol": "UDP",
+      "description": "Trivial File Transfer Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/69.json"
+    },
+    {
+      "id": 79,
+      "port": 79,
+      "service": "finger",
+      "protocol": "TCP",
+      "description": "Finger user information protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/79.json"
+    },
+    {
+      "id": 80,
+      "port": 80,
+      "service": "http",
+      "protocol": "TCP",
+      "description": "Hypertext Transfer Protocol for the World Wide Web.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/80.json"
+    },
+    {
+      "id": 88,
+      "port": 88,
+      "service": "kerberos",
+      "protocol": "TCP/UDP",
+      "description": "Kerberos network authentication protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/88.json"
+    },
+    {
+      "id": 110,
+      "port": 110,
+      "service": "pop3",
+      "protocol": "TCP",
+      "description": "Post Office Protocol version 3 for retrieving email.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/110.json"
+    },
+    {
+      "id": 111,
+      "port": 111,
+      "service": "rpcbind",
+      "protocol": "TCP/UDP",
+      "description": "ONC RPC portmapper service.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/111.json"
+    },
+    {
+      "id": 119,
+      "port": 119,
+      "service": "nntp",
+      "protocol": "TCP",
+      "description": "Network News Transfer Protocol for Usenet.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/119.json"
+    },
+    {
+      "id": 123,
+      "port": 123,
+      "service": "ntp",
+      "protocol": "UDP",
+      "description": "Network Time Protocol for clock synchronization.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/123.json"
+    },
+    {
+      "id": 135,
+      "port": 135,
+      "service": "msrpc",
+      "protocol": "TCP",
+      "description": "Microsoft RPC endpoint mapper.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/135.json"
+    },
+    {
+      "id": 137,
+      "port": 137,
+      "service": "netbios-ns",
+      "protocol": "UDP",
+      "description": "NetBIOS Name Service.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/137.json"
+    },
+    {
+      "id": 138,
+      "port": 138,
+      "service": "netbios-dgm",
+      "protocol": "UDP",
+      "description": "NetBIOS Datagram Service.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/138.json"
+    },
+    {
+      "id": 139,
+      "port": 139,
+      "service": "netbios-ssn",
+      "protocol": "TCP",
+      "description": "NetBIOS Session Service.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/139.json"
+    },
+    {
+      "id": 143,
+      "port": 143,
+      "service": "imap",
+      "protocol": "TCP",
+      "description": "Internet Message Access Protocol for retrieving email.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/143.json"
+    },
+    {
+      "id": 161,
+      "port": 161,
+      "service": "snmp",
+      "protocol": "UDP",
+      "description": "Simple Network Management Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/161.json"
+    },
+    {
+      "id": 162,
+      "port": 162,
+      "service": "snmptrap",
+      "protocol": "UDP",
+      "description": "SNMP trap notifications.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/162.json"
+    },
+    {
+      "id": 179,
+      "port": 179,
+      "service": "bgp",
+      "protocol": "TCP",
+      "description": "Border Gateway Protocol for internet routing.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/179.json"
+    },
+    {
+      "id": 194,
+      "port": 194,
+      "service": "irc",
+      "protocol": "TCP",
+      "description": "Internet Relay Chat.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/194.json"
+    },
+    {
+      "id": 389,
+      "port": 389,
+      "service": "ldap",
+      "protocol": "TCP/UDP",
+      "description": "Lightweight Directory Access Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/389.json"
+    },
+    {
+      "id": 443,
+      "port": 443,
+      "service": "https",
+      "protocol": "TCP",
+      "description": "HTTP over TLS/SSL for secure web traffic.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/443.json"
+    },
+    {
+      "id": 445,
+      "port": 445,
+      "service": "microsoft-ds",
+      "protocol": "TCP",
+      "description": "Microsoft SMB file sharing over TCP.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/445.json"
+    },
+    {
+      "id": 465,
+      "port": 465,
+      "service": "smtps",
+      "protocol": "TCP",
+      "description": "SMTP over TLS for secure email submission.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/465.json"
+    },
+    {
+      "id": 500,
+      "port": 500,
+      "service": "isakmp",
+      "protocol": "UDP",
+      "description": "Internet Security Association and Key Management Protocol for IPsec.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/500.json"
+    },
+    {
+      "id": 514,
+      "port": 514,
+      "service": "syslog",
+      "protocol": "UDP",
+      "description": "System logging protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/514.json"
+    },
+    {
+      "id": 515,
+      "port": 515,
+      "service": "lpd",
+      "protocol": "TCP",
+      "description": "Line Printer Daemon protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/515.json"
+    },
+    {
+      "id": 520,
+      "port": 520,
+      "service": "rip",
+      "protocol": "UDP",
+      "description": "Routing Information Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/520.json"
+    },
+    {
+      "id": 587,
+      "port": 587,
+      "service": "submission",
+      "protocol": "TCP",
+      "description": "SMTP mail submission with STARTTLS.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/587.json"
+    },
+    {
+      "id": 631,
+      "port": 631,
+      "service": "ipp",
+      "protocol": "TCP",
+      "description": "Internet Printing Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/631.json"
+    },
+    {
+      "id": 636,
+      "port": 636,
+      "service": "ldaps",
+      "protocol": "TCP",
+      "description": "LDAP over TLS/SSL.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/636.json"
+    },
+    {
+      "id": 873,
+      "port": 873,
+      "service": "rsync",
+      "protocol": "TCP",
+      "description": "Rsync file synchronization protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/873.json"
+    },
+    {
+      "id": 989,
+      "port": 989,
+      "service": "ftps-data",
+      "protocol": "TCP",
+      "description": "FTP over TLS/SSL data transfer.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/989.json"
+    },
+    {
+      "id": 990,
+      "port": 990,
+      "service": "ftps",
+      "protocol": "TCP",
+      "description": "FTP over TLS/SSL control connection.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/990.json"
+    },
+    {
+      "id": 993,
+      "port": 993,
+      "service": "imaps",
+      "protocol": "TCP",
+      "description": "IMAP over TLS/SSL.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/993.json"
+    },
+    {
+      "id": 995,
+      "port": 995,
+      "service": "pop3s",
+      "protocol": "TCP",
+      "description": "POP3 over TLS/SSL.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/995.json"
+    },
+    {
+      "id": 1080,
+      "port": 1080,
+      "service": "socks",
+      "protocol": "TCP",
+      "description": "SOCKS proxy protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/1080.json"
+    },
+    {
+      "id": 1194,
+      "port": 1194,
+      "service": "openvpn",
+      "protocol": "TCP/UDP",
+      "description": "OpenVPN virtual private network.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/1194.json"
+    },
+    {
+      "id": 1433,
+      "port": 1433,
+      "service": "ms-sql-s",
+      "protocol": "TCP",
+      "description": "Microsoft SQL Server database.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/1433.json"
+    },
+    {
+      "id": 1521,
+      "port": 1521,
+      "service": "oracle",
+      "protocol": "TCP",
+      "description": "Oracle database listener.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/1521.json"
+    },
+    {
+      "id": 1723,
+      "port": 1723,
+      "service": "pptp",
+      "protocol": "TCP",
+      "description": "Point-to-Point Tunneling Protocol for VPNs.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/1723.json"
+    },
+    {
+      "id": 2049,
+      "port": 2049,
+      "service": "nfs",
+      "protocol": "TCP/UDP",
+      "description": "Network File System.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/2049.json"
+    },
+    {
+      "id": 3306,
+      "port": 3306,
+      "service": "mysql",
+      "protocol": "TCP",
+      "description": "MySQL database server.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/3306.json"
+    },
+    {
+      "id": 3389,
+      "port": 3389,
+      "service": "rdp",
+      "protocol": "TCP",
+      "description": "Microsoft Remote Desktop Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/3389.json"
+    },
+    {
+      "id": 5060,
+      "port": 5060,
+      "service": "sip",
+      "protocol": "TCP/UDP",
+      "description": "Session Initiation Protocol for VoIP signaling.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/5060.json"
+    },
+    {
+      "id": 5432,
+      "port": 5432,
+      "service": "postgresql",
+      "protocol": "TCP",
+      "description": "PostgreSQL database server.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/5432.json"
+    },
+    {
+      "id": 5672,
+      "port": 5672,
+      "service": "amqp",
+      "protocol": "TCP",
+      "description": "Advanced Message Queuing Protocol.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/5672.json"
+    },
+    {
+      "id": 5900,
+      "port": 5900,
+      "service": "vnc",
+      "protocol": "TCP",
+      "description": "Virtual Network Computing remote desktop.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/5900.json"
+    },
+    {
+      "id": 6379,
+      "port": 6379,
+      "service": "redis",
+      "protocol": "TCP",
+      "description": "Redis in-memory data store.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/6379.json"
+    },
+    {
+      "id": 6667,
+      "port": 6667,
+      "service": "ircd",
+      "protocol": "TCP",
+      "description": "IRC daemon for chat servers.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/6667.json"
+    },
+    {
+      "id": 8080,
+      "port": 8080,
+      "service": "http-alt",
+      "protocol": "TCP",
+      "description": "Alternative HTTP port, often for proxies and web servers.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/8080.json"
+    },
+    {
+      "id": 8443,
+      "port": 8443,
+      "service": "https-alt",
+      "protocol": "TCP",
+      "description": "Alternative HTTPS port.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/8443.json"
+    },
+    {
+      "id": 9200,
+      "port": 9200,
+      "service": "elasticsearch",
+      "protocol": "TCP",
+      "description": "Elasticsearch REST API.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/9200.json"
+    },
+    {
+      "id": 11211,
+      "port": 11211,
+      "service": "memcached",
+      "protocol": "TCP/UDP",
+      "description": "Memcached distributed cache.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/11211.json"
+    },
+    {
+      "id": 27017,
+      "port": 27017,
+      "service": "mongodb",
+      "protocol": "TCP",
+      "description": "MongoDB database server.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/27017.json"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "reticulum",
+  "name": "Reticulum",
+  "abbreviation": "Ret",
+  "meaning": "The Reticle",
+  "quadrant": "SQ1",
+  "area_sq_deg": 113.936,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/reticulum.json"
+}

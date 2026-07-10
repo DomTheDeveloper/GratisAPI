@@ -1,0 +1,15 @@
+{
+  "id": "rabbit",
+  "animal": "Rabbit",
+  "order": 4,
+  "element": "Wood",
+  "yin_yang": "Yin",
+  "traits": "Gentle, elegant, alert",
+  "recent_years": [
+    1987,
+    1999,
+    2011,
+    2023
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/rabbit.json"
+}

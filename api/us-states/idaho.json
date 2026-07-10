@@ -1,0 +1,12 @@
+{
+  "id": "idaho",
+  "name": "Idaho",
+  "abbreviation": "ID",
+  "capital": "Boise",
+  "largest_city": "Boise",
+  "population": 1839106,
+  "area_km2": 216443,
+  "statehood_year": 1890,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/idaho.json"
+}

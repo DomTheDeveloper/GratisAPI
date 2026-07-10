@@ -1,0 +1,9 @@
+{
+  "id": "sapphire",
+  "name": "Sapphire",
+  "color": "Blue",
+  "mohs_hardness": 9.0,
+  "crystal_system": "Trigonal",
+  "type": "Precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/sapphire.json"
+}

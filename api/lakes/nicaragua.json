@@ -1,0 +1,9 @@
+{
+  "id": "nicaragua",
+  "name": "Lake Nicaragua",
+  "area_km2": 8264,
+  "max_depth_m": 26,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/nicaragua.json"
+}

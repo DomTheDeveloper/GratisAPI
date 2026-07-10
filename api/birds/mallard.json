@@ -1,0 +1,11 @@
+{
+  "id": "mallard",
+  "common_name": "Mallard",
+  "scientific_name": "Anas platyrhynchos",
+  "family": "Anatidae",
+  "habitat": "Wetlands, lakes and ponds",
+  "diet": "Omnivore",
+  "wingspan_cm": 90,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/mallard.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "watermelon",
+  "name": "Watermelon",
+  "scientific_name": "Citrullus lanatus",
+  "family": "Cucurbitaceae",
+  "type": "Melon",
+  "color": "Green",
+  "origin_region": "Africa",
+  "calories_per_100g": 30,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/watermelon.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 6,
+  "force": 6,
+  "description": "Strong breeze",
+  "wind_kmh_min": 39,
+  "wind_kmh_max": 49,
+  "conditions": "Large branches move; large waves, some spray.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/6.json"
+}

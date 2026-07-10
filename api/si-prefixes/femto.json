@@ -1,0 +1,8 @@
+{
+  "id": "femto",
+  "name": "femto",
+  "symbol": "f",
+  "base_10": -15,
+  "factor": "1e-15",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/femto.json"
+}

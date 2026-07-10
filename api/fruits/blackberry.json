@@ -1,0 +1,11 @@
+{
+  "id": "blackberry",
+  "name": "Blackberry",
+  "scientific_name": "Rubus fruticosus",
+  "family": "Rosaceae",
+  "type": "Berry",
+  "color": "Black",
+  "origin_region": "Temperate Northern Hemisphere",
+  "calories_per_100g": 43,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/blackberry.json"
+}

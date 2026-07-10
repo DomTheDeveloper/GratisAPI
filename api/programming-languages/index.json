@@ -1,0 +1,694 @@
+{
+  "api": "programming-languages",
+  "title": "Programming Languages",
+  "description": "Popular programming languages with the year they first appeared, paradigm, and typing.",
+  "emoji": "💻",
+  "license": "GPL-2.0-or-later",
+  "count": 50,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/{id}.json"
+  },
+  "fields": [
+    "designed_by",
+    "extension",
+    "id",
+    "name",
+    "paradigm",
+    "typing",
+    "year"
+  ],
+  "results": [
+    {
+      "id": "fortran",
+      "name": "Fortran",
+      "year": 1957,
+      "paradigm": [
+        "Imperative",
+        "Procedural"
+      ],
+      "typing": "Static",
+      "designed_by": "John Backus",
+      "extension": ".f90",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/fortran.json"
+    },
+    {
+      "id": "lisp",
+      "name": "Lisp",
+      "year": 1958,
+      "paradigm": [
+        "Functional",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "John McCarthy",
+      "extension": ".lisp",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/lisp.json"
+    },
+    {
+      "id": "cobol",
+      "name": "COBOL",
+      "year": 1959,
+      "paradigm": [
+        "Imperative",
+        "Procedural"
+      ],
+      "typing": "Static",
+      "designed_by": "CODASYL",
+      "extension": ".cob",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/cobol.json"
+    },
+    {
+      "id": "basic",
+      "name": "BASIC",
+      "year": 1964,
+      "paradigm": [
+        "Imperative",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "John Kemeny and Thomas Kurtz",
+      "extension": ".bas",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/basic.json"
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "year": 1972,
+      "paradigm": [
+        "Imperative",
+        "Procedural"
+      ],
+      "typing": "Static",
+      "designed_by": "Dennis Ritchie",
+      "extension": ".c",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/c.json"
+    },
+    {
+      "id": "prolog",
+      "name": "Prolog",
+      "year": 1972,
+      "paradigm": [
+        "Logic",
+        "Declarative"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Alain Colmerauer",
+      "extension": ".pl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/prolog.json"
+    },
+    {
+      "id": "ml",
+      "name": "ML",
+      "year": 1973,
+      "paradigm": [
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Robin Milner",
+      "extension": ".ml",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ml.json"
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "year": 1974,
+      "paradigm": [
+        "Declarative"
+      ],
+      "typing": "Static",
+      "designed_by": "Donald Chamberlin and Raymond Boyce",
+      "extension": ".sql",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/sql.json"
+    },
+    {
+      "id": "smalltalk",
+      "name": "Smalltalk",
+      "year": 1980,
+      "paradigm": [
+        "Object-oriented"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Alan Kay",
+      "extension": ".st",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/smalltalk.json"
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "year": 1985,
+      "paradigm": [
+        "Object-oriented",
+        "Procedural",
+        "Generic"
+      ],
+      "typing": "Static",
+      "designed_by": "Bjarne Stroustrup",
+      "extension": ".cpp",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/cpp.json"
+    },
+    {
+      "id": "objective-c",
+      "name": "Objective-C",
+      "year": 1984,
+      "paradigm": [
+        "Object-oriented",
+        "Reflective"
+      ],
+      "typing": "Static",
+      "designed_by": "Brad Cox and Tom Love",
+      "extension": ".m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/objective-c.json"
+    },
+    {
+      "id": "erlang",
+      "name": "Erlang",
+      "year": 1986,
+      "paradigm": [
+        "Functional",
+        "Concurrent"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Joe Armstrong",
+      "extension": ".erl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/erlang.json"
+    },
+    {
+      "id": "perl",
+      "name": "Perl",
+      "year": 1987,
+      "paradigm": [
+        "Imperative",
+        "Procedural",
+        "Object-oriented"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Larry Wall",
+      "extension": ".pl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/perl.json"
+    },
+    {
+      "id": "haskell",
+      "name": "Haskell",
+      "year": 1990,
+      "paradigm": [
+        "Functional"
+      ],
+      "typing": "Static",
+      "designed_by": "Simon Peyton Jones et al.",
+      "extension": ".hs",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/haskell.json"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "year": 1991,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative",
+        "Functional"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Guido van Rossum",
+      "extension": ".py",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/python.json"
+    },
+    {
+      "id": "visual-basic",
+      "name": "Visual Basic",
+      "year": 1991,
+      "paradigm": [
+        "Object-oriented",
+        "Event-driven"
+      ],
+      "typing": "Static",
+      "designed_by": "Microsoft",
+      "extension": ".vb",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/visual-basic.json"
+    },
+    {
+      "id": "lua",
+      "name": "Lua",
+      "year": 1993,
+      "paradigm": [
+        "Scripting",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Roberto Ierusalimschy et al.",
+      "extension": ".lua",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/lua.json"
+    },
+    {
+      "id": "r",
+      "name": "R",
+      "year": 1993,
+      "paradigm": [
+        "Functional",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Ross Ihaka and Robert Gentleman",
+      "extension": ".r",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/r.json"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "year": 1995,
+      "paradigm": [
+        "Object-oriented",
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Yukihiro Matsumoto",
+      "extension": ".rb",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ruby.json"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "year": 1995,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative",
+        "Generic"
+      ],
+      "typing": "Static",
+      "designed_by": "James Gosling",
+      "extension": ".java",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/java.json"
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "year": 1995,
+      "paradigm": [
+        "Event-driven",
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Brendan Eich",
+      "extension": ".js",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/javascript.json"
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "year": 1995,
+      "paradigm": [
+        "Imperative",
+        "Object-oriented",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Rasmus Lerdorf",
+      "extension": ".php",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/php.json"
+    },
+    {
+      "id": "ocaml",
+      "name": "OCaml",
+      "year": 1996,
+      "paradigm": [
+        "Functional",
+        "Imperative",
+        "Object-oriented"
+      ],
+      "typing": "Static",
+      "designed_by": "Xavier Leroy et al.",
+      "extension": ".ml",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ocaml.json"
+    },
+    {
+      "id": "csharp",
+      "name": "C#",
+      "year": 2000,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative",
+        "Functional"
+      ],
+      "typing": "Static",
+      "designed_by": "Microsoft",
+      "extension": ".cs",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/csharp.json"
+    },
+    {
+      "id": "d",
+      "name": "D",
+      "year": 2001,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative",
+        "Functional"
+      ],
+      "typing": "Static",
+      "designed_by": "Walter Bright",
+      "extension": ".d",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/d.json"
+    },
+    {
+      "id": "visual-basic-net",
+      "name": "Visual Basic .NET",
+      "year": 2001,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Microsoft",
+      "extension": ".vb",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/visual-basic-net.json"
+    },
+    {
+      "id": "scala",
+      "name": "Scala",
+      "year": 2004,
+      "paradigm": [
+        "Object-oriented",
+        "Functional"
+      ],
+      "typing": "Static",
+      "designed_by": "Martin Odersky",
+      "extension": ".scala",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/scala.json"
+    },
+    {
+      "id": "f-sharp",
+      "name": "F#",
+      "year": 2005,
+      "paradigm": [
+        "Functional",
+        "Object-oriented",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Don Syme (Microsoft)",
+      "extension": ".fs",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/f-sharp.json"
+    },
+    {
+      "id": "powershell",
+      "name": "PowerShell",
+      "year": 2006,
+      "paradigm": [
+        "Imperative",
+        "Object-oriented",
+        "Scripting"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Jeffrey Snover (Microsoft)",
+      "extension": ".ps1",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/powershell.json"
+    },
+    {
+      "id": "clojure",
+      "name": "Clojure",
+      "year": 2007,
+      "paradigm": [
+        "Functional",
+        "Concurrent"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Rich Hickey",
+      "extension": ".clj",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/clojure.json"
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "year": 2009,
+      "paradigm": [
+        "Imperative",
+        "Concurrent",
+        "Procedural"
+      ],
+      "typing": "Static",
+      "designed_by": "Robert Griesemer, Rob Pike, Ken Thompson",
+      "extension": ".go",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/go.json"
+    },
+    {
+      "id": "coffeescript",
+      "name": "CoffeeScript",
+      "year": 2009,
+      "paradigm": [
+        "Functional",
+        "Imperative",
+        "Object-oriented"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Jeremy Ashkenas",
+      "extension": ".coffee",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/coffeescript.json"
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "year": 2010,
+      "paradigm": [
+        "Functional",
+        "Concurrent",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Graydon Hoare",
+      "extension": ".rs",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/rust.json"
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "year": 2011,
+      "paradigm": [
+        "Object-oriented",
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "JetBrains",
+      "extension": ".kt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/kotlin.json"
+    },
+    {
+      "id": "dart",
+      "name": "Dart",
+      "year": 2011,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative",
+        "Functional"
+      ],
+      "typing": "Static",
+      "designed_by": "Google",
+      "extension": ".dart",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/dart.json"
+    },
+    {
+      "id": "elixir",
+      "name": "Elixir",
+      "year": 2011,
+      "paradigm": [
+        "Functional",
+        "Concurrent"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Jose Valim",
+      "extension": ".ex",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/elixir.json"
+    },
+    {
+      "id": "julia",
+      "name": "Julia",
+      "year": 2012,
+      "paradigm": [
+        "Multi-paradigm",
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Jeff Bezanson et al.",
+      "extension": ".jl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/julia.json"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "year": 2012,
+      "paradigm": [
+        "Object-oriented",
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Microsoft",
+      "extension": ".ts",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/typescript.json"
+    },
+    {
+      "id": "swift",
+      "name": "Swift",
+      "year": 2014,
+      "paradigm": [
+        "Object-oriented",
+        "Functional",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Apple",
+      "extension": ".swift",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/swift.json"
+    },
+    {
+      "id": "crystal",
+      "name": "Crystal",
+      "year": 2014,
+      "paradigm": [
+        "Object-oriented",
+        "Imperative"
+      ],
+      "typing": "Static",
+      "designed_by": "Ary Borenszweig et al.",
+      "extension": ".cr",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/crystal.json"
+    },
+    {
+      "id": "nim",
+      "name": "Nim",
+      "year": 2008,
+      "paradigm": [
+        "Imperative",
+        "Functional",
+        "Object-oriented"
+      ],
+      "typing": "Static",
+      "designed_by": "Andreas Rumpf",
+      "extension": ".nim",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/nim.json"
+    },
+    {
+      "id": "groovy",
+      "name": "Groovy",
+      "year": 2003,
+      "paradigm": [
+        "Object-oriented",
+        "Scripting"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "James Strachan",
+      "extension": ".groovy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/groovy.json"
+    },
+    {
+      "id": "scheme",
+      "name": "Scheme",
+      "year": 1975,
+      "paradigm": [
+        "Functional",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Guy L. Steele and Gerald Jay Sussman",
+      "extension": ".scm",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/scheme.json"
+    },
+    {
+      "id": "ada",
+      "name": "Ada",
+      "year": 1980,
+      "paradigm": [
+        "Imperative",
+        "Object-oriented",
+        "Concurrent"
+      ],
+      "typing": "Static",
+      "designed_by": "Jean Ichbiah",
+      "extension": ".adb",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ada.json"
+    },
+    {
+      "id": "pascal",
+      "name": "Pascal",
+      "year": 1970,
+      "paradigm": [
+        "Imperative",
+        "Procedural",
+        "Structured"
+      ],
+      "typing": "Static",
+      "designed_by": "Niklaus Wirth",
+      "extension": ".pas",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/pascal.json"
+    },
+    {
+      "id": "matlab",
+      "name": "MATLAB",
+      "year": 1984,
+      "paradigm": [
+        "Imperative",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "Cleve Moler",
+      "extension": ".m",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/matlab.json"
+    },
+    {
+      "id": "assembly",
+      "name": "Assembly",
+      "year": 1947,
+      "paradigm": [
+        "Imperative",
+        "Low-level"
+      ],
+      "typing": "Static",
+      "designed_by": "Kathleen Booth",
+      "extension": ".asm",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/assembly.json"
+    },
+    {
+      "id": "tcl",
+      "name": "Tcl",
+      "year": 1988,
+      "paradigm": [
+        "Scripting",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "John Ousterhout",
+      "extension": ".tcl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/tcl.json"
+    },
+    {
+      "id": "racket",
+      "name": "Racket",
+      "year": 1995,
+      "paradigm": [
+        "Functional",
+        "Procedural"
+      ],
+      "typing": "Dynamic",
+      "designed_by": "PLT Inc.",
+      "extension": ".rkt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/racket.json"
+    },
+    {
+      "id": "zig",
+      "name": "Zig",
+      "year": 2016,
+      "paradigm": [
+        "Imperative",
+        "Procedural"
+      ],
+      "typing": "Static",
+      "designed_by": "Andrew Kelley",
+      "extension": ".zig",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/zig.json"
+    }
+  ]
+}

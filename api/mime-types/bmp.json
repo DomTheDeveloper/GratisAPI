@@ -1,0 +1,10 @@
+{
+  "id": "bmp",
+  "mime_type": "image/bmp",
+  "name": "Bitmap Image",
+  "category": "image",
+  "extensions": [
+    ".bmp"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/bmp.json"
+}

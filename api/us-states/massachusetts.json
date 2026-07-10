@@ -1,0 +1,12 @@
+{
+  "id": "massachusetts",
+  "name": "Massachusetts",
+  "abbreviation": "MA",
+  "capital": "Boston",
+  "largest_city": "Boston",
+  "population": 7029917,
+  "area_km2": 27336,
+  "statehood_year": 1788,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/massachusetts.json"
+}

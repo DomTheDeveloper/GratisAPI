@@ -1,0 +1,10 @@
+{
+  "id": "xlsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "name": "Microsoft Excel",
+  "category": "application",
+  "extensions": [
+    ".xlsx"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xlsx.json"
+}

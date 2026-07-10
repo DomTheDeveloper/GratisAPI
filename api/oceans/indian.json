@@ -1,0 +1,9 @@
+{
+  "id": "indian",
+  "name": "Indian Ocean",
+  "area_km2": 70560000,
+  "avg_depth_m": 3741,
+  "max_depth_m": 7290,
+  "deepest_point": "Java Trench (Sunda Trench)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/indian.json"
+}

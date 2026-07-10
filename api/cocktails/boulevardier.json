@@ -1,0 +1,9 @@
+{
+  "id": "boulevardier",
+  "name": "Boulevardier",
+  "base_spirit": "Whiskey",
+  "type": "Spirit-forward",
+  "glass": "Rocks",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/boulevardier.json"
+}

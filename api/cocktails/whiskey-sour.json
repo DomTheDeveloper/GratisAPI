@@ -1,0 +1,9 @@
+{
+  "id": "whiskey-sour",
+  "name": "Whiskey Sour",
+  "base_spirit": "Whiskey",
+  "type": "Sour",
+  "glass": "Rocks",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/whiskey-sour.json"
+}

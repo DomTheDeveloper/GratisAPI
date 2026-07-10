@@ -1,0 +1,9 @@
+{
+  "id": "gacrux",
+  "name": "Gacrux",
+  "constellation": "Crux",
+  "apparent_magnitude": 1.63,
+  "distance_ly": 88.6,
+  "spectral_type": "M3.5III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/gacrux.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vn",
+  "name": "Vietnam",
+  "alpha2": "VN",
+  "alpha3": "VNM",
+  "capital": "Hanoi",
+  "continent": "Asia",
+  "currency_code": "VND",
+  "currency": "Dong",
+  "population_millions": 98,
+  "flag_emoji": "🇻🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/vn.json"
+}

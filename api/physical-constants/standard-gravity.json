@@ -1,0 +1,9 @@
+{
+  "id": "standard-gravity",
+  "name": "Standard acceleration of gravity",
+  "symbol": "g_n",
+  "value": 9.80665,
+  "unit": "m/s^2",
+  "category": "Adopted",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/standard-gravity.json"
+}

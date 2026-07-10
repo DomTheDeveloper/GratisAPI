@@ -1,0 +1,13 @@
+{
+  "id": "ec",
+  "name": "Ecuador",
+  "alpha2": "EC",
+  "alpha3": "ECU",
+  "capital": "Quito",
+  "continent": "South America",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 18,
+  "flag_emoji": "🇪🇨",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ec.json"
+}

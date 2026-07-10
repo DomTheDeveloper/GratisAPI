@@ -1,0 +1,8 @@
+{
+  "id": 428,
+  "code": 428,
+  "message": "Precondition Required",
+  "category": "Client Error",
+  "description": "The origin server requires the request to be conditional.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/428.json"
+}

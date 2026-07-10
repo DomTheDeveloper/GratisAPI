@@ -1,0 +1,11 @@
+{
+  "id": "fig",
+  "name": "Fig",
+  "scientific_name": "Ficus carica",
+  "family": "Moraceae",
+  "type": "Tropical",
+  "color": "Purple",
+  "origin_region": "Middle East and Mediterranean",
+  "calories_per_100g": 74,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/fig.json"
+}

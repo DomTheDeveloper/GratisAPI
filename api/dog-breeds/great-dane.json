@@ -1,0 +1,10 @@
+{
+  "id": "great-dane",
+  "name": "Great Dane",
+  "group": "Working",
+  "origin": "Germany",
+  "size": "Large",
+  "life_expectancy_years": "7-10",
+  "temperament": "Friendly, patient and dependable",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/great-dane.json"
+}

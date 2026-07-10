@@ -1,0 +1,12 @@
+{
+  "id": "leopard-shark",
+  "common_name": "Leopard Shark",
+  "scientific_name": "Triakis semifasciata",
+  "family": "Triakidae",
+  "max_length_m": 1.9,
+  "habitat": "Shallow temperate bays and estuaries",
+  "diet": "Carnivore",
+  "conservation_status": "Least Concern",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/leopard-shark.json"
+}

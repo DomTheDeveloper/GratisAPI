@@ -1,0 +1,12 @@
+{
+  "id": "wyoming",
+  "name": "Wyoming",
+  "abbreviation": "WY",
+  "capital": "Cheyenne",
+  "largest_city": "Cheyenne",
+  "population": 576851,
+  "area_km2": 253335,
+  "statehood_year": 1890,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/wyoming.json"
+}

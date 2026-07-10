@@ -1,0 +1,10 @@
+{
+  "id": "daisy",
+  "name": "Common Daisy",
+  "scientific_name": "Bellis perennis",
+  "family": "Asteraceae",
+  "color": "White",
+  "bloom_season": "Spring",
+  "meaning": "Innocence",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/daisy.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 16,
+  "number": 16,
+  "name": "Abraham Lincoln",
+  "party": "Republican",
+  "term_start": 1861,
+  "term_end": 1865,
+  "vice_president": "Hannibal Hamlin",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/16.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tigris",
+  "name": "Tigris",
+  "length_km": 1850,
+  "continent": "Asia",
+  "outflow": "Persian Gulf",
+  "countries": "Turkey, Iraq, Syria",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/tigris.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "caipirinha",
+  "name": "Caipirinha",
+  "base_spirit": "Rum",
+  "type": "Sour",
+  "glass": "Rocks",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/caipirinha.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "gin-and-tonic",
+  "name": "Gin and Tonic",
+  "base_spirit": "Gin",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/gin-and-tonic.json"
+}

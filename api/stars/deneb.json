@@ -1,0 +1,9 @@
+{
+  "id": "deneb",
+  "name": "Deneb",
+  "constellation": "Cygnus",
+  "apparent_magnitude": 1.25,
+  "distance_ly": 2615.0,
+  "spectral_type": "A2Ia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/deneb.json"
+}

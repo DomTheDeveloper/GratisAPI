@@ -1,0 +1,14 @@
+{
+  "id": "pascal",
+  "name": "Pascal",
+  "year": 1970,
+  "paradigm": [
+    "Imperative",
+    "Procedural",
+    "Structured"
+  ],
+  "typing": "Static",
+  "designed_by": "Niklaus Wirth",
+  "extension": ".pas",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/pascal.json"
+}

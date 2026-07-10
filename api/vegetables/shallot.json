@@ -1,0 +1,10 @@
+{
+  "id": "shallot",
+  "name": "Shallot",
+  "scientific_name": "Allium cepa",
+  "family": "Amaryllidaceae",
+  "type": "Bulb",
+  "color": "Purple",
+  "calories_per_100g": 72,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/shallot.json"
+}

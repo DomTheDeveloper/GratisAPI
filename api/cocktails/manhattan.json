@@ -1,0 +1,9 @@
+{
+  "id": "manhattan",
+  "name": "Manhattan",
+  "base_spirit": "Whiskey",
+  "type": "Spirit-forward",
+  "glass": "Coupe",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/manhattan.json"
+}

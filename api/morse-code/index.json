@@ -1,0 +1,399 @@
+{
+  "api": "morse-code",
+  "title": "Morse Code",
+  "description": "International Morse code for A-Z, 0-9 and common punctuation.",
+  "emoji": "📡",
+  "license": "GPL-2.0-or-later",
+  "count": 54,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/{id}.json"
+  },
+  "fields": [
+    "character",
+    "id",
+    "morse",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "a",
+      "character": "A",
+      "morse": ".-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/a.json"
+    },
+    {
+      "id": "b",
+      "character": "B",
+      "morse": "-...",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/b.json"
+    },
+    {
+      "id": "c",
+      "character": "C",
+      "morse": "-.-.",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/c.json"
+    },
+    {
+      "id": "d",
+      "character": "D",
+      "morse": "-..",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/d.json"
+    },
+    {
+      "id": "e",
+      "character": "E",
+      "morse": ".",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/e.json"
+    },
+    {
+      "id": "f",
+      "character": "F",
+      "morse": "..-.",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/f.json"
+    },
+    {
+      "id": "g",
+      "character": "G",
+      "morse": "--.",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/g.json"
+    },
+    {
+      "id": "h",
+      "character": "H",
+      "morse": "....",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/h.json"
+    },
+    {
+      "id": "i",
+      "character": "I",
+      "morse": "..",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/i.json"
+    },
+    {
+      "id": "j",
+      "character": "J",
+      "morse": ".---",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/j.json"
+    },
+    {
+      "id": "k",
+      "character": "K",
+      "morse": "-.-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/k.json"
+    },
+    {
+      "id": "l",
+      "character": "L",
+      "morse": ".-..",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/l.json"
+    },
+    {
+      "id": "m",
+      "character": "M",
+      "morse": "--",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/m.json"
+    },
+    {
+      "id": "n",
+      "character": "N",
+      "morse": "-.",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/n.json"
+    },
+    {
+      "id": "o",
+      "character": "O",
+      "morse": "---",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/o.json"
+    },
+    {
+      "id": "p",
+      "character": "P",
+      "morse": ".--.",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/p.json"
+    },
+    {
+      "id": "q",
+      "character": "Q",
+      "morse": "--.-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/q.json"
+    },
+    {
+      "id": "r",
+      "character": "R",
+      "morse": ".-.",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/r.json"
+    },
+    {
+      "id": "s",
+      "character": "S",
+      "morse": "...",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/s.json"
+    },
+    {
+      "id": "t",
+      "character": "T",
+      "morse": "-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/t.json"
+    },
+    {
+      "id": "u",
+      "character": "U",
+      "morse": "..-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/u.json"
+    },
+    {
+      "id": "v",
+      "character": "V",
+      "morse": "...-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/v.json"
+    },
+    {
+      "id": "w",
+      "character": "W",
+      "morse": ".--",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/w.json"
+    },
+    {
+      "id": "x",
+      "character": "X",
+      "morse": "-..-",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/x.json"
+    },
+    {
+      "id": "y",
+      "character": "Y",
+      "morse": "-.--",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/y.json"
+    },
+    {
+      "id": "z",
+      "character": "Z",
+      "morse": "--..",
+      "type": "letter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/z.json"
+    },
+    {
+      "id": "0",
+      "character": "0",
+      "morse": "-----",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/0.json"
+    },
+    {
+      "id": "1",
+      "character": "1",
+      "morse": ".----",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/1.json"
+    },
+    {
+      "id": "2",
+      "character": "2",
+      "morse": "..---",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/2.json"
+    },
+    {
+      "id": "3",
+      "character": "3",
+      "morse": "...--",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/3.json"
+    },
+    {
+      "id": "4",
+      "character": "4",
+      "morse": "....-",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/4.json"
+    },
+    {
+      "id": "5",
+      "character": "5",
+      "morse": ".....",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/5.json"
+    },
+    {
+      "id": "6",
+      "character": "6",
+      "morse": "-....",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/6.json"
+    },
+    {
+      "id": "7",
+      "character": "7",
+      "morse": "--...",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/7.json"
+    },
+    {
+      "id": "8",
+      "character": "8",
+      "morse": "---..",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/8.json"
+    },
+    {
+      "id": "9",
+      "character": "9",
+      "morse": "----.",
+      "type": "digit",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/9.json"
+    },
+    {
+      "id": "period",
+      "character": ".",
+      "morse": ".-.-.-",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/period.json"
+    },
+    {
+      "id": "comma",
+      "character": ",",
+      "morse": "--..--",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/comma.json"
+    },
+    {
+      "id": "question_mark",
+      "character": "?",
+      "morse": "..--..",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/question_mark.json"
+    },
+    {
+      "id": "apostrophe",
+      "character": "'",
+      "morse": ".----.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/apostrophe.json"
+    },
+    {
+      "id": "exclamation_mark",
+      "character": "!",
+      "morse": "-.-.--",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/exclamation_mark.json"
+    },
+    {
+      "id": "slash",
+      "character": "/",
+      "morse": "-..-.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/slash.json"
+    },
+    {
+      "id": "open_parenthesis",
+      "character": "(",
+      "morse": "-.--.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/open_parenthesis.json"
+    },
+    {
+      "id": "close_parenthesis",
+      "character": ")",
+      "morse": "-.--.-",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/close_parenthesis.json"
+    },
+    {
+      "id": "ampersand",
+      "character": "&",
+      "morse": ".-...",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/ampersand.json"
+    },
+    {
+      "id": "colon",
+      "character": ":",
+      "morse": "---...",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/colon.json"
+    },
+    {
+      "id": "semicolon",
+      "character": ";",
+      "morse": "-.-.-.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/semicolon.json"
+    },
+    {
+      "id": "equals",
+      "character": "=",
+      "morse": "-...-",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/equals.json"
+    },
+    {
+      "id": "plus",
+      "character": "+",
+      "morse": ".-.-.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/plus.json"
+    },
+    {
+      "id": "hyphen",
+      "character": "-",
+      "morse": "-....-",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/hyphen.json"
+    },
+    {
+      "id": "underscore",
+      "character": "_",
+      "morse": "..--.-",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/underscore.json"
+    },
+    {
+      "id": "quotation_mark",
+      "character": "\"",
+      "morse": ".-..-.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/quotation_mark.json"
+    },
+    {
+      "id": "dollar_sign",
+      "character": "$",
+      "morse": "...-..-",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/dollar_sign.json"
+    },
+    {
+      "id": "at_sign",
+      "character": "@",
+      "morse": ".--.-.",
+      "type": "punctuation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/at_sign.json"
+    }
+  ]
+}

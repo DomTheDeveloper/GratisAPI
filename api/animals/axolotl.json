@@ -1,0 +1,15 @@
+{
+  "id": "axolotl",
+  "common_name": "Axolotl",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Amphibia",
+  "order": "Urodela",
+  "family": "Ambystomatidae",
+  "genus": "Ambystoma",
+  "species": "Ambystoma mexicanum",
+  "conservation_status": "Critically Endangered",
+  "habitat": "Lake complex of Xochimilco, Mexico",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/axolotl.json"
+}

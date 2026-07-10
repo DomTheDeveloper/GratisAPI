@@ -1,0 +1,9 @@
+{
+  "id": "pyxis",
+  "name": "Pyxis",
+  "abbreviation": "Pyx",
+  "meaning": "The Mariner's Compass",
+  "quadrant": "SQ2",
+  "area_sq_deg": 220.833,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/pyxis.json"
+}

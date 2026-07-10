@@ -1,0 +1,9 @@
+{
+  "id": "pina-colada",
+  "name": "Pina Colada",
+  "base_spirit": "Rum",
+  "type": "Tiki",
+  "glass": "Hurricane",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/pina-colada.json"
+}

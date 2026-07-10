@@ -1,0 +1,10 @@
+{
+  "id": "epub",
+  "mime_type": "application/epub+zip",
+  "name": "EPUB E-Book",
+  "category": "application",
+  "extensions": [
+    ".epub"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/epub.json"
+}

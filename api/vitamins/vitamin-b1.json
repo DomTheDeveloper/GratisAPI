@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b1",
+  "name": "Vitamin B1",
+  "chemical_name": "Thiamine",
+  "solubility": "Water",
+  "function": "Energy metabolism and nerve function",
+  "deficiency_disease": "Beriberi",
+  "food_sources": [
+    "Whole grains",
+    "Pork",
+    "Legumes"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b1.json"
+}

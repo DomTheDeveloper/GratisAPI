@@ -1,0 +1,11 @@
+{
+  "id": "african-grey-parrot",
+  "common_name": "African Grey Parrot",
+  "scientific_name": "Psittacus erithacus",
+  "family": "Psittacidae",
+  "habitat": "Tropical rainforest",
+  "diet": "Herbivore",
+  "wingspan_cm": 52,
+  "conservation_status": "Endangered",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/african-grey-parrot.json"
+}

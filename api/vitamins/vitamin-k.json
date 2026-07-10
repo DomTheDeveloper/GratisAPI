@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-k",
+  "name": "Vitamin K",
+  "chemical_name": "Phylloquinone",
+  "solubility": "Fat",
+  "function": "Blood clotting and bone metabolism",
+  "deficiency_disease": "Excessive bleeding",
+  "food_sources": [
+    "Leafy greens",
+    "Broccoli",
+    "Natto"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-k.json"
+}

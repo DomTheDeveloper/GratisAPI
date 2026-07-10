@@ -1,0 +1,15 @@
+{
+  "id": "western-gorilla",
+  "common_name": "Western Gorilla",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hominidae",
+  "genus": "Gorilla",
+  "species": "Gorilla gorilla",
+  "conservation_status": "Critically Endangered",
+  "habitat": "Tropical forests of Central Africa",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/western-gorilla.json"
+}

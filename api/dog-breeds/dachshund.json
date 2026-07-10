@@ -1,0 +1,10 @@
+{
+  "id": "dachshund",
+  "name": "Dachshund",
+  "group": "Hound",
+  "origin": "Germany",
+  "size": "Small",
+  "life_expectancy_years": "12-16",
+  "temperament": "Spunky, curious and friendly",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/dachshund.json"
+}

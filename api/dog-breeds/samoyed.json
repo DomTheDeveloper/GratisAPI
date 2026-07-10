@@ -1,0 +1,10 @@
+{
+  "id": "samoyed",
+  "name": "Samoyed",
+  "group": "Working",
+  "origin": "Russia",
+  "size": "Medium",
+  "life_expectancy_years": "12-14",
+  "temperament": "Adaptable, friendly and gentle",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/samoyed.json"
+}

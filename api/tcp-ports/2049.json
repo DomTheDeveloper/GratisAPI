@@ -1,0 +1,8 @@
+{
+  "id": 2049,
+  "port": 2049,
+  "service": "nfs",
+  "protocol": "TCP/UDP",
+  "description": "Network File System.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/2049.json"
+}

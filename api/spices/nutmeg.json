@@ -1,0 +1,9 @@
+{
+  "id": "nutmeg",
+  "name": "Nutmeg",
+  "plant_part": "Seed",
+  "origin_region": "Indonesia",
+  "flavor": "Warm, nutty",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/nutmeg.json"
+}

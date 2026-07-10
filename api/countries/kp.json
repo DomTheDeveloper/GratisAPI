@@ -1,0 +1,13 @@
+{
+  "id": "kp",
+  "name": "North Korea",
+  "alpha2": "KP",
+  "alpha3": "PRK",
+  "capital": "Pyongyang",
+  "continent": "Asia",
+  "currency_code": "KPW",
+  "currency": "North Korean Won",
+  "population_millions": 26,
+  "flag_emoji": "🇰🇵",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kp.json"
+}

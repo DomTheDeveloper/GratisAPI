@@ -1,0 +1,8 @@
+{
+  "id": "CZK",
+  "code": "CZK",
+  "name": "Czech Koruna",
+  "symbol": "Kč",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CZK.json"
+}

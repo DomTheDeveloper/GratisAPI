@@ -1,0 +1,9 @@
+{
+  "id": "queen-of-clubs",
+  "rank": "Queen",
+  "suit": "Clubs",
+  "color": "Black",
+  "value": 12,
+  "symbol": "♣",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/queen-of-clubs.json"
+}

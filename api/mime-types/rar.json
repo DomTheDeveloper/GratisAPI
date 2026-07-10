@@ -1,0 +1,10 @@
+{
+  "id": "rar",
+  "mime_type": "application/vnd.rar",
+  "name": "RAR Archive",
+  "category": "application",
+  "extensions": [
+    ".rar"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/rar.json"
+}

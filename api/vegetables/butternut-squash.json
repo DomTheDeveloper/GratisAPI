@@ -1,0 +1,10 @@
+{
+  "id": "butternut-squash",
+  "name": "Butternut Squash",
+  "scientific_name": "Cucurbita moschata",
+  "family": "Cucurbitaceae",
+  "type": "Fruit",
+  "color": "Orange",
+  "calories_per_100g": 45,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/butternut-squash.json"
+}

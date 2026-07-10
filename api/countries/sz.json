@@ -1,0 +1,13 @@
+{
+  "id": "sz",
+  "name": "Eswatini",
+  "alpha2": "SZ",
+  "alpha3": "SWZ",
+  "capital": "Mbabane",
+  "continent": "Africa",
+  "currency_code": "SZL",
+  "currency": "Lilangeni",
+  "population_millions": 1,
+  "flag_emoji": "🇸🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sz.json"
+}

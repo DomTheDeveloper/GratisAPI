@@ -1,0 +1,10 @@
+{
+  "id": "cucumber",
+  "name": "Cucumber",
+  "scientific_name": "Cucumis sativus",
+  "family": "Cucurbitaceae",
+  "type": "Fruit",
+  "color": "Green",
+  "calories_per_100g": 15,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cucumber.json"
+}

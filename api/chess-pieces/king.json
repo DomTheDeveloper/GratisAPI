@@ -1,0 +1,9 @@
+{
+  "id": "king",
+  "name": "King",
+  "symbol_white": "♔",
+  "symbol_black": "♚",
+  "value": null,
+  "movement": "One square in any direction",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/king.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ganges",
+  "name": "Ganges",
+  "length_km": 2525,
+  "continent": "Asia",
+  "outflow": "Bay of Bengal",
+  "countries": "India, Bangladesh",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/ganges.json"
+}

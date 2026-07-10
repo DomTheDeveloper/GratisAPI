@@ -1,0 +1,9 @@
+{
+  "id": "crux",
+  "name": "Crux",
+  "abbreviation": "Cru",
+  "meaning": "The Southern Cross",
+  "quadrant": "SQ3",
+  "area_sq_deg": 68.447,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/crux.json"
+}

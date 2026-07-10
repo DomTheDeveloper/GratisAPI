@@ -1,0 +1,13 @@
+{
+  "id": "fortran",
+  "name": "Fortran",
+  "year": 1957,
+  "paradigm": [
+    "Imperative",
+    "Procedural"
+  ],
+  "typing": "Static",
+  "designed_by": "John Backus",
+  "extension": ".f90",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/fortran.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bz",
+  "name": "Belize",
+  "alpha2": "BZ",
+  "alpha3": "BLZ",
+  "capital": "Belmopan",
+  "continent": "North America",
+  "currency_code": "BZD",
+  "currency": "Belize Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇧🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bz.json"
+}

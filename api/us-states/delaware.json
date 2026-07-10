@@ -1,0 +1,12 @@
+{
+  "id": "delaware",
+  "name": "Delaware",
+  "abbreviation": "DE",
+  "capital": "Dover",
+  "largest_city": "Wilmington",
+  "population": 989948,
+  "area_km2": 6446,
+  "statehood_year": 1787,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/delaware.json"
+}

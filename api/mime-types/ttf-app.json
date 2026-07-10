@@ -1,0 +1,11 @@
+{
+  "id": "ttf-app",
+  "mime_type": "application/font-sfnt",
+  "name": "SFNT Font",
+  "category": "application",
+  "extensions": [
+    ".ttf",
+    ".otf"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ttf-app.json"
+}

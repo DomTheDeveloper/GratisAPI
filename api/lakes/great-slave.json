@@ -1,0 +1,9 @@
+{
+  "id": "great-slave",
+  "name": "Great Slave Lake",
+  "area_km2": 27000,
+  "max_depth_m": 614,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/great-slave.json"
+}

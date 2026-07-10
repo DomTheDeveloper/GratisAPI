@@ -1,0 +1,13 @@
+{
+  "id": "crystal",
+  "name": "Crystal",
+  "year": 2014,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative"
+  ],
+  "typing": "Static",
+  "designed_by": "Ary Borenszweig et al.",
+  "extension": ".cr",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/crystal.json"
+}

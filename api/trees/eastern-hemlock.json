@@ -1,0 +1,10 @@
+{
+  "id": "eastern-hemlock",
+  "common_name": "Eastern Hemlock",
+  "scientific_name": "Tsuga canadensis",
+  "family": "Pinaceae",
+  "type": "Coniferous",
+  "max_height_m": 50,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/eastern-hemlock.json"
+}

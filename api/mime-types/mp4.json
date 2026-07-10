@@ -1,0 +1,10 @@
+{
+  "id": "mp4",
+  "mime_type": "video/mp4",
+  "name": "MP4 Video",
+  "category": "video",
+  "extensions": [
+    ".mp4"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/mp4.json"
+}

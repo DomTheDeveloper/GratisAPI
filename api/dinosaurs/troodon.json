@@ -1,0 +1,11 @@
+{
+  "id": "troodon",
+  "name": "Troodon",
+  "period": "Late Cretaceous",
+  "diet": "Omnivore",
+  "length_m": 2.4,
+  "weight_kg": 50,
+  "region": "Western North America",
+  "meaning": "Wounding tooth",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/troodon.json"
+}

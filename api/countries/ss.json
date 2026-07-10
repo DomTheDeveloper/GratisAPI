@@ -1,0 +1,13 @@
+{
+  "id": "ss",
+  "name": "South Sudan",
+  "alpha2": "SS",
+  "alpha3": "SSD",
+  "capital": "Juba",
+  "continent": "Africa",
+  "currency_code": "SSP",
+  "currency": "South Sudanese Pound",
+  "population_millions": 11,
+  "flag_emoji": "🇸🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ss.json"
+}

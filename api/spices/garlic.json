@@ -1,0 +1,9 @@
+{
+  "id": "garlic",
+  "name": "Garlic",
+  "plant_part": "Bulb",
+  "origin_region": "Central Asia",
+  "flavor": "Pungent, savory",
+  "heat_level": "Mild",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/garlic.json"
+}

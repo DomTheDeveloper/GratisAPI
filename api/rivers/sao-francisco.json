@@ -1,0 +1,9 @@
+{
+  "id": "sao-francisco",
+  "name": "Sao Francisco",
+  "length_km": 2900,
+  "continent": "South America",
+  "outflow": "Atlantic Ocean",
+  "countries": "Brazil",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/sao-francisco.json"
+}

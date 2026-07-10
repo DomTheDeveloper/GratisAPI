@@ -1,0 +1,9 @@
+{
+  "id": "procyon",
+  "name": "Procyon",
+  "constellation": "Canis Minor",
+  "apparent_magnitude": 0.34,
+  "distance_ly": 11.5,
+  "spectral_type": "F5IV-V",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/procyon.json"
+}

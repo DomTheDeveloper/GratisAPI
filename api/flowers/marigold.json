@@ -1,0 +1,10 @@
+{
+  "id": "marigold",
+  "name": "Marigold",
+  "scientific_name": "Tagetes",
+  "family": "Asteraceae",
+  "color": "Orange",
+  "bloom_season": "Summer",
+  "meaning": "Grief",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/marigold.json"
+}

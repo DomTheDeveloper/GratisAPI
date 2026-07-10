@@ -1,0 +1,13 @@
+{
+  "id": "li",
+  "name": "Liechtenstein",
+  "alpha2": "LI",
+  "alpha3": "LIE",
+  "capital": "Vaduz",
+  "continent": "Europe",
+  "currency_code": "CHF",
+  "currency": "Swiss Franc",
+  "population_millions": 1,
+  "flag_emoji": "🇱🇮",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/li.json"
+}

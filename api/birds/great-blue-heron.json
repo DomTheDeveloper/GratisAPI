@@ -1,0 +1,11 @@
+{
+  "id": "great-blue-heron",
+  "common_name": "Great Blue Heron",
+  "scientific_name": "Ardea herodias",
+  "family": "Ardeidae",
+  "habitat": "Wetlands and shorelines",
+  "diet": "Carnivore",
+  "wingspan_cm": 180,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/great-blue-heron.json"
+}

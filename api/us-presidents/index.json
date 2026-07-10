@@ -1,0 +1,484 @@
+{
+  "api": "us-presidents",
+  "title": "US Presidents",
+  "description": "Presidents of the United States from Washington through Biden.",
+  "emoji": "🇺🇸",
+  "license": "GPL-2.0-or-later",
+  "count": 46,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/{id}.json"
+  },
+  "fields": [
+    "id",
+    "name",
+    "number",
+    "party",
+    "term_end",
+    "term_start",
+    "vice_president"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "number": 1,
+      "name": "George Washington",
+      "party": "Unaffiliated",
+      "term_start": 1789,
+      "term_end": 1797,
+      "vice_president": "John Adams",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/1.json"
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "name": "John Adams",
+      "party": "Federalist",
+      "term_start": 1797,
+      "term_end": 1801,
+      "vice_president": "Thomas Jefferson",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/2.json"
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "name": "Thomas Jefferson",
+      "party": "Democratic-Republican",
+      "term_start": 1801,
+      "term_end": 1809,
+      "vice_president": "Aaron Burr",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/3.json"
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "name": "James Madison",
+      "party": "Democratic-Republican",
+      "term_start": 1809,
+      "term_end": 1817,
+      "vice_president": "George Clinton",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/4.json"
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "name": "James Monroe",
+      "party": "Democratic-Republican",
+      "term_start": 1817,
+      "term_end": 1825,
+      "vice_president": "Daniel D. Tompkins",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/5.json"
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "name": "John Quincy Adams",
+      "party": "Democratic-Republican",
+      "term_start": 1825,
+      "term_end": 1829,
+      "vice_president": "John C. Calhoun",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/6.json"
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "name": "Andrew Jackson",
+      "party": "Democratic",
+      "term_start": 1829,
+      "term_end": 1837,
+      "vice_president": "Martin Van Buren",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/7.json"
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "name": "Martin Van Buren",
+      "party": "Democratic",
+      "term_start": 1837,
+      "term_end": 1841,
+      "vice_president": "Richard Mentor Johnson",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/8.json"
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "name": "William Henry Harrison",
+      "party": "Whig",
+      "term_start": 1841,
+      "term_end": 1841,
+      "vice_president": "John Tyler",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/9.json"
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "name": "John Tyler",
+      "party": "Whig",
+      "term_start": 1841,
+      "term_end": 1845,
+      "vice_president": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/10.json"
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "name": "James K. Polk",
+      "party": "Democratic",
+      "term_start": 1845,
+      "term_end": 1849,
+      "vice_president": "George M. Dallas",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/11.json"
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "name": "Zachary Taylor",
+      "party": "Whig",
+      "term_start": 1849,
+      "term_end": 1850,
+      "vice_president": "Millard Fillmore",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/12.json"
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "name": "Millard Fillmore",
+      "party": "Whig",
+      "term_start": 1850,
+      "term_end": 1853,
+      "vice_president": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/13.json"
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "name": "Franklin Pierce",
+      "party": "Democratic",
+      "term_start": 1853,
+      "term_end": 1857,
+      "vice_president": "William R. King",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/14.json"
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "name": "James Buchanan",
+      "party": "Democratic",
+      "term_start": 1857,
+      "term_end": 1861,
+      "vice_president": "John C. Breckinridge",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/15.json"
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "name": "Abraham Lincoln",
+      "party": "Republican",
+      "term_start": 1861,
+      "term_end": 1865,
+      "vice_president": "Hannibal Hamlin",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/16.json"
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "name": "Andrew Johnson",
+      "party": "Democratic",
+      "term_start": 1865,
+      "term_end": 1869,
+      "vice_president": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/17.json"
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "name": "Ulysses S. Grant",
+      "party": "Republican",
+      "term_start": 1869,
+      "term_end": 1877,
+      "vice_president": "Schuyler Colfax",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/18.json"
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "name": "Rutherford B. Hayes",
+      "party": "Republican",
+      "term_start": 1877,
+      "term_end": 1881,
+      "vice_president": "William A. Wheeler",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/19.json"
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "name": "James A. Garfield",
+      "party": "Republican",
+      "term_start": 1881,
+      "term_end": 1881,
+      "vice_president": "Chester A. Arthur",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/20.json"
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "name": "Chester A. Arthur",
+      "party": "Republican",
+      "term_start": 1881,
+      "term_end": 1885,
+      "vice_president": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/21.json"
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "name": "Grover Cleveland",
+      "party": "Democratic",
+      "term_start": 1885,
+      "term_end": 1889,
+      "vice_president": "Thomas A. Hendricks",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/22.json"
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "name": "Benjamin Harrison",
+      "party": "Republican",
+      "term_start": 1889,
+      "term_end": 1893,
+      "vice_president": "Levi P. Morton",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/23.json"
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "name": "Grover Cleveland",
+      "party": "Democratic",
+      "term_start": 1893,
+      "term_end": 1897,
+      "vice_president": "Adlai Stevenson I",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/24.json"
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "name": "William McKinley",
+      "party": "Republican",
+      "term_start": 1897,
+      "term_end": 1901,
+      "vice_president": "Garret Hobart",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/25.json"
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "name": "Theodore Roosevelt",
+      "party": "Republican",
+      "term_start": 1901,
+      "term_end": 1909,
+      "vice_president": "Charles W. Fairbanks",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/26.json"
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "name": "William Howard Taft",
+      "party": "Republican",
+      "term_start": 1909,
+      "term_end": 1913,
+      "vice_president": "James S. Sherman",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/27.json"
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "name": "Woodrow Wilson",
+      "party": "Democratic",
+      "term_start": 1913,
+      "term_end": 1921,
+      "vice_president": "Thomas R. Marshall",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/28.json"
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "name": "Warren G. Harding",
+      "party": "Republican",
+      "term_start": 1921,
+      "term_end": 1923,
+      "vice_president": "Calvin Coolidge",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/29.json"
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "name": "Calvin Coolidge",
+      "party": "Republican",
+      "term_start": 1923,
+      "term_end": 1929,
+      "vice_president": "Charles G. Dawes",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/30.json"
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "name": "Herbert Hoover",
+      "party": "Republican",
+      "term_start": 1929,
+      "term_end": 1933,
+      "vice_president": "Charles Curtis",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/31.json"
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "name": "Franklin D. Roosevelt",
+      "party": "Democratic",
+      "term_start": 1933,
+      "term_end": 1945,
+      "vice_president": "Harry S. Truman",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/32.json"
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "name": "Harry S. Truman",
+      "party": "Democratic",
+      "term_start": 1945,
+      "term_end": 1953,
+      "vice_president": "Alben W. Barkley",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/33.json"
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "name": "Dwight D. Eisenhower",
+      "party": "Republican",
+      "term_start": 1953,
+      "term_end": 1961,
+      "vice_president": "Richard Nixon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/34.json"
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "name": "John F. Kennedy",
+      "party": "Democratic",
+      "term_start": 1961,
+      "term_end": 1963,
+      "vice_president": "Lyndon B. Johnson",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/35.json"
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "name": "Lyndon B. Johnson",
+      "party": "Democratic",
+      "term_start": 1963,
+      "term_end": 1969,
+      "vice_president": "Hubert Humphrey",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/36.json"
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "name": "Richard Nixon",
+      "party": "Republican",
+      "term_start": 1969,
+      "term_end": 1974,
+      "vice_president": "Spiro Agnew",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/37.json"
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "name": "Gerald Ford",
+      "party": "Republican",
+      "term_start": 1974,
+      "term_end": 1977,
+      "vice_president": "Nelson Rockefeller",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/38.json"
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "name": "Jimmy Carter",
+      "party": "Democratic",
+      "term_start": 1977,
+      "term_end": 1981,
+      "vice_president": "Walter Mondale",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/39.json"
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "name": "Ronald Reagan",
+      "party": "Republican",
+      "term_start": 1981,
+      "term_end": 1989,
+      "vice_president": "George H. W. Bush",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/40.json"
+    },
+    {
+      "id": 41,
+      "number": 41,
+      "name": "George H. W. Bush",
+      "party": "Republican",
+      "term_start": 1989,
+      "term_end": 1993,
+      "vice_president": "Dan Quayle",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/41.json"
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "name": "Bill Clinton",
+      "party": "Democratic",
+      "term_start": 1993,
+      "term_end": 2001,
+      "vice_president": "Al Gore",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/42.json"
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "name": "George W. Bush",
+      "party": "Republican",
+      "term_start": 2001,
+      "term_end": 2009,
+      "vice_president": "Dick Cheney",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/43.json"
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "name": "Barack Obama",
+      "party": "Democratic",
+      "term_start": 2009,
+      "term_end": 2017,
+      "vice_president": "Joe Biden",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/44.json"
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "name": "Donald Trump",
+      "party": "Republican",
+      "term_start": 2017,
+      "term_end": 2021,
+      "vice_president": "Mike Pence",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/45.json"
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "name": "Joe Biden",
+      "party": "Democratic",
+      "term_start": 2021,
+      "term_end": 2025,
+      "vice_president": "Kamala Harris",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/46.json"
+    }
+  ]
+}

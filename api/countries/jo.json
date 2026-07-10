@@ -1,0 +1,13 @@
+{
+  "id": "jo",
+  "name": "Jordan",
+  "alpha2": "JO",
+  "alpha3": "JOR",
+  "capital": "Amman",
+  "continent": "Asia",
+  "currency_code": "JOD",
+  "currency": "Jordanian Dinar",
+  "population_millions": 11,
+  "flag_emoji": "🇯🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/jo.json"
+}

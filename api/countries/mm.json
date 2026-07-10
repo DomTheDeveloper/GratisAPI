@@ -1,0 +1,13 @@
+{
+  "id": "mm",
+  "name": "Myanmar",
+  "alpha2": "MM",
+  "alpha3": "MMR",
+  "capital": "Naypyidaw",
+  "continent": "Asia",
+  "currency_code": "MMK",
+  "currency": "Kyat",
+  "population_millions": 54,
+  "flag_emoji": "🇲🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mm.json"
+}

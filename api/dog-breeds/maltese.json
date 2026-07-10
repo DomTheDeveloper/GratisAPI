@@ -1,0 +1,10 @@
+{
+  "id": "maltese",
+  "name": "Maltese",
+  "group": "Toy",
+  "origin": "Malta",
+  "size": "Small",
+  "life_expectancy_years": "12-15",
+  "temperament": "Gentle, playful and charming",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/maltese.json"
+}

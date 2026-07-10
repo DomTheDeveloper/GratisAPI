@@ -1,0 +1,9 @@
+{
+  "id": "superior",
+  "name": "Lake Superior",
+  "area_km2": 82100,
+  "max_depth_m": 406,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/superior.json"
+}

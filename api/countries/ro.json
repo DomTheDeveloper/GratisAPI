@@ -1,0 +1,13 @@
+{
+  "id": "ro",
+  "name": "Romania",
+  "alpha2": "RO",
+  "alpha3": "ROU",
+  "capital": "Bucharest",
+  "continent": "Europe",
+  "currency_code": "RON",
+  "currency": "Romanian Leu",
+  "population_millions": 19,
+  "flag_emoji": "🇷🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ro.json"
+}

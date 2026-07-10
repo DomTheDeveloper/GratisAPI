@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "force": 2,
+  "description": "Light breeze",
+  "wind_kmh_min": 6,
+  "wind_kmh_max": 11,
+  "conditions": "Leaves rustle; small wavelets.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/2.json"
+}

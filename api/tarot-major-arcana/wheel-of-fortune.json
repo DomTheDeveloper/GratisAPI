@@ -1,0 +1,12 @@
+{
+  "id": "wheel-of-fortune",
+  "number": 10,
+  "name": "Wheel of Fortune",
+  "keywords": [
+    "destiny",
+    "cycles",
+    "change"
+  ],
+  "element": "Fire",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/wheel-of-fortune.json"
+}

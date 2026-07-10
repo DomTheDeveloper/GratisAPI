@@ -1,0 +1,13 @@
+{
+  "id": "cu",
+  "name": "Cuba",
+  "alpha2": "CU",
+  "alpha3": "CUB",
+  "capital": "Havana",
+  "continent": "North America",
+  "currency_code": "CUP",
+  "currency": "Cuban Peso",
+  "population_millions": 11,
+  "flag_emoji": "🇨🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cu.json"
+}

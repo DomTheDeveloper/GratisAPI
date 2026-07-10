@@ -1,0 +1,8 @@
+{
+  "id": 103,
+  "code": 103,
+  "message": "Early Hints",
+  "category": "Informational",
+  "description": "Used to return some response headers before the final response.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/103.json"
+}

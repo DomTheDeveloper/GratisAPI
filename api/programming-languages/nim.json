@@ -1,0 +1,14 @@
+{
+  "id": "nim",
+  "name": "Nim",
+  "year": 2008,
+  "paradigm": [
+    "Imperative",
+    "Functional",
+    "Object-oriented"
+  ],
+  "typing": "Static",
+  "designed_by": "Andreas Rumpf",
+  "extension": ".nim",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/nim.json"
+}

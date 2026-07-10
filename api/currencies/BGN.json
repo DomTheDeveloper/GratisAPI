@@ -1,0 +1,8 @@
+{
+  "id": "BGN",
+  "code": "BGN",
+  "name": "Bulgarian Lev",
+  "symbol": "лв",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BGN.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "yellowgreen",
+  "name": "Yellow Green",
+  "hex": "#9ACD32",
+  "rgb": {
+    "r": 154,
+    "g": 205,
+    "b": 50
+  },
+  "rgb_string": "rgb(154, 205, 50)",
+  "hsl": {
+    "h": 80,
+    "s": 61,
+    "l": 50
+  },
+  "hsl_string": "hsl(80, 61%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/yellowgreen.json"
+}

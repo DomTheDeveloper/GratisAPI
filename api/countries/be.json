@@ -1,0 +1,13 @@
+{
+  "id": "be",
+  "name": "Belgium",
+  "alpha2": "BE",
+  "alpha3": "BEL",
+  "capital": "Brussels",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 12,
+  "flag_emoji": "🇧🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/be.json"
+}

@@ -1,0 +1,239 @@
+{
+  "api": "greek-alphabet",
+  "title": "Greek Alphabet",
+  "description": "The 24 letters of the Greek alphabet with transliteration and numeric value.",
+  "emoji": "🇬🇷",
+  "license": "GPL-2.0-or-later",
+  "count": 24,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/{id}.json"
+  },
+  "fields": [
+    "id",
+    "lowercase",
+    "name",
+    "numeric_value",
+    "transliteration",
+    "uppercase"
+  ],
+  "results": [
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "uppercase": "Α",
+      "lowercase": "α",
+      "transliteration": "a",
+      "numeric_value": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/alpha.json"
+    },
+    {
+      "id": "beta",
+      "name": "Beta",
+      "uppercase": "Β",
+      "lowercase": "β",
+      "transliteration": "b",
+      "numeric_value": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/beta.json"
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "transliteration": "g",
+      "numeric_value": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/gamma.json"
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "transliteration": "d",
+      "numeric_value": 4,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/delta.json"
+    },
+    {
+      "id": "epsilon",
+      "name": "Epsilon",
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "transliteration": "e",
+      "numeric_value": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/epsilon.json"
+    },
+    {
+      "id": "zeta",
+      "name": "Zeta",
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "transliteration": "z",
+      "numeric_value": 7,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/zeta.json"
+    },
+    {
+      "id": "eta",
+      "name": "Eta",
+      "uppercase": "Η",
+      "lowercase": "η",
+      "transliteration": "e",
+      "numeric_value": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/eta.json"
+    },
+    {
+      "id": "theta",
+      "name": "Theta",
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "transliteration": "th",
+      "numeric_value": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/theta.json"
+    },
+    {
+      "id": "iota",
+      "name": "Iota",
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "transliteration": "i",
+      "numeric_value": 10,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/iota.json"
+    },
+    {
+      "id": "kappa",
+      "name": "Kappa",
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "transliteration": "k",
+      "numeric_value": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/kappa.json"
+    },
+    {
+      "id": "lambda",
+      "name": "Lambda",
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "transliteration": "l",
+      "numeric_value": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/lambda.json"
+    },
+    {
+      "id": "mu",
+      "name": "Mu",
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "transliteration": "m",
+      "numeric_value": 40,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/mu.json"
+    },
+    {
+      "id": "nu",
+      "name": "Nu",
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "transliteration": "n",
+      "numeric_value": 50,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/nu.json"
+    },
+    {
+      "id": "xi",
+      "name": "Xi",
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "transliteration": "x",
+      "numeric_value": 60,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/xi.json"
+    },
+    {
+      "id": "omicron",
+      "name": "Omicron",
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "transliteration": "o",
+      "numeric_value": 70,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/omicron.json"
+    },
+    {
+      "id": "pi",
+      "name": "Pi",
+      "uppercase": "Π",
+      "lowercase": "π",
+      "transliteration": "p",
+      "numeric_value": 80,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/pi.json"
+    },
+    {
+      "id": "rho",
+      "name": "Rho",
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "transliteration": "r",
+      "numeric_value": 100,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/rho.json"
+    },
+    {
+      "id": "sigma",
+      "name": "Sigma",
+      "uppercase": "Σ",
+      "lowercase": "σ",
+      "transliteration": "s",
+      "numeric_value": 200,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/sigma.json"
+    },
+    {
+      "id": "tau",
+      "name": "Tau",
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "transliteration": "t",
+      "numeric_value": 300,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/tau.json"
+    },
+    {
+      "id": "upsilon",
+      "name": "Upsilon",
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "transliteration": "y",
+      "numeric_value": 400,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/upsilon.json"
+    },
+    {
+      "id": "phi",
+      "name": "Phi",
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "transliteration": "ph",
+      "numeric_value": 500,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/phi.json"
+    },
+    {
+      "id": "chi",
+      "name": "Chi",
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "transliteration": "ch",
+      "numeric_value": 600,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/chi.json"
+    },
+    {
+      "id": "psi",
+      "name": "Psi",
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "transliteration": "ps",
+      "numeric_value": 700,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/psi.json"
+    },
+    {
+      "id": "omega",
+      "name": "Omega",
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "transliteration": "o",
+      "numeric_value": 800,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/omega.json"
+    }
+  ]
+}

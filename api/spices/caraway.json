@@ -1,0 +1,9 @@
+{
+  "id": "caraway",
+  "name": "Caraway",
+  "plant_part": "Seed",
+  "origin_region": "Europe",
+  "flavor": "Earthy, anise-like",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/caraway.json"
+}

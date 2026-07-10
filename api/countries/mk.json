@@ -1,0 +1,13 @@
+{
+  "id": "mk",
+  "name": "North Macedonia",
+  "alpha2": "MK",
+  "alpha3": "MKD",
+  "capital": "Skopje",
+  "continent": "Europe",
+  "currency_code": "MKD",
+  "currency": "Denar",
+  "population_millions": 2,
+  "flag_emoji": "🇲🇰",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mk.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pl",
+  "name": "Poland",
+  "alpha2": "PL",
+  "alpha3": "POL",
+  "capital": "Warsaw",
+  "continent": "Europe",
+  "currency_code": "PLN",
+  "currency": "Zloty",
+  "population_millions": 38,
+  "flag_emoji": "🇵🇱",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/pl.json"
+}

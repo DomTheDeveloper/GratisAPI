@@ -1,0 +1,11 @@
+{
+  "id": "kiwi",
+  "common_name": "Brown Kiwi",
+  "scientific_name": "Apteryx mantelli",
+  "family": "Apterygidae",
+  "habitat": "New Zealand forests",
+  "diet": "Omnivore",
+  "wingspan_cm": null,
+  "conservation_status": "Vulnerable",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/kiwi.json"
+}

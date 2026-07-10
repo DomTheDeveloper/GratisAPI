@@ -1,0 +1,12 @@
+{
+  "id": "vermont",
+  "name": "Vermont",
+  "abbreviation": "VT",
+  "capital": "Montpelier",
+  "largest_city": "Burlington",
+  "population": 643077,
+  "area_km2": 24906,
+  "statehood_year": 1791,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/vermont.json"
+}

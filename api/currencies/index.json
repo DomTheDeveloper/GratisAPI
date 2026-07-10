@@ -4,7 +4,7 @@
   "description": "World currencies with ISO 4217 code, symbol and minor unit.",
   "emoji": "💱",
   "license": "GPL-2.0-or-later",
-  "count": 25,
+  "count": 101,
   "self": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json",
   "endpoints": {
     "list": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json",
@@ -217,6 +217,614 @@
       "symbol": "Rp",
       "minor_unit": 2,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/IDR.json"
+    },
+    {
+      "id": "DKK",
+      "code": "DKK",
+      "name": "Danish Krone",
+      "symbol": "kr",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/DKK.json"
+    },
+    {
+      "id": "CZK",
+      "code": "CZK",
+      "name": "Czech Koruna",
+      "symbol": "Kč",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CZK.json"
+    },
+    {
+      "id": "HUF",
+      "code": "HUF",
+      "name": "Hungarian Forint",
+      "symbol": "Ft",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/HUF.json"
+    },
+    {
+      "id": "RON",
+      "code": "RON",
+      "name": "Romanian Leu",
+      "symbol": "lei",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/RON.json"
+    },
+    {
+      "id": "BGN",
+      "code": "BGN",
+      "name": "Bulgarian Lev",
+      "symbol": "лв",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BGN.json"
+    },
+    {
+      "id": "HRK",
+      "code": "HRK",
+      "name": "Croatian Kuna",
+      "symbol": "kn",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/HRK.json"
+    },
+    {
+      "id": "ISK",
+      "code": "ISK",
+      "name": "Icelandic Krona",
+      "symbol": "kr",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/ISK.json"
+    },
+    {
+      "id": "UAH",
+      "code": "UAH",
+      "name": "Ukrainian Hryvnia",
+      "symbol": "₴",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/UAH.json"
+    },
+    {
+      "id": "ILS",
+      "code": "ILS",
+      "name": "Israeli New Shekel",
+      "symbol": "₪",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/ILS.json"
+    },
+    {
+      "id": "EGP",
+      "code": "EGP",
+      "name": "Egyptian Pound",
+      "symbol": "£",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/EGP.json"
+    },
+    {
+      "id": "QAR",
+      "code": "QAR",
+      "name": "Qatari Riyal",
+      "symbol": "﷼",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/QAR.json"
+    },
+    {
+      "id": "KWD",
+      "code": "KWD",
+      "name": "Kuwaiti Dinar",
+      "symbol": "د.ك",
+      "minor_unit": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/KWD.json"
+    },
+    {
+      "id": "BHD",
+      "code": "BHD",
+      "name": "Bahraini Dinar",
+      "symbol": ".د.ب",
+      "minor_unit": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BHD.json"
+    },
+    {
+      "id": "OMR",
+      "code": "OMR",
+      "name": "Omani Rial",
+      "symbol": "﷼",
+      "minor_unit": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/OMR.json"
+    },
+    {
+      "id": "JOD",
+      "code": "JOD",
+      "name": "Jordanian Dinar",
+      "symbol": "د.ا",
+      "minor_unit": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/JOD.json"
+    },
+    {
+      "id": "LBP",
+      "code": "LBP",
+      "name": "Lebanese Pound",
+      "symbol": "ل.ل",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/LBP.json"
+    },
+    {
+      "id": "IQD",
+      "code": "IQD",
+      "name": "Iraqi Dinar",
+      "symbol": "ع.د",
+      "minor_unit": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/IQD.json"
+    },
+    {
+      "id": "PKR",
+      "code": "PKR",
+      "name": "Pakistani Rupee",
+      "symbol": "₨",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PKR.json"
+    },
+    {
+      "id": "BDT",
+      "code": "BDT",
+      "name": "Bangladeshi Taka",
+      "symbol": "৳",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BDT.json"
+    },
+    {
+      "id": "LKR",
+      "code": "LKR",
+      "name": "Sri Lankan Rupee",
+      "symbol": "₨",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/LKR.json"
+    },
+    {
+      "id": "NPR",
+      "code": "NPR",
+      "name": "Nepalese Rupee",
+      "symbol": "₨",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NPR.json"
+    },
+    {
+      "id": "MYR",
+      "code": "MYR",
+      "name": "Malaysian Ringgit",
+      "symbol": "RM",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MYR.json"
+    },
+    {
+      "id": "PHP",
+      "code": "PHP",
+      "name": "Philippine Peso",
+      "symbol": "₱",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PHP.json"
+    },
+    {
+      "id": "VND",
+      "code": "VND",
+      "name": "Vietnamese Dong",
+      "symbol": "₫",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/VND.json"
+    },
+    {
+      "id": "TWD",
+      "code": "TWD",
+      "name": "New Taiwan Dollar",
+      "symbol": "NT$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/TWD.json"
+    },
+    {
+      "id": "MOP",
+      "code": "MOP",
+      "name": "Macanese Pataca",
+      "symbol": "MOP$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MOP.json"
+    },
+    {
+      "id": "KZT",
+      "code": "KZT",
+      "name": "Kazakhstani Tenge",
+      "symbol": "₸",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/KZT.json"
+    },
+    {
+      "id": "UZS",
+      "code": "UZS",
+      "name": "Uzbekistani Som",
+      "symbol": "so'm",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/UZS.json"
+    },
+    {
+      "id": "AZN",
+      "code": "AZN",
+      "name": "Azerbaijani Manat",
+      "symbol": "₼",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AZN.json"
+    },
+    {
+      "id": "GEL",
+      "code": "GEL",
+      "name": "Georgian Lari",
+      "symbol": "₾",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/GEL.json"
+    },
+    {
+      "id": "AMD",
+      "code": "AMD",
+      "name": "Armenian Dram",
+      "symbol": "֏",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AMD.json"
+    },
+    {
+      "id": "MNT",
+      "code": "MNT",
+      "name": "Mongolian Tugrik",
+      "symbol": "₮",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MNT.json"
+    },
+    {
+      "id": "MMK",
+      "code": "MMK",
+      "name": "Myanmar Kyat",
+      "symbol": "K",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MMK.json"
+    },
+    {
+      "id": "KHR",
+      "code": "KHR",
+      "name": "Cambodian Riel",
+      "symbol": "៛",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/KHR.json"
+    },
+    {
+      "id": "LAK",
+      "code": "LAK",
+      "name": "Lao Kip",
+      "symbol": "₭",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/LAK.json"
+    },
+    {
+      "id": "BND",
+      "code": "BND",
+      "name": "Brunei Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BND.json"
+    },
+    {
+      "id": "NGN",
+      "code": "NGN",
+      "name": "Nigerian Naira",
+      "symbol": "₦",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NGN.json"
+    },
+    {
+      "id": "GHS",
+      "code": "GHS",
+      "name": "Ghanaian Cedi",
+      "symbol": "₵",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/GHS.json"
+    },
+    {
+      "id": "KES",
+      "code": "KES",
+      "name": "Kenyan Shilling",
+      "symbol": "Sh",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/KES.json"
+    },
+    {
+      "id": "TZS",
+      "code": "TZS",
+      "name": "Tanzanian Shilling",
+      "symbol": "Sh",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/TZS.json"
+    },
+    {
+      "id": "UGX",
+      "code": "UGX",
+      "name": "Ugandan Shilling",
+      "symbol": "Sh",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/UGX.json"
+    },
+    {
+      "id": "ETB",
+      "code": "ETB",
+      "name": "Ethiopian Birr",
+      "symbol": "Br",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/ETB.json"
+    },
+    {
+      "id": "MAD",
+      "code": "MAD",
+      "name": "Moroccan Dirham",
+      "symbol": "د.م.",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MAD.json"
+    },
+    {
+      "id": "DZD",
+      "code": "DZD",
+      "name": "Algerian Dinar",
+      "symbol": "د.ج",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/DZD.json"
+    },
+    {
+      "id": "TND",
+      "code": "TND",
+      "name": "Tunisian Dinar",
+      "symbol": "د.ت",
+      "minor_unit": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/TND.json"
+    },
+    {
+      "id": "XOF",
+      "code": "XOF",
+      "name": "West African CFA Franc",
+      "symbol": "Fr",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/XOF.json"
+    },
+    {
+      "id": "XAF",
+      "code": "XAF",
+      "name": "Central African CFA Franc",
+      "symbol": "Fr",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/XAF.json"
+    },
+    {
+      "id": "CDF",
+      "code": "CDF",
+      "name": "Congolese Franc",
+      "symbol": "Fr",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CDF.json"
+    },
+    {
+      "id": "AOA",
+      "code": "AOA",
+      "name": "Angolan Kwanza",
+      "symbol": "Kz",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AOA.json"
+    },
+    {
+      "id": "ZMW",
+      "code": "ZMW",
+      "name": "Zambian Kwacha",
+      "symbol": "ZK",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/ZMW.json"
+    },
+    {
+      "id": "MUR",
+      "code": "MUR",
+      "name": "Mauritian Rupee",
+      "symbol": "₨",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MUR.json"
+    },
+    {
+      "id": "BWP",
+      "code": "BWP",
+      "name": "Botswana Pula",
+      "symbol": "P",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BWP.json"
+    },
+    {
+      "id": "NAD",
+      "code": "NAD",
+      "name": "Namibian Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NAD.json"
+    },
+    {
+      "id": "MZN",
+      "code": "MZN",
+      "name": "Mozambican Metical",
+      "symbol": "MT",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MZN.json"
+    },
+    {
+      "id": "RWF",
+      "code": "RWF",
+      "name": "Rwandan Franc",
+      "symbol": "Fr",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/RWF.json"
+    },
+    {
+      "id": "ARS",
+      "code": "ARS",
+      "name": "Argentine Peso",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/ARS.json"
+    },
+    {
+      "id": "CLP",
+      "code": "CLP",
+      "name": "Chilean Peso",
+      "symbol": "$",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CLP.json"
+    },
+    {
+      "id": "COP",
+      "code": "COP",
+      "name": "Colombian Peso",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/COP.json"
+    },
+    {
+      "id": "PEN",
+      "code": "PEN",
+      "name": "Peruvian Sol",
+      "symbol": "S/",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PEN.json"
+    },
+    {
+      "id": "UYU",
+      "code": "UYU",
+      "name": "Uruguayan Peso",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/UYU.json"
+    },
+    {
+      "id": "PYG",
+      "code": "PYG",
+      "name": "Paraguayan Guarani",
+      "symbol": "₲",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PYG.json"
+    },
+    {
+      "id": "BOB",
+      "code": "BOB",
+      "name": "Bolivian Boliviano",
+      "symbol": "Bs",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BOB.json"
+    },
+    {
+      "id": "VES",
+      "code": "VES",
+      "name": "Venezuelan Bolivar",
+      "symbol": "Bs",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/VES.json"
+    },
+    {
+      "id": "GTQ",
+      "code": "GTQ",
+      "name": "Guatemalan Quetzal",
+      "symbol": "Q",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/GTQ.json"
+    },
+    {
+      "id": "CRC",
+      "code": "CRC",
+      "name": "Costa Rican Colon",
+      "symbol": "₡",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CRC.json"
+    },
+    {
+      "id": "DOP",
+      "code": "DOP",
+      "name": "Dominican Peso",
+      "symbol": "RD$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/DOP.json"
+    },
+    {
+      "id": "HNL",
+      "code": "HNL",
+      "name": "Honduran Lempira",
+      "symbol": "L",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/HNL.json"
+    },
+    {
+      "id": "NIO",
+      "code": "NIO",
+      "name": "Nicaraguan Cordoba",
+      "symbol": "C$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NIO.json"
+    },
+    {
+      "id": "JMD",
+      "code": "JMD",
+      "name": "Jamaican Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/JMD.json"
+    },
+    {
+      "id": "TTD",
+      "code": "TTD",
+      "name": "Trinidad and Tobago Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/TTD.json"
+    },
+    {
+      "id": "BSD",
+      "code": "BSD",
+      "name": "Bahamian Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BSD.json"
+    },
+    {
+      "id": "BBD",
+      "code": "BBD",
+      "name": "Barbadian Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BBD.json"
+    },
+    {
+      "id": "XCD",
+      "code": "XCD",
+      "name": "East Caribbean Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/XCD.json"
+    },
+    {
+      "id": "FJD",
+      "code": "FJD",
+      "name": "Fijian Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/FJD.json"
+    },
+    {
+      "id": "PGK",
+      "code": "PGK",
+      "name": "Papua New Guinean Kina",
+      "symbol": "K",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PGK.json"
+    },
+    {
+      "id": "AFN",
+      "code": "AFN",
+      "name": "Afghan Afghani",
+      "symbol": "؋",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AFN.json"
     }
   ]
 }

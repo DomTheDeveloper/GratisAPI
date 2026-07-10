@@ -1,0 +1,9 @@
+{
+  "id": "saffron",
+  "name": "Saffron",
+  "plant_part": "Flower",
+  "origin_region": "Iran",
+  "flavor": "Floral, honeyed",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/saffron.json"
+}

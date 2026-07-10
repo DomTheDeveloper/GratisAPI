@@ -1,0 +1,10 @@
+{
+  "id": "elbrus",
+  "name": "Mount Elbrus",
+  "height_m": 5642,
+  "range": "Caucasus",
+  "country": "Russia",
+  "continent": "Europe",
+  "first_ascent_year": 1874,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/elbrus.json"
+}

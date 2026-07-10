@@ -1,0 +1,8 @@
+{
+  "id": "MAD",
+  "code": "MAD",
+  "name": "Moroccan Dirham",
+  "symbol": "د.م.",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MAD.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rw",
+  "name": "Rwanda",
+  "alpha2": "RW",
+  "alpha3": "RWA",
+  "capital": "Kigali",
+  "continent": "Africa",
+  "currency_code": "RWF",
+  "currency": "Rwandan Franc",
+  "population_millions": 13,
+  "flag_emoji": "🇷🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/rw.json"
+}

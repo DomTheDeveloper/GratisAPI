@@ -1,0 +1,12 @@
+{
+  "id": "new-hampshire",
+  "name": "New Hampshire",
+  "abbreviation": "NH",
+  "capital": "Concord",
+  "largest_city": "Manchester",
+  "population": 1377529,
+  "area_km2": 24214,
+  "statehood_year": 1788,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/new-hampshire.json"
+}

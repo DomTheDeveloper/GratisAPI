@@ -1,0 +1,9 @@
+{
+  "id": "vacuum-permeability",
+  "name": "Vacuum magnetic permeability",
+  "symbol": "mu_0",
+  "value": 1.25663706212e-06,
+  "unit": "N A^-2",
+  "category": "Electromagnetic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/vacuum-permeability.json"
+}

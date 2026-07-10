@@ -1,0 +1,9 @@
+{
+  "id": "aviation",
+  "name": "Aviation",
+  "base_spirit": "Gin",
+  "type": "Sour",
+  "glass": "Coupe",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/aviation.json"
+}

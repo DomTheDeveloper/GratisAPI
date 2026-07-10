@@ -1,0 +1,8 @@
+{
+  "id": "silver-ratio",
+  "name": "Silver ratio",
+  "symbol": "delta_S",
+  "value": 2.414213562373095,
+  "description": "1 + square root of 2.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/silver-ratio.json"
+}

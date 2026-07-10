@@ -1,0 +1,10 @@
+{
+  "id": "lavender",
+  "name": "Lavender",
+  "scientific_name": "Lavandula angustifolia",
+  "family": "Lamiaceae",
+  "color": "Purple",
+  "bloom_season": "Summer",
+  "meaning": "Devotion",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/lavender.json"
+}

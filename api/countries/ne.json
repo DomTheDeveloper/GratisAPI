@@ -1,0 +1,13 @@
+{
+  "id": "ne",
+  "name": "Niger",
+  "alpha2": "NE",
+  "alpha3": "NER",
+  "capital": "Niamey",
+  "continent": "Africa",
+  "currency_code": "XOF",
+  "currency": "West African CFA Franc",
+  "population_millions": 25,
+  "flag_emoji": "🇳🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ne.json"
+}

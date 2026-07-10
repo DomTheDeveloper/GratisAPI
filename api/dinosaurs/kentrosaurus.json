@@ -1,0 +1,11 @@
+{
+  "id": "kentrosaurus",
+  "name": "Kentrosaurus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 4.5,
+  "weight_kg": 700,
+  "region": "Tanzania",
+  "meaning": "Spiked lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/kentrosaurus.json"
+}

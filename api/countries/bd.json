@@ -1,0 +1,13 @@
+{
+  "id": "bd",
+  "name": "Bangladesh",
+  "alpha2": "BD",
+  "alpha3": "BGD",
+  "capital": "Dhaka",
+  "continent": "Asia",
+  "currency_code": "BDT",
+  "currency": "Taka",
+  "population_millions": 169,
+  "flag_emoji": "🇧🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bd.json"
+}

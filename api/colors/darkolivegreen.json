@@ -1,0 +1,18 @@
+{
+  "id": "darkolivegreen",
+  "name": "Dark Olive Green",
+  "hex": "#556B2F",
+  "rgb": {
+    "r": 85,
+    "g": 107,
+    "b": 47
+  },
+  "rgb_string": "rgb(85, 107, 47)",
+  "hsl": {
+    "h": 82,
+    "s": 39,
+    "l": 30
+  },
+  "hsl_string": "hsl(82, 39%, 30%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkolivegreen.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "palegreen",
+  "name": "Pale Green",
+  "hex": "#98FB98",
+  "rgb": {
+    "r": 152,
+    "g": 251,
+    "b": 152
+  },
+  "rgb_string": "rgb(152, 251, 152)",
+  "hsl": {
+    "h": 120,
+    "s": 93,
+    "l": 79
+  },
+  "hsl_string": "hsl(120, 93%, 79%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/palegreen.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "pawn",
+  "name": "Pawn",
+  "symbol_white": "♙",
+  "symbol_black": "♟",
+  "value": 1,
+  "movement": "Forward one square (two on first move); captures diagonally",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/pawn.json"
+}

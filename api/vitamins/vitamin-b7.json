@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b7",
+  "name": "Vitamin B7",
+  "chemical_name": "Biotin",
+  "solubility": "Water",
+  "function": "Metabolism of fats, carbohydrates and protein",
+  "deficiency_disease": "Dermatitis",
+  "food_sources": [
+    "Eggs",
+    "Nuts",
+    "Salmon"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b7.json"
+}

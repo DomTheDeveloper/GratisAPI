@@ -1,0 +1,10 @@
+{
+  "id": "carrot",
+  "name": "Carrot",
+  "scientific_name": "Daucus carota",
+  "family": "Apiaceae",
+  "type": "Root",
+  "color": "Orange",
+  "calories_per_100g": 41,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/carrot.json"
+}

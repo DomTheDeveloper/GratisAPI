@@ -1,0 +1,8 @@
+{
+  "id": 507,
+  "code": 507,
+  "message": "Insufficient Storage",
+  "category": "Server Error",
+  "description": "The server is unable to store the representation needed to complete the request.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/507.json"
+}

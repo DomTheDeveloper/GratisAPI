@@ -1,0 +1,9 @@
+{
+  "id": "fi",
+  "code": "fi",
+  "name": "Finnish",
+  "native_name": "Suomi",
+  "direction": "ltr",
+  "speakers_millions": 5,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/fi.json"
+}

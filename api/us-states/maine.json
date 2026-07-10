@@ -1,0 +1,12 @@
+{
+  "id": "maine",
+  "name": "Maine",
+  "abbreviation": "ME",
+  "capital": "Augusta",
+  "largest_city": "Portland",
+  "population": 1362359,
+  "area_km2": 91633,
+  "statehood_year": 1820,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/maine.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ico",
+  "mime_type": "image/vnd.microsoft.icon",
+  "name": "Icon",
+  "category": "image",
+  "extensions": [
+    ".ico"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ico.json"
+}

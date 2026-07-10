@@ -1,0 +1,8 @@
+{
+  "id": 305,
+  "code": 305,
+  "message": "Use Proxy",
+  "category": "Redirection",
+  "description": "The requested resource must be accessed through the proxy given by the location field.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/305.json"
+}

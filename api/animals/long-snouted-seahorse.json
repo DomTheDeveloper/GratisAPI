@@ -1,0 +1,15 @@
+{
+  "id": "long-snouted-seahorse",
+  "common_name": "Long-snouted Seahorse",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Actinopterygii",
+  "order": "Syngnathiformes",
+  "family": "Syngnathidae",
+  "genus": "Hippocampus",
+  "species": "Hippocampus guttulatus",
+  "conservation_status": "Data Deficient",
+  "habitat": "Shallow coastal seagrass beds",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/long-snouted-seahorse.json"
+}

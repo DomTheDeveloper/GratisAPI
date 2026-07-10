@@ -1,0 +1,11 @@
+{
+  "id": "pachycephalosaurus",
+  "name": "Pachycephalosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 4.5,
+  "weight_kg": 450,
+  "region": "Western North America",
+  "meaning": "Thick-headed lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/pachycephalosaurus.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mute-swan",
+  "common_name": "Mute Swan",
+  "scientific_name": "Cygnus olor",
+  "family": "Anatidae",
+  "habitat": "Lakes, rivers and coastal lagoons",
+  "diet": "Herbivore",
+  "wingspan_cm": 220,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/mute-swan.json"
+}

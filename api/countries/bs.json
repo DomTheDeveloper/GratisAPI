@@ -1,0 +1,13 @@
+{
+  "id": "bs",
+  "name": "Bahamas",
+  "alpha2": "BS",
+  "alpha3": "BHS",
+  "capital": "Nassau",
+  "continent": "North America",
+  "currency_code": "BSD",
+  "currency": "Bahamian Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇧🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bs.json"
+}

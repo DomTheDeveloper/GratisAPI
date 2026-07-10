@@ -1,0 +1,10 @@
+{
+  "id": "pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "name": "Microsoft PowerPoint",
+  "category": "application",
+  "extensions": [
+    ".pptx"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/pptx.json"
+}

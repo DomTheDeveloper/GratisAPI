@@ -1,0 +1,10 @@
+{
+  "id": "mount-kosciuszko",
+  "name": "Mount Kosciuszko",
+  "height_m": 2228,
+  "range": "Great Dividing Range",
+  "country": "Australia",
+  "continent": "Oceania",
+  "first_ascent_year": 1840,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-kosciuszko.json"
+}

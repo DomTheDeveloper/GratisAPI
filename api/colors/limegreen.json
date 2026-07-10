@@ -1,0 +1,18 @@
+{
+  "id": "limegreen",
+  "name": "Lime Green",
+  "hex": "#32CD32",
+  "rgb": {
+    "r": 50,
+    "g": 205,
+    "b": 50
+  },
+  "rgb_string": "rgb(50, 205, 50)",
+  "hsl": {
+    "h": 120,
+    "s": 61,
+    "l": 50
+  },
+  "hsl_string": "hsl(120, 61%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/limegreen.json"
+}

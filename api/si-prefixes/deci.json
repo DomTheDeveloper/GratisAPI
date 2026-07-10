@@ -1,0 +1,8 @@
+{
+  "id": "deci",
+  "name": "deci",
+  "symbol": "d",
+  "base_10": -1,
+  "factor": "1e-1",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/deci.json"
+}

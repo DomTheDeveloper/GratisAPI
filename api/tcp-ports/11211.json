@@ -1,0 +1,8 @@
+{
+  "id": 11211,
+  "port": 11211,
+  "service": "memcached",
+  "protocol": "TCP/UDP",
+  "description": "Memcached distributed cache.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/11211.json"
+}

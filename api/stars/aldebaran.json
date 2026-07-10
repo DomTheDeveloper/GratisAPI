@@ -1,0 +1,9 @@
+{
+  "id": "aldebaran",
+  "name": "Aldebaran",
+  "constellation": "Taurus",
+  "apparent_magnitude": 0.86,
+  "distance_ly": 65.3,
+  "spectral_type": "K5III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/aldebaran.json"
+}

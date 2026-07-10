@@ -1,0 +1,13 @@
+{
+  "id": "do",
+  "name": "Dominican Republic",
+  "alpha2": "DO",
+  "alpha3": "DOM",
+  "capital": "Santo Domingo",
+  "continent": "North America",
+  "currency_code": "DOP",
+  "currency": "Dominican Peso",
+  "population_millions": 11,
+  "flag_emoji": "🇩🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/do.json"
+}

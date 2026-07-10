@@ -1,0 +1,10 @@
+{
+  "id": "rhubarb",
+  "name": "Rhubarb",
+  "scientific_name": "Rheum rhabarbarum",
+  "family": "Polygonaceae",
+  "type": "Stem",
+  "color": "Red",
+  "calories_per_100g": 21,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/rhubarb.json"
+}

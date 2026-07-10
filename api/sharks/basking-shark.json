@@ -1,0 +1,12 @@
+{
+  "id": "basking-shark",
+  "common_name": "Basking Shark",
+  "scientific_name": "Cetorhinus maximus",
+  "family": "Cetorhinidae",
+  "max_length_m": 12.0,
+  "habitat": "Temperate coastal and open waters",
+  "diet": "Filter feeder",
+  "conservation_status": "Endangered",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/basking-shark.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "white-ash",
+  "common_name": "White Ash",
+  "scientific_name": "Fraxinus americana",
+  "family": "Oleaceae",
+  "type": "Deciduous",
+  "max_height_m": 30,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/white-ash.json"
+}

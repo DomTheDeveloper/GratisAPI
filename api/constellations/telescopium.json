@@ -1,0 +1,9 @@
+{
+  "id": "telescopium",
+  "name": "Telescopium",
+  "abbreviation": "Tel",
+  "meaning": "The Telescope",
+  "quadrant": "SQ4",
+  "area_sq_deg": 251.512,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/telescopium.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "force": 4,
+  "description": "Moderate breeze",
+  "wind_kmh_min": 20,
+  "wind_kmh_max": 28,
+  "conditions": "Dust and loose paper raised; small waves.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/4.json"
+}

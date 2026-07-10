@@ -1,0 +1,15 @@
+{
+  "id": "fire-salamander",
+  "common_name": "Fire Salamander",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Amphibia",
+  "order": "Urodela",
+  "family": "Salamandridae",
+  "genus": "Salamandra",
+  "species": "Salamandra salamandra",
+  "conservation_status": "Least Concern",
+  "habitat": "Hilly deciduous forests of Europe",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/fire-salamander.json"
+}

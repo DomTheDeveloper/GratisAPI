@@ -1,0 +1,11 @@
+{
+  "id": "greater-flamingo",
+  "common_name": "Greater Flamingo",
+  "scientific_name": "Phoenicopterus roseus",
+  "family": "Phoenicopteridae",
+  "habitat": "Salt lakes and lagoons",
+  "diet": "Omnivore",
+  "wingspan_cm": 150,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/greater-flamingo.json"
+}

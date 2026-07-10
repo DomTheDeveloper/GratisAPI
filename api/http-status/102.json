@@ -1,0 +1,8 @@
+{
+  "id": 102,
+  "code": 102,
+  "message": "Processing",
+  "category": "Informational",
+  "description": "The server has received and is processing the request, but no response is available yet.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/102.json"
+}

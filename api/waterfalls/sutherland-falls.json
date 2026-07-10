@@ -1,0 +1,9 @@
+{
+  "id": "sutherland-falls",
+  "name": "Sutherland Falls",
+  "height_m": 580,
+  "river": "Arthur River",
+  "country": "New Zealand",
+  "continent": "Oceania",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/sutherland-falls.json"
+}

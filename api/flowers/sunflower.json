@@ -1,0 +1,10 @@
+{
+  "id": "sunflower",
+  "name": "Sunflower",
+  "scientific_name": "Helianthus annuus",
+  "family": "Asteraceae",
+  "color": "Yellow",
+  "bloom_season": "Summer",
+  "meaning": "Adoration",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/sunflower.json"
+}

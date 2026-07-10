@@ -1,0 +1,13 @@
+{
+  "id": "mu",
+  "name": "Mauritius",
+  "alpha2": "MU",
+  "alpha3": "MUS",
+  "capital": "Port Louis",
+  "continent": "Africa",
+  "currency_code": "MUR",
+  "currency": "Mauritian Rupee",
+  "population_millions": 1,
+  "flag_emoji": "🇲🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mu.json"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "go",
+  "name": "Go",
+  "year": 2009,
+  "paradigm": [
+    "Imperative",
+    "Concurrent",
+    "Procedural"
+  ],
+  "typing": "Static",
+  "designed_by": "Robert Griesemer, Rob Pike, Ken Thompson",
+  "extension": ".go",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/go.json"
+}

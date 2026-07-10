@@ -1,0 +1,8 @@
+{
+  "id": 300,
+  "code": 300,
+  "message": "Multiple Choices",
+  "category": "Redirection",
+  "description": "The request has more than one possible response and the client should choose one.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/300.json"
+}

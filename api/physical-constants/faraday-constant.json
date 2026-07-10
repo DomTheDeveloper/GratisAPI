@@ -1,0 +1,9 @@
+{
+  "id": "faraday-constant",
+  "name": "Faraday constant",
+  "symbol": "F",
+  "value": 96485.33212,
+  "unit": "C/mol",
+  "category": "Physicochemical",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/faraday-constant.json"
+}

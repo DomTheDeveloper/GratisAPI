@@ -1,0 +1,10 @@
+{
+  "id": "leek",
+  "name": "Leek",
+  "scientific_name": "Allium ampeloprasum",
+  "family": "Amaryllidaceae",
+  "type": "Bulb",
+  "color": "Green",
+  "calories_per_100g": 61,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/leek.json"
+}

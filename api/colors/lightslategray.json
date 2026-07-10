@@ -1,0 +1,18 @@
+{
+  "id": "lightslategray",
+  "name": "Light Slate Gray",
+  "hex": "#778899",
+  "rgb": {
+    "r": 119,
+    "g": 136,
+    "b": 153
+  },
+  "rgb_string": "rgb(119, 136, 153)",
+  "hsl": {
+    "h": 210,
+    "s": 14,
+    "l": 53
+  },
+  "hsl_string": "hsl(210, 14%, 53%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightslategray.json"
+}

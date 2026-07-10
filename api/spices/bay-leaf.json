@@ -1,0 +1,9 @@
+{
+  "id": "bay-leaf",
+  "name": "Bay Leaf",
+  "plant_part": "Leaf",
+  "origin_region": "Mediterranean",
+  "flavor": "Herbal, floral",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/bay-leaf.json"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lemon-shark",
+  "common_name": "Lemon Shark",
+  "scientific_name": "Negaprion brevirostris",
+  "family": "Carcharhinidae",
+  "max_length_m": 3.4,
+  "habitat": "Subtropical coastal waters and mangroves",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "Moderate",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/lemon-shark.json"
+}

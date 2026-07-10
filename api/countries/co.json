@@ -1,0 +1,13 @@
+{
+  "id": "co",
+  "name": "Colombia",
+  "alpha2": "CO",
+  "alpha3": "COL",
+  "capital": "Bogota",
+  "continent": "South America",
+  "currency_code": "COP",
+  "currency": "Colombian Peso",
+  "population_millions": 51,
+  "flag_emoji": "🇨🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/co.json"
+}

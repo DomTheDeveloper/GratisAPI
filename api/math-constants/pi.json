@@ -1,0 +1,8 @@
+{
+  "id": "pi",
+  "name": "Pi",
+  "symbol": "pi",
+  "value": 3.141592653589793,
+  "description": "Ratio of a circle's circumference to its diameter.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/pi.json"
+}

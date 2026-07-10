@@ -1,0 +1,9 @@
+{
+  "id": "dubhe",
+  "name": "Dubhe",
+  "constellation": "Ursa Major",
+  "apparent_magnitude": 1.79,
+  "distance_ly": 123.0,
+  "spectral_type": "K0III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/dubhe.json"
+}

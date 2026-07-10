@@ -1,0 +1,13 @@
+{
+  "id": "sg",
+  "name": "Singapore",
+  "alpha2": "SG",
+  "alpha3": "SGP",
+  "capital": "Singapore",
+  "continent": "Asia",
+  "currency_code": "SGD",
+  "currency": "Singapore Dollar",
+  "population_millions": 6,
+  "flag_emoji": "🇸🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sg.json"
+}

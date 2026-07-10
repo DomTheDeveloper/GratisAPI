@@ -1,0 +1,18 @@
+{
+  "id": "saddlebrown",
+  "name": "Saddle Brown",
+  "hex": "#8B4513",
+  "rgb": {
+    "r": 139,
+    "g": 69,
+    "b": 19
+  },
+  "rgb_string": "rgb(139, 69, 19)",
+  "hsl": {
+    "h": 25,
+    "s": 76,
+    "l": 31
+  },
+  "hsl_string": "hsl(25, 76%, 31%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/saddlebrown.json"
+}

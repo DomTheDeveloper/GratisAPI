@@ -1,0 +1,15 @@
+{
+  "id": "galapagos-tortoise",
+  "common_name": "Galapagos Giant Tortoise",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Reptilia",
+  "order": "Testudines",
+  "family": "Testudinidae",
+  "genus": "Chelonoidis",
+  "species": "Chelonoidis niger",
+  "conservation_status": "Vulnerable",
+  "habitat": "Galapagos Islands",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/galapagos-tortoise.json"
+}

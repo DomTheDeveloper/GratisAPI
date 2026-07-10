@@ -1,0 +1,11 @@
+{
+  "id": "orange",
+  "name": "Orange",
+  "scientific_name": "Citrus sinensis",
+  "family": "Rutaceae",
+  "type": "Citrus",
+  "color": "Orange",
+  "origin_region": "Southern China",
+  "calories_per_100g": 47,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/orange.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "horse",
+  "common_name": "Horse",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Perissodactyla",
+  "family": "Equidae",
+  "genus": "Equus",
+  "species": "Equus ferus",
+  "conservation_status": "Domesticated",
+  "habitat": "Worldwide, with humans",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/horse.json"
+}

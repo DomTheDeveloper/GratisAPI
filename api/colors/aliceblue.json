@@ -1,0 +1,18 @@
+{
+  "id": "aliceblue",
+  "name": "Alice Blue",
+  "hex": "#F0F8FF",
+  "rgb": {
+    "r": 240,
+    "g": 248,
+    "b": 255
+  },
+  "rgb_string": "rgb(240, 248, 255)",
+  "hsl": {
+    "h": 208,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(208, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/aliceblue.json"
+}

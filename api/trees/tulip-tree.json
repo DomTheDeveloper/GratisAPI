@@ -1,0 +1,10 @@
+{
+  "id": "tulip-tree",
+  "common_name": "Tulip Tree",
+  "scientific_name": "Liriodendron tulipifera",
+  "family": "Magnoliaceae",
+  "type": "Deciduous",
+  "max_height_m": 50,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/tulip-tree.json"
+}

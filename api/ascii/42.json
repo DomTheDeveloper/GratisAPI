@@ -1,0 +1,10 @@
+{
+  "id": 42,
+  "decimal": 42,
+  "hex": "0x2A",
+  "octal": "0o052",
+  "binary": "00101010",
+  "character": "*",
+  "description": "Asterisk",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/42.json"
+}

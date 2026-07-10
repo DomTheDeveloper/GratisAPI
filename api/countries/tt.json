@@ -1,0 +1,13 @@
+{
+  "id": "tt",
+  "name": "Trinidad and Tobago",
+  "alpha2": "TT",
+  "alpha3": "TTO",
+  "capital": "Port of Spain",
+  "continent": "North America",
+  "currency_code": "TTD",
+  "currency": "Trinidad and Tobago Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇹🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tt.json"
+}

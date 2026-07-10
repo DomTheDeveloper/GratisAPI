@@ -1,0 +1,13 @@
+{
+  "id": "ad",
+  "name": "Andorra",
+  "alpha2": "AD",
+  "alpha3": "AND",
+  "capital": "Andorra la Vella",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇦🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ad.json"
+}

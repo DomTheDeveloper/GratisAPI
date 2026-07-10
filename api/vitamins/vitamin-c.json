@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-c",
+  "name": "Vitamin C",
+  "chemical_name": "Ascorbic acid",
+  "solubility": "Water",
+  "function": "Collagen synthesis and antioxidant defence",
+  "deficiency_disease": "Scurvy",
+  "food_sources": [
+    "Citrus",
+    "Peppers",
+    "Broccoli"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-c.json"
+}

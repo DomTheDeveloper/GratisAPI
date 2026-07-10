@@ -1,0 +1,11 @@
+{
+  "id": "markdown",
+  "mime_type": "text/markdown",
+  "name": "Markdown",
+  "category": "text",
+  "extensions": [
+    ".md",
+    ".markdown"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/markdown.json"
+}

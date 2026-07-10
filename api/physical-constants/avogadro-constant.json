@@ -1,0 +1,9 @@
+{
+  "id": "avogadro-constant",
+  "name": "Avogadro constant",
+  "symbol": "N_A",
+  "value": 6.02214076e+23,
+  "unit": "mol^-1",
+  "category": "Physicochemical",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/avogadro-constant.json"
+}

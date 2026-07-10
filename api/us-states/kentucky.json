@@ -1,0 +1,12 @@
+{
+  "id": "kentucky",
+  "name": "Kentucky",
+  "abbreviation": "KY",
+  "capital": "Frankfort",
+  "largest_city": "Louisville",
+  "population": 4505836,
+  "area_km2": 104656,
+  "statehood_year": 1792,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/kentucky.json"
+}

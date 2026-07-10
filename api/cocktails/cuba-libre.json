@@ -1,0 +1,9 @@
+{
+  "id": "cuba-libre",
+  "name": "Cuba Libre",
+  "base_spirit": "Rum",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/cuba-libre.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "polaris",
+  "name": "Polaris",
+  "constellation": "Ursa Minor",
+  "apparent_magnitude": 1.98,
+  "distance_ly": 433.0,
+  "spectral_type": "F7Ib",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/polaris.json"
+}

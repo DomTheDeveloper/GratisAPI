@@ -1,0 +1,13 @@
+{
+  "id": "gd",
+  "name": "Grenada",
+  "alpha2": "GD",
+  "alpha3": "GRD",
+  "capital": "Saint George's",
+  "continent": "North America",
+  "currency_code": "XCD",
+  "currency": "East Caribbean Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇬🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gd.json"
+}

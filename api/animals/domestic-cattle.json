@@ -1,0 +1,15 @@
+{
+  "id": "domestic-cattle",
+  "common_name": "Domestic Cattle",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Bos",
+  "species": "Bos taurus",
+  "conservation_status": "Domesticated",
+  "habitat": "Worldwide farmland and pasture",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/domestic-cattle.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "options",
+  "method": "OPTIONS",
+  "description": "Describes the communication options available for the target resource.",
+  "safe": true,
+  "idempotent": true,
+  "cacheable": false,
+  "has_request_body": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/options.json"
+}

@@ -1,0 +1,71 @@
+"""International Morse code for letters, digits and common punctuation."""
+
+META = {
+    "name": "morse_code",
+    "title": "Morse Code",
+    "description": "International Morse code for A-Z, 0-9 and common punctuation.",
+    "emoji": "\U0001F4E1",
+}
+
+# id, character, morse, type
+_RAW = [
+    ("a", "A", ".-", "letter"),
+    ("b", "B", "-...", "letter"),
+    ("c", "C", "-.-.", "letter"),
+    ("d", "D", "-..", "letter"),
+    ("e", "E", ".", "letter"),
+    ("f", "F", "..-.", "letter"),
+    ("g", "G", "--.", "letter"),
+    ("h", "H", "....", "letter"),
+    ("i", "I", "..", "letter"),
+    ("j", "J", ".---", "letter"),
+    ("k", "K", "-.-", "letter"),
+    ("l", "L", ".-..", "letter"),
+    ("m", "M", "--", "letter"),
+    ("n", "N", "-.", "letter"),
+    ("o", "O", "---", "letter"),
+    ("p", "P", ".--.", "letter"),
+    ("q", "Q", "--.-", "letter"),
+    ("r", "R", ".-.", "letter"),
+    ("s", "S", "...", "letter"),
+    ("t", "T", "-", "letter"),
+    ("u", "U", "..-", "letter"),
+    ("v", "V", "...-", "letter"),
+    ("w", "W", ".--", "letter"),
+    ("x", "X", "-..-", "letter"),
+    ("y", "Y", "-.--", "letter"),
+    ("z", "Z", "--..", "letter"),
+    ("0", "0", "-----", "digit"),
+    ("1", "1", ".----", "digit"),
+    ("2", "2", "..---", "digit"),
+    ("3", "3", "...--", "digit"),
+    ("4", "4", "....-", "digit"),
+    ("5", "5", ".....", "digit"),
+    ("6", "6", "-....", "digit"),
+    ("7", "7", "--...", "digit"),
+    ("8", "8", "---..", "digit"),
+    ("9", "9", "----.", "digit"),
+    ("period", ".", ".-.-.-", "punctuation"),
+    ("comma", ",", "--..--", "punctuation"),
+    ("question_mark", "?", "..--..", "punctuation"),
+    ("apostrophe", "'", ".----.", "punctuation"),
+    ("exclamation_mark", "!", "-.-.--", "punctuation"),
+    ("slash", "/", "-..-.", "punctuation"),
+    ("open_parenthesis", "(", "-.--.", "punctuation"),
+    ("close_parenthesis", ")", "-.--.-", "punctuation"),
+    ("ampersand", "&", ".-...", "punctuation"),
+    ("colon", ":", "---...", "punctuation"),
+    ("semicolon", ";", "-.-.-.", "punctuation"),
+    ("equals", "=", "-...-", "punctuation"),
+    ("plus", "+", ".-.-.", "punctuation"),
+    ("hyphen", "-", "-....-", "punctuation"),
+    ("underscore", "_", "..--.-", "punctuation"),
+    ("quotation_mark", "\"", ".-..-.", "punctuation"),
+    ("dollar_sign", "$", "...-..-", "punctuation"),
+    ("at_sign", "@", ".--.-.", "punctuation"),
+]
+
+ITEMS = [
+    {"id": item_id, "character": char, "morse": morse, "type": kind}
+    for item_id, char, morse, kind in _RAW
+]

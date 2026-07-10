@@ -1,0 +1,13 @@
+{
+  "id": "ly",
+  "name": "Libya",
+  "alpha2": "LY",
+  "alpha3": "LBY",
+  "capital": "Tripoli",
+  "continent": "Africa",
+  "currency_code": "LYD",
+  "currency": "Libyan Dinar",
+  "population_millions": 7,
+  "flag_emoji": "🇱🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ly.json"
+}

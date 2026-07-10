@@ -1,0 +1,18 @@
+{
+  "id": "b-negative",
+  "group": "B-",
+  "can_donate_to": [
+    "B-",
+    "B+",
+    "AB-",
+    "AB+"
+  ],
+  "can_receive_from": [
+    "O-",
+    "B-"
+  ],
+  "is_universal_donor": false,
+  "is_universal_recipient": false,
+  "approx_global_percent": 2.0,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/b-negative.json"
+}

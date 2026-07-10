@@ -1,0 +1,8 @@
+{
+  "id": "GHS",
+  "code": "GHS",
+  "name": "Ghanaian Cedi",
+  "symbol": "₵",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/GHS.json"
+}

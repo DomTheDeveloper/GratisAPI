@@ -1,0 +1,9 @@
+{
+  "id": "exotic-shorthair",
+  "name": "Exotic Shorthair",
+  "origin": "United States",
+  "coat": "Short",
+  "temperament": "Gentle, calm and affectionate",
+  "life_expectancy_years": "12-15",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cat-breeds/exotic-shorthair.json"
+}

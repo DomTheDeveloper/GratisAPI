@@ -1,0 +1,9 @@
+{
+  "id": "singapore-sling",
+  "name": "Singapore Sling",
+  "base_spirit": "Gin",
+  "type": "Sling",
+  "glass": "Hurricane",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/singapore-sling.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "great-tit",
+  "common_name": "Great Tit",
+  "scientific_name": "Parus major",
+  "family": "Paridae",
+  "habitat": "Woodlands and gardens",
+  "diet": "Omnivore",
+  "wingspan_cm": 24,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/great-tit.json"
+}

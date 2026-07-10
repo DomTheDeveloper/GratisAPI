@@ -1,0 +1,13 @@
+{
+  "id": "cd",
+  "name": "Democratic Republic of the Congo",
+  "alpha2": "CD",
+  "alpha3": "COD",
+  "capital": "Kinshasa",
+  "continent": "Africa",
+  "currency_code": "CDF",
+  "currency": "Congolese Franc",
+  "population_millions": 96,
+  "flag_emoji": "🇨🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cd.json"
+}

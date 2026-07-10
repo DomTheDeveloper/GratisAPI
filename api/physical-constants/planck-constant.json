@@ -1,0 +1,9 @@
+{
+  "id": "planck-constant",
+  "name": "Planck constant",
+  "symbol": "h",
+  "value": 6.62607015e-34,
+  "unit": "J s",
+  "category": "Universal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/planck-constant.json"
+}

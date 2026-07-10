@@ -1,0 +1,15 @@
+{
+  "id": "rock-dove",
+  "common_name": "Rock Dove",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Columbiformes",
+  "family": "Columbidae",
+  "genus": "Columba",
+  "species": "Columba livia",
+  "conservation_status": "Least Concern",
+  "habitat": "Cliffs and cities worldwide",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/rock-dove.json"
+}

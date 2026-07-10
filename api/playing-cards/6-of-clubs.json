@@ -1,0 +1,9 @@
+{
+  "id": "6-of-clubs",
+  "rank": "6",
+  "suit": "Clubs",
+  "color": "Black",
+  "value": 6,
+  "symbol": "♣",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/6-of-clubs.json"
+}

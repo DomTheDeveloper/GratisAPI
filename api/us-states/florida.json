@@ -1,0 +1,12 @@
+{
+  "id": "florida",
+  "name": "Florida",
+  "abbreviation": "FL",
+  "capital": "Tallahassee",
+  "largest_city": "Jacksonville",
+  "population": 21538187,
+  "area_km2": 170312,
+  "statehood_year": 1845,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/florida.json"
+}

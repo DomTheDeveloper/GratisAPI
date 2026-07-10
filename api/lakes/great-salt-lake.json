@@ -1,0 +1,9 @@
+{
+  "id": "great-salt-lake",
+  "name": "Great Salt Lake",
+  "area_km2": 4400,
+  "max_depth_m": 10,
+  "continent": "North America",
+  "type": "Salt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/great-salt-lake.json"
+}

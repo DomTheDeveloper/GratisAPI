@@ -1,0 +1,18 @@
+{
+  "id": "thistle",
+  "name": "Thistle",
+  "hex": "#D8BFD8",
+  "rgb": {
+    "r": 216,
+    "g": 191,
+    "b": 216
+  },
+  "rgb_string": "rgb(216, 191, 216)",
+  "hsl": {
+    "h": 300,
+    "s": 24,
+    "l": 80
+  },
+  "hsl_string": "hsl(300, 24%, 80%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/thistle.json"
+}

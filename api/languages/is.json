@@ -1,0 +1,9 @@
+{
+  "id": "is",
+  "code": "is",
+  "name": "Icelandic",
+  "native_name": "Íslenska",
+  "direction": "ltr",
+  "speakers_millions": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/is.json"
+}

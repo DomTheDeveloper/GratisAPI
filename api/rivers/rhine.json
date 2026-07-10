@@ -1,0 +1,9 @@
+{
+  "id": "rhine",
+  "name": "Rhine",
+  "length_km": 1233,
+  "continent": "Europe",
+  "outflow": "North Sea",
+  "countries": "Switzerland, Germany, Netherlands",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/rhine.json"
+}

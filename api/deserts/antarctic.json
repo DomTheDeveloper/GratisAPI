@@ -1,0 +1,8 @@
+{
+  "id": "antarctic",
+  "name": "Antarctic Desert",
+  "area_km2": 14000000,
+  "continent": "Antarctica",
+  "type": "Cold (polar)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/antarctic.json"
+}

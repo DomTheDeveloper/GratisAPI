@@ -1,0 +1,9 @@
+{
+  "id": "victoria-falls",
+  "name": "Victoria Falls",
+  "height_m": 108,
+  "river": "Zambezi River",
+  "country": "Zambia / Zimbabwe",
+  "continent": "Africa",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/victoria-falls.json"
+}

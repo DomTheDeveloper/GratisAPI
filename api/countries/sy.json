@@ -1,0 +1,13 @@
+{
+  "id": "sy",
+  "name": "Syria",
+  "alpha2": "SY",
+  "alpha3": "SYR",
+  "capital": "Damascus",
+  "continent": "Asia",
+  "currency_code": "SYP",
+  "currency": "Syrian Pound",
+  "population_millions": 22,
+  "flag_emoji": "🇸🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sy.json"
+}

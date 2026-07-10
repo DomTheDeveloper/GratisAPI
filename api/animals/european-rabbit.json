@@ -1,0 +1,15 @@
+{
+  "id": "european-rabbit",
+  "common_name": "European Rabbit",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Lagomorpha",
+  "family": "Leporidae",
+  "genus": "Oryctolagus",
+  "species": "Oryctolagus cuniculus",
+  "conservation_status": "Endangered",
+  "habitat": "Grasslands and woodland edges",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/european-rabbit.json"
+}

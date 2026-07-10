@@ -1,0 +1,10 @@
+{
+  "id": "put",
+  "method": "PUT",
+  "description": "Replaces all current representations of the target resource with the request payload.",
+  "safe": false,
+  "idempotent": true,
+  "cacheable": false,
+  "has_request_body": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/put.json"
+}

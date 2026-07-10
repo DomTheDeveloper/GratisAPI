@@ -1,0 +1,10 @@
+{
+  "id": "woff",
+  "mime_type": "font/woff",
+  "name": "WOFF Font",
+  "category": "font",
+  "extensions": [
+    ".woff"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/woff.json"
+}

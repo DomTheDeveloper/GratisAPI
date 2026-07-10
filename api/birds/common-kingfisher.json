@@ -1,0 +1,11 @@
+{
+  "id": "common-kingfisher",
+  "common_name": "Common Kingfisher",
+  "scientific_name": "Alcedo atthis",
+  "family": "Alcedinidae",
+  "habitat": "Rivers, streams and lakes",
+  "diet": "Carnivore",
+  "wingspan_cm": 25,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/common-kingfisher.json"
+}

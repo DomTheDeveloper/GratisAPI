@@ -1,0 +1,11 @@
+{
+  "id": "edmontosaurus",
+  "name": "Edmontosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 12.0,
+  "weight_kg": 4000,
+  "region": "Western North America",
+  "meaning": "Lizard from Edmonton",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/edmontosaurus.json"
+}

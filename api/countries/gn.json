@@ -1,0 +1,13 @@
+{
+  "id": "gn",
+  "name": "Guinea",
+  "alpha2": "GN",
+  "alpha3": "GIN",
+  "capital": "Conakry",
+  "continent": "Africa",
+  "currency_code": "GNF",
+  "currency": "Guinean Franc",
+  "population_millions": 13,
+  "flag_emoji": "🇬🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gn.json"
+}

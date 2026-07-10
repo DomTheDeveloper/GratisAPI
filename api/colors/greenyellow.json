@@ -1,0 +1,18 @@
+{
+  "id": "greenyellow",
+  "name": "Green Yellow",
+  "hex": "#ADFF2F",
+  "rgb": {
+    "r": 173,
+    "g": 255,
+    "b": 47
+  },
+  "rgb_string": "rgb(173, 255, 47)",
+  "hsl": {
+    "h": 84,
+    "s": 100,
+    "l": 59
+  },
+  "hsl_string": "hsl(84, 100%, 59%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/greenyellow.json"
+}

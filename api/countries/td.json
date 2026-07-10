@@ -1,0 +1,13 @@
+{
+  "id": "td",
+  "name": "Chad",
+  "alpha2": "TD",
+  "alpha3": "TCD",
+  "capital": "N'Djamena",
+  "continent": "Africa",
+  "currency_code": "XAF",
+  "currency": "Central African CFA Franc",
+  "population_millions": 17,
+  "flag_emoji": "🇹🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/td.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blue-whale",
+  "common_name": "Blue Whale",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Balaenopteridae",
+  "genus": "Balaenoptera",
+  "species": "Balaenoptera musculus",
+  "conservation_status": "Endangered",
+  "habitat": "Open oceans worldwide",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/blue-whale.json"
+}

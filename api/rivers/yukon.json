@@ -1,0 +1,9 @@
+{
+  "id": "yukon",
+  "name": "Yukon",
+  "length_km": 3190,
+  "continent": "North America",
+  "outflow": "Bering Sea",
+  "countries": "United States, Canada",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yukon.json"
+}

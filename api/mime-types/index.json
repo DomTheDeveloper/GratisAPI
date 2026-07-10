@@ -1,0 +1,640 @@
+{
+  "api": "mime-types",
+  "title": "MIME Types",
+  "description": "Common MIME (media) types with their category and typical file extensions.",
+  "emoji": "📄",
+  "license": "GPL-2.0-or-later",
+  "count": 61,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/{id}.json"
+  },
+  "fields": [
+    "category",
+    "extensions",
+    "id",
+    "mime_type",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "json",
+      "mime_type": "application/json",
+      "name": "JSON",
+      "category": "application",
+      "extensions": [
+        ".json"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/json.json"
+    },
+    {
+      "id": "xml-app",
+      "mime_type": "application/xml",
+      "name": "XML",
+      "category": "application",
+      "extensions": [
+        ".xml"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xml-app.json"
+    },
+    {
+      "id": "pdf",
+      "mime_type": "application/pdf",
+      "name": "PDF Document",
+      "category": "application",
+      "extensions": [
+        ".pdf"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/pdf.json"
+    },
+    {
+      "id": "zip",
+      "mime_type": "application/zip",
+      "name": "ZIP Archive",
+      "category": "application",
+      "extensions": [
+        ".zip"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/zip.json"
+    },
+    {
+      "id": "gzip",
+      "mime_type": "application/gzip",
+      "name": "Gzip Archive",
+      "category": "application",
+      "extensions": [
+        ".gz"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/gzip.json"
+    },
+    {
+      "id": "tar",
+      "mime_type": "application/x-tar",
+      "name": "Tape Archive",
+      "category": "application",
+      "extensions": [
+        ".tar"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/tar.json"
+    },
+    {
+      "id": "7z",
+      "mime_type": "application/x-7z-compressed",
+      "name": "7-Zip Archive",
+      "category": "application",
+      "extensions": [
+        ".7z"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/7z.json"
+    },
+    {
+      "id": "rar",
+      "mime_type": "application/vnd.rar",
+      "name": "RAR Archive",
+      "category": "application",
+      "extensions": [
+        ".rar"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/rar.json"
+    },
+    {
+      "id": "octet-stream",
+      "mime_type": "application/octet-stream",
+      "name": "Binary Data",
+      "category": "application",
+      "extensions": [
+        ".bin"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/octet-stream.json"
+    },
+    {
+      "id": "form-urlencoded",
+      "mime_type": "application/x-www-form-urlencoded",
+      "name": "URL-Encoded Form",
+      "category": "application",
+      "extensions": [],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/form-urlencoded.json"
+    },
+    {
+      "id": "javascript",
+      "mime_type": "application/javascript",
+      "name": "JavaScript",
+      "category": "application",
+      "extensions": [
+        ".js"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/javascript.json"
+    },
+    {
+      "id": "wasm",
+      "mime_type": "application/wasm",
+      "name": "WebAssembly",
+      "category": "application",
+      "extensions": [
+        ".wasm"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/wasm.json"
+    },
+    {
+      "id": "sql",
+      "mime_type": "application/sql",
+      "name": "SQL",
+      "category": "application",
+      "extensions": [
+        ".sql"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/sql.json"
+    },
+    {
+      "id": "doc",
+      "mime_type": "application/msword",
+      "name": "Microsoft Word (Legacy)",
+      "category": "application",
+      "extensions": [
+        ".doc"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/doc.json"
+    },
+    {
+      "id": "docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Microsoft Word",
+      "category": "application",
+      "extensions": [
+        ".docx"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/docx.json"
+    },
+    {
+      "id": "xls",
+      "mime_type": "application/vnd.ms-excel",
+      "name": "Microsoft Excel (Legacy)",
+      "category": "application",
+      "extensions": [
+        ".xls"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xls.json"
+    },
+    {
+      "id": "xlsx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Microsoft Excel",
+      "category": "application",
+      "extensions": [
+        ".xlsx"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xlsx.json"
+    },
+    {
+      "id": "ppt",
+      "mime_type": "application/vnd.ms-powerpoint",
+      "name": "Microsoft PowerPoint (Legacy)",
+      "category": "application",
+      "extensions": [
+        ".ppt"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ppt.json"
+    },
+    {
+      "id": "pptx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "name": "Microsoft PowerPoint",
+      "category": "application",
+      "extensions": [
+        ".pptx"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/pptx.json"
+    },
+    {
+      "id": "odt",
+      "mime_type": "application/vnd.oasis.opendocument.text",
+      "name": "OpenDocument Text",
+      "category": "application",
+      "extensions": [
+        ".odt"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/odt.json"
+    },
+    {
+      "id": "ods",
+      "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+      "name": "OpenDocument Spreadsheet",
+      "category": "application",
+      "extensions": [
+        ".ods"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ods.json"
+    },
+    {
+      "id": "epub",
+      "mime_type": "application/epub+zip",
+      "name": "EPUB E-Book",
+      "category": "application",
+      "extensions": [
+        ".epub"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/epub.json"
+    },
+    {
+      "id": "rtf",
+      "mime_type": "application/rtf",
+      "name": "Rich Text Format",
+      "category": "application",
+      "extensions": [
+        ".rtf"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/rtf.json"
+    },
+    {
+      "id": "ld-json",
+      "mime_type": "application/ld+json",
+      "name": "JSON-LD",
+      "category": "application",
+      "extensions": [
+        ".jsonld"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ld-json.json"
+    },
+    {
+      "id": "ttf-app",
+      "mime_type": "application/font-sfnt",
+      "name": "SFNT Font",
+      "category": "application",
+      "extensions": [
+        ".ttf",
+        ".otf"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ttf-app.json"
+    },
+    {
+      "id": "plain",
+      "mime_type": "text/plain",
+      "name": "Plain Text",
+      "category": "text",
+      "extensions": [
+        ".txt"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/plain.json"
+    },
+    {
+      "id": "html",
+      "mime_type": "text/html",
+      "name": "HTML",
+      "category": "text",
+      "extensions": [
+        ".html",
+        ".htm"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/html.json"
+    },
+    {
+      "id": "css",
+      "mime_type": "text/css",
+      "name": "CSS",
+      "category": "text",
+      "extensions": [
+        ".css"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/css.json"
+    },
+    {
+      "id": "csv",
+      "mime_type": "text/csv",
+      "name": "CSV",
+      "category": "text",
+      "extensions": [
+        ".csv"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/csv.json"
+    },
+    {
+      "id": "xml-text",
+      "mime_type": "text/xml",
+      "name": "XML (Text)",
+      "category": "text",
+      "extensions": [
+        ".xml"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xml-text.json"
+    },
+    {
+      "id": "markdown",
+      "mime_type": "text/markdown",
+      "name": "Markdown",
+      "category": "text",
+      "extensions": [
+        ".md",
+        ".markdown"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/markdown.json"
+    },
+    {
+      "id": "javascript-text",
+      "mime_type": "text/javascript",
+      "name": "JavaScript (Text)",
+      "category": "text",
+      "extensions": [
+        ".js",
+        ".mjs"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/javascript-text.json"
+    },
+    {
+      "id": "calendar",
+      "mime_type": "text/calendar",
+      "name": "iCalendar",
+      "category": "text",
+      "extensions": [
+        ".ics"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/calendar.json"
+    },
+    {
+      "id": "yaml",
+      "mime_type": "text/yaml",
+      "name": "YAML",
+      "category": "text",
+      "extensions": [
+        ".yaml",
+        ".yml"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/yaml.json"
+    },
+    {
+      "id": "png",
+      "mime_type": "image/png",
+      "name": "PNG Image",
+      "category": "image",
+      "extensions": [
+        ".png"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/png.json"
+    },
+    {
+      "id": "jpeg",
+      "mime_type": "image/jpeg",
+      "name": "JPEG Image",
+      "category": "image",
+      "extensions": [
+        ".jpg",
+        ".jpeg"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/jpeg.json"
+    },
+    {
+      "id": "gif",
+      "mime_type": "image/gif",
+      "name": "GIF Image",
+      "category": "image",
+      "extensions": [
+        ".gif"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/gif.json"
+    },
+    {
+      "id": "webp",
+      "mime_type": "image/webp",
+      "name": "WebP Image",
+      "category": "image",
+      "extensions": [
+        ".webp"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/webp.json"
+    },
+    {
+      "id": "svg",
+      "mime_type": "image/svg+xml",
+      "name": "SVG Image",
+      "category": "image",
+      "extensions": [
+        ".svg"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/svg.json"
+    },
+    {
+      "id": "bmp",
+      "mime_type": "image/bmp",
+      "name": "Bitmap Image",
+      "category": "image",
+      "extensions": [
+        ".bmp"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/bmp.json"
+    },
+    {
+      "id": "tiff",
+      "mime_type": "image/tiff",
+      "name": "TIFF Image",
+      "category": "image",
+      "extensions": [
+        ".tif",
+        ".tiff"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/tiff.json"
+    },
+    {
+      "id": "ico",
+      "mime_type": "image/vnd.microsoft.icon",
+      "name": "Icon",
+      "category": "image",
+      "extensions": [
+        ".ico"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ico.json"
+    },
+    {
+      "id": "avif",
+      "mime_type": "image/avif",
+      "name": "AVIF Image",
+      "category": "image",
+      "extensions": [
+        ".avif"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/avif.json"
+    },
+    {
+      "id": "heic",
+      "mime_type": "image/heic",
+      "name": "HEIC Image",
+      "category": "image",
+      "extensions": [
+        ".heic"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/heic.json"
+    },
+    {
+      "id": "mp3",
+      "mime_type": "audio/mpeg",
+      "name": "MP3 Audio",
+      "category": "audio",
+      "extensions": [
+        ".mp3"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/mp3.json"
+    },
+    {
+      "id": "wav",
+      "mime_type": "audio/wav",
+      "name": "WAV Audio",
+      "category": "audio",
+      "extensions": [
+        ".wav"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/wav.json"
+    },
+    {
+      "id": "ogg-audio",
+      "mime_type": "audio/ogg",
+      "name": "Ogg Audio",
+      "category": "audio",
+      "extensions": [
+        ".ogg",
+        ".oga"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ogg-audio.json"
+    },
+    {
+      "id": "aac",
+      "mime_type": "audio/aac",
+      "name": "AAC Audio",
+      "category": "audio",
+      "extensions": [
+        ".aac"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/aac.json"
+    },
+    {
+      "id": "flac",
+      "mime_type": "audio/flac",
+      "name": "FLAC Audio",
+      "category": "audio",
+      "extensions": [
+        ".flac"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/flac.json"
+    },
+    {
+      "id": "webm-audio",
+      "mime_type": "audio/webm",
+      "name": "WebM Audio",
+      "category": "audio",
+      "extensions": [
+        ".weba"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/webm-audio.json"
+    },
+    {
+      "id": "midi",
+      "mime_type": "audio/midi",
+      "name": "MIDI Audio",
+      "category": "audio",
+      "extensions": [
+        ".mid",
+        ".midi"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/midi.json"
+    },
+    {
+      "id": "mp4",
+      "mime_type": "video/mp4",
+      "name": "MP4 Video",
+      "category": "video",
+      "extensions": [
+        ".mp4"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/mp4.json"
+    },
+    {
+      "id": "webm-video",
+      "mime_type": "video/webm",
+      "name": "WebM Video",
+      "category": "video",
+      "extensions": [
+        ".webm"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/webm-video.json"
+    },
+    {
+      "id": "ogg-video",
+      "mime_type": "video/ogg",
+      "name": "Ogg Video",
+      "category": "video",
+      "extensions": [
+        ".ogv"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ogg-video.json"
+    },
+    {
+      "id": "mpeg-video",
+      "mime_type": "video/mpeg",
+      "name": "MPEG Video",
+      "category": "video",
+      "extensions": [
+        ".mpeg",
+        ".mpg"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/mpeg-video.json"
+    },
+    {
+      "id": "quicktime",
+      "mime_type": "video/quicktime",
+      "name": "QuickTime Video",
+      "category": "video",
+      "extensions": [
+        ".mov"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/quicktime.json"
+    },
+    {
+      "id": "avi",
+      "mime_type": "video/x-msvideo",
+      "name": "AVI Video",
+      "category": "video",
+      "extensions": [
+        ".avi"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/avi.json"
+    },
+    {
+      "id": "woff",
+      "mime_type": "font/woff",
+      "name": "WOFF Font",
+      "category": "font",
+      "extensions": [
+        ".woff"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/woff.json"
+    },
+    {
+      "id": "woff2",
+      "mime_type": "font/woff2",
+      "name": "WOFF2 Font",
+      "category": "font",
+      "extensions": [
+        ".woff2"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/woff2.json"
+    },
+    {
+      "id": "ttf",
+      "mime_type": "font/ttf",
+      "name": "TrueType Font",
+      "category": "font",
+      "extensions": [
+        ".ttf"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ttf.json"
+    },
+    {
+      "id": "otf",
+      "mime_type": "font/otf",
+      "name": "OpenType Font",
+      "category": "font",
+      "extensions": [
+        ".otf"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/otf.json"
+    }
+  ]
+}

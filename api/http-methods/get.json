@@ -1,0 +1,10 @@
+{
+  "id": "get",
+  "method": "GET",
+  "description": "Requests a representation of the specified resource without modifying it.",
+  "safe": true,
+  "idempotent": true,
+  "cacheable": true,
+  "has_request_body": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/get.json"
+}

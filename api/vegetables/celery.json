@@ -1,0 +1,10 @@
+{
+  "id": "celery",
+  "name": "Celery",
+  "scientific_name": "Apium graveolens",
+  "family": "Apiaceae",
+  "type": "Stem",
+  "color": "Green",
+  "calories_per_100g": 16,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/celery.json"
+}

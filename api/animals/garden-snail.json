@@ -1,0 +1,15 @@
+{
+  "id": "garden-snail",
+  "common_name": "Garden Snail",
+  "kingdom": "Animalia",
+  "phylum": "Mollusca",
+  "class": "Gastropoda",
+  "order": "Stylommatophora",
+  "family": "Helicidae",
+  "genus": "Cornu",
+  "species": "Cornu aspersum",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Gardens and hedgerows",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/garden-snail.json"
+}

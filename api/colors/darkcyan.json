@@ -1,0 +1,18 @@
+{
+  "id": "darkcyan",
+  "name": "Dark Cyan",
+  "hex": "#008B8B",
+  "rgb": {
+    "r": 0,
+    "g": 139,
+    "b": 139
+  },
+  "rgb_string": "rgb(0, 139, 139)",
+  "hsl": {
+    "h": 180,
+    "s": 100,
+    "l": 27
+  },
+  "hsl_string": "hsl(180, 100%, 27%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkcyan.json"
+}

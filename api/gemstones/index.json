@@ -1,0 +1,302 @@
+{
+  "api": "gemstones",
+  "title": "Gemstones",
+  "description": "Popular gemstones with typical color, Mohs hardness, crystal system, and precious classification.",
+  "emoji": "💎",
+  "license": "GPL-2.0-or-later",
+  "count": 31,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/{id}.json"
+  },
+  "fields": [
+    "color",
+    "crystal_system",
+    "id",
+    "mohs_hardness",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "color": "Colorless",
+      "mohs_hardness": 10.0,
+      "crystal_system": "Cubic",
+      "type": "Precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/diamond.json"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "color": "Red",
+      "mohs_hardness": 9.0,
+      "crystal_system": "Trigonal",
+      "type": "Precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/ruby.json"
+    },
+    {
+      "id": "sapphire",
+      "name": "Sapphire",
+      "color": "Blue",
+      "mohs_hardness": 9.0,
+      "crystal_system": "Trigonal",
+      "type": "Precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/sapphire.json"
+    },
+    {
+      "id": "emerald",
+      "name": "Emerald",
+      "color": "Green",
+      "mohs_hardness": 7.5,
+      "crystal_system": "Hexagonal",
+      "type": "Precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/emerald.json"
+    },
+    {
+      "id": "amethyst",
+      "name": "Amethyst",
+      "color": "Purple",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/amethyst.json"
+    },
+    {
+      "id": "aquamarine",
+      "name": "Aquamarine",
+      "color": "Pale blue",
+      "mohs_hardness": 7.5,
+      "crystal_system": "Hexagonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/aquamarine.json"
+    },
+    {
+      "id": "topaz",
+      "name": "Topaz",
+      "color": "Golden yellow",
+      "mohs_hardness": 8.0,
+      "crystal_system": "Orthorhombic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/topaz.json"
+    },
+    {
+      "id": "opal",
+      "name": "Opal",
+      "color": "Iridescent",
+      "mohs_hardness": 5.5,
+      "crystal_system": null,
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/opal.json"
+    },
+    {
+      "id": "garnet",
+      "name": "Garnet",
+      "color": "Deep red",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Cubic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/garnet.json"
+    },
+    {
+      "id": "peridot",
+      "name": "Peridot",
+      "color": "Lime green",
+      "mohs_hardness": 6.75,
+      "crystal_system": "Orthorhombic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/peridot.json"
+    },
+    {
+      "id": "turquoise",
+      "name": "Turquoise",
+      "color": "Blue-green",
+      "mohs_hardness": 5.5,
+      "crystal_system": "Triclinic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/turquoise.json"
+    },
+    {
+      "id": "tourmaline",
+      "name": "Tourmaline",
+      "color": "Various",
+      "mohs_hardness": 7.25,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/tourmaline.json"
+    },
+    {
+      "id": "citrine",
+      "name": "Citrine",
+      "color": "Yellow",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/citrine.json"
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "color": "Green",
+      "mohs_hardness": 6.5,
+      "crystal_system": "Monoclinic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/jade.json"
+    },
+    {
+      "id": "lapis-lazuli",
+      "name": "Lapis Lazuli",
+      "color": "Deep blue",
+      "mohs_hardness": 5.5,
+      "crystal_system": "Cubic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/lapis-lazuli.json"
+    },
+    {
+      "id": "onyx",
+      "name": "Onyx",
+      "color": "Black",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/onyx.json"
+    },
+    {
+      "id": "pearl",
+      "name": "Pearl",
+      "color": "White",
+      "mohs_hardness": 2.75,
+      "crystal_system": null,
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/pearl.json"
+    },
+    {
+      "id": "moonstone",
+      "name": "Moonstone",
+      "color": "White sheen",
+      "mohs_hardness": 6.0,
+      "crystal_system": "Monoclinic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/moonstone.json"
+    },
+    {
+      "id": "zircon",
+      "name": "Zircon",
+      "color": "Various",
+      "mohs_hardness": 7.5,
+      "crystal_system": "Tetragonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/zircon.json"
+    },
+    {
+      "id": "spinel",
+      "name": "Spinel",
+      "color": "Red to pink",
+      "mohs_hardness": 8.0,
+      "crystal_system": "Cubic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/spinel.json"
+    },
+    {
+      "id": "tanzanite",
+      "name": "Tanzanite",
+      "color": "Blue-violet",
+      "mohs_hardness": 6.5,
+      "crystal_system": "Orthorhombic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/tanzanite.json"
+    },
+    {
+      "id": "malachite",
+      "name": "Malachite",
+      "color": "Green",
+      "mohs_hardness": 3.75,
+      "crystal_system": "Monoclinic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/malachite.json"
+    },
+    {
+      "id": "agate",
+      "name": "Agate",
+      "color": "Banded",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/agate.json"
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "color": "Various",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/jasper.json"
+    },
+    {
+      "id": "carnelian",
+      "name": "Carnelian",
+      "color": "Orange-red",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/carnelian.json"
+    },
+    {
+      "id": "aventurine",
+      "name": "Aventurine",
+      "color": "Green",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/aventurine.json"
+    },
+    {
+      "id": "rose-quartz",
+      "name": "Rose Quartz",
+      "color": "Pink",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/rose-quartz.json"
+    },
+    {
+      "id": "smoky-quartz",
+      "name": "Smoky Quartz",
+      "color": "Brown-gray",
+      "mohs_hardness": 7.0,
+      "crystal_system": "Trigonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/smoky-quartz.json"
+    },
+    {
+      "id": "morganite",
+      "name": "Morganite",
+      "color": "Pink-peach",
+      "mohs_hardness": 7.5,
+      "crystal_system": "Hexagonal",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/morganite.json"
+    },
+    {
+      "id": "alexandrite",
+      "name": "Alexandrite",
+      "color": "Color-changing",
+      "mohs_hardness": 8.5,
+      "crystal_system": "Orthorhombic",
+      "type": "Precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/alexandrite.json"
+    },
+    {
+      "id": "labradorite",
+      "name": "Labradorite",
+      "color": "Iridescent gray",
+      "mohs_hardness": 6.5,
+      "crystal_system": "Triclinic",
+      "type": "Semi-precious",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/labradorite.json"
+    }
+  ]
+}

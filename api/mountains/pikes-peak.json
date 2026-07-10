@@ -1,0 +1,10 @@
+{
+  "id": "pikes-peak",
+  "name": "Pikes Peak",
+  "height_m": 4302,
+  "range": "Rocky Mountains",
+  "country": "United States",
+  "continent": "North America",
+  "first_ascent_year": 1820,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/pikes-peak.json"
+}

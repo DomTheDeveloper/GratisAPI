@@ -1,0 +1,9 @@
+{
+  "id": "rio-grande",
+  "name": "Rio Grande",
+  "length_km": 3057,
+  "continent": "North America",
+  "outflow": "Gulf of Mexico",
+  "countries": "United States, Mexico",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/rio-grande.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ab-positive",
+  "group": "AB+",
+  "can_donate_to": [
+    "AB+"
+  ],
+  "can_receive_from": [
+    "O-",
+    "O+",
+    "A-",
+    "A+",
+    "B-",
+    "B+",
+    "AB-",
+    "AB+"
+  ],
+  "is_universal_donor": false,
+  "is_universal_recipient": true,
+  "approx_global_percent": 5.0,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/ab-positive.json"
+}

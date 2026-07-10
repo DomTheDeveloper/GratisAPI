@@ -1,0 +1,8 @@
+{
+  "id": 425,
+  "code": 425,
+  "message": "Too Early",
+  "category": "Client Error",
+  "description": "The server is unwilling to risk processing a request that might be replayed.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/425.json"
+}

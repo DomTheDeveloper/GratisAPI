@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "force": 10,
+  "description": "Storm",
+  "wind_kmh_min": 89,
+  "wind_kmh_max": 102,
+  "conditions": "Trees uprooted; very high waves, sea white with foam.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/10.json"
+}

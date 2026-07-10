@@ -1,0 +1,11 @@
+{
+  "id": "argentinosaurus",
+  "name": "Argentinosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 35.0,
+  "weight_kg": 75000,
+  "region": "Argentina",
+  "meaning": "Argentine lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/argentinosaurus.json"
+}

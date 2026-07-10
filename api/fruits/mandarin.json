@@ -1,0 +1,11 @@
+{
+  "id": "mandarin",
+  "name": "Mandarin",
+  "scientific_name": "Citrus reticulata",
+  "family": "Rutaceae",
+  "type": "Citrus",
+  "color": "Orange",
+  "origin_region": "Southeast Asia",
+  "calories_per_100g": 53,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/mandarin.json"
+}

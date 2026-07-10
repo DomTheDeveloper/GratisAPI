@@ -1,0 +1,68 @@
+{
+  "api": "oceans",
+  "title": "Oceans",
+  "description": "The five oceans of the world with area, average and maximum depth.",
+  "emoji": "🌊",
+  "license": "GPL-2.0-or-later",
+  "count": 5,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/oceans/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/oceans/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/oceans/{id}.json"
+  },
+  "fields": [
+    "area_km2",
+    "avg_depth_m",
+    "deepest_point",
+    "id",
+    "max_depth_m",
+    "name"
+  ],
+  "results": [
+    {
+      "id": "pacific",
+      "name": "Pacific Ocean",
+      "area_km2": 165250000,
+      "avg_depth_m": 4280,
+      "max_depth_m": 10935,
+      "deepest_point": "Challenger Deep (Mariana Trench)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/pacific.json"
+    },
+    {
+      "id": "atlantic",
+      "name": "Atlantic Ocean",
+      "area_km2": 106460000,
+      "avg_depth_m": 3646,
+      "max_depth_m": 8376,
+      "deepest_point": "Milwaukee Deep (Puerto Rico Trench)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/atlantic.json"
+    },
+    {
+      "id": "indian",
+      "name": "Indian Ocean",
+      "area_km2": 70560000,
+      "avg_depth_m": 3741,
+      "max_depth_m": 7290,
+      "deepest_point": "Java Trench (Sunda Trench)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/indian.json"
+    },
+    {
+      "id": "southern",
+      "name": "Southern Ocean",
+      "area_km2": 21960000,
+      "avg_depth_m": 3270,
+      "max_depth_m": 7434,
+      "deepest_point": "Factorian Deep (South Sandwich Trench)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/southern.json"
+    },
+    {
+      "id": "arctic",
+      "name": "Arctic Ocean",
+      "area_km2": 15558000,
+      "avg_depth_m": 1205,
+      "max_depth_m": 5550,
+      "deepest_point": "Molloy Deep (Fram Strait)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/arctic.json"
+    }
+  ]
+}

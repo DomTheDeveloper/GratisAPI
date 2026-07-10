@@ -1,0 +1,10 @@
+{
+  "id": "wasm",
+  "mime_type": "application/wasm",
+  "name": "WebAssembly",
+  "category": "application",
+  "extensions": [
+    ".wasm"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/wasm.json"
+}

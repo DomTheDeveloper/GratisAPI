@@ -1,0 +1,9 @@
+{
+  "id": "ml",
+  "code": "ml",
+  "name": "Malayalam",
+  "native_name": "മലയാളം",
+  "direction": "ltr",
+  "speakers_millions": 37,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ml.json"
+}

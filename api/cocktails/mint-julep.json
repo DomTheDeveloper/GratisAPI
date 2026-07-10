@@ -1,0 +1,9 @@
+{
+  "id": "mint-julep",
+  "name": "Mint Julep",
+  "base_spirit": "Whiskey",
+  "type": "Julep",
+  "glass": "Julep Cup",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mint-julep.json"
+}

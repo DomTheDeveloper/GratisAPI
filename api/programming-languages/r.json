@@ -1,0 +1,13 @@
+{
+  "id": "r",
+  "name": "R",
+  "year": 1993,
+  "paradigm": [
+    "Functional",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Ross Ihaka and Robert Gentleman",
+  "extension": ".r",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/r.json"
+}

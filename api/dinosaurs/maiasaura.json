@@ -1,0 +1,11 @@
+{
+  "id": "maiasaura",
+  "name": "Maiasaura",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 9.0,
+  "weight_kg": 3000,
+  "region": "Western North America",
+  "meaning": "Good mother lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/maiasaura.json"
+}

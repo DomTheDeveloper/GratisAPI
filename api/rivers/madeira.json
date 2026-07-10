@@ -1,0 +1,9 @@
+{
+  "id": "madeira",
+  "name": "Madeira",
+  "length_km": 3250,
+  "continent": "South America",
+  "outflow": "Amazon River",
+  "countries": "Brazil, Bolivia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/madeira.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bj",
+  "name": "Benin",
+  "alpha2": "BJ",
+  "alpha3": "BEN",
+  "capital": "Porto-Novo",
+  "continent": "Africa",
+  "currency_code": "XOF",
+  "currency": "West African CFA Franc",
+  "population_millions": 13,
+  "flag_emoji": "🇧🇯",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bj.json"
+}

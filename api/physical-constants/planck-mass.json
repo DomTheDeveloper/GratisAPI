@@ -1,0 +1,9 @@
+{
+  "id": "planck-mass",
+  "name": "Planck mass",
+  "symbol": "m_P",
+  "value": 2.176434e-08,
+  "unit": "kg",
+  "category": "Universal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/planck-mass.json"
+}

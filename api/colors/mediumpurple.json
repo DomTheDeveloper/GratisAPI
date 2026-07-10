@@ -1,0 +1,18 @@
+{
+  "id": "mediumpurple",
+  "name": "Medium Purple",
+  "hex": "#9370DB",
+  "rgb": {
+    "r": 147,
+    "g": 112,
+    "b": 219
+  },
+  "rgb_string": "rgb(147, 112, 219)",
+  "hsl": {
+    "h": 260,
+    "s": 60,
+    "l": 65
+  },
+  "hsl_string": "hsl(260, 60%, 65%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumpurple.json"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nevada",
+  "name": "Nevada",
+  "abbreviation": "NV",
+  "capital": "Carson City",
+  "largest_city": "Las Vegas",
+  "population": 3104614,
+  "area_km2": 286380,
+  "statehood_year": 1864,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/nevada.json"
+}

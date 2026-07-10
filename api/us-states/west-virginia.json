@@ -1,0 +1,12 @@
+{
+  "id": "west-virginia",
+  "name": "West Virginia",
+  "abbreviation": "WV",
+  "capital": "Charleston",
+  "largest_city": "Charleston",
+  "population": 1793716,
+  "area_km2": 62756,
+  "statehood_year": 1863,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/west-virginia.json"
+}

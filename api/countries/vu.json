@@ -1,0 +1,13 @@
+{
+  "id": "vu",
+  "name": "Vanuatu",
+  "alpha2": "VU",
+  "alpha3": "VUT",
+  "capital": "Port Vila",
+  "continent": "Oceania",
+  "currency_code": "VUV",
+  "currency": "Vatu",
+  "population_millions": 1,
+  "flag_emoji": "🇻🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/vu.json"
+}

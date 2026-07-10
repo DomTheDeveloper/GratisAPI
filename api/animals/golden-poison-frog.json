@@ -1,0 +1,15 @@
+{
+  "id": "golden-poison-frog",
+  "common_name": "Golden Poison Frog",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Amphibia",
+  "order": "Anura",
+  "family": "Dendrobatidae",
+  "genus": "Phyllobates",
+  "species": "Phyllobates terribilis",
+  "conservation_status": "Endangered",
+  "habitat": "Rainforests of Colombia",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/golden-poison-frog.json"
+}

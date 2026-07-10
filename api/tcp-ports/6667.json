@@ -1,0 +1,8 @@
+{
+  "id": 6667,
+  "port": 6667,
+  "service": "ircd",
+  "protocol": "TCP",
+  "description": "IRC daemon for chat servers.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/6667.json"
+}

@@ -1,0 +1,118 @@
+{
+  "api": "birthstones",
+  "title": "Birthstones",
+  "description": "The traditional monthly birthstones with their color and symbolic meaning.",
+  "emoji": "💎",
+  "license": "GPL-2.0-or-later",
+  "count": 12,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/{id}.json"
+  },
+  "fields": [
+    "birthstone",
+    "color",
+    "id",
+    "meaning",
+    "month"
+  ],
+  "results": [
+    {
+      "id": "january",
+      "month": "January",
+      "birthstone": "Garnet",
+      "color": "Deep red",
+      "meaning": "Protection and enduring friendship",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/january.json"
+    },
+    {
+      "id": "february",
+      "month": "February",
+      "birthstone": "Amethyst",
+      "color": "Purple",
+      "meaning": "Peace, clarity, and courage",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/february.json"
+    },
+    {
+      "id": "march",
+      "month": "March",
+      "birthstone": "Aquamarine",
+      "color": "Pale blue",
+      "meaning": "Serenity and good health",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/march.json"
+    },
+    {
+      "id": "april",
+      "month": "April",
+      "birthstone": "Diamond",
+      "color": "Colorless",
+      "meaning": "Everlasting love and strength",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/april.json"
+    },
+    {
+      "id": "may",
+      "month": "May",
+      "birthstone": "Emerald",
+      "color": "Green",
+      "meaning": "Rebirth, love, and fertility",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/may.json"
+    },
+    {
+      "id": "june",
+      "month": "June",
+      "birthstone": "Pearl",
+      "color": "White",
+      "meaning": "Purity and wisdom",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/june.json"
+    },
+    {
+      "id": "july",
+      "month": "July",
+      "birthstone": "Ruby",
+      "color": "Red",
+      "meaning": "Passion, vitality, and protection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/july.json"
+    },
+    {
+      "id": "august",
+      "month": "August",
+      "birthstone": "Peridot",
+      "color": "Lime green",
+      "meaning": "Strength and good fortune",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/august.json"
+    },
+    {
+      "id": "september",
+      "month": "September",
+      "birthstone": "Sapphire",
+      "color": "Blue",
+      "meaning": "Wisdom, loyalty, and nobility",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/september.json"
+    },
+    {
+      "id": "october",
+      "month": "October",
+      "birthstone": "Opal",
+      "color": "Iridescent",
+      "meaning": "Hope, creativity, and innocence",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/october.json"
+    },
+    {
+      "id": "november",
+      "month": "November",
+      "birthstone": "Topaz",
+      "color": "Golden yellow",
+      "meaning": "Affection and strength",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/november.json"
+    },
+    {
+      "id": "december",
+      "month": "December",
+      "birthstone": "Turquoise",
+      "color": "Blue-green",
+      "meaning": "Good fortune and protection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/december.json"
+    }
+  ]
+}

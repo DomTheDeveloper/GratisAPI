@@ -1,0 +1,14 @@
+{
+  "id": "f-sharp",
+  "name": "F#",
+  "year": 2005,
+  "paradigm": [
+    "Functional",
+    "Object-oriented",
+    "Imperative"
+  ],
+  "typing": "Static",
+  "designed_by": "Don Syme (Microsoft)",
+  "extension": ".fs",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/f-sharp.json"
+}

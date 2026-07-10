@@ -1,0 +1,13 @@
+{
+  "id": "jm",
+  "name": "Jamaica",
+  "alpha2": "JM",
+  "alpha3": "JAM",
+  "capital": "Kingston",
+  "continent": "North America",
+  "currency_code": "JMD",
+  "currency": "Jamaican Dollar",
+  "population_millions": 3,
+  "flag_emoji": "🇯🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/jm.json"
+}

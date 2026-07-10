@@ -1,0 +1,18 @@
+{
+  "id": "darkturquoise",
+  "name": "Dark Turquoise",
+  "hex": "#00CED1",
+  "rgb": {
+    "r": 0,
+    "g": 206,
+    "b": 209
+  },
+  "rgb_string": "rgb(0, 206, 209)",
+  "hsl": {
+    "h": 181,
+    "s": 100,
+    "l": 41
+  },
+  "hsl_string": "hsl(181, 100%, 41%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkturquoise.json"
+}

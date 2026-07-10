@@ -1,0 +1,9 @@
+{
+  "id": "sigma",
+  "name": "Sigma",
+  "uppercase": "Σ",
+  "lowercase": "σ",
+  "transliteration": "s",
+  "numeric_value": 200,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/sigma.json"
+}

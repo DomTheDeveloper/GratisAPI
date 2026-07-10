@@ -1,0 +1,12 @@
+{
+  "id": "new-jersey",
+  "name": "New Jersey",
+  "abbreviation": "NJ",
+  "capital": "Trenton",
+  "largest_city": "Newark",
+  "population": 9288994,
+  "area_km2": 22591,
+  "statehood_year": 1787,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/new-jersey.json"
+}

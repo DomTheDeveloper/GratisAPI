@@ -1,0 +1,11 @@
+{
+  "id": "budgerigar",
+  "common_name": "Budgerigar",
+  "scientific_name": "Melopsittacus undulatus",
+  "family": "Psittaculidae",
+  "habitat": "Australian scrub and grassland",
+  "diet": "Herbivore",
+  "wingspan_cm": 30,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/budgerigar.json"
+}

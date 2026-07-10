@@ -1,0 +1,10 @@
+{
+  "id": "xml-text",
+  "mime_type": "text/xml",
+  "name": "XML (Text)",
+  "category": "text",
+  "extensions": [
+    ".xml"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xml-text.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ganymede",
+  "name": "Ganymede",
+  "planet": "Jupiter",
+  "radius_km": 2634.1,
+  "discovered_year": 1610,
+  "discovered_by": "Galileo Galilei",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/ganymede.json"
+}

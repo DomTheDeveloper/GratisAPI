@@ -1,0 +1,8 @@
+{
+  "id": 138,
+  "port": 138,
+  "service": "netbios-dgm",
+  "protocol": "UDP",
+  "description": "NetBIOS Datagram Service.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/138.json"
+}

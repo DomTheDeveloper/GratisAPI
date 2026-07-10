@@ -1,0 +1,9 @@
+{
+  "id": "queen",
+  "name": "Queen",
+  "symbol_white": "♕",
+  "symbol_black": "♛",
+  "value": 9,
+  "movement": "Any number of squares horizontally, vertically, or diagonally",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/queen.json"
+}

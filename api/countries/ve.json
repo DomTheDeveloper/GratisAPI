@@ -1,0 +1,13 @@
+{
+  "id": "ve",
+  "name": "Venezuela",
+  "alpha2": "VE",
+  "alpha3": "VEN",
+  "capital": "Caracas",
+  "continent": "South America",
+  "currency_code": "VES",
+  "currency": "Bolivar Soberano",
+  "population_millions": 28,
+  "flag_emoji": "🇻🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ve.json"
+}

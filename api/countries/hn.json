@@ -1,0 +1,13 @@
+{
+  "id": "hn",
+  "name": "Honduras",
+  "alpha2": "HN",
+  "alpha3": "HND",
+  "capital": "Tegucigalpa",
+  "continent": "North America",
+  "currency_code": "HNL",
+  "currency": "Lempira",
+  "population_millions": 10,
+  "flag_emoji": "🇭🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/hn.json"
+}

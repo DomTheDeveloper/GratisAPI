@@ -1,0 +1,9 @@
+{
+  "id": "smoky-quartz",
+  "name": "Smoky Quartz",
+  "color": "Brown-gray",
+  "mohs_hardness": 7.0,
+  "crystal_system": "Trigonal",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/smoky-quartz.json"
+}

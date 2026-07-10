@@ -1,0 +1,10 @@
+{
+  "id": "green-bean",
+  "name": "Green Bean",
+  "scientific_name": "Phaseolus vulgaris",
+  "family": "Fabaceae",
+  "type": "Legume",
+  "color": "Green",
+  "calories_per_100g": 31,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/green-bean.json"
+}

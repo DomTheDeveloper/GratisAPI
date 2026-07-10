@@ -1,0 +1,10 @@
+{
+  "id": "vizsla",
+  "name": "Vizsla",
+  "group": "Sporting",
+  "origin": "Hungary",
+  "size": "Medium",
+  "life_expectancy_years": "12-14",
+  "temperament": "Affectionate, energetic and gentle",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/vizsla.json"
+}

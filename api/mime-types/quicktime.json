@@ -1,0 +1,10 @@
+{
+  "id": "quicktime",
+  "mime_type": "video/quicktime",
+  "name": "QuickTime Video",
+  "category": "video",
+  "extensions": [
+    ".mov"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/quicktime.json"
+}

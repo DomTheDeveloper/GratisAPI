@@ -1,0 +1,10 @@
+{
+  "id": "american-sycamore",
+  "common_name": "American Sycamore",
+  "scientific_name": "Platanus occidentalis",
+  "family": "Platanaceae",
+  "type": "Deciduous",
+  "max_height_m": 40,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/american-sycamore.json"
+}

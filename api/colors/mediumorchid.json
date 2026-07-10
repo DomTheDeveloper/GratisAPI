@@ -1,0 +1,18 @@
+{
+  "id": "mediumorchid",
+  "name": "Medium Orchid",
+  "hex": "#BA55D3",
+  "rgb": {
+    "r": 186,
+    "g": 85,
+    "b": 211
+  },
+  "rgb_string": "rgb(186, 85, 211)",
+  "hsl": {
+    "h": 288,
+    "s": 59,
+    "l": 58
+  },
+  "hsl_string": "hsl(288, 59%, 58%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumorchid.json"
+}

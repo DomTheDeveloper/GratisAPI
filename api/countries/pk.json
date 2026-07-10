@@ -1,0 +1,13 @@
+{
+  "id": "pk",
+  "name": "Pakistan",
+  "alpha2": "PK",
+  "alpha3": "PAK",
+  "capital": "Islamabad",
+  "continent": "Asia",
+  "currency_code": "PKR",
+  "currency": "Pakistani Rupee",
+  "population_millions": 231,
+  "flag_emoji": "🇵🇰",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/pk.json"
+}

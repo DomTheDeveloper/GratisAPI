@@ -1,0 +1,10 @@
+{
+  "id": "head",
+  "method": "HEAD",
+  "description": "Identical to GET but returns only the headers without the response body.",
+  "safe": true,
+  "idempotent": true,
+  "cacheable": true,
+  "has_request_body": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/head.json"
+}

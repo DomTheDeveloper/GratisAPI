@@ -1,0 +1,9 @@
+{
+  "id": "allspice",
+  "name": "Allspice",
+  "plant_part": "Fruit",
+  "origin_region": "Caribbean",
+  "flavor": "Warm, complex",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/allspice.json"
+}

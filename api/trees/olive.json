@@ -1,0 +1,10 @@
+{
+  "id": "olive",
+  "common_name": "Olive",
+  "scientific_name": "Olea europaea",
+  "family": "Oleaceae",
+  "type": "Evergreen",
+  "max_height_m": 15,
+  "native_region": "Mediterranean Basin",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/olive.json"
+}

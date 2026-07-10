@@ -1,0 +1,9 @@
+{
+  "id": "congo",
+  "name": "Congo",
+  "length_km": 4700,
+  "continent": "Africa",
+  "outflow": "Atlantic Ocean",
+  "countries": "DR Congo, Congo, Angola",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/congo.json"
+}

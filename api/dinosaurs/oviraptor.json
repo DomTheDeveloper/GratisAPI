@@ -1,0 +1,11 @@
+{
+  "id": "oviraptor",
+  "name": "Oviraptor",
+  "period": "Late Cretaceous",
+  "diet": "Omnivore",
+  "length_m": 1.6,
+  "weight_kg": 33,
+  "region": "Mongolia",
+  "meaning": "Egg thief",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/oviraptor.json"
+}

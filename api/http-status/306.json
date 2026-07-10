@@ -1,0 +1,8 @@
+{
+  "id": 306,
+  "code": 306,
+  "message": "Switch Proxy",
+  "category": "Redirection",
+  "description": "No longer used; originally meant subsequent requests should use the specified proxy.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/306.json"
+}

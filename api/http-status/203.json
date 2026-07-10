@@ -1,0 +1,8 @@
+{
+  "id": 203,
+  "code": 203,
+  "message": "Non-Authoritative Information",
+  "category": "Success",
+  "description": "The returned metadata is from a local or third-party copy, not the origin server.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/203.json"
+}

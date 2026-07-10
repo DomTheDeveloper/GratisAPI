@@ -1,0 +1,18 @@
+{
+  "id": "navajowhite",
+  "name": "Navajo White",
+  "hex": "#FFDEAD",
+  "rgb": {
+    "r": 255,
+    "g": 222,
+    "b": 173
+  },
+  "rgb_string": "rgb(255, 222, 173)",
+  "hsl": {
+    "h": 36,
+    "s": 100,
+    "l": 84
+  },
+  "hsl_string": "hsl(36, 100%, 84%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/navajowhite.json"
+}

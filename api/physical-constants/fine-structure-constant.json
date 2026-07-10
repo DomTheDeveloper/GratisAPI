@@ -1,0 +1,9 @@
+{
+  "id": "fine-structure-constant",
+  "name": "Fine-structure constant",
+  "symbol": "alpha",
+  "value": 0.0072973525693,
+  "unit": "dimensionless",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/fine-structure-constant.json"
+}

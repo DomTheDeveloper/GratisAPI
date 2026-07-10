@@ -1,0 +1,13 @@
+{
+  "id": "va",
+  "name": "Vatican City",
+  "alpha2": "VA",
+  "alpha3": "VAT",
+  "capital": "Vatican City",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇻🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/va.json"
+}

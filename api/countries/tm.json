@@ -1,0 +1,13 @@
+{
+  "id": "tm",
+  "name": "Turkmenistan",
+  "alpha2": "TM",
+  "alpha3": "TKM",
+  "capital": "Ashgabat",
+  "continent": "Asia",
+  "currency_code": "TMT",
+  "currency": "Turkmenistan Manat",
+  "population_millions": 6,
+  "flag_emoji": "🇹🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tm.json"
+}

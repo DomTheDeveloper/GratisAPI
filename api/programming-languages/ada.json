@@ -1,0 +1,14 @@
+{
+  "id": "ada",
+  "name": "Ada",
+  "year": 1980,
+  "paradigm": [
+    "Imperative",
+    "Object-oriented",
+    "Concurrent"
+  ],
+  "typing": "Static",
+  "designed_by": "Jean Ichbiah",
+  "extension": ".adb",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ada.json"
+}

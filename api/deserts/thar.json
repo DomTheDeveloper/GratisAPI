@@ -1,0 +1,8 @@
+{
+  "id": "thar",
+  "name": "Thar Desert",
+  "area_km2": 200000,
+  "continent": "Asia",
+  "type": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/thar.json"
+}

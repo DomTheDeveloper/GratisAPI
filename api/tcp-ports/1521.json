@@ -1,0 +1,8 @@
+{
+  "id": 1521,
+  "port": 1521,
+  "service": "oracle",
+  "protocol": "TCP",
+  "description": "Oracle database listener.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/1521.json"
+}

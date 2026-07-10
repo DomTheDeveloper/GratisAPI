@@ -1,0 +1,13 @@
+{
+  "id": "ga",
+  "name": "Gabon",
+  "alpha2": "GA",
+  "alpha3": "GAB",
+  "capital": "Libreville",
+  "continent": "Africa",
+  "currency_code": "XAF",
+  "currency": "Central African CFA Franc",
+  "population_millions": 2,
+  "flag_emoji": "🇬🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ga.json"
+}

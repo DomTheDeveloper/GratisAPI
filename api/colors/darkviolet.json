@@ -1,0 +1,18 @@
+{
+  "id": "darkviolet",
+  "name": "Dark Violet",
+  "hex": "#9400D3",
+  "rgb": {
+    "r": 148,
+    "g": 0,
+    "b": 211
+  },
+  "rgb_string": "rgb(148, 0, 211)",
+  "hsl": {
+    "h": 282,
+    "s": 100,
+    "l": 41
+  },
+  "hsl_string": "hsl(282, 100%, 41%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkviolet.json"
+}

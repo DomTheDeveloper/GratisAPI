@@ -1,0 +1,18 @@
+{
+  "id": "aqua",
+  "name": "Aqua",
+  "hex": "#00FFFF",
+  "rgb": {
+    "r": 0,
+    "g": 255,
+    "b": 255
+  },
+  "rgb_string": "rgb(0, 255, 255)",
+  "hsl": {
+    "h": 180,
+    "s": 100,
+    "l": 50
+  },
+  "hsl_string": "hsl(180, 100%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/aqua.json"
+}

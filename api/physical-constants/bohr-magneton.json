@@ -1,0 +1,9 @@
+{
+  "id": "bohr-magneton",
+  "name": "Bohr magneton",
+  "symbol": "mu_B",
+  "value": 9.2740100783e-24,
+  "unit": "J/T",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/bohr-magneton.json"
+}

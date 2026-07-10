@@ -1,0 +1,8 @@
+{
+  "id": 451,
+  "code": 451,
+  "message": "Unavailable For Legal Reasons",
+  "category": "Client Error",
+  "description": "The resource is unavailable for legal reasons, such as censorship.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/451.json"
+}

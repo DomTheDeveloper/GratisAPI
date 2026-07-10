@@ -1,0 +1,10 @@
+{
+  "id": "pembroke-welsh-corgi",
+  "name": "Pembroke Welsh Corgi",
+  "group": "Herding",
+  "origin": "United Kingdom",
+  "size": "Small",
+  "life_expectancy_years": "12-13",
+  "temperament": "Affectionate, smart and alert",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/pembroke-welsh-corgi.json"
+}

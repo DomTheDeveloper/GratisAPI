@@ -1,0 +1,13 @@
+{
+  "id": "pw",
+  "name": "Palau",
+  "alpha2": "PW",
+  "alpha3": "PLW",
+  "capital": "Ngerulmud",
+  "continent": "Oceania",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇵🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/pw.json"
+}

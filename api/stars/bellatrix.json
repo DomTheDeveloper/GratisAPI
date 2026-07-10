@@ -1,0 +1,9 @@
+{
+  "id": "bellatrix",
+  "name": "Bellatrix",
+  "constellation": "Orion",
+  "apparent_magnitude": 1.64,
+  "distance_ly": 250.0,
+  "spectral_type": "B2III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/bellatrix.json"
+}

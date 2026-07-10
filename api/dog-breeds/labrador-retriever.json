@@ -1,0 +1,10 @@
+{
+  "id": "labrador-retriever",
+  "name": "Labrador Retriever",
+  "group": "Sporting",
+  "origin": "Canada",
+  "size": "Large",
+  "life_expectancy_years": "10-12",
+  "temperament": "Friendly, active and outgoing",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/labrador-retriever.json"
+}

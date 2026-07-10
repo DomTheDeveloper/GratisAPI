@@ -1,0 +1,324 @@
+{
+  "api": "flowers",
+  "title": "Flowers",
+  "description": "Common flowers with typical color, bloom season and floriography meaning.",
+  "emoji": "🌷",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/flowers/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/flowers/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/flowers/{id}.json"
+  },
+  "fields": [
+    "bloom_season",
+    "color",
+    "family",
+    "id",
+    "meaning",
+    "name",
+    "scientific_name"
+  ],
+  "results": [
+    {
+      "id": "rose",
+      "name": "Rose",
+      "scientific_name": "Rosa",
+      "family": "Rosaceae",
+      "color": "Red",
+      "bloom_season": "Summer",
+      "meaning": "Love",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/rose.json"
+    },
+    {
+      "id": "tulip",
+      "name": "Tulip",
+      "scientific_name": "Tulipa gesneriana",
+      "family": "Liliaceae",
+      "color": "Red",
+      "bloom_season": "Spring",
+      "meaning": "Perfect love",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/tulip.json"
+    },
+    {
+      "id": "sunflower",
+      "name": "Sunflower",
+      "scientific_name": "Helianthus annuus",
+      "family": "Asteraceae",
+      "color": "Yellow",
+      "bloom_season": "Summer",
+      "meaning": "Adoration",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/sunflower.json"
+    },
+    {
+      "id": "daisy",
+      "name": "Common Daisy",
+      "scientific_name": "Bellis perennis",
+      "family": "Asteraceae",
+      "color": "White",
+      "bloom_season": "Spring",
+      "meaning": "Innocence",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/daisy.json"
+    },
+    {
+      "id": "lily",
+      "name": "Lily",
+      "scientific_name": "Lilium",
+      "family": "Liliaceae",
+      "color": "White",
+      "bloom_season": "Summer",
+      "meaning": "Purity",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/lily.json"
+    },
+    {
+      "id": "orchid",
+      "name": "Orchid",
+      "scientific_name": "Orchidaceae",
+      "family": "Orchidaceae",
+      "color": "Purple",
+      "bloom_season": "Varies",
+      "meaning": "Refined beauty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/orchid.json"
+    },
+    {
+      "id": "daffodil",
+      "name": "Daffodil",
+      "scientific_name": "Narcissus",
+      "family": "Amaryllidaceae",
+      "color": "Yellow",
+      "bloom_season": "Spring",
+      "meaning": "New beginnings",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/daffodil.json"
+    },
+    {
+      "id": "carnation",
+      "name": "Carnation",
+      "scientific_name": "Dianthus caryophyllus",
+      "family": "Caryophyllaceae",
+      "color": "Pink",
+      "bloom_season": "Spring",
+      "meaning": "Fascination",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/carnation.json"
+    },
+    {
+      "id": "chrysanthemum",
+      "name": "Chrysanthemum",
+      "scientific_name": "Chrysanthemum",
+      "family": "Asteraceae",
+      "color": "Yellow",
+      "bloom_season": "Autumn",
+      "meaning": "Loyalty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/chrysanthemum.json"
+    },
+    {
+      "id": "peony",
+      "name": "Peony",
+      "scientific_name": "Paeonia",
+      "family": "Paeoniaceae",
+      "color": "Pink",
+      "bloom_season": "Late spring",
+      "meaning": "Prosperity",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/peony.json"
+    },
+    {
+      "id": "marigold",
+      "name": "Marigold",
+      "scientific_name": "Tagetes",
+      "family": "Asteraceae",
+      "color": "Orange",
+      "bloom_season": "Summer",
+      "meaning": "Grief",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/marigold.json"
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "scientific_name": "Lavandula angustifolia",
+      "family": "Lamiaceae",
+      "color": "Purple",
+      "bloom_season": "Summer",
+      "meaning": "Devotion",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/lavender.json"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "scientific_name": "Iris",
+      "family": "Iridaceae",
+      "color": "Purple",
+      "bloom_season": "Spring",
+      "meaning": "Faith and hope",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/iris.json"
+    },
+    {
+      "id": "poppy",
+      "name": "Common Poppy",
+      "scientific_name": "Papaver rhoeas",
+      "family": "Papaveraceae",
+      "color": "Red",
+      "bloom_season": "Summer",
+      "meaning": "Remembrance",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/poppy.json"
+    },
+    {
+      "id": "hydrangea",
+      "name": "Hydrangea",
+      "scientific_name": "Hydrangea macrophylla",
+      "family": "Hydrangeaceae",
+      "color": "Blue",
+      "bloom_season": "Summer",
+      "meaning": "Gratitude",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/hydrangea.json"
+    },
+    {
+      "id": "violet",
+      "name": "Sweet Violet",
+      "scientific_name": "Viola odorata",
+      "family": "Violaceae",
+      "color": "Purple",
+      "bloom_season": "Spring",
+      "meaning": "Modesty",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/violet.json"
+    },
+    {
+      "id": "jasmine",
+      "name": "Jasmine",
+      "scientific_name": "Jasminum",
+      "family": "Oleaceae",
+      "color": "White",
+      "bloom_season": "Summer",
+      "meaning": "Sensuality",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/jasmine.json"
+    },
+    {
+      "id": "hyacinth",
+      "name": "Hyacinth",
+      "scientific_name": "Hyacinthus orientalis",
+      "family": "Asparagaceae",
+      "color": "Purple",
+      "bloom_season": "Spring",
+      "meaning": "Sincerity",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/hyacinth.json"
+    },
+    {
+      "id": "gardenia",
+      "name": "Gardenia",
+      "scientific_name": "Gardenia jasminoides",
+      "family": "Rubiaceae",
+      "color": "White",
+      "bloom_season": "Summer",
+      "meaning": "Secret love",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/gardenia.json"
+    },
+    {
+      "id": "dahlia",
+      "name": "Dahlia",
+      "scientific_name": "Dahlia",
+      "family": "Asteraceae",
+      "color": "Pink",
+      "bloom_season": "Summer",
+      "meaning": "Dignity",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/dahlia.json"
+    },
+    {
+      "id": "gladiolus",
+      "name": "Gladiolus",
+      "scientific_name": "Gladiolus",
+      "family": "Iridaceae",
+      "color": "Pink",
+      "bloom_season": "Summer",
+      "meaning": "Strength of character",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/gladiolus.json"
+    },
+    {
+      "id": "forget-me-not",
+      "name": "Forget-me-not",
+      "scientific_name": "Myosotis",
+      "family": "Boraginaceae",
+      "color": "Blue",
+      "bloom_season": "Spring",
+      "meaning": "True love and memories",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/forget-me-not.json"
+    },
+    {
+      "id": "camellia",
+      "name": "Camellia",
+      "scientific_name": "Camellia japonica",
+      "family": "Theaceae",
+      "color": "Pink",
+      "bloom_season": "Winter",
+      "meaning": "Admiration",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/camellia.json"
+    },
+    {
+      "id": "anemone",
+      "name": "Anemone",
+      "scientific_name": "Anemone",
+      "family": "Ranunculaceae",
+      "color": "Purple",
+      "bloom_season": "Spring",
+      "meaning": "Anticipation",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/anemone.json"
+    },
+    {
+      "id": "aster",
+      "name": "Aster",
+      "scientific_name": "Aster",
+      "family": "Asteraceae",
+      "color": "Purple",
+      "bloom_season": "Autumn",
+      "meaning": "Patience",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/aster.json"
+    },
+    {
+      "id": "buttercup",
+      "name": "Buttercup",
+      "scientific_name": "Ranunculus",
+      "family": "Ranunculaceae",
+      "color": "Yellow",
+      "bloom_season": "Spring",
+      "meaning": "Childishness",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/buttercup.json"
+    },
+    {
+      "id": "snapdragon",
+      "name": "Snapdragon",
+      "scientific_name": "Antirrhinum majus",
+      "family": "Plantaginaceae",
+      "color": "Pink",
+      "bloom_season": "Summer",
+      "meaning": "Graciousness",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/snapdragon.json"
+    },
+    {
+      "id": "cosmos",
+      "name": "Cosmos",
+      "scientific_name": "Cosmos bipinnatus",
+      "family": "Asteraceae",
+      "color": "Pink",
+      "bloom_season": "Summer",
+      "meaning": "Order and harmony",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/cosmos.json"
+    },
+    {
+      "id": "zinnia",
+      "name": "Zinnia",
+      "scientific_name": "Zinnia elegans",
+      "family": "Asteraceae",
+      "color": "Red",
+      "bloom_season": "Summer",
+      "meaning": "Thoughts of absent friends",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/zinnia.json"
+    },
+    {
+      "id": "lotus",
+      "name": "Sacred Lotus",
+      "scientific_name": "Nelumbo nucifera",
+      "family": "Nelumbonaceae",
+      "color": "Pink",
+      "bloom_season": "Summer",
+      "meaning": "Purity and enlightenment",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/lotus.json"
+    }
+  ]
+}

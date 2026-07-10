@@ -1,0 +1,10 @@
+{
+  "id": "papillon",
+  "name": "Papillon",
+  "group": "Toy",
+  "origin": "France",
+  "size": "Small",
+  "life_expectancy_years": "14-16",
+  "temperament": "Friendly, alert and happy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/papillon.json"
+}

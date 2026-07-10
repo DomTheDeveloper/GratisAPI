@@ -1,0 +1,14 @@
+{
+  "id": "php",
+  "name": "PHP",
+  "year": 1995,
+  "paradigm": [
+    "Imperative",
+    "Object-oriented",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Rasmus Lerdorf",
+  "extension": ".php",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/php.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dodgerblue",
+  "name": "Dodger Blue",
+  "hex": "#1E90FF",
+  "rgb": {
+    "r": 30,
+    "g": 144,
+    "b": 255
+  },
+  "rgb_string": "rgb(30, 144, 255)",
+  "hsl": {
+    "h": 210,
+    "s": 100,
+    "l": 56
+  },
+  "hsl_string": "hsl(210, 100%, 56%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/dodgerblue.json"
+}

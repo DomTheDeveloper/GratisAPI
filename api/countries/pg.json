@@ -1,0 +1,13 @@
+{
+  "id": "pg",
+  "name": "Papua New Guinea",
+  "alpha2": "PG",
+  "alpha3": "PNG",
+  "capital": "Port Moresby",
+  "continent": "Oceania",
+  "currency_code": "PGK",
+  "currency": "Kina",
+  "population_millions": 10,
+  "flag_emoji": "🇵🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/pg.json"
+}

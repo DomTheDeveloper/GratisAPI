@@ -1,0 +1,9 @@
+{
+  "id": "poppy-seed",
+  "name": "Poppy Seed",
+  "plant_part": "Seed",
+  "origin_region": "Mediterranean",
+  "flavor": "Nutty, mild",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/poppy-seed.json"
+}

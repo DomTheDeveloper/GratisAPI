@@ -1,0 +1,9 @@
+{
+  "id": "tequila-sunrise",
+  "name": "Tequila Sunrise",
+  "base_spirit": "Tequila",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/tequila-sunrise.json"
+}

@@ -3,5 +3,6 @@
   "code": 304,
   "message": "Not Modified",
   "category": "Redirection",
+  "description": "The resource has not been modified since the last request.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/304.json"
 }

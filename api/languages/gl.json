@@ -1,0 +1,9 @@
+{
+  "id": "gl",
+  "code": "gl",
+  "name": "Galician",
+  "native_name": "Galego",
+  "direction": "ltr",
+  "speakers_millions": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/gl.json"
+}

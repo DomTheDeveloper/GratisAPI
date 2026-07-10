@@ -1,0 +1,10 @@
+{
+  "id": "matterhorn",
+  "name": "Matterhorn",
+  "height_m": 4478,
+  "range": "Alps",
+  "country": "Switzerland / Italy",
+  "continent": "Europe",
+  "first_ascent_year": 1865,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/matterhorn.json"
+}

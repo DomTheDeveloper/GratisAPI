@@ -1,0 +1,14 @@
+{
+  "id": "dart",
+  "name": "Dart",
+  "year": 2011,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative",
+    "Functional"
+  ],
+  "typing": "Static",
+  "designed_by": "Google",
+  "extension": ".dart",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/dart.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "am",
+  "name": "Armenia",
+  "alpha2": "AM",
+  "alpha3": "ARM",
+  "capital": "Yerevan",
+  "continent": "Asia",
+  "currency_code": "AMD",
+  "currency": "Armenian Dram",
+  "population_millions": 3,
+  "flag_emoji": "🇦🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/am.json"
+}

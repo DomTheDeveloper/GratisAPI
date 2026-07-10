@@ -1,0 +1,9 @@
+{
+  "id": "horologium",
+  "name": "Horologium",
+  "abbreviation": "Hor",
+  "meaning": "The Pendulum Clock",
+  "quadrant": "SQ1",
+  "area_sq_deg": 248.885,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/horologium.json"
+}

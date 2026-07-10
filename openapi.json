@@ -26,36 +26,40 @@
       "description": "Discovery and metadata endpoints."
     },
     {
-      "name": "animals",
-      "description": "Biological taxonomy of animals, from kingdom down to species."
-    },
-    {
-      "name": "quotes",
-      "description": "Memorable quotes from famous people throughout history."
-    },
-    {
-      "name": "colors",
-      "description": "Named web colors with hex, RGB and HSL values."
-    },
-    {
       "name": "countries",
       "description": "Countries of the world with capital, ISO codes, continent and currency."
+    },
+    {
+      "name": "us-states",
+      "description": "The 50 US states plus the District of Columbia with capital, population, area and region."
     },
     {
       "name": "continents",
       "description": "The seven continents of Earth with area, population and country counts."
     },
     {
-      "name": "planets",
-      "description": "Planets and dwarf planets of the Solar System with key physical data."
+      "name": "oceans",
+      "description": "The five oceans of the world with area, average and maximum depth."
     },
     {
-      "name": "elements",
-      "description": "The 118 elements of the periodic table with symbol, atomic number, mass and category."
+      "name": "mountains",
+      "description": "Notable and high mountains of the world with elevation, range, and first ascent data."
     },
     {
-      "name": "http-status",
-      "description": "HTTP response status codes with their standard reason phrase and category."
+      "name": "rivers",
+      "description": "Major rivers of the world with length, continent, and drainage information."
+    },
+    {
+      "name": "lakes",
+      "description": "Large and notable lakes of the world with surface area, depth, and type."
+    },
+    {
+      "name": "deserts",
+      "description": "Major deserts of the world with approximate area, continent, and type."
+    },
+    {
+      "name": "waterfalls",
+      "description": "Famous waterfalls of the world with total height, river, and location."
     },
     {
       "name": "currencies",
@@ -66,8 +70,196 @@
       "description": "Human languages with ISO 639-1 code, native name and writing direction."
     },
     {
+      "name": "animals",
+      "description": "Biological taxonomy of animals, from kingdom down to species."
+    },
+    {
+      "name": "dinosaurs",
+      "description": "Notable dinosaur genera with geological period, diet, size and fossil range."
+    },
+    {
+      "name": "dog-breeds",
+      "description": "Popular dog breeds with breed group, country of origin, size and temperament."
+    },
+    {
+      "name": "cat-breeds",
+      "description": "Popular cat breeds with country of origin, coat type and temperament."
+    },
+    {
+      "name": "birds",
+      "description": "A selection of bird species with habitat, diet and conservation data."
+    },
+    {
+      "name": "sharks",
+      "description": "Shark species with size, habitat, diet and danger-to-humans ratings."
+    },
+    {
+      "name": "trees",
+      "description": "Tree species with leaf type, maximum height and native region."
+    },
+    {
+      "name": "flowers",
+      "description": "Common flowers with typical color, bloom season and floriography meaning."
+    },
+    {
+      "name": "fruits",
+      "description": "Fruits with botanical type, color, origin region and calories per 100g."
+    },
+    {
+      "name": "vegetables",
+      "description": "Vegetables with culinary type, color and calories per 100g."
+    },
+    {
+      "name": "spices",
+      "description": "Culinary spices and herbs with the plant part used, region of origin, flavor, and heat level."
+    },
+    {
+      "name": "elements",
+      "description": "The 118 elements of the periodic table with symbol, atomic number, mass and category."
+    },
+    {
+      "name": "physical-constants",
+      "description": "Fundamental physical constants with symbols, values and units."
+    },
+    {
+      "name": "math-constants",
+      "description": "Notable mathematical constants with symbols, values and descriptions."
+    },
+    {
+      "name": "si-prefixes",
+      "description": "Metric (SI) unit prefixes with symbol and power of ten."
+    },
+    {
+      "name": "vitamins",
+      "description": "The 13 essential human vitamins with function, solubility and food sources."
+    },
+    {
+      "name": "blood-types",
+      "description": "The eight ABO/Rh blood groups with donor and recipient compatibility."
+    },
+    {
+      "name": "beaufort-scale",
+      "description": "The Beaufort wind force scale from 0 (calm) to 12 (hurricane)."
+    },
+    {
+      "name": "planets",
+      "description": "Planets and dwarf planets of the Solar System with key physical data."
+    },
+    {
+      "name": "moons",
+      "description": "Notable natural satellites of the Solar System with parent planet and discovery details."
+    },
+    {
+      "name": "constellations",
+      "description": "The 88 official IAU constellations with abbreviations, meanings and areas."
+    },
+    {
+      "name": "stars",
+      "description": "Bright and notable stars with constellation, magnitude, distance and spectral type."
+    },
+    {
       "name": "zodiac",
       "description": "The twelve signs of the Western zodiac with dates, elements and symbols."
+    },
+    {
+      "name": "http-status",
+      "description": "HTTP response status codes with their standard reason phrase and category."
+    },
+    {
+      "name": "http-methods",
+      "description": "The HTTP request methods and their safety, idempotency, and caching semantics."
+    },
+    {
+      "name": "mime-types",
+      "description": "Common MIME (media) types with their category and typical file extensions."
+    },
+    {
+      "name": "tcp-ports",
+      "description": "Well-known TCP and UDP port numbers and the network services assigned to them."
+    },
+    {
+      "name": "programming-languages",
+      "description": "Popular programming languages with the year they first appeared, paradigm, and typing."
+    },
+    {
+      "name": "ascii",
+      "description": "The printable ASCII characters from decimal 32 to 126 with their numeric representations."
+    },
+    {
+      "name": "greek-alphabet",
+      "description": "The 24 letters of the Greek alphabet with transliteration and numeric value."
+    },
+    {
+      "name": "nato-alphabet",
+      "description": "The 26 NATO phonetic alphabet code words with pronunciation and Morse code."
+    },
+    {
+      "name": "morse-code",
+      "description": "International Morse code for A-Z, 0-9 and common punctuation."
+    },
+    {
+      "name": "roman-numerals",
+      "description": "Roman numeral representations for a selection of useful Arabic numbers."
+    },
+    {
+      "name": "quotes",
+      "description": "Memorable quotes from famous people throughout history."
+    },
+    {
+      "name": "us-presidents",
+      "description": "Presidents of the United States from Washington through Biden."
+    },
+    {
+      "name": "greek-gods",
+      "description": "Gods, Titans, primordials, and heroes of Greek mythology."
+    },
+    {
+      "name": "norse-gods",
+      "description": "Gods and figures of Norse mythology."
+    },
+    {
+      "name": "egyptian-gods",
+      "description": "Deities of ancient Egyptian mythology."
+    },
+    {
+      "name": "seven-wonders",
+      "description": "The Seven Wonders of the Ancient World and the New Seven Wonders."
+    },
+    {
+      "name": "chinese-zodiac",
+      "description": "The twelve animals of the Chinese zodiac with fixed element, yin-yang polarity, traits, and example years."
+    },
+    {
+      "name": "birthstones",
+      "description": "The traditional monthly birthstones with their color and symbolic meaning."
+    },
+    {
+      "name": "tarot-major-arcana",
+      "description": "The twenty-two Major Arcana cards of the tarot with keywords and elemental association."
+    },
+    {
+      "name": "gemstones",
+      "description": "Popular gemstones with typical color, Mohs hardness, crystal system, and precious classification."
+    },
+    {
+      "name": "colors",
+      "description": "Named web colors with hex, RGB and HSL values."
+    },
+    {
+      "name": "musical-instruments",
+      "description": "Common musical instruments with their family, Hornbostel-Sachs classification, and region of origin."
+    },
+    {
+      "name": "cocktails",
+      "description": "Classic cocktails with their base spirit, family, serving glass, and IBA official status."
+    },
+    {
+      "name": "chess-pieces",
+      "description": "The six chess pieces with their Unicode symbols, relative point value, and movement rules."
+    },
+    {
+      "name": "playing-cards",
+      "description": "A standard 52-card deck with rank, suit, color, value, and suit symbol."
     },
     {
       "name": "calendar",
@@ -85,132 +277,6 @@
         "responses": {
           "200": {
             "description": "Directory of every GratisAPI dataset."
-          }
-        }
-      }
-    },
-    "/api/animals/index.json": {
-      "get": {
-        "summary": "List all animals",
-        "operationId": "list_animals",
-        "tags": [
-          "animals"
-        ],
-        "responses": {
-          "200": {
-            "description": "All animals records."
-          }
-        }
-      }
-    },
-    "/api/animals/{id}.json": {
-      "get": {
-        "summary": "Get a single animals record by id",
-        "operationId": "get_animals",
-        "tags": [
-          "animals"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "description": "The record identifier.",
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "The requested record."
-          },
-          "404": {
-            "description": "No file exists for that id."
-          }
-        }
-      }
-    },
-    "/api/quotes/index.json": {
-      "get": {
-        "summary": "List all quotes",
-        "operationId": "list_quotes",
-        "tags": [
-          "quotes"
-        ],
-        "responses": {
-          "200": {
-            "description": "All quotes records."
-          }
-        }
-      }
-    },
-    "/api/quotes/{id}.json": {
-      "get": {
-        "summary": "Get a single quotes record by id",
-        "operationId": "get_quotes",
-        "tags": [
-          "quotes"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "description": "The record identifier.",
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "The requested record."
-          },
-          "404": {
-            "description": "No file exists for that id."
-          }
-        }
-      }
-    },
-    "/api/colors/index.json": {
-      "get": {
-        "summary": "List all colors",
-        "operationId": "list_colors",
-        "tags": [
-          "colors"
-        ],
-        "responses": {
-          "200": {
-            "description": "All colors records."
-          }
-        }
-      }
-    },
-    "/api/colors/{id}.json": {
-      "get": {
-        "summary": "Get a single colors record by id",
-        "operationId": "get_colors",
-        "tags": [
-          "colors"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "description": "The record identifier.",
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "The requested record."
-          },
-          "404": {
-            "description": "No file exists for that id."
           }
         }
       }
@@ -235,6 +301,48 @@
         "operationId": "get_countries",
         "tags": [
           "countries"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/us-states/index.json": {
+      "get": {
+        "summary": "List all us states",
+        "operationId": "list_us_states",
+        "tags": [
+          "us-states"
+        ],
+        "responses": {
+          "200": {
+            "description": "All us states records."
+          }
+        }
+      }
+    },
+    "/api/us-states/{id}.json": {
+      "get": {
+        "summary": "Get a single us states record by id",
+        "operationId": "get_us_states",
+        "tags": [
+          "us-states"
         ],
         "parameters": [
           {
@@ -299,26 +407,26 @@
         }
       }
     },
-    "/api/planets/index.json": {
+    "/api/oceans/index.json": {
       "get": {
-        "summary": "List all planets",
-        "operationId": "list_planets",
+        "summary": "List all oceans",
+        "operationId": "list_oceans",
         "tags": [
-          "planets"
+          "oceans"
         ],
         "responses": {
           "200": {
-            "description": "All planets records."
+            "description": "All oceans records."
           }
         }
       }
     },
-    "/api/planets/{id}.json": {
+    "/api/oceans/{id}.json": {
       "get": {
-        "summary": "Get a single planets record by id",
-        "operationId": "get_planets",
+        "summary": "Get a single oceans record by id",
+        "operationId": "get_oceans",
         "tags": [
-          "planets"
+          "oceans"
         ],
         "parameters": [
           {
@@ -341,26 +449,26 @@
         }
       }
     },
-    "/api/elements/index.json": {
+    "/api/mountains/index.json": {
       "get": {
-        "summary": "List all chemical elements",
-        "operationId": "list_elements",
+        "summary": "List all mountains",
+        "operationId": "list_mountains",
         "tags": [
-          "elements"
+          "mountains"
         ],
         "responses": {
           "200": {
-            "description": "All chemical elements records."
+            "description": "All mountains records."
           }
         }
       }
     },
-    "/api/elements/{id}.json": {
+    "/api/mountains/{id}.json": {
       "get": {
-        "summary": "Get a single chemical elements record by id",
-        "operationId": "get_elements",
+        "summary": "Get a single mountains record by id",
+        "operationId": "get_mountains",
         "tags": [
-          "elements"
+          "mountains"
         ],
         "parameters": [
           {
@@ -383,26 +491,152 @@
         }
       }
     },
-    "/api/http-status/index.json": {
+    "/api/rivers/index.json": {
       "get": {
-        "summary": "List all http status codes",
-        "operationId": "list_http_status",
+        "summary": "List all rivers",
+        "operationId": "list_rivers",
         "tags": [
-          "http-status"
+          "rivers"
         ],
         "responses": {
           "200": {
-            "description": "All http status codes records."
+            "description": "All rivers records."
           }
         }
       }
     },
-    "/api/http-status/{id}.json": {
+    "/api/rivers/{id}.json": {
       "get": {
-        "summary": "Get a single http status codes record by id",
-        "operationId": "get_http_status",
+        "summary": "Get a single rivers record by id",
+        "operationId": "get_rivers",
         "tags": [
-          "http-status"
+          "rivers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/lakes/index.json": {
+      "get": {
+        "summary": "List all lakes",
+        "operationId": "list_lakes",
+        "tags": [
+          "lakes"
+        ],
+        "responses": {
+          "200": {
+            "description": "All lakes records."
+          }
+        }
+      }
+    },
+    "/api/lakes/{id}.json": {
+      "get": {
+        "summary": "Get a single lakes record by id",
+        "operationId": "get_lakes",
+        "tags": [
+          "lakes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/deserts/index.json": {
+      "get": {
+        "summary": "List all deserts",
+        "operationId": "list_deserts",
+        "tags": [
+          "deserts"
+        ],
+        "responses": {
+          "200": {
+            "description": "All deserts records."
+          }
+        }
+      }
+    },
+    "/api/deserts/{id}.json": {
+      "get": {
+        "summary": "Get a single deserts record by id",
+        "operationId": "get_deserts",
+        "tags": [
+          "deserts"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/waterfalls/index.json": {
+      "get": {
+        "summary": "List all waterfalls",
+        "operationId": "list_waterfalls",
+        "tags": [
+          "waterfalls"
+        ],
+        "responses": {
+          "200": {
+            "description": "All waterfalls records."
+          }
+        }
+      }
+    },
+    "/api/waterfalls/{id}.json": {
+      "get": {
+        "summary": "Get a single waterfalls record by id",
+        "operationId": "get_waterfalls",
+        "tags": [
+          "waterfalls"
         ],
         "parameters": [
           {
@@ -509,6 +743,930 @@
         }
       }
     },
+    "/api/animals/index.json": {
+      "get": {
+        "summary": "List all animals",
+        "operationId": "list_animals",
+        "tags": [
+          "animals"
+        ],
+        "responses": {
+          "200": {
+            "description": "All animals records."
+          }
+        }
+      }
+    },
+    "/api/animals/{id}.json": {
+      "get": {
+        "summary": "Get a single animals record by id",
+        "operationId": "get_animals",
+        "tags": [
+          "animals"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/dinosaurs/index.json": {
+      "get": {
+        "summary": "List all dinosaurs",
+        "operationId": "list_dinosaurs",
+        "tags": [
+          "dinosaurs"
+        ],
+        "responses": {
+          "200": {
+            "description": "All dinosaurs records."
+          }
+        }
+      }
+    },
+    "/api/dinosaurs/{id}.json": {
+      "get": {
+        "summary": "Get a single dinosaurs record by id",
+        "operationId": "get_dinosaurs",
+        "tags": [
+          "dinosaurs"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/dog-breeds/index.json": {
+      "get": {
+        "summary": "List all dog breeds",
+        "operationId": "list_dog_breeds",
+        "tags": [
+          "dog-breeds"
+        ],
+        "responses": {
+          "200": {
+            "description": "All dog breeds records."
+          }
+        }
+      }
+    },
+    "/api/dog-breeds/{id}.json": {
+      "get": {
+        "summary": "Get a single dog breeds record by id",
+        "operationId": "get_dog_breeds",
+        "tags": [
+          "dog-breeds"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/cat-breeds/index.json": {
+      "get": {
+        "summary": "List all cat breeds",
+        "operationId": "list_cat_breeds",
+        "tags": [
+          "cat-breeds"
+        ],
+        "responses": {
+          "200": {
+            "description": "All cat breeds records."
+          }
+        }
+      }
+    },
+    "/api/cat-breeds/{id}.json": {
+      "get": {
+        "summary": "Get a single cat breeds record by id",
+        "operationId": "get_cat_breeds",
+        "tags": [
+          "cat-breeds"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/birds/index.json": {
+      "get": {
+        "summary": "List all birds",
+        "operationId": "list_birds",
+        "tags": [
+          "birds"
+        ],
+        "responses": {
+          "200": {
+            "description": "All birds records."
+          }
+        }
+      }
+    },
+    "/api/birds/{id}.json": {
+      "get": {
+        "summary": "Get a single birds record by id",
+        "operationId": "get_birds",
+        "tags": [
+          "birds"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/sharks/index.json": {
+      "get": {
+        "summary": "List all sharks",
+        "operationId": "list_sharks",
+        "tags": [
+          "sharks"
+        ],
+        "responses": {
+          "200": {
+            "description": "All sharks records."
+          }
+        }
+      }
+    },
+    "/api/sharks/{id}.json": {
+      "get": {
+        "summary": "Get a single sharks record by id",
+        "operationId": "get_sharks",
+        "tags": [
+          "sharks"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/trees/index.json": {
+      "get": {
+        "summary": "List all trees",
+        "operationId": "list_trees",
+        "tags": [
+          "trees"
+        ],
+        "responses": {
+          "200": {
+            "description": "All trees records."
+          }
+        }
+      }
+    },
+    "/api/trees/{id}.json": {
+      "get": {
+        "summary": "Get a single trees record by id",
+        "operationId": "get_trees",
+        "tags": [
+          "trees"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/flowers/index.json": {
+      "get": {
+        "summary": "List all flowers",
+        "operationId": "list_flowers",
+        "tags": [
+          "flowers"
+        ],
+        "responses": {
+          "200": {
+            "description": "All flowers records."
+          }
+        }
+      }
+    },
+    "/api/flowers/{id}.json": {
+      "get": {
+        "summary": "Get a single flowers record by id",
+        "operationId": "get_flowers",
+        "tags": [
+          "flowers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/fruits/index.json": {
+      "get": {
+        "summary": "List all fruits",
+        "operationId": "list_fruits",
+        "tags": [
+          "fruits"
+        ],
+        "responses": {
+          "200": {
+            "description": "All fruits records."
+          }
+        }
+      }
+    },
+    "/api/fruits/{id}.json": {
+      "get": {
+        "summary": "Get a single fruits record by id",
+        "operationId": "get_fruits",
+        "tags": [
+          "fruits"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/vegetables/index.json": {
+      "get": {
+        "summary": "List all vegetables",
+        "operationId": "list_vegetables",
+        "tags": [
+          "vegetables"
+        ],
+        "responses": {
+          "200": {
+            "description": "All vegetables records."
+          }
+        }
+      }
+    },
+    "/api/vegetables/{id}.json": {
+      "get": {
+        "summary": "Get a single vegetables record by id",
+        "operationId": "get_vegetables",
+        "tags": [
+          "vegetables"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/spices/index.json": {
+      "get": {
+        "summary": "List all spices and herbs",
+        "operationId": "list_spices",
+        "tags": [
+          "spices"
+        ],
+        "responses": {
+          "200": {
+            "description": "All spices and herbs records."
+          }
+        }
+      }
+    },
+    "/api/spices/{id}.json": {
+      "get": {
+        "summary": "Get a single spices and herbs record by id",
+        "operationId": "get_spices",
+        "tags": [
+          "spices"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/elements/index.json": {
+      "get": {
+        "summary": "List all chemical elements",
+        "operationId": "list_elements",
+        "tags": [
+          "elements"
+        ],
+        "responses": {
+          "200": {
+            "description": "All chemical elements records."
+          }
+        }
+      }
+    },
+    "/api/elements/{id}.json": {
+      "get": {
+        "summary": "Get a single chemical elements record by id",
+        "operationId": "get_elements",
+        "tags": [
+          "elements"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/physical-constants/index.json": {
+      "get": {
+        "summary": "List all physical constants",
+        "operationId": "list_physical_constants",
+        "tags": [
+          "physical-constants"
+        ],
+        "responses": {
+          "200": {
+            "description": "All physical constants records."
+          }
+        }
+      }
+    },
+    "/api/physical-constants/{id}.json": {
+      "get": {
+        "summary": "Get a single physical constants record by id",
+        "operationId": "get_physical_constants",
+        "tags": [
+          "physical-constants"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/math-constants/index.json": {
+      "get": {
+        "summary": "List all math constants",
+        "operationId": "list_math_constants",
+        "tags": [
+          "math-constants"
+        ],
+        "responses": {
+          "200": {
+            "description": "All math constants records."
+          }
+        }
+      }
+    },
+    "/api/math-constants/{id}.json": {
+      "get": {
+        "summary": "Get a single math constants record by id",
+        "operationId": "get_math_constants",
+        "tags": [
+          "math-constants"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/si-prefixes/index.json": {
+      "get": {
+        "summary": "List all si prefixes",
+        "operationId": "list_si_prefixes",
+        "tags": [
+          "si-prefixes"
+        ],
+        "responses": {
+          "200": {
+            "description": "All si prefixes records."
+          }
+        }
+      }
+    },
+    "/api/si-prefixes/{id}.json": {
+      "get": {
+        "summary": "Get a single si prefixes record by id",
+        "operationId": "get_si_prefixes",
+        "tags": [
+          "si-prefixes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/vitamins/index.json": {
+      "get": {
+        "summary": "List all vitamins",
+        "operationId": "list_vitamins",
+        "tags": [
+          "vitamins"
+        ],
+        "responses": {
+          "200": {
+            "description": "All vitamins records."
+          }
+        }
+      }
+    },
+    "/api/vitamins/{id}.json": {
+      "get": {
+        "summary": "Get a single vitamins record by id",
+        "operationId": "get_vitamins",
+        "tags": [
+          "vitamins"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/blood-types/index.json": {
+      "get": {
+        "summary": "List all blood types",
+        "operationId": "list_blood_types",
+        "tags": [
+          "blood-types"
+        ],
+        "responses": {
+          "200": {
+            "description": "All blood types records."
+          }
+        }
+      }
+    },
+    "/api/blood-types/{id}.json": {
+      "get": {
+        "summary": "Get a single blood types record by id",
+        "operationId": "get_blood_types",
+        "tags": [
+          "blood-types"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/beaufort-scale/index.json": {
+      "get": {
+        "summary": "List all beaufort scale",
+        "operationId": "list_beaufort_scale",
+        "tags": [
+          "beaufort-scale"
+        ],
+        "responses": {
+          "200": {
+            "description": "All beaufort scale records."
+          }
+        }
+      }
+    },
+    "/api/beaufort-scale/{id}.json": {
+      "get": {
+        "summary": "Get a single beaufort scale record by id",
+        "operationId": "get_beaufort_scale",
+        "tags": [
+          "beaufort-scale"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/planets/index.json": {
+      "get": {
+        "summary": "List all planets",
+        "operationId": "list_planets",
+        "tags": [
+          "planets"
+        ],
+        "responses": {
+          "200": {
+            "description": "All planets records."
+          }
+        }
+      }
+    },
+    "/api/planets/{id}.json": {
+      "get": {
+        "summary": "Get a single planets record by id",
+        "operationId": "get_planets",
+        "tags": [
+          "planets"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/moons/index.json": {
+      "get": {
+        "summary": "List all moons",
+        "operationId": "list_moons",
+        "tags": [
+          "moons"
+        ],
+        "responses": {
+          "200": {
+            "description": "All moons records."
+          }
+        }
+      }
+    },
+    "/api/moons/{id}.json": {
+      "get": {
+        "summary": "Get a single moons record by id",
+        "operationId": "get_moons",
+        "tags": [
+          "moons"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/constellations/index.json": {
+      "get": {
+        "summary": "List all constellations",
+        "operationId": "list_constellations",
+        "tags": [
+          "constellations"
+        ],
+        "responses": {
+          "200": {
+            "description": "All constellations records."
+          }
+        }
+      }
+    },
+    "/api/constellations/{id}.json": {
+      "get": {
+        "summary": "Get a single constellations record by id",
+        "operationId": "get_constellations",
+        "tags": [
+          "constellations"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/stars/index.json": {
+      "get": {
+        "summary": "List all stars",
+        "operationId": "list_stars",
+        "tags": [
+          "stars"
+        ],
+        "responses": {
+          "200": {
+            "description": "All stars records."
+          }
+        }
+      }
+    },
+    "/api/stars/{id}.json": {
+      "get": {
+        "summary": "Get a single stars record by id",
+        "operationId": "get_stars",
+        "tags": [
+          "stars"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
     "/api/zodiac/index.json": {
       "get": {
         "summary": "List all zodiac",
@@ -529,6 +1687,1056 @@
         "operationId": "get_zodiac",
         "tags": [
           "zodiac"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/http-status/index.json": {
+      "get": {
+        "summary": "List all http status codes",
+        "operationId": "list_http_status",
+        "tags": [
+          "http-status"
+        ],
+        "responses": {
+          "200": {
+            "description": "All http status codes records."
+          }
+        }
+      }
+    },
+    "/api/http-status/{id}.json": {
+      "get": {
+        "summary": "Get a single http status codes record by id",
+        "operationId": "get_http_status",
+        "tags": [
+          "http-status"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/http-methods/index.json": {
+      "get": {
+        "summary": "List all http request methods",
+        "operationId": "list_http_methods",
+        "tags": [
+          "http-methods"
+        ],
+        "responses": {
+          "200": {
+            "description": "All http request methods records."
+          }
+        }
+      }
+    },
+    "/api/http-methods/{id}.json": {
+      "get": {
+        "summary": "Get a single http request methods record by id",
+        "operationId": "get_http_methods",
+        "tags": [
+          "http-methods"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/mime-types/index.json": {
+      "get": {
+        "summary": "List all mime types",
+        "operationId": "list_mime_types",
+        "tags": [
+          "mime-types"
+        ],
+        "responses": {
+          "200": {
+            "description": "All mime types records."
+          }
+        }
+      }
+    },
+    "/api/mime-types/{id}.json": {
+      "get": {
+        "summary": "Get a single mime types record by id",
+        "operationId": "get_mime_types",
+        "tags": [
+          "mime-types"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/tcp-ports/index.json": {
+      "get": {
+        "summary": "List all well-known ports",
+        "operationId": "list_tcp_ports",
+        "tags": [
+          "tcp-ports"
+        ],
+        "responses": {
+          "200": {
+            "description": "All well-known ports records."
+          }
+        }
+      }
+    },
+    "/api/tcp-ports/{id}.json": {
+      "get": {
+        "summary": "Get a single well-known ports record by id",
+        "operationId": "get_tcp_ports",
+        "tags": [
+          "tcp-ports"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/programming-languages/index.json": {
+      "get": {
+        "summary": "List all programming languages",
+        "operationId": "list_programming_languages",
+        "tags": [
+          "programming-languages"
+        ],
+        "responses": {
+          "200": {
+            "description": "All programming languages records."
+          }
+        }
+      }
+    },
+    "/api/programming-languages/{id}.json": {
+      "get": {
+        "summary": "Get a single programming languages record by id",
+        "operationId": "get_programming_languages",
+        "tags": [
+          "programming-languages"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/ascii/index.json": {
+      "get": {
+        "summary": "List all printable ascii table",
+        "operationId": "list_ascii",
+        "tags": [
+          "ascii"
+        ],
+        "responses": {
+          "200": {
+            "description": "All printable ascii table records."
+          }
+        }
+      }
+    },
+    "/api/ascii/{id}.json": {
+      "get": {
+        "summary": "Get a single printable ascii table record by id",
+        "operationId": "get_ascii",
+        "tags": [
+          "ascii"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/greek-alphabet/index.json": {
+      "get": {
+        "summary": "List all greek alphabet",
+        "operationId": "list_greek_alphabet",
+        "tags": [
+          "greek-alphabet"
+        ],
+        "responses": {
+          "200": {
+            "description": "All greek alphabet records."
+          }
+        }
+      }
+    },
+    "/api/greek-alphabet/{id}.json": {
+      "get": {
+        "summary": "Get a single greek alphabet record by id",
+        "operationId": "get_greek_alphabet",
+        "tags": [
+          "greek-alphabet"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/nato-alphabet/index.json": {
+      "get": {
+        "summary": "List all nato phonetic alphabet",
+        "operationId": "list_nato_alphabet",
+        "tags": [
+          "nato-alphabet"
+        ],
+        "responses": {
+          "200": {
+            "description": "All nato phonetic alphabet records."
+          }
+        }
+      }
+    },
+    "/api/nato-alphabet/{id}.json": {
+      "get": {
+        "summary": "Get a single nato phonetic alphabet record by id",
+        "operationId": "get_nato_alphabet",
+        "tags": [
+          "nato-alphabet"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/morse-code/index.json": {
+      "get": {
+        "summary": "List all morse code",
+        "operationId": "list_morse_code",
+        "tags": [
+          "morse-code"
+        ],
+        "responses": {
+          "200": {
+            "description": "All morse code records."
+          }
+        }
+      }
+    },
+    "/api/morse-code/{id}.json": {
+      "get": {
+        "summary": "Get a single morse code record by id",
+        "operationId": "get_morse_code",
+        "tags": [
+          "morse-code"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/roman-numerals/index.json": {
+      "get": {
+        "summary": "List all roman numerals",
+        "operationId": "list_roman_numerals",
+        "tags": [
+          "roman-numerals"
+        ],
+        "responses": {
+          "200": {
+            "description": "All roman numerals records."
+          }
+        }
+      }
+    },
+    "/api/roman-numerals/{id}.json": {
+      "get": {
+        "summary": "Get a single roman numerals record by id",
+        "operationId": "get_roman_numerals",
+        "tags": [
+          "roman-numerals"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/quotes/index.json": {
+      "get": {
+        "summary": "List all quotes",
+        "operationId": "list_quotes",
+        "tags": [
+          "quotes"
+        ],
+        "responses": {
+          "200": {
+            "description": "All quotes records."
+          }
+        }
+      }
+    },
+    "/api/quotes/{id}.json": {
+      "get": {
+        "summary": "Get a single quotes record by id",
+        "operationId": "get_quotes",
+        "tags": [
+          "quotes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/us-presidents/index.json": {
+      "get": {
+        "summary": "List all us presidents",
+        "operationId": "list_us_presidents",
+        "tags": [
+          "us-presidents"
+        ],
+        "responses": {
+          "200": {
+            "description": "All us presidents records."
+          }
+        }
+      }
+    },
+    "/api/us-presidents/{id}.json": {
+      "get": {
+        "summary": "Get a single us presidents record by id",
+        "operationId": "get_us_presidents",
+        "tags": [
+          "us-presidents"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/greek-gods/index.json": {
+      "get": {
+        "summary": "List all greek gods",
+        "operationId": "list_greek_gods",
+        "tags": [
+          "greek-gods"
+        ],
+        "responses": {
+          "200": {
+            "description": "All greek gods records."
+          }
+        }
+      }
+    },
+    "/api/greek-gods/{id}.json": {
+      "get": {
+        "summary": "Get a single greek gods record by id",
+        "operationId": "get_greek_gods",
+        "tags": [
+          "greek-gods"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/norse-gods/index.json": {
+      "get": {
+        "summary": "List all norse gods",
+        "operationId": "list_norse_gods",
+        "tags": [
+          "norse-gods"
+        ],
+        "responses": {
+          "200": {
+            "description": "All norse gods records."
+          }
+        }
+      }
+    },
+    "/api/norse-gods/{id}.json": {
+      "get": {
+        "summary": "Get a single norse gods record by id",
+        "operationId": "get_norse_gods",
+        "tags": [
+          "norse-gods"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/egyptian-gods/index.json": {
+      "get": {
+        "summary": "List all egyptian gods",
+        "operationId": "list_egyptian_gods",
+        "tags": [
+          "egyptian-gods"
+        ],
+        "responses": {
+          "200": {
+            "description": "All egyptian gods records."
+          }
+        }
+      }
+    },
+    "/api/egyptian-gods/{id}.json": {
+      "get": {
+        "summary": "Get a single egyptian gods record by id",
+        "operationId": "get_egyptian_gods",
+        "tags": [
+          "egyptian-gods"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/seven-wonders/index.json": {
+      "get": {
+        "summary": "List all seven wonders",
+        "operationId": "list_seven_wonders",
+        "tags": [
+          "seven-wonders"
+        ],
+        "responses": {
+          "200": {
+            "description": "All seven wonders records."
+          }
+        }
+      }
+    },
+    "/api/seven-wonders/{id}.json": {
+      "get": {
+        "summary": "Get a single seven wonders record by id",
+        "operationId": "get_seven_wonders",
+        "tags": [
+          "seven-wonders"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/chinese-zodiac/index.json": {
+      "get": {
+        "summary": "List all chinese zodiac",
+        "operationId": "list_chinese_zodiac",
+        "tags": [
+          "chinese-zodiac"
+        ],
+        "responses": {
+          "200": {
+            "description": "All chinese zodiac records."
+          }
+        }
+      }
+    },
+    "/api/chinese-zodiac/{id}.json": {
+      "get": {
+        "summary": "Get a single chinese zodiac record by id",
+        "operationId": "get_chinese_zodiac",
+        "tags": [
+          "chinese-zodiac"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/birthstones/index.json": {
+      "get": {
+        "summary": "List all birthstones",
+        "operationId": "list_birthstones",
+        "tags": [
+          "birthstones"
+        ],
+        "responses": {
+          "200": {
+            "description": "All birthstones records."
+          }
+        }
+      }
+    },
+    "/api/birthstones/{id}.json": {
+      "get": {
+        "summary": "Get a single birthstones record by id",
+        "operationId": "get_birthstones",
+        "tags": [
+          "birthstones"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/tarot-major-arcana/index.json": {
+      "get": {
+        "summary": "List all tarot major arcana",
+        "operationId": "list_tarot_major_arcana",
+        "tags": [
+          "tarot-major-arcana"
+        ],
+        "responses": {
+          "200": {
+            "description": "All tarot major arcana records."
+          }
+        }
+      }
+    },
+    "/api/tarot-major-arcana/{id}.json": {
+      "get": {
+        "summary": "Get a single tarot major arcana record by id",
+        "operationId": "get_tarot_major_arcana",
+        "tags": [
+          "tarot-major-arcana"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/gemstones/index.json": {
+      "get": {
+        "summary": "List all gemstones",
+        "operationId": "list_gemstones",
+        "tags": [
+          "gemstones"
+        ],
+        "responses": {
+          "200": {
+            "description": "All gemstones records."
+          }
+        }
+      }
+    },
+    "/api/gemstones/{id}.json": {
+      "get": {
+        "summary": "Get a single gemstones record by id",
+        "operationId": "get_gemstones",
+        "tags": [
+          "gemstones"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/colors/index.json": {
+      "get": {
+        "summary": "List all colors",
+        "operationId": "list_colors",
+        "tags": [
+          "colors"
+        ],
+        "responses": {
+          "200": {
+            "description": "All colors records."
+          }
+        }
+      }
+    },
+    "/api/colors/{id}.json": {
+      "get": {
+        "summary": "Get a single colors record by id",
+        "operationId": "get_colors",
+        "tags": [
+          "colors"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/musical-instruments/index.json": {
+      "get": {
+        "summary": "List all musical instruments",
+        "operationId": "list_musical_instruments",
+        "tags": [
+          "musical-instruments"
+        ],
+        "responses": {
+          "200": {
+            "description": "All musical instruments records."
+          }
+        }
+      }
+    },
+    "/api/musical-instruments/{id}.json": {
+      "get": {
+        "summary": "Get a single musical instruments record by id",
+        "operationId": "get_musical_instruments",
+        "tags": [
+          "musical-instruments"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/cocktails/index.json": {
+      "get": {
+        "summary": "List all classic cocktails",
+        "operationId": "list_cocktails",
+        "tags": [
+          "cocktails"
+        ],
+        "responses": {
+          "200": {
+            "description": "All classic cocktails records."
+          }
+        }
+      }
+    },
+    "/api/cocktails/{id}.json": {
+      "get": {
+        "summary": "Get a single classic cocktails record by id",
+        "operationId": "get_cocktails",
+        "tags": [
+          "cocktails"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/chess-pieces/index.json": {
+      "get": {
+        "summary": "List all chess pieces",
+        "operationId": "list_chess_pieces",
+        "tags": [
+          "chess-pieces"
+        ],
+        "responses": {
+          "200": {
+            "description": "All chess pieces records."
+          }
+        }
+      }
+    },
+    "/api/chess-pieces/{id}.json": {
+      "get": {
+        "summary": "Get a single chess pieces record by id",
+        "operationId": "get_chess_pieces",
+        "tags": [
+          "chess-pieces"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/playing-cards/index.json": {
+      "get": {
+        "summary": "List all playing cards",
+        "operationId": "list_playing_cards",
+        "tags": [
+          "playing-cards"
+        ],
+        "responses": {
+          "200": {
+            "description": "All playing cards records."
+          }
+        }
+      }
+    },
+    "/api/playing-cards/{id}.json": {
+      "get": {
+        "summary": "Get a single playing cards record by id",
+        "operationId": "get_playing_cards",
+        "tags": [
+          "playing-cards"
         ],
         "parameters": [
           {

@@ -1,0 +1,10 @@
+{
+  "id": "cauliflower",
+  "name": "Cauliflower",
+  "scientific_name": "Brassica oleracea",
+  "family": "Brassicaceae",
+  "type": "Cruciferous",
+  "color": "White",
+  "calories_per_100g": 25,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cauliflower.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "coast-redwood",
+  "common_name": "Coast Redwood",
+  "scientific_name": "Sequoia sempervirens",
+  "family": "Cupressaceae",
+  "type": "Coniferous",
+  "max_height_m": 115,
+  "native_region": "Coastal California and Oregon",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/coast-redwood.json"
+}

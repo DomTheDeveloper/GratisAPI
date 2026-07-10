@@ -1,0 +1,9 @@
+{
+  "id": "cardamom",
+  "name": "Cardamom",
+  "plant_part": "Seed",
+  "origin_region": "India",
+  "flavor": "Aromatic, floral",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cardamom.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mc",
+  "name": "Monaco",
+  "alpha2": "MC",
+  "alpha3": "MCO",
+  "capital": "Monaco",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇲🇨",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mc.json"
+}

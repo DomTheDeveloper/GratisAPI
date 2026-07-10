@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b3",
+  "name": "Vitamin B3",
+  "chemical_name": "Niacin",
+  "solubility": "Water",
+  "function": "Energy metabolism and DNA repair",
+  "deficiency_disease": "Pellagra",
+  "food_sources": [
+    "Meat",
+    "Fish",
+    "Peanuts"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b3.json"
+}

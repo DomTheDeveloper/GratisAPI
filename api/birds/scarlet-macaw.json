@@ -1,0 +1,11 @@
+{
+  "id": "scarlet-macaw",
+  "common_name": "Scarlet Macaw",
+  "scientific_name": "Ara macao",
+  "family": "Psittacidae",
+  "habitat": "Tropical rainforest",
+  "diet": "Herbivore",
+  "wingspan_cm": 110,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/scarlet-macaw.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bloodhound",
+  "name": "Bloodhound",
+  "group": "Hound",
+  "origin": "Belgium",
+  "size": "Large",
+  "life_expectancy_years": "10-12",
+  "temperament": "Friendly, independent and inquisitive",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/bloodhound.json"
+}

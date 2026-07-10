@@ -1,0 +1,11 @@
+{
+  "id": "lemon",
+  "name": "Lemon",
+  "scientific_name": "Citrus limon",
+  "family": "Rutaceae",
+  "type": "Citrus",
+  "color": "Yellow",
+  "origin_region": "South Asia",
+  "calories_per_100g": 29,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/lemon.json"
+}

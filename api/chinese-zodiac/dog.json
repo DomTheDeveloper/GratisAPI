@@ -1,0 +1,15 @@
+{
+  "id": "dog",
+  "animal": "Dog",
+  "order": 11,
+  "element": "Earth",
+  "yin_yang": "Yang",
+  "traits": "Loyal, honest, responsible",
+  "recent_years": [
+    1994,
+    2006,
+    2018,
+    2030
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/dog.json"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "north-carolina",
+  "name": "North Carolina",
+  "abbreviation": "NC",
+  "capital": "Raleigh",
+  "largest_city": "Charlotte",
+  "population": 10439388,
+  "area_km2": 139391,
+  "statehood_year": 1789,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/north-carolina.json"
+}

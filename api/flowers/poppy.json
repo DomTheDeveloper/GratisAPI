@@ -1,0 +1,10 @@
+{
+  "id": "poppy",
+  "name": "Common Poppy",
+  "scientific_name": "Papaver rhoeas",
+  "family": "Papaveraceae",
+  "color": "Red",
+  "bloom_season": "Summer",
+  "meaning": "Remembrance",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/poppy.json"
+}

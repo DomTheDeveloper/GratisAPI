@@ -1,0 +1,9 @@
+{
+  "id": "aperol-spritz",
+  "name": "Aperol Spritz",
+  "base_spirit": null,
+  "type": "Sparkling",
+  "glass": "Wine",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/aperol-spritz.json"
+}

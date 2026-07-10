@@ -1,0 +1,9 @@
+{
+  "id": "hadar",
+  "name": "Hadar",
+  "constellation": "Centaurus",
+  "apparent_magnitude": 0.61,
+  "distance_ly": 390.0,
+  "spectral_type": "B1III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/hadar.json"
+}

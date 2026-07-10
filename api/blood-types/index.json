@@ -1,0 +1,174 @@
+{
+  "api": "blood-types",
+  "title": "Blood Types",
+  "description": "The eight ABO/Rh blood groups with donor and recipient compatibility.",
+  "emoji": "🩸",
+  "license": "GPL-2.0-or-later",
+  "count": 8,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/{id}.json"
+  },
+  "fields": [
+    "approx_global_percent",
+    "can_donate_to",
+    "can_receive_from",
+    "group",
+    "id",
+    "is_universal_donor",
+    "is_universal_recipient"
+  ],
+  "results": [
+    {
+      "id": "o-negative",
+      "group": "O-",
+      "can_donate_to": [
+        "O-",
+        "O+",
+        "A-",
+        "A+",
+        "B-",
+        "B+",
+        "AB-",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-"
+      ],
+      "is_universal_donor": true,
+      "is_universal_recipient": false,
+      "approx_global_percent": 4.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/o-negative.json"
+    },
+    {
+      "id": "o-positive",
+      "group": "O+",
+      "can_donate_to": [
+        "O+",
+        "A+",
+        "B+",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "O+"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": false,
+      "approx_global_percent": 36.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/o-positive.json"
+    },
+    {
+      "id": "a-negative",
+      "group": "A-",
+      "can_donate_to": [
+        "A-",
+        "A+",
+        "AB-",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "A-"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": false,
+      "approx_global_percent": 6.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/a-negative.json"
+    },
+    {
+      "id": "a-positive",
+      "group": "A+",
+      "can_donate_to": [
+        "A+",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "O+",
+        "A-",
+        "A+"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": false,
+      "approx_global_percent": 28.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/a-positive.json"
+    },
+    {
+      "id": "b-negative",
+      "group": "B-",
+      "can_donate_to": [
+        "B-",
+        "B+",
+        "AB-",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "B-"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": false,
+      "approx_global_percent": 2.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/b-negative.json"
+    },
+    {
+      "id": "b-positive",
+      "group": "B+",
+      "can_donate_to": [
+        "B+",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "O+",
+        "B-",
+        "B+"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": false,
+      "approx_global_percent": 8.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/b-positive.json"
+    },
+    {
+      "id": "ab-negative",
+      "group": "AB-",
+      "can_donate_to": [
+        "AB-",
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "A-",
+        "B-",
+        "AB-"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": false,
+      "approx_global_percent": 1.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/ab-negative.json"
+    },
+    {
+      "id": "ab-positive",
+      "group": "AB+",
+      "can_donate_to": [
+        "AB+"
+      ],
+      "can_receive_from": [
+        "O-",
+        "O+",
+        "A-",
+        "A+",
+        "B-",
+        "B+",
+        "AB-",
+        "AB+"
+      ],
+      "is_universal_donor": false,
+      "is_universal_recipient": true,
+      "approx_global_percent": 5.0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/ab-positive.json"
+    }
+  ]
+}

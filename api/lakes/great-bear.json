@@ -1,0 +1,9 @@
+{
+  "id": "great-bear",
+  "name": "Great Bear Lake",
+  "area_km2": 31000,
+  "max_depth_m": 446,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/great-bear.json"
+}

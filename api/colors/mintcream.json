@@ -1,0 +1,18 @@
+{
+  "id": "mintcream",
+  "name": "Mint Cream",
+  "hex": "#F5FFFA",
+  "rgb": {
+    "r": 245,
+    "g": 255,
+    "b": 250
+  },
+  "rgb_string": "rgb(245, 255, 250)",
+  "hsl": {
+    "h": 150,
+    "s": 100,
+    "l": 98
+  },
+  "hsl_string": "hsl(150, 100%, 98%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mintcream.json"
+}

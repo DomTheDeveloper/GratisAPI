@@ -1,0 +1,9 @@
+{
+  "id": "rose-quartz",
+  "name": "Rose Quartz",
+  "color": "Pink",
+  "mohs_hardness": 7.0,
+  "crystal_system": "Trigonal",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/rose-quartz.json"
+}

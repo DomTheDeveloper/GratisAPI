@@ -1,0 +1,10 @@
+{
+  "id": "european-larch",
+  "common_name": "European Larch",
+  "scientific_name": "Larix decidua",
+  "family": "Pinaceae",
+  "type": "Deciduous",
+  "max_height_m": 45,
+  "native_region": "European Alps",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/european-larch.json"
+}

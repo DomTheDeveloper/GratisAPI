@@ -1,0 +1,11 @@
+{
+  "id": "golden-eagle",
+  "common_name": "Golden Eagle",
+  "scientific_name": "Aquila chrysaetos",
+  "family": "Accipitridae",
+  "habitat": "Mountains and open country",
+  "diet": "Carnivore",
+  "wingspan_cm": 220,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/golden-eagle.json"
+}

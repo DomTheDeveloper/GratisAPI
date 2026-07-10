@@ -1,0 +1,12 @@
+{
+  "id": "sandbar-shark",
+  "common_name": "Sandbar Shark",
+  "scientific_name": "Carcharhinus plumbeus",
+  "family": "Carcharhinidae",
+  "max_length_m": 2.5,
+  "habitat": "Temperate and tropical coastal waters",
+  "diet": "Carnivore",
+  "conservation_status": "Endangered",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/sandbar-shark.json"
+}

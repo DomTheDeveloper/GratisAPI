@@ -1,0 +1,13 @@
+{
+  "id": "sl",
+  "name": "Sierra Leone",
+  "alpha2": "SL",
+  "alpha3": "SLE",
+  "capital": "Freetown",
+  "continent": "Africa",
+  "currency_code": "SLE",
+  "currency": "Leone",
+  "population_millions": 8,
+  "flag_emoji": "🇸🇱",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sl.json"
+}

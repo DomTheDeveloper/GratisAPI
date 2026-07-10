@@ -1,0 +1,10 @@
+{
+  "id": "hyacinth",
+  "name": "Hyacinth",
+  "scientific_name": "Hyacinthus orientalis",
+  "family": "Asparagaceae",
+  "color": "Purple",
+  "bloom_season": "Spring",
+  "meaning": "Sincerity",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/hyacinth.json"
+}

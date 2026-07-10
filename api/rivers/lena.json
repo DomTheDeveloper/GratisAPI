@@ -1,0 +1,9 @@
+{
+  "id": "lena",
+  "name": "Lena",
+  "length_km": 4400,
+  "continent": "Asia",
+  "outflow": "Arctic Ocean (Laptev Sea)",
+  "countries": "Russia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/lena.json"
+}

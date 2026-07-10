@@ -1,0 +1,13 @@
+{
+  "id": "kn",
+  "name": "Saint Kitts and Nevis",
+  "alpha2": "KN",
+  "alpha3": "KNA",
+  "capital": "Basseterre",
+  "continent": "North America",
+  "currency_code": "XCD",
+  "currency": "East Caribbean Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇰🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kn.json"
+}

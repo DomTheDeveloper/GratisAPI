@@ -1,0 +1,10 @@
+{
+  "id": "sweet-potato",
+  "name": "Sweet Potato",
+  "scientific_name": "Ipomoea batatas",
+  "family": "Convolvulaceae",
+  "type": "Tuber",
+  "color": "Orange",
+  "calories_per_100g": 86,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/sweet-potato.json"
+}

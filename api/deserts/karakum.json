@@ -1,0 +1,8 @@
+{
+  "id": "karakum",
+  "name": "Karakum Desert",
+  "area_km2": 350000,
+  "continent": "Asia",
+  "type": "Cold",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/karakum.json"
+}

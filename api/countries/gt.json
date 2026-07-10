@@ -1,0 +1,13 @@
+{
+  "id": "gt",
+  "name": "Guatemala",
+  "alpha2": "GT",
+  "alpha3": "GTM",
+  "capital": "Guatemala City",
+  "continent": "North America",
+  "currency_code": "GTQ",
+  "currency": "Quetzal",
+  "population_millions": 17,
+  "flag_emoji": "🇬🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gt.json"
+}

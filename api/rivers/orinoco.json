@@ -1,0 +1,9 @@
+{
+  "id": "orinoco",
+  "name": "Orinoco",
+  "length_km": 2140,
+  "continent": "South America",
+  "outflow": "Atlantic Ocean",
+  "countries": "Venezuela, Colombia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/orinoco.json"
+}

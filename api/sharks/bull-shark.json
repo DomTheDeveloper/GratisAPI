@@ -1,0 +1,12 @@
+{
+  "id": "bull-shark",
+  "common_name": "Bull Shark",
+  "scientific_name": "Carcharhinus leucas",
+  "family": "Carcharhinidae",
+  "max_length_m": 3.5,
+  "habitat": "Coastal waters and freshwater rivers",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "High",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/bull-shark.json"
+}

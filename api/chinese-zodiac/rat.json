@@ -1,0 +1,15 @@
+{
+  "id": "rat",
+  "animal": "Rat",
+  "order": 1,
+  "element": "Water",
+  "yin_yang": "Yang",
+  "traits": "Quick-witted, resourceful, adaptable",
+  "recent_years": [
+    1984,
+    1996,
+    2008,
+    2020
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/rat.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "leopard",
+  "common_name": "Leopard",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "species": "Panthera pardus",
+  "conservation_status": "Vulnerable",
+  "habitat": "Forests, grasslands and mountains",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/leopard.json"
+}

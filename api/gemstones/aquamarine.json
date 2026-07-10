@@ -1,0 +1,9 @@
+{
+  "id": "aquamarine",
+  "name": "Aquamarine",
+  "color": "Pale blue",
+  "mohs_hardness": 7.5,
+  "crystal_system": "Hexagonal",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/aquamarine.json"
+}

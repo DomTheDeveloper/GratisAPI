@@ -1,0 +1,10 @@
+{
+  "id": "xls",
+  "mime_type": "application/vnd.ms-excel",
+  "name": "Microsoft Excel (Legacy)",
+  "category": "application",
+  "extensions": [
+    ".xls"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xls.json"
+}

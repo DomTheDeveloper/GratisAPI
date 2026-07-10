@@ -1,0 +1,18 @@
+{
+  "id": "oldlace",
+  "name": "Old Lace",
+  "hex": "#FDF5E6",
+  "rgb": {
+    "r": 253,
+    "g": 245,
+    "b": 230
+  },
+  "rgb_string": "rgb(253, 245, 230)",
+  "hsl": {
+    "h": 39,
+    "s": 85,
+    "l": 95
+  },
+  "hsl_string": "hsl(39, 85%, 95%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/oldlace.json"
+}

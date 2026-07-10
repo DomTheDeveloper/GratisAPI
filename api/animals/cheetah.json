@@ -1,0 +1,15 @@
+{
+  "id": "cheetah",
+  "common_name": "Cheetah",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Acinonyx",
+  "species": "Acinonyx jubatus",
+  "conservation_status": "Vulnerable",
+  "habitat": "Open grasslands and savanna",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/cheetah.json"
+}

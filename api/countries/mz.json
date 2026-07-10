@@ -1,0 +1,13 @@
+{
+  "id": "mz",
+  "name": "Mozambique",
+  "alpha2": "MZ",
+  "alpha3": "MOZ",
+  "capital": "Maputo",
+  "continent": "Africa",
+  "currency_code": "MZN",
+  "currency": "Mozambican Metical",
+  "population_millions": 32,
+  "flag_emoji": "🇲🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mz.json"
+}

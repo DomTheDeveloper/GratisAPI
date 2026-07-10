@@ -1,0 +1,12 @@
+{
+  "id": "washington",
+  "name": "Washington",
+  "abbreviation": "WA",
+  "capital": "Olympia",
+  "largest_city": "Seattle",
+  "population": 7705281,
+  "area_km2": 184661,
+  "statehood_year": 1889,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/washington.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "si",
+  "name": "Slovenia",
+  "alpha2": "SI",
+  "alpha3": "SVN",
+  "capital": "Ljubljana",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 2,
+  "flag_emoji": "🇸🇮",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/si.json"
+}

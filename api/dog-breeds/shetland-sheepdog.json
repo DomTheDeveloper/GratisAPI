@@ -1,0 +1,10 @@
+{
+  "id": "shetland-sheepdog",
+  "name": "Shetland Sheepdog",
+  "group": "Herding",
+  "origin": "United Kingdom",
+  "size": "Small",
+  "life_expectancy_years": "12-14",
+  "temperament": "Playful, energetic and bright",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/shetland-sheepdog.json"
+}

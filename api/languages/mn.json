@@ -1,0 +1,9 @@
+{
+  "id": "mn",
+  "code": "mn",
+  "name": "Mongolian",
+  "native_name": "Монгол",
+  "direction": "ltr",
+  "speakers_millions": 5,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/mn.json"
+}

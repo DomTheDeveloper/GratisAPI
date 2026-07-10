@@ -1,0 +1,18 @@
+{
+  "id": "ab-negative",
+  "group": "AB-",
+  "can_donate_to": [
+    "AB-",
+    "AB+"
+  ],
+  "can_receive_from": [
+    "O-",
+    "A-",
+    "B-",
+    "AB-"
+  ],
+  "is_universal_donor": false,
+  "is_universal_recipient": false,
+  "approx_global_percent": 1.0,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/ab-negative.json"
+}

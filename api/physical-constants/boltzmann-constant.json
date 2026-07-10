@@ -1,0 +1,9 @@
+{
+  "id": "boltzmann-constant",
+  "name": "Boltzmann constant",
+  "symbol": "k_B",
+  "value": 1.380649e-23,
+  "unit": "J/K",
+  "category": "Thermodynamic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/boltzmann-constant.json"
+}

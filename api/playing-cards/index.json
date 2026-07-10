@@ -1,0 +1,491 @@
+{
+  "api": "playing-cards",
+  "title": "Playing Cards",
+  "description": "A standard 52-card deck with rank, suit, color, value, and suit symbol.",
+  "emoji": "🃏",
+  "license": "GPL-2.0-or-later",
+  "count": 52,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/{id}.json"
+  },
+  "fields": [
+    "color",
+    "id",
+    "rank",
+    "suit",
+    "symbol",
+    "value"
+  ],
+  "results": [
+    {
+      "id": "ace-of-spades",
+      "rank": "Ace",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 1,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/ace-of-spades.json"
+    },
+    {
+      "id": "2-of-spades",
+      "rank": "2",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 2,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/2-of-spades.json"
+    },
+    {
+      "id": "3-of-spades",
+      "rank": "3",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 3,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/3-of-spades.json"
+    },
+    {
+      "id": "4-of-spades",
+      "rank": "4",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 4,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/4-of-spades.json"
+    },
+    {
+      "id": "5-of-spades",
+      "rank": "5",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 5,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/5-of-spades.json"
+    },
+    {
+      "id": "6-of-spades",
+      "rank": "6",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 6,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/6-of-spades.json"
+    },
+    {
+      "id": "7-of-spades",
+      "rank": "7",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 7,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/7-of-spades.json"
+    },
+    {
+      "id": "8-of-spades",
+      "rank": "8",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 8,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/8-of-spades.json"
+    },
+    {
+      "id": "9-of-spades",
+      "rank": "9",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 9,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/9-of-spades.json"
+    },
+    {
+      "id": "10-of-spades",
+      "rank": "10",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 10,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/10-of-spades.json"
+    },
+    {
+      "id": "jack-of-spades",
+      "rank": "Jack",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 11,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/jack-of-spades.json"
+    },
+    {
+      "id": "queen-of-spades",
+      "rank": "Queen",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 12,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/queen-of-spades.json"
+    },
+    {
+      "id": "king-of-spades",
+      "rank": "King",
+      "suit": "Spades",
+      "color": "Black",
+      "value": 13,
+      "symbol": "♠",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/king-of-spades.json"
+    },
+    {
+      "id": "ace-of-hearts",
+      "rank": "Ace",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 1,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/ace-of-hearts.json"
+    },
+    {
+      "id": "2-of-hearts",
+      "rank": "2",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 2,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/2-of-hearts.json"
+    },
+    {
+      "id": "3-of-hearts",
+      "rank": "3",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 3,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/3-of-hearts.json"
+    },
+    {
+      "id": "4-of-hearts",
+      "rank": "4",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 4,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/4-of-hearts.json"
+    },
+    {
+      "id": "5-of-hearts",
+      "rank": "5",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 5,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/5-of-hearts.json"
+    },
+    {
+      "id": "6-of-hearts",
+      "rank": "6",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 6,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/6-of-hearts.json"
+    },
+    {
+      "id": "7-of-hearts",
+      "rank": "7",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 7,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/7-of-hearts.json"
+    },
+    {
+      "id": "8-of-hearts",
+      "rank": "8",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 8,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/8-of-hearts.json"
+    },
+    {
+      "id": "9-of-hearts",
+      "rank": "9",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 9,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/9-of-hearts.json"
+    },
+    {
+      "id": "10-of-hearts",
+      "rank": "10",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 10,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/10-of-hearts.json"
+    },
+    {
+      "id": "jack-of-hearts",
+      "rank": "Jack",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 11,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/jack-of-hearts.json"
+    },
+    {
+      "id": "queen-of-hearts",
+      "rank": "Queen",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 12,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/queen-of-hearts.json"
+    },
+    {
+      "id": "king-of-hearts",
+      "rank": "King",
+      "suit": "Hearts",
+      "color": "Red",
+      "value": 13,
+      "symbol": "♥",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/king-of-hearts.json"
+    },
+    {
+      "id": "ace-of-diamonds",
+      "rank": "Ace",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 1,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/ace-of-diamonds.json"
+    },
+    {
+      "id": "2-of-diamonds",
+      "rank": "2",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 2,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/2-of-diamonds.json"
+    },
+    {
+      "id": "3-of-diamonds",
+      "rank": "3",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 3,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/3-of-diamonds.json"
+    },
+    {
+      "id": "4-of-diamonds",
+      "rank": "4",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 4,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/4-of-diamonds.json"
+    },
+    {
+      "id": "5-of-diamonds",
+      "rank": "5",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 5,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/5-of-diamonds.json"
+    },
+    {
+      "id": "6-of-diamonds",
+      "rank": "6",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 6,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/6-of-diamonds.json"
+    },
+    {
+      "id": "7-of-diamonds",
+      "rank": "7",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 7,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/7-of-diamonds.json"
+    },
+    {
+      "id": "8-of-diamonds",
+      "rank": "8",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 8,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/8-of-diamonds.json"
+    },
+    {
+      "id": "9-of-diamonds",
+      "rank": "9",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 9,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/9-of-diamonds.json"
+    },
+    {
+      "id": "10-of-diamonds",
+      "rank": "10",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 10,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/10-of-diamonds.json"
+    },
+    {
+      "id": "jack-of-diamonds",
+      "rank": "Jack",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 11,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/jack-of-diamonds.json"
+    },
+    {
+      "id": "queen-of-diamonds",
+      "rank": "Queen",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 12,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/queen-of-diamonds.json"
+    },
+    {
+      "id": "king-of-diamonds",
+      "rank": "King",
+      "suit": "Diamonds",
+      "color": "Red",
+      "value": 13,
+      "symbol": "♦",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/king-of-diamonds.json"
+    },
+    {
+      "id": "ace-of-clubs",
+      "rank": "Ace",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 1,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/ace-of-clubs.json"
+    },
+    {
+      "id": "2-of-clubs",
+      "rank": "2",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 2,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/2-of-clubs.json"
+    },
+    {
+      "id": "3-of-clubs",
+      "rank": "3",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 3,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/3-of-clubs.json"
+    },
+    {
+      "id": "4-of-clubs",
+      "rank": "4",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 4,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/4-of-clubs.json"
+    },
+    {
+      "id": "5-of-clubs",
+      "rank": "5",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 5,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/5-of-clubs.json"
+    },
+    {
+      "id": "6-of-clubs",
+      "rank": "6",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 6,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/6-of-clubs.json"
+    },
+    {
+      "id": "7-of-clubs",
+      "rank": "7",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 7,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/7-of-clubs.json"
+    },
+    {
+      "id": "8-of-clubs",
+      "rank": "8",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 8,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/8-of-clubs.json"
+    },
+    {
+      "id": "9-of-clubs",
+      "rank": "9",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 9,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/9-of-clubs.json"
+    },
+    {
+      "id": "10-of-clubs",
+      "rank": "10",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 10,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/10-of-clubs.json"
+    },
+    {
+      "id": "jack-of-clubs",
+      "rank": "Jack",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 11,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/jack-of-clubs.json"
+    },
+    {
+      "id": "queen-of-clubs",
+      "rank": "Queen",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 12,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/queen-of-clubs.json"
+    },
+    {
+      "id": "king-of-clubs",
+      "rank": "King",
+      "suit": "Clubs",
+      "color": "Black",
+      "value": 13,
+      "symbol": "♣",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/king-of-clubs.json"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": 411,
+  "code": 411,
+  "message": "Length Required",
+  "category": "Client Error",
+  "description": "The server requires a Content-Length header for the request.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/411.json"
+}

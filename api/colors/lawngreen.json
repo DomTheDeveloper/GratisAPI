@@ -1,0 +1,18 @@
+{
+  "id": "lawngreen",
+  "name": "Lawn Green",
+  "hex": "#7CFC00",
+  "rgb": {
+    "r": 124,
+    "g": 252,
+    "b": 0
+  },
+  "rgb_string": "rgb(124, 252, 0)",
+  "hsl": {
+    "h": 90,
+    "s": 100,
+    "l": 49
+  },
+  "hsl_string": "hsl(90, 100%, 49%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lawngreen.json"
+}

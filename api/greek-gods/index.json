@@ -1,0 +1,329 @@
+{
+  "api": "greek-gods",
+  "title": "Greek Gods",
+  "description": "Gods, Titans, primordials, and heroes of Greek mythology.",
+  "emoji": "🏛️",
+  "license": "GPL-2.0-or-later",
+  "count": 34,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/{id}.json"
+  },
+  "fields": [
+    "domain",
+    "id",
+    "name",
+    "roman_equivalent",
+    "symbol",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "domain": "Sky, thunder, king of the gods",
+      "roman_equivalent": "Jupiter",
+      "type": "Olympian",
+      "symbol": "Thunderbolt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/zeus.json"
+    },
+    {
+      "id": "hera",
+      "name": "Hera",
+      "domain": "Marriage, women, queen of the gods",
+      "roman_equivalent": "Juno",
+      "type": "Olympian",
+      "symbol": "Peacock",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/hera.json"
+    },
+    {
+      "id": "poseidon",
+      "name": "Poseidon",
+      "domain": "Sea, earthquakes, horses",
+      "roman_equivalent": "Neptune",
+      "type": "Olympian",
+      "symbol": "Trident",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/poseidon.json"
+    },
+    {
+      "id": "demeter",
+      "name": "Demeter",
+      "domain": "Harvest, agriculture, fertility",
+      "roman_equivalent": "Ceres",
+      "type": "Olympian",
+      "symbol": "Sheaf of wheat",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/demeter.json"
+    },
+    {
+      "id": "athena",
+      "name": "Athena",
+      "domain": "Wisdom, warfare, crafts",
+      "roman_equivalent": "Minerva",
+      "type": "Olympian",
+      "symbol": "Owl",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/athena.json"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "domain": "Sun, music, prophecy, healing",
+      "roman_equivalent": "Apollo",
+      "type": "Olympian",
+      "symbol": "Lyre",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/apollo.json"
+    },
+    {
+      "id": "artemis",
+      "name": "Artemis",
+      "domain": "Hunt, wilderness, moon",
+      "roman_equivalent": "Diana",
+      "type": "Olympian",
+      "symbol": "Bow and arrow",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/artemis.json"
+    },
+    {
+      "id": "ares",
+      "name": "Ares",
+      "domain": "War and bloodshed",
+      "roman_equivalent": "Mars",
+      "type": "Olympian",
+      "symbol": "Spear",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/ares.json"
+    },
+    {
+      "id": "aphrodite",
+      "name": "Aphrodite",
+      "domain": "Love, beauty, desire",
+      "roman_equivalent": "Venus",
+      "type": "Olympian",
+      "symbol": "Dove",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/aphrodite.json"
+    },
+    {
+      "id": "hephaestus",
+      "name": "Hephaestus",
+      "domain": "Fire, metalworking, craftsmen",
+      "roman_equivalent": "Vulcan",
+      "type": "Olympian",
+      "symbol": "Hammer and anvil",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/hephaestus.json"
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes",
+      "domain": "Travel, commerce, messenger of the gods",
+      "roman_equivalent": "Mercury",
+      "type": "Olympian",
+      "symbol": "Caduceus",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/hermes.json"
+    },
+    {
+      "id": "hestia",
+      "name": "Hestia",
+      "domain": "Hearth, home, family",
+      "roman_equivalent": "Vesta",
+      "type": "Olympian",
+      "symbol": "Hearth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/hestia.json"
+    },
+    {
+      "id": "dionysus",
+      "name": "Dionysus",
+      "domain": "Wine, festivity, theatre",
+      "roman_equivalent": "Bacchus",
+      "type": "Olympian",
+      "symbol": "Grapevine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/dionysus.json"
+    },
+    {
+      "id": "hades",
+      "name": "Hades",
+      "domain": "Underworld and the dead",
+      "roman_equivalent": "Pluto",
+      "type": "Olympian",
+      "symbol": "Bident",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/hades.json"
+    },
+    {
+      "id": "cronus",
+      "name": "Cronus",
+      "domain": "Time, leader of the Titans",
+      "roman_equivalent": "Saturn",
+      "type": "Titan",
+      "symbol": "Sickle",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/cronus.json"
+    },
+    {
+      "id": "rhea",
+      "name": "Rhea",
+      "domain": "Fertility, motherhood",
+      "roman_equivalent": "Ops",
+      "type": "Titan",
+      "symbol": "Lion",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/rhea.json"
+    },
+    {
+      "id": "oceanus",
+      "name": "Oceanus",
+      "domain": "The ocean, freshwater",
+      "roman_equivalent": null,
+      "type": "Titan",
+      "symbol": "River",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/oceanus.json"
+    },
+    {
+      "id": "hyperion",
+      "name": "Hyperion",
+      "domain": "Heavenly light",
+      "roman_equivalent": null,
+      "type": "Titan",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/hyperion.json"
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "domain": "Endurance, holding up the heavens",
+      "roman_equivalent": null,
+      "type": "Titan",
+      "symbol": "Celestial sphere",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/atlas.json"
+    },
+    {
+      "id": "prometheus",
+      "name": "Prometheus",
+      "domain": "Forethought, giver of fire to humanity",
+      "roman_equivalent": null,
+      "type": "Titan",
+      "symbol": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/prometheus.json"
+    },
+    {
+      "id": "helios",
+      "name": "Helios",
+      "domain": "The sun",
+      "roman_equivalent": "Sol",
+      "type": "Titan",
+      "symbol": "Sun chariot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/helios.json"
+    },
+    {
+      "id": "selene",
+      "name": "Selene",
+      "domain": "The moon",
+      "roman_equivalent": "Luna",
+      "type": "Titan",
+      "symbol": "Crescent moon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/selene.json"
+    },
+    {
+      "id": "chaos",
+      "name": "Chaos",
+      "domain": "The primordial void",
+      "roman_equivalent": null,
+      "type": "Primordial",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/chaos.json"
+    },
+    {
+      "id": "gaia",
+      "name": "Gaia",
+      "domain": "The earth",
+      "roman_equivalent": "Terra",
+      "type": "Primordial",
+      "symbol": "Earth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/gaia.json"
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "domain": "The sky",
+      "roman_equivalent": "Caelus",
+      "type": "Primordial",
+      "symbol": "Sky",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/uranus.json"
+    },
+    {
+      "id": "nyx",
+      "name": "Nyx",
+      "domain": "Night",
+      "roman_equivalent": "Nox",
+      "type": "Primordial",
+      "symbol": "Night",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/nyx.json"
+    },
+    {
+      "id": "eros",
+      "name": "Eros",
+      "domain": "Love, procreation",
+      "roman_equivalent": "Cupid",
+      "type": "Primordial",
+      "symbol": "Bow and arrow",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/eros.json"
+    },
+    {
+      "id": "tartarus",
+      "name": "Tartarus",
+      "domain": "The abyss of the underworld",
+      "roman_equivalent": null,
+      "type": "Primordial",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/tartarus.json"
+    },
+    {
+      "id": "heracles",
+      "name": "Heracles",
+      "domain": "Strength, heroism, the Twelve Labours",
+      "roman_equivalent": "Hercules",
+      "type": "Hero",
+      "symbol": "Club",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/heracles.json"
+    },
+    {
+      "id": "perseus",
+      "name": "Perseus",
+      "domain": "Slayer of Medusa",
+      "roman_equivalent": null,
+      "type": "Hero",
+      "symbol": "Harpe sword",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/perseus.json"
+    },
+    {
+      "id": "theseus",
+      "name": "Theseus",
+      "domain": "Slayer of the Minotaur, founder-hero of Athens",
+      "roman_equivalent": null,
+      "type": "Hero",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/theseus.json"
+    },
+    {
+      "id": "achilles",
+      "name": "Achilles",
+      "domain": "Warrior hero of the Trojan War",
+      "roman_equivalent": null,
+      "type": "Hero",
+      "symbol": "Spear and shield",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/achilles.json"
+    },
+    {
+      "id": "odysseus",
+      "name": "Odysseus",
+      "domain": "Cunning, the long journey home",
+      "roman_equivalent": "Ulysses",
+      "type": "Hero",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/odysseus.json"
+    },
+    {
+      "id": "pan",
+      "name": "Pan",
+      "domain": "The wild, shepherds, flocks",
+      "roman_equivalent": "Faunus",
+      "type": "Other",
+      "symbol": "Pan flute",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/pan.json"
+    }
+  ]
+}

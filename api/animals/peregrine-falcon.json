@@ -1,0 +1,15 @@
+{
+  "id": "peregrine-falcon",
+  "common_name": "Peregrine Falcon",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Falconiformes",
+  "family": "Falconidae",
+  "genus": "Falco",
+  "species": "Falco peregrinus",
+  "conservation_status": "Least Concern",
+  "habitat": "Cliffs and cities worldwide",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/peregrine-falcon.json"
+}

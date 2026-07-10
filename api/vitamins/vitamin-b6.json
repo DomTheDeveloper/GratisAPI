@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b6",
+  "name": "Vitamin B6",
+  "chemical_name": "Pyridoxine",
+  "solubility": "Water",
+  "function": "Amino acid metabolism and neurotransmitters",
+  "deficiency_disease": "Anaemia",
+  "food_sources": [
+    "Poultry",
+    "Bananas",
+    "Chickpeas"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b6.json"
+}

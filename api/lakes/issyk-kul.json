@@ -1,0 +1,9 @@
+{
+  "id": "issyk-kul",
+  "name": "Issyk-Kul",
+  "area_km2": 6236,
+  "max_depth_m": 668,
+  "continent": "Asia",
+  "type": "Salt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/issyk-kul.json"
+}

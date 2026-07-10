@@ -1,0 +1,15 @@
+{
+  "id": "common-vampire-bat",
+  "common_name": "Common Vampire Bat",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Chiroptera",
+  "family": "Phyllostomidae",
+  "genus": "Desmodus",
+  "species": "Desmodus rotundus",
+  "conservation_status": "Least Concern",
+  "habitat": "Tropical and subtropical Americas",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/common-vampire-bat.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "feigenbaum-alpha",
+  "name": "Feigenbaum constant alpha",
+  "symbol": "alpha",
+  "value": 2.502907875095892,
+  "description": "Reduction scaling in period-doubling bifurcations.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/feigenbaum-alpha.json"
+}

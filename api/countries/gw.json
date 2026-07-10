@@ -1,0 +1,13 @@
+{
+  "id": "gw",
+  "name": "Guinea-Bissau",
+  "alpha2": "GW",
+  "alpha3": "GNB",
+  "capital": "Bissau",
+  "continent": "Africa",
+  "currency_code": "XOF",
+  "currency": "West African CFA Franc",
+  "population_millions": 2,
+  "flag_emoji": "🇬🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gw.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "deinonychus",
+  "name": "Deinonychus",
+  "period": "Early Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 3.4,
+  "weight_kg": 85,
+  "region": "Western North America",
+  "meaning": "Terrible claw",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/deinonychus.json"
+}

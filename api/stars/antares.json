@@ -1,0 +1,9 @@
+{
+  "id": "antares",
+  "name": "Antares",
+  "constellation": "Scorpius",
+  "apparent_magnitude": 0.96,
+  "distance_ly": 550.0,
+  "spectral_type": "M1.5Iab",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/antares.json"
+}

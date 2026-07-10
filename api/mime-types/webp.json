@@ -1,0 +1,10 @@
+{
+  "id": "webp",
+  "mime_type": "image/webp",
+  "name": "WebP Image",
+  "category": "image",
+  "extensions": [
+    ".webp"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/webp.json"
+}

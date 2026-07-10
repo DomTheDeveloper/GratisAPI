@@ -1,0 +1,10 @@
+{
+  "id": "avif",
+  "mime_type": "image/avif",
+  "name": "AVIF Image",
+  "category": "image",
+  "extensions": [
+    ".avif"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/avif.json"
+}

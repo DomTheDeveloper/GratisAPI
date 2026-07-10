@@ -1,0 +1,13 @@
+{
+  "id": "my",
+  "name": "Malaysia",
+  "alpha2": "MY",
+  "alpha3": "MYS",
+  "capital": "Kuala Lumpur",
+  "continent": "Asia",
+  "currency_code": "MYR",
+  "currency": "Malaysian Ringgit",
+  "population_millions": 33,
+  "flag_emoji": "🇲🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/my.json"
+}

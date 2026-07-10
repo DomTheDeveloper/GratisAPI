@@ -1,0 +1,9 @@
+{
+  "id": "adhara",
+  "name": "Adhara",
+  "constellation": "Canis Major",
+  "apparent_magnitude": 1.5,
+  "distance_ly": 430.0,
+  "spectral_type": "B2II",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/adhara.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "emu",
+  "common_name": "Emu",
+  "scientific_name": "Dromaius novaehollandiae",
+  "family": "Casuariidae",
+  "habitat": "Australian bushland and plains",
+  "diet": "Omnivore",
+  "wingspan_cm": null,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/emu.json"
+}

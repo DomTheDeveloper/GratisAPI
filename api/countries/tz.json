@@ -1,0 +1,13 @@
+{
+  "id": "tz",
+  "name": "Tanzania",
+  "alpha2": "TZ",
+  "alpha3": "TZA",
+  "capital": "Dodoma",
+  "continent": "Africa",
+  "currency_code": "TZS",
+  "currency": "Tanzanian Shilling",
+  "population_millions": 61,
+  "flag_emoji": "🇹🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tz.json"
+}

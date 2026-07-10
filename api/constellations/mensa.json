@@ -1,0 +1,9 @@
+{
+  "id": "mensa",
+  "name": "Mensa",
+  "abbreviation": "Men",
+  "meaning": "The Table Mountain",
+  "quadrant": "SQ1",
+  "area_sq_deg": 153.484,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/mensa.json"
+}

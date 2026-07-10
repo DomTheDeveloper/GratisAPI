@@ -1,0 +1,10 @@
+{
+  "id": "violet",
+  "name": "Sweet Violet",
+  "scientific_name": "Viola odorata",
+  "family": "Violaceae",
+  "color": "Purple",
+  "bloom_season": "Spring",
+  "meaning": "Modesty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/violet.json"
+}

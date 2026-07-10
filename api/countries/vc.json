@@ -1,0 +1,13 @@
+{
+  "id": "vc",
+  "name": "Saint Vincent and the Grenadines",
+  "alpha2": "VC",
+  "alpha3": "VCT",
+  "capital": "Kingstown",
+  "continent": "North America",
+  "currency_code": "XCD",
+  "currency": "East Caribbean Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇻🇨",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/vc.json"
+}

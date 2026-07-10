@@ -1,0 +1,13 @@
+{
+  "id": "ci",
+  "name": "Cote d'Ivoire",
+  "alpha2": "CI",
+  "alpha3": "CIV",
+  "capital": "Yamoussoukro",
+  "continent": "Africa",
+  "currency_code": "XOF",
+  "currency": "West African CFA Franc",
+  "population_millions": 28,
+  "flag_emoji": "🇨🇮",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ci.json"
+}

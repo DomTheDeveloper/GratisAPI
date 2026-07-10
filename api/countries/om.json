@@ -1,0 +1,13 @@
+{
+  "id": "om",
+  "name": "Oman",
+  "alpha2": "OM",
+  "alpha3": "OMN",
+  "capital": "Muscat",
+  "continent": "Asia",
+  "currency_code": "OMR",
+  "currency": "Omani Rial",
+  "population_millions": 5,
+  "flag_emoji": "🇴🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/om.json"
+}

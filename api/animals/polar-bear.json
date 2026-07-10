@@ -1,0 +1,15 @@
+{
+  "id": "polar-bear",
+  "common_name": "Polar Bear",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Ursus",
+  "species": "Ursus maritimus",
+  "conservation_status": "Vulnerable",
+  "habitat": "Arctic sea ice and coasts",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/polar-bear.json"
+}

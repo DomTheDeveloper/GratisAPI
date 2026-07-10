@@ -1,0 +1,9 @@
+{
+  "id": "taj-mahal",
+  "name": "Taj Mahal",
+  "category": "New",
+  "location": "India",
+  "built": "1653",
+  "still_standing": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/taj-mahal.json"
+}

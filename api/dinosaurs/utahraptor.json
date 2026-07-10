@@ -1,0 +1,11 @@
+{
+  "id": "utahraptor",
+  "name": "Utahraptor",
+  "period": "Early Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 6.0,
+  "weight_kg": 500,
+  "region": "Western North America",
+  "meaning": "Utah thief",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/utahraptor.json"
+}

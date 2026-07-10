@@ -1,0 +1,11 @@
+{
+  "id": "midi",
+  "mime_type": "audio/midi",
+  "name": "MIDI Audio",
+  "category": "audio",
+  "extensions": [
+    ".mid",
+    ".midi"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/midi.json"
+}

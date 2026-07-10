@@ -1,0 +1,13 @@
+{
+  "id": "me",
+  "name": "Montenegro",
+  "alpha2": "ME",
+  "alpha3": "MNE",
+  "capital": "Podgorica",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇲🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/me.json"
+}

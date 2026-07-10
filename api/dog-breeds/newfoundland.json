@@ -1,0 +1,10 @@
+{
+  "id": "newfoundland",
+  "name": "Newfoundland",
+  "group": "Working",
+  "origin": "Canada",
+  "size": "Large",
+  "life_expectancy_years": "9-10",
+  "temperament": "Sweet, patient and devoted",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/newfoundland.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "raspberry",
+  "name": "Raspberry",
+  "scientific_name": "Rubus idaeus",
+  "family": "Rosaceae",
+  "type": "Berry",
+  "color": "Red",
+  "origin_region": "Europe and northern Asia",
+  "calories_per_100g": 52,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/raspberry.json"
+}

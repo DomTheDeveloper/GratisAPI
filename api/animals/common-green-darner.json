@@ -1,0 +1,15 @@
+{
+  "id": "common-green-darner",
+  "common_name": "Common Green Darner",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Insecta",
+  "order": "Odonata",
+  "family": "Aeshnidae",
+  "genus": "Anax",
+  "species": "Anax junius",
+  "conservation_status": "Least Concern",
+  "habitat": "Ponds and wetlands of North America",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/common-green-darner.json"
+}

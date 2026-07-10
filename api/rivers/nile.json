@@ -1,0 +1,9 @@
+{
+  "id": "nile",
+  "name": "Nile",
+  "length_km": 6650,
+  "continent": "Africa",
+  "outflow": "Mediterranean Sea",
+  "countries": "Egypt, Sudan, Uganda",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/nile.json"
+}

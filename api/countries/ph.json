@@ -1,0 +1,13 @@
+{
+  "id": "ph",
+  "name": "Philippines",
+  "alpha2": "PH",
+  "alpha3": "PHL",
+  "capital": "Manila",
+  "continent": "Asia",
+  "currency_code": "PHP",
+  "currency": "Philippine Peso",
+  "population_millions": 114,
+  "flag_emoji": "🇵🇭",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ph.json"
+}

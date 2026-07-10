@@ -1,0 +1,13 @@
+{
+  "id": "sk",
+  "name": "Slovakia",
+  "alpha2": "SK",
+  "alpha3": "SVK",
+  "capital": "Bratislava",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 5,
+  "flag_emoji": "🇸🇰",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sk.json"
+}

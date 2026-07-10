@@ -1,0 +1,8 @@
+{
+  "id": "glaisher-kinkelin",
+  "name": "Glaisher-Kinkelin constant",
+  "symbol": "A",
+  "value": 1.2824271291006226,
+  "description": "Appears in asymptotics of the hyperfactorial.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/glaisher-kinkelin.json"
+}

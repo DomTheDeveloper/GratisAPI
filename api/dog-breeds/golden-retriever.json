@@ -1,0 +1,10 @@
+{
+  "id": "golden-retriever",
+  "name": "Golden Retriever",
+  "group": "Sporting",
+  "origin": "United Kingdom",
+  "size": "Large",
+  "life_expectancy_years": "10-12",
+  "temperament": "Intelligent, friendly and devoted",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/golden-retriever.json"
+}

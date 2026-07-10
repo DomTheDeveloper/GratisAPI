@@ -1,0 +1,11 @@
+{
+  "id": "great-spotted-woodpecker",
+  "common_name": "Great Spotted Woodpecker",
+  "scientific_name": "Dendrocopos major",
+  "family": "Picidae",
+  "habitat": "Woodlands and parks",
+  "diet": "Omnivore",
+  "wingspan_cm": 38,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/great-spotted-woodpecker.json"
+}

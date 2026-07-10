@@ -1,0 +1,8 @@
+{
+  "id": "peta",
+  "name": "peta",
+  "symbol": "P",
+  "base_10": 15,
+  "factor": "1e15",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/peta.json"
+}

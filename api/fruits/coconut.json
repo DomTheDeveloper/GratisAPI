@@ -1,0 +1,11 @@
+{
+  "id": "coconut",
+  "name": "Coconut",
+  "scientific_name": "Cocos nucifera",
+  "family": "Arecaceae",
+  "type": "Drupe",
+  "color": "Brown",
+  "origin_region": "Tropical Indo-Pacific",
+  "calories_per_100g": 354,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/coconut.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bh",
+  "name": "Bahrain",
+  "alpha2": "BH",
+  "alpha3": "BHR",
+  "capital": "Manama",
+  "continent": "Asia",
+  "currency_code": "BHD",
+  "currency": "Bahraini Dinar",
+  "population_millions": 2,
+  "flag_emoji": "🇧🇭",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bh.json"
+}

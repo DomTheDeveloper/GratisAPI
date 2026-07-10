@@ -1,0 +1,9 @@
+{
+  "id": "rook",
+  "name": "Rook",
+  "symbol_white": "♖",
+  "symbol_black": "♜",
+  "value": 5,
+  "movement": "Any number of squares horizontally or vertically",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/rook.json"
+}

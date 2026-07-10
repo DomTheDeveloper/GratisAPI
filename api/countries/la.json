@@ -1,0 +1,13 @@
+{
+  "id": "la",
+  "name": "Laos",
+  "alpha2": "LA",
+  "alpha3": "LAO",
+  "capital": "Vientiane",
+  "continent": "Asia",
+  "currency_code": "LAK",
+  "currency": "Lao Kip",
+  "population_millions": 8,
+  "flag_emoji": "🇱🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/la.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "king-of-diamonds",
+  "rank": "King",
+  "suit": "Diamonds",
+  "color": "Red",
+  "value": 13,
+  "symbol": "♦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/king-of-diamonds.json"
+}

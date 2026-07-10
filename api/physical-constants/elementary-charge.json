@@ -1,0 +1,9 @@
+{
+  "id": "elementary-charge",
+  "name": "Elementary charge",
+  "symbol": "e",
+  "value": 1.602176634e-19,
+  "unit": "C",
+  "category": "Electromagnetic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/elementary-charge.json"
+}

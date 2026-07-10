@@ -1,0 +1,9 @@
+{
+  "id": "pacific",
+  "name": "Pacific Ocean",
+  "area_km2": 165250000,
+  "avg_depth_m": 4280,
+  "max_depth_m": 10935,
+  "deepest_point": "Challenger Deep (Mariana Trench)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/pacific.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "whippet",
+  "name": "Whippet",
+  "group": "Hound",
+  "origin": "United Kingdom",
+  "size": "Medium",
+  "life_expectancy_years": "12-15",
+  "temperament": "Affectionate, playful and calm",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/whippet.json"
+}

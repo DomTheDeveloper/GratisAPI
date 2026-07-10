@@ -1,0 +1,9 @@
+{
+  "id": "balkhash",
+  "name": "Lake Balkhash",
+  "area_km2": 16400,
+  "max_depth_m": 26,
+  "continent": "Asia",
+  "type": "Salt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/balkhash.json"
+}

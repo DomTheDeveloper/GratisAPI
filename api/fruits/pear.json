@@ -1,0 +1,11 @@
+{
+  "id": "pear",
+  "name": "Pear",
+  "scientific_name": "Pyrus communis",
+  "family": "Rosaceae",
+  "type": "Pome",
+  "color": "Green",
+  "origin_region": "Europe and western Asia",
+  "calories_per_100g": 57,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/pear.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "great-horned-owl",
+  "common_name": "Great Horned Owl",
+  "scientific_name": "Bubo virginianus",
+  "family": "Strigidae",
+  "habitat": "Forests and deserts",
+  "diet": "Carnivore",
+  "wingspan_cm": 140,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/great-horned-owl.json"
+}

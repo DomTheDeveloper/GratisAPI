@@ -1,0 +1,8 @@
+{
+  "id": "arabian",
+  "name": "Arabian Desert",
+  "area_km2": 2330000,
+  "continent": "Asia",
+  "type": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/arabian.json"
+}

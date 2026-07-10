@@ -1,0 +1,9 @@
+{
+  "id": "nereid",
+  "name": "Nereid",
+  "planet": "Neptune",
+  "radius_km": 170.0,
+  "discovered_year": 1949,
+  "discovered_by": "Gerard Kuiper",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/nereid.json"
+}

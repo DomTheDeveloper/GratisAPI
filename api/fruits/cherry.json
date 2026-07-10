@@ -1,0 +1,11 @@
+{
+  "id": "cherry",
+  "name": "Sweet Cherry",
+  "scientific_name": "Prunus avium",
+  "family": "Rosaceae",
+  "type": "Drupe",
+  "color": "Red",
+  "origin_region": "Europe and western Asia",
+  "calories_per_100g": 63,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/cherry.json"
+}

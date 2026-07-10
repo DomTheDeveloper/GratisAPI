@@ -1,0 +1,12 @@
+{
+  "id": "mississippi",
+  "name": "Mississippi",
+  "abbreviation": "MS",
+  "capital": "Jackson",
+  "largest_city": "Jackson",
+  "population": 2961279,
+  "area_km2": 125438,
+  "statehood_year": 1817,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/mississippi.json"
+}

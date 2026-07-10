@@ -1,0 +1,12 @@
+{
+  "id": "death",
+  "number": 13,
+  "name": "Death",
+  "keywords": [
+    "endings",
+    "transformation",
+    "transition"
+  ],
+  "element": "Water",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/death.json"
+}

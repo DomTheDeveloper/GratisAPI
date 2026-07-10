@@ -1,0 +1,13 @@
+{
+  "id": "mw",
+  "name": "Malawi",
+  "alpha2": "MW",
+  "alpha3": "MWI",
+  "capital": "Lilongwe",
+  "continent": "Africa",
+  "currency_code": "MWK",
+  "currency": "Malawian Kwacha",
+  "population_millions": 20,
+  "flag_emoji": "🇲🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mw.json"
+}

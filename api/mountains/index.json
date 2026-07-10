@@ -1,0 +1,334 @@
+{
+  "api": "mountains",
+  "title": "Mountains",
+  "description": "Notable and high mountains of the world with elevation, range, and first ascent data.",
+  "emoji": "⛰",
+  "license": "GPL-2.0-or-later",
+  "count": 31,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/mountains/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/mountains/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/mountains/{id}.json"
+  },
+  "fields": [
+    "continent",
+    "country",
+    "first_ascent_year",
+    "height_m",
+    "id",
+    "name",
+    "range"
+  ],
+  "results": [
+    {
+      "id": "everest",
+      "name": "Mount Everest",
+      "height_m": 8849,
+      "range": "Himalayas",
+      "country": "Nepal / China",
+      "continent": "Asia",
+      "first_ascent_year": 1953,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/everest.json"
+    },
+    {
+      "id": "k2",
+      "name": "K2",
+      "height_m": 8611,
+      "range": "Karakoram",
+      "country": "Pakistan / China",
+      "continent": "Asia",
+      "first_ascent_year": 1954,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/k2.json"
+    },
+    {
+      "id": "kangchenjunga",
+      "name": "Kangchenjunga",
+      "height_m": 8586,
+      "range": "Himalayas",
+      "country": "Nepal / India",
+      "continent": "Asia",
+      "first_ascent_year": 1955,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/kangchenjunga.json"
+    },
+    {
+      "id": "lhotse",
+      "name": "Lhotse",
+      "height_m": 8516,
+      "range": "Himalayas",
+      "country": "Nepal / China",
+      "continent": "Asia",
+      "first_ascent_year": 1956,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/lhotse.json"
+    },
+    {
+      "id": "makalu",
+      "name": "Makalu",
+      "height_m": 8485,
+      "range": "Himalayas",
+      "country": "Nepal / China",
+      "continent": "Asia",
+      "first_ascent_year": 1955,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/makalu.json"
+    },
+    {
+      "id": "cho-oyu",
+      "name": "Cho Oyu",
+      "height_m": 8188,
+      "range": "Himalayas",
+      "country": "Nepal / China",
+      "continent": "Asia",
+      "first_ascent_year": 1954,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/cho-oyu.json"
+    },
+    {
+      "id": "dhaulagiri",
+      "name": "Dhaulagiri I",
+      "height_m": 8167,
+      "range": "Himalayas",
+      "country": "Nepal",
+      "continent": "Asia",
+      "first_ascent_year": 1960,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/dhaulagiri.json"
+    },
+    {
+      "id": "manaslu",
+      "name": "Manaslu",
+      "height_m": 8163,
+      "range": "Himalayas",
+      "country": "Nepal",
+      "continent": "Asia",
+      "first_ascent_year": 1956,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/manaslu.json"
+    },
+    {
+      "id": "nanga-parbat",
+      "name": "Nanga Parbat",
+      "height_m": 8126,
+      "range": "Himalayas",
+      "country": "Pakistan",
+      "continent": "Asia",
+      "first_ascent_year": 1953,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/nanga-parbat.json"
+    },
+    {
+      "id": "annapurna",
+      "name": "Annapurna I",
+      "height_m": 8091,
+      "range": "Himalayas",
+      "country": "Nepal",
+      "continent": "Asia",
+      "first_ascent_year": 1950,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/annapurna.json"
+    },
+    {
+      "id": "gasherbrum-i",
+      "name": "Gasherbrum I",
+      "height_m": 8080,
+      "range": "Karakoram",
+      "country": "Pakistan / China",
+      "continent": "Asia",
+      "first_ascent_year": 1958,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/gasherbrum-i.json"
+    },
+    {
+      "id": "broad-peak",
+      "name": "Broad Peak",
+      "height_m": 8051,
+      "range": "Karakoram",
+      "country": "Pakistan / China",
+      "continent": "Asia",
+      "first_ascent_year": 1957,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/broad-peak.json"
+    },
+    {
+      "id": "gasherbrum-ii",
+      "name": "Gasherbrum II",
+      "height_m": 8035,
+      "range": "Karakoram",
+      "country": "Pakistan / China",
+      "continent": "Asia",
+      "first_ascent_year": 1956,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/gasherbrum-ii.json"
+    },
+    {
+      "id": "shishapangma",
+      "name": "Shishapangma",
+      "height_m": 8027,
+      "range": "Himalayas",
+      "country": "China",
+      "continent": "Asia",
+      "first_ascent_year": 1964,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/shishapangma.json"
+    },
+    {
+      "id": "denali",
+      "name": "Denali",
+      "height_m": 6190,
+      "range": "Alaska Range",
+      "country": "United States",
+      "continent": "North America",
+      "first_ascent_year": 1913,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/denali.json"
+    },
+    {
+      "id": "aconcagua",
+      "name": "Aconcagua",
+      "height_m": 6961,
+      "range": "Andes",
+      "country": "Argentina",
+      "continent": "South America",
+      "first_ascent_year": 1897,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/aconcagua.json"
+    },
+    {
+      "id": "kilimanjaro",
+      "name": "Mount Kilimanjaro",
+      "height_m": 5895,
+      "range": "Eastern Rift mountains",
+      "country": "Tanzania",
+      "continent": "Africa",
+      "first_ascent_year": 1889,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/kilimanjaro.json"
+    },
+    {
+      "id": "elbrus",
+      "name": "Mount Elbrus",
+      "height_m": 5642,
+      "range": "Caucasus",
+      "country": "Russia",
+      "continent": "Europe",
+      "first_ascent_year": 1874,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/elbrus.json"
+    },
+    {
+      "id": "vinson",
+      "name": "Mount Vinson",
+      "height_m": 4892,
+      "range": "Sentinel Range",
+      "country": "Antarctica",
+      "continent": "Antarctica",
+      "first_ascent_year": 1966,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/vinson.json"
+    },
+    {
+      "id": "puncak-jaya",
+      "name": "Puncak Jaya",
+      "height_m": 4884,
+      "range": "Sudirman Range",
+      "country": "Indonesia",
+      "continent": "Oceania",
+      "first_ascent_year": 1962,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/puncak-jaya.json"
+    },
+    {
+      "id": "mont-blanc",
+      "name": "Mont Blanc",
+      "height_m": 4809,
+      "range": "Alps",
+      "country": "France / Italy",
+      "continent": "Europe",
+      "first_ascent_year": 1786,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mont-blanc.json"
+    },
+    {
+      "id": "matterhorn",
+      "name": "Matterhorn",
+      "height_m": 4478,
+      "range": "Alps",
+      "country": "Switzerland / Italy",
+      "continent": "Europe",
+      "first_ascent_year": 1865,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/matterhorn.json"
+    },
+    {
+      "id": "mount-kenya",
+      "name": "Mount Kenya",
+      "height_m": 5199,
+      "range": null,
+      "country": "Kenya",
+      "continent": "Africa",
+      "first_ascent_year": 1899,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-kenya.json"
+    },
+    {
+      "id": "mount-fuji",
+      "name": "Mount Fuji",
+      "height_m": 3776,
+      "range": null,
+      "country": "Japan",
+      "continent": "Asia",
+      "first_ascent_year": 663,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-fuji.json"
+    },
+    {
+      "id": "mount-kosciuszko",
+      "name": "Mount Kosciuszko",
+      "height_m": 2228,
+      "range": "Great Dividing Range",
+      "country": "Australia",
+      "continent": "Oceania",
+      "first_ascent_year": 1840,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-kosciuszko.json"
+    },
+    {
+      "id": "mount-rainier",
+      "name": "Mount Rainier",
+      "height_m": 4392,
+      "range": "Cascade Range",
+      "country": "United States",
+      "continent": "North America",
+      "first_ascent_year": 1870,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-rainier.json"
+    },
+    {
+      "id": "pikes-peak",
+      "name": "Pikes Peak",
+      "height_m": 4302,
+      "range": "Rocky Mountains",
+      "country": "United States",
+      "continent": "North America",
+      "first_ascent_year": 1820,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/pikes-peak.json"
+    },
+    {
+      "id": "eiger",
+      "name": "Eiger",
+      "height_m": 3967,
+      "range": "Alps",
+      "country": "Switzerland",
+      "continent": "Europe",
+      "first_ascent_year": 1858,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/eiger.json"
+    },
+    {
+      "id": "mount-cook",
+      "name": "Aoraki / Mount Cook",
+      "height_m": 3724,
+      "range": "Southern Alps",
+      "country": "New Zealand",
+      "continent": "Oceania",
+      "first_ascent_year": 1894,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-cook.json"
+    },
+    {
+      "id": "mount-whitney",
+      "name": "Mount Whitney",
+      "height_m": 4421,
+      "range": "Sierra Nevada",
+      "country": "United States",
+      "continent": "North America",
+      "first_ascent_year": 1873,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-whitney.json"
+    },
+    {
+      "id": "ojos-del-salado",
+      "name": "Ojos del Salado",
+      "height_m": 6893,
+      "range": "Andes",
+      "country": "Argentina / Chile",
+      "continent": "South America",
+      "first_ascent_year": 1937,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/ojos-del-salado.json"
+    }
+  ]
+}

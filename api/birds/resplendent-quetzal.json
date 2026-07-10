@@ -1,0 +1,11 @@
+{
+  "id": "resplendent-quetzal",
+  "common_name": "Resplendent Quetzal",
+  "scientific_name": "Pharomachrus mocinno",
+  "family": "Trogonidae",
+  "habitat": "Cloud forests of Central America",
+  "diet": "Omnivore",
+  "wingspan_cm": 40,
+  "conservation_status": "Near Threatened",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/resplendent-quetzal.json"
+}

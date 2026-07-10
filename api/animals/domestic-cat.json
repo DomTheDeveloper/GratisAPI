@@ -1,0 +1,15 @@
+{
+  "id": "domestic-cat",
+  "common_name": "Domestic Cat",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Felis",
+  "species": "Felis catus",
+  "conservation_status": "Domesticated",
+  "habitat": "Worldwide, with humans",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/domestic-cat.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 43,
+  "port": 43,
+  "service": "whois",
+  "protocol": "TCP",
+  "description": "WHOIS directory service for domain registration lookups.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/43.json"
+}

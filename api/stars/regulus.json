@@ -1,0 +1,9 @@
+{
+  "id": "regulus",
+  "name": "Regulus",
+  "constellation": "Leo",
+  "apparent_magnitude": 1.36,
+  "distance_ly": 79.3,
+  "spectral_type": "B8IVn",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/regulus.json"
+}

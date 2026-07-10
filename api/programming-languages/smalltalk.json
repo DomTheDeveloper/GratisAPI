@@ -1,0 +1,12 @@
+{
+  "id": "smalltalk",
+  "name": "Smalltalk",
+  "year": 1980,
+  "paradigm": [
+    "Object-oriented"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Alan Kay",
+  "extension": ".st",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/smalltalk.json"
+}

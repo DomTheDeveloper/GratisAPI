@@ -1,0 +1,13 @@
+{
+  "id": "mh",
+  "name": "Marshall Islands",
+  "alpha2": "MH",
+  "alpha3": "MHL",
+  "capital": "Majuro",
+  "continent": "Oceania",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇲🇭",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mh.json"
+}

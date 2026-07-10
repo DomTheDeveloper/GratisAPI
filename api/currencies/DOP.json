@@ -1,0 +1,8 @@
+{
+  "id": "DOP",
+  "code": "DOP",
+  "name": "Dominican Peso",
+  "symbol": "RD$",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/DOP.json"
+}

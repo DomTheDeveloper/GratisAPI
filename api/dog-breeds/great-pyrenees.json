@@ -1,0 +1,10 @@
+{
+  "id": "great-pyrenees",
+  "name": "Great Pyrenees",
+  "group": "Working",
+  "origin": "France",
+  "size": "Large",
+  "life_expectancy_years": "10-12",
+  "temperament": "Smart, patient and calm",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/great-pyrenees.json"
+}

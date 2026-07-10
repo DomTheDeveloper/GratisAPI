@@ -1,0 +1,10 @@
+{
+  "id": "peony",
+  "name": "Peony",
+  "scientific_name": "Paeonia",
+  "family": "Paeoniaceae",
+  "color": "Pink",
+  "bloom_season": "Late spring",
+  "meaning": "Prosperity",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/peony.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "iris",
+  "name": "Iris",
+  "scientific_name": "Iris",
+  "family": "Iridaceae",
+  "color": "Purple",
+  "bloom_season": "Spring",
+  "meaning": "Faith and hope",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/iris.json"
+}

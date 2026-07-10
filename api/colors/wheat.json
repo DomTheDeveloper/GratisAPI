@@ -1,0 +1,18 @@
+{
+  "id": "wheat",
+  "name": "Wheat",
+  "hex": "#F5DEB3",
+  "rgb": {
+    "r": 245,
+    "g": 222,
+    "b": 179
+  },
+  "rgb_string": "rgb(245, 222, 179)",
+  "hsl": {
+    "h": 39,
+    "s": 77,
+    "l": 83
+  },
+  "hsl_string": "hsl(39, 77%, 83%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/wheat.json"
+}

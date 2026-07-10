@@ -1,0 +1,12 @@
+{
+  "id": "oceanic-whitetip",
+  "common_name": "Oceanic Whitetip Shark",
+  "scientific_name": "Carcharhinus longimanus",
+  "family": "Carcharhinidae",
+  "max_length_m": 4.0,
+  "habitat": "Open tropical and warm oceans",
+  "diet": "Carnivore",
+  "conservation_status": "Critically Endangered",
+  "danger_to_humans": "High",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/oceanic-whitetip.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sn",
+  "name": "Senegal",
+  "alpha2": "SN",
+  "alpha3": "SEN",
+  "capital": "Dakar",
+  "continent": "Africa",
+  "currency_code": "XOF",
+  "currency": "West African CFA Franc",
+  "population_millions": 17,
+  "flag_emoji": "🇸🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sn.json"
+}

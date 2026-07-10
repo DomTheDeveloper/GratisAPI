@@ -1,0 +1,10 @@
+{
+  "id": "orchid",
+  "name": "Orchid",
+  "scientific_name": "Orchidaceae",
+  "family": "Orchidaceae",
+  "color": "Purple",
+  "bloom_season": "Varies",
+  "meaning": "Refined beauty",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/orchid.json"
+}

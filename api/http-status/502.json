@@ -3,5 +3,6 @@
   "code": 502,
   "message": "Bad Gateway",
   "category": "Server Error",
+  "description": "The server, acting as a gateway, received an invalid response from an upstream server.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/502.json"
 }

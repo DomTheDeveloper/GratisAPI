@@ -1,0 +1,11 @@
+{
+  "id": "olive",
+  "name": "Olive",
+  "scientific_name": "Olea europaea",
+  "family": "Oleaceae",
+  "type": "Drupe",
+  "color": "Green",
+  "origin_region": "Mediterranean Basin",
+  "calories_per_100g": 115,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/olive.json"
+}

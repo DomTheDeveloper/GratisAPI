@@ -1,0 +1,8 @@
+{
+  "id": "e",
+  "name": "Euler's number",
+  "symbol": "e",
+  "value": 2.718281828459045,
+  "description": "Base of the natural logarithm.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/e.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "carcharodontosaurus",
+  "name": "Carcharodontosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 12.0,
+  "weight_kg": 6000,
+  "region": "North Africa",
+  "meaning": "Shark-toothed lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/carcharodontosaurus.json"
+}

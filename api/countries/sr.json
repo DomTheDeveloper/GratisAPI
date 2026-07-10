@@ -1,0 +1,13 @@
+{
+  "id": "sr",
+  "name": "Suriname",
+  "alpha2": "SR",
+  "alpha3": "SUR",
+  "capital": "Paramaribo",
+  "continent": "South America",
+  "currency_code": "SRD",
+  "currency": "Surinamese Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇸🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sr.json"
+}

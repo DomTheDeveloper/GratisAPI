@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b9",
+  "name": "Vitamin B9",
+  "chemical_name": "Folate",
+  "solubility": "Water",
+  "function": "DNA synthesis and cell division",
+  "deficiency_disease": "Neural tube defects",
+  "food_sources": [
+    "Leafy greens",
+    "Legumes",
+    "Citrus"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b9.json"
+}

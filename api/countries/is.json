@@ -1,0 +1,13 @@
+{
+  "id": "is",
+  "name": "Iceland",
+  "alpha2": "IS",
+  "alpha3": "ISL",
+  "capital": "Reykjavik",
+  "continent": "Europe",
+  "currency_code": "ISK",
+  "currency": "Icelandic Krona",
+  "population_millions": 1,
+  "flag_emoji": "🇮🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/is.json"
+}

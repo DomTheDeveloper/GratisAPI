@@ -1,0 +1,13 @@
+{
+  "id": "bg",
+  "name": "Bulgaria",
+  "alpha2": "BG",
+  "alpha3": "BGR",
+  "capital": "Sofia",
+  "continent": "Europe",
+  "currency_code": "BGN",
+  "currency": "Bulgarian Lev",
+  "population_millions": 7,
+  "flag_emoji": "🇧🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bg.json"
+}

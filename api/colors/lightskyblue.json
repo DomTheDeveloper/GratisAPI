@@ -1,0 +1,18 @@
+{
+  "id": "lightskyblue",
+  "name": "Light Sky Blue",
+  "hex": "#87CEFA",
+  "rgb": {
+    "r": 135,
+    "g": 206,
+    "b": 250
+  },
+  "rgb_string": "rgb(135, 206, 250)",
+  "hsl": {
+    "h": 203,
+    "s": 92,
+    "l": 75
+  },
+  "hsl_string": "hsl(203, 92%, 75%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightskyblue.json"
+}

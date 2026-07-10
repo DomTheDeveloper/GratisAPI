@@ -1,0 +1,11 @@
+{
+  "id": "styracosaurus",
+  "name": "Styracosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 5.5,
+  "weight_kg": 2700,
+  "region": "Western North America",
+  "meaning": "Spiked lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/styracosaurus.json"
+}

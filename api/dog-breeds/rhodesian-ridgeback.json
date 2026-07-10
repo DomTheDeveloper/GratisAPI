@@ -1,0 +1,10 @@
+{
+  "id": "rhodesian-ridgeback",
+  "name": "Rhodesian Ridgeback",
+  "group": "Hound",
+  "origin": "Zimbabwe",
+  "size": "Large",
+  "life_expectancy_years": "10-12",
+  "temperament": "Affectionate, dignified and even-tempered",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/rhodesian-ridgeback.json"
+}

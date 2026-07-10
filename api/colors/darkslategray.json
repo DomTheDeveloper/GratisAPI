@@ -1,0 +1,18 @@
+{
+  "id": "darkslategray",
+  "name": "Dark Slate Gray",
+  "hex": "#2F4F4F",
+  "rgb": {
+    "r": 47,
+    "g": 79,
+    "b": 79
+  },
+  "rgb_string": "rgb(47, 79, 79)",
+  "hsl": {
+    "h": 180,
+    "s": 25,
+    "l": 25
+  },
+  "hsl_string": "hsl(180, 25%, 25%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkslategray.json"
+}

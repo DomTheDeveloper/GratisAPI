@@ -1,0 +1,13 @@
+{
+  "id": "fm",
+  "name": "Micronesia",
+  "alpha2": "FM",
+  "alpha3": "FSM",
+  "capital": "Palikir",
+  "continent": "Oceania",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇫🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/fm.json"
+}

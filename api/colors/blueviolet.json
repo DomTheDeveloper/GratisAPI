@@ -1,0 +1,18 @@
+{
+  "id": "blueviolet",
+  "name": "Blue Violet",
+  "hex": "#8A2BE2",
+  "rgb": {
+    "r": 138,
+    "g": 43,
+    "b": 226
+  },
+  "rgb_string": "rgb(138, 43, 226)",
+  "hsl": {
+    "h": 271,
+    "s": 76,
+    "l": 53
+  },
+  "hsl_string": "hsl(271, 76%, 53%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/blueviolet.json"
+}

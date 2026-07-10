@@ -1,0 +1,11 @@
+{
+  "id": "blueberry",
+  "name": "Blueberry",
+  "scientific_name": "Vaccinium corymbosum",
+  "family": "Ericaceae",
+  "type": "Berry",
+  "color": "Blue",
+  "origin_region": "North America",
+  "calories_per_100g": 57,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/blueberry.json"
+}

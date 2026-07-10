@@ -1,0 +1,11 @@
+{
+  "id": "tiff",
+  "mime_type": "image/tiff",
+  "name": "TIFF Image",
+  "category": "image",
+  "extensions": [
+    ".tif",
+    ".tiff"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/tiff.json"
+}

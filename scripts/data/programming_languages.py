@@ -1,0 +1,75 @@
+"""Programming languages."""
+
+META = {
+    "name": "programming-languages",
+    "title": "Programming Languages",
+    "description": "Popular programming languages with the year they first appeared, paradigm, and typing.",
+    "emoji": "\U0001F4BB",
+}
+
+# id, name, year, paradigm, typing, designed_by, extension
+_RAW = [
+    ("fortran", "Fortran", 1957, ["Imperative", "Procedural"], "Static", "John Backus", ".f90"),
+    ("lisp", "Lisp", 1958, ["Functional", "Procedural"], "Dynamic", "John McCarthy", ".lisp"),
+    ("cobol", "COBOL", 1959, ["Imperative", "Procedural"], "Static", "CODASYL", ".cob"),
+    ("basic", "BASIC", 1964, ["Imperative", "Procedural"], "Dynamic", "John Kemeny and Thomas Kurtz", ".bas"),
+    ("c", "C", 1972, ["Imperative", "Procedural"], "Static", "Dennis Ritchie", ".c"),
+    ("prolog", "Prolog", 1972, ["Logic", "Declarative"], "Dynamic", "Alain Colmerauer", ".pl"),
+    ("ml", "ML", 1973, ["Functional", "Imperative"], "Static", "Robin Milner", ".ml"),
+    ("sql", "SQL", 1974, ["Declarative"], "Static", "Donald Chamberlin and Raymond Boyce", ".sql"),
+    ("smalltalk", "Smalltalk", 1980, ["Object-oriented"], "Dynamic", "Alan Kay", ".st"),
+    ("cpp", "C++", 1985, ["Object-oriented", "Procedural", "Generic"], "Static", "Bjarne Stroustrup", ".cpp"),
+    ("objective-c", "Objective-C", 1984, ["Object-oriented", "Reflective"], "Static", "Brad Cox and Tom Love", ".m"),
+    ("erlang", "Erlang", 1986, ["Functional", "Concurrent"], "Dynamic", "Joe Armstrong", ".erl"),
+    ("perl", "Perl", 1987, ["Imperative", "Procedural", "Object-oriented"], "Dynamic", "Larry Wall", ".pl"),
+    ("haskell", "Haskell", 1990, ["Functional"], "Static", "Simon Peyton Jones et al.", ".hs"),
+    ("python", "Python", 1991, ["Object-oriented", "Imperative", "Functional"], "Dynamic", "Guido van Rossum", ".py"),
+    ("visual-basic", "Visual Basic", 1991, ["Object-oriented", "Event-driven"], "Static", "Microsoft", ".vb"),
+    ("lua", "Lua", 1993, ["Scripting", "Procedural"], "Dynamic", "Roberto Ierusalimschy et al.", ".lua"),
+    ("r", "R", 1993, ["Functional", "Procedural"], "Dynamic", "Ross Ihaka and Robert Gentleman", ".r"),
+    ("ruby", "Ruby", 1995, ["Object-oriented", "Functional", "Imperative"], "Dynamic", "Yukihiro Matsumoto", ".rb"),
+    ("java", "Java", 1995, ["Object-oriented", "Imperative", "Generic"], "Static", "James Gosling", ".java"),
+    ("javascript", "JavaScript", 1995, ["Event-driven", "Functional", "Imperative"], "Dynamic", "Brendan Eich", ".js"),
+    ("php", "PHP", 1995, ["Imperative", "Object-oriented", "Procedural"], "Dynamic", "Rasmus Lerdorf", ".php"),
+    ("ocaml", "OCaml", 1996, ["Functional", "Imperative", "Object-oriented"], "Static", "Xavier Leroy et al.", ".ml"),
+    ("csharp", "C#", 2000, ["Object-oriented", "Imperative", "Functional"], "Static", "Microsoft", ".cs"),
+    ("d", "D", 2001, ["Object-oriented", "Imperative", "Functional"], "Static", "Walter Bright", ".d"),
+    ("visual-basic-net", "Visual Basic .NET", 2001, ["Object-oriented", "Imperative"], "Static", "Microsoft", ".vb"),
+    ("scala", "Scala", 2004, ["Object-oriented", "Functional"], "Static", "Martin Odersky", ".scala"),
+    ("f-sharp", "F#", 2005, ["Functional", "Object-oriented", "Imperative"], "Static", "Don Syme (Microsoft)", ".fs"),
+    ("powershell", "PowerShell", 2006, ["Imperative", "Object-oriented", "Scripting"], "Dynamic", "Jeffrey Snover (Microsoft)", ".ps1"),
+    ("clojure", "Clojure", 2007, ["Functional", "Concurrent"], "Dynamic", "Rich Hickey", ".clj"),
+    ("go", "Go", 2009, ["Imperative", "Concurrent", "Procedural"], "Static", "Robert Griesemer, Rob Pike, Ken Thompson", ".go"),
+    ("coffeescript", "CoffeeScript", 2009, ["Functional", "Imperative", "Object-oriented"], "Dynamic", "Jeremy Ashkenas", ".coffee"),
+    ("rust", "Rust", 2010, ["Functional", "Concurrent", "Imperative"], "Static", "Graydon Hoare", ".rs"),
+    ("kotlin", "Kotlin", 2011, ["Object-oriented", "Functional", "Imperative"], "Static", "JetBrains", ".kt"),
+    ("dart", "Dart", 2011, ["Object-oriented", "Imperative", "Functional"], "Static", "Google", ".dart"),
+    ("elixir", "Elixir", 2011, ["Functional", "Concurrent"], "Dynamic", "Jose Valim", ".ex"),
+    ("julia", "Julia", 2012, ["Multi-paradigm", "Functional", "Imperative"], "Dynamic", "Jeff Bezanson et al.", ".jl"),
+    ("typescript", "TypeScript", 2012, ["Object-oriented", "Functional", "Imperative"], "Static", "Microsoft", ".ts"),
+    ("swift", "Swift", 2014, ["Object-oriented", "Functional", "Imperative"], "Static", "Apple", ".swift"),
+    ("crystal", "Crystal", 2014, ["Object-oriented", "Imperative"], "Static", "Ary Borenszweig et al.", ".cr"),
+    ("nim", "Nim", 2008, ["Imperative", "Functional", "Object-oriented"], "Static", "Andreas Rumpf", ".nim"),
+    ("groovy", "Groovy", 2003, ["Object-oriented", "Scripting"], "Dynamic", "James Strachan", ".groovy"),
+    ("scheme", "Scheme", 1975, ["Functional", "Procedural"], "Dynamic", "Guy L. Steele and Gerald Jay Sussman", ".scm"),
+    ("ada", "Ada", 1980, ["Imperative", "Object-oriented", "Concurrent"], "Static", "Jean Ichbiah", ".adb"),
+    ("pascal", "Pascal", 1970, ["Imperative", "Procedural", "Structured"], "Static", "Niklaus Wirth", ".pas"),
+    ("matlab", "MATLAB", 1984, ["Imperative", "Procedural"], "Dynamic", "Cleve Moler", ".m"),
+    ("assembly", "Assembly", 1947, ["Imperative", "Low-level"], "Static", "Kathleen Booth", ".asm"),
+    ("tcl", "Tcl", 1988, ["Scripting", "Procedural"], "Dynamic", "John Ousterhout", ".tcl"),
+    ("racket", "Racket", 1995, ["Functional", "Procedural"], "Dynamic", "PLT Inc.", ".rkt"),
+    ("zig", "Zig", 2016, ["Imperative", "Procedural"], "Static", "Andrew Kelley", ".zig"),
+]
+
+ITEMS = [
+    {
+        "id": _id,
+        "name": name,
+        "year": year,
+        "paradigm": paradigm,
+        "typing": typing,
+        "designed_by": designed_by,
+        "extension": extension,
+    }
+    for _id, name, year, paradigm, typing, designed_by, extension in _RAW
+]

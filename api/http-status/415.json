@@ -1,0 +1,8 @@
+{
+  "id": 415,
+  "code": 415,
+  "message": "Unsupported Media Type",
+  "category": "Client Error",
+  "description": "The request payload is in a format not supported by the server.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/415.json"
+}

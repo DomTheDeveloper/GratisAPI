@@ -1,0 +1,10 @@
+{
+  "id": "cocker-spaniel",
+  "name": "Cocker Spaniel",
+  "group": "Sporting",
+  "origin": "United States",
+  "size": "Medium",
+  "life_expectancy_years": "10-14",
+  "temperament": "Gentle, smart and happy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/cocker-spaniel.json"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tennessee",
+  "name": "Tennessee",
+  "abbreviation": "TN",
+  "capital": "Nashville",
+  "largest_city": "Nashville",
+  "population": 6910840,
+  "area_km2": 109153,
+  "statehood_year": 1796,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/tennessee.json"
+}

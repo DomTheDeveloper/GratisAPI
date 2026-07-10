@@ -3,5 +3,6 @@
   "code": 301,
   "message": "Moved Permanently",
   "category": "Redirection",
+  "description": "The requested resource has been permanently moved to a new URL.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/301.json"
 }

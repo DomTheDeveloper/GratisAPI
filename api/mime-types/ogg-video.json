@@ -1,0 +1,10 @@
+{
+  "id": "ogg-video",
+  "mime_type": "video/ogg",
+  "name": "Ogg Video",
+  "category": "video",
+  "extensions": [
+    ".ogv"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ogg-video.json"
+}

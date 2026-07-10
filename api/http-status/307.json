@@ -3,5 +3,6 @@
   "code": 307,
   "message": "Temporary Redirect",
   "category": "Redirection",
+  "description": "The resource temporarily resides at a different URL and the method must not change.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/307.json"
 }

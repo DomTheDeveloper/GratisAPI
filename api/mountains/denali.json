@@ -1,0 +1,10 @@
+{
+  "id": "denali",
+  "name": "Denali",
+  "height_m": 6190,
+  "range": "Alaska Range",
+  "country": "United States",
+  "continent": "North America",
+  "first_ascent_year": 1913,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/denali.json"
+}

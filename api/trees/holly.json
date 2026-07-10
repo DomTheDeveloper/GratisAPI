@@ -1,0 +1,10 @@
+{
+  "id": "holly",
+  "common_name": "European Holly",
+  "scientific_name": "Ilex aquifolium",
+  "family": "Aquifoliaceae",
+  "type": "Evergreen",
+  "max_height_m": 15,
+  "native_region": "Western and southern Europe",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/holly.json"
+}

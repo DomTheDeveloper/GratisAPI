@@ -1,0 +1,12 @@
+{
+  "id": "great-white",
+  "common_name": "Great White Shark",
+  "scientific_name": "Carcharodon carcharias",
+  "family": "Lamnidae",
+  "max_length_m": 6.0,
+  "habitat": "Coastal and offshore temperate seas",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "High",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/great-white.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 443,
+  "port": 443,
+  "service": "https",
+  "protocol": "TCP",
+  "description": "HTTP over TLS/SSL for secure web traffic.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/443.json"
+}

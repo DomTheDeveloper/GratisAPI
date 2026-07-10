@@ -3,5 +3,6 @@
   "code": 403,
   "message": "Forbidden",
   "category": "Client Error",
+  "description": "The server understood the request but refuses to authorize it.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/403.json"
 }

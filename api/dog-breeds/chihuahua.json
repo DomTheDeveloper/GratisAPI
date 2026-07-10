@@ -1,0 +1,10 @@
+{
+  "id": "chihuahua",
+  "name": "Chihuahua",
+  "group": "Toy",
+  "origin": "Mexico",
+  "size": "Small",
+  "life_expectancy_years": "14-16",
+  "temperament": "Charming, graceful and sassy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/chihuahua.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bw",
+  "name": "Botswana",
+  "alpha2": "BW",
+  "alpha3": "BWA",
+  "capital": "Gaborone",
+  "continent": "Africa",
+  "currency_code": "BWP",
+  "currency": "Pula",
+  "population_millions": 2,
+  "flag_emoji": "🇧🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bw.json"
+}

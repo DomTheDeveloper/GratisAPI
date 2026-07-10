@@ -1,0 +1,10 @@
+{
+  "id": "tulip",
+  "name": "Tulip",
+  "scientific_name": "Tulipa gesneriana",
+  "family": "Liliaceae",
+  "color": "Red",
+  "bloom_season": "Spring",
+  "meaning": "Perfect love",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/tulip.json"
+}

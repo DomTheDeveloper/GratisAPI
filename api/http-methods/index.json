@@ -1,0 +1,114 @@
+{
+  "api": "http-methods",
+  "title": "HTTP Request Methods",
+  "description": "The HTTP request methods and their safety, idempotency, and caching semantics.",
+  "emoji": "🔗",
+  "license": "GPL-2.0-or-later",
+  "count": 9,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/{id}.json"
+  },
+  "fields": [
+    "cacheable",
+    "description",
+    "has_request_body",
+    "id",
+    "idempotent",
+    "method",
+    "safe"
+  ],
+  "results": [
+    {
+      "id": "get",
+      "method": "GET",
+      "description": "Requests a representation of the specified resource without modifying it.",
+      "safe": true,
+      "idempotent": true,
+      "cacheable": true,
+      "has_request_body": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/get.json"
+    },
+    {
+      "id": "post",
+      "method": "POST",
+      "description": "Submits an entity to the specified resource, often causing a change in state.",
+      "safe": false,
+      "idempotent": false,
+      "cacheable": false,
+      "has_request_body": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/post.json"
+    },
+    {
+      "id": "put",
+      "method": "PUT",
+      "description": "Replaces all current representations of the target resource with the request payload.",
+      "safe": false,
+      "idempotent": true,
+      "cacheable": false,
+      "has_request_body": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/put.json"
+    },
+    {
+      "id": "delete",
+      "method": "DELETE",
+      "description": "Deletes the specified resource.",
+      "safe": false,
+      "idempotent": true,
+      "cacheable": false,
+      "has_request_body": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/delete.json"
+    },
+    {
+      "id": "patch",
+      "method": "PATCH",
+      "description": "Applies partial modifications to a resource.",
+      "safe": false,
+      "idempotent": false,
+      "cacheable": false,
+      "has_request_body": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/patch.json"
+    },
+    {
+      "id": "head",
+      "method": "HEAD",
+      "description": "Identical to GET but returns only the headers without the response body.",
+      "safe": true,
+      "idempotent": true,
+      "cacheable": true,
+      "has_request_body": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/head.json"
+    },
+    {
+      "id": "options",
+      "method": "OPTIONS",
+      "description": "Describes the communication options available for the target resource.",
+      "safe": true,
+      "idempotent": true,
+      "cacheable": false,
+      "has_request_body": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/options.json"
+    },
+    {
+      "id": "trace",
+      "method": "TRACE",
+      "description": "Performs a message loop-back test along the path to the target resource.",
+      "safe": true,
+      "idempotent": true,
+      "cacheable": false,
+      "has_request_body": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/trace.json"
+    },
+    {
+      "id": "connect",
+      "method": "CONNECT",
+      "description": "Establishes a tunnel to the server identified by the target resource.",
+      "safe": false,
+      "idempotent": false,
+      "cacheable": false,
+      "has_request_body": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/connect.json"
+    }
+  ]
+}

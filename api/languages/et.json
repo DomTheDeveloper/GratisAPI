@@ -1,0 +1,9 @@
+{
+  "id": "et",
+  "code": "et",
+  "name": "Estonian",
+  "native_name": "Eesti",
+  "direction": "ltr",
+  "speakers_millions": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/et.json"
+}

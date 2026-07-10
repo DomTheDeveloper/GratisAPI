@@ -1,0 +1,12 @@
+{
+  "id": "texas",
+  "name": "Texas",
+  "abbreviation": "TX",
+  "capital": "Austin",
+  "largest_city": "Houston",
+  "population": 29145505,
+  "area_km2": 695662,
+  "statehood_year": 1845,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/texas.json"
+}

@@ -1,0 +1,358 @@
+{
+  "api": "musical-instruments",
+  "title": "Musical Instruments",
+  "description": "Common musical instruments with their family, Hornbostel-Sachs classification, and region of origin.",
+  "emoji": "🎸",
+  "license": "GPL-2.0-or-later",
+  "count": 42,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/{id}.json"
+  },
+  "fields": [
+    "classification",
+    "family",
+    "id",
+    "name",
+    "origin_region"
+  ],
+  "results": [
+    {
+      "id": "violin",
+      "name": "Violin",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/violin.json"
+    },
+    {
+      "id": "viola",
+      "name": "Viola",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/viola.json"
+    },
+    {
+      "id": "cello",
+      "name": "Cello",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/cello.json"
+    },
+    {
+      "id": "double-bass",
+      "name": "Double Bass",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/double-bass.json"
+    },
+    {
+      "id": "guitar",
+      "name": "Guitar",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Spain",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/guitar.json"
+    },
+    {
+      "id": "electric-guitar",
+      "name": "Electric Guitar",
+      "family": "Electronic",
+      "classification": "Electrophone",
+      "origin_region": "United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/electric-guitar.json"
+    },
+    {
+      "id": "bass-guitar",
+      "name": "Bass Guitar",
+      "family": "Electronic",
+      "classification": "Electrophone",
+      "origin_region": "United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/bass-guitar.json"
+    },
+    {
+      "id": "harp",
+      "name": "Harp",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Ancient Near East",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/harp.json"
+    },
+    {
+      "id": "banjo",
+      "name": "Banjo",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "West Africa",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/banjo.json"
+    },
+    {
+      "id": "mandolin",
+      "name": "Mandolin",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/mandolin.json"
+    },
+    {
+      "id": "ukulele",
+      "name": "Ukulele",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "Hawaii",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/ukulele.json"
+    },
+    {
+      "id": "sitar",
+      "name": "Sitar",
+      "family": "String",
+      "classification": "Chordophone",
+      "origin_region": "India",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/sitar.json"
+    },
+    {
+      "id": "flute",
+      "name": "Flute",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/flute.json"
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolo",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/piccolo.json"
+    },
+    {
+      "id": "clarinet",
+      "name": "Clarinet",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/clarinet.json"
+    },
+    {
+      "id": "oboe",
+      "name": "Oboe",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "France",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/oboe.json"
+    },
+    {
+      "id": "bassoon",
+      "name": "Bassoon",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/bassoon.json"
+    },
+    {
+      "id": "saxophone",
+      "name": "Saxophone",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Belgium",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/saxophone.json"
+    },
+    {
+      "id": "recorder",
+      "name": "Recorder",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/recorder.json"
+    },
+    {
+      "id": "harmonica",
+      "name": "Harmonica",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/harmonica.json"
+    },
+    {
+      "id": "bagpipes",
+      "name": "Bagpipes",
+      "family": "Woodwind",
+      "classification": "Aerophone",
+      "origin_region": "Scotland",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/bagpipes.json"
+    },
+    {
+      "id": "trumpet",
+      "name": "Trumpet",
+      "family": "Brass",
+      "classification": "Aerophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/trumpet.json"
+    },
+    {
+      "id": "trombone",
+      "name": "Trombone",
+      "family": "Brass",
+      "classification": "Aerophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/trombone.json"
+    },
+    {
+      "id": "french-horn",
+      "name": "French Horn",
+      "family": "Brass",
+      "classification": "Aerophone",
+      "origin_region": "Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/french-horn.json"
+    },
+    {
+      "id": "tuba",
+      "name": "Tuba",
+      "family": "Brass",
+      "classification": "Aerophone",
+      "origin_region": "Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/tuba.json"
+    },
+    {
+      "id": "cornet",
+      "name": "Cornet",
+      "family": "Brass",
+      "classification": "Aerophone",
+      "origin_region": "France",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/cornet.json"
+    },
+    {
+      "id": "flugelhorn",
+      "name": "Flugelhorn",
+      "family": "Brass",
+      "classification": "Aerophone",
+      "origin_region": "Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/flugelhorn.json"
+    },
+    {
+      "id": "piano",
+      "name": "Piano",
+      "family": "Keyboard",
+      "classification": "Chordophone",
+      "origin_region": "Italy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/piano.json"
+    },
+    {
+      "id": "organ",
+      "name": "Organ",
+      "family": "Keyboard",
+      "classification": "Aerophone",
+      "origin_region": "Ancient Greece",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/organ.json"
+    },
+    {
+      "id": "harpsichord",
+      "name": "Harpsichord",
+      "family": "Keyboard",
+      "classification": "Chordophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/harpsichord.json"
+    },
+    {
+      "id": "accordion",
+      "name": "Accordion",
+      "family": "Keyboard",
+      "classification": "Aerophone",
+      "origin_region": "Germany",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/accordion.json"
+    },
+    {
+      "id": "synthesizer",
+      "name": "Synthesizer",
+      "family": "Electronic",
+      "classification": "Electrophone",
+      "origin_region": "United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/synthesizer.json"
+    },
+    {
+      "id": "drum-kit",
+      "name": "Drum Kit",
+      "family": "Percussion",
+      "classification": "Membranophone",
+      "origin_region": "United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/drum-kit.json"
+    },
+    {
+      "id": "snare-drum",
+      "name": "Snare Drum",
+      "family": "Percussion",
+      "classification": "Membranophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/snare-drum.json"
+    },
+    {
+      "id": "timpani",
+      "name": "Timpani",
+      "family": "Percussion",
+      "classification": "Membranophone",
+      "origin_region": "Middle East",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/timpani.json"
+    },
+    {
+      "id": "xylophone",
+      "name": "Xylophone",
+      "family": "Percussion",
+      "classification": "Idiophone",
+      "origin_region": "Southeast Asia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/xylophone.json"
+    },
+    {
+      "id": "marimba",
+      "name": "Marimba",
+      "family": "Percussion",
+      "classification": "Idiophone",
+      "origin_region": "Africa",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/marimba.json"
+    },
+    {
+      "id": "cymbals",
+      "name": "Cymbals",
+      "family": "Percussion",
+      "classification": "Idiophone",
+      "origin_region": "Ancient Near East",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/cymbals.json"
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "family": "Percussion",
+      "classification": "Idiophone",
+      "origin_region": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/triangle.json"
+    },
+    {
+      "id": "tambourine",
+      "name": "Tambourine",
+      "family": "Percussion",
+      "classification": "Membranophone",
+      "origin_region": "Ancient Near East",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/tambourine.json"
+    },
+    {
+      "id": "castanets",
+      "name": "Castanets",
+      "family": "Percussion",
+      "classification": "Idiophone",
+      "origin_region": "Spain",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/castanets.json"
+    },
+    {
+      "id": "vibraphone",
+      "name": "Vibraphone",
+      "family": "Percussion",
+      "classification": "Idiophone",
+      "origin_region": "United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/vibraphone.json"
+    }
+  ]
+}

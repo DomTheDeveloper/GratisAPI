@@ -1,0 +1,11 @@
+{
+  "id": "iguanodon",
+  "name": "Iguanodon",
+  "period": "Early Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 10.0,
+  "weight_kg": 3000,
+  "region": "Europe",
+  "meaning": "Iguana tooth",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/iguanodon.json"
+}

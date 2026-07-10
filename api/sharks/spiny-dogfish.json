@@ -1,0 +1,12 @@
+{
+  "id": "spiny-dogfish",
+  "common_name": "Spiny Dogfish",
+  "scientific_name": "Squalus acanthias",
+  "family": "Squalidae",
+  "max_length_m": 1.6,
+  "habitat": "Temperate coastal and shelf waters",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/spiny-dogfish.json"
+}

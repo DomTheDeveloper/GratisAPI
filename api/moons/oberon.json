@@ -1,0 +1,9 @@
+{
+  "id": "oberon",
+  "name": "Oberon",
+  "planet": "Uranus",
+  "radius_km": 761.4,
+  "discovered_year": 1787,
+  "discovered_by": "William Herschel",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/oberon.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "martini",
+  "name": "Dry Martini",
+  "base_spirit": "Gin",
+  "type": "Spirit-forward",
+  "glass": "Coupe",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/martini.json"
+}

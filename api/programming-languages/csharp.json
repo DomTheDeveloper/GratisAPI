@@ -1,0 +1,14 @@
+{
+  "id": "csharp",
+  "name": "C#",
+  "year": 2000,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative",
+    "Functional"
+  ],
+  "typing": "Static",
+  "designed_by": "Microsoft",
+  "extension": ".cs",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/csharp.json"
+}

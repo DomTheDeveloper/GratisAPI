@@ -1,0 +1,9 @@
+{
+  "id": "rydberg-constant",
+  "name": "Rydberg constant",
+  "symbol": "R_inf",
+  "value": 10973731.56816,
+  "unit": "m^-1",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/rydberg-constant.json"
+}

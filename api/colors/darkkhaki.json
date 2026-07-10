@@ -1,0 +1,18 @@
+{
+  "id": "darkkhaki",
+  "name": "Dark Khaki",
+  "hex": "#BDB76B",
+  "rgb": {
+    "r": 189,
+    "g": 183,
+    "b": 107
+  },
+  "rgb_string": "rgb(189, 183, 107)",
+  "hsl": {
+    "h": 56,
+    "s": 38,
+    "l": 58
+  },
+  "hsl_string": "hsl(56, 38%, 58%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkkhaki.json"
+}

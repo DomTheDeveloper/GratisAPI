@@ -1,0 +1,11 @@
+{
+  "id": "atlantic-puffin",
+  "common_name": "Atlantic Puffin",
+  "scientific_name": "Fratercula arctica",
+  "family": "Alcidae",
+  "habitat": "Coastal cliffs and open ocean",
+  "diet": "Carnivore",
+  "wingspan_cm": 55,
+  "conservation_status": "Vulnerable",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/atlantic-puffin.json"
+}

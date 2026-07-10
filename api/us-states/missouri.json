@@ -1,0 +1,12 @@
+{
+  "id": "missouri",
+  "name": "Missouri",
+  "abbreviation": "MO",
+  "capital": "Jefferson City",
+  "largest_city": "Kansas City",
+  "population": 6154913,
+  "area_km2": 180540,
+  "statehood_year": 1821,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/missouri.json"
+}

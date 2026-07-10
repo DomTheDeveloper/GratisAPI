@@ -1,0 +1,10 @@
+{
+  "id": "asparagus",
+  "name": "Asparagus",
+  "scientific_name": "Asparagus officinalis",
+  "family": "Asparagaceae",
+  "type": "Stem",
+  "color": "Green",
+  "calories_per_100g": 20,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/asparagus.json"
+}

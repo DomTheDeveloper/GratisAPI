@@ -1,0 +1,18 @@
+{
+  "id": "olivedrab",
+  "name": "Olive Drab",
+  "hex": "#6B8E23",
+  "rgb": {
+    "r": 107,
+    "g": 142,
+    "b": 35
+  },
+  "rgb_string": "rgb(107, 142, 35)",
+  "hsl": {
+    "h": 80,
+    "s": 60,
+    "l": 35
+  },
+  "hsl_string": "hsl(80, 60%, 35%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/olivedrab.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ge",
+  "name": "Georgia",
+  "alpha2": "GE",
+  "alpha3": "GEO",
+  "capital": "Tbilisi",
+  "continent": "Asia",
+  "currency_code": "GEL",
+  "currency": "Lari",
+  "population_millions": 4,
+  "flag_emoji": "🇬🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ge.json"
+}

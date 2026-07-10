@@ -1,0 +1,13 @@
+{
+  "id": "fj",
+  "name": "Fiji",
+  "alpha2": "FJ",
+  "alpha3": "FJI",
+  "capital": "Suva",
+  "continent": "Oceania",
+  "currency_code": "FJD",
+  "currency": "Fijian Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇫🇯",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/fj.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "blue-jay",
+  "common_name": "Blue Jay",
+  "scientific_name": "Cyanocitta cristata",
+  "family": "Corvidae",
+  "habitat": "Forests and suburbs",
+  "diet": "Omnivore",
+  "wingspan_cm": 41,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/blue-jay.json"
+}

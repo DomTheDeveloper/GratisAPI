@@ -1,0 +1,41 @@
+"""Flowers with color, bloom season and floriography meaning."""
+
+META = {
+    "name": "flowers",
+    "title": "Flowers",
+    "description": "Common flowers with typical color, bloom season and floriography meaning.",
+    "emoji": "\U0001F337",
+}
+
+ITEMS = [
+    {"id": "rose", "name": "Rose", "scientific_name": "Rosa", "family": "Rosaceae", "color": "Red", "bloom_season": "Summer", "meaning": "Love"},
+    {"id": "tulip", "name": "Tulip", "scientific_name": "Tulipa gesneriana", "family": "Liliaceae", "color": "Red", "bloom_season": "Spring", "meaning": "Perfect love"},
+    {"id": "sunflower", "name": "Sunflower", "scientific_name": "Helianthus annuus", "family": "Asteraceae", "color": "Yellow", "bloom_season": "Summer", "meaning": "Adoration"},
+    {"id": "daisy", "name": "Common Daisy", "scientific_name": "Bellis perennis", "family": "Asteraceae", "color": "White", "bloom_season": "Spring", "meaning": "Innocence"},
+    {"id": "lily", "name": "Lily", "scientific_name": "Lilium", "family": "Liliaceae", "color": "White", "bloom_season": "Summer", "meaning": "Purity"},
+    {"id": "orchid", "name": "Orchid", "scientific_name": "Orchidaceae", "family": "Orchidaceae", "color": "Purple", "bloom_season": "Varies", "meaning": "Refined beauty"},
+    {"id": "daffodil", "name": "Daffodil", "scientific_name": "Narcissus", "family": "Amaryllidaceae", "color": "Yellow", "bloom_season": "Spring", "meaning": "New beginnings"},
+    {"id": "carnation", "name": "Carnation", "scientific_name": "Dianthus caryophyllus", "family": "Caryophyllaceae", "color": "Pink", "bloom_season": "Spring", "meaning": "Fascination"},
+    {"id": "chrysanthemum", "name": "Chrysanthemum", "scientific_name": "Chrysanthemum", "family": "Asteraceae", "color": "Yellow", "bloom_season": "Autumn", "meaning": "Loyalty"},
+    {"id": "peony", "name": "Peony", "scientific_name": "Paeonia", "family": "Paeoniaceae", "color": "Pink", "bloom_season": "Late spring", "meaning": "Prosperity"},
+    {"id": "marigold", "name": "Marigold", "scientific_name": "Tagetes", "family": "Asteraceae", "color": "Orange", "bloom_season": "Summer", "meaning": "Grief"},
+    {"id": "lavender", "name": "Lavender", "scientific_name": "Lavandula angustifolia", "family": "Lamiaceae", "color": "Purple", "bloom_season": "Summer", "meaning": "Devotion"},
+    {"id": "iris", "name": "Iris", "scientific_name": "Iris", "family": "Iridaceae", "color": "Purple", "bloom_season": "Spring", "meaning": "Faith and hope"},
+    {"id": "poppy", "name": "Common Poppy", "scientific_name": "Papaver rhoeas", "family": "Papaveraceae", "color": "Red", "bloom_season": "Summer", "meaning": "Remembrance"},
+    {"id": "hydrangea", "name": "Hydrangea", "scientific_name": "Hydrangea macrophylla", "family": "Hydrangeaceae", "color": "Blue", "bloom_season": "Summer", "meaning": "Gratitude"},
+    {"id": "violet", "name": "Sweet Violet", "scientific_name": "Viola odorata", "family": "Violaceae", "color": "Purple", "bloom_season": "Spring", "meaning": "Modesty"},
+    {"id": "jasmine", "name": "Jasmine", "scientific_name": "Jasminum", "family": "Oleaceae", "color": "White", "bloom_season": "Summer", "meaning": "Sensuality"},
+    {"id": "hyacinth", "name": "Hyacinth", "scientific_name": "Hyacinthus orientalis", "family": "Asparagaceae", "color": "Purple", "bloom_season": "Spring", "meaning": "Sincerity"},
+    {"id": "gardenia", "name": "Gardenia", "scientific_name": "Gardenia jasminoides", "family": "Rubiaceae", "color": "White", "bloom_season": "Summer", "meaning": "Secret love"},
+    {"id": "dahlia", "name": "Dahlia", "scientific_name": "Dahlia", "family": "Asteraceae", "color": "Pink", "bloom_season": "Summer", "meaning": "Dignity"},
+    {"id": "gladiolus", "name": "Gladiolus", "scientific_name": "Gladiolus", "family": "Iridaceae", "color": "Pink", "bloom_season": "Summer", "meaning": "Strength of character"},
+    {"id": "forget-me-not", "name": "Forget-me-not", "scientific_name": "Myosotis", "family": "Boraginaceae", "color": "Blue", "bloom_season": "Spring", "meaning": "True love and memories"},
+    {"id": "camellia", "name": "Camellia", "scientific_name": "Camellia japonica", "family": "Theaceae", "color": "Pink", "bloom_season": "Winter", "meaning": "Admiration"},
+    {"id": "anemone", "name": "Anemone", "scientific_name": "Anemone", "family": "Ranunculaceae", "color": "Purple", "bloom_season": "Spring", "meaning": "Anticipation"},
+    {"id": "aster", "name": "Aster", "scientific_name": "Aster", "family": "Asteraceae", "color": "Purple", "bloom_season": "Autumn", "meaning": "Patience"},
+    {"id": "buttercup", "name": "Buttercup", "scientific_name": "Ranunculus", "family": "Ranunculaceae", "color": "Yellow", "bloom_season": "Spring", "meaning": "Childishness"},
+    {"id": "snapdragon", "name": "Snapdragon", "scientific_name": "Antirrhinum majus", "family": "Plantaginaceae", "color": "Pink", "bloom_season": "Summer", "meaning": "Graciousness"},
+    {"id": "cosmos", "name": "Cosmos", "scientific_name": "Cosmos bipinnatus", "family": "Asteraceae", "color": "Pink", "bloom_season": "Summer", "meaning": "Order and harmony"},
+    {"id": "zinnia", "name": "Zinnia", "scientific_name": "Zinnia elegans", "family": "Asteraceae", "color": "Red", "bloom_season": "Summer", "meaning": "Thoughts of absent friends"},
+    {"id": "lotus", "name": "Sacred Lotus", "scientific_name": "Nelumbo nucifera", "family": "Nelumbonaceae", "color": "Pink", "bloom_season": "Summer", "meaning": "Purity and enlightenment"},
+]

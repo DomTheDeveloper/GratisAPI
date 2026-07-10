@@ -1,0 +1,11 @@
+{
+  "id": "apple",
+  "name": "Apple",
+  "scientific_name": "Malus domestica",
+  "family": "Rosaceae",
+  "type": "Pome",
+  "color": "Red",
+  "origin_region": "Central Asia",
+  "calories_per_100g": 52,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/apple.json"
+}

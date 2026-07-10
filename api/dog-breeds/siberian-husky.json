@@ -1,0 +1,10 @@
+{
+  "id": "siberian-husky",
+  "name": "Siberian Husky",
+  "group": "Working",
+  "origin": "Russia",
+  "size": "Medium",
+  "life_expectancy_years": "12-14",
+  "temperament": "Loyal, outgoing and mischievous",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/siberian-husky.json"
+}

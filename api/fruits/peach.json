@@ -1,0 +1,11 @@
+{
+  "id": "peach",
+  "name": "Peach",
+  "scientific_name": "Prunus persica",
+  "family": "Rosaceae",
+  "type": "Drupe",
+  "color": "Orange",
+  "origin_region": "Northwest China",
+  "calories_per_100g": 39,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/peach.json"
+}

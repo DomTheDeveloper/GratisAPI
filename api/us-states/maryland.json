@@ -1,0 +1,12 @@
+{
+  "id": "maryland",
+  "name": "Maryland",
+  "abbreviation": "MD",
+  "capital": "Annapolis",
+  "largest_city": "Baltimore",
+  "population": 6177224,
+  "area_km2": 32131,
+  "statehood_year": 1788,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/maryland.json"
+}

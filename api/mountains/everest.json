@@ -1,0 +1,10 @@
+{
+  "id": "everest",
+  "name": "Mount Everest",
+  "height_m": 8849,
+  "range": "Himalayas",
+  "country": "Nepal / China",
+  "continent": "Asia",
+  "first_ascent_year": 1953,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/everest.json"
+}

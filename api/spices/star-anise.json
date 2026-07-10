@@ -1,0 +1,9 @@
+{
+  "id": "star-anise",
+  "name": "Star Anise",
+  "plant_part": "Fruit",
+  "origin_region": "China",
+  "flavor": "Licorice, sweet",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/star-anise.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "achilles",
+  "name": "Achilles",
+  "domain": "Warrior hero of the Trojan War",
+  "roman_equivalent": null,
+  "type": "Hero",
+  "symbol": "Spear and shield",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/achilles.json"
+}

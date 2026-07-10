@@ -6,6 +6,8 @@ _Gratis_ means free — and GratisAPI is free in every sense. No API keys, no ra
 limits, no sign-up, no tracking, no cost. Ever. Every endpoint is a plain JSON
 file served straight from GitHub Pages' global CDN.
 
+**60 APIs · 2,500+ records · 0 dollars.**
+
 🌐 **Live:** https://domthedeveloper.github.io/GratisAPI/
 📖 **Docs (Swagger UI):** https://domthedeveloper.github.io/GratisAPI/docs/
 📄 **OpenAPI spec:** https://domthedeveloper.github.io/GratisAPI/openapi.json
@@ -60,31 +62,101 @@ Each dataset index looks like:
 
 ## Available APIs
 
-| API | What's in it |
-| --- | --- |
-| 🦊 `animals` | Full taxonomy — kingdom, phylum, class, order, family, genus, species |
-| 💬 `quotes` | Famous quotes with authors and tags |
-| 🎨 `colors` | Named web colors with hex, RGB and HSL |
-| 🌍 `countries` | Capital, ISO codes, continent, currency, population |
-| 🗺️ `continents` | The seven continents with area and population |
-| 🪐 `planets` | Planets and dwarf planets of the Solar System |
-| 🧪 `elements` | All 118 chemical elements |
-| 📡 `http-status` | HTTP status codes and reason phrases |
-| 💱 `currencies` | ISO 4217 currency codes and symbols |
-| 🗣️ `languages` | ISO 639-1 language codes and native names |
-| ♌ `zodiac` | The twelve zodiac signs |
-| 📅 `calendar` | Months and days of the week |
+The live directory of every API is always at
+[`/api/index.json`](https://domthedeveloper.github.io/GratisAPI/api/index.json).
+
+| API | Records | What's in it |
+| --- | ---: | --- |
+| 🌍 `countries` | 197 | Capital, ISO codes, continent, currency, population, flag |
+| 🇺🇸 `us-states` | 51 | Capital, largest city, population, area, region |
+| 🗺️ `continents` | 7 | Area, population, country counts |
+| 🌊 `oceans` | 5 | Area, average/max depth, deepest point |
+| ⛰️ `mountains` | 31 | Elevation, range, first-ascent year |
+| 🏞️ `rivers` | 31 | Length, continent, outflow |
+| 🏞️ `lakes` | 25 | Area, depth, type |
+| 🏜️ `deserts` | 21 | Area, continent, type |
+| 💦 `waterfalls` | 16 | Height, river, location |
+| 💱 `currencies` | 101 | ISO 4217 code, symbol, minor unit |
+| 🗣️ `languages` | 81 | ISO 639-1 code, native name, direction |
+| 🦊 `animals` | 71 | Full taxonomy kingdom → species |
+| 🦖 `dinosaurs` | 40 | Period, diet, size, region |
+| 🐕 `dog-breeds` | 51 | Group, origin, size, temperament |
+| 🐈 `cat-breeds` | 31 | Origin, coat, temperament |
+| 🐦 `birds` | 41 | Family, habitat, diet, wingspan |
+| 🦈 `sharks` | 25 | Size, habitat, danger rating |
+| 🌳 `trees` | 32 | Leaf type, height, native region |
+| 🌷 `flowers` | 30 | Color, bloom season, meaning |
+| 🍎 `fruits` | 40 | Botanical type, origin, calories |
+| 🥕 `vegetables` | 36 | Type, color, calories |
+| 🌶️ `spices` | 36 | Plant part, origin, heat level |
+| 🧪 `elements` | 118 | All 118 chemical elements |
+| 🔬 `physical-constants` | 25 | Symbol, value, unit |
+| ➗ `math-constants` | 20 | Symbol, value, description |
+| 🔢 `si-prefixes` | 24 | Symbol, power of ten |
+| 💊 `vitamins` | 13 | Function, solubility, sources |
+| 🩸 `blood-types` | 8 | Donor/recipient compatibility |
+| 💨 `beaufort-scale` | 13 | Wind force 0–12 |
+| 🪐 `planets` | 9 | Planets & dwarf planets |
+| 🌙 `moons` | 30 | Parent planet, discovery |
+| ✨ `constellations` | 88 | All 88 IAU constellations |
+| ⭐ `stars` | 30 | Magnitude, distance, spectral type |
+| ♌ `zodiac` | 12 | Western zodiac signs |
+| 📡 `http-status` | 63 | Status codes & reason phrases |
+| 🔗 `http-methods` | 9 | Safety, idempotency, caching |
+| 📄 `mime-types` | 61 | Category & file extensions |
+| 🔌 `tcp-ports` | 62 | Well-known ports & services |
+| 💻 `programming-languages` | 50 | Year, paradigm, typing |
+| 🔤 `ascii` | 95 | Printable ASCII table |
+| 🇬🇷 `greek-alphabet` | 24 | Transliteration, numeric value |
+| 📶 `nato-alphabet` | 26 | Code words & pronunciation |
+| ·−· `morse-code` | 54 | Letters, digits, punctuation |
+| Ⅼ `roman-numerals` | 33 | Arabic ↔ Roman |
+| 💬 `quotes` | 122 | Famous quotes with authors & tags |
+| 🏛️ `us-presidents` | 46 | Party, term, vice president |
+| ⚡ `greek-gods` | 34 | Domain, Roman equivalent |
+| ⚔️ `norse-gods` | 22 | Domain, type, symbol |
+| 𓂀 `egyptian-gods` | 21 | Domain, symbol, depiction |
+| 🗿 `seven-wonders` | 14 | Ancient + New wonders |
+| 🐉 `chinese-zodiac` | 12 | Element, yin-yang, traits |
+| 💎 `birthstones` | 12 | Monthly stones & meanings |
+| 🔮 `tarot-major-arcana` | 22 | Keywords, element |
+| 💠 `gemstones` | 31 | Color, Mohs hardness |
+| 🎨 `colors` | 141 | Hex, RGB, HSL |
+| 🎸 `musical-instruments` | 42 | Family, classification |
+| 🍸 `cocktails` | 41 | Base spirit, glass, IBA status |
+| ♟️ `chess-pieces` | 6 | Symbols, value, movement |
+| 🃏 `playing-cards` | 52 | A standard 52-card deck |
+| 📅 `calendar` | 19 | Months & days of the week |
 
 ## Building locally
 
-The JSON files under `api/` are generated from the datasets in `scripts/data/`.
+The JSON files under `api/`, plus `openapi.json` and `sitemap.xml`, are all
+**generated** from the dataset modules in `scripts/data/`.
 
 ```bash
-python3 -m scripts.generate      # regenerates /api and openapi.json
+python3 -m scripts.generate      # regenerates /api, openapi.json and sitemap.xml
 ```
 
 To add a new API, drop a module in `scripts/data/` that exposes a `META` dict
-and an `ITEMS` list, then re-run the generator. That's it.
+and an `ITEMS` list (each item needs a unique `id`), then re-run the generator.
+The new dataset is auto-discovered — no other file needs editing.
+
+```python
+# scripts/data/example.py
+META = {"name": "example", "title": "Example", "description": "...", "emoji": "📦"}
+ITEMS = [{"id": "one", "value": 1}, {"id": "two", "value": 2}]
+```
+
+## Deployment & CI
+
+Two GitHub Actions workflows keep the site honest and live:
+
+- **`.github/workflows/ci.yml`** — on every push/PR, regenerates the API and
+  fails if the committed output is stale or any JSON is invalid.
+- **`.github/workflows/deploy.yml`** — on push to `gh-pages`, rebuilds and
+  publishes to GitHub Pages. Requires **Settings → Pages → Source = "GitHub
+  Actions"**. (If you instead serve directly from the `gh-pages` branch, the
+  committed files already work as-is and this workflow is optional.)
 
 ## Contributing
 

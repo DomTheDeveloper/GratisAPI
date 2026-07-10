@@ -1,0 +1,10 @@
+{
+  "id": "silver-birch",
+  "common_name": "Silver Birch",
+  "scientific_name": "Betula pendula",
+  "family": "Betulaceae",
+  "type": "Deciduous",
+  "max_height_m": 30,
+  "native_region": "Europe and Asia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/silver-birch.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ld-json",
+  "mime_type": "application/ld+json",
+  "name": "JSON-LD",
+  "category": "application",
+  "extensions": [
+    ".jsonld"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ld-json.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wasabi",
+  "name": "Wasabi",
+  "plant_part": "Root",
+  "origin_region": "Japan",
+  "flavor": "Sharp, sinus-clearing",
+  "heat_level": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/wasabi.json"
+}

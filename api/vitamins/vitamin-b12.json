@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b12",
+  "name": "Vitamin B12",
+  "chemical_name": "Cobalamin",
+  "solubility": "Water",
+  "function": "Red blood cell formation and nerve function",
+  "deficiency_disease": "Pernicious anaemia",
+  "food_sources": [
+    "Meat",
+    "Fish",
+    "Dairy"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b12.json"
+}

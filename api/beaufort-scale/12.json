@@ -1,0 +1,9 @@
+{
+  "id": 12,
+  "force": 12,
+  "description": "Hurricane force",
+  "wind_kmh_min": 118,
+  "wind_kmh_max": null,
+  "conditions": "Devastation; air filled with foam and spray.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/12.json"
+}

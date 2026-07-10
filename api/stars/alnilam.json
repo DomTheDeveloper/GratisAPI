@@ -1,0 +1,9 @@
+{
+  "id": "alnilam",
+  "name": "Alnilam",
+  "constellation": "Orion",
+  "apparent_magnitude": 1.69,
+  "distance_ly": 2000.0,
+  "spectral_type": "B0Ia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/alnilam.json"
+}

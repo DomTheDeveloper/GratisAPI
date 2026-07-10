@@ -1,0 +1,9 @@
+{
+  "id": "ginger",
+  "name": "Ginger",
+  "plant_part": "Root",
+  "origin_region": "Southeast Asia",
+  "flavor": "Pungent, spicy-sweet",
+  "heat_level": "Mild",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/ginger.json"
+}

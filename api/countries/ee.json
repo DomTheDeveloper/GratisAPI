@@ -1,0 +1,13 @@
+{
+  "id": "ee",
+  "name": "Estonia",
+  "alpha2": "EE",
+  "alpha3": "EST",
+  "capital": "Tallinn",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇪🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ee.json"
+}

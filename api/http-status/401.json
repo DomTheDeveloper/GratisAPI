@@ -3,5 +3,6 @@
   "code": 401,
   "message": "Unauthorized",
   "category": "Client Error",
+  "description": "The request requires user authentication.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/401.json"
 }

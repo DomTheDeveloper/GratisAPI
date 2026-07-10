@@ -1,0 +1,10 @@
+{
+  "id": "mastiff",
+  "name": "Mastiff",
+  "group": "Working",
+  "origin": "United Kingdom",
+  "size": "Large",
+  "life_expectancy_years": "6-10",
+  "temperament": "Courageous, dignified and good-natured",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/mastiff.json"
+}

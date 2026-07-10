@@ -1,0 +1,11 @@
+{
+  "id": "plateosaurus",
+  "name": "Plateosaurus",
+  "period": "Late Triassic",
+  "diet": "Herbivore",
+  "length_m": 8.0,
+  "weight_kg": 4000,
+  "region": "Europe",
+  "meaning": "Broad lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/plateosaurus.json"
+}

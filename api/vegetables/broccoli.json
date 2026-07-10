@@ -1,0 +1,10 @@
+{
+  "id": "broccoli",
+  "name": "Broccoli",
+  "scientific_name": "Brassica oleracea",
+  "family": "Brassicaceae",
+  "type": "Cruciferous",
+  "color": "Green",
+  "calories_per_100g": 34,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/broccoli.json"
+}

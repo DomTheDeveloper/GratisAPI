@@ -1,0 +1,15 @@
+{
+  "id": "common-starfish",
+  "common_name": "Common Starfish",
+  "kingdom": "Animalia",
+  "phylum": "Echinodermata",
+  "class": "Asteroidea",
+  "order": "Forcipulatida",
+  "family": "Asteriidae",
+  "genus": "Asterias",
+  "species": "Asterias rubens",
+  "conservation_status": "Not Evaluated",
+  "habitat": "North Atlantic rocky seabeds",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/common-starfish.json"
+}

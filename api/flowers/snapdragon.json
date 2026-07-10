@@ -1,0 +1,10 @@
+{
+  "id": "snapdragon",
+  "name": "Snapdragon",
+  "scientific_name": "Antirrhinum majus",
+  "family": "Plantaginaceae",
+  "color": "Pink",
+  "bloom_season": "Summer",
+  "meaning": "Graciousness",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/snapdragon.json"
+}

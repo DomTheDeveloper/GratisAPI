@@ -1,0 +1,10 @@
+{
+  "id": "havanese",
+  "name": "Havanese",
+  "group": "Toy",
+  "origin": "Cuba",
+  "size": "Small",
+  "life_expectancy_years": "14-16",
+  "temperament": "Intelligent, outgoing and funny",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/havanese.json"
+}

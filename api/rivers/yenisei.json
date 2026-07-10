@@ -1,0 +1,9 @@
+{
+  "id": "yenisei",
+  "name": "Yenisei",
+  "length_km": 5539,
+  "continent": "Asia",
+  "outflow": "Arctic Ocean (Kara Sea)",
+  "countries": "Russia, Mongolia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yenisei.json"
+}

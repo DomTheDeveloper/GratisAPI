@@ -1,0 +1,9 @@
+{
+  "id": "gravitational-constant",
+  "name": "Newtonian constant of gravitation",
+  "symbol": "G",
+  "value": 6.6743e-11,
+  "unit": "m^3 kg^-1 s^-2",
+  "category": "Universal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/gravitational-constant.json"
+}

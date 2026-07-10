@@ -1,0 +1,9 @@
+{
+  "id": "basil",
+  "name": "Basil",
+  "plant_part": "Leaf",
+  "origin_region": "Southeast Asia",
+  "flavor": "Sweet, peppery",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/basil.json"
+}

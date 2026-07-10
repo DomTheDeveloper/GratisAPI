@@ -1,0 +1,12 @@
+{
+  "id": "indiana",
+  "name": "Indiana",
+  "abbreviation": "IN",
+  "capital": "Indianapolis",
+  "largest_city": "Indianapolis",
+  "population": 6785528,
+  "area_km2": 94326,
+  "statehood_year": 1816,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/indiana.json"
+}

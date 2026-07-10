@@ -1,0 +1,9 @@
+{
+  "id": "indus",
+  "name": "Indus",
+  "length_km": 3180,
+  "continent": "Asia",
+  "outflow": "Arabian Sea",
+  "countries": "Pakistan, India, China",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/indus.json"
+}

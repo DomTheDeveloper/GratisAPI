@@ -1,0 +1,13 @@
+{
+  "id": "cl",
+  "name": "Chile",
+  "alpha2": "CL",
+  "alpha3": "CHL",
+  "capital": "Santiago",
+  "continent": "South America",
+  "currency_code": "CLP",
+  "currency": "Chilean Peso",
+  "population_millions": 19,
+  "flag_emoji": "🇨🇱",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cl.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ps",
+  "code": "ps",
+  "name": "Pashto",
+  "native_name": "پښتو",
+  "direction": "rtl",
+  "speakers_millions": 60,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ps.json"
+}

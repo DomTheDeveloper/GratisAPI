@@ -1,0 +1,10 @@
+{
+  "id": "patch",
+  "method": "PATCH",
+  "description": "Applies partial modifications to a resource.",
+  "safe": false,
+  "idempotent": false,
+  "cacheable": false,
+  "has_request_body": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/patch.json"
+}

@@ -1,0 +1,190 @@
+{
+  "api": "egyptian-gods",
+  "title": "Egyptian Gods",
+  "description": "Deities of ancient Egyptian mythology.",
+  "emoji": "🔮",
+  "license": "GPL-2.0-or-later",
+  "count": 21,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/{id}.json"
+  },
+  "fields": [
+    "depiction",
+    "domain",
+    "id",
+    "name",
+    "symbol"
+  ],
+  "results": [
+    {
+      "id": "ra",
+      "name": "Ra",
+      "domain": "Sun, creation, kingship",
+      "symbol": "Sun disk",
+      "depiction": "Falcon-headed man crowned with a sun disk",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/ra.json"
+    },
+    {
+      "id": "osiris",
+      "name": "Osiris",
+      "domain": "Afterlife, death, resurrection, agriculture",
+      "symbol": "Crook and flail",
+      "depiction": "Green-skinned mummified man wearing the atef crown",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/osiris.json"
+    },
+    {
+      "id": "isis",
+      "name": "Isis",
+      "domain": "Magic, motherhood, healing",
+      "symbol": "Throne, tyet knot",
+      "depiction": "Woman with a throne-shaped headdress or sun disk with horns",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/isis.json"
+    },
+    {
+      "id": "horus",
+      "name": "Horus",
+      "domain": "Sky, kingship, protection",
+      "symbol": "Eye of Horus",
+      "depiction": "Falcon or falcon-headed man wearing the double crown",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/horus.json"
+    },
+    {
+      "id": "seth",
+      "name": "Set",
+      "domain": "Chaos, storms, desert, violence",
+      "symbol": "Was scepter",
+      "depiction": "Man with the head of the enigmatic Set animal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/seth.json"
+    },
+    {
+      "id": "anubis",
+      "name": "Anubis",
+      "domain": "Mummification, the dead, embalming",
+      "symbol": "Jackal",
+      "depiction": "Jackal-headed man or reclining black jackal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/anubis.json"
+    },
+    {
+      "id": "thoth",
+      "name": "Thoth",
+      "domain": "Wisdom, writing, the moon, knowledge",
+      "symbol": "Ibis, scribe's palette",
+      "depiction": "Ibis-headed man holding a scribe's reed",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/thoth.json"
+    },
+    {
+      "id": "hathor",
+      "name": "Hathor",
+      "domain": "Love, beauty, music, motherhood, joy",
+      "symbol": "Cow horns with sun disk",
+      "depiction": "Woman with cow horns framing a sun disk, or a cow",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/hathor.json"
+    },
+    {
+      "id": "bastet",
+      "name": "Bastet",
+      "domain": "Home, cats, fertility, protection",
+      "symbol": "Cat, sistrum",
+      "depiction": "Cat or cat-headed woman",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/bastet.json"
+    },
+    {
+      "id": "sekhmet",
+      "name": "Sekhmet",
+      "domain": "War, healing, destruction",
+      "symbol": "Lioness, sun disk",
+      "depiction": "Lioness-headed woman crowned with a sun disk",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/sekhmet.json"
+    },
+    {
+      "id": "ptah",
+      "name": "Ptah",
+      "domain": "Craftsmen, creation, architects",
+      "symbol": "Djed pillar",
+      "depiction": "Mummified man holding a staff, with a skullcap",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/ptah.json"
+    },
+    {
+      "id": "amun",
+      "name": "Amun",
+      "domain": "Air, the sun, king of the gods (as Amun-Ra)",
+      "symbol": "Two tall plumes",
+      "depiction": "Man wearing a crown with two tall ostrich feathers",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/amun.json"
+    },
+    {
+      "id": "nut",
+      "name": "Nut",
+      "domain": "The sky and heavens",
+      "symbol": "Star-covered body",
+      "depiction": "Woman arching over the earth, body covered in stars",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/nut.json"
+    },
+    {
+      "id": "geb",
+      "name": "Geb",
+      "domain": "The earth, vegetation",
+      "symbol": "Goose",
+      "depiction": "Reclining man, often green, sometimes with a goose",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/geb.json"
+    },
+    {
+      "id": "shu",
+      "name": "Shu",
+      "domain": "Air, wind, light",
+      "symbol": "Ostrich feather",
+      "depiction": "Man wearing an ostrich feather on his head",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/shu.json"
+    },
+    {
+      "id": "tefnut",
+      "name": "Tefnut",
+      "domain": "Moisture, rain, dew",
+      "symbol": "Lioness",
+      "depiction": "Lioness or lioness-headed woman with a sun disk",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/tefnut.json"
+    },
+    {
+      "id": "nephthys",
+      "name": "Nephthys",
+      "domain": "Mourning, protection of the dead, night",
+      "symbol": "House and basket hieroglyph",
+      "depiction": "Woman with a headdress of her name's hieroglyphs",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/nephthys.json"
+    },
+    {
+      "id": "maat",
+      "name": "Maat",
+      "domain": "Truth, justice, cosmic order, balance",
+      "symbol": "Ostrich feather",
+      "depiction": "Woman with an ostrich feather in her hair",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/maat.json"
+    },
+    {
+      "id": "sobek",
+      "name": "Sobek",
+      "domain": "The Nile, crocodiles, strength, fertility",
+      "symbol": "Crocodile",
+      "depiction": "Crocodile or crocodile-headed man with a sun disk",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/sobek.json"
+    },
+    {
+      "id": "khnum",
+      "name": "Khnum",
+      "domain": "The Nile's source, creation, potter of souls",
+      "symbol": "Ram",
+      "depiction": "Ram-headed man, often at a potter's wheel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/khnum.json"
+    },
+    {
+      "id": "bes",
+      "name": "Bes",
+      "domain": "Households, childbirth, protection, joy",
+      "symbol": "Lion features",
+      "depiction": "Dwarf-like figure with a lion's mane and protruding tongue",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/bes.json"
+    }
+  ]
+}

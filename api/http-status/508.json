@@ -1,0 +1,8 @@
+{
+  "id": 508,
+  "code": 508,
+  "message": "Loop Detected",
+  "category": "Server Error",
+  "description": "The server detected an infinite loop while processing the request.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/508.json"
+}

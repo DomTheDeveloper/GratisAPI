@@ -1,0 +1,8 @@
+{
+  "id": "simpson",
+  "name": "Simpson Desert",
+  "area_km2": 176500,
+  "continent": "Oceania",
+  "type": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/simpson.json"
+}

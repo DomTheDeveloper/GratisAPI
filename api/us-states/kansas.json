@@ -1,0 +1,12 @@
+{
+  "id": "kansas",
+  "name": "Kansas",
+  "abbreviation": "KS",
+  "capital": "Topeka",
+  "largest_city": "Wichita",
+  "population": 2937880,
+  "area_km2": 213100,
+  "statehood_year": 1861,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/kansas.json"
+}

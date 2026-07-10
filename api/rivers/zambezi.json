@@ -1,0 +1,9 @@
+{
+  "id": "zambezi",
+  "name": "Zambezi",
+  "length_km": 2574,
+  "continent": "Africa",
+  "outflow": "Indian Ocean (Mozambique Channel)",
+  "countries": "Zambia, Mozambique, Zimbabwe",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/zambezi.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rottweiler",
+  "name": "Rottweiler",
+  "group": "Working",
+  "origin": "Germany",
+  "size": "Large",
+  "life_expectancy_years": "9-10",
+  "temperament": "Loyal, loving and confident guardian",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/rottweiler.json"
+}

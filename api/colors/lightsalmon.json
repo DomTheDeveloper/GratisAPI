@@ -1,0 +1,18 @@
+{
+  "id": "lightsalmon",
+  "name": "Light Salmon",
+  "hex": "#FFA07A",
+  "rgb": {
+    "r": 255,
+    "g": 160,
+    "b": 122
+  },
+  "rgb_string": "rgb(255, 160, 122)",
+  "hsl": {
+    "h": 17,
+    "s": 100,
+    "l": 74
+  },
+  "hsl_string": "hsl(17, 100%, 74%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightsalmon.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "altair",
+  "name": "Altair",
+  "constellation": "Aquila",
+  "apparent_magnitude": 0.76,
+  "distance_ly": 16.7,
+  "spectral_type": "A7V",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/altair.json"
+}

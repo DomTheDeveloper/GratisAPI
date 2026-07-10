@@ -1,0 +1,13 @@
+{
+  "id": "lu",
+  "name": "Luxembourg",
+  "alpha2": "LU",
+  "alpha3": "LUX",
+  "capital": "Luxembourg",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇱🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/lu.json"
+}

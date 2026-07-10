@@ -1,0 +1,8 @@
+{
+  "id": 208,
+  "code": 208,
+  "message": "Already Reported",
+  "category": "Success",
+  "description": "The members of a DAV binding have already been enumerated in a prior response.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/208.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "gallimimus",
+  "name": "Gallimimus",
+  "period": "Late Cretaceous",
+  "diet": "Omnivore",
+  "length_m": 6.0,
+  "weight_kg": 440,
+  "region": "Mongolia",
+  "meaning": "Chicken mimic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/gallimimus.json"
+}

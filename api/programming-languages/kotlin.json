@@ -1,0 +1,14 @@
+{
+  "id": "kotlin",
+  "name": "Kotlin",
+  "year": 2011,
+  "paradigm": [
+    "Object-oriented",
+    "Functional",
+    "Imperative"
+  ],
+  "typing": "Static",
+  "designed_by": "JetBrains",
+  "extension": ".kt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/kotlin.json"
+}

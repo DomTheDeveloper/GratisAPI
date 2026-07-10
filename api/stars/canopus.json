@@ -1,0 +1,9 @@
+{
+  "id": "canopus",
+  "name": "Canopus",
+  "constellation": "Carina",
+  "apparent_magnitude": -0.74,
+  "distance_ly": 310.0,
+  "spectral_type": "A9II",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/canopus.json"
+}

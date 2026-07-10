@@ -1,0 +1,13 @@
+{
+  "id": "xk",
+  "name": "Kosovo",
+  "alpha2": "XK",
+  "alpha3": "XKX",
+  "capital": "Pristina",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 2,
+  "flag_emoji": "🇽🇰",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/xk.json"
+}

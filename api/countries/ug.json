@@ -1,0 +1,13 @@
+{
+  "id": "ug",
+  "name": "Uganda",
+  "alpha2": "UG",
+  "alpha3": "UGA",
+  "capital": "Kampala",
+  "continent": "Africa",
+  "currency_code": "UGX",
+  "currency": "Ugandan Shilling",
+  "population_millions": 46,
+  "flag_emoji": "🇺🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ug.json"
+}

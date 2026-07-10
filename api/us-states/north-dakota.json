@@ -1,0 +1,12 @@
+{
+  "id": "north-dakota",
+  "name": "North Dakota",
+  "abbreviation": "ND",
+  "capital": "Bismarck",
+  "largest_city": "Fargo",
+  "population": 779094,
+  "area_km2": 183108,
+  "statehood_year": 1889,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/north-dakota.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "titan",
+  "name": "Titan",
+  "planet": "Saturn",
+  "radius_km": 2574.7,
+  "discovered_year": 1655,
+  "discovered_by": "Christiaan Huygens",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/titan.json"
+}

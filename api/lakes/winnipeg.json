@@ -1,0 +1,9 @@
+{
+  "id": "winnipeg",
+  "name": "Lake Winnipeg",
+  "area_km2": 24400,
+  "max_depth_m": 36,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/winnipeg.json"
+}

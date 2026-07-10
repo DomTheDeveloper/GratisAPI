@@ -1,0 +1,347 @@
+{
+  "api": "spices",
+  "title": "Spices and Herbs",
+  "description": "Culinary spices and herbs with the plant part used, region of origin, flavor, and heat level.",
+  "emoji": "🌶️",
+  "license": "GPL-2.0-or-later",
+  "count": 36,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/spices/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/spices/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/spices/{id}.json"
+  },
+  "fields": [
+    "flavor",
+    "heat_level",
+    "id",
+    "name",
+    "origin_region",
+    "plant_part"
+  ],
+  "results": [
+    {
+      "id": "black-pepper",
+      "name": "Black Pepper",
+      "plant_part": "Fruit",
+      "origin_region": "India",
+      "flavor": "Pungent, woody",
+      "heat_level": "Mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/black-pepper.json"
+    },
+    {
+      "id": "cinnamon",
+      "name": "Cinnamon",
+      "plant_part": "Bark",
+      "origin_region": "Sri Lanka",
+      "flavor": "Sweet, warm",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cinnamon.json"
+    },
+    {
+      "id": "cumin",
+      "name": "Cumin",
+      "plant_part": "Seed",
+      "origin_region": "Middle East",
+      "flavor": "Earthy, warm",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cumin.json"
+    },
+    {
+      "id": "coriander",
+      "name": "Coriander",
+      "plant_part": "Seed",
+      "origin_region": "Mediterranean",
+      "flavor": "Citrusy, nutty",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/coriander.json"
+    },
+    {
+      "id": "turmeric",
+      "name": "Turmeric",
+      "plant_part": "Root",
+      "origin_region": "India",
+      "flavor": "Earthy, bitter",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/turmeric.json"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "plant_part": "Root",
+      "origin_region": "Southeast Asia",
+      "flavor": "Pungent, spicy-sweet",
+      "heat_level": "Mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/ginger.json"
+    },
+    {
+      "id": "cardamom",
+      "name": "Cardamom",
+      "plant_part": "Seed",
+      "origin_region": "India",
+      "flavor": "Aromatic, floral",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cardamom.json"
+    },
+    {
+      "id": "cloves",
+      "name": "Cloves",
+      "plant_part": "Flower",
+      "origin_region": "Indonesia",
+      "flavor": "Sweet, pungent",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cloves.json"
+    },
+    {
+      "id": "nutmeg",
+      "name": "Nutmeg",
+      "plant_part": "Seed",
+      "origin_region": "Indonesia",
+      "flavor": "Warm, nutty",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/nutmeg.json"
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "plant_part": "Fruit",
+      "origin_region": "Central America",
+      "flavor": "Sweet, smoky",
+      "heat_level": "Mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/paprika.json"
+    },
+    {
+      "id": "cayenne",
+      "name": "Cayenne Pepper",
+      "plant_part": "Fruit",
+      "origin_region": "South America",
+      "flavor": "Sharp, fiery",
+      "heat_level": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cayenne.json"
+    },
+    {
+      "id": "chili-powder",
+      "name": "Chili Powder",
+      "plant_part": "Fruit",
+      "origin_region": "Central America",
+      "flavor": "Spicy, earthy",
+      "heat_level": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/chili-powder.json"
+    },
+    {
+      "id": "saffron",
+      "name": "Saffron",
+      "plant_part": "Flower",
+      "origin_region": "Iran",
+      "flavor": "Floral, honeyed",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/saffron.json"
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla",
+      "plant_part": "Fruit",
+      "origin_region": "Mexico",
+      "flavor": "Sweet, creamy",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/vanilla.json"
+    },
+    {
+      "id": "mustard-seed",
+      "name": "Mustard Seed",
+      "plant_part": "Seed",
+      "origin_region": "Mediterranean",
+      "flavor": "Sharp, tangy",
+      "heat_level": "Medium",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/mustard-seed.json"
+    },
+    {
+      "id": "fennel",
+      "name": "Fennel",
+      "plant_part": "Seed",
+      "origin_region": "Mediterranean",
+      "flavor": "Sweet, anise-like",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/fennel.json"
+    },
+    {
+      "id": "star-anise",
+      "name": "Star Anise",
+      "plant_part": "Fruit",
+      "origin_region": "China",
+      "flavor": "Licorice, sweet",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/star-anise.json"
+    },
+    {
+      "id": "allspice",
+      "name": "Allspice",
+      "plant_part": "Fruit",
+      "origin_region": "Caribbean",
+      "flavor": "Warm, complex",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/allspice.json"
+    },
+    {
+      "id": "fenugreek",
+      "name": "Fenugreek",
+      "plant_part": "Seed",
+      "origin_region": "India",
+      "flavor": "Bittersweet, nutty",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/fenugreek.json"
+    },
+    {
+      "id": "sumac",
+      "name": "Sumac",
+      "plant_part": "Fruit",
+      "origin_region": "Middle East",
+      "flavor": "Tangy, sour",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/sumac.json"
+    },
+    {
+      "id": "basil",
+      "name": "Basil",
+      "plant_part": "Leaf",
+      "origin_region": "Southeast Asia",
+      "flavor": "Sweet, peppery",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/basil.json"
+    },
+    {
+      "id": "oregano",
+      "name": "Oregano",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Pungent, earthy",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/oregano.json"
+    },
+    {
+      "id": "thyme",
+      "name": "Thyme",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Earthy, minty",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/thyme.json"
+    },
+    {
+      "id": "rosemary",
+      "name": "Rosemary",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Piney, woody",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/rosemary.json"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Earthy, savory",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/sage.json"
+    },
+    {
+      "id": "parsley",
+      "name": "Parsley",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Fresh, grassy",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/parsley.json"
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Cool, refreshing",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/mint.json"
+    },
+    {
+      "id": "bay-leaf",
+      "name": "Bay Leaf",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Herbal, floral",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/bay-leaf.json"
+    },
+    {
+      "id": "dill",
+      "name": "Dill",
+      "plant_part": "Leaf",
+      "origin_region": "Mediterranean",
+      "flavor": "Fresh, grassy",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/dill.json"
+    },
+    {
+      "id": "tarragon",
+      "name": "Tarragon",
+      "plant_part": "Leaf",
+      "origin_region": "Eurasia",
+      "flavor": "Anise-like, sweet",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/tarragon.json"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "plant_part": "Bulb",
+      "origin_region": "Central Asia",
+      "flavor": "Pungent, savory",
+      "heat_level": "Mild",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/garlic.json"
+    },
+    {
+      "id": "caraway",
+      "name": "Caraway",
+      "plant_part": "Seed",
+      "origin_region": "Europe",
+      "flavor": "Earthy, anise-like",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/caraway.json"
+    },
+    {
+      "id": "poppy-seed",
+      "name": "Poppy Seed",
+      "plant_part": "Seed",
+      "origin_region": "Mediterranean",
+      "flavor": "Nutty, mild",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/poppy-seed.json"
+    },
+    {
+      "id": "juniper",
+      "name": "Juniper Berry",
+      "plant_part": "Fruit",
+      "origin_region": "Europe",
+      "flavor": "Piney, resinous",
+      "heat_level": "None",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/juniper.json"
+    },
+    {
+      "id": "horseradish",
+      "name": "Horseradish",
+      "plant_part": "Root",
+      "origin_region": "Eastern Europe",
+      "flavor": "Sharp, pungent",
+      "heat_level": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/horseradish.json"
+    },
+    {
+      "id": "wasabi",
+      "name": "Wasabi",
+      "plant_part": "Root",
+      "origin_region": "Japan",
+      "flavor": "Sharp, sinus-clearing",
+      "heat_level": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/wasabi.json"
+    }
+  ]
+}

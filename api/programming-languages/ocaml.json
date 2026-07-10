@@ -1,0 +1,14 @@
+{
+  "id": "ocaml",
+  "name": "OCaml",
+  "year": 1996,
+  "paradigm": [
+    "Functional",
+    "Imperative",
+    "Object-oriented"
+  ],
+  "typing": "Static",
+  "designed_by": "Xavier Leroy et al.",
+  "extension": ".ml",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ocaml.json"
+}

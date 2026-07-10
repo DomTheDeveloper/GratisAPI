@@ -1,0 +1,18 @@
+{
+  "id": "springgreen",
+  "name": "Spring Green",
+  "hex": "#00FF7F",
+  "rgb": {
+    "r": 0,
+    "g": 255,
+    "b": 127
+  },
+  "rgb_string": "rgb(0, 255, 127)",
+  "hsl": {
+    "h": 150,
+    "s": 100,
+    "l": 50
+  },
+  "hsl_string": "hsl(150, 100%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/springgreen.json"
+}

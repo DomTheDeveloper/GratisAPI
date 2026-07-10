@@ -1,0 +1,9 @@
+{
+  "id": "proton-mass",
+  "name": "Proton mass",
+  "symbol": "m_p",
+  "value": 1.67262192369e-27,
+  "unit": "kg",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/proton-mass.json"
+}

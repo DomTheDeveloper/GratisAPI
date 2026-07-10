@@ -1,0 +1,13 @@
+{
+  "id": "cz",
+  "name": "Czechia",
+  "alpha2": "CZ",
+  "alpha3": "CZE",
+  "capital": "Prague",
+  "continent": "Europe",
+  "currency_code": "CZK",
+  "currency": "Czech Koruna",
+  "population_millions": 11,
+  "flag_emoji": "🇨🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cz.json"
+}

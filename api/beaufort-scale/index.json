@@ -1,0 +1,140 @@
+{
+  "api": "beaufort-scale",
+  "title": "Beaufort Scale",
+  "description": "The Beaufort wind force scale from 0 (calm) to 12 (hurricane).",
+  "emoji": "💨",
+  "license": "GPL-2.0-or-later",
+  "count": 13,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/{id}.json"
+  },
+  "fields": [
+    "conditions",
+    "description",
+    "force",
+    "id",
+    "wind_kmh_max",
+    "wind_kmh_min"
+  ],
+  "results": [
+    {
+      "id": 0,
+      "force": 0,
+      "description": "Calm",
+      "wind_kmh_min": 0,
+      "wind_kmh_max": 1,
+      "conditions": "Smoke rises vertically; sea like a mirror.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/0.json"
+    },
+    {
+      "id": 1,
+      "force": 1,
+      "description": "Light air",
+      "wind_kmh_min": 1,
+      "wind_kmh_max": 5,
+      "conditions": "Smoke drifts; ripples on the water.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/1.json"
+    },
+    {
+      "id": 2,
+      "force": 2,
+      "description": "Light breeze",
+      "wind_kmh_min": 6,
+      "wind_kmh_max": 11,
+      "conditions": "Leaves rustle; small wavelets.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/2.json"
+    },
+    {
+      "id": 3,
+      "force": 3,
+      "description": "Gentle breeze",
+      "wind_kmh_min": 12,
+      "wind_kmh_max": 19,
+      "conditions": "Leaves and twigs in motion; large wavelets.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/3.json"
+    },
+    {
+      "id": 4,
+      "force": 4,
+      "description": "Moderate breeze",
+      "wind_kmh_min": 20,
+      "wind_kmh_max": 28,
+      "conditions": "Dust and loose paper raised; small waves.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/4.json"
+    },
+    {
+      "id": 5,
+      "force": 5,
+      "description": "Fresh breeze",
+      "wind_kmh_min": 29,
+      "wind_kmh_max": 38,
+      "conditions": "Small trees sway; moderate waves with whitecaps.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/5.json"
+    },
+    {
+      "id": 6,
+      "force": 6,
+      "description": "Strong breeze",
+      "wind_kmh_min": 39,
+      "wind_kmh_max": 49,
+      "conditions": "Large branches move; large waves, some spray.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/6.json"
+    },
+    {
+      "id": 7,
+      "force": 7,
+      "description": "Near gale",
+      "wind_kmh_min": 50,
+      "wind_kmh_max": 61,
+      "conditions": "Whole trees in motion; sea heaps up, foam streaks.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/7.json"
+    },
+    {
+      "id": 8,
+      "force": 8,
+      "description": "Gale",
+      "wind_kmh_min": 62,
+      "wind_kmh_max": 74,
+      "conditions": "Twigs break off trees; moderately high waves.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/8.json"
+    },
+    {
+      "id": 9,
+      "force": 9,
+      "description": "Strong gale",
+      "wind_kmh_min": 75,
+      "wind_kmh_max": 88,
+      "conditions": "Slight structural damage; high waves, dense foam.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/9.json"
+    },
+    {
+      "id": 10,
+      "force": 10,
+      "description": "Storm",
+      "wind_kmh_min": 89,
+      "wind_kmh_max": 102,
+      "conditions": "Trees uprooted; very high waves, sea white with foam.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/10.json"
+    },
+    {
+      "id": 11,
+      "force": 11,
+      "description": "Violent storm",
+      "wind_kmh_min": 103,
+      "wind_kmh_max": 117,
+      "conditions": "Widespread damage; exceptionally high waves.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/11.json"
+    },
+    {
+      "id": 12,
+      "force": 12,
+      "description": "Hurricane force",
+      "wind_kmh_min": 118,
+      "wind_kmh_max": null,
+      "conditions": "Devastation; air filled with foam and spray.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/12.json"
+    }
+  ]
+}

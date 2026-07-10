@@ -1,0 +1,18 @@
+{
+  "id": "darkgoldenrod",
+  "name": "Dark Goldenrod",
+  "hex": "#B8860B",
+  "rgb": {
+    "r": 184,
+    "g": 134,
+    "b": 11
+  },
+  "rgb_string": "rgb(184, 134, 11)",
+  "hsl": {
+    "h": 43,
+    "s": 89,
+    "l": 38
+  },
+  "hsl_string": "hsl(43, 89%, 38%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkgoldenrod.json"
+}

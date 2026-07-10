@@ -1,0 +1,15 @@
+{
+  "id": "european-mantis",
+  "common_name": "European Mantis",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Insecta",
+  "order": "Mantodea",
+  "family": "Mantidae",
+  "genus": "Mantis",
+  "species": "Mantis religiosa",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Grasslands and meadows",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/european-mantis.json"
+}

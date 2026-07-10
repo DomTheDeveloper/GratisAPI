@@ -1,0 +1,13 @@
+{
+  "id": "cr",
+  "name": "Costa Rica",
+  "alpha2": "CR",
+  "alpha3": "CRI",
+  "capital": "San Jose",
+  "continent": "North America",
+  "currency_code": "CRC",
+  "currency": "Costa Rican Colon",
+  "population_millions": 5,
+  "flag_emoji": "🇨🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cr.json"
+}

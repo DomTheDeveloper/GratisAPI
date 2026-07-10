@@ -1,0 +1,13 @@
+{
+  "id": "az",
+  "name": "Azerbaijan",
+  "alpha2": "AZ",
+  "alpha3": "AZE",
+  "capital": "Baku",
+  "continent": "Asia",
+  "currency_code": "AZN",
+  "currency": "Azerbaijani Manat",
+  "population_millions": 10,
+  "flag_emoji": "🇦🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/az.json"
+}

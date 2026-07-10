@@ -3,5 +3,6 @@
   "code": 400,
   "message": "Bad Request",
   "category": "Client Error",
+  "description": "The server cannot process the request due to a client error.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/400.json"
 }

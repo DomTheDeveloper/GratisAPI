@@ -1,0 +1,11 @@
+{
+  "id": "brachiosaurus",
+  "name": "Brachiosaurus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 22.0,
+  "weight_kg": 35000,
+  "region": "Western North America",
+  "meaning": "Arm lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/brachiosaurus.json"
+}

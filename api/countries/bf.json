@@ -1,0 +1,13 @@
+{
+  "id": "bf",
+  "name": "Burkina Faso",
+  "alpha2": "BF",
+  "alpha3": "BFA",
+  "capital": "Ouagadougou",
+  "continent": "Africa",
+  "currency_code": "XOF",
+  "currency": "West African CFA Franc",
+  "population_millions": 22,
+  "flag_emoji": "🇧🇫",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bf.json"
+}

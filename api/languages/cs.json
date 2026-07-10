@@ -1,0 +1,9 @@
+{
+  "id": "cs",
+  "code": "cs",
+  "name": "Czech",
+  "native_name": "Čeština",
+  "direction": "ltr",
+  "speakers_millions": 11,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/cs.json"
+}

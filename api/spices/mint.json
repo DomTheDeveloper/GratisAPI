@@ -1,0 +1,9 @@
+{
+  "id": "mint",
+  "name": "Mint",
+  "plant_part": "Leaf",
+  "origin_region": "Mediterranean",
+  "flavor": "Cool, refreshing",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/mint.json"
+}

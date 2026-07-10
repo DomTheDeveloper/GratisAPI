@@ -1,0 +1,10 @@
+{
+  "id": "akita",
+  "name": "Akita",
+  "group": "Working",
+  "origin": "Japan",
+  "size": "Large",
+  "life_expectancy_years": "10-13",
+  "temperament": "Courageous, dignified and loyal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/akita.json"
+}

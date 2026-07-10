@@ -1,0 +1,13 @@
+{
+  "id": "tl",
+  "name": "Timor-Leste",
+  "alpha2": "TL",
+  "alpha3": "TLS",
+  "capital": "Dili",
+  "continent": "Asia",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇹🇱",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tl.json"
+}

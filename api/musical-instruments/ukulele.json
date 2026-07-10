@@ -1,0 +1,8 @@
+{
+  "id": "ukulele",
+  "name": "Ukulele",
+  "family": "String",
+  "classification": "Chordophone",
+  "origin_region": "Hawaii",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/ukulele.json"
+}

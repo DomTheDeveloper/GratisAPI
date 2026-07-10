@@ -1,0 +1,12 @@
+{
+  "id": "shortfin-mako",
+  "common_name": "Shortfin Mako Shark",
+  "scientific_name": "Isurus oxyrinchus",
+  "family": "Lamnidae",
+  "max_length_m": 4.0,
+  "habitat": "Offshore temperate and tropical waters",
+  "diet": "Carnivore",
+  "conservation_status": "Endangered",
+  "danger_to_humans": "High",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/shortfin-mako.json"
+}

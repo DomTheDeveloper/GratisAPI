@@ -1,0 +1,18 @@
+{
+  "id": "aquamarine",
+  "name": "Aquamarine",
+  "hex": "#7FFFD4",
+  "rgb": {
+    "r": 127,
+    "g": 255,
+    "b": 212
+  },
+  "rgb_string": "rgb(127, 255, 212)",
+  "hsl": {
+    "h": 160,
+    "s": 100,
+    "l": 75
+  },
+  "hsl_string": "hsl(160, 100%, 75%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/aquamarine.json"
+}

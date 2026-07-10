@@ -1,0 +1,10 @@
+{
+  "id": "webm-video",
+  "mime_type": "video/webm",
+  "name": "WebM Video",
+  "category": "video",
+  "extensions": [
+    ".webm"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/webm-video.json"
+}

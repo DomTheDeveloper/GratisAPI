@@ -1,0 +1,9 @@
+{
+  "id": "dark-and-stormy",
+  "name": "Dark and Stormy",
+  "base_spirit": "Rum",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/dark-and-stormy.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mv",
+  "name": "Maldives",
+  "alpha2": "MV",
+  "alpha3": "MDV",
+  "capital": "Male",
+  "continent": "Asia",
+  "currency_code": "MVR",
+  "currency": "Rufiyaa",
+  "population_millions": 1,
+  "flag_emoji": "🇲🇻",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mv.json"
+}

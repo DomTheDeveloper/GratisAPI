@@ -1,0 +1,12 @@
+{
+  "id": "montana",
+  "name": "Montana",
+  "abbreviation": "MT",
+  "capital": "Helena",
+  "largest_city": "Billings",
+  "population": 1084225,
+  "area_km2": 380831,
+  "statehood_year": 1889,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/montana.json"
+}

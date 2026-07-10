@@ -1,0 +1,13 @@
+{
+  "id": "kh",
+  "name": "Cambodia",
+  "alpha2": "KH",
+  "alpha3": "KHM",
+  "capital": "Phnom Penh",
+  "continent": "Asia",
+  "currency_code": "KHR",
+  "currency": "Riel",
+  "population_millions": 17,
+  "flag_emoji": "🇰🇭",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kh.json"
+}

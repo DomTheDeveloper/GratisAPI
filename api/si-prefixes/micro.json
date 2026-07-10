@@ -1,0 +1,8 @@
+{
+  "id": "micro",
+  "name": "micro",
+  "symbol": "µ",
+  "base_10": -6,
+  "factor": "1e-6",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/micro.json"
+}

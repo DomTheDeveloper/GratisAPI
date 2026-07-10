@@ -1,0 +1,12 @@
+{
+  "id": "strength",
+  "number": 8,
+  "name": "Strength",
+  "keywords": [
+    "courage",
+    "patience",
+    "compassion"
+  ],
+  "element": "Fire",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/strength.json"
+}

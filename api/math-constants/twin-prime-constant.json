@@ -1,0 +1,8 @@
+{
+  "id": "twin-prime-constant",
+  "name": "Twin prime constant",
+  "symbol": "C_2",
+  "value": 0.6601618158468696,
+  "description": "Density constant for twin primes.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/twin-prime-constant.json"
+}

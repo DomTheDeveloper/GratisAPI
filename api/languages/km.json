@@ -1,0 +1,9 @@
+{
+  "id": "km",
+  "code": "km",
+  "name": "Khmer",
+  "native_name": "ខ្មែរ",
+  "direction": "ltr",
+  "speakers_millions": 18,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/km.json"
+}

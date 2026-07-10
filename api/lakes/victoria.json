@@ -1,0 +1,9 @@
+{
+  "id": "victoria",
+  "name": "Lake Victoria",
+  "area_km2": 68870,
+  "max_depth_m": 84,
+  "continent": "Africa",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/victoria.json"
+}

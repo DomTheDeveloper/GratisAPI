@@ -1,0 +1,9 @@
+{
+  "id": "niger",
+  "name": "Niger",
+  "length_km": 4200,
+  "continent": "Africa",
+  "outflow": "Gulf of Guinea (Atlantic Ocean)",
+  "countries": "Nigeria, Mali, Niger",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/niger.json"
+}

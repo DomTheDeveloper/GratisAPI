@@ -1,0 +1,10 @@
+{
+  "id": "weeping-willow",
+  "common_name": "Weeping Willow",
+  "scientific_name": "Salix babylonica",
+  "family": "Salicaceae",
+  "type": "Deciduous",
+  "max_height_m": 25,
+  "native_region": "Northern China",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/weeping-willow.json"
+}

@@ -1,0 +1,218 @@
+{
+  "api": "roman-numerals",
+  "title": "Roman Numerals",
+  "description": "Roman numeral representations for a selection of useful Arabic numbers.",
+  "emoji": "🏛️",
+  "license": "GPL-2.0-or-later",
+  "count": 33,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/{id}.json"
+  },
+  "fields": [
+    "arabic",
+    "id",
+    "roman"
+  ],
+  "results": [
+    {
+      "id": 1,
+      "arabic": 1,
+      "roman": "I",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/1.json"
+    },
+    {
+      "id": 2,
+      "arabic": 2,
+      "roman": "II",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/2.json"
+    },
+    {
+      "id": 3,
+      "arabic": 3,
+      "roman": "III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/3.json"
+    },
+    {
+      "id": 4,
+      "arabic": 4,
+      "roman": "IV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/4.json"
+    },
+    {
+      "id": 5,
+      "arabic": 5,
+      "roman": "V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/5.json"
+    },
+    {
+      "id": 6,
+      "arabic": 6,
+      "roman": "VI",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/6.json"
+    },
+    {
+      "id": 7,
+      "arabic": 7,
+      "roman": "VII",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/7.json"
+    },
+    {
+      "id": 8,
+      "arabic": 8,
+      "roman": "VIII",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/8.json"
+    },
+    {
+      "id": 9,
+      "arabic": 9,
+      "roman": "IX",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/9.json"
+    },
+    {
+      "id": 10,
+      "arabic": 10,
+      "roman": "X",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/10.json"
+    },
+    {
+      "id": 11,
+      "arabic": 11,
+      "roman": "XI",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/11.json"
+    },
+    {
+      "id": 12,
+      "arabic": 12,
+      "roman": "XII",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/12.json"
+    },
+    {
+      "id": 13,
+      "arabic": 13,
+      "roman": "XIII",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/13.json"
+    },
+    {
+      "id": 14,
+      "arabic": 14,
+      "roman": "XIV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/14.json"
+    },
+    {
+      "id": 15,
+      "arabic": 15,
+      "roman": "XV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/15.json"
+    },
+    {
+      "id": 16,
+      "arabic": 16,
+      "roman": "XVI",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/16.json"
+    },
+    {
+      "id": 17,
+      "arabic": 17,
+      "roman": "XVII",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/17.json"
+    },
+    {
+      "id": 18,
+      "arabic": 18,
+      "roman": "XVIII",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/18.json"
+    },
+    {
+      "id": 19,
+      "arabic": 19,
+      "roman": "XIX",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/19.json"
+    },
+    {
+      "id": 20,
+      "arabic": 20,
+      "roman": "XX",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/20.json"
+    },
+    {
+      "id": 30,
+      "arabic": 30,
+      "roman": "XXX",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/30.json"
+    },
+    {
+      "id": 40,
+      "arabic": 40,
+      "roman": "XL",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/40.json"
+    },
+    {
+      "id": 50,
+      "arabic": 50,
+      "roman": "L",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/50.json"
+    },
+    {
+      "id": 90,
+      "arabic": 90,
+      "roman": "XC",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/90.json"
+    },
+    {
+      "id": 100,
+      "arabic": 100,
+      "roman": "C",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/100.json"
+    },
+    {
+      "id": 400,
+      "arabic": 400,
+      "roman": "CD",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/400.json"
+    },
+    {
+      "id": 500,
+      "arabic": 500,
+      "roman": "D",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/500.json"
+    },
+    {
+      "id": 900,
+      "arabic": 900,
+      "roman": "CM",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/900.json"
+    },
+    {
+      "id": 1000,
+      "arabic": 1000,
+      "roman": "M",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/1000.json"
+    },
+    {
+      "id": 1984,
+      "arabic": 1984,
+      "roman": "MCMLXXXIV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/1984.json"
+    },
+    {
+      "id": 2000,
+      "arabic": 2000,
+      "roman": "MM",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/2000.json"
+    },
+    {
+      "id": 2024,
+      "arabic": 2024,
+      "roman": "MMXXIV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/2024.json"
+    },
+    {
+      "id": 2025,
+      "arabic": 2025,
+      "roman": "MMXXV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/2025.json"
+    }
+  ]
+}

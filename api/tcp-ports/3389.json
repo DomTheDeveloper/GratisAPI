@@ -1,0 +1,8 @@
+{
+  "id": 3389,
+  "port": 3389,
+  "service": "rdp",
+  "protocol": "TCP",
+  "description": "Microsoft Remote Desktop Protocol.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/3389.json"
+}

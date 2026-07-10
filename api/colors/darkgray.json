@@ -1,0 +1,18 @@
+{
+  "id": "darkgray",
+  "name": "Dark Gray",
+  "hex": "#A9A9A9",
+  "rgb": {
+    "r": 169,
+    "g": 169,
+    "b": 169
+  },
+  "rgb_string": "rgb(169, 169, 169)",
+  "hsl": {
+    "h": 0,
+    "s": 0,
+    "l": 66
+  },
+  "hsl_string": "hsl(0, 0%, 66%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkgray.json"
+}

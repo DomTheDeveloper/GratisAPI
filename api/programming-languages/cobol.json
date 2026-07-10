@@ -1,0 +1,13 @@
+{
+  "id": "cobol",
+  "name": "COBOL",
+  "year": 1959,
+  "paradigm": [
+    "Imperative",
+    "Procedural"
+  ],
+  "typing": "Static",
+  "designed_by": "CODASYL",
+  "extension": ".cob",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/cobol.json"
+}

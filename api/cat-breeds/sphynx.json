@@ -1,0 +1,9 @@
+{
+  "id": "sphynx",
+  "name": "Sphynx",
+  "origin": "Canada",
+  "coat": "Hairless",
+  "temperament": "Energetic, affectionate and mischievous",
+  "life_expectancy_years": "8-14",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cat-breeds/sphynx.json"
+}

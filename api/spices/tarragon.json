@@ -1,0 +1,9 @@
+{
+  "id": "tarragon",
+  "name": "Tarragon",
+  "plant_part": "Leaf",
+  "origin_region": "Eurasia",
+  "flavor": "Anise-like, sweet",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/tarragon.json"
+}

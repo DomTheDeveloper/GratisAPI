@@ -1,0 +1,18 @@
+{
+  "id": "darksalmon",
+  "name": "Dark Salmon",
+  "hex": "#E9967A",
+  "rgb": {
+    "r": 233,
+    "g": 150,
+    "b": 122
+  },
+  "rgb_string": "rgb(233, 150, 122)",
+  "hsl": {
+    "h": 15,
+    "s": 72,
+    "l": 70
+  },
+  "hsl_string": "hsl(15, 72%, 70%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darksalmon.json"
+}

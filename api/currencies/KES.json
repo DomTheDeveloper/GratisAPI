@@ -1,0 +1,8 @@
+{
+  "id": "KES",
+  "code": "KES",
+  "name": "Kenyan Shilling",
+  "symbol": "Sh",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/KES.json"
+}

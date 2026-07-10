@@ -1,0 +1,9 @@
+{
+  "id": "coriander",
+  "name": "Coriander",
+  "plant_part": "Seed",
+  "origin_region": "Mediterranean",
+  "flavor": "Citrusy, nutty",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/coriander.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cavalier-king-charles-spaniel",
+  "name": "Cavalier King Charles Spaniel",
+  "group": "Toy",
+  "origin": "United Kingdom",
+  "size": "Small",
+  "life_expectancy_years": "12-15",
+  "temperament": "Affectionate, gentle and graceful",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/cavalier-king-charles-spaniel.json"
+}

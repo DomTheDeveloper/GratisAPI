@@ -1,0 +1,9 @@
+{
+  "id": "ta",
+  "code": "ta",
+  "name": "Tamil",
+  "native_name": "தமிழ்",
+  "direction": "ltr",
+  "speakers_millions": 87,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ta.json"
+}

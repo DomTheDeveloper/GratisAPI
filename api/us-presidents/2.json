@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "number": 2,
+  "name": "John Adams",
+  "party": "Federalist",
+  "term_start": 1797,
+  "term_end": 1801,
+  "vice_president": "Thomas Jefferson",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/2.json"
+}

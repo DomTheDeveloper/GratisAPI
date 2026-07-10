@@ -1,0 +1,9 @@
+{
+  "id": "malawi",
+  "name": "Lake Malawi",
+  "area_km2": 29500,
+  "max_depth_m": 706,
+  "continent": "Africa",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/malawi.json"
+}

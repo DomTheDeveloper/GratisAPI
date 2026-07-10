@@ -1,0 +1,15 @@
+{
+  "id": "atlantic-bluefin-tuna",
+  "common_name": "Atlantic Bluefin Tuna",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Actinopterygii",
+  "order": "Scombriformes",
+  "family": "Scombridae",
+  "genus": "Thunnus",
+  "species": "Thunnus thynnus",
+  "conservation_status": "Least Concern",
+  "habitat": "North Atlantic and Mediterranean",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/atlantic-bluefin-tuna.json"
+}

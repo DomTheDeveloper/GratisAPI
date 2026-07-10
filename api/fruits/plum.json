@@ -1,0 +1,11 @@
+{
+  "id": "plum",
+  "name": "Plum",
+  "scientific_name": "Prunus domestica",
+  "family": "Rosaceae",
+  "type": "Drupe",
+  "color": "Purple",
+  "origin_region": "Eastern Europe and Caucasus",
+  "calories_per_100g": 46,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/plum.json"
+}

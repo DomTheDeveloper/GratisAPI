@@ -1,0 +1,11 @@
+{
+  "id": "emperor-penguin",
+  "common_name": "Emperor Penguin",
+  "scientific_name": "Aptenodytes forsteri",
+  "family": "Spheniscidae",
+  "habitat": "Antarctic ice and seas",
+  "diet": "Carnivore",
+  "wingspan_cm": null,
+  "conservation_status": "Near Threatened",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/emperor-penguin.json"
+}

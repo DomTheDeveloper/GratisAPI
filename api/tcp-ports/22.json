@@ -1,0 +1,8 @@
+{
+  "id": 22,
+  "port": 22,
+  "service": "ssh",
+  "protocol": "TCP",
+  "description": "Secure Shell for encrypted remote login and file transfer.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/22.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chichen-itza",
+  "name": "Chichen Itza",
+  "category": "New",
+  "location": "Mexico",
+  "built": "c. 600 AD",
+  "still_standing": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/chichen-itza.json"
+}

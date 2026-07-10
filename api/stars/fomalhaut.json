@@ -1,0 +1,9 @@
+{
+  "id": "fomalhaut",
+  "name": "Fomalhaut",
+  "constellation": "Piscis Austrinus",
+  "apparent_magnitude": 1.16,
+  "distance_ly": 25.1,
+  "spectral_type": "A3V",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/fomalhaut.json"
+}

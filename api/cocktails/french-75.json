@@ -1,0 +1,9 @@
+{
+  "id": "french-75",
+  "name": "French 75",
+  "base_spirit": "Gin",
+  "type": "Sparkling",
+  "glass": "Flute",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/french-75.json"
+}

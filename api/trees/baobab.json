@@ -1,0 +1,10 @@
+{
+  "id": "baobab",
+  "common_name": "African Baobab",
+  "scientific_name": "Adansonia digitata",
+  "family": "Malvaceae",
+  "type": "Deciduous",
+  "max_height_m": 25,
+  "native_region": "Sub-Saharan Africa",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/baobab.json"
+}

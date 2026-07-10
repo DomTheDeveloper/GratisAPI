@@ -1,0 +1,10 @@
+{
+  "id": "wav",
+  "mime_type": "audio/wav",
+  "name": "WAV Audio",
+  "category": "audio",
+  "extensions": [
+    ".wav"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/wav.json"
+}

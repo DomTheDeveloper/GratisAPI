@@ -1,0 +1,9 @@
+{
+  "id": "yellow-river",
+  "name": "Yellow River (Huang He)",
+  "length_km": 5464,
+  "continent": "Asia",
+  "outflow": "Bohai Sea",
+  "countries": "China",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yellow-river.json"
+}

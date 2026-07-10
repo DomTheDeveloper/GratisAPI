@@ -1,0 +1,10 @@
+{
+  "id": 7,
+  "number": 7,
+  "name": "Andrew Jackson",
+  "party": "Democratic",
+  "term_start": 1829,
+  "term_end": 1837,
+  "vice_president": "Martin Van Buren",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/7.json"
+}

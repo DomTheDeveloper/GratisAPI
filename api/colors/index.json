@@ -4,7 +4,7 @@
   "description": "Named web colors with hex, RGB and HSL values.",
   "emoji": "🎨",
   "license": "GPL-2.0-or-later",
-  "count": 40,
+  "count": 141,
   "self": "https://domthedeveloper.github.io/GratisAPI/api/colors/index.json",
   "endpoints": {
     "list": "https://domthedeveloper.github.io/GratisAPI/api/colors/index.json",
@@ -20,6 +20,132 @@
     "rgb_string"
   ],
   "results": [
+    {
+      "id": "aliceblue",
+      "name": "Alice Blue",
+      "hex": "#F0F8FF",
+      "rgb": {
+        "r": 240,
+        "g": 248,
+        "b": 255
+      },
+      "rgb_string": "rgb(240, 248, 255)",
+      "hsl": {
+        "h": 208,
+        "s": 100,
+        "l": 97
+      },
+      "hsl_string": "hsl(208, 100%, 97%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/aliceblue.json"
+    },
+    {
+      "id": "antiquewhite",
+      "name": "Antique White",
+      "hex": "#FAEBD7",
+      "rgb": {
+        "r": 250,
+        "g": 235,
+        "b": 215
+      },
+      "rgb_string": "rgb(250, 235, 215)",
+      "hsl": {
+        "h": 34,
+        "s": 78,
+        "l": 91
+      },
+      "hsl_string": "hsl(34, 78%, 91%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/antiquewhite.json"
+    },
+    {
+      "id": "aqua",
+      "name": "Aqua",
+      "hex": "#00FFFF",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "rgb_string": "rgb(0, 255, 255)",
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(180, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/aqua.json"
+    },
+    {
+      "id": "aquamarine",
+      "name": "Aquamarine",
+      "hex": "#7FFFD4",
+      "rgb": {
+        "r": 127,
+        "g": 255,
+        "b": 212
+      },
+      "rgb_string": "rgb(127, 255, 212)",
+      "hsl": {
+        "h": 160,
+        "s": 100,
+        "l": 75
+      },
+      "hsl_string": "hsl(160, 100%, 75%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/aquamarine.json"
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "hex": "#F0FFFF",
+      "rgb": {
+        "r": 240,
+        "g": 255,
+        "b": 255
+      },
+      "rgb_string": "rgb(240, 255, 255)",
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 97
+      },
+      "hsl_string": "hsl(180, 100%, 97%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/azure.json"
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "hex": "#F5F5DC",
+      "rgb": {
+        "r": 245,
+        "g": 245,
+        "b": 220
+      },
+      "rgb_string": "rgb(245, 245, 220)",
+      "hsl": {
+        "h": 60,
+        "s": 56,
+        "l": 91
+      },
+      "hsl_string": "hsl(60, 56%, 91%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/beige.json"
+    },
+    {
+      "id": "bisque",
+      "name": "Bisque",
+      "hex": "#FFE4C4",
+      "rgb": {
+        "r": 255,
+        "g": 228,
+        "b": 196
+      },
+      "rgb_string": "rgb(255, 228, 196)",
+      "hsl": {
+        "h": 33,
+        "s": 100,
+        "l": 88
+      },
+      "hsl_string": "hsl(33, 100%, 88%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/bisque.json"
+    },
     {
       "id": "black",
       "name": "Black",
@@ -39,58 +165,22 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/black.json"
     },
     {
-      "id": "white",
-      "name": "White",
-      "hex": "#FFFFFF",
+      "id": "blanchedalmond",
+      "name": "Blanched Almond",
+      "hex": "#FFEBCD",
       "rgb": {
         "r": 255,
-        "g": 255,
-        "b": 255
+        "g": 235,
+        "b": 205
       },
-      "rgb_string": "rgb(255, 255, 255)",
+      "rgb_string": "rgb(255, 235, 205)",
       "hsl": {
-        "h": 0,
-        "s": 0,
-        "l": 100
-      },
-      "hsl_string": "hsl(0, 0%, 100%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/white.json"
-    },
-    {
-      "id": "red",
-      "name": "Red",
-      "hex": "#FF0000",
-      "rgb": {
-        "r": 255,
-        "g": 0,
-        "b": 0
-      },
-      "rgb_string": "rgb(255, 0, 0)",
-      "hsl": {
-        "h": 0,
+        "h": 36,
         "s": 100,
-        "l": 50
+        "l": 90
       },
-      "hsl_string": "hsl(0, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/red.json"
-    },
-    {
-      "id": "lime",
-      "name": "Lime",
-      "hex": "#00FF00",
-      "rgb": {
-        "r": 0,
-        "g": 255,
-        "b": 0
-      },
-      "rgb_string": "rgb(0, 255, 0)",
-      "hsl": {
-        "h": 120,
-        "s": 100,
-        "l": 50
-      },
-      "hsl_string": "hsl(120, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lime.json"
+      "hsl_string": "hsl(36, 100%, 90%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/blanchedalmond.json"
     },
     {
       "id": "blue",
@@ -111,400 +201,22 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/blue.json"
     },
     {
-      "id": "yellow",
-      "name": "Yellow",
-      "hex": "#FFFF00",
+      "id": "blueviolet",
+      "name": "Blue Violet",
+      "hex": "#8A2BE2",
       "rgb": {
-        "r": 255,
-        "g": 255,
-        "b": 0
+        "r": 138,
+        "g": 43,
+        "b": 226
       },
-      "rgb_string": "rgb(255, 255, 0)",
+      "rgb_string": "rgb(138, 43, 226)",
       "hsl": {
-        "h": 60,
-        "s": 100,
-        "l": 50
-      },
-      "hsl_string": "hsl(60, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/yellow.json"
-    },
-    {
-      "id": "cyan",
-      "name": "Cyan",
-      "hex": "#00FFFF",
-      "rgb": {
-        "r": 0,
-        "g": 255,
-        "b": 255
-      },
-      "rgb_string": "rgb(0, 255, 255)",
-      "hsl": {
-        "h": 180,
-        "s": 100,
-        "l": 50
-      },
-      "hsl_string": "hsl(180, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cyan.json"
-    },
-    {
-      "id": "magenta",
-      "name": "Magenta",
-      "hex": "#FF00FF",
-      "rgb": {
-        "r": 255,
-        "g": 0,
-        "b": 255
-      },
-      "rgb_string": "rgb(255, 0, 255)",
-      "hsl": {
-        "h": 300,
-        "s": 100,
-        "l": 50
-      },
-      "hsl_string": "hsl(300, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/magenta.json"
-    },
-    {
-      "id": "silver",
-      "name": "Silver",
-      "hex": "#C0C0C0",
-      "rgb": {
-        "r": 192,
-        "g": 192,
-        "b": 192
-      },
-      "rgb_string": "rgb(192, 192, 192)",
-      "hsl": {
-        "h": 0,
-        "s": 0,
-        "l": 75
-      },
-      "hsl_string": "hsl(0, 0%, 75%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/silver.json"
-    },
-    {
-      "id": "gray",
-      "name": "Gray",
-      "hex": "#808080",
-      "rgb": {
-        "r": 128,
-        "g": 128,
-        "b": 128
-      },
-      "rgb_string": "rgb(128, 128, 128)",
-      "hsl": {
-        "h": 0,
-        "s": 0,
-        "l": 50
-      },
-      "hsl_string": "hsl(0, 0%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/gray.json"
-    },
-    {
-      "id": "maroon",
-      "name": "Maroon",
-      "hex": "#800000",
-      "rgb": {
-        "r": 128,
-        "g": 0,
-        "b": 0
-      },
-      "rgb_string": "rgb(128, 0, 0)",
-      "hsl": {
-        "h": 0,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(0, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/maroon.json"
-    },
-    {
-      "id": "olive",
-      "name": "Olive",
-      "hex": "#808000",
-      "rgb": {
-        "r": 128,
-        "g": 128,
-        "b": 0
-      },
-      "rgb_string": "rgb(128, 128, 0)",
-      "hsl": {
-        "h": 60,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(60, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/olive.json"
-    },
-    {
-      "id": "green",
-      "name": "Green",
-      "hex": "#008000",
-      "rgb": {
-        "r": 0,
-        "g": 128,
-        "b": 0
-      },
-      "rgb_string": "rgb(0, 128, 0)",
-      "hsl": {
-        "h": 120,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(120, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/green.json"
-    },
-    {
-      "id": "purple",
-      "name": "Purple",
-      "hex": "#800080",
-      "rgb": {
-        "r": 128,
-        "g": 0,
-        "b": 128
-      },
-      "rgb_string": "rgb(128, 0, 128)",
-      "hsl": {
-        "h": 300,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(300, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/purple.json"
-    },
-    {
-      "id": "teal",
-      "name": "Teal",
-      "hex": "#008080",
-      "rgb": {
-        "r": 0,
-        "g": 128,
-        "b": 128
-      },
-      "rgb_string": "rgb(0, 128, 128)",
-      "hsl": {
-        "h": 180,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(180, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/teal.json"
-    },
-    {
-      "id": "navy",
-      "name": "Navy",
-      "hex": "#000080",
-      "rgb": {
-        "r": 0,
-        "g": 0,
-        "b": 128
-      },
-      "rgb_string": "rgb(0, 0, 128)",
-      "hsl": {
-        "h": 240,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(240, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/navy.json"
-    },
-    {
-      "id": "orange",
-      "name": "Orange",
-      "hex": "#FFA500",
-      "rgb": {
-        "r": 255,
-        "g": 165,
-        "b": 0
-      },
-      "rgb_string": "rgb(255, 165, 0)",
-      "hsl": {
-        "h": 39,
-        "s": 100,
-        "l": 50
-      },
-      "hsl_string": "hsl(39, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/orange.json"
-    },
-    {
-      "id": "gold",
-      "name": "Gold",
-      "hex": "#FFD700",
-      "rgb": {
-        "r": 255,
-        "g": 215,
-        "b": 0
-      },
-      "rgb_string": "rgb(255, 215, 0)",
-      "hsl": {
-        "h": 51,
-        "s": 100,
-        "l": 50
-      },
-      "hsl_string": "hsl(51, 100%, 50%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/gold.json"
-    },
-    {
-      "id": "pink",
-      "name": "Pink",
-      "hex": "#FFC0CB",
-      "rgb": {
-        "r": 255,
-        "g": 192,
-        "b": 203
-      },
-      "rgb_string": "rgb(255, 192, 203)",
-      "hsl": {
-        "h": 350,
-        "s": 100,
-        "l": 88
-      },
-      "hsl_string": "hsl(350, 100%, 88%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/pink.json"
-    },
-    {
-      "id": "crimson",
-      "name": "Crimson",
-      "hex": "#DC143C",
-      "rgb": {
-        "r": 220,
-        "g": 20,
-        "b": 60
-      },
-      "rgb_string": "rgb(220, 20, 60)",
-      "hsl": {
-        "h": 348,
-        "s": 83,
-        "l": 47
-      },
-      "hsl_string": "hsl(348, 83%, 47%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/crimson.json"
-    },
-    {
-      "id": "indigo",
-      "name": "Indigo",
-      "hex": "#4B0082",
-      "rgb": {
-        "r": 75,
-        "g": 0,
-        "b": 130
-      },
-      "rgb_string": "rgb(75, 0, 130)",
-      "hsl": {
-        "h": 275,
-        "s": 100,
-        "l": 25
-      },
-      "hsl_string": "hsl(275, 100%, 25%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/indigo.json"
-    },
-    {
-      "id": "violet",
-      "name": "Violet",
-      "hex": "#EE82EE",
-      "rgb": {
-        "r": 238,
-        "g": 130,
-        "b": 238
-      },
-      "rgb_string": "rgb(238, 130, 238)",
-      "hsl": {
-        "h": 300,
+        "h": 271,
         "s": 76,
-        "l": 72
+        "l": 53
       },
-      "hsl_string": "hsl(300, 76%, 72%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/violet.json"
-    },
-    {
-      "id": "turquoise",
-      "name": "Turquoise",
-      "hex": "#40E0D0",
-      "rgb": {
-        "r": 64,
-        "g": 224,
-        "b": 208
-      },
-      "rgb_string": "rgb(64, 224, 208)",
-      "hsl": {
-        "h": 174,
-        "s": 72,
-        "l": 56
-      },
-      "hsl_string": "hsl(174, 72%, 56%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/turquoise.json"
-    },
-    {
-      "id": "salmon",
-      "name": "Salmon",
-      "hex": "#FA8072",
-      "rgb": {
-        "r": 250,
-        "g": 128,
-        "b": 114
-      },
-      "rgb_string": "rgb(250, 128, 114)",
-      "hsl": {
-        "h": 6,
-        "s": 93,
-        "l": 71
-      },
-      "hsl_string": "hsl(6, 93%, 71%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/salmon.json"
-    },
-    {
-      "id": "coral",
-      "name": "Coral",
-      "hex": "#FF7F50",
-      "rgb": {
-        "r": 255,
-        "g": 127,
-        "b": 80
-      },
-      "rgb_string": "rgb(255, 127, 80)",
-      "hsl": {
-        "h": 16,
-        "s": 100,
-        "l": 66
-      },
-      "hsl_string": "hsl(16, 100%, 66%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/coral.json"
-    },
-    {
-      "id": "tomato",
-      "name": "Tomato",
-      "hex": "#FF6347",
-      "rgb": {
-        "r": 255,
-        "g": 99,
-        "b": 71
-      },
-      "rgb_string": "rgb(255, 99, 71)",
-      "hsl": {
-        "h": 9,
-        "s": 100,
-        "l": 64
-      },
-      "hsl_string": "hsl(9, 100%, 64%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/tomato.json"
-    },
-    {
-      "id": "chocolate",
-      "name": "Chocolate",
-      "hex": "#D2691E",
-      "rgb": {
-        "r": 210,
-        "g": 105,
-        "b": 30
-      },
-      "rgb_string": "rgb(210, 105, 30)",
-      "hsl": {
-        "h": 25,
-        "s": 75,
-        "l": 47
-      },
-      "hsl_string": "hsl(25, 75%, 47%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/chocolate.json"
+      "hsl_string": "hsl(271, 76%, 53%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/blueviolet.json"
     },
     {
       "id": "brown",
@@ -525,40 +237,814 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/brown.json"
     },
     {
-      "id": "tan",
-      "name": "Tan",
-      "hex": "#D2B48C",
+      "id": "burlywood",
+      "name": "Burly Wood",
+      "hex": "#DEB887",
       "rgb": {
-        "r": 210,
-        "g": 180,
-        "b": 140
+        "r": 222,
+        "g": 184,
+        "b": 135
       },
-      "rgb_string": "rgb(210, 180, 140)",
+      "rgb_string": "rgb(222, 184, 135)",
       "hsl": {
         "h": 34,
-        "s": 44,
-        "l": 69
+        "s": 57,
+        "l": 70
       },
-      "hsl_string": "hsl(34, 44%, 69%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/tan.json"
+      "hsl_string": "hsl(34, 57%, 70%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/burlywood.json"
     },
     {
-      "id": "beige",
-      "name": "Beige",
-      "hex": "#F5F5DC",
+      "id": "cadetblue",
+      "name": "Cadet Blue",
+      "hex": "#5F9EA0",
       "rgb": {
-        "r": 245,
-        "g": 245,
+        "r": 95,
+        "g": 158,
+        "b": 160
+      },
+      "rgb_string": "rgb(95, 158, 160)",
+      "hsl": {
+        "h": 182,
+        "s": 25,
+        "l": 50
+      },
+      "hsl_string": "hsl(182, 25%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cadetblue.json"
+    },
+    {
+      "id": "chartreuse",
+      "name": "Chartreuse",
+      "hex": "#7FFF00",
+      "rgb": {
+        "r": 127,
+        "g": 255,
+        "b": 0
+      },
+      "rgb_string": "rgb(127, 255, 0)",
+      "hsl": {
+        "h": 90,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(90, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/chartreuse.json"
+    },
+    {
+      "id": "chocolate",
+      "name": "Chocolate",
+      "hex": "#D2691E",
+      "rgb": {
+        "r": 210,
+        "g": 105,
+        "b": 30
+      },
+      "rgb_string": "rgb(210, 105, 30)",
+      "hsl": {
+        "h": 25,
+        "s": 75,
+        "l": 47
+      },
+      "hsl_string": "hsl(25, 75%, 47%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/chocolate.json"
+    },
+    {
+      "id": "coral",
+      "name": "Coral",
+      "hex": "#FF7F50",
+      "rgb": {
+        "r": 255,
+        "g": 127,
+        "b": 80
+      },
+      "rgb_string": "rgb(255, 127, 80)",
+      "hsl": {
+        "h": 16,
+        "s": 100,
+        "l": 66
+      },
+      "hsl_string": "hsl(16, 100%, 66%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/coral.json"
+    },
+    {
+      "id": "cornflowerblue",
+      "name": "Cornflower Blue",
+      "hex": "#6495ED",
+      "rgb": {
+        "r": 100,
+        "g": 149,
+        "b": 237
+      },
+      "rgb_string": "rgb(100, 149, 237)",
+      "hsl": {
+        "h": 219,
+        "s": 79,
+        "l": 66
+      },
+      "hsl_string": "hsl(219, 79%, 66%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cornflowerblue.json"
+    },
+    {
+      "id": "cornsilk",
+      "name": "Cornsilk",
+      "hex": "#FFF8DC",
+      "rgb": {
+        "r": 255,
+        "g": 248,
         "b": 220
       },
-      "rgb_string": "rgb(245, 245, 220)",
+      "rgb_string": "rgb(255, 248, 220)",
       "hsl": {
-        "h": 60,
-        "s": 56,
-        "l": 91
+        "h": 48,
+        "s": 100,
+        "l": 93
       },
-      "hsl_string": "hsl(60, 56%, 91%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/beige.json"
+      "hsl_string": "hsl(48, 100%, 93%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cornsilk.json"
+    },
+    {
+      "id": "crimson",
+      "name": "Crimson",
+      "hex": "#DC143C",
+      "rgb": {
+        "r": 220,
+        "g": 20,
+        "b": 60
+      },
+      "rgb_string": "rgb(220, 20, 60)",
+      "hsl": {
+        "h": 348,
+        "s": 83,
+        "l": 47
+      },
+      "hsl_string": "hsl(348, 83%, 47%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/crimson.json"
+    },
+    {
+      "id": "cyan",
+      "name": "Cyan",
+      "hex": "#00FFFF",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 255
+      },
+      "rgb_string": "rgb(0, 255, 255)",
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(180, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cyan.json"
+    },
+    {
+      "id": "darkblue",
+      "name": "Dark Blue",
+      "hex": "#00008B",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 139
+      },
+      "rgb_string": "rgb(0, 0, 139)",
+      "hsl": {
+        "h": 240,
+        "s": 100,
+        "l": 27
+      },
+      "hsl_string": "hsl(240, 100%, 27%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkblue.json"
+    },
+    {
+      "id": "darkcyan",
+      "name": "Dark Cyan",
+      "hex": "#008B8B",
+      "rgb": {
+        "r": 0,
+        "g": 139,
+        "b": 139
+      },
+      "rgb_string": "rgb(0, 139, 139)",
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 27
+      },
+      "hsl_string": "hsl(180, 100%, 27%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkcyan.json"
+    },
+    {
+      "id": "darkgoldenrod",
+      "name": "Dark Goldenrod",
+      "hex": "#B8860B",
+      "rgb": {
+        "r": 184,
+        "g": 134,
+        "b": 11
+      },
+      "rgb_string": "rgb(184, 134, 11)",
+      "hsl": {
+        "h": 43,
+        "s": 89,
+        "l": 38
+      },
+      "hsl_string": "hsl(43, 89%, 38%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkgoldenrod.json"
+    },
+    {
+      "id": "darkgray",
+      "name": "Dark Gray",
+      "hex": "#A9A9A9",
+      "rgb": {
+        "r": 169,
+        "g": 169,
+        "b": 169
+      },
+      "rgb_string": "rgb(169, 169, 169)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 66
+      },
+      "hsl_string": "hsl(0, 0%, 66%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkgray.json"
+    },
+    {
+      "id": "darkgreen",
+      "name": "Dark Green",
+      "hex": "#006400",
+      "rgb": {
+        "r": 0,
+        "g": 100,
+        "b": 0
+      },
+      "rgb_string": "rgb(0, 100, 0)",
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 20
+      },
+      "hsl_string": "hsl(120, 100%, 20%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkgreen.json"
+    },
+    {
+      "id": "darkkhaki",
+      "name": "Dark Khaki",
+      "hex": "#BDB76B",
+      "rgb": {
+        "r": 189,
+        "g": 183,
+        "b": 107
+      },
+      "rgb_string": "rgb(189, 183, 107)",
+      "hsl": {
+        "h": 56,
+        "s": 38,
+        "l": 58
+      },
+      "hsl_string": "hsl(56, 38%, 58%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkkhaki.json"
+    },
+    {
+      "id": "darkmagenta",
+      "name": "Dark Magenta",
+      "hex": "#8B008B",
+      "rgb": {
+        "r": 139,
+        "g": 0,
+        "b": 139
+      },
+      "rgb_string": "rgb(139, 0, 139)",
+      "hsl": {
+        "h": 300,
+        "s": 100,
+        "l": 27
+      },
+      "hsl_string": "hsl(300, 100%, 27%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkmagenta.json"
+    },
+    {
+      "id": "darkolivegreen",
+      "name": "Dark Olive Green",
+      "hex": "#556B2F",
+      "rgb": {
+        "r": 85,
+        "g": 107,
+        "b": 47
+      },
+      "rgb_string": "rgb(85, 107, 47)",
+      "hsl": {
+        "h": 82,
+        "s": 39,
+        "l": 30
+      },
+      "hsl_string": "hsl(82, 39%, 30%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkolivegreen.json"
+    },
+    {
+      "id": "darkorange",
+      "name": "Dark Orange",
+      "hex": "#FF8C00",
+      "rgb": {
+        "r": 255,
+        "g": 140,
+        "b": 0
+      },
+      "rgb_string": "rgb(255, 140, 0)",
+      "hsl": {
+        "h": 33,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(33, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkorange.json"
+    },
+    {
+      "id": "darkorchid",
+      "name": "Dark Orchid",
+      "hex": "#9932CC",
+      "rgb": {
+        "r": 153,
+        "g": 50,
+        "b": 204
+      },
+      "rgb_string": "rgb(153, 50, 204)",
+      "hsl": {
+        "h": 280,
+        "s": 61,
+        "l": 50
+      },
+      "hsl_string": "hsl(280, 61%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkorchid.json"
+    },
+    {
+      "id": "darkred",
+      "name": "Dark Red",
+      "hex": "#8B0000",
+      "rgb": {
+        "r": 139,
+        "g": 0,
+        "b": 0
+      },
+      "rgb_string": "rgb(139, 0, 0)",
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 27
+      },
+      "hsl_string": "hsl(0, 100%, 27%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkred.json"
+    },
+    {
+      "id": "darksalmon",
+      "name": "Dark Salmon",
+      "hex": "#E9967A",
+      "rgb": {
+        "r": 233,
+        "g": 150,
+        "b": 122
+      },
+      "rgb_string": "rgb(233, 150, 122)",
+      "hsl": {
+        "h": 15,
+        "s": 72,
+        "l": 70
+      },
+      "hsl_string": "hsl(15, 72%, 70%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darksalmon.json"
+    },
+    {
+      "id": "darkseagreen",
+      "name": "Dark Sea Green",
+      "hex": "#8FBC8F",
+      "rgb": {
+        "r": 143,
+        "g": 188,
+        "b": 143
+      },
+      "rgb_string": "rgb(143, 188, 143)",
+      "hsl": {
+        "h": 120,
+        "s": 25,
+        "l": 65
+      },
+      "hsl_string": "hsl(120, 25%, 65%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkseagreen.json"
+    },
+    {
+      "id": "darkslateblue",
+      "name": "Dark Slate Blue",
+      "hex": "#483D8B",
+      "rgb": {
+        "r": 72,
+        "g": 61,
+        "b": 139
+      },
+      "rgb_string": "rgb(72, 61, 139)",
+      "hsl": {
+        "h": 248,
+        "s": 39,
+        "l": 39
+      },
+      "hsl_string": "hsl(248, 39%, 39%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkslateblue.json"
+    },
+    {
+      "id": "darkslategray",
+      "name": "Dark Slate Gray",
+      "hex": "#2F4F4F",
+      "rgb": {
+        "r": 47,
+        "g": 79,
+        "b": 79
+      },
+      "rgb_string": "rgb(47, 79, 79)",
+      "hsl": {
+        "h": 180,
+        "s": 25,
+        "l": 25
+      },
+      "hsl_string": "hsl(180, 25%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkslategray.json"
+    },
+    {
+      "id": "darkturquoise",
+      "name": "Dark Turquoise",
+      "hex": "#00CED1",
+      "rgb": {
+        "r": 0,
+        "g": 206,
+        "b": 209
+      },
+      "rgb_string": "rgb(0, 206, 209)",
+      "hsl": {
+        "h": 181,
+        "s": 100,
+        "l": 41
+      },
+      "hsl_string": "hsl(181, 100%, 41%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkturquoise.json"
+    },
+    {
+      "id": "darkviolet",
+      "name": "Dark Violet",
+      "hex": "#9400D3",
+      "rgb": {
+        "r": 148,
+        "g": 0,
+        "b": 211
+      },
+      "rgb_string": "rgb(148, 0, 211)",
+      "hsl": {
+        "h": 282,
+        "s": 100,
+        "l": 41
+      },
+      "hsl_string": "hsl(282, 100%, 41%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkviolet.json"
+    },
+    {
+      "id": "deeppink",
+      "name": "Deep Pink",
+      "hex": "#FF1493",
+      "rgb": {
+        "r": 255,
+        "g": 20,
+        "b": 147
+      },
+      "rgb_string": "rgb(255, 20, 147)",
+      "hsl": {
+        "h": 328,
+        "s": 100,
+        "l": 54
+      },
+      "hsl_string": "hsl(328, 100%, 54%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/deeppink.json"
+    },
+    {
+      "id": "deepskyblue",
+      "name": "Deep Sky Blue",
+      "hex": "#00BFFF",
+      "rgb": {
+        "r": 0,
+        "g": 191,
+        "b": 255
+      },
+      "rgb_string": "rgb(0, 191, 255)",
+      "hsl": {
+        "h": 195,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(195, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/deepskyblue.json"
+    },
+    {
+      "id": "dimgray",
+      "name": "Dim Gray",
+      "hex": "#696969",
+      "rgb": {
+        "r": 105,
+        "g": 105,
+        "b": 105
+      },
+      "rgb_string": "rgb(105, 105, 105)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 41
+      },
+      "hsl_string": "hsl(0, 0%, 41%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/dimgray.json"
+    },
+    {
+      "id": "dodgerblue",
+      "name": "Dodger Blue",
+      "hex": "#1E90FF",
+      "rgb": {
+        "r": 30,
+        "g": 144,
+        "b": 255
+      },
+      "rgb_string": "rgb(30, 144, 255)",
+      "hsl": {
+        "h": 210,
+        "s": 100,
+        "l": 56
+      },
+      "hsl_string": "hsl(210, 100%, 56%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/dodgerblue.json"
+    },
+    {
+      "id": "firebrick",
+      "name": "Fire Brick",
+      "hex": "#B22222",
+      "rgb": {
+        "r": 178,
+        "g": 34,
+        "b": 34
+      },
+      "rgb_string": "rgb(178, 34, 34)",
+      "hsl": {
+        "h": 0,
+        "s": 68,
+        "l": 42
+      },
+      "hsl_string": "hsl(0, 68%, 42%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/firebrick.json"
+    },
+    {
+      "id": "floralwhite",
+      "name": "Floral White",
+      "hex": "#FFFAF0",
+      "rgb": {
+        "r": 255,
+        "g": 250,
+        "b": 240
+      },
+      "rgb_string": "rgb(255, 250, 240)",
+      "hsl": {
+        "h": 40,
+        "s": 100,
+        "l": 97
+      },
+      "hsl_string": "hsl(40, 100%, 97%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/floralwhite.json"
+    },
+    {
+      "id": "forestgreen",
+      "name": "Forest Green",
+      "hex": "#228B22",
+      "rgb": {
+        "r": 34,
+        "g": 139,
+        "b": 34
+      },
+      "rgb_string": "rgb(34, 139, 34)",
+      "hsl": {
+        "h": 120,
+        "s": 61,
+        "l": 34
+      },
+      "hsl_string": "hsl(120, 61%, 34%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/forestgreen.json"
+    },
+    {
+      "id": "fuchsia",
+      "name": "Fuchsia",
+      "hex": "#FF00FF",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 255
+      },
+      "rgb_string": "rgb(255, 0, 255)",
+      "hsl": {
+        "h": 300,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(300, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/fuchsia.json"
+    },
+    {
+      "id": "gainsboro",
+      "name": "Gainsboro",
+      "hex": "#DCDCDC",
+      "rgb": {
+        "r": 220,
+        "g": 220,
+        "b": 220
+      },
+      "rgb_string": "rgb(220, 220, 220)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 86
+      },
+      "hsl_string": "hsl(0, 0%, 86%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/gainsboro.json"
+    },
+    {
+      "id": "ghostwhite",
+      "name": "Ghost White",
+      "hex": "#F8F8FF",
+      "rgb": {
+        "r": 248,
+        "g": 248,
+        "b": 255
+      },
+      "rgb_string": "rgb(248, 248, 255)",
+      "hsl": {
+        "h": 240,
+        "s": 100,
+        "l": 99
+      },
+      "hsl_string": "hsl(240, 100%, 99%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/ghostwhite.json"
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "hex": "#FFD700",
+      "rgb": {
+        "r": 255,
+        "g": 215,
+        "b": 0
+      },
+      "rgb_string": "rgb(255, 215, 0)",
+      "hsl": {
+        "h": 51,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(51, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/gold.json"
+    },
+    {
+      "id": "goldenrod",
+      "name": "Goldenrod",
+      "hex": "#DAA520",
+      "rgb": {
+        "r": 218,
+        "g": 165,
+        "b": 32
+      },
+      "rgb_string": "rgb(218, 165, 32)",
+      "hsl": {
+        "h": 43,
+        "s": 74,
+        "l": 49
+      },
+      "hsl_string": "hsl(43, 74%, 49%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/goldenrod.json"
+    },
+    {
+      "id": "gray",
+      "name": "Gray",
+      "hex": "#808080",
+      "rgb": {
+        "r": 128,
+        "g": 128,
+        "b": 128
+      },
+      "rgb_string": "rgb(128, 128, 128)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 50
+      },
+      "hsl_string": "hsl(0, 0%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/gray.json"
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "hex": "#008000",
+      "rgb": {
+        "r": 0,
+        "g": 128,
+        "b": 0
+      },
+      "rgb_string": "rgb(0, 128, 0)",
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(120, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/green.json"
+    },
+    {
+      "id": "greenyellow",
+      "name": "Green Yellow",
+      "hex": "#ADFF2F",
+      "rgb": {
+        "r": 173,
+        "g": 255,
+        "b": 47
+      },
+      "rgb_string": "rgb(173, 255, 47)",
+      "hsl": {
+        "h": 84,
+        "s": 100,
+        "l": 59
+      },
+      "hsl_string": "hsl(84, 100%, 59%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/greenyellow.json"
+    },
+    {
+      "id": "honeydew",
+      "name": "Honeydew",
+      "hex": "#F0FFF0",
+      "rgb": {
+        "r": 240,
+        "g": 255,
+        "b": 240
+      },
+      "rgb_string": "rgb(240, 255, 240)",
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 97
+      },
+      "hsl_string": "hsl(120, 100%, 97%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/honeydew.json"
+    },
+    {
+      "id": "hotpink",
+      "name": "Hot Pink",
+      "hex": "#FF69B4",
+      "rgb": {
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      "rgb_string": "rgb(255, 105, 180)",
+      "hsl": {
+        "h": 330,
+        "s": 100,
+        "l": 71
+      },
+      "hsl_string": "hsl(330, 100%, 71%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/hotpink.json"
+    },
+    {
+      "id": "indianred",
+      "name": "Indian Red",
+      "hex": "#CD5C5C",
+      "rgb": {
+        "r": 205,
+        "g": 92,
+        "b": 92
+      },
+      "rgb_string": "rgb(205, 92, 92)",
+      "hsl": {
+        "h": 0,
+        "s": 53,
+        "l": 58
+      },
+      "hsl_string": "hsl(0, 53%, 58%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/indianred.json"
+    },
+    {
+      "id": "indigo",
+      "name": "Indigo",
+      "hex": "#4B0082",
+      "rgb": {
+        "r": 75,
+        "g": 0,
+        "b": 130
+      },
+      "rgb_string": "rgb(75, 0, 130)",
+      "hsl": {
+        "h": 275,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(275, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/indigo.json"
     },
     {
       "id": "ivory",
@@ -615,22 +1101,742 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lavender.json"
     },
     {
-      "id": "plum",
-      "name": "Plum",
-      "hex": "#DDA0DD",
+      "id": "lavenderblush",
+      "name": "Lavender Blush",
+      "hex": "#FFF0F5",
       "rgb": {
-        "r": 221,
-        "g": 160,
-        "b": 221
+        "r": 255,
+        "g": 240,
+        "b": 245
       },
-      "rgb_string": "rgb(221, 160, 221)",
+      "rgb_string": "rgb(255, 240, 245)",
       "hsl": {
-        "h": 300,
-        "s": 47,
+        "h": 340,
+        "s": 100,
+        "l": 97
+      },
+      "hsl_string": "hsl(340, 100%, 97%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lavenderblush.json"
+    },
+    {
+      "id": "lawngreen",
+      "name": "Lawn Green",
+      "hex": "#7CFC00",
+      "rgb": {
+        "r": 124,
+        "g": 252,
+        "b": 0
+      },
+      "rgb_string": "rgb(124, 252, 0)",
+      "hsl": {
+        "h": 90,
+        "s": 100,
+        "l": 49
+      },
+      "hsl_string": "hsl(90, 100%, 49%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lawngreen.json"
+    },
+    {
+      "id": "lemonchiffon",
+      "name": "Lemon Chiffon",
+      "hex": "#FFFACD",
+      "rgb": {
+        "r": 255,
+        "g": 250,
+        "b": 205
+      },
+      "rgb_string": "rgb(255, 250, 205)",
+      "hsl": {
+        "h": 54,
+        "s": 100,
+        "l": 90
+      },
+      "hsl_string": "hsl(54, 100%, 90%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lemonchiffon.json"
+    },
+    {
+      "id": "lightblue",
+      "name": "Light Blue",
+      "hex": "#ADD8E6",
+      "rgb": {
+        "r": 173,
+        "g": 216,
+        "b": 230
+      },
+      "rgb_string": "rgb(173, 216, 230)",
+      "hsl": {
+        "h": 195,
+        "s": 53,
+        "l": 79
+      },
+      "hsl_string": "hsl(195, 53%, 79%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightblue.json"
+    },
+    {
+      "id": "lightcoral",
+      "name": "Light Coral",
+      "hex": "#F08080",
+      "rgb": {
+        "r": 240,
+        "g": 128,
+        "b": 128
+      },
+      "rgb_string": "rgb(240, 128, 128)",
+      "hsl": {
+        "h": 0,
+        "s": 79,
+        "l": 72
+      },
+      "hsl_string": "hsl(0, 79%, 72%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightcoral.json"
+    },
+    {
+      "id": "lightcyan",
+      "name": "Light Cyan",
+      "hex": "#E0FFFF",
+      "rgb": {
+        "r": 224,
+        "g": 255,
+        "b": 255
+      },
+      "rgb_string": "rgb(224, 255, 255)",
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 94
+      },
+      "hsl_string": "hsl(180, 100%, 94%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightcyan.json"
+    },
+    {
+      "id": "lightgoldenrodyellow",
+      "name": "Light Goldenrod Yellow",
+      "hex": "#FAFAD2",
+      "rgb": {
+        "r": 250,
+        "g": 250,
+        "b": 210
+      },
+      "rgb_string": "rgb(250, 250, 210)",
+      "hsl": {
+        "h": 60,
+        "s": 80,
+        "l": 90
+      },
+      "hsl_string": "hsl(60, 80%, 90%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightgoldenrodyellow.json"
+    },
+    {
+      "id": "lightgray",
+      "name": "Light Gray",
+      "hex": "#D3D3D3",
+      "rgb": {
+        "r": 211,
+        "g": 211,
+        "b": 211
+      },
+      "rgb_string": "rgb(211, 211, 211)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 83
+      },
+      "hsl_string": "hsl(0, 0%, 83%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightgray.json"
+    },
+    {
+      "id": "lightgreen",
+      "name": "Light Green",
+      "hex": "#90EE90",
+      "rgb": {
+        "r": 144,
+        "g": 238,
+        "b": 144
+      },
+      "rgb_string": "rgb(144, 238, 144)",
+      "hsl": {
+        "h": 120,
+        "s": 73,
         "l": 75
       },
-      "hsl_string": "hsl(300, 47%, 75%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/plum.json"
+      "hsl_string": "hsl(120, 73%, 75%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightgreen.json"
+    },
+    {
+      "id": "lightpink",
+      "name": "Light Pink",
+      "hex": "#FFB6C1",
+      "rgb": {
+        "r": 255,
+        "g": 182,
+        "b": 193
+      },
+      "rgb_string": "rgb(255, 182, 193)",
+      "hsl": {
+        "h": 351,
+        "s": 100,
+        "l": 86
+      },
+      "hsl_string": "hsl(351, 100%, 86%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightpink.json"
+    },
+    {
+      "id": "lightsalmon",
+      "name": "Light Salmon",
+      "hex": "#FFA07A",
+      "rgb": {
+        "r": 255,
+        "g": 160,
+        "b": 122
+      },
+      "rgb_string": "rgb(255, 160, 122)",
+      "hsl": {
+        "h": 17,
+        "s": 100,
+        "l": 74
+      },
+      "hsl_string": "hsl(17, 100%, 74%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightsalmon.json"
+    },
+    {
+      "id": "lightseagreen",
+      "name": "Light Sea Green",
+      "hex": "#20B2AA",
+      "rgb": {
+        "r": 32,
+        "g": 178,
+        "b": 170
+      },
+      "rgb_string": "rgb(32, 178, 170)",
+      "hsl": {
+        "h": 177,
+        "s": 70,
+        "l": 41
+      },
+      "hsl_string": "hsl(177, 70%, 41%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightseagreen.json"
+    },
+    {
+      "id": "lightskyblue",
+      "name": "Light Sky Blue",
+      "hex": "#87CEFA",
+      "rgb": {
+        "r": 135,
+        "g": 206,
+        "b": 250
+      },
+      "rgb_string": "rgb(135, 206, 250)",
+      "hsl": {
+        "h": 203,
+        "s": 92,
+        "l": 75
+      },
+      "hsl_string": "hsl(203, 92%, 75%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightskyblue.json"
+    },
+    {
+      "id": "lightslategray",
+      "name": "Light Slate Gray",
+      "hex": "#778899",
+      "rgb": {
+        "r": 119,
+        "g": 136,
+        "b": 153
+      },
+      "rgb_string": "rgb(119, 136, 153)",
+      "hsl": {
+        "h": 210,
+        "s": 14,
+        "l": 53
+      },
+      "hsl_string": "hsl(210, 14%, 53%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightslategray.json"
+    },
+    {
+      "id": "lightsteelblue",
+      "name": "Light Steel Blue",
+      "hex": "#B0C4DE",
+      "rgb": {
+        "r": 176,
+        "g": 196,
+        "b": 222
+      },
+      "rgb_string": "rgb(176, 196, 222)",
+      "hsl": {
+        "h": 214,
+        "s": 41,
+        "l": 78
+      },
+      "hsl_string": "hsl(214, 41%, 78%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightsteelblue.json"
+    },
+    {
+      "id": "lightyellow",
+      "name": "Light Yellow",
+      "hex": "#FFFFE0",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 224
+      },
+      "rgb_string": "rgb(255, 255, 224)",
+      "hsl": {
+        "h": 60,
+        "s": 100,
+        "l": 94
+      },
+      "hsl_string": "hsl(60, 100%, 94%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightyellow.json"
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "hex": "#00FF00",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 0
+      },
+      "rgb_string": "rgb(0, 255, 0)",
+      "hsl": {
+        "h": 120,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(120, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lime.json"
+    },
+    {
+      "id": "limegreen",
+      "name": "Lime Green",
+      "hex": "#32CD32",
+      "rgb": {
+        "r": 50,
+        "g": 205,
+        "b": 50
+      },
+      "rgb_string": "rgb(50, 205, 50)",
+      "hsl": {
+        "h": 120,
+        "s": 61,
+        "l": 50
+      },
+      "hsl_string": "hsl(120, 61%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/limegreen.json"
+    },
+    {
+      "id": "linen",
+      "name": "Linen",
+      "hex": "#FAF0E6",
+      "rgb": {
+        "r": 250,
+        "g": 240,
+        "b": 230
+      },
+      "rgb_string": "rgb(250, 240, 230)",
+      "hsl": {
+        "h": 30,
+        "s": 67,
+        "l": 94
+      },
+      "hsl_string": "hsl(30, 67%, 94%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/linen.json"
+    },
+    {
+      "id": "magenta",
+      "name": "Magenta",
+      "hex": "#FF00FF",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 255
+      },
+      "rgb_string": "rgb(255, 0, 255)",
+      "hsl": {
+        "h": 300,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(300, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/magenta.json"
+    },
+    {
+      "id": "maroon",
+      "name": "Maroon",
+      "hex": "#800000",
+      "rgb": {
+        "r": 128,
+        "g": 0,
+        "b": 0
+      },
+      "rgb_string": "rgb(128, 0, 0)",
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(0, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/maroon.json"
+    },
+    {
+      "id": "mediumaquamarine",
+      "name": "Medium Aquamarine",
+      "hex": "#66CDAA",
+      "rgb": {
+        "r": 102,
+        "g": 205,
+        "b": 170
+      },
+      "rgb_string": "rgb(102, 205, 170)",
+      "hsl": {
+        "h": 160,
+        "s": 51,
+        "l": 60
+      },
+      "hsl_string": "hsl(160, 51%, 60%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumaquamarine.json"
+    },
+    {
+      "id": "mediumblue",
+      "name": "Medium Blue",
+      "hex": "#0000CD",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 205
+      },
+      "rgb_string": "rgb(0, 0, 205)",
+      "hsl": {
+        "h": 240,
+        "s": 100,
+        "l": 40
+      },
+      "hsl_string": "hsl(240, 100%, 40%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumblue.json"
+    },
+    {
+      "id": "mediumorchid",
+      "name": "Medium Orchid",
+      "hex": "#BA55D3",
+      "rgb": {
+        "r": 186,
+        "g": 85,
+        "b": 211
+      },
+      "rgb_string": "rgb(186, 85, 211)",
+      "hsl": {
+        "h": 288,
+        "s": 59,
+        "l": 58
+      },
+      "hsl_string": "hsl(288, 59%, 58%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumorchid.json"
+    },
+    {
+      "id": "mediumpurple",
+      "name": "Medium Purple",
+      "hex": "#9370DB",
+      "rgb": {
+        "r": 147,
+        "g": 112,
+        "b": 219
+      },
+      "rgb_string": "rgb(147, 112, 219)",
+      "hsl": {
+        "h": 260,
+        "s": 60,
+        "l": 65
+      },
+      "hsl_string": "hsl(260, 60%, 65%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumpurple.json"
+    },
+    {
+      "id": "mediumseagreen",
+      "name": "Medium Sea Green",
+      "hex": "#3CB371",
+      "rgb": {
+        "r": 60,
+        "g": 179,
+        "b": 113
+      },
+      "rgb_string": "rgb(60, 179, 113)",
+      "hsl": {
+        "h": 147,
+        "s": 50,
+        "l": 47
+      },
+      "hsl_string": "hsl(147, 50%, 47%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumseagreen.json"
+    },
+    {
+      "id": "mediumslateblue",
+      "name": "Medium Slate Blue",
+      "hex": "#7B68EE",
+      "rgb": {
+        "r": 123,
+        "g": 104,
+        "b": 238
+      },
+      "rgb_string": "rgb(123, 104, 238)",
+      "hsl": {
+        "h": 249,
+        "s": 80,
+        "l": 67
+      },
+      "hsl_string": "hsl(249, 80%, 67%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumslateblue.json"
+    },
+    {
+      "id": "mediumspringgreen",
+      "name": "Medium Spring Green",
+      "hex": "#00FA9A",
+      "rgb": {
+        "r": 0,
+        "g": 250,
+        "b": 154
+      },
+      "rgb_string": "rgb(0, 250, 154)",
+      "hsl": {
+        "h": 157,
+        "s": 100,
+        "l": 49
+      },
+      "hsl_string": "hsl(157, 100%, 49%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumspringgreen.json"
+    },
+    {
+      "id": "mediumturquoise",
+      "name": "Medium Turquoise",
+      "hex": "#48D1CC",
+      "rgb": {
+        "r": 72,
+        "g": 209,
+        "b": 204
+      },
+      "rgb_string": "rgb(72, 209, 204)",
+      "hsl": {
+        "h": 178,
+        "s": 60,
+        "l": 55
+      },
+      "hsl_string": "hsl(178, 60%, 55%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumturquoise.json"
+    },
+    {
+      "id": "mediumvioletred",
+      "name": "Medium Violet Red",
+      "hex": "#C71585",
+      "rgb": {
+        "r": 199,
+        "g": 21,
+        "b": 133
+      },
+      "rgb_string": "rgb(199, 21, 133)",
+      "hsl": {
+        "h": 322,
+        "s": 81,
+        "l": 43
+      },
+      "hsl_string": "hsl(322, 81%, 43%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumvioletred.json"
+    },
+    {
+      "id": "midnightblue",
+      "name": "Midnight Blue",
+      "hex": "#191970",
+      "rgb": {
+        "r": 25,
+        "g": 25,
+        "b": 112
+      },
+      "rgb_string": "rgb(25, 25, 112)",
+      "hsl": {
+        "h": 240,
+        "s": 64,
+        "l": 27
+      },
+      "hsl_string": "hsl(240, 64%, 27%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/midnightblue.json"
+    },
+    {
+      "id": "mintcream",
+      "name": "Mint Cream",
+      "hex": "#F5FFFA",
+      "rgb": {
+        "r": 245,
+        "g": 255,
+        "b": 250
+      },
+      "rgb_string": "rgb(245, 255, 250)",
+      "hsl": {
+        "h": 150,
+        "s": 100,
+        "l": 98
+      },
+      "hsl_string": "hsl(150, 100%, 98%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mintcream.json"
+    },
+    {
+      "id": "mistyrose",
+      "name": "Misty Rose",
+      "hex": "#FFE4E1",
+      "rgb": {
+        "r": 255,
+        "g": 228,
+        "b": 225
+      },
+      "rgb_string": "rgb(255, 228, 225)",
+      "hsl": {
+        "h": 6,
+        "s": 100,
+        "l": 94
+      },
+      "hsl_string": "hsl(6, 100%, 94%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mistyrose.json"
+    },
+    {
+      "id": "moccasin",
+      "name": "Moccasin",
+      "hex": "#FFE4B5",
+      "rgb": {
+        "r": 255,
+        "g": 228,
+        "b": 181
+      },
+      "rgb_string": "rgb(255, 228, 181)",
+      "hsl": {
+        "h": 38,
+        "s": 100,
+        "l": 85
+      },
+      "hsl_string": "hsl(38, 100%, 85%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/moccasin.json"
+    },
+    {
+      "id": "navajowhite",
+      "name": "Navajo White",
+      "hex": "#FFDEAD",
+      "rgb": {
+        "r": 255,
+        "g": 222,
+        "b": 173
+      },
+      "rgb_string": "rgb(255, 222, 173)",
+      "hsl": {
+        "h": 36,
+        "s": 100,
+        "l": 84
+      },
+      "hsl_string": "hsl(36, 100%, 84%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/navajowhite.json"
+    },
+    {
+      "id": "navy",
+      "name": "Navy",
+      "hex": "#000080",
+      "rgb": {
+        "r": 0,
+        "g": 0,
+        "b": 128
+      },
+      "rgb_string": "rgb(0, 0, 128)",
+      "hsl": {
+        "h": 240,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(240, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/navy.json"
+    },
+    {
+      "id": "oldlace",
+      "name": "Old Lace",
+      "hex": "#FDF5E6",
+      "rgb": {
+        "r": 253,
+        "g": 245,
+        "b": 230
+      },
+      "rgb_string": "rgb(253, 245, 230)",
+      "hsl": {
+        "h": 39,
+        "s": 85,
+        "l": 95
+      },
+      "hsl_string": "hsl(39, 85%, 95%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/oldlace.json"
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "hex": "#808000",
+      "rgb": {
+        "r": 128,
+        "g": 128,
+        "b": 0
+      },
+      "rgb_string": "rgb(128, 128, 0)",
+      "hsl": {
+        "h": 60,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(60, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/olive.json"
+    },
+    {
+      "id": "olivedrab",
+      "name": "Olive Drab",
+      "hex": "#6B8E23",
+      "rgb": {
+        "r": 107,
+        "g": 142,
+        "b": 35
+      },
+      "rgb_string": "rgb(107, 142, 35)",
+      "hsl": {
+        "h": 80,
+        "s": 60,
+        "l": 35
+      },
+      "hsl_string": "hsl(80, 60%, 35%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/olivedrab.json"
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "hex": "#FFA500",
+      "rgb": {
+        "r": 255,
+        "g": 165,
+        "b": 0
+      },
+      "rgb_string": "rgb(255, 165, 0)",
+      "hsl": {
+        "h": 39,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(39, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/orange.json"
+    },
+    {
+      "id": "orangered",
+      "name": "Orange Red",
+      "hex": "#FF4500",
+      "rgb": {
+        "r": 255,
+        "g": 69,
+        "b": 0
+      },
+      "rgb_string": "rgb(255, 69, 0)",
+      "hsl": {
+        "h": 16,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(16, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/orangered.json"
     },
     {
       "id": "orchid",
@@ -651,22 +1857,256 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/orchid.json"
     },
     {
-      "id": "skyblue",
-      "name": "Sky Blue",
-      "hex": "#87CEEB",
+      "id": "palegoldenrod",
+      "name": "Pale Goldenrod",
+      "hex": "#EEE8AA",
       "rgb": {
-        "r": 135,
-        "g": 206,
-        "b": 235
+        "r": 238,
+        "g": 232,
+        "b": 170
       },
-      "rgb_string": "rgb(135, 206, 235)",
+      "rgb_string": "rgb(238, 232, 170)",
       "hsl": {
-        "h": 197,
-        "s": 71,
-        "l": 73
+        "h": 55,
+        "s": 67,
+        "l": 80
       },
-      "hsl_string": "hsl(197, 71%, 73%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/skyblue.json"
+      "hsl_string": "hsl(55, 67%, 80%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/palegoldenrod.json"
+    },
+    {
+      "id": "palegreen",
+      "name": "Pale Green",
+      "hex": "#98FB98",
+      "rgb": {
+        "r": 152,
+        "g": 251,
+        "b": 152
+      },
+      "rgb_string": "rgb(152, 251, 152)",
+      "hsl": {
+        "h": 120,
+        "s": 93,
+        "l": 79
+      },
+      "hsl_string": "hsl(120, 93%, 79%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/palegreen.json"
+    },
+    {
+      "id": "paleturquoise",
+      "name": "Pale Turquoise",
+      "hex": "#AFEEEE",
+      "rgb": {
+        "r": 175,
+        "g": 238,
+        "b": 238
+      },
+      "rgb_string": "rgb(175, 238, 238)",
+      "hsl": {
+        "h": 180,
+        "s": 65,
+        "l": 81
+      },
+      "hsl_string": "hsl(180, 65%, 81%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/paleturquoise.json"
+    },
+    {
+      "id": "palevioletred",
+      "name": "Pale Violet Red",
+      "hex": "#DB7093",
+      "rgb": {
+        "r": 219,
+        "g": 112,
+        "b": 147
+      },
+      "rgb_string": "rgb(219, 112, 147)",
+      "hsl": {
+        "h": 340,
+        "s": 60,
+        "l": 65
+      },
+      "hsl_string": "hsl(340, 60%, 65%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/palevioletred.json"
+    },
+    {
+      "id": "papayawhip",
+      "name": "Papaya Whip",
+      "hex": "#FFEFD5",
+      "rgb": {
+        "r": 255,
+        "g": 239,
+        "b": 213
+      },
+      "rgb_string": "rgb(255, 239, 213)",
+      "hsl": {
+        "h": 37,
+        "s": 100,
+        "l": 92
+      },
+      "hsl_string": "hsl(37, 100%, 92%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/papayawhip.json"
+    },
+    {
+      "id": "peachpuff",
+      "name": "Peach Puff",
+      "hex": "#FFDAB9",
+      "rgb": {
+        "r": 255,
+        "g": 218,
+        "b": 185
+      },
+      "rgb_string": "rgb(255, 218, 185)",
+      "hsl": {
+        "h": 28,
+        "s": 100,
+        "l": 86
+      },
+      "hsl_string": "hsl(28, 100%, 86%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/peachpuff.json"
+    },
+    {
+      "id": "peru",
+      "name": "Peru",
+      "hex": "#CD853F",
+      "rgb": {
+        "r": 205,
+        "g": 133,
+        "b": 63
+      },
+      "rgb_string": "rgb(205, 133, 63)",
+      "hsl": {
+        "h": 30,
+        "s": 59,
+        "l": 53
+      },
+      "hsl_string": "hsl(30, 59%, 53%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/peru.json"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "hex": "#FFC0CB",
+      "rgb": {
+        "r": 255,
+        "g": 192,
+        "b": 203
+      },
+      "rgb_string": "rgb(255, 192, 203)",
+      "hsl": {
+        "h": 350,
+        "s": 100,
+        "l": 88
+      },
+      "hsl_string": "hsl(350, 100%, 88%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/pink.json"
+    },
+    {
+      "id": "plum",
+      "name": "Plum",
+      "hex": "#DDA0DD",
+      "rgb": {
+        "r": 221,
+        "g": 160,
+        "b": 221
+      },
+      "rgb_string": "rgb(221, 160, 221)",
+      "hsl": {
+        "h": 300,
+        "s": 47,
+        "l": 75
+      },
+      "hsl_string": "hsl(300, 47%, 75%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/plum.json"
+    },
+    {
+      "id": "powderblue",
+      "name": "Powder Blue",
+      "hex": "#B0E0E6",
+      "rgb": {
+        "r": 176,
+        "g": 224,
+        "b": 230
+      },
+      "rgb_string": "rgb(176, 224, 230)",
+      "hsl": {
+        "h": 187,
+        "s": 52,
+        "l": 80
+      },
+      "hsl_string": "hsl(187, 52%, 80%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/powderblue.json"
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "hex": "#800080",
+      "rgb": {
+        "r": 128,
+        "g": 0,
+        "b": 128
+      },
+      "rgb_string": "rgb(128, 0, 128)",
+      "hsl": {
+        "h": 300,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(300, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/purple.json"
+    },
+    {
+      "id": "rebeccapurple",
+      "name": "Rebecca Purple",
+      "hex": "#663399",
+      "rgb": {
+        "r": 102,
+        "g": 51,
+        "b": 153
+      },
+      "rgb_string": "rgb(102, 51, 153)",
+      "hsl": {
+        "h": 270,
+        "s": 50,
+        "l": 40
+      },
+      "hsl_string": "hsl(270, 50%, 40%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/rebeccapurple.json"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#FF0000",
+      "rgb": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      "rgb_string": "rgb(255, 0, 0)",
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(0, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/red.json"
+    },
+    {
+      "id": "rosybrown",
+      "name": "Rosy Brown",
+      "hex": "#BC8F8F",
+      "rgb": {
+        "r": 188,
+        "g": 143,
+        "b": 143
+      },
+      "rgb_string": "rgb(188, 143, 143)",
+      "hsl": {
+        "h": 0,
+        "s": 25,
+        "l": 65
+      },
+      "hsl_string": "hsl(0, 25%, 65%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/rosybrown.json"
     },
     {
       "id": "royalblue",
@@ -687,40 +2127,58 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/royalblue.json"
     },
     {
-      "id": "steelblue",
-      "name": "Steel Blue",
-      "hex": "#4682B4",
+      "id": "saddlebrown",
+      "name": "Saddle Brown",
+      "hex": "#8B4513",
       "rgb": {
-        "r": 70,
-        "g": 130,
-        "b": 180
+        "r": 139,
+        "g": 69,
+        "b": 19
       },
-      "rgb_string": "rgb(70, 130, 180)",
+      "rgb_string": "rgb(139, 69, 19)",
       "hsl": {
-        "h": 207,
-        "s": 44,
-        "l": 49
+        "h": 25,
+        "s": 76,
+        "l": 31
       },
-      "hsl_string": "hsl(207, 44%, 49%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/steelblue.json"
+      "hsl_string": "hsl(25, 76%, 31%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/saddlebrown.json"
     },
     {
-      "id": "forestgreen",
-      "name": "Forest Green",
-      "hex": "#228B22",
+      "id": "salmon",
+      "name": "Salmon",
+      "hex": "#FA8072",
       "rgb": {
-        "r": 34,
-        "g": 139,
-        "b": 34
+        "r": 250,
+        "g": 128,
+        "b": 114
       },
-      "rgb_string": "rgb(34, 139, 34)",
+      "rgb_string": "rgb(250, 128, 114)",
       "hsl": {
-        "h": 120,
-        "s": 61,
-        "l": 34
+        "h": 6,
+        "s": 93,
+        "l": 71
       },
-      "hsl_string": "hsl(120, 61%, 34%)",
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/forestgreen.json"
+      "hsl_string": "hsl(6, 93%, 71%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/salmon.json"
+    },
+    {
+      "id": "sandybrown",
+      "name": "Sandy Brown",
+      "hex": "#F4A460",
+      "rgb": {
+        "r": 244,
+        "g": 164,
+        "b": 96
+      },
+      "rgb_string": "rgb(244, 164, 96)",
+      "hsl": {
+        "h": 28,
+        "s": 87,
+        "l": 67
+      },
+      "hsl_string": "hsl(28, 87%, 67%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/sandybrown.json"
     },
     {
       "id": "seagreen",
@@ -739,6 +2197,366 @@
       },
       "hsl_string": "hsl(146, 50%, 36%)",
       "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/seagreen.json"
+    },
+    {
+      "id": "seashell",
+      "name": "Seashell",
+      "hex": "#FFF5EE",
+      "rgb": {
+        "r": 255,
+        "g": 245,
+        "b": 238
+      },
+      "rgb_string": "rgb(255, 245, 238)",
+      "hsl": {
+        "h": 25,
+        "s": 100,
+        "l": 97
+      },
+      "hsl_string": "hsl(25, 100%, 97%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/seashell.json"
+    },
+    {
+      "id": "sienna",
+      "name": "Sienna",
+      "hex": "#A0522D",
+      "rgb": {
+        "r": 160,
+        "g": 82,
+        "b": 45
+      },
+      "rgb_string": "rgb(160, 82, 45)",
+      "hsl": {
+        "h": 19,
+        "s": 56,
+        "l": 40
+      },
+      "hsl_string": "hsl(19, 56%, 40%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/sienna.json"
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "hex": "#C0C0C0",
+      "rgb": {
+        "r": 192,
+        "g": 192,
+        "b": 192
+      },
+      "rgb_string": "rgb(192, 192, 192)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 75
+      },
+      "hsl_string": "hsl(0, 0%, 75%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/silver.json"
+    },
+    {
+      "id": "skyblue",
+      "name": "Sky Blue",
+      "hex": "#87CEEB",
+      "rgb": {
+        "r": 135,
+        "g": 206,
+        "b": 235
+      },
+      "rgb_string": "rgb(135, 206, 235)",
+      "hsl": {
+        "h": 197,
+        "s": 71,
+        "l": 73
+      },
+      "hsl_string": "hsl(197, 71%, 73%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/skyblue.json"
+    },
+    {
+      "id": "slateblue",
+      "name": "Slate Blue",
+      "hex": "#6A5ACD",
+      "rgb": {
+        "r": 106,
+        "g": 90,
+        "b": 205
+      },
+      "rgb_string": "rgb(106, 90, 205)",
+      "hsl": {
+        "h": 248,
+        "s": 53,
+        "l": 58
+      },
+      "hsl_string": "hsl(248, 53%, 58%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/slateblue.json"
+    },
+    {
+      "id": "slategray",
+      "name": "Slate Gray",
+      "hex": "#708090",
+      "rgb": {
+        "r": 112,
+        "g": 128,
+        "b": 144
+      },
+      "rgb_string": "rgb(112, 128, 144)",
+      "hsl": {
+        "h": 210,
+        "s": 13,
+        "l": 50
+      },
+      "hsl_string": "hsl(210, 13%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/slategray.json"
+    },
+    {
+      "id": "snow",
+      "name": "Snow",
+      "hex": "#FFFAFA",
+      "rgb": {
+        "r": 255,
+        "g": 250,
+        "b": 250
+      },
+      "rgb_string": "rgb(255, 250, 250)",
+      "hsl": {
+        "h": 0,
+        "s": 100,
+        "l": 99
+      },
+      "hsl_string": "hsl(0, 100%, 99%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/snow.json"
+    },
+    {
+      "id": "springgreen",
+      "name": "Spring Green",
+      "hex": "#00FF7F",
+      "rgb": {
+        "r": 0,
+        "g": 255,
+        "b": 127
+      },
+      "rgb_string": "rgb(0, 255, 127)",
+      "hsl": {
+        "h": 150,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(150, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/springgreen.json"
+    },
+    {
+      "id": "steelblue",
+      "name": "Steel Blue",
+      "hex": "#4682B4",
+      "rgb": {
+        "r": 70,
+        "g": 130,
+        "b": 180
+      },
+      "rgb_string": "rgb(70, 130, 180)",
+      "hsl": {
+        "h": 207,
+        "s": 44,
+        "l": 49
+      },
+      "hsl_string": "hsl(207, 44%, 49%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/steelblue.json"
+    },
+    {
+      "id": "tan",
+      "name": "Tan",
+      "hex": "#D2B48C",
+      "rgb": {
+        "r": 210,
+        "g": 180,
+        "b": 140
+      },
+      "rgb_string": "rgb(210, 180, 140)",
+      "hsl": {
+        "h": 34,
+        "s": 44,
+        "l": 69
+      },
+      "hsl_string": "hsl(34, 44%, 69%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/tan.json"
+    },
+    {
+      "id": "teal",
+      "name": "Teal",
+      "hex": "#008080",
+      "rgb": {
+        "r": 0,
+        "g": 128,
+        "b": 128
+      },
+      "rgb_string": "rgb(0, 128, 128)",
+      "hsl": {
+        "h": 180,
+        "s": 100,
+        "l": 25
+      },
+      "hsl_string": "hsl(180, 100%, 25%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/teal.json"
+    },
+    {
+      "id": "thistle",
+      "name": "Thistle",
+      "hex": "#D8BFD8",
+      "rgb": {
+        "r": 216,
+        "g": 191,
+        "b": 216
+      },
+      "rgb_string": "rgb(216, 191, 216)",
+      "hsl": {
+        "h": 300,
+        "s": 24,
+        "l": 80
+      },
+      "hsl_string": "hsl(300, 24%, 80%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/thistle.json"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "hex": "#FF6347",
+      "rgb": {
+        "r": 255,
+        "g": 99,
+        "b": 71
+      },
+      "rgb_string": "rgb(255, 99, 71)",
+      "hsl": {
+        "h": 9,
+        "s": 100,
+        "l": 64
+      },
+      "hsl_string": "hsl(9, 100%, 64%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/tomato.json"
+    },
+    {
+      "id": "turquoise",
+      "name": "Turquoise",
+      "hex": "#40E0D0",
+      "rgb": {
+        "r": 64,
+        "g": 224,
+        "b": 208
+      },
+      "rgb_string": "rgb(64, 224, 208)",
+      "hsl": {
+        "h": 174,
+        "s": 72,
+        "l": 56
+      },
+      "hsl_string": "hsl(174, 72%, 56%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/turquoise.json"
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "hex": "#EE82EE",
+      "rgb": {
+        "r": 238,
+        "g": 130,
+        "b": 238
+      },
+      "rgb_string": "rgb(238, 130, 238)",
+      "hsl": {
+        "h": 300,
+        "s": 76,
+        "l": 72
+      },
+      "hsl_string": "hsl(300, 76%, 72%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/violet.json"
+    },
+    {
+      "id": "wheat",
+      "name": "Wheat",
+      "hex": "#F5DEB3",
+      "rgb": {
+        "r": 245,
+        "g": 222,
+        "b": 179
+      },
+      "rgb_string": "rgb(245, 222, 179)",
+      "hsl": {
+        "h": 39,
+        "s": 77,
+        "l": 83
+      },
+      "hsl_string": "hsl(39, 77%, 83%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/wheat.json"
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "rgb_string": "rgb(255, 255, 255)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 100
+      },
+      "hsl_string": "hsl(0, 0%, 100%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/white.json"
+    },
+    {
+      "id": "whitesmoke",
+      "name": "White Smoke",
+      "hex": "#F5F5F5",
+      "rgb": {
+        "r": 245,
+        "g": 245,
+        "b": 245
+      },
+      "rgb_string": "rgb(245, 245, 245)",
+      "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 96
+      },
+      "hsl_string": "hsl(0, 0%, 96%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/whitesmoke.json"
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "hex": "#FFFF00",
+      "rgb": {
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      "rgb_string": "rgb(255, 255, 0)",
+      "hsl": {
+        "h": 60,
+        "s": 100,
+        "l": 50
+      },
+      "hsl_string": "hsl(60, 100%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/yellow.json"
+    },
+    {
+      "id": "yellowgreen",
+      "name": "Yellow Green",
+      "hex": "#9ACD32",
+      "rgb": {
+        "r": 154,
+        "g": 205,
+        "b": 50
+      },
+      "rgb_string": "rgb(154, 205, 50)",
+      "hsl": {
+        "h": 80,
+        "s": 61,
+        "l": 50
+      },
+      "hsl_string": "hsl(80, 61%, 50%)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/yellowgreen.json"
     }
   ]
 }

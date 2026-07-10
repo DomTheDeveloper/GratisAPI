@@ -1,0 +1,9 @@
+{
+  "id": "amazon",
+  "name": "Amazon",
+  "length_km": 6400,
+  "continent": "South America",
+  "outflow": "Atlantic Ocean",
+  "countries": "Brazil, Peru, Colombia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/amazon.json"
+}

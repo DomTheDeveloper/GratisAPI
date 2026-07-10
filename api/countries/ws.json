@@ -1,0 +1,13 @@
+{
+  "id": "ws",
+  "name": "Samoa",
+  "alpha2": "WS",
+  "alpha3": "WSM",
+  "capital": "Apia",
+  "continent": "Oceania",
+  "currency_code": "WST",
+  "currency": "Tala",
+  "population_millions": 1,
+  "flag_emoji": "🇼🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ws.json"
+}

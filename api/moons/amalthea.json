@@ -1,0 +1,9 @@
+{
+  "id": "amalthea",
+  "name": "Amalthea",
+  "planet": "Jupiter",
+  "radius_km": 83.5,
+  "discovered_year": 1892,
+  "discovered_by": "Edward Emerson Barnard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/amalthea.json"
+}

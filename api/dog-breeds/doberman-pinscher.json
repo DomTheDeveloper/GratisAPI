@@ -1,0 +1,10 @@
+{
+  "id": "doberman-pinscher",
+  "name": "Doberman Pinscher",
+  "group": "Working",
+  "origin": "Germany",
+  "size": "Large",
+  "life_expectancy_years": "10-12",
+  "temperament": "Loyal, fearless and alert",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/doberman-pinscher.json"
+}

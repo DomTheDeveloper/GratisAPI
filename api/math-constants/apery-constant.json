@@ -1,0 +1,8 @@
+{
+  "id": "apery-constant",
+  "name": "Apery's constant",
+  "symbol": "zeta(3)",
+  "value": 1.2020569031595942,
+  "description": "Value of the Riemann zeta function at 3.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/apery-constant.json"
+}

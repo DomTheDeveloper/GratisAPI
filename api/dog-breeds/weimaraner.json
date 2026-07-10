@@ -1,0 +1,10 @@
+{
+  "id": "weimaraner",
+  "name": "Weimaraner",
+  "group": "Sporting",
+  "origin": "Germany",
+  "size": "Large",
+  "life_expectancy_years": "10-13",
+  "temperament": "Friendly, fearless and obedient",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/weimaraner.json"
+}

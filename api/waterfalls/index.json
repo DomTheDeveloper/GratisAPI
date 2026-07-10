@@ -1,0 +1,167 @@
+{
+  "api": "waterfalls",
+  "title": "Waterfalls",
+  "description": "Famous waterfalls of the world with total height, river, and location.",
+  "emoji": "💦",
+  "license": "GPL-2.0-or-later",
+  "count": 16,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/{id}.json"
+  },
+  "fields": [
+    "continent",
+    "country",
+    "height_m",
+    "id",
+    "name",
+    "river"
+  ],
+  "results": [
+    {
+      "id": "angel-falls",
+      "name": "Angel Falls",
+      "height_m": 979,
+      "river": "Churun River",
+      "country": "Venezuela",
+      "continent": "South America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/angel-falls.json"
+    },
+    {
+      "id": "tugela-falls",
+      "name": "Tugela Falls",
+      "height_m": 948,
+      "river": "Tugela River",
+      "country": "South Africa",
+      "continent": "Africa",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/tugela-falls.json"
+    },
+    {
+      "id": "olo-upena-falls",
+      "name": "Olo'upena Falls",
+      "height_m": 900,
+      "river": null,
+      "country": "United States",
+      "continent": "North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/olo-upena-falls.json"
+    },
+    {
+      "id": "yumbilla-falls",
+      "name": "Yumbilla Falls",
+      "height_m": 895,
+      "river": null,
+      "country": "Peru",
+      "continent": "South America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/yumbilla-falls.json"
+    },
+    {
+      "id": "vinnufossen",
+      "name": "Vinnufossen",
+      "height_m": 860,
+      "river": "Vinnu River",
+      "country": "Norway",
+      "continent": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/vinnufossen.json"
+    },
+    {
+      "id": "balaifossen",
+      "name": "Balaifossen",
+      "height_m": 850,
+      "river": "Balaielvi",
+      "country": "Norway",
+      "continent": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/balaifossen.json"
+    },
+    {
+      "id": "browne-falls",
+      "name": "Browne Falls",
+      "height_m": 836,
+      "river": "Browne River",
+      "country": "New Zealand",
+      "continent": "Oceania",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/browne-falls.json"
+    },
+    {
+      "id": "james-bruce-falls",
+      "name": "James Bruce Falls",
+      "height_m": 840,
+      "river": null,
+      "country": "Canada",
+      "continent": "North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/james-bruce-falls.json"
+    },
+    {
+      "id": "niagara-falls",
+      "name": "Niagara Falls",
+      "height_m": 51,
+      "river": "Niagara River",
+      "country": "United States / Canada",
+      "continent": "North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/niagara-falls.json"
+    },
+    {
+      "id": "victoria-falls",
+      "name": "Victoria Falls",
+      "height_m": 108,
+      "river": "Zambezi River",
+      "country": "Zambia / Zimbabwe",
+      "continent": "Africa",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/victoria-falls.json"
+    },
+    {
+      "id": "iguazu-falls",
+      "name": "Iguazu Falls",
+      "height_m": 82,
+      "river": "Iguazu River",
+      "country": "Argentina / Brazil",
+      "continent": "South America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/iguazu-falls.json"
+    },
+    {
+      "id": "kaieteur-falls",
+      "name": "Kaieteur Falls",
+      "height_m": 226,
+      "river": "Potaro River",
+      "country": "Guyana",
+      "continent": "South America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/kaieteur-falls.json"
+    },
+    {
+      "id": "gullfoss",
+      "name": "Gullfoss",
+      "height_m": 32,
+      "river": "Hvita River",
+      "country": "Iceland",
+      "continent": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/gullfoss.json"
+    },
+    {
+      "id": "sutherland-falls",
+      "name": "Sutherland Falls",
+      "height_m": 580,
+      "river": "Arthur River",
+      "country": "New Zealand",
+      "continent": "Oceania",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/sutherland-falls.json"
+    },
+    {
+      "id": "plitvice-falls",
+      "name": "Plitvice (Veliki Slap)",
+      "height_m": 78,
+      "river": "Plitvica River",
+      "country": "Croatia",
+      "continent": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/plitvice-falls.json"
+    },
+    {
+      "id": "dettifoss",
+      "name": "Dettifoss",
+      "height_m": 44,
+      "river": "Jokulsa a Fjollum",
+      "country": "Iceland",
+      "continent": "Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/dettifoss.json"
+    }
+  ]
+}

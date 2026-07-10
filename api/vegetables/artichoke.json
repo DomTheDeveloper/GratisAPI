@@ -1,0 +1,10 @@
+{
+  "id": "artichoke",
+  "name": "Globe Artichoke",
+  "scientific_name": "Cynara cardunculus",
+  "family": "Asteraceae",
+  "type": "Flower",
+  "color": "Green",
+  "calories_per_100g": 47,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/artichoke.json"
+}

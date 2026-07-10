@@ -1,0 +1,11 @@
+{
+  "id": "lime",
+  "name": "Lime",
+  "scientific_name": "Citrus aurantiifolia",
+  "family": "Rutaceae",
+  "type": "Citrus",
+  "color": "Green",
+  "origin_region": "Southeast Asia",
+  "calories_per_100g": 30,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/lime.json"
+}

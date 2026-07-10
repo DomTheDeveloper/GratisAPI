@@ -1,0 +1,18 @@
+{
+  "id": "lightseagreen",
+  "name": "Light Sea Green",
+  "hex": "#20B2AA",
+  "rgb": {
+    "r": 32,
+    "g": 178,
+    "b": 170
+  },
+  "rgb_string": "rgb(32, 178, 170)",
+  "hsl": {
+    "h": 177,
+    "s": 70,
+    "l": 41
+  },
+  "hsl_string": "hsl(177, 70%, 41%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightseagreen.json"
+}

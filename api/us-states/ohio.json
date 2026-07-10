@@ -1,0 +1,12 @@
+{
+  "id": "ohio",
+  "name": "Ohio",
+  "abbreviation": "OH",
+  "capital": "Columbus",
+  "largest_city": "Columbus",
+  "population": 11799448,
+  "area_km2": 116098,
+  "statehood_year": 1803,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/ohio.json"
+}

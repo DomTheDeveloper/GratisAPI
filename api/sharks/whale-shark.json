@@ -1,0 +1,12 @@
+{
+  "id": "whale-shark",
+  "common_name": "Whale Shark",
+  "scientific_name": "Rhincodon typus",
+  "family": "Rhincodontidae",
+  "max_length_m": 18.0,
+  "habitat": "Open tropical and warm oceans",
+  "diet": "Filter feeder",
+  "conservation_status": "Endangered",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/whale-shark.json"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "blue-shark",
+  "common_name": "Blue Shark",
+  "scientific_name": "Prionace glauca",
+  "family": "Carcharhinidae",
+  "max_length_m": 3.8,
+  "habitat": "Open ocean, temperate and tropical",
+  "diet": "Carnivore",
+  "conservation_status": "Near Threatened",
+  "danger_to_humans": "Moderate",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/blue-shark.json"
+}

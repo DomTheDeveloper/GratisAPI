@@ -3,5 +3,6 @@
   "code": 201,
   "message": "Created",
   "category": "Success",
+  "description": "The request succeeded and a new resource was created.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/201.json"
 }

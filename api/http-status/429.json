@@ -3,5 +3,6 @@
   "code": 429,
   "message": "Too Many Requests",
   "category": "Client Error",
+  "description": "The user has sent too many requests in a given amount of time.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/429.json"
 }

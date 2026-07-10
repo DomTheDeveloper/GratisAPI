@@ -1,0 +1,384 @@
+{
+  "api": "vegetables",
+  "title": "Vegetables",
+  "description": "Vegetables with culinary type, color and calories per 100g.",
+  "emoji": "🥕",
+  "license": "GPL-2.0-or-later",
+  "count": 36,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/{id}.json"
+  },
+  "fields": [
+    "calories_per_100g",
+    "color",
+    "family",
+    "id",
+    "name",
+    "scientific_name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "scientific_name": "Daucus carota",
+      "family": "Apiaceae",
+      "type": "Root",
+      "color": "Orange",
+      "calories_per_100g": 41,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/carrot.json"
+    },
+    {
+      "id": "beetroot",
+      "name": "Beetroot",
+      "scientific_name": "Beta vulgaris",
+      "family": "Amaranthaceae",
+      "type": "Root",
+      "color": "Purple",
+      "calories_per_100g": 43,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/beetroot.json"
+    },
+    {
+      "id": "radish",
+      "name": "Radish",
+      "scientific_name": "Raphanus sativus",
+      "family": "Brassicaceae",
+      "type": "Root",
+      "color": "Red",
+      "calories_per_100g": 16,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/radish.json"
+    },
+    {
+      "id": "turnip",
+      "name": "Turnip",
+      "scientific_name": "Brassica rapa",
+      "family": "Brassicaceae",
+      "type": "Root",
+      "color": "White",
+      "calories_per_100g": 28,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/turnip.json"
+    },
+    {
+      "id": "parsnip",
+      "name": "Parsnip",
+      "scientific_name": "Pastinaca sativa",
+      "family": "Apiaceae",
+      "type": "Root",
+      "color": "Cream",
+      "calories_per_100g": 75,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/parsnip.json"
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "scientific_name": "Solanum tuberosum",
+      "family": "Solanaceae",
+      "type": "Tuber",
+      "color": "Brown",
+      "calories_per_100g": 77,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/potato.json"
+    },
+    {
+      "id": "sweet-potato",
+      "name": "Sweet Potato",
+      "scientific_name": "Ipomoea batatas",
+      "family": "Convolvulaceae",
+      "type": "Tuber",
+      "color": "Orange",
+      "calories_per_100g": 86,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/sweet-potato.json"
+    },
+    {
+      "id": "cassava",
+      "name": "Cassava",
+      "scientific_name": "Manihot esculenta",
+      "family": "Euphorbiaceae",
+      "type": "Tuber",
+      "color": "Brown",
+      "calories_per_100g": 160,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cassava.json"
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "scientific_name": "Allium cepa",
+      "family": "Amaryllidaceae",
+      "type": "Bulb",
+      "color": "Yellow",
+      "calories_per_100g": 40,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/onion.json"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "scientific_name": "Allium sativum",
+      "family": "Amaryllidaceae",
+      "type": "Bulb",
+      "color": "White",
+      "calories_per_100g": 149,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/garlic.json"
+    },
+    {
+      "id": "leek",
+      "name": "Leek",
+      "scientific_name": "Allium ampeloprasum",
+      "family": "Amaryllidaceae",
+      "type": "Bulb",
+      "color": "Green",
+      "calories_per_100g": 61,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/leek.json"
+    },
+    {
+      "id": "shallot",
+      "name": "Shallot",
+      "scientific_name": "Allium cepa",
+      "family": "Amaryllidaceae",
+      "type": "Bulb",
+      "color": "Purple",
+      "calories_per_100g": 72,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/shallot.json"
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "scientific_name": "Spinacia oleracea",
+      "family": "Amaranthaceae",
+      "type": "Leafy",
+      "color": "Green",
+      "calories_per_100g": 23,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/spinach.json"
+    },
+    {
+      "id": "lettuce",
+      "name": "Lettuce",
+      "scientific_name": "Lactuca sativa",
+      "family": "Asteraceae",
+      "type": "Leafy",
+      "color": "Green",
+      "calories_per_100g": 15,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/lettuce.json"
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "scientific_name": "Brassica oleracea",
+      "family": "Brassicaceae",
+      "type": "Leafy",
+      "color": "Green",
+      "calories_per_100g": 49,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/kale.json"
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "scientific_name": "Brassica oleracea",
+      "family": "Brassicaceae",
+      "type": "Cruciferous",
+      "color": "Green",
+      "calories_per_100g": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cabbage.json"
+    },
+    {
+      "id": "swiss-chard",
+      "name": "Swiss Chard",
+      "scientific_name": "Beta vulgaris",
+      "family": "Amaranthaceae",
+      "type": "Leafy",
+      "color": "Green",
+      "calories_per_100g": 19,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/swiss-chard.json"
+    },
+    {
+      "id": "arugula",
+      "name": "Arugula",
+      "scientific_name": "Eruca vesicaria",
+      "family": "Brassicaceae",
+      "type": "Leafy",
+      "color": "Green",
+      "calories_per_100g": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/arugula.json"
+    },
+    {
+      "id": "broccoli",
+      "name": "Broccoli",
+      "scientific_name": "Brassica oleracea",
+      "family": "Brassicaceae",
+      "type": "Cruciferous",
+      "color": "Green",
+      "calories_per_100g": 34,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/broccoli.json"
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "scientific_name": "Brassica oleracea",
+      "family": "Brassicaceae",
+      "type": "Cruciferous",
+      "color": "White",
+      "calories_per_100g": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cauliflower.json"
+    },
+    {
+      "id": "brussels-sprout",
+      "name": "Brussels Sprout",
+      "scientific_name": "Brassica oleracea",
+      "family": "Brassicaceae",
+      "type": "Cruciferous",
+      "color": "Green",
+      "calories_per_100g": 43,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/brussels-sprout.json"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "family": "Solanaceae",
+      "type": "Fruit",
+      "color": "Red",
+      "calories_per_100g": 18,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/tomato.json"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "scientific_name": "Cucumis sativus",
+      "family": "Cucurbitaceae",
+      "type": "Fruit",
+      "color": "Green",
+      "calories_per_100g": 15,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cucumber.json"
+    },
+    {
+      "id": "bell-pepper",
+      "name": "Bell Pepper",
+      "scientific_name": "Capsicum annuum",
+      "family": "Solanaceae",
+      "type": "Fruit",
+      "color": "Red",
+      "calories_per_100g": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/bell-pepper.json"
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant",
+      "scientific_name": "Solanum melongena",
+      "family": "Solanaceae",
+      "type": "Fruit",
+      "color": "Purple",
+      "calories_per_100g": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/eggplant.json"
+    },
+    {
+      "id": "zucchini",
+      "name": "Zucchini",
+      "scientific_name": "Cucurbita pepo",
+      "family": "Cucurbitaceae",
+      "type": "Fruit",
+      "color": "Green",
+      "calories_per_100g": 17,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/zucchini.json"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "scientific_name": "Cucurbita pepo",
+      "family": "Cucurbitaceae",
+      "type": "Fruit",
+      "color": "Orange",
+      "calories_per_100g": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/pumpkin.json"
+    },
+    {
+      "id": "butternut-squash",
+      "name": "Butternut Squash",
+      "scientific_name": "Cucurbita moschata",
+      "family": "Cucurbitaceae",
+      "type": "Fruit",
+      "color": "Orange",
+      "calories_per_100g": 45,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/butternut-squash.json"
+    },
+    {
+      "id": "celery",
+      "name": "Celery",
+      "scientific_name": "Apium graveolens",
+      "family": "Apiaceae",
+      "type": "Stem",
+      "color": "Green",
+      "calories_per_100g": 16,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/celery.json"
+    },
+    {
+      "id": "asparagus",
+      "name": "Asparagus",
+      "scientific_name": "Asparagus officinalis",
+      "family": "Asparagaceae",
+      "type": "Stem",
+      "color": "Green",
+      "calories_per_100g": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/asparagus.json"
+    },
+    {
+      "id": "rhubarb",
+      "name": "Rhubarb",
+      "scientific_name": "Rheum rhabarbarum",
+      "family": "Polygonaceae",
+      "type": "Stem",
+      "color": "Red",
+      "calories_per_100g": 21,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/rhubarb.json"
+    },
+    {
+      "id": "pea",
+      "name": "Green Pea",
+      "scientific_name": "Pisum sativum",
+      "family": "Fabaceae",
+      "type": "Legume",
+      "color": "Green",
+      "calories_per_100g": 81,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/pea.json"
+    },
+    {
+      "id": "green-bean",
+      "name": "Green Bean",
+      "scientific_name": "Phaseolus vulgaris",
+      "family": "Fabaceae",
+      "type": "Legume",
+      "color": "Green",
+      "calories_per_100g": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/green-bean.json"
+    },
+    {
+      "id": "chickpea",
+      "name": "Chickpea",
+      "scientific_name": "Cicer arietinum",
+      "family": "Fabaceae",
+      "type": "Legume",
+      "color": "Beige",
+      "calories_per_100g": 164,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/chickpea.json"
+    },
+    {
+      "id": "lentil",
+      "name": "Lentil",
+      "scientific_name": "Lens culinaris",
+      "family": "Fabaceae",
+      "type": "Legume",
+      "color": "Brown",
+      "calories_per_100g": 116,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/lentil.json"
+    },
+    {
+      "id": "artichoke",
+      "name": "Globe Artichoke",
+      "scientific_name": "Cynara cardunculus",
+      "family": "Asteraceae",
+      "type": "Flower",
+      "color": "Green",
+      "calories_per_100g": 47,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/artichoke.json"
+    }
+  ]
+}

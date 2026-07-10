@@ -1,0 +1,14 @@
+{
+  "id": "cpp",
+  "name": "C++",
+  "year": 1985,
+  "paradigm": [
+    "Object-oriented",
+    "Procedural",
+    "Generic"
+  ],
+  "typing": "Static",
+  "designed_by": "Bjarne Stroustrup",
+  "extension": ".cpp",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/cpp.json"
+}

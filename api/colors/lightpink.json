@@ -1,0 +1,18 @@
+{
+  "id": "lightpink",
+  "name": "Light Pink",
+  "hex": "#FFB6C1",
+  "rgb": {
+    "r": 255,
+    "g": 182,
+    "b": 193
+  },
+  "rgb_string": "rgb(255, 182, 193)",
+  "hsl": {
+    "h": 351,
+    "s": 100,
+    "l": 86
+  },
+  "hsl_string": "hsl(351, 100%, 86%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightpink.json"
+}

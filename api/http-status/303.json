@@ -1,0 +1,8 @@
+{
+  "id": 303,
+  "code": 303,
+  "message": "See Other",
+  "category": "Redirection",
+  "description": "The response can be found under another URL using a GET request.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/303.json"
+}

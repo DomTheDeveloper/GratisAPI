@@ -1,0 +1,9 @@
+{
+  "id": "sumac",
+  "name": "Sumac",
+  "plant_part": "Fruit",
+  "origin_region": "Middle East",
+  "flavor": "Tangy, sour",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/sumac.json"
+}

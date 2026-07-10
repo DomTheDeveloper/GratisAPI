@@ -1,0 +1,13 @@
+{
+  "id": "tv",
+  "name": "Tuvalu",
+  "alpha2": "TV",
+  "alpha3": "TUV",
+  "capital": "Funafuti",
+  "continent": "Oceania",
+  "currency_code": "AUD",
+  "currency": "Australian Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇹🇻",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tv.json"
+}

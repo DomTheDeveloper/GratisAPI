@@ -1,0 +1,8 @@
+{
+  "id": "VES",
+  "code": "VES",
+  "name": "Venezuelan Bolivar",
+  "symbol": "Bs",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/VES.json"
+}

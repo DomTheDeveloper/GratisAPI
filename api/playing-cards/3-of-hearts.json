@@ -1,0 +1,9 @@
+{
+  "id": "3-of-hearts",
+  "rank": "3",
+  "suit": "Hearts",
+  "color": "Red",
+  "value": 3,
+  "symbol": "♥",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/3-of-hearts.json"
+}

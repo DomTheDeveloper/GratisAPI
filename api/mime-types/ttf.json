@@ -1,0 +1,10 @@
+{
+  "id": "ttf",
+  "mime_type": "font/ttf",
+  "name": "TrueType Font",
+  "category": "font",
+  "extensions": [
+    ".ttf"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ttf.json"
+}

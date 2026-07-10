@@ -1,0 +1,13 @@
+{
+  "id": "rs",
+  "name": "Serbia",
+  "alpha2": "RS",
+  "alpha3": "SRB",
+  "capital": "Belgrade",
+  "continent": "Europe",
+  "currency_code": "RSD",
+  "currency": "Serbian Dinar",
+  "population_millions": 7,
+  "flag_emoji": "🇷🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/rs.json"
+}

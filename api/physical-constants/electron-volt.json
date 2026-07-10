@@ -1,0 +1,9 @@
+{
+  "id": "electron-volt",
+  "name": "Electron volt",
+  "symbol": "eV",
+  "value": 1.602176634e-19,
+  "unit": "J",
+  "category": "Physicochemical",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/electron-volt.json"
+}

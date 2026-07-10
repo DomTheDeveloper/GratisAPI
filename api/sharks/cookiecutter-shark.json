@@ -1,0 +1,12 @@
+{
+  "id": "cookiecutter-shark",
+  "common_name": "Cookiecutter Shark",
+  "scientific_name": "Isistius brasiliensis",
+  "family": "Dalatiidae",
+  "max_length_m": 0.5,
+  "habitat": "Deep open tropical oceans",
+  "diet": "Carnivore",
+  "conservation_status": "Least Concern",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/cookiecutter-shark.json"
+}

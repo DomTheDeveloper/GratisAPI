@@ -1,0 +1,18 @@
+{
+  "id": "lightblue",
+  "name": "Light Blue",
+  "hex": "#ADD8E6",
+  "rgb": {
+    "r": 173,
+    "g": 216,
+    "b": 230
+  },
+  "rgb_string": "rgb(173, 216, 230)",
+  "hsl": {
+    "h": 195,
+    "s": 53,
+    "l": 79
+  },
+  "hsl_string": "hsl(195, 53%, 79%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightblue.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "thyme",
+  "name": "Thyme",
+  "plant_part": "Leaf",
+  "origin_region": "Mediterranean",
+  "flavor": "Earthy, minty",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/thyme.json"
+}

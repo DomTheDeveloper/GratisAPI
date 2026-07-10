@@ -1,0 +1,9 @@
+{
+  "id": "tau",
+  "name": "Tau",
+  "uppercase": "Τ",
+  "lowercase": "τ",
+  "transliteration": "t",
+  "numeric_value": 300,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/tau.json"
+}

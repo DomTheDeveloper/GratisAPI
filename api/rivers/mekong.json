@@ -1,0 +1,9 @@
+{
+  "id": "mekong",
+  "name": "Mekong",
+  "length_km": 4350,
+  "continent": "Asia",
+  "outflow": "South China Sea",
+  "countries": "China, Laos, Cambodia, Vietnam",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/mekong.json"
+}

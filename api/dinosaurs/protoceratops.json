@@ -1,0 +1,11 @@
+{
+  "id": "protoceratops",
+  "name": "Protoceratops",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 2.5,
+  "weight_kg": 180,
+  "region": "Mongolia",
+  "meaning": "First horned face",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/protoceratops.json"
+}

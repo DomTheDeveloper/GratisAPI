@@ -1,0 +1,13 @@
+{
+  "id": "elixir",
+  "name": "Elixir",
+  "year": 2011,
+  "paradigm": [
+    "Functional",
+    "Concurrent"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Jose Valim",
+  "extension": ".ex",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/elixir.json"
+}

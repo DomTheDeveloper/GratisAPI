@@ -1,0 +1,10 @@
+{
+  "id": "carnation",
+  "name": "Carnation",
+  "scientific_name": "Dianthus caryophyllus",
+  "family": "Caryophyllaceae",
+  "color": "Pink",
+  "bloom_season": "Spring",
+  "meaning": "Fascination",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/carnation.json"
+}

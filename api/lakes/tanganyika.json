@@ -1,0 +1,9 @@
+{
+  "id": "tanganyika",
+  "name": "Lake Tanganyika",
+  "area_km2": 32900,
+  "max_depth_m": 1470,
+  "continent": "Africa",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/tanganyika.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ox",
+  "animal": "Ox",
+  "order": 2,
+  "element": "Earth",
+  "yin_yang": "Yin",
+  "traits": "Diligent, dependable, determined",
+  "recent_years": [
+    1985,
+    1997,
+    2009,
+    2021
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/ox.json"
+}

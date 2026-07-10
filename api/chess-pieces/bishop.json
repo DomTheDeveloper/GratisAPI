@@ -1,0 +1,9 @@
+{
+  "id": "bishop",
+  "name": "Bishop",
+  "symbol_white": "♗",
+  "symbol_black": "♝",
+  "value": 3,
+  "movement": "Any number of squares diagonally",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/bishop.json"
+}

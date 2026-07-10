@@ -1,0 +1,9 @@
+{
+  "id": "coulomb-constant",
+  "name": "Coulomb constant",
+  "symbol": "k_e",
+  "value": 8987551787.368176,
+  "unit": "N m^2 C^-2",
+  "category": "Electromagnetic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/coulomb-constant.json"
+}

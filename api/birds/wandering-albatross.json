@@ -1,0 +1,11 @@
+{
+  "id": "wandering-albatross",
+  "common_name": "Wandering Albatross",
+  "scientific_name": "Diomedea exulans",
+  "family": "Diomedeidae",
+  "habitat": "Open Southern Ocean",
+  "diet": "Carnivore",
+  "wingspan_cm": 300,
+  "conservation_status": "Vulnerable",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/wandering-albatross.json"
+}

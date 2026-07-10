@@ -1,0 +1,18 @@
+{
+  "id": "a-positive",
+  "group": "A+",
+  "can_donate_to": [
+    "A+",
+    "AB+"
+  ],
+  "can_receive_from": [
+    "O-",
+    "O+",
+    "A-",
+    "A+"
+  ],
+  "is_universal_donor": false,
+  "is_universal_recipient": false,
+  "approx_global_percent": 28.0,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/a-positive.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ao",
+  "name": "Angola",
+  "alpha2": "AO",
+  "alpha3": "AGO",
+  "capital": "Luanda",
+  "continent": "Africa",
+  "currency_code": "AOA",
+  "currency": "Kwanza",
+  "population_millions": 35,
+  "flag_emoji": "🇦🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ao.json"
+}

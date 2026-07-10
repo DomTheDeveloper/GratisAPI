@@ -1,0 +1,9 @@
+{
+  "id": "piscis-austrinus",
+  "name": "Piscis Austrinus",
+  "abbreviation": "PsA",
+  "meaning": "The Southern Fish",
+  "quadrant": "SQ4",
+  "area_sq_deg": 245.375,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/piscis-austrinus.json"
+}

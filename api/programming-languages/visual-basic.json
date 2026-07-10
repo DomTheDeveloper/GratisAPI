@@ -1,0 +1,13 @@
+{
+  "id": "visual-basic",
+  "name": "Visual Basic",
+  "year": 1991,
+  "paradigm": [
+    "Object-oriented",
+    "Event-driven"
+  ],
+  "typing": "Static",
+  "designed_by": "Microsoft",
+  "extension": ".vb",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/visual-basic.json"
+}

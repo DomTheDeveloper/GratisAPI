@@ -1,0 +1,11 @@
+{
+  "id": "california-condor",
+  "common_name": "California Condor",
+  "scientific_name": "Gymnogyps californianus",
+  "family": "Cathartidae",
+  "habitat": "Mountains and canyons",
+  "diet": "Scavenger",
+  "wingspan_cm": 280,
+  "conservation_status": "Critically Endangered",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/california-condor.json"
+}

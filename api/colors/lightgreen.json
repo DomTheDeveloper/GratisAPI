@@ -1,0 +1,18 @@
+{
+  "id": "lightgreen",
+  "name": "Light Green",
+  "hex": "#90EE90",
+  "rgb": {
+    "r": 144,
+    "g": 238,
+    "b": 144
+  },
+  "rgb_string": "rgb(144, 238, 144)",
+  "hsl": {
+    "h": 120,
+    "s": 73,
+    "l": 75
+  },
+  "hsl_string": "hsl(120, 73%, 75%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lightgreen.json"
+}

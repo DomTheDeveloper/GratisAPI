@@ -1,0 +1,9 @@
+{
+  "id": "cy",
+  "code": "cy",
+  "name": "Welsh",
+  "native_name": "Cymraeg",
+  "direction": "ltr",
+  "speakers_millions": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/cy.json"
+}

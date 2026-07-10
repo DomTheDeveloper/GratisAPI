@@ -1,0 +1,14 @@
+{
+  "id": "coffeescript",
+  "name": "CoffeeScript",
+  "year": 2009,
+  "paradigm": [
+    "Functional",
+    "Imperative",
+    "Object-oriented"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Jeremy Ashkenas",
+  "extension": ".coffee",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/coffeescript.json"
+}

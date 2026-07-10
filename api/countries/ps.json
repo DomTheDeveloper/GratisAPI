@@ -1,0 +1,13 @@
+{
+  "id": "ps",
+  "name": "Palestine",
+  "alpha2": "PS",
+  "alpha3": "PSE",
+  "capital": "Ramallah",
+  "continent": "Asia",
+  "currency_code": "ILS",
+  "currency": "New Israeli Shekel",
+  "population_millions": 5,
+  "flag_emoji": "🇵🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ps.json"
+}

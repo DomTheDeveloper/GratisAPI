@@ -4,7 +4,7 @@
   "description": "Human languages with ISO 639-1 code, native name and writing direction.",
   "emoji": "🗣️",
   "license": "GPL-2.0-or-later",
-  "count": 25,
+  "count": 81,
   "self": "https://domthedeveloper.github.io/GratisAPI/api/languages/index.json",
   "endpoints": {
     "list": "https://domthedeveloper.github.io/GratisAPI/api/languages/index.json",
@@ -243,6 +243,510 @@
       "direction": "ltr",
       "speakers_millions": 10,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/sv.json"
+    },
+    {
+      "id": "ta",
+      "code": "ta",
+      "name": "Tamil",
+      "native_name": "தமிழ்",
+      "direction": "ltr",
+      "speakers_millions": 87,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ta.json"
+    },
+    {
+      "id": "te",
+      "code": "te",
+      "name": "Telugu",
+      "native_name": "తెలుగు",
+      "direction": "ltr",
+      "speakers_millions": 96,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/te.json"
+    },
+    {
+      "id": "mr",
+      "code": "mr",
+      "name": "Marathi",
+      "native_name": "मराठी",
+      "direction": "ltr",
+      "speakers_millions": 99,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/mr.json"
+    },
+    {
+      "id": "pa",
+      "code": "pa",
+      "name": "Punjabi",
+      "native_name": "ਪੰਜਾਬੀ",
+      "direction": "ltr",
+      "speakers_millions": 113,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/pa.json"
+    },
+    {
+      "id": "gu",
+      "code": "gu",
+      "name": "Gujarati",
+      "native_name": "ગુજરાતી",
+      "direction": "ltr",
+      "speakers_millions": 62,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/gu.json"
+    },
+    {
+      "id": "kn",
+      "code": "kn",
+      "name": "Kannada",
+      "native_name": "ಕನ್ನಡ",
+      "direction": "ltr",
+      "speakers_millions": 59,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/kn.json"
+    },
+    {
+      "id": "ml",
+      "code": "ml",
+      "name": "Malayalam",
+      "native_name": "മലയാളം",
+      "direction": "ltr",
+      "speakers_millions": 37,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ml.json"
+    },
+    {
+      "id": "or",
+      "code": "or",
+      "name": "Odia",
+      "native_name": "ଓଡ଼ିଆ",
+      "direction": "ltr",
+      "speakers_millions": 38,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/or.json"
+    },
+    {
+      "id": "my",
+      "code": "my",
+      "name": "Burmese",
+      "native_name": "မြန်မာ",
+      "direction": "ltr",
+      "speakers_millions": 43,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/my.json"
+    },
+    {
+      "id": "km",
+      "code": "km",
+      "name": "Khmer",
+      "native_name": "ខ្មែរ",
+      "direction": "ltr",
+      "speakers_millions": 18,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/km.json"
+    },
+    {
+      "id": "lo",
+      "code": "lo",
+      "name": "Lao",
+      "native_name": "ລາວ",
+      "direction": "ltr",
+      "speakers_millions": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/lo.json"
+    },
+    {
+      "id": "si",
+      "code": "si",
+      "name": "Sinhala",
+      "native_name": "සිංහල",
+      "direction": "ltr",
+      "speakers_millions": 17,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/si.json"
+    },
+    {
+      "id": "ne",
+      "code": "ne",
+      "name": "Nepali",
+      "native_name": "नेपाली",
+      "direction": "ltr",
+      "speakers_millions": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ne.json"
+    },
+    {
+      "id": "ms",
+      "code": "ms",
+      "name": "Malay",
+      "native_name": "Bahasa Melayu",
+      "direction": "ltr",
+      "speakers_millions": 290,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ms.json"
+    },
+    {
+      "id": "tl",
+      "code": "tl",
+      "name": "Tagalog",
+      "native_name": "Tagalog",
+      "direction": "ltr",
+      "speakers_millions": 83,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/tl.json"
+    },
+    {
+      "id": "uk",
+      "code": "uk",
+      "name": "Ukrainian",
+      "native_name": "Українська",
+      "direction": "ltr",
+      "speakers_millions": 33,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/uk.json"
+    },
+    {
+      "id": "ro",
+      "code": "ro",
+      "name": "Romanian",
+      "native_name": "Română",
+      "direction": "ltr",
+      "speakers_millions": 24,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ro.json"
+    },
+    {
+      "id": "cs",
+      "code": "cs",
+      "name": "Czech",
+      "native_name": "Čeština",
+      "direction": "ltr",
+      "speakers_millions": 11,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/cs.json"
+    },
+    {
+      "id": "sk",
+      "code": "sk",
+      "name": "Slovak",
+      "native_name": "Slovenčina",
+      "direction": "ltr",
+      "speakers_millions": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/sk.json"
+    },
+    {
+      "id": "hu",
+      "code": "hu",
+      "name": "Hungarian",
+      "native_name": "Magyar",
+      "direction": "ltr",
+      "speakers_millions": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/hu.json"
+    },
+    {
+      "id": "fi",
+      "code": "fi",
+      "name": "Finnish",
+      "native_name": "Suomi",
+      "direction": "ltr",
+      "speakers_millions": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/fi.json"
+    },
+    {
+      "id": "da",
+      "code": "da",
+      "name": "Danish",
+      "native_name": "Dansk",
+      "direction": "ltr",
+      "speakers_millions": 6,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/da.json"
+    },
+    {
+      "id": "no",
+      "code": "no",
+      "name": "Norwegian",
+      "native_name": "Norsk",
+      "direction": "ltr",
+      "speakers_millions": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/no.json"
+    },
+    {
+      "id": "bg",
+      "code": "bg",
+      "name": "Bulgarian",
+      "native_name": "Български",
+      "direction": "ltr",
+      "speakers_millions": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/bg.json"
+    },
+    {
+      "id": "hr",
+      "code": "hr",
+      "name": "Croatian",
+      "native_name": "Hrvatski",
+      "direction": "ltr",
+      "speakers_millions": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/hr.json"
+    },
+    {
+      "id": "sr",
+      "code": "sr",
+      "name": "Serbian",
+      "native_name": "Српски",
+      "direction": "ltr",
+      "speakers_millions": 10,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/sr.json"
+    },
+    {
+      "id": "sl",
+      "code": "sl",
+      "name": "Slovenian",
+      "native_name": "Slovenščina",
+      "direction": "ltr",
+      "speakers_millions": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/sl.json"
+    },
+    {
+      "id": "lt",
+      "code": "lt",
+      "name": "Lithuanian",
+      "native_name": "Lietuvių",
+      "direction": "ltr",
+      "speakers_millions": 3,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/lt.json"
+    },
+    {
+      "id": "lv",
+      "code": "lv",
+      "name": "Latvian",
+      "native_name": "Latviešu",
+      "direction": "ltr",
+      "speakers_millions": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/lv.json"
+    },
+    {
+      "id": "et",
+      "code": "et",
+      "name": "Estonian",
+      "native_name": "Eesti",
+      "direction": "ltr",
+      "speakers_millions": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/et.json"
+    },
+    {
+      "id": "ca",
+      "code": "ca",
+      "name": "Catalan",
+      "native_name": "Català",
+      "direction": "ltr",
+      "speakers_millions": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ca.json"
+    },
+    {
+      "id": "gl",
+      "code": "gl",
+      "name": "Galician",
+      "native_name": "Galego",
+      "direction": "ltr",
+      "speakers_millions": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/gl.json"
+    },
+    {
+      "id": "eu",
+      "code": "eu",
+      "name": "Basque",
+      "native_name": "Euskara",
+      "direction": "ltr",
+      "speakers_millions": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/eu.json"
+    },
+    {
+      "id": "ga",
+      "code": "ga",
+      "name": "Irish",
+      "native_name": "Gaeilge",
+      "direction": "ltr",
+      "speakers_millions": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ga.json"
+    },
+    {
+      "id": "cy",
+      "code": "cy",
+      "name": "Welsh",
+      "native_name": "Cymraeg",
+      "direction": "ltr",
+      "speakers_millions": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/cy.json"
+    },
+    {
+      "id": "is",
+      "code": "is",
+      "name": "Icelandic",
+      "native_name": "Íslenska",
+      "direction": "ltr",
+      "speakers_millions": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/is.json"
+    },
+    {
+      "id": "mt",
+      "code": "mt",
+      "name": "Maltese",
+      "native_name": "Malti",
+      "direction": "ltr",
+      "speakers_millions": 1,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/mt.json"
+    },
+    {
+      "id": "sq",
+      "code": "sq",
+      "name": "Albanian",
+      "native_name": "Shqip",
+      "direction": "ltr",
+      "speakers_millions": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/sq.json"
+    },
+    {
+      "id": "mk",
+      "code": "mk",
+      "name": "Macedonian",
+      "native_name": "Македонски",
+      "direction": "ltr",
+      "speakers_millions": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/mk.json"
+    },
+    {
+      "id": "hy",
+      "code": "hy",
+      "name": "Armenian",
+      "native_name": "Հայերեն",
+      "direction": "ltr",
+      "speakers_millions": 7,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/hy.json"
+    },
+    {
+      "id": "ka",
+      "code": "ka",
+      "name": "Georgian",
+      "native_name": "ქართული",
+      "direction": "ltr",
+      "speakers_millions": 4,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ka.json"
+    },
+    {
+      "id": "az",
+      "code": "az",
+      "name": "Azerbaijani",
+      "native_name": "Azərbaycanca",
+      "direction": "ltr",
+      "speakers_millions": 24,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/az.json"
+    },
+    {
+      "id": "kk",
+      "code": "kk",
+      "name": "Kazakh",
+      "native_name": "Қазақша",
+      "direction": "ltr",
+      "speakers_millions": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/kk.json"
+    },
+    {
+      "id": "uz",
+      "code": "uz",
+      "name": "Uzbek",
+      "native_name": "Oʻzbekcha",
+      "direction": "ltr",
+      "speakers_millions": 35,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/uz.json"
+    },
+    {
+      "id": "mn",
+      "code": "mn",
+      "name": "Mongolian",
+      "native_name": "Монгол",
+      "direction": "ltr",
+      "speakers_millions": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/mn.json"
+    },
+    {
+      "id": "am",
+      "code": "am",
+      "name": "Amharic",
+      "native_name": "አማርኛ",
+      "direction": "ltr",
+      "speakers_millions": 57,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/am.json"
+    },
+    {
+      "id": "ha",
+      "code": "ha",
+      "name": "Hausa",
+      "native_name": "Hausa",
+      "direction": "ltr",
+      "speakers_millions": 79,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ha.json"
+    },
+    {
+      "id": "yo",
+      "code": "yo",
+      "name": "Yoruba",
+      "native_name": "Yorùbá",
+      "direction": "ltr",
+      "speakers_millions": 46,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/yo.json"
+    },
+    {
+      "id": "ig",
+      "code": "ig",
+      "name": "Igbo",
+      "native_name": "Igbo",
+      "direction": "ltr",
+      "speakers_millions": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ig.json"
+    },
+    {
+      "id": "zu",
+      "code": "zu",
+      "name": "Zulu",
+      "native_name": "isiZulu",
+      "direction": "ltr",
+      "speakers_millions": 28,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/zu.json"
+    },
+    {
+      "id": "xh",
+      "code": "xh",
+      "name": "Xhosa",
+      "native_name": "isiXhosa",
+      "direction": "ltr",
+      "speakers_millions": 19,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/xh.json"
+    },
+    {
+      "id": "af",
+      "code": "af",
+      "name": "Afrikaans",
+      "native_name": "Afrikaans",
+      "direction": "ltr",
+      "speakers_millions": 18,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/af.json"
+    },
+    {
+      "id": "so",
+      "code": "so",
+      "name": "Somali",
+      "native_name": "Soomaali",
+      "direction": "ltr",
+      "speakers_millions": 24,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/so.json"
+    },
+    {
+      "id": "ps",
+      "code": "ps",
+      "name": "Pashto",
+      "native_name": "پښتو",
+      "direction": "rtl",
+      "speakers_millions": 60,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ps.json"
+    },
+    {
+      "id": "ku",
+      "code": "ku",
+      "name": "Kurdish",
+      "native_name": "Kurdî",
+      "direction": "ltr",
+      "speakers_millions": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ku.json"
+    },
+    {
+      "id": "sd",
+      "code": "sd",
+      "name": "Sindhi",
+      "native_name": "سنڌي",
+      "direction": "rtl",
+      "speakers_millions": 33,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/sd.json"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "papaya",
+  "name": "Papaya",
+  "scientific_name": "Carica papaya",
+  "family": "Caricaceae",
+  "type": "Tropical",
+  "color": "Orange",
+  "origin_region": "Central America",
+  "calories_per_100g": 43,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/papaya.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "norway-spruce",
+  "common_name": "Norway Spruce",
+  "scientific_name": "Picea abies",
+  "family": "Pinaceae",
+  "type": "Coniferous",
+  "max_height_m": 55,
+  "native_region": "Northern and central Europe",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/norway-spruce.json"
+}

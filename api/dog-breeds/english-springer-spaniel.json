@@ -1,0 +1,10 @@
+{
+  "id": "english-springer-spaniel",
+  "name": "English Springer Spaniel",
+  "group": "Sporting",
+  "origin": "United Kingdom",
+  "size": "Medium",
+  "life_expectancy_years": "12-14",
+  "temperament": "Friendly, playful and obedient",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/english-springer-spaniel.json"
+}

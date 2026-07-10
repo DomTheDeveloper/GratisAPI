@@ -1,0 +1,18 @@
+{
+  "id": "floralwhite",
+  "name": "Floral White",
+  "hex": "#FFFAF0",
+  "rgb": {
+    "r": 255,
+    "g": 250,
+    "b": 240
+  },
+  "rgb_string": "rgb(255, 250, 240)",
+  "hsl": {
+    "h": 40,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(40, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/floralwhite.json"
+}

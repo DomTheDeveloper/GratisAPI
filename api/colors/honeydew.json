@@ -1,0 +1,18 @@
+{
+  "id": "honeydew",
+  "name": "Honeydew",
+  "hex": "#F0FFF0",
+  "rgb": {
+    "r": 240,
+    "g": 255,
+    "b": 240
+  },
+  "rgb_string": "rgb(240, 255, 240)",
+  "hsl": {
+    "h": 120,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(120, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/honeydew.json"
+}

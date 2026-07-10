@@ -1,0 +1,12 @@
+{
+  "id": "new-york",
+  "name": "New York",
+  "abbreviation": "NY",
+  "capital": "Albany",
+  "largest_city": "New York City",
+  "population": 20201249,
+  "area_km2": 141297,
+  "statehood_year": 1788,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/new-york.json"
+}

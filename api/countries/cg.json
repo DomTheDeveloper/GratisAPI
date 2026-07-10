@@ -1,0 +1,13 @@
+{
+  "id": "cg",
+  "name": "Republic of the Congo",
+  "alpha2": "CG",
+  "alpha3": "COG",
+  "capital": "Brazzaville",
+  "continent": "Africa",
+  "currency_code": "XAF",
+  "currency": "Central African CFA Franc",
+  "population_millions": 6,
+  "flag_emoji": "🇨🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cg.json"
+}

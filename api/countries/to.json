@@ -1,0 +1,13 @@
+{
+  "id": "to",
+  "name": "Tonga",
+  "alpha2": "TO",
+  "alpha3": "TON",
+  "capital": "Nuku'alofa",
+  "continent": "Oceania",
+  "currency_code": "TOP",
+  "currency": "Pa'anga",
+  "population_millions": 1,
+  "flag_emoji": "🇹🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/to.json"
+}

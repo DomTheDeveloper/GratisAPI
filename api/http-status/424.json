@@ -1,0 +1,8 @@
+{
+  "id": 424,
+  "code": 424,
+  "message": "Failed Dependency",
+  "category": "Client Error",
+  "description": "The request failed because it depended on another request that failed.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/424.json"
+}

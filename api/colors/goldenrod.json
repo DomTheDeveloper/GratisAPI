@@ -1,0 +1,18 @@
+{
+  "id": "goldenrod",
+  "name": "Goldenrod",
+  "hex": "#DAA520",
+  "rgb": {
+    "r": 218,
+    "g": 165,
+    "b": 32
+  },
+  "rgb_string": "rgb(218, 165, 32)",
+  "hsl": {
+    "h": 43,
+    "s": 74,
+    "l": 49
+  },
+  "hsl_string": "hsl(43, 74%, 49%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/goldenrod.json"
+}

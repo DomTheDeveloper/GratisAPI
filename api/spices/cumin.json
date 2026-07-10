@@ -1,0 +1,9 @@
+{
+  "id": "cumin",
+  "name": "Cumin",
+  "plant_part": "Seed",
+  "origin_region": "Middle East",
+  "flavor": "Earthy, warm",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/cumin.json"
+}

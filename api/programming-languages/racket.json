@@ -1,0 +1,13 @@
+{
+  "id": "racket",
+  "name": "Racket",
+  "year": 1995,
+  "paradigm": [
+    "Functional",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "PLT Inc.",
+  "extension": ".rkt",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/racket.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "eiger",
+  "name": "Eiger",
+  "height_m": 3967,
+  "range": "Alps",
+  "country": "Switzerland",
+  "continent": "Europe",
+  "first_ascent_year": 1858,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/eiger.json"
+}

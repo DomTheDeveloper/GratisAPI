@@ -1,0 +1,13 @@
+{
+  "id": "sb",
+  "name": "Solomon Islands",
+  "alpha2": "SB",
+  "alpha3": "SLB",
+  "capital": "Honiara",
+  "continent": "Oceania",
+  "currency_code": "SBD",
+  "currency": "Solomon Islands Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇸🇧",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sb.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 417,
+  "code": 417,
+  "message": "Expectation Failed",
+  "category": "Client Error",
+  "description": "The expectation given in the Expect header could not be met by the server.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/417.json"
+}

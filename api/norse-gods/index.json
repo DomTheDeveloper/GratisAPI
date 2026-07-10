@@ -1,0 +1,198 @@
+{
+  "api": "norse-gods",
+  "title": "Norse Gods",
+  "description": "Gods and figures of Norse mythology.",
+  "emoji": "⚔️",
+  "license": "GPL-2.0-or-later",
+  "count": 22,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/{id}.json"
+  },
+  "fields": [
+    "domain",
+    "id",
+    "name",
+    "symbol",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "odin",
+      "name": "Odin",
+      "domain": "Wisdom, war, death, poetry, king of the Aesir",
+      "type": "Aesir",
+      "symbol": "Spear Gungnir",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/odin.json"
+    },
+    {
+      "id": "thor",
+      "name": "Thor",
+      "domain": "Thunder, strength, protection",
+      "type": "Aesir",
+      "symbol": "Hammer Mjolnir",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/thor.json"
+    },
+    {
+      "id": "frigg",
+      "name": "Frigg",
+      "domain": "Marriage, motherhood, foresight, queen of the Aesir",
+      "type": "Aesir",
+      "symbol": "Distaff",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/frigg.json"
+    },
+    {
+      "id": "baldr",
+      "name": "Baldr",
+      "domain": "Light, purity, beauty",
+      "type": "Aesir",
+      "symbol": "Mistletoe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/baldr.json"
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "domain": "Trickery, mischief, shapeshifting",
+      "type": "Jotunn",
+      "symbol": "Serpent",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/loki.json"
+    },
+    {
+      "id": "tyr",
+      "name": "Tyr",
+      "domain": "War, law, justice, honor",
+      "type": "Aesir",
+      "symbol": "Sword",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/tyr.json"
+    },
+    {
+      "id": "heimdall",
+      "name": "Heimdall",
+      "domain": "Watchman of the gods, guardian of Bifrost",
+      "type": "Aesir",
+      "symbol": "Gjallarhorn",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/heimdall.json"
+    },
+    {
+      "id": "bragi",
+      "name": "Bragi",
+      "domain": "Poetry and eloquence",
+      "type": "Aesir",
+      "symbol": "Harp",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/bragi.json"
+    },
+    {
+      "id": "idunn",
+      "name": "Idunn",
+      "domain": "Youth, keeper of the golden apples",
+      "type": "Aesir",
+      "symbol": "Golden apples",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/idunn.json"
+    },
+    {
+      "id": "freyr",
+      "name": "Freyr",
+      "domain": "Fertility, prosperity, sunshine, harvest",
+      "type": "Vanir",
+      "symbol": "Boar Gullinbursti",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/freyr.json"
+    },
+    {
+      "id": "freyja",
+      "name": "Freyja",
+      "domain": "Love, beauty, fertility, war, seidr magic",
+      "type": "Vanir",
+      "symbol": "Necklace Brisingamen",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/freyja.json"
+    },
+    {
+      "id": "njord",
+      "name": "Njord",
+      "domain": "Sea, wind, seafaring, wealth",
+      "type": "Vanir",
+      "symbol": "Ship",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/njord.json"
+    },
+    {
+      "id": "sif",
+      "name": "Sif",
+      "domain": "Earth, harvest, fertility",
+      "type": "Aesir",
+      "symbol": "Golden hair",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/sif.json"
+    },
+    {
+      "id": "hel",
+      "name": "Hel",
+      "domain": "The underworld and the dead",
+      "type": "Other",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/hel.json"
+    },
+    {
+      "id": "ymir",
+      "name": "Ymir",
+      "domain": "Primeval being from whom the world was formed",
+      "type": "Jotunn",
+      "symbol": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/ymir.json"
+    },
+    {
+      "id": "skadi",
+      "name": "Skadi",
+      "domain": "Winter, mountains, hunting, skiing",
+      "type": "Jotunn",
+      "symbol": "Bow and skis",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/skadi.json"
+    },
+    {
+      "id": "vidar",
+      "name": "Vidar",
+      "domain": "Vengeance, silence",
+      "type": "Aesir",
+      "symbol": "Thick shoe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/vidar.json"
+    },
+    {
+      "id": "vali",
+      "name": "Vali",
+      "domain": "Vengeance",
+      "type": "Aesir",
+      "symbol": "Bow",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/vali.json"
+    },
+    {
+      "id": "forseti",
+      "name": "Forseti",
+      "domain": "Justice, reconciliation",
+      "type": "Aesir",
+      "symbol": "Axe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/forseti.json"
+    },
+    {
+      "id": "aegir",
+      "name": "Aegir",
+      "domain": "The sea, brewing",
+      "type": "Jotunn",
+      "symbol": "Ale cauldron",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/aegir.json"
+    },
+    {
+      "id": "fenrir",
+      "name": "Fenrir",
+      "domain": "The monstrous wolf destined to slay Odin",
+      "type": "Other",
+      "symbol": "Wolf",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/fenrir.json"
+    },
+    {
+      "id": "jormungandr",
+      "name": "Jormungandr",
+      "domain": "The world-encircling serpent",
+      "type": "Other",
+      "symbol": "Serpent",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/jormungandr.json"
+    }
+  ]
+}

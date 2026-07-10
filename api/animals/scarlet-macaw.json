@@ -1,0 +1,15 @@
+{
+  "id": "scarlet-macaw",
+  "common_name": "Scarlet Macaw",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Psittaciformes",
+  "family": "Psittacidae",
+  "genus": "Ara",
+  "species": "Ara macao",
+  "conservation_status": "Least Concern",
+  "habitat": "Tropical forests of Central and South America",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/scarlet-macaw.json"
+}

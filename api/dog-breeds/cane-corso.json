@@ -1,0 +1,10 @@
+{
+  "id": "cane-corso",
+  "name": "Cane Corso",
+  "group": "Working",
+  "origin": "Italy",
+  "size": "Large",
+  "life_expectancy_years": "9-12",
+  "temperament": "Affectionate, majestic and intelligent",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/cane-corso.json"
+}

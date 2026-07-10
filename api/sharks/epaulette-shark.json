@@ -1,0 +1,12 @@
+{
+  "id": "epaulette-shark",
+  "common_name": "Epaulette Shark",
+  "scientific_name": "Hemiscyllium ocellatum",
+  "family": "Hemiscylliidae",
+  "max_length_m": 1.07,
+  "habitat": "Shallow tropical reef flats and tide pools",
+  "diet": "Carnivore",
+  "conservation_status": "Least Concern",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/epaulette-shark.json"
+}

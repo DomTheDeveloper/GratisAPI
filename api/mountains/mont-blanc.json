@@ -1,0 +1,10 @@
+{
+  "id": "mont-blanc",
+  "name": "Mont Blanc",
+  "height_m": 4809,
+  "range": "Alps",
+  "country": "France / Italy",
+  "continent": "Europe",
+  "first_ascent_year": 1786,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mont-blanc.json"
+}

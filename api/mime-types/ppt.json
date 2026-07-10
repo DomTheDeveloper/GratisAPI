@@ -1,0 +1,10 @@
+{
+  "id": "ppt",
+  "mime_type": "application/vnd.ms-powerpoint",
+  "name": "Microsoft PowerPoint (Legacy)",
+  "category": "application",
+  "extensions": [
+    ".ppt"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ppt.json"
+}

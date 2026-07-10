@@ -1,0 +1,10 @@
+{
+  "id": "chickpea",
+  "name": "Chickpea",
+  "scientific_name": "Cicer arietinum",
+  "family": "Fabaceae",
+  "type": "Legume",
+  "color": "Beige",
+  "calories_per_100g": 164,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/chickpea.json"
+}

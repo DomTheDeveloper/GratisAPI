@@ -1,0 +1,15 @@
+{
+  "id": "giraffe",
+  "common_name": "Giraffe",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Giraffidae",
+  "genus": "Giraffa",
+  "species": "Giraffa camelopardalis",
+  "conservation_status": "Least Concern",
+  "habitat": "Savanna and open woodland",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/giraffe.json"
+}

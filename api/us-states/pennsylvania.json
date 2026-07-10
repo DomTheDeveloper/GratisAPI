@@ -1,0 +1,12 @@
+{
+  "id": "pennsylvania",
+  "name": "Pennsylvania",
+  "abbreviation": "PA",
+  "capital": "Harrisburg",
+  "largest_city": "Philadelphia",
+  "population": 13002700,
+  "area_km2": 119280,
+  "statehood_year": 1787,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/pennsylvania.json"
+}

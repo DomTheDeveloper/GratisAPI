@@ -1,0 +1,18 @@
+{
+  "id": "whitesmoke",
+  "name": "White Smoke",
+  "hex": "#F5F5F5",
+  "rgb": {
+    "r": 245,
+    "g": 245,
+    "b": 245
+  },
+  "rgb_string": "rgb(245, 245, 245)",
+  "hsl": {
+    "h": 0,
+    "s": 0,
+    "l": 96
+  },
+  "hsl_string": "hsl(0, 0%, 96%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/whitesmoke.json"
+}

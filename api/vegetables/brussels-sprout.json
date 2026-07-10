@@ -1,0 +1,10 @@
+{
+  "id": "brussels-sprout",
+  "name": "Brussels Sprout",
+  "scientific_name": "Brassica oleracea",
+  "family": "Brassicaceae",
+  "type": "Cruciferous",
+  "color": "Green",
+  "calories_per_100g": 43,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/brussels-sprout.json"
+}

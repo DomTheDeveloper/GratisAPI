@@ -1,0 +1,13 @@
+{
+  "id": "assembly",
+  "name": "Assembly",
+  "year": 1947,
+  "paradigm": [
+    "Imperative",
+    "Low-level"
+  ],
+  "typing": "Static",
+  "designed_by": "Kathleen Booth",
+  "extension": ".asm",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/assembly.json"
+}

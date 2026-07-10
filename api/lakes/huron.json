@@ -1,0 +1,9 @@
+{
+  "id": "huron",
+  "name": "Lake Huron",
+  "area_km2": 59600,
+  "max_depth_m": 229,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/huron.json"
+}

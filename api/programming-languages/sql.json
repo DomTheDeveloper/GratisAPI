@@ -1,0 +1,12 @@
+{
+  "id": "sql",
+  "name": "SQL",
+  "year": 1974,
+  "paradigm": [
+    "Declarative"
+  ],
+  "typing": "Static",
+  "designed_by": "Donald Chamberlin and Raymond Boyce",
+  "extension": ".sql",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/sql.json"
+}

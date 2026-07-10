@@ -1,0 +1,815 @@
+{
+  "api": "constellations",
+  "title": "Constellations",
+  "description": "The 88 official IAU constellations with abbreviations, meanings and areas.",
+  "emoji": "✨",
+  "license": "GPL-2.0-or-later",
+  "count": 88,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/constellations/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/constellations/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/constellations/{id}.json"
+  },
+  "fields": [
+    "abbreviation",
+    "area_sq_deg",
+    "id",
+    "meaning",
+    "name",
+    "quadrant"
+  ],
+  "results": [
+    {
+      "id": "andromeda",
+      "name": "Andromeda",
+      "abbreviation": "And",
+      "meaning": "The Chained Maiden",
+      "quadrant": "NQ1",
+      "area_sq_deg": 722.278,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/andromeda.json"
+    },
+    {
+      "id": "antlia",
+      "name": "Antlia",
+      "abbreviation": "Ant",
+      "meaning": "The Air Pump",
+      "quadrant": "SQ2",
+      "area_sq_deg": 238.901,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/antlia.json"
+    },
+    {
+      "id": "apus",
+      "name": "Apus",
+      "abbreviation": "Aps",
+      "meaning": "The Bird of Paradise",
+      "quadrant": "SQ3",
+      "area_sq_deg": 206.327,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/apus.json"
+    },
+    {
+      "id": "aquarius",
+      "name": "Aquarius",
+      "abbreviation": "Aqr",
+      "meaning": "The Water Bearer",
+      "quadrant": "SQ4",
+      "area_sq_deg": 979.854,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/aquarius.json"
+    },
+    {
+      "id": "aquila",
+      "name": "Aquila",
+      "abbreviation": "Aql",
+      "meaning": "The Eagle",
+      "quadrant": "NQ4",
+      "area_sq_deg": 652.473,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/aquila.json"
+    },
+    {
+      "id": "ara",
+      "name": "Ara",
+      "abbreviation": "Ara",
+      "meaning": "The Altar",
+      "quadrant": "SQ3",
+      "area_sq_deg": 237.057,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/ara.json"
+    },
+    {
+      "id": "aries",
+      "name": "Aries",
+      "abbreviation": "Ari",
+      "meaning": "The Ram",
+      "quadrant": "NQ1",
+      "area_sq_deg": 441.395,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/aries.json"
+    },
+    {
+      "id": "auriga",
+      "name": "Auriga",
+      "abbreviation": "Aur",
+      "meaning": "The Charioteer",
+      "quadrant": "NQ2",
+      "area_sq_deg": 657.438,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/auriga.json"
+    },
+    {
+      "id": "bootes",
+      "name": "Bootes",
+      "abbreviation": "Boo",
+      "meaning": "The Herdsman",
+      "quadrant": "NQ3",
+      "area_sq_deg": 906.831,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/bootes.json"
+    },
+    {
+      "id": "caelum",
+      "name": "Caelum",
+      "abbreviation": "Cae",
+      "meaning": "The Chisel",
+      "quadrant": "SQ1",
+      "area_sq_deg": 124.865,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/caelum.json"
+    },
+    {
+      "id": "camelopardalis",
+      "name": "Camelopardalis",
+      "abbreviation": "Cam",
+      "meaning": "The Giraffe",
+      "quadrant": "NQ2",
+      "area_sq_deg": 756.828,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/camelopardalis.json"
+    },
+    {
+      "id": "cancer",
+      "name": "Cancer",
+      "abbreviation": "Cnc",
+      "meaning": "The Crab",
+      "quadrant": "NQ2",
+      "area_sq_deg": 505.872,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/cancer.json"
+    },
+    {
+      "id": "canes-venatici",
+      "name": "Canes Venatici",
+      "abbreviation": "CVn",
+      "meaning": "The Hunting Dogs",
+      "quadrant": "NQ3",
+      "area_sq_deg": 465.194,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/canes-venatici.json"
+    },
+    {
+      "id": "canis-major",
+      "name": "Canis Major",
+      "abbreviation": "CMa",
+      "meaning": "The Greater Dog",
+      "quadrant": "SQ2",
+      "area_sq_deg": 380.118,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/canis-major.json"
+    },
+    {
+      "id": "canis-minor",
+      "name": "Canis Minor",
+      "abbreviation": "CMi",
+      "meaning": "The Lesser Dog",
+      "quadrant": "NQ2",
+      "area_sq_deg": 183.367,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/canis-minor.json"
+    },
+    {
+      "id": "capricornus",
+      "name": "Capricornus",
+      "abbreviation": "Cap",
+      "meaning": "The Sea Goat",
+      "quadrant": "SQ4",
+      "area_sq_deg": 413.947,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/capricornus.json"
+    },
+    {
+      "id": "carina",
+      "name": "Carina",
+      "abbreviation": "Car",
+      "meaning": "The Keel",
+      "quadrant": "SQ2",
+      "area_sq_deg": 494.184,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/carina.json"
+    },
+    {
+      "id": "cassiopeia",
+      "name": "Cassiopeia",
+      "abbreviation": "Cas",
+      "meaning": "The Seated Queen",
+      "quadrant": "NQ1",
+      "area_sq_deg": 598.407,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/cassiopeia.json"
+    },
+    {
+      "id": "centaurus",
+      "name": "Centaurus",
+      "abbreviation": "Cen",
+      "meaning": "The Centaur",
+      "quadrant": "SQ3",
+      "area_sq_deg": 1060.422,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/centaurus.json"
+    },
+    {
+      "id": "cepheus",
+      "name": "Cepheus",
+      "abbreviation": "Cep",
+      "meaning": "The King",
+      "quadrant": "NQ4",
+      "area_sq_deg": 587.787,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/cepheus.json"
+    },
+    {
+      "id": "cetus",
+      "name": "Cetus",
+      "abbreviation": "Cet",
+      "meaning": "The Sea Monster",
+      "quadrant": "SQ1",
+      "area_sq_deg": 1231.411,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/cetus.json"
+    },
+    {
+      "id": "chamaeleon",
+      "name": "Chamaeleon",
+      "abbreviation": "Cha",
+      "meaning": "The Chameleon",
+      "quadrant": "SQ2",
+      "area_sq_deg": 131.592,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/chamaeleon.json"
+    },
+    {
+      "id": "circinus",
+      "name": "Circinus",
+      "abbreviation": "Cir",
+      "meaning": "The Compasses",
+      "quadrant": "SQ3",
+      "area_sq_deg": 93.353,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/circinus.json"
+    },
+    {
+      "id": "columba",
+      "name": "Columba",
+      "abbreviation": "Col",
+      "meaning": "The Dove",
+      "quadrant": "SQ1",
+      "area_sq_deg": 270.184,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/columba.json"
+    },
+    {
+      "id": "coma-berenices",
+      "name": "Coma Berenices",
+      "abbreviation": "Com",
+      "meaning": "Berenice's Hair",
+      "quadrant": "NQ3",
+      "area_sq_deg": 386.475,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/coma-berenices.json"
+    },
+    {
+      "id": "corona-australis",
+      "name": "Corona Australis",
+      "abbreviation": "CrA",
+      "meaning": "The Southern Crown",
+      "quadrant": "SQ4",
+      "area_sq_deg": 127.696,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/corona-australis.json"
+    },
+    {
+      "id": "corona-borealis",
+      "name": "Corona Borealis",
+      "abbreviation": "CrB",
+      "meaning": "The Northern Crown",
+      "quadrant": "NQ3",
+      "area_sq_deg": 178.71,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/corona-borealis.json"
+    },
+    {
+      "id": "corvus",
+      "name": "Corvus",
+      "abbreviation": "Crv",
+      "meaning": "The Crow",
+      "quadrant": "SQ3",
+      "area_sq_deg": 183.801,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/corvus.json"
+    },
+    {
+      "id": "crater",
+      "name": "Crater",
+      "abbreviation": "Crt",
+      "meaning": "The Cup",
+      "quadrant": "SQ2",
+      "area_sq_deg": 282.398,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/crater.json"
+    },
+    {
+      "id": "crux",
+      "name": "Crux",
+      "abbreviation": "Cru",
+      "meaning": "The Southern Cross",
+      "quadrant": "SQ3",
+      "area_sq_deg": 68.447,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/crux.json"
+    },
+    {
+      "id": "cygnus",
+      "name": "Cygnus",
+      "abbreviation": "Cyg",
+      "meaning": "The Swan",
+      "quadrant": "NQ4",
+      "area_sq_deg": 803.983,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/cygnus.json"
+    },
+    {
+      "id": "delphinus",
+      "name": "Delphinus",
+      "abbreviation": "Del",
+      "meaning": "The Dolphin",
+      "quadrant": "NQ4",
+      "area_sq_deg": 188.549,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/delphinus.json"
+    },
+    {
+      "id": "dorado",
+      "name": "Dorado",
+      "abbreviation": "Dor",
+      "meaning": "The Swordfish",
+      "quadrant": "SQ1",
+      "area_sq_deg": 179.173,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/dorado.json"
+    },
+    {
+      "id": "draco",
+      "name": "Draco",
+      "abbreviation": "Dra",
+      "meaning": "The Dragon",
+      "quadrant": "NQ3",
+      "area_sq_deg": 1082.952,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/draco.json"
+    },
+    {
+      "id": "equuleus",
+      "name": "Equuleus",
+      "abbreviation": "Equ",
+      "meaning": "The Little Horse",
+      "quadrant": "NQ4",
+      "area_sq_deg": 71.641,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/equuleus.json"
+    },
+    {
+      "id": "eridanus",
+      "name": "Eridanus",
+      "abbreviation": "Eri",
+      "meaning": "The River",
+      "quadrant": "SQ1",
+      "area_sq_deg": 1137.919,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/eridanus.json"
+    },
+    {
+      "id": "fornax",
+      "name": "Fornax",
+      "abbreviation": "For",
+      "meaning": "The Furnace",
+      "quadrant": "SQ1",
+      "area_sq_deg": 397.502,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/fornax.json"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "abbreviation": "Gem",
+      "meaning": "The Twins",
+      "quadrant": "NQ2",
+      "area_sq_deg": 513.761,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/gemini.json"
+    },
+    {
+      "id": "grus",
+      "name": "Grus",
+      "abbreviation": "Gru",
+      "meaning": "The Crane",
+      "quadrant": "SQ4",
+      "area_sq_deg": 365.513,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/grus.json"
+    },
+    {
+      "id": "hercules",
+      "name": "Hercules",
+      "abbreviation": "Her",
+      "meaning": "Hercules",
+      "quadrant": "NQ3",
+      "area_sq_deg": 1225.148,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/hercules.json"
+    },
+    {
+      "id": "horologium",
+      "name": "Horologium",
+      "abbreviation": "Hor",
+      "meaning": "The Pendulum Clock",
+      "quadrant": "SQ1",
+      "area_sq_deg": 248.885,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/horologium.json"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "abbreviation": "Hya",
+      "meaning": "The Female Water Snake",
+      "quadrant": "SQ2",
+      "area_sq_deg": 1302.844,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/hydra.json"
+    },
+    {
+      "id": "hydrus",
+      "name": "Hydrus",
+      "abbreviation": "Hyi",
+      "meaning": "The Male Water Snake",
+      "quadrant": "SQ1",
+      "area_sq_deg": 243.035,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/hydrus.json"
+    },
+    {
+      "id": "indus",
+      "name": "Indus",
+      "abbreviation": "Ind",
+      "meaning": "The Indian",
+      "quadrant": "SQ4",
+      "area_sq_deg": 294.006,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/indus.json"
+    },
+    {
+      "id": "lacerta",
+      "name": "Lacerta",
+      "abbreviation": "Lac",
+      "meaning": "The Lizard",
+      "quadrant": "NQ4",
+      "area_sq_deg": 200.688,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/lacerta.json"
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "abbreviation": "Leo",
+      "meaning": "The Lion",
+      "quadrant": "NQ2",
+      "area_sq_deg": 946.964,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/leo.json"
+    },
+    {
+      "id": "leo-minor",
+      "name": "Leo Minor",
+      "abbreviation": "LMi",
+      "meaning": "The Lesser Lion",
+      "quadrant": "NQ2",
+      "area_sq_deg": 231.956,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/leo-minor.json"
+    },
+    {
+      "id": "lepus",
+      "name": "Lepus",
+      "abbreviation": "Lep",
+      "meaning": "The Hare",
+      "quadrant": "SQ1",
+      "area_sq_deg": 290.291,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/lepus.json"
+    },
+    {
+      "id": "libra",
+      "name": "Libra",
+      "abbreviation": "Lib",
+      "meaning": "The Scales",
+      "quadrant": "SQ3",
+      "area_sq_deg": 538.052,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/libra.json"
+    },
+    {
+      "id": "lupus",
+      "name": "Lupus",
+      "abbreviation": "Lup",
+      "meaning": "The Wolf",
+      "quadrant": "SQ3",
+      "area_sq_deg": 333.683,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/lupus.json"
+    },
+    {
+      "id": "lynx",
+      "name": "Lynx",
+      "abbreviation": "Lyn",
+      "meaning": "The Lynx",
+      "quadrant": "NQ2",
+      "area_sq_deg": 545.386,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/lynx.json"
+    },
+    {
+      "id": "lyra",
+      "name": "Lyra",
+      "abbreviation": "Lyr",
+      "meaning": "The Lyre",
+      "quadrant": "NQ4",
+      "area_sq_deg": 286.476,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/lyra.json"
+    },
+    {
+      "id": "mensa",
+      "name": "Mensa",
+      "abbreviation": "Men",
+      "meaning": "The Table Mountain",
+      "quadrant": "SQ1",
+      "area_sq_deg": 153.484,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/mensa.json"
+    },
+    {
+      "id": "microscopium",
+      "name": "Microscopium",
+      "abbreviation": "Mic",
+      "meaning": "The Microscope",
+      "quadrant": "SQ4",
+      "area_sq_deg": 209.513,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/microscopium.json"
+    },
+    {
+      "id": "monoceros",
+      "name": "Monoceros",
+      "abbreviation": "Mon",
+      "meaning": "The Unicorn",
+      "quadrant": "NQ2",
+      "area_sq_deg": 481.569,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/monoceros.json"
+    },
+    {
+      "id": "musca",
+      "name": "Musca",
+      "abbreviation": "Mus",
+      "meaning": "The Fly",
+      "quadrant": "SQ3",
+      "area_sq_deg": 138.355,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/musca.json"
+    },
+    {
+      "id": "norma",
+      "name": "Norma",
+      "abbreviation": "Nor",
+      "meaning": "The Carpenter's Square",
+      "quadrant": "SQ3",
+      "area_sq_deg": 165.29,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/norma.json"
+    },
+    {
+      "id": "octans",
+      "name": "Octans",
+      "abbreviation": "Oct",
+      "meaning": "The Octant",
+      "quadrant": "SQ4",
+      "area_sq_deg": 291.045,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/octans.json"
+    },
+    {
+      "id": "ophiuchus",
+      "name": "Ophiuchus",
+      "abbreviation": "Oph",
+      "meaning": "The Serpent Bearer",
+      "quadrant": "SQ3",
+      "area_sq_deg": 948.34,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/ophiuchus.json"
+    },
+    {
+      "id": "orion",
+      "name": "Orion",
+      "abbreviation": "Ori",
+      "meaning": "The Hunter",
+      "quadrant": "NQ1",
+      "area_sq_deg": 594.12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/orion.json"
+    },
+    {
+      "id": "pavo",
+      "name": "Pavo",
+      "abbreviation": "Pav",
+      "meaning": "The Peacock",
+      "quadrant": "SQ4",
+      "area_sq_deg": 377.666,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/pavo.json"
+    },
+    {
+      "id": "pegasus",
+      "name": "Pegasus",
+      "abbreviation": "Peg",
+      "meaning": "The Winged Horse",
+      "quadrant": "NQ4",
+      "area_sq_deg": 1120.794,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/pegasus.json"
+    },
+    {
+      "id": "perseus",
+      "name": "Perseus",
+      "abbreviation": "Per",
+      "meaning": "Perseus",
+      "quadrant": "NQ1",
+      "area_sq_deg": 614.997,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/perseus.json"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "abbreviation": "Phe",
+      "meaning": "The Phoenix",
+      "quadrant": "SQ1",
+      "area_sq_deg": 469.319,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/phoenix.json"
+    },
+    {
+      "id": "pictor",
+      "name": "Pictor",
+      "abbreviation": "Pic",
+      "meaning": "The Painter's Easel",
+      "quadrant": "SQ1",
+      "area_sq_deg": 246.739,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/pictor.json"
+    },
+    {
+      "id": "pisces",
+      "name": "Pisces",
+      "abbreviation": "Psc",
+      "meaning": "The Fishes",
+      "quadrant": "NQ1",
+      "area_sq_deg": 889.417,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/pisces.json"
+    },
+    {
+      "id": "piscis-austrinus",
+      "name": "Piscis Austrinus",
+      "abbreviation": "PsA",
+      "meaning": "The Southern Fish",
+      "quadrant": "SQ4",
+      "area_sq_deg": 245.375,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/piscis-austrinus.json"
+    },
+    {
+      "id": "puppis",
+      "name": "Puppis",
+      "abbreviation": "Pup",
+      "meaning": "The Stern",
+      "quadrant": "SQ2",
+      "area_sq_deg": 673.434,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/puppis.json"
+    },
+    {
+      "id": "pyxis",
+      "name": "Pyxis",
+      "abbreviation": "Pyx",
+      "meaning": "The Mariner's Compass",
+      "quadrant": "SQ2",
+      "area_sq_deg": 220.833,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/pyxis.json"
+    },
+    {
+      "id": "reticulum",
+      "name": "Reticulum",
+      "abbreviation": "Ret",
+      "meaning": "The Reticle",
+      "quadrant": "SQ1",
+      "area_sq_deg": 113.936,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/reticulum.json"
+    },
+    {
+      "id": "sagitta",
+      "name": "Sagitta",
+      "abbreviation": "Sge",
+      "meaning": "The Arrow",
+      "quadrant": "NQ4",
+      "area_sq_deg": 79.932,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/sagitta.json"
+    },
+    {
+      "id": "sagittarius",
+      "name": "Sagittarius",
+      "abbreviation": "Sgr",
+      "meaning": "The Archer",
+      "quadrant": "SQ4",
+      "area_sq_deg": 867.432,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/sagittarius.json"
+    },
+    {
+      "id": "scorpius",
+      "name": "Scorpius",
+      "abbreviation": "Sco",
+      "meaning": "The Scorpion",
+      "quadrant": "SQ3",
+      "area_sq_deg": 496.783,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/scorpius.json"
+    },
+    {
+      "id": "sculptor",
+      "name": "Sculptor",
+      "abbreviation": "Scl",
+      "meaning": "The Sculptor",
+      "quadrant": "SQ1",
+      "area_sq_deg": 474.764,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/sculptor.json"
+    },
+    {
+      "id": "scutum",
+      "name": "Scutum",
+      "abbreviation": "Sct",
+      "meaning": "The Shield",
+      "quadrant": "SQ4",
+      "area_sq_deg": 109.114,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/scutum.json"
+    },
+    {
+      "id": "serpens",
+      "name": "Serpens",
+      "abbreviation": "Ser",
+      "meaning": "The Serpent",
+      "quadrant": "NQ3",
+      "area_sq_deg": 636.928,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/serpens.json"
+    },
+    {
+      "id": "sextans",
+      "name": "Sextans",
+      "abbreviation": "Sex",
+      "meaning": "The Sextant",
+      "quadrant": "SQ2",
+      "area_sq_deg": 313.515,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/sextans.json"
+    },
+    {
+      "id": "taurus",
+      "name": "Taurus",
+      "abbreviation": "Tau",
+      "meaning": "The Bull",
+      "quadrant": "NQ1",
+      "area_sq_deg": 797.249,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/taurus.json"
+    },
+    {
+      "id": "telescopium",
+      "name": "Telescopium",
+      "abbreviation": "Tel",
+      "meaning": "The Telescope",
+      "quadrant": "SQ4",
+      "area_sq_deg": 251.512,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/telescopium.json"
+    },
+    {
+      "id": "triangulum",
+      "name": "Triangulum",
+      "abbreviation": "Tri",
+      "meaning": "The Triangle",
+      "quadrant": "NQ1",
+      "area_sq_deg": 131.847,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/triangulum.json"
+    },
+    {
+      "id": "triangulum-australe",
+      "name": "Triangulum Australe",
+      "abbreviation": "TrA",
+      "meaning": "The Southern Triangle",
+      "quadrant": "SQ3",
+      "area_sq_deg": 109.978,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/triangulum-australe.json"
+    },
+    {
+      "id": "tucana",
+      "name": "Tucana",
+      "abbreviation": "Tuc",
+      "meaning": "The Toucan",
+      "quadrant": "SQ4",
+      "area_sq_deg": 294.557,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/tucana.json"
+    },
+    {
+      "id": "ursa-major",
+      "name": "Ursa Major",
+      "abbreviation": "UMa",
+      "meaning": "The Great Bear",
+      "quadrant": "NQ2",
+      "area_sq_deg": 1279.66,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/ursa-major.json"
+    },
+    {
+      "id": "ursa-minor",
+      "name": "Ursa Minor",
+      "abbreviation": "UMi",
+      "meaning": "The Little Bear",
+      "quadrant": "NQ3",
+      "area_sq_deg": 255.864,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/ursa-minor.json"
+    },
+    {
+      "id": "vela",
+      "name": "Vela",
+      "abbreviation": "Vel",
+      "meaning": "The Sails",
+      "quadrant": "SQ2",
+      "area_sq_deg": 499.649,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/vela.json"
+    },
+    {
+      "id": "virgo",
+      "name": "Virgo",
+      "abbreviation": "Vir",
+      "meaning": "The Maiden",
+      "quadrant": "SQ3",
+      "area_sq_deg": 1294.428,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/virgo.json"
+    },
+    {
+      "id": "volans",
+      "name": "Volans",
+      "abbreviation": "Vol",
+      "meaning": "The Flying Fish",
+      "quadrant": "SQ2",
+      "area_sq_deg": 141.354,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/volans.json"
+    },
+    {
+      "id": "vulpecula",
+      "name": "Vulpecula",
+      "abbreviation": "Vul",
+      "meaning": "The Fox",
+      "quadrant": "NQ4",
+      "area_sq_deg": 268.165,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/vulpecula.json"
+    }
+  ]
+}

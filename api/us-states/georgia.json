@@ -1,0 +1,12 @@
+{
+  "id": "georgia",
+  "name": "Georgia",
+  "abbreviation": "GA",
+  "capital": "Atlanta",
+  "largest_city": "Atlanta",
+  "population": 10711908,
+  "area_km2": 153910,
+  "statehood_year": 1788,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/georgia.json"
+}

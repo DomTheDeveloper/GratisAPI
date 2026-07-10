@@ -1,0 +1,8 @@
+{
+  "id": "square-root-5",
+  "name": "Square root of 5",
+  "symbol": "sqrt(5)",
+  "value": 2.23606797749979,
+  "description": "Appears in the golden ratio formula.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/square-root-5.json"
+}

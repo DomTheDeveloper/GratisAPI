@@ -1,0 +1,9 @@
+{
+  "id": "neutron-mass",
+  "name": "Neutron mass",
+  "symbol": "m_n",
+  "value": 1.67492749804e-27,
+  "unit": "kg",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/neutron-mass.json"
+}

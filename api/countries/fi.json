@@ -1,0 +1,13 @@
+{
+  "id": "fi",
+  "name": "Finland",
+  "alpha2": "FI",
+  "alpha3": "FIN",
+  "capital": "Helsinki",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 6,
+  "flag_emoji": "🇫🇮",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/fi.json"
+}

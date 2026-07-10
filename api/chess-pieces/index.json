@@ -1,0 +1,77 @@
+{
+  "api": "chess-pieces",
+  "title": "Chess Pieces",
+  "description": "The six chess pieces with their Unicode symbols, relative point value, and movement rules.",
+  "emoji": "♟️",
+  "license": "GPL-2.0-or-later",
+  "count": 6,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/{id}.json"
+  },
+  "fields": [
+    "id",
+    "movement",
+    "name",
+    "symbol_black",
+    "symbol_white",
+    "value"
+  ],
+  "results": [
+    {
+      "id": "king",
+      "name": "King",
+      "symbol_white": "♔",
+      "symbol_black": "♚",
+      "value": null,
+      "movement": "One square in any direction",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/king.json"
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "symbol_white": "♕",
+      "symbol_black": "♛",
+      "value": 9,
+      "movement": "Any number of squares horizontally, vertically, or diagonally",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/queen.json"
+    },
+    {
+      "id": "rook",
+      "name": "Rook",
+      "symbol_white": "♖",
+      "symbol_black": "♜",
+      "value": 5,
+      "movement": "Any number of squares horizontally or vertically",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/rook.json"
+    },
+    {
+      "id": "bishop",
+      "name": "Bishop",
+      "symbol_white": "♗",
+      "symbol_black": "♝",
+      "value": 3,
+      "movement": "Any number of squares diagonally",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/bishop.json"
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "symbol_white": "♘",
+      "symbol_black": "♞",
+      "value": 3,
+      "movement": "In an L-shape; may jump over other pieces",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/knight.json"
+    },
+    {
+      "id": "pawn",
+      "name": "Pawn",
+      "symbol_white": "♙",
+      "symbol_black": "♟",
+      "value": 1,
+      "movement": "Forward one square (two on first move); captures diagonally",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/pawn.json"
+    }
+  ]
+}

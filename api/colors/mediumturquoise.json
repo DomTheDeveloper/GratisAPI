@@ -1,0 +1,18 @@
+{
+  "id": "mediumturquoise",
+  "name": "Medium Turquoise",
+  "hex": "#48D1CC",
+  "rgb": {
+    "r": 72,
+    "g": 209,
+    "b": 204
+  },
+  "rgb_string": "rgb(72, 209, 204)",
+  "hsl": {
+    "h": 178,
+    "s": 60,
+    "l": 55
+  },
+  "hsl_string": "hsl(178, 60%, 55%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumturquoise.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "european-robin",
+  "common_name": "European Robin",
+  "scientific_name": "Erithacus rubecula",
+  "family": "Muscicapidae",
+  "habitat": "Woodlands, parks and gardens",
+  "diet": "Omnivore",
+  "wingspan_cm": 22,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/european-robin.json"
+}

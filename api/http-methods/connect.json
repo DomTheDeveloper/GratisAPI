@@ -1,0 +1,10 @@
+{
+  "id": "connect",
+  "method": "CONNECT",
+  "description": "Establishes a tunnel to the server identified by the target resource.",
+  "safe": false,
+  "idempotent": false,
+  "cacheable": false,
+  "has_request_body": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/connect.json"
+}

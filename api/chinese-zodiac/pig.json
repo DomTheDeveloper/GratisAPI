@@ -1,0 +1,15 @@
+{
+  "id": "pig",
+  "animal": "Pig",
+  "order": 12,
+  "element": "Water",
+  "yin_yang": "Yin",
+  "traits": "Generous, diligent, easygoing",
+  "recent_years": [
+    1995,
+    2007,
+    2019,
+    2031
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/pig.json"
+}

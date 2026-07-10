@@ -1,0 +1,9 @@
+{
+  "id": "sirius",
+  "name": "Sirius",
+  "constellation": "Canis Major",
+  "apparent_magnitude": -1.46,
+  "distance_ly": 8.6,
+  "spectral_type": "A1V",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/sirius.json"
+}

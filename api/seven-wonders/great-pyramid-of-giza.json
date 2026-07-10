@@ -1,0 +1,9 @@
+{
+  "id": "great-pyramid-of-giza",
+  "name": "Great Pyramid of Giza",
+  "category": "Ancient",
+  "location": "Egypt",
+  "built": "c. 2560 BC",
+  "still_standing": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/great-pyramid-of-giza.json"
+}

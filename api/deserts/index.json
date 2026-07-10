@@ -1,0 +1,190 @@
+{
+  "api": "deserts",
+  "title": "Deserts",
+  "description": "Major deserts of the world with approximate area, continent, and type.",
+  "emoji": "🏜",
+  "license": "GPL-2.0-or-later",
+  "count": 21,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/deserts/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/deserts/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/deserts/{id}.json"
+  },
+  "fields": [
+    "area_km2",
+    "continent",
+    "id",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "antarctic",
+      "name": "Antarctic Desert",
+      "area_km2": 14000000,
+      "continent": "Antarctica",
+      "type": "Cold (polar)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/antarctic.json"
+    },
+    {
+      "id": "arctic",
+      "name": "Arctic Desert",
+      "area_km2": 13900000,
+      "continent": "Arctic",
+      "type": "Cold (polar)",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/arctic.json"
+    },
+    {
+      "id": "sahara",
+      "name": "Sahara",
+      "area_km2": 9200000,
+      "continent": "Africa",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/sahara.json"
+    },
+    {
+      "id": "arabian",
+      "name": "Arabian Desert",
+      "area_km2": 2330000,
+      "continent": "Asia",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/arabian.json"
+    },
+    {
+      "id": "gobi",
+      "name": "Gobi Desert",
+      "area_km2": 1295000,
+      "continent": "Asia",
+      "type": "Cold",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/gobi.json"
+    },
+    {
+      "id": "kalahari",
+      "name": "Kalahari Desert",
+      "area_km2": 900000,
+      "continent": "Africa",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/kalahari.json"
+    },
+    {
+      "id": "patagonian",
+      "name": "Patagonian Desert",
+      "area_km2": 673000,
+      "continent": "South America",
+      "type": "Cold",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/patagonian.json"
+    },
+    {
+      "id": "great-victoria",
+      "name": "Great Victoria Desert",
+      "area_km2": 348750,
+      "continent": "Oceania",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/great-victoria.json"
+    },
+    {
+      "id": "syrian",
+      "name": "Syrian Desert",
+      "area_km2": 500000,
+      "continent": "Asia",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/syrian.json"
+    },
+    {
+      "id": "great-basin",
+      "name": "Great Basin Desert",
+      "area_km2": 492000,
+      "continent": "North America",
+      "type": "Cold",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/great-basin.json"
+    },
+    {
+      "id": "chihuahuan",
+      "name": "Chihuahuan Desert",
+      "area_km2": 362000,
+      "continent": "North America",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/chihuahuan.json"
+    },
+    {
+      "id": "great-sandy",
+      "name": "Great Sandy Desert",
+      "area_km2": 284993,
+      "continent": "Oceania",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/great-sandy.json"
+    },
+    {
+      "id": "kyzylkum",
+      "name": "Kyzylkum Desert",
+      "area_km2": 298000,
+      "continent": "Asia",
+      "type": "Cold",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/kyzylkum.json"
+    },
+    {
+      "id": "sonoran",
+      "name": "Sonoran Desert",
+      "area_km2": 260000,
+      "continent": "North America",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/sonoran.json"
+    },
+    {
+      "id": "taklamakan",
+      "name": "Taklamakan Desert",
+      "area_km2": 337000,
+      "continent": "Asia",
+      "type": "Cold",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/taklamakan.json"
+    },
+    {
+      "id": "thar",
+      "name": "Thar Desert",
+      "area_km2": 200000,
+      "continent": "Asia",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/thar.json"
+    },
+    {
+      "id": "karakum",
+      "name": "Karakum Desert",
+      "area_km2": 350000,
+      "continent": "Asia",
+      "type": "Cold",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/karakum.json"
+    },
+    {
+      "id": "namib",
+      "name": "Namib Desert",
+      "area_km2": 81000,
+      "continent": "Africa",
+      "type": "Coastal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/namib.json"
+    },
+    {
+      "id": "atacama",
+      "name": "Atacama Desert",
+      "area_km2": 105000,
+      "continent": "South America",
+      "type": "Coastal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/atacama.json"
+    },
+    {
+      "id": "mojave",
+      "name": "Mojave Desert",
+      "area_km2": 124000,
+      "continent": "North America",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/mojave.json"
+    },
+    {
+      "id": "simpson",
+      "name": "Simpson Desert",
+      "area_km2": 176500,
+      "continent": "Oceania",
+      "type": "Hot",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/simpson.json"
+    }
+  ]
+}

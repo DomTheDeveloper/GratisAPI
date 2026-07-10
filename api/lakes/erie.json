@@ -1,0 +1,9 @@
+{
+  "id": "erie",
+  "name": "Lake Erie",
+  "area_km2": 25700,
+  "max_depth_m": 64,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/erie.json"
+}

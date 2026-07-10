@@ -1,0 +1,10 @@
+{
+  "id": "boston-terrier",
+  "name": "Boston Terrier",
+  "group": "Non-Sporting",
+  "origin": "United States",
+  "size": "Small",
+  "life_expectancy_years": "11-13",
+  "temperament": "Friendly, bright and amusing",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/boston-terrier.json"
+}

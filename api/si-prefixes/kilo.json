@@ -1,0 +1,8 @@
+{
+  "id": "kilo",
+  "name": "kilo",
+  "symbol": "k",
+  "base_10": 3,
+  "factor": "1e3",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/kilo.json"
+}

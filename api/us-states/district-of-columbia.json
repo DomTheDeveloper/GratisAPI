@@ -1,0 +1,12 @@
+{
+  "id": "district-of-columbia",
+  "name": "District of Columbia",
+  "abbreviation": "DC",
+  "capital": "Washington",
+  "largest_city": "Washington",
+  "population": 689545,
+  "area_km2": 177,
+  "statehood_year": 1790,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/district-of-columbia.json"
+}

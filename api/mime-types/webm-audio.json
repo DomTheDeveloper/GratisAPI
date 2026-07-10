@@ -1,0 +1,10 @@
+{
+  "id": "webm-audio",
+  "mime_type": "audio/webm",
+  "name": "WebM Audio",
+  "category": "audio",
+  "extensions": [
+    ".weba"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/webm-audio.json"
+}

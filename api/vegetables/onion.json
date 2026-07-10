@@ -1,0 +1,10 @@
+{
+  "id": "onion",
+  "name": "Onion",
+  "scientific_name": "Allium cepa",
+  "family": "Amaryllidaceae",
+  "type": "Bulb",
+  "color": "Yellow",
+  "calories_per_100g": 40,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/onion.json"
+}

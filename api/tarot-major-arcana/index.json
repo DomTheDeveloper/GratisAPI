@@ -1,0 +1,286 @@
+{
+  "api": "tarot-major-arcana",
+  "title": "Tarot Major Arcana",
+  "description": "The twenty-two Major Arcana cards of the tarot with keywords and elemental association.",
+  "emoji": "🔮",
+  "license": "GPL-2.0-or-later",
+  "count": 22,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/{id}.json"
+  },
+  "fields": [
+    "element",
+    "id",
+    "keywords",
+    "name",
+    "number"
+  ],
+  "results": [
+    {
+      "id": "the-fool",
+      "number": 0,
+      "name": "The Fool",
+      "keywords": [
+        "beginnings",
+        "innocence",
+        "spontaneity"
+      ],
+      "element": "Air",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-fool.json"
+    },
+    {
+      "id": "the-magician",
+      "number": 1,
+      "name": "The Magician",
+      "keywords": [
+        "manifestation",
+        "power",
+        "skill"
+      ],
+      "element": "Air",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-magician.json"
+    },
+    {
+      "id": "the-high-priestess",
+      "number": 2,
+      "name": "The High Priestess",
+      "keywords": [
+        "intuition",
+        "mystery",
+        "subconscious"
+      ],
+      "element": "Water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-high-priestess.json"
+    },
+    {
+      "id": "the-empress",
+      "number": 3,
+      "name": "The Empress",
+      "keywords": [
+        "fertility",
+        "abundance",
+        "nurturing"
+      ],
+      "element": "Earth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-empress.json"
+    },
+    {
+      "id": "the-emperor",
+      "number": 4,
+      "name": "The Emperor",
+      "keywords": [
+        "authority",
+        "structure",
+        "control"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-emperor.json"
+    },
+    {
+      "id": "the-hierophant",
+      "number": 5,
+      "name": "The Hierophant",
+      "keywords": [
+        "tradition",
+        "conformity",
+        "spirituality"
+      ],
+      "element": "Earth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-hierophant.json"
+    },
+    {
+      "id": "the-lovers",
+      "number": 6,
+      "name": "The Lovers",
+      "keywords": [
+        "love",
+        "harmony",
+        "choices"
+      ],
+      "element": "Air",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-lovers.json"
+    },
+    {
+      "id": "the-chariot",
+      "number": 7,
+      "name": "The Chariot",
+      "keywords": [
+        "willpower",
+        "victory",
+        "determination"
+      ],
+      "element": "Water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-chariot.json"
+    },
+    {
+      "id": "strength",
+      "number": 8,
+      "name": "Strength",
+      "keywords": [
+        "courage",
+        "patience",
+        "compassion"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/strength.json"
+    },
+    {
+      "id": "the-hermit",
+      "number": 9,
+      "name": "The Hermit",
+      "keywords": [
+        "introspection",
+        "solitude",
+        "guidance"
+      ],
+      "element": "Earth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-hermit.json"
+    },
+    {
+      "id": "wheel-of-fortune",
+      "number": 10,
+      "name": "Wheel of Fortune",
+      "keywords": [
+        "destiny",
+        "cycles",
+        "change"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/wheel-of-fortune.json"
+    },
+    {
+      "id": "justice",
+      "number": 11,
+      "name": "Justice",
+      "keywords": [
+        "fairness",
+        "truth",
+        "cause and effect"
+      ],
+      "element": "Air",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/justice.json"
+    },
+    {
+      "id": "the-hanged-man",
+      "number": 12,
+      "name": "The Hanged Man",
+      "keywords": [
+        "surrender",
+        "perspective",
+        "sacrifice"
+      ],
+      "element": "Water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-hanged-man.json"
+    },
+    {
+      "id": "death",
+      "number": 13,
+      "name": "Death",
+      "keywords": [
+        "endings",
+        "transformation",
+        "transition"
+      ],
+      "element": "Water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/death.json"
+    },
+    {
+      "id": "temperance",
+      "number": 14,
+      "name": "Temperance",
+      "keywords": [
+        "balance",
+        "moderation",
+        "patience"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/temperance.json"
+    },
+    {
+      "id": "the-devil",
+      "number": 15,
+      "name": "The Devil",
+      "keywords": [
+        "bondage",
+        "materialism",
+        "temptation"
+      ],
+      "element": "Earth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-devil.json"
+    },
+    {
+      "id": "the-tower",
+      "number": 16,
+      "name": "The Tower",
+      "keywords": [
+        "upheaval",
+        "sudden change",
+        "revelation"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-tower.json"
+    },
+    {
+      "id": "the-star",
+      "number": 17,
+      "name": "The Star",
+      "keywords": [
+        "hope",
+        "inspiration",
+        "serenity"
+      ],
+      "element": "Air",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-star.json"
+    },
+    {
+      "id": "the-moon",
+      "number": 18,
+      "name": "The Moon",
+      "keywords": [
+        "illusion",
+        "intuition",
+        "the unconscious"
+      ],
+      "element": "Water",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-moon.json"
+    },
+    {
+      "id": "the-sun",
+      "number": 19,
+      "name": "The Sun",
+      "keywords": [
+        "joy",
+        "success",
+        "vitality"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-sun.json"
+    },
+    {
+      "id": "judgement",
+      "number": 20,
+      "name": "Judgement",
+      "keywords": [
+        "reckoning",
+        "awakening",
+        "renewal"
+      ],
+      "element": "Fire",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/judgement.json"
+    },
+    {
+      "id": "the-world",
+      "number": 21,
+      "name": "The World",
+      "keywords": [
+        "completion",
+        "fulfillment",
+        "wholeness"
+      ],
+      "element": "Earth",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/the-world.json"
+    }
+  ]
+}

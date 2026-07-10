@@ -1,0 +1,9 @@
+{
+  "id": "ro",
+  "code": "ro",
+  "name": "Romanian",
+  "native_name": "Română",
+  "direction": "ltr",
+  "speakers_millions": 24,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ro.json"
+}

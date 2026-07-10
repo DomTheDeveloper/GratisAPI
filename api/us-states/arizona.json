@@ -1,0 +1,12 @@
+{
+  "id": "arizona",
+  "name": "Arizona",
+  "abbreviation": "AZ",
+  "capital": "Phoenix",
+  "largest_city": "Phoenix",
+  "population": 7151502,
+  "area_km2": 295234,
+  "statehood_year": 1912,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/arizona.json"
+}

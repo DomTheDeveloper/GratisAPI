@@ -1,0 +1,9 @@
+{
+  "id": "planters-punch",
+  "name": "Planter's Punch",
+  "base_spirit": "Rum",
+  "type": "Punch",
+  "glass": "Highball",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/planters-punch.json"
+}

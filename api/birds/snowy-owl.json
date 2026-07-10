@@ -1,0 +1,11 @@
+{
+  "id": "snowy-owl",
+  "common_name": "Snowy Owl",
+  "scientific_name": "Bubo scandiacus",
+  "family": "Strigidae",
+  "habitat": "Arctic tundra",
+  "diet": "Carnivore",
+  "wingspan_cm": 150,
+  "conservation_status": "Vulnerable",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/snowy-owl.json"
+}

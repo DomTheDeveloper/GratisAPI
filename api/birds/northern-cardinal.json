@@ -1,0 +1,11 @@
+{
+  "id": "northern-cardinal",
+  "common_name": "Northern Cardinal",
+  "scientific_name": "Cardinalis cardinalis",
+  "family": "Cardinalidae",
+  "habitat": "Woodlands and gardens",
+  "diet": "Omnivore",
+  "wingspan_cm": 31,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/northern-cardinal.json"
+}

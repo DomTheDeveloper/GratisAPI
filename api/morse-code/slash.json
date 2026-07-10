@@ -1,0 +1,7 @@
+{
+  "id": "slash",
+  "character": "/",
+  "morse": "-..-.",
+  "type": "punctuation",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/slash.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "delete",
+  "method": "DELETE",
+  "description": "Deletes the specified resource.",
+  "safe": false,
+  "idempotent": true,
+  "cacheable": false,
+  "has_request_body": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/delete.json"
+}

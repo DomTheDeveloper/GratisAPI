@@ -1,0 +1,11 @@
+{
+  "id": "apricot",
+  "name": "Apricot",
+  "scientific_name": "Prunus armeniaca",
+  "family": "Rosaceae",
+  "type": "Drupe",
+  "color": "Orange",
+  "origin_region": "Central Asia and China",
+  "calories_per_100g": 48,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/apricot.json"
+}

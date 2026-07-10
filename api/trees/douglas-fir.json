@@ -1,0 +1,10 @@
+{
+  "id": "douglas-fir",
+  "common_name": "Douglas Fir",
+  "scientific_name": "Pseudotsuga menziesii",
+  "family": "Pinaceae",
+  "type": "Coniferous",
+  "max_height_m": 75,
+  "native_region": "Western North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/douglas-fir.json"
+}

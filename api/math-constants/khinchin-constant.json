@@ -1,0 +1,8 @@
+{
+  "id": "khinchin-constant",
+  "name": "Khinchin's constant",
+  "symbol": "K_0",
+  "value": 2.685452001065306,
+  "description": "Geometric mean of continued fraction terms.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/khinchin-constant.json"
+}

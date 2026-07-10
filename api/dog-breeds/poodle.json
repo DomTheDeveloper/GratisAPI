@@ -1,0 +1,10 @@
+{
+  "id": "poodle",
+  "name": "Poodle",
+  "group": "Non-Sporting",
+  "origin": "Germany",
+  "size": "Medium",
+  "life_expectancy_years": "10-18",
+  "temperament": "Active, proud and very smart",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/poodle.json"
+}

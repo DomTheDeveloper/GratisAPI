@@ -1,0 +1,13 @@
+{
+  "id": "lua",
+  "name": "Lua",
+  "year": 1993,
+  "paradigm": [
+    "Scripting",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Roberto Ierusalimschy et al.",
+  "extension": ".lua",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/lua.json"
+}

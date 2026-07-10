@@ -1,0 +1,14 @@
+{
+  "id": "java",
+  "name": "Java",
+  "year": 1995,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative",
+    "Generic"
+  ],
+  "typing": "Static",
+  "designed_by": "James Gosling",
+  "extension": ".java",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/java.json"
+}

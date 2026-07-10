@@ -1,0 +1,9 @@
+{
+  "id": "gas-constant",
+  "name": "Molar gas constant",
+  "symbol": "R",
+  "value": 8.314462618,
+  "unit": "J mol^-1 K^-1",
+  "category": "Physicochemical",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/gas-constant.json"
+}

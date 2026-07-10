@@ -3,5 +3,6 @@
   "code": 206,
   "message": "Partial Content",
   "category": "Success",
+  "description": "The server is delivering only part of the resource due to a range request.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/206.json"
 }

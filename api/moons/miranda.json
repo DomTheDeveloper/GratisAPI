@@ -1,0 +1,9 @@
+{
+  "id": "miranda",
+  "name": "Miranda",
+  "planet": "Uranus",
+  "radius_km": 235.8,
+  "discovered_year": 1948,
+  "discovered_by": "Gerard Kuiper",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/miranda.json"
+}

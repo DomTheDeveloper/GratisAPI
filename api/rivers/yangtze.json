@@ -1,0 +1,9 @@
+{
+  "id": "yangtze",
+  "name": "Yangtze",
+  "length_km": 6300,
+  "continent": "Asia",
+  "outflow": "East China Sea",
+  "countries": "China",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yangtze.json"
+}

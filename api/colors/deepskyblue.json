@@ -1,0 +1,18 @@
+{
+  "id": "deepskyblue",
+  "name": "Deep Sky Blue",
+  "hex": "#00BFFF",
+  "rgb": {
+    "r": 0,
+    "g": 191,
+    "b": 255
+  },
+  "rgb_string": "rgb(0, 191, 255)",
+  "hsl": {
+    "h": 195,
+    "s": 100,
+    "l": 50
+  },
+  "hsl_string": "hsl(195, 100%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/deepskyblue.json"
+}

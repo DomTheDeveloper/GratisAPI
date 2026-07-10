@@ -1,0 +1,302 @@
+{
+  "api": "rivers",
+  "title": "Rivers",
+  "description": "Major rivers of the world with length, continent, and drainage information.",
+  "emoji": "🌊",
+  "license": "GPL-2.0-or-later",
+  "count": 31,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/rivers/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/rivers/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/rivers/{id}.json"
+  },
+  "fields": [
+    "continent",
+    "countries",
+    "id",
+    "length_km",
+    "name",
+    "outflow"
+  ],
+  "results": [
+    {
+      "id": "nile",
+      "name": "Nile",
+      "length_km": 6650,
+      "continent": "Africa",
+      "outflow": "Mediterranean Sea",
+      "countries": "Egypt, Sudan, Uganda",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/nile.json"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "length_km": 6400,
+      "continent": "South America",
+      "outflow": "Atlantic Ocean",
+      "countries": "Brazil, Peru, Colombia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/amazon.json"
+    },
+    {
+      "id": "yangtze",
+      "name": "Yangtze",
+      "length_km": 6300,
+      "continent": "Asia",
+      "outflow": "East China Sea",
+      "countries": "China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yangtze.json"
+    },
+    {
+      "id": "mississippi-missouri",
+      "name": "Mississippi-Missouri",
+      "length_km": 6275,
+      "continent": "North America",
+      "outflow": "Gulf of Mexico",
+      "countries": "United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/mississippi-missouri.json"
+    },
+    {
+      "id": "yenisei",
+      "name": "Yenisei",
+      "length_km": 5539,
+      "continent": "Asia",
+      "outflow": "Arctic Ocean (Kara Sea)",
+      "countries": "Russia, Mongolia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yenisei.json"
+    },
+    {
+      "id": "yellow-river",
+      "name": "Yellow River (Huang He)",
+      "length_km": 5464,
+      "continent": "Asia",
+      "outflow": "Bohai Sea",
+      "countries": "China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yellow-river.json"
+    },
+    {
+      "id": "ob-irtysh",
+      "name": "Ob-Irtysh",
+      "length_km": 5410,
+      "continent": "Asia",
+      "outflow": "Arctic Ocean (Gulf of Ob)",
+      "countries": "Russia, Kazakhstan, China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/ob-irtysh.json"
+    },
+    {
+      "id": "parana",
+      "name": "Parana",
+      "length_km": 4880,
+      "continent": "South America",
+      "outflow": "Atlantic Ocean (Rio de la Plata)",
+      "countries": "Brazil, Argentina, Paraguay",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/parana.json"
+    },
+    {
+      "id": "congo",
+      "name": "Congo",
+      "length_km": 4700,
+      "continent": "Africa",
+      "outflow": "Atlantic Ocean",
+      "countries": "DR Congo, Congo, Angola",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/congo.json"
+    },
+    {
+      "id": "amur",
+      "name": "Amur",
+      "length_km": 4444,
+      "continent": "Asia",
+      "outflow": "Sea of Okhotsk",
+      "countries": "Russia, China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/amur.json"
+    },
+    {
+      "id": "lena",
+      "name": "Lena",
+      "length_km": 4400,
+      "continent": "Asia",
+      "outflow": "Arctic Ocean (Laptev Sea)",
+      "countries": "Russia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/lena.json"
+    },
+    {
+      "id": "mekong",
+      "name": "Mekong",
+      "length_km": 4350,
+      "continent": "Asia",
+      "outflow": "South China Sea",
+      "countries": "China, Laos, Cambodia, Vietnam",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/mekong.json"
+    },
+    {
+      "id": "mackenzie",
+      "name": "Mackenzie",
+      "length_km": 4241,
+      "continent": "North America",
+      "outflow": "Arctic Ocean (Beaufort Sea)",
+      "countries": "Canada",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/mackenzie.json"
+    },
+    {
+      "id": "niger",
+      "name": "Niger",
+      "length_km": 4200,
+      "continent": "Africa",
+      "outflow": "Gulf of Guinea (Atlantic Ocean)",
+      "countries": "Nigeria, Mali, Niger",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/niger.json"
+    },
+    {
+      "id": "murray-darling",
+      "name": "Murray-Darling",
+      "length_km": 3672,
+      "continent": "Oceania",
+      "outflow": "Southern Ocean",
+      "countries": "Australia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/murray-darling.json"
+    },
+    {
+      "id": "volga",
+      "name": "Volga",
+      "length_km": 3530,
+      "continent": "Europe",
+      "outflow": "Caspian Sea",
+      "countries": "Russia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/volga.json"
+    },
+    {
+      "id": "indus",
+      "name": "Indus",
+      "length_km": 3180,
+      "continent": "Asia",
+      "outflow": "Arabian Sea",
+      "countries": "Pakistan, India, China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/indus.json"
+    },
+    {
+      "id": "purus",
+      "name": "Purus",
+      "length_km": 3211,
+      "continent": "South America",
+      "outflow": "Amazon River",
+      "countries": "Brazil, Peru",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/purus.json"
+    },
+    {
+      "id": "madeira",
+      "name": "Madeira",
+      "length_km": 3250,
+      "continent": "South America",
+      "outflow": "Amazon River",
+      "countries": "Brazil, Bolivia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/madeira.json"
+    },
+    {
+      "id": "sao-francisco",
+      "name": "Sao Francisco",
+      "length_km": 2900,
+      "continent": "South America",
+      "outflow": "Atlantic Ocean",
+      "countries": "Brazil",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/sao-francisco.json"
+    },
+    {
+      "id": "yukon",
+      "name": "Yukon",
+      "length_km": 3190,
+      "continent": "North America",
+      "outflow": "Bering Sea",
+      "countries": "United States, Canada",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/yukon.json"
+    },
+    {
+      "id": "rio-grande",
+      "name": "Rio Grande",
+      "length_km": 3057,
+      "continent": "North America",
+      "outflow": "Gulf of Mexico",
+      "countries": "United States, Mexico",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/rio-grande.json"
+    },
+    {
+      "id": "danube",
+      "name": "Danube",
+      "length_km": 2850,
+      "continent": "Europe",
+      "outflow": "Black Sea",
+      "countries": "Germany, Austria, Hungary, Romania",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/danube.json"
+    },
+    {
+      "id": "brahmaputra",
+      "name": "Brahmaputra",
+      "length_km": 2900,
+      "continent": "Asia",
+      "outflow": "Bay of Bengal",
+      "countries": "China, India, Bangladesh",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/brahmaputra.json"
+    },
+    {
+      "id": "ganges",
+      "name": "Ganges",
+      "length_km": 2525,
+      "continent": "Asia",
+      "outflow": "Bay of Bengal",
+      "countries": "India, Bangladesh",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/ganges.json"
+    },
+    {
+      "id": "euphrates",
+      "name": "Euphrates",
+      "length_km": 2800,
+      "continent": "Asia",
+      "outflow": "Persian Gulf",
+      "countries": "Turkey, Syria, Iraq",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/euphrates.json"
+    },
+    {
+      "id": "zambezi",
+      "name": "Zambezi",
+      "length_km": 2574,
+      "continent": "Africa",
+      "outflow": "Indian Ocean (Mozambique Channel)",
+      "countries": "Zambia, Mozambique, Zimbabwe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/zambezi.json"
+    },
+    {
+      "id": "orinoco",
+      "name": "Orinoco",
+      "length_km": 2140,
+      "continent": "South America",
+      "outflow": "Atlantic Ocean",
+      "countries": "Venezuela, Colombia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/orinoco.json"
+    },
+    {
+      "id": "colorado",
+      "name": "Colorado",
+      "length_km": 2330,
+      "continent": "North America",
+      "outflow": "Gulf of California",
+      "countries": "United States, Mexico",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/colorado.json"
+    },
+    {
+      "id": "rhine",
+      "name": "Rhine",
+      "length_km": 1233,
+      "continent": "Europe",
+      "outflow": "North Sea",
+      "countries": "Switzerland, Germany, Netherlands",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/rhine.json"
+    },
+    {
+      "id": "tigris",
+      "name": "Tigris",
+      "length_km": 1850,
+      "continent": "Asia",
+      "outflow": "Persian Gulf",
+      "countries": "Turkey, Iraq, Syria",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/tigris.json"
+    }
+  ]
+}

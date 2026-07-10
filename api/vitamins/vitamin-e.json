@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-e",
+  "name": "Vitamin E",
+  "chemical_name": "Tocopherol",
+  "solubility": "Fat",
+  "function": "Antioxidant protecting cell membranes",
+  "deficiency_disease": "Nerve damage",
+  "food_sources": [
+    "Nuts",
+    "Seeds",
+    "Vegetable oils"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-e.json"
+}

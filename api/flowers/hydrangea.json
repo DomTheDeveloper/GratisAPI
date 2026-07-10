@@ -1,0 +1,10 @@
+{
+  "id": "hydrangea",
+  "name": "Hydrangea",
+  "scientific_name": "Hydrangea macrophylla",
+  "family": "Hydrangeaceae",
+  "color": "Blue",
+  "bloom_season": "Summer",
+  "meaning": "Gratitude",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/hydrangea.json"
+}

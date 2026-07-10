@@ -1,0 +1,9 @@
+{
+  "id": "jade",
+  "name": "Jade",
+  "color": "Green",
+  "mohs_hardness": 6.5,
+  "crystal_system": "Monoclinic",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/jade.json"
+}

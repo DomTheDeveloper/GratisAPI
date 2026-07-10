@@ -1,0 +1,13 @@
+{
+  "id": "ua",
+  "name": "Ukraine",
+  "alpha2": "UA",
+  "alpha3": "UKR",
+  "capital": "Kyiv",
+  "continent": "Europe",
+  "currency_code": "UAH",
+  "currency": "Hryvnia",
+  "population_millions": 43,
+  "flag_emoji": "🇺🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ua.json"
+}

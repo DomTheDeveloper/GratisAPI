@@ -1,0 +1,13 @@
+{
+  "id": "mn",
+  "name": "Mongolia",
+  "alpha2": "MN",
+  "alpha3": "MNG",
+  "capital": "Ulaanbaatar",
+  "continent": "Asia",
+  "currency_code": "MNT",
+  "currency": "Tugrik",
+  "population_millions": 3,
+  "flag_emoji": "🇲🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mn.json"
+}

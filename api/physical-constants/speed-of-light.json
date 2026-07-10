@@ -1,0 +1,9 @@
+{
+  "id": "speed-of-light",
+  "name": "Speed of light in vacuum",
+  "symbol": "c",
+  "value": 299792458.0,
+  "unit": "m/s",
+  "category": "Universal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/speed-of-light.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "canada-goose",
+  "common_name": "Canada Goose",
+  "scientific_name": "Branta canadensis",
+  "family": "Anatidae",
+  "habitat": "Lakes, ponds and grassland",
+  "diet": "Herbivore",
+  "wingspan_cm": 160,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/canada-goose.json"
+}

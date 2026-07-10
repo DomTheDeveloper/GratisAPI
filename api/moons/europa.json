@@ -1,0 +1,9 @@
+{
+  "id": "europa",
+  "name": "Europa",
+  "planet": "Jupiter",
+  "radius_km": 1560.8,
+  "discovered_year": 1610,
+  "discovered_by": "Galileo Galilei",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/europa.json"
+}

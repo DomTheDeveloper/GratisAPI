@@ -1,0 +1,9 @@
+{
+  "id": "callisto",
+  "name": "Callisto",
+  "planet": "Jupiter",
+  "radius_km": 2410.3,
+  "discovered_year": 1610,
+  "discovered_by": "Galileo Galilei",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/callisto.json"
+}

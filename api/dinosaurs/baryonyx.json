@@ -1,0 +1,11 @@
+{
+  "id": "baryonyx",
+  "name": "Baryonyx",
+  "period": "Early Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 9.0,
+  "weight_kg": 1700,
+  "region": "Europe",
+  "meaning": "Heavy claw",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/baryonyx.json"
+}

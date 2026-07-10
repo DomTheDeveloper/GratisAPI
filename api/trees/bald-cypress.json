@@ -1,0 +1,10 @@
+{
+  "id": "bald-cypress",
+  "common_name": "Bald Cypress",
+  "scientific_name": "Taxodium distichum",
+  "family": "Cupressaceae",
+  "type": "Deciduous",
+  "max_height_m": 44,
+  "native_region": "Southeastern United States",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/bald-cypress.json"
+}

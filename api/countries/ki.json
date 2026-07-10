@@ -1,0 +1,13 @@
+{
+  "id": "ki",
+  "name": "Kiribati",
+  "alpha2": "KI",
+  "alpha3": "KIR",
+  "capital": "Tarawa",
+  "continent": "Oceania",
+  "currency_code": "AUD",
+  "currency": "Australian Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇰🇮",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ki.json"
+}

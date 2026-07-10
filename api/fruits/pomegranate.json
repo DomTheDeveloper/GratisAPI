@@ -1,0 +1,11 @@
+{
+  "id": "pomegranate",
+  "name": "Pomegranate",
+  "scientific_name": "Punica granatum",
+  "family": "Lythraceae",
+  "type": "Berry",
+  "color": "Red",
+  "origin_region": "Iran to northern India",
+  "calories_per_100g": 83,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/pomegranate.json"
+}

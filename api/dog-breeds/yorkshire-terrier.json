@@ -1,0 +1,10 @@
+{
+  "id": "yorkshire-terrier",
+  "name": "Yorkshire Terrier",
+  "group": "Toy",
+  "origin": "United Kingdom",
+  "size": "Small",
+  "life_expectancy_years": "11-15",
+  "temperament": "Affectionate, sprightly and tomboyish",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/yorkshire-terrier.json"
+}

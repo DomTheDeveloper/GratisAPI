@@ -1,0 +1,12 @@
+{
+  "id": "south-carolina",
+  "name": "South Carolina",
+  "abbreviation": "SC",
+  "capital": "Columbia",
+  "largest_city": "Charleston",
+  "population": 5118425,
+  "area_km2": 82933,
+  "statehood_year": 1788,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/south-carolina.json"
+}

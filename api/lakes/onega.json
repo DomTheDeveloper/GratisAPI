@@ -1,0 +1,9 @@
+{
+  "id": "onega",
+  "name": "Lake Onega",
+  "area_km2": 9700,
+  "max_depth_m": 127,
+  "continent": "Europe",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/onega.json"
+}

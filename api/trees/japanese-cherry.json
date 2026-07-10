@@ -1,0 +1,10 @@
+{
+  "id": "japanese-cherry",
+  "common_name": "Japanese Cherry",
+  "scientific_name": "Prunus serrulata",
+  "family": "Rosaceae",
+  "type": "Deciduous",
+  "max_height_m": 12,
+  "native_region": "Japan, Korea and China",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/japanese-cherry.json"
+}

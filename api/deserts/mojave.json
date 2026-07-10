@@ -1,0 +1,8 @@
+{
+  "id": "mojave",
+  "name": "Mojave Desert",
+  "area_km2": 124000,
+  "continent": "North America",
+  "type": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/mojave.json"
+}

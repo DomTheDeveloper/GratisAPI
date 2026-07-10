@@ -1,0 +1,11 @@
+{
+  "id": "kiwi",
+  "name": "Kiwifruit",
+  "scientific_name": "Actinidia deliciosa",
+  "family": "Actinidiaceae",
+  "type": "Berry",
+  "color": "Green",
+  "origin_region": "China",
+  "calories_per_100g": 61,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/kiwi.json"
+}

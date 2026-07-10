@@ -1,0 +1,12 @@
+{
+  "id": "wisconsin",
+  "name": "Wisconsin",
+  "abbreviation": "WI",
+  "capital": "Madison",
+  "largest_city": "Milwaukee",
+  "population": 5893718,
+  "area_km2": 169635,
+  "statehood_year": 1848,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/wisconsin.json"
+}

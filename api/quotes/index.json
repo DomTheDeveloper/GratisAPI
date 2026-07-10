@@ -4,7 +4,7 @@
   "description": "Memorable quotes from famous people throughout history.",
   "emoji": "💬",
   "license": "GPL-2.0-or-later",
-  "count": 30,
+  "count": 122,
   "self": "https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json",
   "endpoints": {
     "list": "https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json",
@@ -311,6 +311,925 @@
         "change"
       ],
       "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/30.json"
+    },
+    {
+      "id": 31,
+      "quote": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche",
+      "tags": [
+        "philosophy",
+        "strength"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/31.json"
+    },
+    {
+      "id": 32,
+      "quote": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "tags": [
+        "happiness",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/32.json"
+    },
+    {
+      "id": 33,
+      "quote": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "tags": [
+        "mindset",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/33.json"
+    },
+    {
+      "id": 34,
+      "quote": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "tags": [
+        "hope",
+        "philosophy"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/34.json"
+    },
+    {
+      "id": 35,
+      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "tags": [
+        "individuality",
+        "inspiration"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/35.json"
+    },
+    {
+      "id": 36,
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "tags": [
+        "philosophy",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/36.json"
+    },
+    {
+      "id": 37,
+      "quote": "Float like a butterfly, sting like a bee.",
+      "author": "Muhammad Ali",
+      "tags": [
+        "sports",
+        "confidence"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/37.json"
+    },
+    {
+      "id": 38,
+      "quote": "The pen is mightier than the sword.",
+      "author": "Edward Bulwer-Lytton",
+      "tags": [
+        "literature",
+        "power"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/38.json"
+    },
+    {
+      "id": 39,
+      "quote": "A room without books is like a body without a soul.",
+      "author": "Marcus Tullius Cicero",
+      "tags": [
+        "books",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/39.json"
+    },
+    {
+      "id": 40,
+      "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+      "author": "Albert Einstein",
+      "tags": [
+        "humor",
+        "science"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/40.json"
+    },
+    {
+      "id": 41,
+      "quote": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "tags": [
+        "individuality",
+        "wit"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/41.json"
+    },
+    {
+      "id": 42,
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "tags": [
+        "life",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/42.json"
+    },
+    {
+      "id": 43,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb",
+      "tags": [
+        "teamwork",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/43.json"
+    },
+    {
+      "id": 44,
+      "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "tags": [
+        "education",
+        "learning"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/44.json"
+    },
+    {
+      "id": 45,
+      "quote": "Everything you can imagine is real.",
+      "author": "Pablo Picasso",
+      "tags": [
+        "art",
+        "creativity"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/45.json"
+    },
+    {
+      "id": 46,
+      "quote": "Creativity takes courage.",
+      "author": "Henri Matisse",
+      "tags": [
+        "art",
+        "creativity"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/46.json"
+    },
+    {
+      "id": 47,
+      "quote": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+      "author": "Pablo Picasso",
+      "tags": [
+        "art",
+        "creativity"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/47.json"
+    },
+    {
+      "id": 48,
+      "quote": "The good life is one inspired by love and guided by knowledge.",
+      "author": "Bertrand Russell",
+      "tags": [
+        "philosophy",
+        "love"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/48.json"
+    },
+    {
+      "id": 49,
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas Edison",
+      "tags": [
+        "perseverance",
+        "science"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/49.json"
+    },
+    {
+      "id": 50,
+      "quote": "Nothing in life is to be feared, it is only to be understood.",
+      "author": "Marie Curie",
+      "tags": [
+        "science",
+        "courage"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/50.json"
+    },
+    {
+      "id": 51,
+      "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+      "author": "Virginia Woolf",
+      "tags": [
+        "literature",
+        "life"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/51.json"
+    },
+    {
+      "id": 52,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius",
+      "tags": [
+        "wisdom",
+        "life"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/52.json"
+    },
+    {
+      "id": 53,
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "tags": [
+        "perseverance",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/53.json"
+    },
+    {
+      "id": 54,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "tags": [
+        "inspiration",
+        "future"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/54.json"
+    },
+    {
+      "id": 55,
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "tags": [
+        "action",
+        "motivation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/55.json"
+    },
+    {
+      "id": 56,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "tags": [
+        "belief",
+        "motivation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/56.json"
+    },
+    {
+      "id": 57,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein",
+      "tags": [
+        "mistakes",
+        "innovation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/57.json"
+    },
+    {
+      "id": 58,
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "tags": [
+        "happiness",
+        "life"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/58.json"
+    },
+    {
+      "id": 59,
+      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "tags": [
+        "perseverance",
+        "courage"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/59.json"
+    },
+    {
+      "id": 60,
+      "quote": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "tags": [
+        "perseverance",
+        "courage"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/60.json"
+    },
+    {
+      "id": 61,
+      "quote": "History will be kind to me for I intend to write it.",
+      "author": "Winston Churchill",
+      "tags": [
+        "history",
+        "wit"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/61.json"
+    },
+    {
+      "id": 62,
+      "quote": "You miss 100 percent of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "tags": [
+        "sports",
+        "motivation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/62.json"
+    },
+    {
+      "id": 63,
+      "quote": "I have nothing to declare except my genius.",
+      "author": "Oscar Wilde",
+      "tags": [
+        "wit",
+        "confidence"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/63.json"
+    },
+    {
+      "id": 64,
+      "quote": "It is our choices that show what we truly are, far more than our abilities.",
+      "author": "J.K. Rowling",
+      "tags": [
+        "choices",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/64.json"
+    },
+    {
+      "id": 65,
+      "quote": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "tags": [
+        "character",
+        "motivation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/65.json"
+    },
+    {
+      "id": 66,
+      "quote": "Nearly all men can stand adversity, but if you want to test a man's character, give him power.",
+      "author": "Abraham Lincoln",
+      "tags": [
+        "character",
+        "power"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/66.json"
+    },
+    {
+      "id": 67,
+      "quote": "The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart.",
+      "author": "Helen Keller",
+      "tags": [
+        "life",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/67.json"
+    },
+    {
+      "id": 68,
+      "quote": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "tags": [
+        "optimism",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/68.json"
+    },
+    {
+      "id": 69,
+      "quote": "I dwell in possibility.",
+      "author": "Emily Dickinson",
+      "tags": [
+        "literature",
+        "hope"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/69.json"
+    },
+    {
+      "id": 70,
+      "quote": "The truth is rarely pure and never simple.",
+      "author": "Oscar Wilde",
+      "tags": [
+        "truth",
+        "wit"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/70.json"
+    },
+    {
+      "id": 71,
+      "quote": "All animals are equal, but some animals are more equal than others.",
+      "author": "George Orwell",
+      "tags": [
+        "literature",
+        "politics"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/71.json"
+    },
+    {
+      "id": 72,
+      "quote": "It was the best of times, it was the worst of times.",
+      "author": "Charles Dickens",
+      "tags": [
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/72.json"
+    },
+    {
+      "id": 73,
+      "quote": "Justice will not be served until those who are unaffected are as outraged as those who are.",
+      "author": "Benjamin Franklin",
+      "tags": [
+        "justice",
+        "society"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/73.json"
+    },
+    {
+      "id": 74,
+      "quote": "The arc of the moral universe is long, but it bends toward justice.",
+      "author": "Martin Luther King Jr.",
+      "tags": [
+        "justice",
+        "hope"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/74.json"
+    },
+    {
+      "id": 75,
+      "quote": "First they ignore you, then they laugh at you, then they fight you, then you win.",
+      "author": "Mahatma Gandhi",
+      "tags": [
+        "perseverance",
+        "change"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/75.json"
+    },
+    {
+      "id": 76,
+      "quote": "Give me liberty, or give me death!",
+      "author": "Patrick Henry",
+      "tags": [
+        "freedom",
+        "politics"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/76.json"
+    },
+    {
+      "id": 77,
+      "quote": "I disapprove of what you say, but I will defend to the death your right to say it.",
+      "author": "Evelyn Beatrice Hall",
+      "tags": [
+        "freedom",
+        "philosophy"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/77.json"
+    },
+    {
+      "id": 78,
+      "quote": "Man is condemned to be free.",
+      "author": "Jean-Paul Sartre",
+      "tags": [
+        "philosophy",
+        "freedom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/78.json"
+    },
+    {
+      "id": 79,
+      "quote": "One is not born, but rather becomes, a woman.",
+      "author": "Simone de Beauvoir",
+      "tags": [
+        "philosophy",
+        "equality"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/79.json"
+    },
+    {
+      "id": 80,
+      "quote": "God is dead. God remains dead. And we have killed him.",
+      "author": "Friedrich Nietzsche",
+      "tags": [
+        "philosophy",
+        "religion"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/80.json"
+    },
+    {
+      "id": 81,
+      "quote": "The life of man is solitary, poor, nasty, brutish, and short.",
+      "author": "Thomas Hobbes",
+      "tags": [
+        "philosophy",
+        "society"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/81.json"
+    },
+    {
+      "id": 82,
+      "quote": "The whole is greater than the sum of its parts.",
+      "author": "Aristotle",
+      "tags": [
+        "philosophy",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/82.json"
+    },
+    {
+      "id": 83,
+      "quote": "Give me a place to stand and I will move the earth.",
+      "author": "Archimedes",
+      "tags": [
+        "science",
+        "confidence"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/83.json"
+    },
+    {
+      "id": 84,
+      "quote": "And yet it moves.",
+      "author": "Galileo Galilei",
+      "tags": [
+        "science",
+        "truth"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/84.json"
+    },
+    {
+      "id": 85,
+      "quote": "If I have seen further it is by standing on the shoulders of giants.",
+      "author": "Isaac Newton",
+      "tags": [
+        "science",
+        "humility"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/85.json"
+    },
+    {
+      "id": 86,
+      "quote": "Science is a way of thinking much more than it is a body of knowledge.",
+      "author": "Carl Sagan",
+      "tags": [
+        "science",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/86.json"
+    },
+    {
+      "id": 87,
+      "quote": "We are made of star-stuff.",
+      "author": "Carl Sagan",
+      "tags": [
+        "science",
+        "space"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/87.json"
+    },
+    {
+      "id": 88,
+      "quote": "Somewhere, something incredible is waiting to be known.",
+      "author": "Carl Sagan",
+      "tags": [
+        "science",
+        "curiosity"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/88.json"
+    },
+    {
+      "id": 89,
+      "quote": "The good thing about science is that it's true whether or not you believe in it.",
+      "author": "Neil deGrasse Tyson",
+      "tags": [
+        "science",
+        "truth"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/89.json"
+    },
+    {
+      "id": 90,
+      "quote": "Look up at the stars and not down at your feet.",
+      "author": "Stephen Hawking",
+      "tags": [
+        "science",
+        "inspiration"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/90.json"
+    },
+    {
+      "id": 91,
+      "quote": "Intelligence is the ability to adapt to change.",
+      "author": "Stephen Hawking",
+      "tags": [
+        "intelligence",
+        "change"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/91.json"
+    },
+    {
+      "id": 92,
+      "quote": "Fortune favors the bold.",
+      "author": "Virgil",
+      "tags": [
+        "courage",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/92.json"
+    },
+    {
+      "id": 93,
+      "quote": "I came, I saw, I conquered.",
+      "author": "Julius Caesar",
+      "tags": [
+        "history",
+        "confidence"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/93.json"
+    },
+    {
+      "id": 94,
+      "quote": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "tags": [
+        "stoicism",
+        "strength"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/94.json"
+    },
+    {
+      "id": 95,
+      "quote": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "tags": [
+        "stoicism",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/95.json"
+    },
+    {
+      "id": 96,
+      "quote": "It is not that we have a short time to live, but that we waste a lot of it.",
+      "author": "Seneca",
+      "tags": [
+        "stoicism",
+        "time"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/96.json"
+    },
+    {
+      "id": 97,
+      "quote": "No man ever steps in the same river twice.",
+      "author": "Heraclitus",
+      "tags": [
+        "philosophy",
+        "change"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/97.json"
+    },
+    {
+      "id": 98,
+      "quote": "The beginning is the most important part of the work.",
+      "author": "Plato",
+      "tags": [
+        "philosophy",
+        "work"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/98.json"
+    },
+    {
+      "id": 99,
+      "quote": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato",
+      "tags": [
+        "philosophy",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/99.json"
+    },
+    {
+      "id": 100,
+      "quote": "Elegance is the only beauty that never fades.",
+      "author": "Audrey Hepburn",
+      "tags": [
+        "beauty",
+        "film"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/100.json"
+    },
+    {
+      "id": 101,
+      "quote": "Music is the universal language of mankind.",
+      "author": "Henry Wadsworth Longfellow",
+      "tags": [
+        "music",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/101.json"
+    },
+    {
+      "id": 102,
+      "quote": "Without music, life would be a mistake.",
+      "author": "Friedrich Nietzsche",
+      "tags": [
+        "music",
+        "philosophy"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/102.json"
+    },
+    {
+      "id": 103,
+      "quote": "To play a wrong note is insignificant; to play without passion is inexcusable.",
+      "author": "Ludwig van Beethoven",
+      "tags": [
+        "music",
+        "passion"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/103.json"
+    },
+    {
+      "id": 104,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh",
+      "tags": [
+        "art",
+        "passion"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/104.json"
+    },
+    {
+      "id": 105,
+      "quote": "Great things are done by a series of small things brought together.",
+      "author": "Vincent van Gogh",
+      "tags": [
+        "art",
+        "perseverance"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/105.json"
+    },
+    {
+      "id": 106,
+      "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+      "author": "Arthur C. Clarke",
+      "tags": [
+        "technology",
+        "science"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/106.json"
+    },
+    {
+      "id": 107,
+      "quote": "Stay hungry, stay foolish.",
+      "author": "Steve Jobs",
+      "tags": [
+        "motivation",
+        "technology"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/107.json"
+    },
+    {
+      "id": 108,
+      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "tags": [
+        "life",
+        "motivation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/108.json"
+    },
+    {
+      "id": 109,
+      "quote": "The future is already here, it's just not evenly distributed.",
+      "author": "William Gibson",
+      "tags": [
+        "future",
+        "technology"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/109.json"
+    },
+    {
+      "id": 110,
+      "quote": "The world is a book and those who do not travel read only one page.",
+      "author": "Saint Augustine",
+      "tags": [
+        "travel",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/110.json"
+    },
+    {
+      "id": 111,
+      "quote": "That is one of the peculiarities of hope: it survives.",
+      "author": "Rebecca Solnit",
+      "tags": [
+        "hope",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/111.json"
+    },
+    {
+      "id": 112,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "tags": [
+        "success",
+        "motivation"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/112.json"
+    },
+    {
+      "id": 113,
+      "quote": "Everything has beauty, but not everyone sees it.",
+      "author": "Confucius",
+      "tags": [
+        "beauty",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/113.json"
+    },
+    {
+      "id": 114,
+      "quote": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "tags": [
+        "wisdom",
+        "resilience"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/114.json"
+    },
+    {
+      "id": 115,
+      "quote": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+      "author": "Maya Angelou",
+      "tags": [
+        "resilience",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/115.json"
+    },
+    {
+      "id": 116,
+      "quote": "People will forget what you said, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "tags": [
+        "kindness",
+        "wisdom"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/116.json"
+    },
+    {
+      "id": 117,
+      "quote": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou",
+      "tags": [
+        "literature",
+        "expression"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/117.json"
+    },
+    {
+      "id": 118,
+      "quote": "The measure of a life is not its duration, but its donation.",
+      "author": "Peter Marshall",
+      "tags": [
+        "life",
+        "service"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/118.json"
+    },
+    {
+      "id": 119,
+      "quote": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "tags": [
+        "love",
+        "compassion"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/119.json"
+    },
+    {
+      "id": 120,
+      "quote": "Spread love everywhere you go.",
+      "author": "Mother Teresa",
+      "tags": [
+        "love",
+        "compassion"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/120.json"
+    },
+    {
+      "id": 121,
+      "quote": "Courage is grace under pressure.",
+      "author": "Ernest Hemingway",
+      "tags": [
+        "courage",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/121.json"
+    },
+    {
+      "id": 122,
+      "quote": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+      "author": "Ernest Hemingway",
+      "tags": [
+        "writing",
+        "literature"
+      ],
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/122.json"
     }
   ]
 }

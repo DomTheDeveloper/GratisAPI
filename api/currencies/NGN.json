@@ -1,0 +1,8 @@
+{
+  "id": "NGN",
+  "code": "NGN",
+  "name": "Nigerian Naira",
+  "symbol": "₦",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NGN.json"
+}

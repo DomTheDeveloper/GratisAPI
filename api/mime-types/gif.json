@@ -1,0 +1,10 @@
+{
+  "id": "gif",
+  "mime_type": "image/gif",
+  "name": "GIF Image",
+  "category": "image",
+  "extensions": [
+    ".gif"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/gif.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "7z",
+  "mime_type": "application/x-7z-compressed",
+  "name": "7-Zip Archive",
+  "category": "application",
+  "extensions": [
+    ".7z"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/7z.json"
+}

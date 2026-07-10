@@ -1,0 +1,10 @@
+{
+  "id": "southern-magnolia",
+  "common_name": "Southern Magnolia",
+  "scientific_name": "Magnolia grandiflora",
+  "family": "Magnoliaceae",
+  "type": "Evergreen",
+  "max_height_m": 27,
+  "native_region": "Southeastern United States",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/southern-magnolia.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "west-highland-white-terrier",
+  "name": "West Highland White Terrier",
+  "group": "Terrier",
+  "origin": "United Kingdom",
+  "size": "Small",
+  "life_expectancy_years": "13-15",
+  "temperament": "Loyal, happy and entertaining",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/west-highland-white-terrier.json"
+}

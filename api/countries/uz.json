@@ -1,0 +1,13 @@
+{
+  "id": "uz",
+  "name": "Uzbekistan",
+  "alpha2": "UZ",
+  "alpha3": "UZB",
+  "capital": "Tashkent",
+  "continent": "Asia",
+  "currency_code": "UZS",
+  "currency": "Uzbekistani Som",
+  "population_millions": 35,
+  "flag_emoji": "🇺🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/uz.json"
+}

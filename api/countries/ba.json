@@ -1,0 +1,13 @@
+{
+  "id": "ba",
+  "name": "Bosnia and Herzegovina",
+  "alpha2": "BA",
+  "alpha3": "BIH",
+  "capital": "Sarajevo",
+  "continent": "Europe",
+  "currency_code": "BAM",
+  "currency": "Convertible Mark",
+  "population_millions": 3,
+  "flag_emoji": "🇧🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ba.json"
+}

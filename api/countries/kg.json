@@ -1,0 +1,13 @@
+{
+  "id": "kg",
+  "name": "Kyrgyzstan",
+  "alpha2": "KG",
+  "alpha3": "KGZ",
+  "capital": "Bishkek",
+  "continent": "Asia",
+  "currency_code": "KGS",
+  "currency": "Som",
+  "population_millions": 7,
+  "flag_emoji": "🇰🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kg.json"
+}

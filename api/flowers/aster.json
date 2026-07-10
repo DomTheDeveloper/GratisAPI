@@ -1,0 +1,10 @@
+{
+  "id": "aster",
+  "name": "Aster",
+  "scientific_name": "Aster",
+  "family": "Asteraceae",
+  "color": "Purple",
+  "bloom_season": "Autumn",
+  "meaning": "Patience",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/aster.json"
+}

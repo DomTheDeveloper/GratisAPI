@@ -3,5 +3,6 @@
   "code": 422,
   "message": "Unprocessable Entity",
   "category": "Client Error",
+  "description": "The request was well-formed but contains semantic errors.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/422.json"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "petra",
+  "name": "Petra",
+  "category": "New",
+  "location": "Jordan",
+  "built": "c. 5th century BC",
+  "still_standing": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/petra.json"
+}

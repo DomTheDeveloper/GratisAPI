@@ -1,0 +1,13 @@
+{
+  "id": "uy",
+  "name": "Uruguay",
+  "alpha2": "UY",
+  "alpha3": "URY",
+  "capital": "Montevideo",
+  "continent": "South America",
+  "currency_code": "UYU",
+  "currency": "Uruguayan Peso",
+  "population_millions": 3,
+  "flag_emoji": "🇺🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/uy.json"
+}

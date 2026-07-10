@@ -1,0 +1,10 @@
+{
+  "id": "xml-app",
+  "mime_type": "application/xml",
+  "name": "XML",
+  "category": "application",
+  "extensions": [
+    ".xml"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/xml-app.json"
+}

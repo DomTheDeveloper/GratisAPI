@@ -1,0 +1,15 @@
+{
+  "id": "goliath-birdeater",
+  "common_name": "Goliath Birdeater",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Arachnida",
+  "order": "Araneae",
+  "family": "Theraphosidae",
+  "genus": "Theraphosa",
+  "species": "Theraphosa blondi",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Rainforests of northern South America",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/goliath-birdeater.json"
+}

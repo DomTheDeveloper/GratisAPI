@@ -1,0 +1,18 @@
+{
+  "id": "mediumseagreen",
+  "name": "Medium Sea Green",
+  "hex": "#3CB371",
+  "rgb": {
+    "r": 60,
+    "g": 179,
+    "b": 113
+  },
+  "rgb_string": "rgb(60, 179, 113)",
+  "hsl": {
+    "h": 147,
+    "s": 50,
+    "l": 47
+  },
+  "hsl_string": "hsl(147, 50%, 47%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumseagreen.json"
+}

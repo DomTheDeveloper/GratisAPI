@@ -1,0 +1,13 @@
+{
+  "id": "bb",
+  "name": "Barbados",
+  "alpha2": "BB",
+  "alpha3": "BRB",
+  "capital": "Bridgetown",
+  "continent": "North America",
+  "currency_code": "BBD",
+  "currency": "Barbadian Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇧🇧",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bb.json"
+}

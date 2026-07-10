@@ -1,0 +1,10 @@
+{
+  "id": "bell-pepper",
+  "name": "Bell Pepper",
+  "scientific_name": "Capsicum annuum",
+  "family": "Solanaceae",
+  "type": "Fruit",
+  "color": "Red",
+  "calories_per_100g": 31,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/bell-pepper.json"
+}

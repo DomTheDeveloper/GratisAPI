@@ -1,0 +1,13 @@
+{
+  "id": "ls",
+  "name": "Lesotho",
+  "alpha2": "LS",
+  "alpha3": "LSO",
+  "capital": "Maseru",
+  "continent": "Africa",
+  "currency_code": "LSL",
+  "currency": "Loti",
+  "population_millions": 2,
+  "flag_emoji": "🇱🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ls.json"
+}

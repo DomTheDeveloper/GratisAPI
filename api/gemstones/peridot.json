@@ -1,0 +1,9 @@
+{
+  "id": "peridot",
+  "name": "Peridot",
+  "color": "Lime green",
+  "mohs_hardness": 6.75,
+  "crystal_system": "Orthorhombic",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/peridot.json"
+}

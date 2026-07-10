@@ -1,0 +1,12 @@
+{
+  "id": "nebraska",
+  "name": "Nebraska",
+  "abbreviation": "NE",
+  "capital": "Lincoln",
+  "largest_city": "Omaha",
+  "population": 1961504,
+  "area_km2": 200330,
+  "statehood_year": 1867,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/nebraska.json"
+}

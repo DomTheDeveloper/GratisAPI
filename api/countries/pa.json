@@ -1,0 +1,13 @@
+{
+  "id": "pa",
+  "name": "Panama",
+  "alpha2": "PA",
+  "alpha3": "PAN",
+  "capital": "Panama City",
+  "continent": "North America",
+  "currency_code": "PAB",
+  "currency": "Balboa",
+  "population_millions": 4,
+  "flag_emoji": "🇵🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/pa.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "force": 0,
+  "description": "Calm",
+  "wind_kmh_min": 0,
+  "wind_kmh_max": 1,
+  "conditions": "Smoke rises vertically; sea like a mirror.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/0.json"
+}

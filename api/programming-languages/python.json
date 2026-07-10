@@ -1,0 +1,14 @@
+{
+  "id": "python",
+  "name": "Python",
+  "year": 1991,
+  "paradigm": [
+    "Object-oriented",
+    "Imperative",
+    "Functional"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Guido van Rossum",
+  "extension": ".py",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/python.json"
+}

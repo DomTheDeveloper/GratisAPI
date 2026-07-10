@@ -1,0 +1,15 @@
+{
+  "id": "komodo-dragon",
+  "common_name": "Komodo Dragon",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Varanidae",
+  "genus": "Varanus",
+  "species": "Varanus komodoensis",
+  "conservation_status": "Endangered",
+  "habitat": "Islands of Indonesia",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/komodo-dragon.json"
+}

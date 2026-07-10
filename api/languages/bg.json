@@ -1,0 +1,9 @@
+{
+  "id": "bg",
+  "code": "bg",
+  "name": "Bulgarian",
+  "native_name": "Български",
+  "direction": "ltr",
+  "speakers_millions": 8,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/bg.json"
+}

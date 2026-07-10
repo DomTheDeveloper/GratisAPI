@@ -1,0 +1,13 @@
+{
+  "id": "hr",
+  "name": "Croatia",
+  "alpha2": "HR",
+  "alpha3": "HRV",
+  "capital": "Zagreb",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 4,
+  "flag_emoji": "🇭🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/hr.json"
+}

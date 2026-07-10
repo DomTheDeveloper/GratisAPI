@@ -1,0 +1,13 @@
+{
+  "id": "at",
+  "name": "Austria",
+  "alpha2": "AT",
+  "alpha3": "AUT",
+  "capital": "Vienna",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 9,
+  "flag_emoji": "🇦🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/at.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "il",
+  "name": "Israel",
+  "alpha2": "IL",
+  "alpha3": "ISR",
+  "capital": "Jerusalem",
+  "continent": "Asia",
+  "currency_code": "ILS",
+  "currency": "New Israeli Shekel",
+  "population_millions": 9,
+  "flag_emoji": "🇮🇱",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/il.json"
+}

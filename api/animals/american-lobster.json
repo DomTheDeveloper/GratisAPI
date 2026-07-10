@@ -1,0 +1,15 @@
+{
+  "id": "american-lobster",
+  "common_name": "American Lobster",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Malacostraca",
+  "order": "Decapoda",
+  "family": "Nephropidae",
+  "genus": "Homarus",
+  "species": "Homarus americanus",
+  "conservation_status": "Least Concern",
+  "habitat": "Cold rocky Atlantic seafloor",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/american-lobster.json"
+}

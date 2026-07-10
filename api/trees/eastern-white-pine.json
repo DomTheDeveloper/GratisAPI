@@ -1,0 +1,10 @@
+{
+  "id": "eastern-white-pine",
+  "common_name": "Eastern White Pine",
+  "scientific_name": "Pinus strobus",
+  "family": "Pinaceae",
+  "type": "Coniferous",
+  "max_height_m": 50,
+  "native_region": "Eastern North America",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/eastern-white-pine.json"
+}

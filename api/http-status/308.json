@@ -3,5 +3,6 @@
   "code": 308,
   "message": "Permanent Redirect",
   "category": "Redirection",
+  "description": "The resource permanently resides at a different URL and the method must not change.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/308.json"
 }

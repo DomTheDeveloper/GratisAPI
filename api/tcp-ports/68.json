@@ -1,0 +1,8 @@
+{
+  "id": 68,
+  "port": 68,
+  "service": "dhcp-client",
+  "protocol": "UDP",
+  "description": "Dynamic Host Configuration Protocol client.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/68.json"
+}

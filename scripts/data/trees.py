@@ -1,0 +1,43 @@
+"""Tree species with type, size and native range."""
+
+META = {
+    "name": "trees",
+    "title": "Trees",
+    "description": "Tree species with leaf type, maximum height and native region.",
+    "emoji": "\U0001F333",
+}
+
+ITEMS = [
+    {"id": "english-oak", "common_name": "English Oak", "scientific_name": "Quercus robur", "family": "Fagaceae", "type": "Deciduous", "max_height_m": 40, "native_region": "Europe and western Asia"},
+    {"id": "red-maple", "common_name": "Red Maple", "scientific_name": "Acer rubrum", "family": "Sapindaceae", "type": "Deciduous", "max_height_m": 30, "native_region": "Eastern North America"},
+    {"id": "sugar-maple", "common_name": "Sugar Maple", "scientific_name": "Acer saccharum", "family": "Sapindaceae", "type": "Deciduous", "max_height_m": 35, "native_region": "Eastern North America"},
+    {"id": "silver-birch", "common_name": "Silver Birch", "scientific_name": "Betula pendula", "family": "Betulaceae", "type": "Deciduous", "max_height_m": 30, "native_region": "Europe and Asia"},
+    {"id": "american-beech", "common_name": "American Beech", "scientific_name": "Fagus grandifolia", "family": "Fagaceae", "type": "Deciduous", "max_height_m": 35, "native_region": "Eastern North America"},
+    {"id": "european-beech", "common_name": "European Beech", "scientific_name": "Fagus sylvatica", "family": "Fagaceae", "type": "Deciduous", "max_height_m": 40, "native_region": "Central Europe"},
+    {"id": "white-ash", "common_name": "White Ash", "scientific_name": "Fraxinus americana", "family": "Oleaceae", "type": "Deciduous", "max_height_m": 30, "native_region": "Eastern North America"},
+    {"id": "weeping-willow", "common_name": "Weeping Willow", "scientific_name": "Salix babylonica", "family": "Salicaceae", "type": "Deciduous", "max_height_m": 25, "native_region": "Northern China"},
+    {"id": "american-sycamore", "common_name": "American Sycamore", "scientific_name": "Platanus occidentalis", "family": "Platanaceae", "type": "Deciduous", "max_height_m": 40, "native_region": "Eastern North America"},
+    {"id": "horse-chestnut", "common_name": "Horse Chestnut", "scientific_name": "Aesculus hippocastanum", "family": "Sapindaceae", "type": "Deciduous", "max_height_m": 36, "native_region": "Balkan Peninsula"},
+    {"id": "tulip-tree", "common_name": "Tulip Tree", "scientific_name": "Liriodendron tulipifera", "family": "Magnoliaceae", "type": "Deciduous", "max_height_m": 50, "native_region": "Eastern North America"},
+    {"id": "quaking-aspen", "common_name": "Quaking Aspen", "scientific_name": "Populus tremuloides", "family": "Salicaceae", "type": "Deciduous", "max_height_m": 25, "native_region": "North America"},
+    {"id": "black-walnut", "common_name": "Black Walnut", "scientific_name": "Juglans nigra", "family": "Juglandaceae", "type": "Deciduous", "max_height_m": 40, "native_region": "Eastern North America"},
+    {"id": "sweetgum", "common_name": "American Sweetgum", "scientific_name": "Liquidambar styraciflua", "family": "Altingiaceae", "type": "Deciduous", "max_height_m": 35, "native_region": "Eastern North America"},
+    {"id": "ginkgo", "common_name": "Ginkgo", "scientific_name": "Ginkgo biloba", "family": "Ginkgoaceae", "type": "Deciduous", "max_height_m": 35, "native_region": "China"},
+    {"id": "scots-pine", "common_name": "Scots Pine", "scientific_name": "Pinus sylvestris", "family": "Pinaceae", "type": "Coniferous", "max_height_m": 35, "native_region": "Europe and Asia"},
+    {"id": "eastern-white-pine", "common_name": "Eastern White Pine", "scientific_name": "Pinus strobus", "family": "Pinaceae", "type": "Coniferous", "max_height_m": 50, "native_region": "Eastern North America"},
+    {"id": "norway-spruce", "common_name": "Norway Spruce", "scientific_name": "Picea abies", "family": "Pinaceae", "type": "Coniferous", "max_height_m": 55, "native_region": "Northern and central Europe"},
+    {"id": "douglas-fir", "common_name": "Douglas Fir", "scientific_name": "Pseudotsuga menziesii", "family": "Pinaceae", "type": "Coniferous", "max_height_m": 75, "native_region": "Western North America"},
+    {"id": "coast-redwood", "common_name": "Coast Redwood", "scientific_name": "Sequoia sempervirens", "family": "Cupressaceae", "type": "Coniferous", "max_height_m": 115, "native_region": "Coastal California and Oregon"},
+    {"id": "giant-sequoia", "common_name": "Giant Sequoia", "scientific_name": "Sequoiadendron giganteum", "family": "Cupressaceae", "type": "Coniferous", "max_height_m": 95, "native_region": "Sierra Nevada, California"},
+    {"id": "bald-cypress", "common_name": "Bald Cypress", "scientific_name": "Taxodium distichum", "family": "Cupressaceae", "type": "Deciduous", "max_height_m": 44, "native_region": "Southeastern United States"},
+    {"id": "eastern-hemlock", "common_name": "Eastern Hemlock", "scientific_name": "Tsuga canadensis", "family": "Pinaceae", "type": "Coniferous", "max_height_m": 50, "native_region": "Eastern North America"},
+    {"id": "western-red-cedar", "common_name": "Western Red Cedar", "scientific_name": "Thuja plicata", "family": "Cupressaceae", "type": "Coniferous", "max_height_m": 65, "native_region": "Pacific Northwest"},
+    {"id": "european-larch", "common_name": "European Larch", "scientific_name": "Larix decidua", "family": "Pinaceae", "type": "Deciduous", "max_height_m": 45, "native_region": "European Alps"},
+    {"id": "southern-magnolia", "common_name": "Southern Magnolia", "scientific_name": "Magnolia grandiflora", "family": "Magnoliaceae", "type": "Evergreen", "max_height_m": 27, "native_region": "Southeastern United States"},
+    {"id": "olive", "common_name": "Olive", "scientific_name": "Olea europaea", "family": "Oleaceae", "type": "Evergreen", "max_height_m": 15, "native_region": "Mediterranean Basin"},
+    {"id": "coconut-palm", "common_name": "Coconut Palm", "scientific_name": "Cocos nucifera", "family": "Arecaceae", "type": "Evergreen", "max_height_m": 30, "native_region": "Tropical Indo-Pacific"},
+    {"id": "eucalyptus-blue-gum", "common_name": "Tasmanian Blue Gum", "scientific_name": "Eucalyptus globulus", "family": "Myrtaceae", "type": "Evergreen", "max_height_m": 55, "native_region": "Southeastern Australia"},
+    {"id": "baobab", "common_name": "African Baobab", "scientific_name": "Adansonia digitata", "family": "Malvaceae", "type": "Deciduous", "max_height_m": 25, "native_region": "Sub-Saharan Africa"},
+    {"id": "japanese-cherry", "common_name": "Japanese Cherry", "scientific_name": "Prunus serrulata", "family": "Rosaceae", "type": "Deciduous", "max_height_m": 12, "native_region": "Japan, Korea and China"},
+    {"id": "holly", "common_name": "European Holly", "scientific_name": "Ilex aquifolium", "family": "Aquifoliaceae", "type": "Evergreen", "max_height_m": 15, "native_region": "Western and southern Europe"},
+]

@@ -1,0 +1,9 @@
+{
+  "id": "turmeric",
+  "name": "Turmeric",
+  "plant_part": "Root",
+  "origin_region": "India",
+  "flavor": "Earthy, bitter",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/turmeric.json"
+}

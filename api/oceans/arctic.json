@@ -1,0 +1,9 @@
+{
+  "id": "arctic",
+  "name": "Arctic Ocean",
+  "area_km2": 15558000,
+  "avg_depth_m": 1205,
+  "max_depth_m": 5550,
+  "deepest_point": "Molloy Deep (Fram Strait)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/arctic.json"
+}

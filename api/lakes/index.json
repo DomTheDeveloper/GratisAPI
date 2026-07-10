@@ -1,0 +1,248 @@
+{
+  "api": "lakes",
+  "title": "Lakes",
+  "description": "Large and notable lakes of the world with surface area, depth, and type.",
+  "emoji": "🏞",
+  "license": "GPL-2.0-or-later",
+  "count": 25,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/lakes/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/lakes/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/lakes/{id}.json"
+  },
+  "fields": [
+    "area_km2",
+    "continent",
+    "id",
+    "max_depth_m",
+    "name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "caspian-sea",
+      "name": "Caspian Sea",
+      "area_km2": 371000,
+      "max_depth_m": 1025,
+      "continent": "Asia / Europe",
+      "type": "Salt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/caspian-sea.json"
+    },
+    {
+      "id": "superior",
+      "name": "Lake Superior",
+      "area_km2": 82100,
+      "max_depth_m": 406,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/superior.json"
+    },
+    {
+      "id": "victoria",
+      "name": "Lake Victoria",
+      "area_km2": 68870,
+      "max_depth_m": 84,
+      "continent": "Africa",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/victoria.json"
+    },
+    {
+      "id": "huron",
+      "name": "Lake Huron",
+      "area_km2": 59600,
+      "max_depth_m": 229,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/huron.json"
+    },
+    {
+      "id": "michigan",
+      "name": "Lake Michigan",
+      "area_km2": 58000,
+      "max_depth_m": 281,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/michigan.json"
+    },
+    {
+      "id": "tanganyika",
+      "name": "Lake Tanganyika",
+      "area_km2": 32900,
+      "max_depth_m": 1470,
+      "continent": "Africa",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/tanganyika.json"
+    },
+    {
+      "id": "baikal",
+      "name": "Lake Baikal",
+      "area_km2": 31500,
+      "max_depth_m": 1642,
+      "continent": "Asia",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/baikal.json"
+    },
+    {
+      "id": "great-bear",
+      "name": "Great Bear Lake",
+      "area_km2": 31000,
+      "max_depth_m": 446,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/great-bear.json"
+    },
+    {
+      "id": "malawi",
+      "name": "Lake Malawi",
+      "area_km2": 29500,
+      "max_depth_m": 706,
+      "continent": "Africa",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/malawi.json"
+    },
+    {
+      "id": "great-slave",
+      "name": "Great Slave Lake",
+      "area_km2": 27000,
+      "max_depth_m": 614,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/great-slave.json"
+    },
+    {
+      "id": "erie",
+      "name": "Lake Erie",
+      "area_km2": 25700,
+      "max_depth_m": 64,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/erie.json"
+    },
+    {
+      "id": "winnipeg",
+      "name": "Lake Winnipeg",
+      "area_km2": 24400,
+      "max_depth_m": 36,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/winnipeg.json"
+    },
+    {
+      "id": "ontario",
+      "name": "Lake Ontario",
+      "area_km2": 18960,
+      "max_depth_m": 244,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/ontario.json"
+    },
+    {
+      "id": "ladoga",
+      "name": "Lake Ladoga",
+      "area_km2": 17700,
+      "max_depth_m": 230,
+      "continent": "Europe",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/ladoga.json"
+    },
+    {
+      "id": "balkhash",
+      "name": "Lake Balkhash",
+      "area_km2": 16400,
+      "max_depth_m": 26,
+      "continent": "Asia",
+      "type": "Salt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/balkhash.json"
+    },
+    {
+      "id": "vostok",
+      "name": "Lake Vostok",
+      "area_km2": 12500,
+      "max_depth_m": 800,
+      "continent": "Antarctica",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/vostok.json"
+    },
+    {
+      "id": "onega",
+      "name": "Lake Onega",
+      "area_km2": 9700,
+      "max_depth_m": 127,
+      "continent": "Europe",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/onega.json"
+    },
+    {
+      "id": "titicaca",
+      "name": "Lake Titicaca",
+      "area_km2": 8372,
+      "max_depth_m": 281,
+      "continent": "South America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/titicaca.json"
+    },
+    {
+      "id": "nicaragua",
+      "name": "Lake Nicaragua",
+      "area_km2": 8264,
+      "max_depth_m": 26,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/nicaragua.json"
+    },
+    {
+      "id": "athabasca",
+      "name": "Lake Athabasca",
+      "area_km2": 7850,
+      "max_depth_m": 124,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/athabasca.json"
+    },
+    {
+      "id": "turkana",
+      "name": "Lake Turkana",
+      "area_km2": 6405,
+      "max_depth_m": 109,
+      "continent": "Africa",
+      "type": "Salt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/turkana.json"
+    },
+    {
+      "id": "issyk-kul",
+      "name": "Issyk-Kul",
+      "area_km2": 6236,
+      "max_depth_m": 668,
+      "continent": "Asia",
+      "type": "Salt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/issyk-kul.json"
+    },
+    {
+      "id": "great-salt-lake",
+      "name": "Great Salt Lake",
+      "area_km2": 4400,
+      "max_depth_m": 10,
+      "continent": "North America",
+      "type": "Salt",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/great-salt-lake.json"
+    },
+    {
+      "id": "vanern",
+      "name": "Lake Vanern",
+      "area_km2": 5650,
+      "max_depth_m": 106,
+      "continent": "Europe",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/vanern.json"
+    },
+    {
+      "id": "tahoe",
+      "name": "Lake Tahoe",
+      "area_km2": 495,
+      "max_depth_m": 501,
+      "continent": "North America",
+      "type": "Freshwater",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/tahoe.json"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "koala",
+  "common_name": "Koala",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Diprotodontia",
+  "family": "Phascolarctidae",
+  "genus": "Phascolarctos",
+  "species": "Phascolarctos cinereus",
+  "conservation_status": "Vulnerable",
+  "habitat": "Eucalyptus forests of eastern Australia",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/koala.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pe",
+  "name": "Peru",
+  "alpha2": "PE",
+  "alpha3": "PER",
+  "capital": "Lima",
+  "continent": "South America",
+  "currency_code": "PEN",
+  "currency": "Sol",
+  "population_millions": 33,
+  "flag_emoji": "🇵🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/pe.json"
+}

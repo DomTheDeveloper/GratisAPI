@@ -1,0 +1,13 @@
+{
+  "id": "lb",
+  "name": "Lebanon",
+  "alpha2": "LB",
+  "alpha3": "LBN",
+  "capital": "Beirut",
+  "continent": "Asia",
+  "currency_code": "LBP",
+  "currency": "Lebanese Pound",
+  "population_millions": 6,
+  "flag_emoji": "🇱🇧",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/lb.json"
+}

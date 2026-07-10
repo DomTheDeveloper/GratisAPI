@@ -1,0 +1,8 @@
+{
+  "id": 426,
+  "code": 426,
+  "message": "Upgrade Required",
+  "category": "Client Error",
+  "description": "The client should switch to a different protocol to complete the request.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/426.json"
+}

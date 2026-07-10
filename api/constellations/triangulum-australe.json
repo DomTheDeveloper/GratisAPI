@@ -1,0 +1,9 @@
+{
+  "id": "triangulum-australe",
+  "name": "Triangulum Australe",
+  "abbreviation": "TrA",
+  "meaning": "The Southern Triangle",
+  "quadrant": "SQ3",
+  "area_sq_deg": 109.978,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/triangulum-australe.json"
+}

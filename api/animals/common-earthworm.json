@@ -1,0 +1,15 @@
+{
+  "id": "common-earthworm",
+  "common_name": "Common Earthworm",
+  "kingdom": "Animalia",
+  "phylum": "Annelida",
+  "class": "Clitellata",
+  "order": "Opisthopora",
+  "family": "Lumbricidae",
+  "genus": "Lumbricus",
+  "species": "Lumbricus terrestris",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Soil of temperate regions",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/common-earthworm.json"
+}

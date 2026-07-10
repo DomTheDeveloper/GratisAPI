@@ -1,0 +1,9 @@
+{
+  "id": "hydra",
+  "name": "Hydra",
+  "planet": "Pluto",
+  "radius_km": 30.5,
+  "discovered_year": 2005,
+  "discovered_by": "Hubble Space Telescope team",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/hydra.json"
+}

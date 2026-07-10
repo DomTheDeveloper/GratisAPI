@@ -1,0 +1,9 @@
+{
+  "id": 9,
+  "force": 9,
+  "description": "Strong gale",
+  "wind_kmh_min": 75,
+  "wind_kmh_max": 88,
+  "conditions": "Slight structural damage; high waves, dense foam.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/9.json"
+}

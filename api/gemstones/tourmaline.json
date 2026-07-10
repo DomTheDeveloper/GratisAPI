@@ -1,0 +1,9 @@
+{
+  "id": "tourmaline",
+  "name": "Tourmaline",
+  "color": "Various",
+  "mohs_hardness": 7.25,
+  "crystal_system": "Trigonal",
+  "type": "Semi-precious",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/tourmaline.json"
+}

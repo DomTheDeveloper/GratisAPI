@@ -1,0 +1,13 @@
+{
+  "id": "objective-c",
+  "name": "Objective-C",
+  "year": 1984,
+  "paradigm": [
+    "Object-oriented",
+    "Reflective"
+  ],
+  "typing": "Static",
+  "designed_by": "Brad Cox and Tom Love",
+  "extension": ".m",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/objective-c.json"
+}

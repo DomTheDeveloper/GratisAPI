@@ -1,0 +1,18 @@
+{
+  "id": "mistyrose",
+  "name": "Misty Rose",
+  "hex": "#FFE4E1",
+  "rgb": {
+    "r": 255,
+    "g": 228,
+    "b": 225
+  },
+  "rgb_string": "rgb(255, 228, 225)",
+  "hsl": {
+    "h": 6,
+    "s": 100,
+    "l": 94
+  },
+  "hsl_string": "hsl(6, 100%, 94%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mistyrose.json"
+}

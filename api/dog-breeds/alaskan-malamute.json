@@ -1,0 +1,10 @@
+{
+  "id": "alaskan-malamute",
+  "name": "Alaskan Malamute",
+  "group": "Working",
+  "origin": "United States",
+  "size": "Large",
+  "life_expectancy_years": "10-14",
+  "temperament": "Affectionate, loyal and playful",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/alaskan-malamute.json"
+}

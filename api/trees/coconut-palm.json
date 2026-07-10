@@ -1,0 +1,10 @@
+{
+  "id": "coconut-palm",
+  "common_name": "Coconut Palm",
+  "scientific_name": "Cocos nucifera",
+  "family": "Arecaceae",
+  "type": "Evergreen",
+  "max_height_m": 30,
+  "native_region": "Tropical Indo-Pacific",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/coconut-palm.json"
+}

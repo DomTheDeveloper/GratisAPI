@@ -1,0 +1,13 @@
+{
+  "id": "mg",
+  "name": "Madagascar",
+  "alpha2": "MG",
+  "alpha3": "MDG",
+  "capital": "Antananarivo",
+  "continent": "Africa",
+  "currency_code": "MGA",
+  "currency": "Malagasy Ariary",
+  "population_millions": 28,
+  "flag_emoji": "🇲🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mg.json"
+}

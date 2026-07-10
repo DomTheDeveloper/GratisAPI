@@ -1,0 +1,11 @@
+{
+  "id": "dragon-fruit",
+  "name": "Dragon Fruit",
+  "scientific_name": "Selenicereus undatus",
+  "family": "Cactaceae",
+  "type": "Tropical",
+  "color": "Pink",
+  "origin_region": "Central America",
+  "calories_per_100g": 60,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/dragon-fruit.json"
+}

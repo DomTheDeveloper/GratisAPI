@@ -1,0 +1,9 @@
+{
+  "id": "tom-collins",
+  "name": "Tom Collins",
+  "base_spirit": "Gin",
+  "type": "Highball",
+  "glass": "Collins",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/tom-collins.json"
+}

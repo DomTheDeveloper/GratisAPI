@@ -1,0 +1,9 @@
+{
+  "id": "atomic-mass-unit",
+  "name": "Atomic mass constant",
+  "symbol": "m_u",
+  "value": 1.6605390666e-27,
+  "unit": "kg",
+  "category": "Atomic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/atomic-mass-unit.json"
+}

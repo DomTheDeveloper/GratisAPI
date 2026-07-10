@@ -1,0 +1,13 @@
+{
+  "id": "gh",
+  "name": "Ghana",
+  "alpha2": "GH",
+  "alpha3": "GHA",
+  "capital": "Accra",
+  "continent": "Africa",
+  "currency_code": "GHS",
+  "currency": "Ghanaian Cedi",
+  "population_millions": 33,
+  "flag_emoji": "🇬🇭",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gh.json"
+}

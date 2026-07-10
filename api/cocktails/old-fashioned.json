@@ -1,0 +1,9 @@
+{
+  "id": "old-fashioned",
+  "name": "Old Fashioned",
+  "base_spirit": "Whiskey",
+  "type": "Old Fashioned family",
+  "glass": "Rocks",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/old-fashioned.json"
+}

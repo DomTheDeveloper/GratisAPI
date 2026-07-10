@@ -1,0 +1,9 @@
+{
+  "id": "mojito",
+  "name": "Mojito",
+  "base_spirit": "Rum",
+  "type": "Highball",
+  "glass": "Highball",
+  "is_iba": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/mojito.json"
+}

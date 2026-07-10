@@ -7,40 +7,24 @@
   "documentation": "https://domthedeveloper.github.io/GratisAPI/docs/",
   "openapi": "https://domthedeveloper.github.io/GratisAPI/openapi.json",
   "source": "https://github.com/DomTheDeveloper/GratisAPI",
-  "api_count": 12,
-  "total_records": 360,
+  "api_count": 60,
+  "total_records": 2503,
   "apis": [
-    {
-      "api": "animals",
-      "title": "Animals",
-      "description": "Biological taxonomy of animals, from kingdom down to species.",
-      "emoji": "🦊",
-      "count": 20,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/index.json"
-    },
-    {
-      "api": "quotes",
-      "title": "Quotes",
-      "description": "Memorable quotes from famous people throughout history.",
-      "emoji": "💬",
-      "count": 30,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json"
-    },
-    {
-      "api": "colors",
-      "title": "Colors",
-      "description": "Named web colors with hex, RGB and HSL values.",
-      "emoji": "🎨",
-      "count": 40,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/index.json"
-    },
     {
       "api": "countries",
       "title": "Countries",
       "description": "Countries of the world with capital, ISO codes, continent and currency.",
       "emoji": "🌍",
-      "count": 28,
+      "count": 197,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/index.json"
+    },
+    {
+      "api": "us-states",
+      "title": "US States",
+      "description": "The 50 US states plus the District of Columbia with capital, population, area and region.",
+      "emoji": "🇺🇸",
+      "count": 51,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/index.json"
     },
     {
       "api": "continents",
@@ -51,12 +35,156 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/index.json"
     },
     {
-      "api": "planets",
-      "title": "Planets",
-      "description": "Planets and dwarf planets of the Solar System with key physical data.",
-      "emoji": "🪐",
-      "count": 9,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/index.json"
+      "api": "oceans",
+      "title": "Oceans",
+      "description": "The five oceans of the world with area, average and maximum depth.",
+      "emoji": "🌊",
+      "count": 5,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/oceans/index.json"
+    },
+    {
+      "api": "mountains",
+      "title": "Mountains",
+      "description": "Notable and high mountains of the world with elevation, range, and first ascent data.",
+      "emoji": "⛰",
+      "count": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/index.json"
+    },
+    {
+      "api": "rivers",
+      "title": "Rivers",
+      "description": "Major rivers of the world with length, continent, and drainage information.",
+      "emoji": "🌊",
+      "count": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/index.json"
+    },
+    {
+      "api": "lakes",
+      "title": "Lakes",
+      "description": "Large and notable lakes of the world with surface area, depth, and type.",
+      "emoji": "🏞",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/index.json"
+    },
+    {
+      "api": "deserts",
+      "title": "Deserts",
+      "description": "Major deserts of the world with approximate area, continent, and type.",
+      "emoji": "🏜",
+      "count": 21,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/index.json"
+    },
+    {
+      "api": "waterfalls",
+      "title": "Waterfalls",
+      "description": "Famous waterfalls of the world with total height, river, and location.",
+      "emoji": "💦",
+      "count": 16,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/waterfalls/index.json"
+    },
+    {
+      "api": "currencies",
+      "title": "Currencies",
+      "description": "World currencies with ISO 4217 code, symbol and minor unit.",
+      "emoji": "💱",
+      "count": 101,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json"
+    },
+    {
+      "api": "languages",
+      "title": "Languages",
+      "description": "Human languages with ISO 639-1 code, native name and writing direction.",
+      "emoji": "🗣️",
+      "count": 81,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/index.json"
+    },
+    {
+      "api": "animals",
+      "title": "Animals",
+      "description": "Biological taxonomy of animals, from kingdom down to species.",
+      "emoji": "🦊",
+      "count": 71,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/index.json"
+    },
+    {
+      "api": "dinosaurs",
+      "title": "Dinosaurs",
+      "description": "Notable dinosaur genera with geological period, diet, size and fossil range.",
+      "emoji": "🦖",
+      "count": 40,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/index.json"
+    },
+    {
+      "api": "dog-breeds",
+      "title": "Dog Breeds",
+      "description": "Popular dog breeds with breed group, country of origin, size and temperament.",
+      "emoji": "🐕",
+      "count": 51,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/index.json"
+    },
+    {
+      "api": "cat-breeds",
+      "title": "Cat Breeds",
+      "description": "Popular cat breeds with country of origin, coat type and temperament.",
+      "emoji": "🐈",
+      "count": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cat-breeds/index.json"
+    },
+    {
+      "api": "birds",
+      "title": "Birds",
+      "description": "A selection of bird species with habitat, diet and conservation data.",
+      "emoji": "🐦",
+      "count": 41,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/index.json"
+    },
+    {
+      "api": "sharks",
+      "title": "Sharks",
+      "description": "Shark species with size, habitat, diet and danger-to-humans ratings.",
+      "emoji": "🦈",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/index.json"
+    },
+    {
+      "api": "trees",
+      "title": "Trees",
+      "description": "Tree species with leaf type, maximum height and native region.",
+      "emoji": "🌳",
+      "count": 32,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/index.json"
+    },
+    {
+      "api": "flowers",
+      "title": "Flowers",
+      "description": "Common flowers with typical color, bloom season and floriography meaning.",
+      "emoji": "🌷",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/index.json"
+    },
+    {
+      "api": "fruits",
+      "title": "Fruits",
+      "description": "Fruits with botanical type, color, origin region and calories per 100g.",
+      "emoji": "🍎",
+      "count": 40,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/index.json"
+    },
+    {
+      "api": "vegetables",
+      "title": "Vegetables",
+      "description": "Vegetables with culinary type, color and calories per 100g.",
+      "emoji": "🥕",
+      "count": 36,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/index.json"
+    },
+    {
+      "api": "spices",
+      "title": "Spices and Herbs",
+      "description": "Culinary spices and herbs with the plant part used, region of origin, flavor, and heat level.",
+      "emoji": "🌶️",
+      "count": 36,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/index.json"
     },
     {
       "api": "elements",
@@ -67,28 +195,84 @@
       "url": "https://domthedeveloper.github.io/GratisAPI/api/elements/index.json"
     },
     {
-      "api": "http-status",
-      "title": "HTTP Status Codes",
-      "description": "HTTP response status codes with their standard reason phrase and category.",
-      "emoji": "📡",
-      "count": 27,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/index.json"
+      "api": "physical-constants",
+      "title": "Physical Constants",
+      "description": "Fundamental physical constants with symbols, values and units.",
+      "emoji": "🔬",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/index.json"
     },
     {
-      "api": "currencies",
-      "title": "Currencies",
-      "description": "World currencies with ISO 4217 code, symbol and minor unit.",
-      "emoji": "💱",
-      "count": 25,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json"
+      "api": "math-constants",
+      "title": "Math Constants",
+      "description": "Notable mathematical constants with symbols, values and descriptions.",
+      "emoji": "➗",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/index.json"
     },
     {
-      "api": "languages",
-      "title": "Languages",
-      "description": "Human languages with ISO 639-1 code, native name and writing direction.",
-      "emoji": "🗣️",
-      "count": 25,
-      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/index.json"
+      "api": "si-prefixes",
+      "title": "SI Prefixes",
+      "description": "Metric (SI) unit prefixes with symbol and power of ten.",
+      "emoji": "🔢",
+      "count": 24,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/index.json"
+    },
+    {
+      "api": "vitamins",
+      "title": "Vitamins",
+      "description": "The 13 essential human vitamins with function, solubility and food sources.",
+      "emoji": "💊",
+      "count": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/index.json"
+    },
+    {
+      "api": "blood-types",
+      "title": "Blood Types",
+      "description": "The eight ABO/Rh blood groups with donor and recipient compatibility.",
+      "emoji": "🩸",
+      "count": 8,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/blood-types/index.json"
+    },
+    {
+      "api": "beaufort-scale",
+      "title": "Beaufort Scale",
+      "description": "The Beaufort wind force scale from 0 (calm) to 12 (hurricane).",
+      "emoji": "💨",
+      "count": 13,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/index.json"
+    },
+    {
+      "api": "planets",
+      "title": "Planets",
+      "description": "Planets and dwarf planets of the Solar System with key physical data.",
+      "emoji": "🪐",
+      "count": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/index.json"
+    },
+    {
+      "api": "moons",
+      "title": "Moons",
+      "description": "Notable natural satellites of the Solar System with parent planet and discovery details.",
+      "emoji": "🌙",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/index.json"
+    },
+    {
+      "api": "constellations",
+      "title": "Constellations",
+      "description": "The 88 official IAU constellations with abbreviations, meanings and areas.",
+      "emoji": "✨",
+      "count": 88,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/index.json"
+    },
+    {
+      "api": "stars",
+      "title": "Stars",
+      "description": "Bright and notable stars with constellation, magnitude, distance and spectral type.",
+      "emoji": "⭐",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/index.json"
     },
     {
       "api": "zodiac",
@@ -97,6 +281,206 @@
       "emoji": "♌",
       "count": 12,
       "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/index.json"
+    },
+    {
+      "api": "http-status",
+      "title": "HTTP Status Codes",
+      "description": "HTTP response status codes with their standard reason phrase and category.",
+      "emoji": "📡",
+      "count": 63,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/index.json"
+    },
+    {
+      "api": "http-methods",
+      "title": "HTTP Request Methods",
+      "description": "The HTTP request methods and their safety, idempotency, and caching semantics.",
+      "emoji": "🔗",
+      "count": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/index.json"
+    },
+    {
+      "api": "mime-types",
+      "title": "MIME Types",
+      "description": "Common MIME (media) types with their category and typical file extensions.",
+      "emoji": "📄",
+      "count": 61,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/index.json"
+    },
+    {
+      "api": "tcp-ports",
+      "title": "Well-Known Ports",
+      "description": "Well-known TCP and UDP port numbers and the network services assigned to them.",
+      "emoji": "🔌",
+      "count": 62,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/index.json"
+    },
+    {
+      "api": "programming-languages",
+      "title": "Programming Languages",
+      "description": "Popular programming languages with the year they first appeared, paradigm, and typing.",
+      "emoji": "💻",
+      "count": 50,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/index.json"
+    },
+    {
+      "api": "ascii",
+      "title": "Printable ASCII Table",
+      "description": "The printable ASCII characters from decimal 32 to 126 with their numeric representations.",
+      "emoji": "🔤",
+      "count": 95,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/index.json"
+    },
+    {
+      "api": "greek-alphabet",
+      "title": "Greek Alphabet",
+      "description": "The 24 letters of the Greek alphabet with transliteration and numeric value.",
+      "emoji": "🇬🇷",
+      "count": 24,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-alphabet/index.json"
+    },
+    {
+      "api": "nato-alphabet",
+      "title": "NATO Phonetic Alphabet",
+      "description": "The 26 NATO phonetic alphabet code words with pronunciation and Morse code.",
+      "emoji": "📡",
+      "count": 26,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/index.json"
+    },
+    {
+      "api": "morse-code",
+      "title": "Morse Code",
+      "description": "International Morse code for A-Z, 0-9 and common punctuation.",
+      "emoji": "📡",
+      "count": 54,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/morse-code/index.json"
+    },
+    {
+      "api": "roman-numerals",
+      "title": "Roman Numerals",
+      "description": "Roman numeral representations for a selection of useful Arabic numbers.",
+      "emoji": "🏛️",
+      "count": 33,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/roman-numerals/index.json"
+    },
+    {
+      "api": "quotes",
+      "title": "Quotes",
+      "description": "Memorable quotes from famous people throughout history.",
+      "emoji": "💬",
+      "count": 122,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json"
+    },
+    {
+      "api": "us-presidents",
+      "title": "US Presidents",
+      "description": "Presidents of the United States from Washington through Biden.",
+      "emoji": "🇺🇸",
+      "count": 46,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/us-presidents/index.json"
+    },
+    {
+      "api": "greek-gods",
+      "title": "Greek Gods",
+      "description": "Gods, Titans, primordials, and heroes of Greek mythology.",
+      "emoji": "🏛️",
+      "count": 34,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/greek-gods/index.json"
+    },
+    {
+      "api": "norse-gods",
+      "title": "Norse Gods",
+      "description": "Gods and figures of Norse mythology.",
+      "emoji": "⚔️",
+      "count": 22,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/norse-gods/index.json"
+    },
+    {
+      "api": "egyptian-gods",
+      "title": "Egyptian Gods",
+      "description": "Deities of ancient Egyptian mythology.",
+      "emoji": "🔮",
+      "count": 21,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/egyptian-gods/index.json"
+    },
+    {
+      "api": "seven-wonders",
+      "title": "Seven Wonders",
+      "description": "The Seven Wonders of the Ancient World and the New Seven Wonders.",
+      "emoji": "🏛️",
+      "count": 14,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/seven-wonders/index.json"
+    },
+    {
+      "api": "chinese-zodiac",
+      "title": "Chinese Zodiac",
+      "description": "The twelve animals of the Chinese zodiac with fixed element, yin-yang polarity, traits, and example years.",
+      "emoji": "🐉",
+      "count": 12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/index.json"
+    },
+    {
+      "api": "birthstones",
+      "title": "Birthstones",
+      "description": "The traditional monthly birthstones with their color and symbolic meaning.",
+      "emoji": "💎",
+      "count": 12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/birthstones/index.json"
+    },
+    {
+      "api": "tarot-major-arcana",
+      "title": "Tarot Major Arcana",
+      "description": "The twenty-two Major Arcana cards of the tarot with keywords and elemental association.",
+      "emoji": "🔮",
+      "count": 22,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/tarot-major-arcana/index.json"
+    },
+    {
+      "api": "gemstones",
+      "title": "Gemstones",
+      "description": "Popular gemstones with typical color, Mohs hardness, crystal system, and precious classification.",
+      "emoji": "💎",
+      "count": 31,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/gemstones/index.json"
+    },
+    {
+      "api": "colors",
+      "title": "Colors",
+      "description": "Named web colors with hex, RGB and HSL values.",
+      "emoji": "🎨",
+      "count": 141,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/index.json"
+    },
+    {
+      "api": "musical-instruments",
+      "title": "Musical Instruments",
+      "description": "Common musical instruments with their family, Hornbostel-Sachs classification, and region of origin.",
+      "emoji": "🎸",
+      "count": 42,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/index.json"
+    },
+    {
+      "api": "cocktails",
+      "title": "Classic Cocktails",
+      "description": "Classic cocktails with their base spirit, family, serving glass, and IBA official status.",
+      "emoji": "🍸",
+      "count": 41,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/index.json"
+    },
+    {
+      "api": "chess-pieces",
+      "title": "Chess Pieces",
+      "description": "The six chess pieces with their Unicode symbols, relative point value, and movement rules.",
+      "emoji": "♟️",
+      "count": 6,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/chess-pieces/index.json"
+    },
+    {
+      "api": "playing-cards",
+      "title": "Playing Cards",
+      "description": "A standard 52-card deck with rank, suit, color, value, and suit symbol.",
+      "emoji": "🃏",
+      "count": 52,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/index.json"
     },
     {
       "api": "calendar",

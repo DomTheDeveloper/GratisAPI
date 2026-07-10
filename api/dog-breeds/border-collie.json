@@ -1,0 +1,10 @@
+{
+  "id": "border-collie",
+  "name": "Border Collie",
+  "group": "Herding",
+  "origin": "United Kingdom",
+  "size": "Medium",
+  "life_expectancy_years": "12-15",
+  "temperament": "Energetic, smart and work-oriented",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/border-collie.json"
+}

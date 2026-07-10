@@ -1,0 +1,10 @@
+{
+  "id": "gzip",
+  "mime_type": "application/gzip",
+  "name": "Gzip Archive",
+  "category": "application",
+  "extensions": [
+    ".gz"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/gzip.json"
+}

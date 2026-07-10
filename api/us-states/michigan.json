@@ -1,0 +1,12 @@
+{
+  "id": "michigan",
+  "name": "Michigan",
+  "abbreviation": "MI",
+  "capital": "Lansing",
+  "largest_city": "Detroit",
+  "population": 10077331,
+  "area_km2": 250487,
+  "statehood_year": 1837,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/michigan.json"
+}

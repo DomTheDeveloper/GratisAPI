@@ -1,0 +1,13 @@
+{
+  "id": "scheme",
+  "name": "Scheme",
+  "year": 1975,
+  "paradigm": [
+    "Functional",
+    "Procedural"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Guy L. Steele and Gerald Jay Sussman",
+  "extension": ".scm",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/scheme.json"
+}

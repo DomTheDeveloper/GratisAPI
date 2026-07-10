@@ -1,0 +1,12 @@
+{
+  "id": "haskell",
+  "name": "Haskell",
+  "year": 1990,
+  "paradigm": [
+    "Functional"
+  ],
+  "typing": "Static",
+  "designed_by": "Simon Peyton Jones et al.",
+  "extension": ".hs",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/haskell.json"
+}

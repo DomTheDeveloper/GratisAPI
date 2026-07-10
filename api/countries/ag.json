@@ -1,0 +1,13 @@
+{
+  "id": "ag",
+  "name": "Antigua and Barbuda",
+  "alpha2": "AG",
+  "alpha3": "ATG",
+  "capital": "Saint John's",
+  "continent": "North America",
+  "currency_code": "XCD",
+  "currency": "East Caribbean Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇦🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ag.json"
+}

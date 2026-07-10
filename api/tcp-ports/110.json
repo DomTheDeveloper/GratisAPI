@@ -1,0 +1,8 @@
+{
+  "id": 110,
+  "port": 110,
+  "service": "pop3",
+  "protocol": "TCP",
+  "description": "Post Office Protocol version 3 for retrieving email.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/110.json"
+}

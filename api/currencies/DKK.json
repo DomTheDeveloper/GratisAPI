@@ -1,0 +1,8 @@
+{
+  "id": "DKK",
+  "code": "DKK",
+  "name": "Danish Krone",
+  "symbol": "kr",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/DKK.json"
+}

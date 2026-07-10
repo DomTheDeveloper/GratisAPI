@@ -1,0 +1,12 @@
+{
+  "id": "sand-tiger",
+  "common_name": "Sand Tiger Shark",
+  "scientific_name": "Carcharias taurus",
+  "family": "Odontaspididae",
+  "max_length_m": 3.2,
+  "habitat": "Coastal waters and sandy reefs",
+  "diet": "Carnivore",
+  "conservation_status": "Critically Endangered",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/sand-tiger.json"
+}

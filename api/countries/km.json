@@ -1,0 +1,13 @@
+{
+  "id": "km",
+  "name": "Comoros",
+  "alpha2": "KM",
+  "alpha3": "COM",
+  "capital": "Moroni",
+  "continent": "Africa",
+  "currency_code": "KMF",
+  "currency": "Comorian Franc",
+  "population_millions": 1,
+  "flag_emoji": "🇰🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/km.json"
+}

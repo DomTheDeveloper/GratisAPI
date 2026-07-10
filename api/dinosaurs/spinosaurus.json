@@ -1,0 +1,11 @@
+{
+  "id": "spinosaurus",
+  "name": "Spinosaurus",
+  "period": "Late Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 15.0,
+  "weight_kg": 7400,
+  "region": "North Africa",
+  "meaning": "Spine lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/spinosaurus.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cv",
+  "name": "Cabo Verde",
+  "alpha2": "CV",
+  "alpha3": "CPV",
+  "capital": "Praia",
+  "continent": "Africa",
+  "currency_code": "CVE",
+  "currency": "Cape Verdean Escudo",
+  "population_millions": 1,
+  "flag_emoji": "🇨🇻",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cv.json"
+}

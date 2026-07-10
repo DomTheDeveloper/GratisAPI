@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-a",
+  "name": "Vitamin A",
+  "chemical_name": "Retinol",
+  "solubility": "Fat",
+  "function": "Vision, immune function and skin health",
+  "deficiency_disease": "Night blindness",
+  "food_sources": [
+    "Carrots",
+    "Liver",
+    "Sweet potato"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-a.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "force": 1,
+  "description": "Light air",
+  "wind_kmh_min": 1,
+  "wind_kmh_max": 5,
+  "conditions": "Smoke drifts; ripples on the water.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/1.json"
+}

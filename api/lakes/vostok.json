@@ -1,0 +1,9 @@
+{
+  "id": "vostok",
+  "name": "Lake Vostok",
+  "area_km2": 12500,
+  "max_depth_m": 800,
+  "continent": "Antarctica",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/vostok.json"
+}

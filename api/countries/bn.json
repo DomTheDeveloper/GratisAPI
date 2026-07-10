@@ -1,0 +1,13 @@
+{
+  "id": "bn",
+  "name": "Brunei",
+  "alpha2": "BN",
+  "alpha3": "BRN",
+  "capital": "Bandar Seri Begawan",
+  "continent": "Asia",
+  "currency_code": "BND",
+  "currency": "Brunei Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇧🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bn.json"
+}

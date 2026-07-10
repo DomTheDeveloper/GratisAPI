@@ -1,0 +1,10 @@
+{
+  "id": "zucchini",
+  "name": "Zucchini",
+  "scientific_name": "Cucurbita pepo",
+  "family": "Cucurbitaceae",
+  "type": "Fruit",
+  "color": "Green",
+  "calories_per_100g": 17,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/zucchini.json"
+}

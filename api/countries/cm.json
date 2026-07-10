@@ -1,0 +1,13 @@
+{
+  "id": "cm",
+  "name": "Cameroon",
+  "alpha2": "CM",
+  "alpha3": "CMR",
+  "capital": "Yaounde",
+  "continent": "Africa",
+  "currency_code": "XAF",
+  "currency": "Central African CFA Franc",
+  "population_millions": 27,
+  "flag_emoji": "🇨🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cm.json"
+}

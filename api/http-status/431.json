@@ -1,0 +1,8 @@
+{
+  "id": 431,
+  "code": 431,
+  "message": "Request Header Fields Too Large",
+  "category": "Client Error",
+  "description": "The server refuses the request because its header fields are too large.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/431.json"
+}

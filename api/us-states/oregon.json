@@ -1,0 +1,12 @@
+{
+  "id": "oregon",
+  "name": "Oregon",
+  "abbreviation": "OR",
+  "capital": "Salem",
+  "largest_city": "Portland",
+  "population": 4237256,
+  "area_km2": 254799,
+  "statehood_year": 1859,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/oregon.json"
+}

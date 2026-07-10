@@ -1,0 +1,12 @@
+{
+  "id": "arkansas",
+  "name": "Arkansas",
+  "abbreviation": "AR",
+  "capital": "Little Rock",
+  "largest_city": "Little Rock",
+  "population": 3011524,
+  "area_km2": 137732,
+  "statehood_year": 1836,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/arkansas.json"
+}

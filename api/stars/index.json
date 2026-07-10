@@ -1,0 +1,293 @@
+{
+  "api": "stars",
+  "title": "Stars",
+  "description": "Bright and notable stars with constellation, magnitude, distance and spectral type.",
+  "emoji": "⭐",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/stars/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/stars/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/stars/{id}.json"
+  },
+  "fields": [
+    "apparent_magnitude",
+    "constellation",
+    "distance_ly",
+    "id",
+    "name",
+    "spectral_type"
+  ],
+  "results": [
+    {
+      "id": "sirius",
+      "name": "Sirius",
+      "constellation": "Canis Major",
+      "apparent_magnitude": -1.46,
+      "distance_ly": 8.6,
+      "spectral_type": "A1V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/sirius.json"
+    },
+    {
+      "id": "canopus",
+      "name": "Canopus",
+      "constellation": "Carina",
+      "apparent_magnitude": -0.74,
+      "distance_ly": 310.0,
+      "spectral_type": "A9II",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/canopus.json"
+    },
+    {
+      "id": "alpha-centauri",
+      "name": "Alpha Centauri A",
+      "constellation": "Centaurus",
+      "apparent_magnitude": -0.27,
+      "distance_ly": 4.37,
+      "spectral_type": "G2V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/alpha-centauri.json"
+    },
+    {
+      "id": "arcturus",
+      "name": "Arcturus",
+      "constellation": "Bootes",
+      "apparent_magnitude": -0.05,
+      "distance_ly": 36.7,
+      "spectral_type": "K0III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/arcturus.json"
+    },
+    {
+      "id": "vega",
+      "name": "Vega",
+      "constellation": "Lyra",
+      "apparent_magnitude": 0.03,
+      "distance_ly": 25.0,
+      "spectral_type": "A0V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/vega.json"
+    },
+    {
+      "id": "capella",
+      "name": "Capella",
+      "constellation": "Auriga",
+      "apparent_magnitude": 0.08,
+      "distance_ly": 42.9,
+      "spectral_type": "G8III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/capella.json"
+    },
+    {
+      "id": "rigel",
+      "name": "Rigel",
+      "constellation": "Orion",
+      "apparent_magnitude": 0.13,
+      "distance_ly": 860.0,
+      "spectral_type": "B8Ia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/rigel.json"
+    },
+    {
+      "id": "procyon",
+      "name": "Procyon",
+      "constellation": "Canis Minor",
+      "apparent_magnitude": 0.34,
+      "distance_ly": 11.5,
+      "spectral_type": "F5IV-V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/procyon.json"
+    },
+    {
+      "id": "achernar",
+      "name": "Achernar",
+      "constellation": "Eridanus",
+      "apparent_magnitude": 0.46,
+      "distance_ly": 139.0,
+      "spectral_type": "B6Vpe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/achernar.json"
+    },
+    {
+      "id": "betelgeuse",
+      "name": "Betelgeuse",
+      "constellation": "Orion",
+      "apparent_magnitude": 0.5,
+      "distance_ly": 548.0,
+      "spectral_type": "M1-2Ia-ab",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/betelgeuse.json"
+    },
+    {
+      "id": "hadar",
+      "name": "Hadar",
+      "constellation": "Centaurus",
+      "apparent_magnitude": 0.61,
+      "distance_ly": 390.0,
+      "spectral_type": "B1III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/hadar.json"
+    },
+    {
+      "id": "altair",
+      "name": "Altair",
+      "constellation": "Aquila",
+      "apparent_magnitude": 0.76,
+      "distance_ly": 16.7,
+      "spectral_type": "A7V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/altair.json"
+    },
+    {
+      "id": "acrux",
+      "name": "Acrux",
+      "constellation": "Crux",
+      "apparent_magnitude": 0.76,
+      "distance_ly": 320.0,
+      "spectral_type": "B0.5IV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/acrux.json"
+    },
+    {
+      "id": "aldebaran",
+      "name": "Aldebaran",
+      "constellation": "Taurus",
+      "apparent_magnitude": 0.86,
+      "distance_ly": 65.3,
+      "spectral_type": "K5III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/aldebaran.json"
+    },
+    {
+      "id": "antares",
+      "name": "Antares",
+      "constellation": "Scorpius",
+      "apparent_magnitude": 0.96,
+      "distance_ly": 550.0,
+      "spectral_type": "M1.5Iab",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/antares.json"
+    },
+    {
+      "id": "spica",
+      "name": "Spica",
+      "constellation": "Virgo",
+      "apparent_magnitude": 1.04,
+      "distance_ly": 250.0,
+      "spectral_type": "B1III-IV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/spica.json"
+    },
+    {
+      "id": "pollux",
+      "name": "Pollux",
+      "constellation": "Gemini",
+      "apparent_magnitude": 1.14,
+      "distance_ly": 33.8,
+      "spectral_type": "K0III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/pollux.json"
+    },
+    {
+      "id": "fomalhaut",
+      "name": "Fomalhaut",
+      "constellation": "Piscis Austrinus",
+      "apparent_magnitude": 1.16,
+      "distance_ly": 25.1,
+      "spectral_type": "A3V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/fomalhaut.json"
+    },
+    {
+      "id": "deneb",
+      "name": "Deneb",
+      "constellation": "Cygnus",
+      "apparent_magnitude": 1.25,
+      "distance_ly": 2615.0,
+      "spectral_type": "A2Ia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/deneb.json"
+    },
+    {
+      "id": "mimosa",
+      "name": "Mimosa",
+      "constellation": "Crux",
+      "apparent_magnitude": 1.25,
+      "distance_ly": 280.0,
+      "spectral_type": "B0.5III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/mimosa.json"
+    },
+    {
+      "id": "regulus",
+      "name": "Regulus",
+      "constellation": "Leo",
+      "apparent_magnitude": 1.36,
+      "distance_ly": 79.3,
+      "spectral_type": "B8IVn",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/regulus.json"
+    },
+    {
+      "id": "adhara",
+      "name": "Adhara",
+      "constellation": "Canis Major",
+      "apparent_magnitude": 1.5,
+      "distance_ly": 430.0,
+      "spectral_type": "B2II",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/adhara.json"
+    },
+    {
+      "id": "castor",
+      "name": "Castor",
+      "constellation": "Gemini",
+      "apparent_magnitude": 1.57,
+      "distance_ly": 51.0,
+      "spectral_type": "A1V",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/castor.json"
+    },
+    {
+      "id": "shaula",
+      "name": "Shaula",
+      "constellation": "Scorpius",
+      "apparent_magnitude": 1.62,
+      "distance_ly": 570.0,
+      "spectral_type": "B2IV",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/shaula.json"
+    },
+    {
+      "id": "bellatrix",
+      "name": "Bellatrix",
+      "constellation": "Orion",
+      "apparent_magnitude": 1.64,
+      "distance_ly": 250.0,
+      "spectral_type": "B2III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/bellatrix.json"
+    },
+    {
+      "id": "polaris",
+      "name": "Polaris",
+      "constellation": "Ursa Minor",
+      "apparent_magnitude": 1.98,
+      "distance_ly": 433.0,
+      "spectral_type": "F7Ib",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/polaris.json"
+    },
+    {
+      "id": "alnilam",
+      "name": "Alnilam",
+      "constellation": "Orion",
+      "apparent_magnitude": 1.69,
+      "distance_ly": 2000.0,
+      "spectral_type": "B0Ia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/alnilam.json"
+    },
+    {
+      "id": "dubhe",
+      "name": "Dubhe",
+      "constellation": "Ursa Major",
+      "apparent_magnitude": 1.79,
+      "distance_ly": 123.0,
+      "spectral_type": "K0III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/dubhe.json"
+    },
+    {
+      "id": "mizar",
+      "name": "Mizar",
+      "constellation": "Ursa Major",
+      "apparent_magnitude": 2.04,
+      "distance_ly": 82.9,
+      "spectral_type": "A2Vp",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/mizar.json"
+    },
+    {
+      "id": "gacrux",
+      "name": "Gacrux",
+      "constellation": "Crux",
+      "apparent_magnitude": 1.63,
+      "distance_ly": 88.6,
+      "spectral_type": "M3.5III",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/gacrux.json"
+    }
+  ]
+}

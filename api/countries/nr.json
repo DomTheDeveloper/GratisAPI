@@ -1,0 +1,13 @@
+{
+  "id": "nr",
+  "name": "Nauru",
+  "alpha2": "NR",
+  "alpha3": "NRU",
+  "capital": "Yaren",
+  "continent": "Oceania",
+  "currency_code": "AUD",
+  "currency": "Australian Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇳🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/nr.json"
+}

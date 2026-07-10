@@ -1,0 +1,9 @@
+{
+  "id": "purus",
+  "name": "Purus",
+  "length_km": 3211,
+  "continent": "South America",
+  "outflow": "Amazon River",
+  "countries": "Brazil, Peru",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/purus.json"
+}

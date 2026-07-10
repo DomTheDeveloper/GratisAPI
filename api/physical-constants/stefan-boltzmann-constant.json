@@ -1,0 +1,9 @@
+{
+  "id": "stefan-boltzmann-constant",
+  "name": "Stefan-Boltzmann constant",
+  "symbol": "sigma",
+  "value": 5.670374419e-08,
+  "unit": "W m^-2 K^-4",
+  "category": "Thermodynamic",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/stefan-boltzmann-constant.json"
+}

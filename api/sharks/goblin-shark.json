@@ -1,0 +1,12 @@
+{
+  "id": "goblin-shark",
+  "common_name": "Goblin Shark",
+  "scientific_name": "Mitsukurina owstoni",
+  "family": "Mitsukurinidae",
+  "max_length_m": 4.0,
+  "habitat": "Deep sea, continental slopes",
+  "diet": "Carnivore",
+  "conservation_status": "Least Concern",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/goblin-shark.json"
+}

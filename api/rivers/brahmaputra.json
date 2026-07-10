@@ -1,0 +1,9 @@
+{
+  "id": "brahmaputra",
+  "name": "Brahmaputra",
+  "length_km": 2900,
+  "continent": "Asia",
+  "outflow": "Bay of Bengal",
+  "countries": "China, India, Bangladesh",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/brahmaputra.json"
+}

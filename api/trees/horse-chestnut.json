@@ -1,0 +1,10 @@
+{
+  "id": "horse-chestnut",
+  "common_name": "Horse Chestnut",
+  "scientific_name": "Aesculus hippocastanum",
+  "family": "Sapindaceae",
+  "type": "Deciduous",
+  "max_height_m": 36,
+  "native_region": "Balkan Peninsula",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/horse-chestnut.json"
+}

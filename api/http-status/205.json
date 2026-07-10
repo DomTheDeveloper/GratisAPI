@@ -1,0 +1,8 @@
+{
+  "id": 205,
+  "code": 205,
+  "message": "Reset Content",
+  "category": "Success",
+  "description": "The client should reset the document view that sent the request.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/205.json"
+}

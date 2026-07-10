@@ -1,0 +1,12 @@
+{
+  "id": "louisiana",
+  "name": "Louisiana",
+  "abbreviation": "LA",
+  "capital": "Baton Rouge",
+  "largest_city": "New Orleans",
+  "population": 4657757,
+  "area_km2": 135659,
+  "statehood_year": 1812,
+  "region": "South",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/louisiana.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 20,
+  "port": 20,
+  "service": "ftp-data",
+  "protocol": "TCP",
+  "description": "File Transfer Protocol data transfer.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/20.json"
+}

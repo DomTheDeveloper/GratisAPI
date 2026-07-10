@@ -1,0 +1,9 @@
+{
+  "id": "white-russian",
+  "name": "White Russian",
+  "base_spirit": "Vodka",
+  "type": "Dessert",
+  "glass": "Rocks",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/white-russian.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mpeg-video",
+  "mime_type": "video/mpeg",
+  "name": "MPEG Video",
+  "category": "video",
+  "extensions": [
+    ".mpeg",
+    ".mpg"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/mpeg-video.json"
+}

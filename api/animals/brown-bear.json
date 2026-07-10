@@ -1,0 +1,15 @@
+{
+  "id": "brown-bear",
+  "common_name": "Brown Bear",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Ursus",
+  "species": "Ursus arctos",
+  "conservation_status": "Least Concern",
+  "habitat": "Forests and mountains",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/brown-bear.json"
+}

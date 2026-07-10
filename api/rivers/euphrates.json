@@ -1,0 +1,9 @@
+{
+  "id": "euphrates",
+  "name": "Euphrates",
+  "length_km": 2800,
+  "continent": "Asia",
+  "outflow": "Persian Gulf",
+  "countries": "Turkey, Syria, Iraq",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/rivers/euphrates.json"
+}

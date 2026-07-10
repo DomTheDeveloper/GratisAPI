@@ -1,0 +1,12 @@
+{
+  "id": "alaska",
+  "name": "Alaska",
+  "abbreviation": "AK",
+  "capital": "Juneau",
+  "largest_city": "Anchorage",
+  "population": 733391,
+  "area_km2": 1723337,
+  "statehood_year": 1959,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/alaska.json"
+}

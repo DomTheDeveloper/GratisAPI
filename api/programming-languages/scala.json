@@ -1,0 +1,13 @@
+{
+  "id": "scala",
+  "name": "Scala",
+  "year": 2004,
+  "paradigm": [
+    "Object-oriented",
+    "Functional"
+  ],
+  "typing": "Static",
+  "designed_by": "Martin Odersky",
+  "extension": ".scala",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/scala.json"
+}

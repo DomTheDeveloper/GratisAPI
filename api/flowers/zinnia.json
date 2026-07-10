@@ -1,0 +1,10 @@
+{
+  "id": "zinnia",
+  "name": "Zinnia",
+  "scientific_name": "Zinnia elegans",
+  "family": "Asteraceae",
+  "color": "Red",
+  "bloom_season": "Summer",
+  "meaning": "Thoughts of absent friends",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/flowers/zinnia.json"
+}

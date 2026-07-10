@@ -1,0 +1,10 @@
+{
+  "id": "radish",
+  "name": "Radish",
+  "scientific_name": "Raphanus sativus",
+  "family": "Brassicaceae",
+  "type": "Root",
+  "color": "Red",
+  "calories_per_100g": 16,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/radish.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "greater-flamingo",
+  "common_name": "Greater Flamingo",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Phoenicopteriformes",
+  "family": "Phoenicopteridae",
+  "genus": "Phoenicopterus",
+  "species": "Phoenicopterus roseus",
+  "conservation_status": "Least Concern",
+  "habitat": "Saline lagoons and mudflats",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/greater-flamingo.json"
+}

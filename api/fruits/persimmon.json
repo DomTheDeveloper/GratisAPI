@@ -1,0 +1,11 @@
+{
+  "id": "persimmon",
+  "name": "Persimmon",
+  "scientific_name": "Diospyros kaki",
+  "family": "Ebenaceae",
+  "type": "Berry",
+  "color": "Orange",
+  "origin_region": "China",
+  "calories_per_100g": 70,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/persimmon.json"
+}

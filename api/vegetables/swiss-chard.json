@@ -1,0 +1,10 @@
+{
+  "id": "swiss-chard",
+  "name": "Swiss Chard",
+  "scientific_name": "Beta vulgaris",
+  "family": "Amaranthaceae",
+  "type": "Leafy",
+  "color": "Green",
+  "calories_per_100g": 19,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/swiss-chard.json"
+}

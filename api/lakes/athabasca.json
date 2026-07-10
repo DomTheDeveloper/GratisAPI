@@ -1,0 +1,9 @@
+{
+  "id": "athabasca",
+  "name": "Lake Athabasca",
+  "area_km2": 7850,
+  "max_depth_m": 124,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/athabasca.json"
+}

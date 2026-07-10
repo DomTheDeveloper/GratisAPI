@@ -1,0 +1,13 @@
+{
+  "id": "iq",
+  "name": "Iraq",
+  "alpha2": "IQ",
+  "alpha3": "IRQ",
+  "capital": "Baghdad",
+  "continent": "Asia",
+  "currency_code": "IQD",
+  "currency": "Iraqi Dinar",
+  "population_millions": 43,
+  "flag_emoji": "🇮🇶",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/iq.json"
+}

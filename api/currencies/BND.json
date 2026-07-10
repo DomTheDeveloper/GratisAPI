@@ -1,0 +1,8 @@
+{
+  "id": "BND",
+  "code": "BND",
+  "name": "Brunei Dollar",
+  "symbol": "$",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BND.json"
+}

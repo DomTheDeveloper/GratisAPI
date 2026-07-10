@@ -1,0 +1,13 @@
+{
+  "id": "bt",
+  "name": "Bhutan",
+  "alpha2": "BT",
+  "alpha3": "BTN",
+  "capital": "Thimphu",
+  "continent": "Asia",
+  "currency_code": "BTN",
+  "currency": "Ngultrum",
+  "population_millions": 1,
+  "flag_emoji": "🇧🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/bt.json"
+}

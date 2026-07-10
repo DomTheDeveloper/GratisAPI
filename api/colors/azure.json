@@ -1,0 +1,18 @@
+{
+  "id": "azure",
+  "name": "Azure",
+  "hex": "#F0FFFF",
+  "rgb": {
+    "r": 240,
+    "g": 255,
+    "b": 255
+  },
+  "rgb_string": "rgb(240, 255, 255)",
+  "hsl": {
+    "h": 180,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(180, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/azure.json"
+}

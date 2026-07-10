@@ -1,0 +1,9 @@
+{
+  "id": "eu",
+  "code": "eu",
+  "name": "Basque",
+  "native_name": "Euskara",
+  "direction": "ltr",
+  "speakers_millions": 1,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/eu.json"
+}

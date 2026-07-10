@@ -1,0 +1,293 @@
+{
+  "api": "moons",
+  "title": "Moons",
+  "description": "Notable natural satellites of the Solar System with parent planet and discovery details.",
+  "emoji": "🌙",
+  "license": "GPL-2.0-or-later",
+  "count": 30,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/moons/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/moons/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/moons/{id}.json"
+  },
+  "fields": [
+    "discovered_by",
+    "discovered_year",
+    "id",
+    "name",
+    "planet",
+    "radius_km"
+  ],
+  "results": [
+    {
+      "id": "moon",
+      "name": "Moon",
+      "planet": "Earth",
+      "radius_km": 1737.4,
+      "discovered_year": null,
+      "discovered_by": null,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/moon.json"
+    },
+    {
+      "id": "phobos",
+      "name": "Phobos",
+      "planet": "Mars",
+      "radius_km": 11.267,
+      "discovered_year": 1877,
+      "discovered_by": "Asaph Hall",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/phobos.json"
+    },
+    {
+      "id": "deimos",
+      "name": "Deimos",
+      "planet": "Mars",
+      "radius_km": 6.2,
+      "discovered_year": 1877,
+      "discovered_by": "Asaph Hall",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/deimos.json"
+    },
+    {
+      "id": "io",
+      "name": "Io",
+      "planet": "Jupiter",
+      "radius_km": 1821.6,
+      "discovered_year": 1610,
+      "discovered_by": "Galileo Galilei",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/io.json"
+    },
+    {
+      "id": "europa",
+      "name": "Europa",
+      "planet": "Jupiter",
+      "radius_km": 1560.8,
+      "discovered_year": 1610,
+      "discovered_by": "Galileo Galilei",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/europa.json"
+    },
+    {
+      "id": "ganymede",
+      "name": "Ganymede",
+      "planet": "Jupiter",
+      "radius_km": 2634.1,
+      "discovered_year": 1610,
+      "discovered_by": "Galileo Galilei",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/ganymede.json"
+    },
+    {
+      "id": "callisto",
+      "name": "Callisto",
+      "planet": "Jupiter",
+      "radius_km": 2410.3,
+      "discovered_year": 1610,
+      "discovered_by": "Galileo Galilei",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/callisto.json"
+    },
+    {
+      "id": "amalthea",
+      "name": "Amalthea",
+      "planet": "Jupiter",
+      "radius_km": 83.5,
+      "discovered_year": 1892,
+      "discovered_by": "Edward Emerson Barnard",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/amalthea.json"
+    },
+    {
+      "id": "himalia",
+      "name": "Himalia",
+      "planet": "Jupiter",
+      "radius_km": 69.8,
+      "discovered_year": 1904,
+      "discovered_by": "Charles Dillon Perrine",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/himalia.json"
+    },
+    {
+      "id": "titan",
+      "name": "Titan",
+      "planet": "Saturn",
+      "radius_km": 2574.7,
+      "discovered_year": 1655,
+      "discovered_by": "Christiaan Huygens",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/titan.json"
+    },
+    {
+      "id": "rhea",
+      "name": "Rhea",
+      "planet": "Saturn",
+      "radius_km": 763.8,
+      "discovered_year": 1672,
+      "discovered_by": "Giovanni Domenico Cassini",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/rhea.json"
+    },
+    {
+      "id": "iapetus",
+      "name": "Iapetus",
+      "planet": "Saturn",
+      "radius_km": 734.5,
+      "discovered_year": 1671,
+      "discovered_by": "Giovanni Domenico Cassini",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/iapetus.json"
+    },
+    {
+      "id": "dione",
+      "name": "Dione",
+      "planet": "Saturn",
+      "radius_km": 561.4,
+      "discovered_year": 1684,
+      "discovered_by": "Giovanni Domenico Cassini",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/dione.json"
+    },
+    {
+      "id": "tethys",
+      "name": "Tethys",
+      "planet": "Saturn",
+      "radius_km": 531.1,
+      "discovered_year": 1684,
+      "discovered_by": "Giovanni Domenico Cassini",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/tethys.json"
+    },
+    {
+      "id": "enceladus",
+      "name": "Enceladus",
+      "planet": "Saturn",
+      "radius_km": 252.1,
+      "discovered_year": 1789,
+      "discovered_by": "William Herschel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/enceladus.json"
+    },
+    {
+      "id": "mimas",
+      "name": "Mimas",
+      "planet": "Saturn",
+      "radius_km": 198.2,
+      "discovered_year": 1789,
+      "discovered_by": "William Herschel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/mimas.json"
+    },
+    {
+      "id": "hyperion",
+      "name": "Hyperion",
+      "planet": "Saturn",
+      "radius_km": 135.0,
+      "discovered_year": 1848,
+      "discovered_by": "William Cranch Bond",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/hyperion.json"
+    },
+    {
+      "id": "phoebe",
+      "name": "Phoebe",
+      "planet": "Saturn",
+      "radius_km": 106.5,
+      "discovered_year": 1899,
+      "discovered_by": "William Henry Pickering",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/phoebe.json"
+    },
+    {
+      "id": "titania",
+      "name": "Titania",
+      "planet": "Uranus",
+      "radius_km": 788.4,
+      "discovered_year": 1787,
+      "discovered_by": "William Herschel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/titania.json"
+    },
+    {
+      "id": "oberon",
+      "name": "Oberon",
+      "planet": "Uranus",
+      "radius_km": 761.4,
+      "discovered_year": 1787,
+      "discovered_by": "William Herschel",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/oberon.json"
+    },
+    {
+      "id": "umbriel",
+      "name": "Umbriel",
+      "planet": "Uranus",
+      "radius_km": 584.7,
+      "discovered_year": 1851,
+      "discovered_by": "William Lassell",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/umbriel.json"
+    },
+    {
+      "id": "ariel",
+      "name": "Ariel",
+      "planet": "Uranus",
+      "radius_km": 578.9,
+      "discovered_year": 1851,
+      "discovered_by": "William Lassell",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/ariel.json"
+    },
+    {
+      "id": "miranda",
+      "name": "Miranda",
+      "planet": "Uranus",
+      "radius_km": 235.8,
+      "discovered_year": 1948,
+      "discovered_by": "Gerard Kuiper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/miranda.json"
+    },
+    {
+      "id": "triton",
+      "name": "Triton",
+      "planet": "Neptune",
+      "radius_km": 1353.4,
+      "discovered_year": 1846,
+      "discovered_by": "William Lassell",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/triton.json"
+    },
+    {
+      "id": "nereid",
+      "name": "Nereid",
+      "planet": "Neptune",
+      "radius_km": 170.0,
+      "discovered_year": 1949,
+      "discovered_by": "Gerard Kuiper",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/nereid.json"
+    },
+    {
+      "id": "proteus",
+      "name": "Proteus",
+      "planet": "Neptune",
+      "radius_km": 210.0,
+      "discovered_year": 1989,
+      "discovered_by": "Voyager 2",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/proteus.json"
+    },
+    {
+      "id": "charon",
+      "name": "Charon",
+      "planet": "Pluto",
+      "radius_km": 606.0,
+      "discovered_year": 1978,
+      "discovered_by": "James Christy",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/charon.json"
+    },
+    {
+      "id": "nix",
+      "name": "Nix",
+      "planet": "Pluto",
+      "radius_km": 24.5,
+      "discovered_year": 2005,
+      "discovered_by": "Hubble Space Telescope team",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/nix.json"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "planet": "Pluto",
+      "radius_km": 30.5,
+      "discovered_year": 2005,
+      "discovered_by": "Hubble Space Telescope team",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/hydra.json"
+    },
+    {
+      "id": "dysnomia",
+      "name": "Dysnomia",
+      "planet": "Eris",
+      "radius_km": 350.0,
+      "discovered_year": 2005,
+      "discovered_by": "Michael E. Brown",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/dysnomia.json"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "atacama",
+  "name": "Atacama Desert",
+  "area_km2": 105000,
+  "continent": "South America",
+  "type": "Coastal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/atacama.json"
+}

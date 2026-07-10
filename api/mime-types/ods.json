@@ -1,0 +1,10 @@
+{
+  "id": "ods",
+  "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+  "name": "OpenDocument Spreadsheet",
+  "category": "application",
+  "extensions": [
+    ".ods"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ods.json"
+}

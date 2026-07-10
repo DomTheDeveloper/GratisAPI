@@ -1,0 +1,15 @@
+{
+  "id": "north-american-beaver",
+  "common_name": "North American Beaver",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Rodentia",
+  "family": "Castoridae",
+  "genus": "Castor",
+  "species": "Castor canadensis",
+  "conservation_status": "Least Concern",
+  "habitat": "Rivers, streams and ponds",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/north-american-beaver.json"
+}

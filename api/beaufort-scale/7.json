@@ -1,0 +1,9 @@
+{
+  "id": 7,
+  "force": 7,
+  "description": "Near gale",
+  "wind_kmh_min": 50,
+  "wind_kmh_max": 61,
+  "conditions": "Whole trees in motion; sea heaps up, foam streaks.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/beaufort-scale/7.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dk",
+  "name": "Denmark",
+  "alpha2": "DK",
+  "alpha3": "DNK",
+  "capital": "Copenhagen",
+  "continent": "Europe",
+  "currency_code": "DKK",
+  "currency": "Danish Krone",
+  "population_millions": 6,
+  "flag_emoji": "🇩🇰",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/dk.json"
+}

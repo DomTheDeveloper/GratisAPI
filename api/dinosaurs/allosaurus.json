@@ -1,0 +1,11 @@
+{
+  "id": "allosaurus",
+  "name": "Allosaurus",
+  "period": "Late Jurassic",
+  "diet": "Carnivore",
+  "length_m": 9.5,
+  "weight_kg": 2000,
+  "region": "Western North America",
+  "meaning": "Different lizard",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/allosaurus.json"
+}

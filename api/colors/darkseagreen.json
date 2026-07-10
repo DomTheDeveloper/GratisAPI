@@ -1,0 +1,18 @@
+{
+  "id": "darkseagreen",
+  "name": "Dark Sea Green",
+  "hex": "#8FBC8F",
+  "rgb": {
+    "r": 143,
+    "g": 188,
+    "b": 143
+  },
+  "rgb_string": "rgb(143, 188, 143)",
+  "hsl": {
+    "h": 120,
+    "s": 25,
+    "l": 65
+  },
+  "hsl_string": "hsl(120, 25%, 65%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkseagreen.json"
+}

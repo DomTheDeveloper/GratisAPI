@@ -1,0 +1,10 @@
+{
+  "id": "basset-hound",
+  "name": "Basset Hound",
+  "group": "Hound",
+  "origin": "France",
+  "size": "Medium",
+  "life_expectancy_years": "12-13",
+  "temperament": "Charming, patient and low-key",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/basset-hound.json"
+}

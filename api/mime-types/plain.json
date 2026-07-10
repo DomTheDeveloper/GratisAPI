@@ -1,0 +1,10 @@
+{
+  "id": "plain",
+  "mime_type": "text/plain",
+  "name": "Plain Text",
+  "category": "text",
+  "extensions": [
+    ".txt"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/plain.json"
+}

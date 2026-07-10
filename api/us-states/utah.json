@@ -1,0 +1,12 @@
+{
+  "id": "utah",
+  "name": "Utah",
+  "abbreviation": "UT",
+  "capital": "Salt Lake City",
+  "largest_city": "Salt Lake City",
+  "population": 3271616,
+  "area_km2": 219882,
+  "statehood_year": 1896,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/utah.json"
+}

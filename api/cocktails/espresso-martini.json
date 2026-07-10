@@ -1,0 +1,9 @@
+{
+  "id": "espresso-martini",
+  "name": "Espresso Martini",
+  "base_spirit": "Vodka",
+  "type": "Dessert",
+  "glass": "Coupe",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/espresso-martini.json"
+}

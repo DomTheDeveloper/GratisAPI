@@ -1,0 +1,10 @@
+{
+  "id": "turnip",
+  "name": "Turnip",
+  "scientific_name": "Brassica rapa",
+  "family": "Brassicaceae",
+  "type": "Root",
+  "color": "White",
+  "calories_per_100g": 28,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/turnip.json"
+}

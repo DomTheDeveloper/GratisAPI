@@ -1,0 +1,52 @@
+name: CI
+
+# Regenerates the API from scripts/data and fails if the committed output is
+# stale or if any generated JSON is invalid. Runs on every push and PR.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate the API
+        run: python3 -m scripts.generate
+
+      - name: Fail if generated output is out of date
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::Generated files are out of date. Run 'python3 -m scripts.generate' and commit the result."
+            git --no-pager diff --stat
+            exit 1
+          fi
+
+      - name: Validate every JSON file
+        run: |
+          python3 - <<'PY'
+          import glob, json, sys
+          bad = 0
+          files = glob.glob("api/**/*.json", recursive=True) + ["openapi.json"]
+          for f in files:
+              try:
+                  json.load(open(f, encoding="utf-8"))
+              except Exception as e:
+                  print(f"INVALID: {f}: {e}")
+                  bad += 1
+          print(f"Validated {len(files)} JSON files, {bad} invalid.")
+          sys.exit(1 if bad else 0)
+          PY

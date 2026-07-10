@@ -1,0 +1,8 @@
+{
+  "id": "namib",
+  "name": "Namib Desert",
+  "area_km2": 81000,
+  "continent": "Africa",
+  "type": "Coastal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/deserts/namib.json"
+}

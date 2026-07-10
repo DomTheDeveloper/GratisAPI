@@ -1,0 +1,8 @@
+{
+  "id": 162,
+  "port": 162,
+  "service": "snmptrap",
+  "protocol": "UDP",
+  "description": "SNMP trap notifications.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/162.json"
+}

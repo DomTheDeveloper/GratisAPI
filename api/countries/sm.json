@@ -1,0 +1,13 @@
+{
+  "id": "sm",
+  "name": "San Marino",
+  "alpha2": "SM",
+  "alpha3": "SMR",
+  "capital": "San Marino",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 1,
+  "flag_emoji": "🇸🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sm.json"
+}

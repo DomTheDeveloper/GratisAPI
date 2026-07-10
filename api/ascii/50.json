@@ -1,0 +1,10 @@
+{
+  "id": 50,
+  "decimal": 50,
+  "hex": "0x32",
+  "octal": "0o062",
+  "binary": "00110010",
+  "character": "2",
+  "description": "Digit Two",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/ascii/50.json"
+}

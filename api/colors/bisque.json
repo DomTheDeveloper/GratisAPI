@@ -1,0 +1,18 @@
+{
+  "id": "bisque",
+  "name": "Bisque",
+  "hex": "#FFE4C4",
+  "rgb": {
+    "r": 255,
+    "g": 228,
+    "b": 196
+  },
+  "rgb_string": "rgb(255, 228, 196)",
+  "hsl": {
+    "h": 33,
+    "s": 100,
+    "l": 88
+  },
+  "hsl_string": "hsl(33, 100%, 88%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/bisque.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "black-pepper",
+  "name": "Black Pepper",
+  "plant_part": "Fruit",
+  "origin_region": "India",
+  "flavor": "Pungent, woody",
+  "heat_level": "Mild",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/black-pepper.json"
+}

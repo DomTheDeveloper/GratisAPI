@@ -1,0 +1,12 @@
+{
+  "id": "rhode-island",
+  "name": "Rhode Island",
+  "abbreviation": "RI",
+  "capital": "Providence",
+  "largest_city": "Providence",
+  "population": 1097379,
+  "area_km2": 4001,
+  "statehood_year": 1790,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/rhode-island.json"
+}

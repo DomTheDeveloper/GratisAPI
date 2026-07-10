@@ -1,0 +1,11 @@
+{
+  "id": "honeydew",
+  "name": "Honeydew Melon",
+  "scientific_name": "Cucumis melo",
+  "family": "Cucurbitaceae",
+  "type": "Melon",
+  "color": "Green",
+  "origin_region": "Africa and South Asia",
+  "calories_per_100g": 36,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/honeydew.json"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "capella",
+  "name": "Capella",
+  "constellation": "Auriga",
+  "apparent_magnitude": 0.08,
+  "distance_ly": 42.9,
+  "spectral_type": "G8III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/capella.json"
+}

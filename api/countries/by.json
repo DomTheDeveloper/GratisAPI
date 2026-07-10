@@ -1,0 +1,13 @@
+{
+  "id": "by",
+  "name": "Belarus",
+  "alpha2": "BY",
+  "alpha3": "BLR",
+  "capital": "Minsk",
+  "continent": "Europe",
+  "currency_code": "BYN",
+  "currency": "Belarusian Ruble",
+  "population_millions": 9,
+  "flag_emoji": "🇧🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/by.json"
+}

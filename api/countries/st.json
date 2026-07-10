@@ -1,0 +1,13 @@
+{
+  "id": "st",
+  "name": "Sao Tome and Principe",
+  "alpha2": "ST",
+  "alpha3": "STP",
+  "capital": "Sao Tome",
+  "continent": "Africa",
+  "currency_code": "STN",
+  "currency": "Dobra",
+  "population_millions": 1,
+  "flag_emoji": "🇸🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/st.json"
+}

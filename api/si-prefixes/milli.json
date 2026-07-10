@@ -1,0 +1,8 @@
+{
+  "id": "milli",
+  "name": "milli",
+  "symbol": "m",
+  "base_10": -3,
+  "factor": "1e-3",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/milli.json"
+}

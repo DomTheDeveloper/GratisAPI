@@ -1,0 +1,9 @@
+{
+  "id": "rigel",
+  "name": "Rigel",
+  "constellation": "Orion",
+  "apparent_magnitude": 0.13,
+  "distance_ly": 860.0,
+  "spectral_type": "B8Ia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/rigel.json"
+}

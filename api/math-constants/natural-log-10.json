@@ -1,0 +1,8 @@
+{
+  "id": "natural-log-10",
+  "name": "Natural logarithm of 10",
+  "symbol": "ln(10)",
+  "value": 2.302585092994046,
+  "description": "Natural logarithm of ten.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/natural-log-10.json"
+}

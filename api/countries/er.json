@@ -1,0 +1,13 @@
+{
+  "id": "er",
+  "name": "Eritrea",
+  "alpha2": "ER",
+  "alpha3": "ERI",
+  "capital": "Asmara",
+  "continent": "Africa",
+  "currency_code": "ERN",
+  "currency": "Nakfa",
+  "population_millions": 4,
+  "flag_emoji": "🇪🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/er.json"
+}

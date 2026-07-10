@@ -1,0 +1,18 @@
+{
+  "id": "indianred",
+  "name": "Indian Red",
+  "hex": "#CD5C5C",
+  "rgb": {
+    "r": 205,
+    "g": 92,
+    "b": 92
+  },
+  "rgb_string": "rgb(205, 92, 92)",
+  "hsl": {
+    "h": 0,
+    "s": 53,
+    "l": 58
+  },
+  "hsl_string": "hsl(0, 53%, 58%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/indianred.json"
+}

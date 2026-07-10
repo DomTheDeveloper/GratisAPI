@@ -1,0 +1,10 @@
+{
+  "id": "css",
+  "mime_type": "text/css",
+  "name": "CSS",
+  "category": "text",
+  "extensions": [
+    ".css"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/css.json"
+}

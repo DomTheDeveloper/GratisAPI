@@ -1,0 +1,9 @@
+{
+  "id": "tahoe",
+  "name": "Lake Tahoe",
+  "area_km2": 495,
+  "max_depth_m": 501,
+  "continent": "North America",
+  "type": "Freshwater",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/lakes/tahoe.json"
+}

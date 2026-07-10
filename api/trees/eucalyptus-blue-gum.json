@@ -1,0 +1,10 @@
+{
+  "id": "eucalyptus-blue-gum",
+  "common_name": "Tasmanian Blue Gum",
+  "scientific_name": "Eucalyptus globulus",
+  "family": "Myrtaceae",
+  "type": "Evergreen",
+  "max_height_m": 55,
+  "native_region": "Southeastern Australia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/eucalyptus-blue-gum.json"
+}

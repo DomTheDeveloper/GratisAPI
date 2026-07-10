@@ -1,0 +1,11 @@
+{
+  "id": "ostrich",
+  "common_name": "Common Ostrich",
+  "scientific_name": "Struthio camelus",
+  "family": "Struthionidae",
+  "habitat": "Savanna and desert",
+  "diet": "Omnivore",
+  "wingspan_cm": 200,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/ostrich.json"
+}

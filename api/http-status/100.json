@@ -3,5 +3,6 @@
   "code": 100,
   "message": "Continue",
   "category": "Informational",
+  "description": "The client should continue with its request.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/100.json"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "giant-squid",
+  "common_name": "Giant Squid",
+  "kingdom": "Animalia",
+  "phylum": "Mollusca",
+  "class": "Cephalopoda",
+  "order": "Oegopsida",
+  "family": "Architeuthidae",
+  "genus": "Architeuthis",
+  "species": "Architeuthis dux",
+  "conservation_status": "Least Concern",
+  "habitat": "Deep oceans worldwide",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/giant-squid.json"
+}

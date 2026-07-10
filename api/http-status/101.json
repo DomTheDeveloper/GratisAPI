@@ -3,5 +3,6 @@
   "code": 101,
   "message": "Switching Protocols",
   "category": "Informational",
+  "description": "The server is switching protocols as requested by the client.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/101.json"
 }

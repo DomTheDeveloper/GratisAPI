@@ -1,0 +1,11 @@
+{
+  "id": "pineapple",
+  "name": "Pineapple",
+  "scientific_name": "Ananas comosus",
+  "family": "Bromeliaceae",
+  "type": "Tropical",
+  "color": "Yellow",
+  "origin_region": "South America",
+  "calories_per_100g": 50,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/pineapple.json"
+}

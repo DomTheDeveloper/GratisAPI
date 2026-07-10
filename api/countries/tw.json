@@ -1,0 +1,13 @@
+{
+  "id": "tw",
+  "name": "Taiwan",
+  "alpha2": "TW",
+  "alpha3": "TWN",
+  "capital": "Taipei",
+  "continent": "Asia",
+  "currency_code": "TWD",
+  "currency": "New Taiwan Dollar",
+  "population_millions": 24,
+  "flag_emoji": "🇹🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tw.json"
+}

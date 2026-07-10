@@ -1,0 +1,13 @@
+{
+  "id": "ch",
+  "name": "Switzerland",
+  "alpha2": "CH",
+  "alpha3": "CHE",
+  "capital": "Bern",
+  "continent": "Europe",
+  "currency_code": "CHF",
+  "currency": "Swiss Franc",
+  "population_millions": 9,
+  "flag_emoji": "🇨🇭",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ch.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "flac",
+  "mime_type": "audio/flac",
+  "name": "FLAC Audio",
+  "category": "audio",
+  "extensions": [
+    ".flac"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/flac.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kz",
+  "name": "Kazakhstan",
+  "alpha2": "KZ",
+  "alpha3": "KAZ",
+  "capital": "Astana",
+  "continent": "Asia",
+  "currency_code": "KZT",
+  "currency": "Tenge",
+  "population_millions": 19,
+  "flag_emoji": "🇰🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kz.json"
+}

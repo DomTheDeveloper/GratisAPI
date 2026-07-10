@@ -1,0 +1,12 @@
+{
+  "id": "connecticut",
+  "name": "Connecticut",
+  "abbreviation": "CT",
+  "capital": "Hartford",
+  "largest_city": "Bridgeport",
+  "population": 3605944,
+  "area_km2": 14357,
+  "statehood_year": 1788,
+  "region": "Northeast",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/connecticut.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mr",
+  "name": "Mauritania",
+  "alpha2": "MR",
+  "alpha3": "MRT",
+  "capital": "Nouakchott",
+  "continent": "Africa",
+  "currency_code": "MRU",
+  "currency": "Ouguiya",
+  "population_millions": 5,
+  "flag_emoji": "🇲🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mr.json"
+}

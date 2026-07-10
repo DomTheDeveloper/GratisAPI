@@ -1,0 +1,10 @@
+{
+  "id": "mount-whitney",
+  "name": "Mount Whitney",
+  "height_m": 4421,
+  "range": "Sierra Nevada",
+  "country": "United States",
+  "continent": "North America",
+  "first_ascent_year": 1873,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/mount-whitney.json"
+}

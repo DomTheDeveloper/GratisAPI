@@ -1,0 +1,10 @@
+{
+  "id": "english-oak",
+  "common_name": "English Oak",
+  "scientific_name": "Quercus robur",
+  "family": "Fagaceae",
+  "type": "Deciduous",
+  "max_height_m": 40,
+  "native_region": "Europe and western Asia",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/english-oak.json"
+}

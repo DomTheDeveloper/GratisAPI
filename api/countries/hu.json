@@ -1,0 +1,13 @@
+{
+  "id": "hu",
+  "name": "Hungary",
+  "alpha2": "HU",
+  "alpha3": "HUN",
+  "capital": "Budapest",
+  "continent": "Europe",
+  "currency_code": "HUF",
+  "currency": "Forint",
+  "population_millions": 10,
+  "flag_emoji": "🇭🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/hu.json"
+}

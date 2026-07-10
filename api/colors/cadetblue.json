@@ -1,0 +1,18 @@
+{
+  "id": "cadetblue",
+  "name": "Cadet Blue",
+  "hex": "#5F9EA0",
+  "rgb": {
+    "r": 95,
+    "g": 158,
+    "b": 160
+  },
+  "rgb_string": "rgb(95, 158, 160)",
+  "hsl": {
+    "h": 182,
+    "s": 25,
+    "l": 50
+  },
+  "hsl_string": "hsl(182, 25%, 50%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/cadetblue.json"
+}

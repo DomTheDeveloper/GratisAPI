@@ -1,0 +1,8 @@
+{
+  "id": "plastic-number",
+  "name": "Plastic number",
+  "symbol": "rho",
+  "value": 1.324717957244746,
+  "description": "Real root of x^3 = x + 1.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/math-constants/plastic-number.json"
+}

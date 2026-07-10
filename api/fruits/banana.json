@@ -1,0 +1,11 @@
+{
+  "id": "banana",
+  "name": "Banana",
+  "scientific_name": "Musa acuminata",
+  "family": "Musaceae",
+  "type": "Berry",
+  "color": "Yellow",
+  "origin_region": "Southeast Asia",
+  "calories_per_100g": 89,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/banana.json"
+}

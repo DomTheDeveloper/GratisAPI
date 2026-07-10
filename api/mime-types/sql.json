@@ -1,0 +1,10 @@
+{
+  "id": "sql",
+  "mime_type": "application/sql",
+  "name": "SQL",
+  "category": "application",
+  "extensions": [
+    ".sql"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/sql.json"
+}

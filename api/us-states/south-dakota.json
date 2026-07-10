@@ -1,0 +1,12 @@
+{
+  "id": "south-dakota",
+  "name": "South Dakota",
+  "abbreviation": "SD",
+  "capital": "Pierre",
+  "largest_city": "Sioux Falls",
+  "population": 886667,
+  "area_km2": 199729,
+  "statehood_year": 1889,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/south-dakota.json"
+}

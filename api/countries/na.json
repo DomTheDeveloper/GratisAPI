@@ -1,0 +1,13 @@
+{
+  "id": "na",
+  "name": "Namibia",
+  "alpha2": "NA",
+  "alpha3": "NAM",
+  "capital": "Windhoek",
+  "continent": "Africa",
+  "currency_code": "NAD",
+  "currency": "Namibian Dollar",
+  "population_millions": 3,
+  "flag_emoji": "🇳🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/na.json"
+}

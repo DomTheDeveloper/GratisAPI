@@ -1,0 +1,13 @@
+{
+  "id": "sv",
+  "name": "El Salvador",
+  "alpha2": "SV",
+  "alpha3": "SLV",
+  "capital": "San Salvador",
+  "continent": "North America",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 6,
+  "flag_emoji": "🇸🇻",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sv.json"
+}

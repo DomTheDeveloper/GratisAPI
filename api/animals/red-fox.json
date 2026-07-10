@@ -1,0 +1,15 @@
+{
+  "id": "red-fox",
+  "common_name": "Red Fox",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Canidae",
+  "genus": "Vulpes",
+  "species": "Vulpes vulpes",
+  "conservation_status": "Least Concern",
+  "habitat": "Forests, grasslands and urban areas",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/red-fox.json"
+}

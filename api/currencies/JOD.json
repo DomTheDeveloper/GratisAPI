@@ -1,0 +1,8 @@
+{
+  "id": "JOD",
+  "code": "JOD",
+  "name": "Jordanian Dinar",
+  "symbol": "د.ا",
+  "minor_unit": 3,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/JOD.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "brown-rat",
+  "common_name": "Brown Rat",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Rodentia",
+  "family": "Muridae",
+  "genus": "Rattus",
+  "species": "Rattus norvegicus",
+  "conservation_status": "Least Concern",
+  "habitat": "Worldwide, near humans",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/brown-rat.json"
+}

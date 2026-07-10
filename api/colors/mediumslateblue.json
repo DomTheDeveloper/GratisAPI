@@ -1,0 +1,18 @@
+{
+  "id": "mediumslateblue",
+  "name": "Medium Slate Blue",
+  "hex": "#7B68EE",
+  "rgb": {
+    "r": 123,
+    "g": 104,
+    "b": 238
+  },
+  "rgb_string": "rgb(123, 104, 238)",
+  "hsl": {
+    "h": 249,
+    "s": 80,
+    "l": 67
+  },
+  "hsl_string": "hsl(249, 80%, 67%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/mediumslateblue.json"
+}

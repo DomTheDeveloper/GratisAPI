@@ -1,0 +1,13 @@
+{
+  "id": "kw",
+  "name": "Kuwait",
+  "alpha2": "KW",
+  "alpha3": "KWT",
+  "capital": "Kuwait City",
+  "continent": "Asia",
+  "currency_code": "KWD",
+  "currency": "Kuwaiti Dinar",
+  "population_millions": 4,
+  "flag_emoji": "🇰🇼",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kw.json"
+}

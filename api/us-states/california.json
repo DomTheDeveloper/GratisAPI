@@ -1,0 +1,12 @@
+{
+  "id": "california",
+  "name": "California",
+  "abbreviation": "CA",
+  "capital": "Sacramento",
+  "largest_city": "Los Angeles",
+  "population": 39538223,
+  "area_km2": 423967,
+  "statehood_year": 1850,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/california.json"
+}

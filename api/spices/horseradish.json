@@ -1,0 +1,9 @@
+{
+  "id": "horseradish",
+  "name": "Horseradish",
+  "plant_part": "Root",
+  "origin_region": "Eastern Europe",
+  "flavor": "Sharp, pungent",
+  "heat_level": "Hot",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/horseradish.json"
+}

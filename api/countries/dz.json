@@ -1,0 +1,13 @@
+{
+  "id": "dz",
+  "name": "Algeria",
+  "alpha2": "DZ",
+  "alpha3": "DZA",
+  "capital": "Algiers",
+  "continent": "Africa",
+  "currency_code": "DZD",
+  "currency": "Algerian Dinar",
+  "population_millions": 45,
+  "flag_emoji": "🇩🇿",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/dz.json"
+}

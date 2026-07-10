@@ -1,0 +1,10 @@
+{
+  "id": "giant-sequoia",
+  "common_name": "Giant Sequoia",
+  "scientific_name": "Sequoiadendron giganteum",
+  "family": "Cupressaceae",
+  "type": "Coniferous",
+  "max_height_m": 95,
+  "native_region": "Sierra Nevada, California",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/giant-sequoia.json"
+}

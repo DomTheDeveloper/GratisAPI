@@ -1,0 +1,15 @@
+{
+  "id": "goat",
+  "animal": "Goat",
+  "order": 8,
+  "element": "Earth",
+  "yin_yang": "Yin",
+  "traits": "Calm, gentle, creative",
+  "recent_years": [
+    1991,
+    2003,
+    2015,
+    2027
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/chinese-zodiac/goat.json"
+}

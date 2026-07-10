@@ -1,0 +1,10 @@
+{
+  "id": "doc",
+  "mime_type": "application/msword",
+  "name": "Microsoft Word (Legacy)",
+  "category": "application",
+  "extensions": [
+    ".doc"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/doc.json"
+}

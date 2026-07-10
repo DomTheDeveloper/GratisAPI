@@ -1,0 +1,14 @@
+{
+  "id": "ruby",
+  "name": "Ruby",
+  "year": 1995,
+  "paradigm": [
+    "Object-oriented",
+    "Functional",
+    "Imperative"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Yukihiro Matsumoto",
+  "extension": ".rb",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/ruby.json"
+}

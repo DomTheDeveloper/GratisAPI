@@ -1,0 +1,14 @@
+{
+  "id": "vitamin-b2",
+  "name": "Vitamin B2",
+  "chemical_name": "Riboflavin",
+  "solubility": "Water",
+  "function": "Energy production and cellular function",
+  "deficiency_disease": "Ariboflavinosis",
+  "food_sources": [
+    "Eggs",
+    "Milk",
+    "Almonds"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vitamins/vitamin-b2.json"
+}

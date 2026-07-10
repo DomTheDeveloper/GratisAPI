@@ -1,0 +1,11 @@
+{
+  "id": "triceratops",
+  "name": "Triceratops",
+  "period": "Late Cretaceous",
+  "diet": "Herbivore",
+  "length_m": 9.0,
+  "weight_kg": 8000,
+  "region": "Western North America",
+  "meaning": "Three-horned face",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/triceratops.json"
+}

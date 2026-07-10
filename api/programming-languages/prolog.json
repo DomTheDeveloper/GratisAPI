@@ -1,0 +1,13 @@
+{
+  "id": "prolog",
+  "name": "Prolog",
+  "year": 1972,
+  "paradigm": [
+    "Logic",
+    "Declarative"
+  ],
+  "typing": "Dynamic",
+  "designed_by": "Alain Colmerauer",
+  "extension": ".pl",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/prolog.json"
+}

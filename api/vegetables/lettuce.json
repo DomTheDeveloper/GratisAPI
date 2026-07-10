@@ -1,0 +1,10 @@
+{
+  "id": "lettuce",
+  "name": "Lettuce",
+  "scientific_name": "Lactuca sativa",
+  "family": "Asteraceae",
+  "type": "Leafy",
+  "color": "Green",
+  "calories_per_100g": 15,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/lettuce.json"
+}

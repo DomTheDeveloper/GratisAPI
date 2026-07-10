@@ -1,0 +1,9 @@
+{
+  "id": "8-of-spades",
+  "rank": "8",
+  "suit": "Spades",
+  "color": "Black",
+  "value": 8,
+  "symbol": "♠",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/8-of-spades.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gy",
+  "name": "Guyana",
+  "alpha2": "GY",
+  "alpha3": "GUY",
+  "capital": "Georgetown",
+  "continent": "South America",
+  "currency_code": "GYD",
+  "currency": "Guyanese Dollar",
+  "population_millions": 1,
+  "flag_emoji": "🇬🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gy.json"
+}

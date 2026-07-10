@@ -1,0 +1,13 @@
+{
+  "id": "dj",
+  "name": "Djibouti",
+  "alpha2": "DJ",
+  "alpha3": "DJI",
+  "capital": "Djibouti",
+  "continent": "Africa",
+  "currency_code": "DJF",
+  "currency": "Djiboutian Franc",
+  "population_millions": 1,
+  "flag_emoji": "🇩🇯",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/dj.json"
+}

@@ -3,5 +3,6 @@
   "code": 202,
   "message": "Accepted",
   "category": "Success",
+  "description": "The request has been accepted for processing but is not yet complete.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/202.json"
 }

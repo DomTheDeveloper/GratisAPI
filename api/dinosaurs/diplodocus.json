@@ -1,0 +1,11 @@
+{
+  "id": "diplodocus",
+  "name": "Diplodocus",
+  "period": "Late Jurassic",
+  "diet": "Herbivore",
+  "length_m": 26.0,
+  "weight_kg": 15000,
+  "region": "Western North America",
+  "meaning": "Double beam",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/diplodocus.json"
+}

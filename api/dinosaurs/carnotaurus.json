@@ -1,0 +1,11 @@
+{
+  "id": "carnotaurus",
+  "name": "Carnotaurus",
+  "period": "Late Cretaceous",
+  "diet": "Carnivore",
+  "length_m": 8.0,
+  "weight_kg": 1350,
+  "region": "Argentina",
+  "meaning": "Meat-eating bull",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/carnotaurus.json"
+}

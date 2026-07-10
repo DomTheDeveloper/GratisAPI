@@ -1,0 +1,9 @@
+{
+  "id": "nix",
+  "name": "Nix",
+  "planet": "Pluto",
+  "radius_km": 24.5,
+  "discovered_year": 2005,
+  "discovered_by": "Hubble Space Telescope team",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/moons/nix.json"
+}

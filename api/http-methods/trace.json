@@ -1,0 +1,10 @@
+{
+  "id": "trace",
+  "method": "TRACE",
+  "description": "Performs a message loop-back test along the path to the target resource.",
+  "safe": true,
+  "idempotent": true,
+  "cacheable": false,
+  "has_request_body": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-methods/trace.json"
+}

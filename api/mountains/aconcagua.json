@@ -1,0 +1,10 @@
+{
+  "id": "aconcagua",
+  "name": "Aconcagua",
+  "height_m": 6961,
+  "range": "Andes",
+  "country": "Argentina",
+  "continent": "South America",
+  "first_ascent_year": 1897,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/aconcagua.json"
+}

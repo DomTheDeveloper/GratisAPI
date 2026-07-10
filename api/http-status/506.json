@@ -1,0 +1,8 @@
+{
+  "id": 506,
+  "code": 506,
+  "message": "Variant Also Negotiates",
+  "category": "Server Error",
+  "description": "The server has an internal configuration error in content negotiation.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/506.json"
+}

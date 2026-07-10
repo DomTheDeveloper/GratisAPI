@@ -1,0 +1,11 @@
+{
+  "id": "european-goldfinch",
+  "common_name": "European Goldfinch",
+  "scientific_name": "Carduelis carduelis",
+  "family": "Fringillidae",
+  "habitat": "Gardens, orchards and woodland edges",
+  "diet": "Herbivore",
+  "wingspan_cm": 23,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/european-goldfinch.json"
+}

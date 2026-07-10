@@ -1,0 +1,18 @@
+{
+  "id": "palevioletred",
+  "name": "Pale Violet Red",
+  "hex": "#DB7093",
+  "rgb": {
+    "r": 219,
+    "g": 112,
+    "b": 147
+  },
+  "rgb_string": "rgb(219, 112, 147)",
+  "hsl": {
+    "h": 340,
+    "s": 60,
+    "l": 65
+  },
+  "hsl_string": "hsl(340, 60%, 65%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/palevioletred.json"
+}

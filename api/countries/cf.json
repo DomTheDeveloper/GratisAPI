@@ -1,0 +1,13 @@
+{
+  "id": "cf",
+  "name": "Central African Republic",
+  "alpha2": "CF",
+  "alpha3": "CAF",
+  "capital": "Bangui",
+  "continent": "Africa",
+  "currency_code": "XAF",
+  "currency": "Central African CFA Franc",
+  "population_millions": 5,
+  "flag_emoji": "🇨🇫",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cf.json"
+}

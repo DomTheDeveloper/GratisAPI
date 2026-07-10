@@ -1,0 +1,18 @@
+{
+  "id": "sienna",
+  "name": "Sienna",
+  "hex": "#A0522D",
+  "rgb": {
+    "r": 160,
+    "g": 82,
+    "b": 45
+  },
+  "rgb_string": "rgb(160, 82, 45)",
+  "hsl": {
+    "h": 19,
+    "s": 56,
+    "l": 40
+  },
+  "hsl_string": "hsl(19, 56%, 40%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/sienna.json"
+}

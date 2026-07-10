@@ -1,0 +1,10 @@
+{
+  "id": "annapurna",
+  "name": "Annapurna I",
+  "height_m": 8091,
+  "range": "Himalayas",
+  "country": "Nepal",
+  "continent": "Asia",
+  "first_ascent_year": 1950,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mountains/annapurna.json"
+}

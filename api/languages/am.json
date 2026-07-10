@@ -1,0 +1,9 @@
+{
+  "id": "am",
+  "code": "am",
+  "name": "Amharic",
+  "native_name": "አማርኛ",
+  "direction": "ltr",
+  "speakers_millions": 57,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/am.json"
+}

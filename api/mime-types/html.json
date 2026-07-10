@@ -1,0 +1,11 @@
+{
+  "id": "html",
+  "mime_type": "text/html",
+  "name": "HTML",
+  "category": "text",
+  "extensions": [
+    ".html",
+    ".htm"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/html.json"
+}

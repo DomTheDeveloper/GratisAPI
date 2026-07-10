@@ -3,5 +3,6 @@
   "code": 204,
   "message": "No Content",
   "category": "Success",
+  "description": "The request succeeded but there is no content to return.",
   "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/204.json"
 }

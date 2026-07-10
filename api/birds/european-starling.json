@@ -1,0 +1,11 @@
+{
+  "id": "european-starling",
+  "common_name": "Common Starling",
+  "scientific_name": "Sturnus vulgaris",
+  "family": "Sturnidae",
+  "habitat": "Farmland and urban areas",
+  "diet": "Omnivore",
+  "wingspan_cm": 40,
+  "conservation_status": "Least Concern",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/birds/european-starling.json"
+}

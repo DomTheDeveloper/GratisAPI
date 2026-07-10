@@ -1,0 +1,8 @@
+{
+  "id": 416,
+  "code": 416,
+  "message": "Range Not Satisfiable",
+  "category": "Client Error",
+  "description": "The requested range cannot be satisfied by the target resource.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/416.json"
+}

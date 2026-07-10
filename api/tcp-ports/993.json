@@ -1,0 +1,8 @@
+{
+  "id": 993,
+  "port": 993,
+  "service": "imaps",
+  "protocol": "TCP",
+  "description": "IMAP over TLS/SSL.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/993.json"
+}

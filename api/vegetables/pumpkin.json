@@ -1,0 +1,10 @@
+{
+  "id": "pumpkin",
+  "name": "Pumpkin",
+  "scientific_name": "Cucurbita pepo",
+  "family": "Cucurbitaceae",
+  "type": "Fruit",
+  "color": "Orange",
+  "calories_per_100g": 26,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/pumpkin.json"
+}

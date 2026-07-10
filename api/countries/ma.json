@@ -1,0 +1,13 @@
+{
+  "id": "ma",
+  "name": "Morocco",
+  "alpha2": "MA",
+  "alpha3": "MAR",
+  "capital": "Rabat",
+  "continent": "Africa",
+  "currency_code": "MAD",
+  "currency": "Moroccan Dirham",
+  "population_millions": 37,
+  "flag_emoji": "🇲🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ma.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aac",
+  "mime_type": "audio/aac",
+  "name": "AAC Audio",
+  "category": "audio",
+  "extensions": [
+    ".aac"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/aac.json"
+}

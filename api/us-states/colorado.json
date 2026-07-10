@@ -1,0 +1,12 @@
+{
+  "id": "colorado",
+  "name": "Colorado",
+  "abbreviation": "CO",
+  "capital": "Denver",
+  "largest_city": "Denver",
+  "population": 5773714,
+  "area_km2": 269601,
+  "statehood_year": 1876,
+  "region": "West",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/colorado.json"
+}

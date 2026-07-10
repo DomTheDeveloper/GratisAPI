@@ -1,0 +1,9 @@
+{
+  "id": "reduced-planck-constant",
+  "name": "Reduced Planck constant",
+  "symbol": "hbar",
+  "value": 1.054571817e-34,
+  "unit": "J s",
+  "category": "Universal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/physical-constants/reduced-planck-constant.json"
+}

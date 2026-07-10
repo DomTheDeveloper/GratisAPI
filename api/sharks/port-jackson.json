@@ -1,0 +1,12 @@
+{
+  "id": "port-jackson",
+  "common_name": "Port Jackson Shark",
+  "scientific_name": "Heterodontus portusjacksoni",
+  "family": "Heterodontidae",
+  "max_length_m": 1.65,
+  "habitat": "Temperate Australian coastal reefs",
+  "diet": "Carnivore",
+  "conservation_status": "Least Concern",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/port-jackson.json"
+}

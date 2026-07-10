@@ -1,0 +1,9 @@
+{
+  "id": "moscow-mule",
+  "name": "Moscow Mule",
+  "base_spirit": "Vodka",
+  "type": "Highball",
+  "glass": "Copper Mug",
+  "is_iba": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cocktails/moscow-mule.json"
+}

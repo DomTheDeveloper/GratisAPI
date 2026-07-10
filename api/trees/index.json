@@ -1,0 +1,344 @@
+{
+  "api": "trees",
+  "title": "Trees",
+  "description": "Tree species with leaf type, maximum height and native region.",
+  "emoji": "🌳",
+  "license": "GPL-2.0-or-later",
+  "count": 32,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/trees/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/trees/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/trees/{id}.json"
+  },
+  "fields": [
+    "common_name",
+    "family",
+    "id",
+    "max_height_m",
+    "native_region",
+    "scientific_name",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "english-oak",
+      "common_name": "English Oak",
+      "scientific_name": "Quercus robur",
+      "family": "Fagaceae",
+      "type": "Deciduous",
+      "max_height_m": 40,
+      "native_region": "Europe and western Asia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/english-oak.json"
+    },
+    {
+      "id": "red-maple",
+      "common_name": "Red Maple",
+      "scientific_name": "Acer rubrum",
+      "family": "Sapindaceae",
+      "type": "Deciduous",
+      "max_height_m": 30,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/red-maple.json"
+    },
+    {
+      "id": "sugar-maple",
+      "common_name": "Sugar Maple",
+      "scientific_name": "Acer saccharum",
+      "family": "Sapindaceae",
+      "type": "Deciduous",
+      "max_height_m": 35,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/sugar-maple.json"
+    },
+    {
+      "id": "silver-birch",
+      "common_name": "Silver Birch",
+      "scientific_name": "Betula pendula",
+      "family": "Betulaceae",
+      "type": "Deciduous",
+      "max_height_m": 30,
+      "native_region": "Europe and Asia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/silver-birch.json"
+    },
+    {
+      "id": "american-beech",
+      "common_name": "American Beech",
+      "scientific_name": "Fagus grandifolia",
+      "family": "Fagaceae",
+      "type": "Deciduous",
+      "max_height_m": 35,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/american-beech.json"
+    },
+    {
+      "id": "european-beech",
+      "common_name": "European Beech",
+      "scientific_name": "Fagus sylvatica",
+      "family": "Fagaceae",
+      "type": "Deciduous",
+      "max_height_m": 40,
+      "native_region": "Central Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/european-beech.json"
+    },
+    {
+      "id": "white-ash",
+      "common_name": "White Ash",
+      "scientific_name": "Fraxinus americana",
+      "family": "Oleaceae",
+      "type": "Deciduous",
+      "max_height_m": 30,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/white-ash.json"
+    },
+    {
+      "id": "weeping-willow",
+      "common_name": "Weeping Willow",
+      "scientific_name": "Salix babylonica",
+      "family": "Salicaceae",
+      "type": "Deciduous",
+      "max_height_m": 25,
+      "native_region": "Northern China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/weeping-willow.json"
+    },
+    {
+      "id": "american-sycamore",
+      "common_name": "American Sycamore",
+      "scientific_name": "Platanus occidentalis",
+      "family": "Platanaceae",
+      "type": "Deciduous",
+      "max_height_m": 40,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/american-sycamore.json"
+    },
+    {
+      "id": "horse-chestnut",
+      "common_name": "Horse Chestnut",
+      "scientific_name": "Aesculus hippocastanum",
+      "family": "Sapindaceae",
+      "type": "Deciduous",
+      "max_height_m": 36,
+      "native_region": "Balkan Peninsula",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/horse-chestnut.json"
+    },
+    {
+      "id": "tulip-tree",
+      "common_name": "Tulip Tree",
+      "scientific_name": "Liriodendron tulipifera",
+      "family": "Magnoliaceae",
+      "type": "Deciduous",
+      "max_height_m": 50,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/tulip-tree.json"
+    },
+    {
+      "id": "quaking-aspen",
+      "common_name": "Quaking Aspen",
+      "scientific_name": "Populus tremuloides",
+      "family": "Salicaceae",
+      "type": "Deciduous",
+      "max_height_m": 25,
+      "native_region": "North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/quaking-aspen.json"
+    },
+    {
+      "id": "black-walnut",
+      "common_name": "Black Walnut",
+      "scientific_name": "Juglans nigra",
+      "family": "Juglandaceae",
+      "type": "Deciduous",
+      "max_height_m": 40,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/black-walnut.json"
+    },
+    {
+      "id": "sweetgum",
+      "common_name": "American Sweetgum",
+      "scientific_name": "Liquidambar styraciflua",
+      "family": "Altingiaceae",
+      "type": "Deciduous",
+      "max_height_m": 35,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/sweetgum.json"
+    },
+    {
+      "id": "ginkgo",
+      "common_name": "Ginkgo",
+      "scientific_name": "Ginkgo biloba",
+      "family": "Ginkgoaceae",
+      "type": "Deciduous",
+      "max_height_m": 35,
+      "native_region": "China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/ginkgo.json"
+    },
+    {
+      "id": "scots-pine",
+      "common_name": "Scots Pine",
+      "scientific_name": "Pinus sylvestris",
+      "family": "Pinaceae",
+      "type": "Coniferous",
+      "max_height_m": 35,
+      "native_region": "Europe and Asia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/scots-pine.json"
+    },
+    {
+      "id": "eastern-white-pine",
+      "common_name": "Eastern White Pine",
+      "scientific_name": "Pinus strobus",
+      "family": "Pinaceae",
+      "type": "Coniferous",
+      "max_height_m": 50,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/eastern-white-pine.json"
+    },
+    {
+      "id": "norway-spruce",
+      "common_name": "Norway Spruce",
+      "scientific_name": "Picea abies",
+      "family": "Pinaceae",
+      "type": "Coniferous",
+      "max_height_m": 55,
+      "native_region": "Northern and central Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/norway-spruce.json"
+    },
+    {
+      "id": "douglas-fir",
+      "common_name": "Douglas Fir",
+      "scientific_name": "Pseudotsuga menziesii",
+      "family": "Pinaceae",
+      "type": "Coniferous",
+      "max_height_m": 75,
+      "native_region": "Western North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/douglas-fir.json"
+    },
+    {
+      "id": "coast-redwood",
+      "common_name": "Coast Redwood",
+      "scientific_name": "Sequoia sempervirens",
+      "family": "Cupressaceae",
+      "type": "Coniferous",
+      "max_height_m": 115,
+      "native_region": "Coastal California and Oregon",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/coast-redwood.json"
+    },
+    {
+      "id": "giant-sequoia",
+      "common_name": "Giant Sequoia",
+      "scientific_name": "Sequoiadendron giganteum",
+      "family": "Cupressaceae",
+      "type": "Coniferous",
+      "max_height_m": 95,
+      "native_region": "Sierra Nevada, California",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/giant-sequoia.json"
+    },
+    {
+      "id": "bald-cypress",
+      "common_name": "Bald Cypress",
+      "scientific_name": "Taxodium distichum",
+      "family": "Cupressaceae",
+      "type": "Deciduous",
+      "max_height_m": 44,
+      "native_region": "Southeastern United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/bald-cypress.json"
+    },
+    {
+      "id": "eastern-hemlock",
+      "common_name": "Eastern Hemlock",
+      "scientific_name": "Tsuga canadensis",
+      "family": "Pinaceae",
+      "type": "Coniferous",
+      "max_height_m": 50,
+      "native_region": "Eastern North America",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/eastern-hemlock.json"
+    },
+    {
+      "id": "western-red-cedar",
+      "common_name": "Western Red Cedar",
+      "scientific_name": "Thuja plicata",
+      "family": "Cupressaceae",
+      "type": "Coniferous",
+      "max_height_m": 65,
+      "native_region": "Pacific Northwest",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/western-red-cedar.json"
+    },
+    {
+      "id": "european-larch",
+      "common_name": "European Larch",
+      "scientific_name": "Larix decidua",
+      "family": "Pinaceae",
+      "type": "Deciduous",
+      "max_height_m": 45,
+      "native_region": "European Alps",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/european-larch.json"
+    },
+    {
+      "id": "southern-magnolia",
+      "common_name": "Southern Magnolia",
+      "scientific_name": "Magnolia grandiflora",
+      "family": "Magnoliaceae",
+      "type": "Evergreen",
+      "max_height_m": 27,
+      "native_region": "Southeastern United States",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/southern-magnolia.json"
+    },
+    {
+      "id": "olive",
+      "common_name": "Olive",
+      "scientific_name": "Olea europaea",
+      "family": "Oleaceae",
+      "type": "Evergreen",
+      "max_height_m": 15,
+      "native_region": "Mediterranean Basin",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/olive.json"
+    },
+    {
+      "id": "coconut-palm",
+      "common_name": "Coconut Palm",
+      "scientific_name": "Cocos nucifera",
+      "family": "Arecaceae",
+      "type": "Evergreen",
+      "max_height_m": 30,
+      "native_region": "Tropical Indo-Pacific",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/coconut-palm.json"
+    },
+    {
+      "id": "eucalyptus-blue-gum",
+      "common_name": "Tasmanian Blue Gum",
+      "scientific_name": "Eucalyptus globulus",
+      "family": "Myrtaceae",
+      "type": "Evergreen",
+      "max_height_m": 55,
+      "native_region": "Southeastern Australia",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/eucalyptus-blue-gum.json"
+    },
+    {
+      "id": "baobab",
+      "common_name": "African Baobab",
+      "scientific_name": "Adansonia digitata",
+      "family": "Malvaceae",
+      "type": "Deciduous",
+      "max_height_m": 25,
+      "native_region": "Sub-Saharan Africa",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/baobab.json"
+    },
+    {
+      "id": "japanese-cherry",
+      "common_name": "Japanese Cherry",
+      "scientific_name": "Prunus serrulata",
+      "family": "Rosaceae",
+      "type": "Deciduous",
+      "max_height_m": 12,
+      "native_region": "Japan, Korea and China",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/japanese-cherry.json"
+    },
+    {
+      "id": "holly",
+      "common_name": "European Holly",
+      "scientific_name": "Ilex aquifolium",
+      "family": "Aquifoliaceae",
+      "type": "Evergreen",
+      "max_height_m": 15,
+      "native_region": "Western and southern Europe",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/trees/holly.json"
+    }
+  ]
+}

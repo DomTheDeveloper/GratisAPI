@@ -1,0 +1,10 @@
+{
+  "id": "avi",
+  "mime_type": "video/x-msvideo",
+  "name": "AVI Video",
+  "category": "video",
+  "extensions": [
+    ".avi"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/avi.json"
+}

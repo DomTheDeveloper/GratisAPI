@@ -1,0 +1,9 @@
+{
+  "id": "mimosa",
+  "name": "Mimosa",
+  "constellation": "Crux",
+  "apparent_magnitude": 1.25,
+  "distance_ly": 280.0,
+  "spectral_type": "B0.5III",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/stars/mimosa.json"
+}

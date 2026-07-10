@@ -1,0 +1,10 @@
+{
+  "id": "scottish-terrier",
+  "name": "Scottish Terrier",
+  "group": "Terrier",
+  "origin": "United Kingdom",
+  "size": "Small",
+  "life_expectancy_years": "12-15",
+  "temperament": "Confident, independent and spirited",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dog-breeds/scottish-terrier.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "kale",
+  "name": "Kale",
+  "scientific_name": "Brassica oleracea",
+  "family": "Brassicaceae",
+  "type": "Leafy",
+  "color": "Green",
+  "calories_per_100g": 49,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/kale.json"
+}

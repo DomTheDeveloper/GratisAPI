@@ -1,0 +1,9 @@
+{
+  "id": "american-shorthair",
+  "name": "American Shorthair",
+  "origin": "United States",
+  "coat": "Short",
+  "temperament": "Easygoing, affectionate and adaptable",
+  "life_expectancy_years": "15-20",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/cat-breeds/american-shorthair.json"
+}

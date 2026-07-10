@@ -1,0 +1,12 @@
+{
+  "id": "hammerhead-great",
+  "common_name": "Great Hammerhead Shark",
+  "scientific_name": "Sphyrna mokarran",
+  "family": "Sphyrnidae",
+  "max_length_m": 6.0,
+  "habitat": "Tropical coastal and offshore waters",
+  "diet": "Carnivore",
+  "conservation_status": "Critically Endangered",
+  "danger_to_humans": "Moderate",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/hammerhead-great.json"
+}

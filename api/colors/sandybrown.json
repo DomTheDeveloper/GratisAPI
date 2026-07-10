@@ -1,0 +1,18 @@
+{
+  "id": "sandybrown",
+  "name": "Sandy Brown",
+  "hex": "#F4A460",
+  "rgb": {
+    "r": 244,
+    "g": 164,
+    "b": 96
+  },
+  "rgb_string": "rgb(244, 164, 96)",
+  "hsl": {
+    "h": 28,
+    "s": 87,
+    "l": 67
+  },
+  "hsl_string": "hsl(28, 87%, 67%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/sandybrown.json"
+}

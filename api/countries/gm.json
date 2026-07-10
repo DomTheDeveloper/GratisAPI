@@ -1,0 +1,13 @@
+{
+  "id": "gm",
+  "name": "Gambia",
+  "alpha2": "GM",
+  "alpha3": "GMB",
+  "capital": "Banjul",
+  "continent": "Africa",
+  "currency_code": "GMD",
+  "currency": "Dalasi",
+  "population_millions": 3,
+  "flag_emoji": "🇬🇲",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gm.json"
+}

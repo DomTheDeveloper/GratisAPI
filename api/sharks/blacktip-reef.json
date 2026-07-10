@@ -1,0 +1,12 @@
+{
+  "id": "blacktip-reef",
+  "common_name": "Blacktip Reef Shark",
+  "scientific_name": "Carcharhinus melanopterus",
+  "family": "Carcharhinidae",
+  "max_length_m": 1.8,
+  "habitat": "Shallow tropical coral reefs",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/blacktip-reef.json"
+}

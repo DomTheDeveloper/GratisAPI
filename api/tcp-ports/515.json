@@ -1,0 +1,8 @@
+{
+  "id": 515,
+  "port": 515,
+  "service": "lpd",
+  "protocol": "TCP",
+  "description": "Line Printer Daemon protocol.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/tcp-ports/515.json"
+}

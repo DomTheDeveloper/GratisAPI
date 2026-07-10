@@ -1,0 +1,214 @@
+{
+  "api": "si-prefixes",
+  "title": "SI Prefixes",
+  "description": "Metric (SI) unit prefixes with symbol and power of ten.",
+  "emoji": "🔢",
+  "license": "GPL-2.0-or-later",
+  "count": 24,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/{id}.json"
+  },
+  "fields": [
+    "base_10",
+    "factor",
+    "id",
+    "name",
+    "symbol"
+  ],
+  "results": [
+    {
+      "id": "quetta",
+      "name": "quetta",
+      "symbol": "Q",
+      "base_10": 30,
+      "factor": "1e30",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/quetta.json"
+    },
+    {
+      "id": "ronna",
+      "name": "ronna",
+      "symbol": "R",
+      "base_10": 27,
+      "factor": "1e27",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/ronna.json"
+    },
+    {
+      "id": "yotta",
+      "name": "yotta",
+      "symbol": "Y",
+      "base_10": 24,
+      "factor": "1e24",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/yotta.json"
+    },
+    {
+      "id": "zetta",
+      "name": "zetta",
+      "symbol": "Z",
+      "base_10": 21,
+      "factor": "1e21",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/zetta.json"
+    },
+    {
+      "id": "exa",
+      "name": "exa",
+      "symbol": "E",
+      "base_10": 18,
+      "factor": "1e18",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/exa.json"
+    },
+    {
+      "id": "peta",
+      "name": "peta",
+      "symbol": "P",
+      "base_10": 15,
+      "factor": "1e15",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/peta.json"
+    },
+    {
+      "id": "tera",
+      "name": "tera",
+      "symbol": "T",
+      "base_10": 12,
+      "factor": "1e12",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/tera.json"
+    },
+    {
+      "id": "giga",
+      "name": "giga",
+      "symbol": "G",
+      "base_10": 9,
+      "factor": "1e9",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/giga.json"
+    },
+    {
+      "id": "mega",
+      "name": "mega",
+      "symbol": "M",
+      "base_10": 6,
+      "factor": "1e6",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/mega.json"
+    },
+    {
+      "id": "kilo",
+      "name": "kilo",
+      "symbol": "k",
+      "base_10": 3,
+      "factor": "1e3",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/kilo.json"
+    },
+    {
+      "id": "hecto",
+      "name": "hecto",
+      "symbol": "h",
+      "base_10": 2,
+      "factor": "1e2",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/hecto.json"
+    },
+    {
+      "id": "deca",
+      "name": "deca",
+      "symbol": "da",
+      "base_10": 1,
+      "factor": "1e1",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/deca.json"
+    },
+    {
+      "id": "deci",
+      "name": "deci",
+      "symbol": "d",
+      "base_10": -1,
+      "factor": "1e-1",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/deci.json"
+    },
+    {
+      "id": "centi",
+      "name": "centi",
+      "symbol": "c",
+      "base_10": -2,
+      "factor": "1e-2",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/centi.json"
+    },
+    {
+      "id": "milli",
+      "name": "milli",
+      "symbol": "m",
+      "base_10": -3,
+      "factor": "1e-3",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/milli.json"
+    },
+    {
+      "id": "micro",
+      "name": "micro",
+      "symbol": "µ",
+      "base_10": -6,
+      "factor": "1e-6",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/micro.json"
+    },
+    {
+      "id": "nano",
+      "name": "nano",
+      "symbol": "n",
+      "base_10": -9,
+      "factor": "1e-9",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/nano.json"
+    },
+    {
+      "id": "pico",
+      "name": "pico",
+      "symbol": "p",
+      "base_10": -12,
+      "factor": "1e-12",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/pico.json"
+    },
+    {
+      "id": "femto",
+      "name": "femto",
+      "symbol": "f",
+      "base_10": -15,
+      "factor": "1e-15",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/femto.json"
+    },
+    {
+      "id": "atto",
+      "name": "atto",
+      "symbol": "a",
+      "base_10": -18,
+      "factor": "1e-18",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/atto.json"
+    },
+    {
+      "id": "zepto",
+      "name": "zepto",
+      "symbol": "z",
+      "base_10": -21,
+      "factor": "1e-21",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/zepto.json"
+    },
+    {
+      "id": "yocto",
+      "name": "yocto",
+      "symbol": "y",
+      "base_10": -24,
+      "factor": "1e-24",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/yocto.json"
+    },
+    {
+      "id": "ronto",
+      "name": "ronto",
+      "symbol": "r",
+      "base_10": -27,
+      "factor": "1e-27",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/ronto.json"
+    },
+    {
+      "id": "quecto",
+      "name": "quecto",
+      "symbol": "q",
+      "base_10": -30,
+      "factor": "1e-30",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/quecto.json"
+    }
+  ]
+}

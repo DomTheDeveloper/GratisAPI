@@ -1,0 +1,11 @@
+{
+  "id": "date",
+  "name": "Date",
+  "scientific_name": "Phoenix dactylifera",
+  "family": "Arecaceae",
+  "type": "Drupe",
+  "color": "Brown",
+  "origin_region": "Middle East and North Africa",
+  "calories_per_100g": 282,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/date.json"
+}

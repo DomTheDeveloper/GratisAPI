@@ -1,0 +1,230 @@
+{
+  "api": "nato-alphabet",
+  "title": "NATO Phonetic Alphabet",
+  "description": "The 26 NATO phonetic alphabet code words with pronunciation and Morse code.",
+  "emoji": "📡",
+  "license": "GPL-2.0-or-later",
+  "count": 26,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/{id}.json"
+  },
+  "fields": [
+    "code_word",
+    "id",
+    "letter",
+    "morse",
+    "pronunciation"
+  ],
+  "results": [
+    {
+      "id": "a",
+      "letter": "A",
+      "code_word": "Alfa",
+      "pronunciation": "AL-fah",
+      "morse": ".-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/a.json"
+    },
+    {
+      "id": "b",
+      "letter": "B",
+      "code_word": "Bravo",
+      "pronunciation": "BRAH-voh",
+      "morse": "-...",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/b.json"
+    },
+    {
+      "id": "c",
+      "letter": "C",
+      "code_word": "Charlie",
+      "pronunciation": "CHAR-lee",
+      "morse": "-.-.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/c.json"
+    },
+    {
+      "id": "d",
+      "letter": "D",
+      "code_word": "Delta",
+      "pronunciation": "DELL-tah",
+      "morse": "-..",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/d.json"
+    },
+    {
+      "id": "e",
+      "letter": "E",
+      "code_word": "Echo",
+      "pronunciation": "ECK-oh",
+      "morse": ".",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/e.json"
+    },
+    {
+      "id": "f",
+      "letter": "F",
+      "code_word": "Foxtrot",
+      "pronunciation": "FOKS-trot",
+      "morse": "..-.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/f.json"
+    },
+    {
+      "id": "g",
+      "letter": "G",
+      "code_word": "Golf",
+      "pronunciation": "GOLF",
+      "morse": "--.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/g.json"
+    },
+    {
+      "id": "h",
+      "letter": "H",
+      "code_word": "Hotel",
+      "pronunciation": "hoh-TELL",
+      "morse": "....",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/h.json"
+    },
+    {
+      "id": "i",
+      "letter": "I",
+      "code_word": "India",
+      "pronunciation": "IN-dee-ah",
+      "morse": "..",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/i.json"
+    },
+    {
+      "id": "j",
+      "letter": "J",
+      "code_word": "Juliett",
+      "pronunciation": "JEW-lee-ett",
+      "morse": ".---",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/j.json"
+    },
+    {
+      "id": "k",
+      "letter": "K",
+      "code_word": "Kilo",
+      "pronunciation": "KEY-loh",
+      "morse": "-.-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/k.json"
+    },
+    {
+      "id": "l",
+      "letter": "L",
+      "code_word": "Lima",
+      "pronunciation": "LEE-mah",
+      "morse": ".-..",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/l.json"
+    },
+    {
+      "id": "m",
+      "letter": "M",
+      "code_word": "Mike",
+      "pronunciation": "MIKE",
+      "morse": "--",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/m.json"
+    },
+    {
+      "id": "n",
+      "letter": "N",
+      "code_word": "November",
+      "pronunciation": "no-VEM-ber",
+      "morse": "-.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/n.json"
+    },
+    {
+      "id": "o",
+      "letter": "O",
+      "code_word": "Oscar",
+      "pronunciation": "OSS-cah",
+      "morse": "---",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/o.json"
+    },
+    {
+      "id": "p",
+      "letter": "P",
+      "code_word": "Papa",
+      "pronunciation": "pah-PAH",
+      "morse": ".--.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/p.json"
+    },
+    {
+      "id": "q",
+      "letter": "Q",
+      "code_word": "Quebec",
+      "pronunciation": "keh-BECK",
+      "morse": "--.-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/q.json"
+    },
+    {
+      "id": "r",
+      "letter": "R",
+      "code_word": "Romeo",
+      "pronunciation": "ROW-me-oh",
+      "morse": ".-.",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/r.json"
+    },
+    {
+      "id": "s",
+      "letter": "S",
+      "code_word": "Sierra",
+      "pronunciation": "see-AIR-rah",
+      "morse": "...",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/s.json"
+    },
+    {
+      "id": "t",
+      "letter": "T",
+      "code_word": "Tango",
+      "pronunciation": "TANG-go",
+      "morse": "-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/t.json"
+    },
+    {
+      "id": "u",
+      "letter": "U",
+      "code_word": "Uniform",
+      "pronunciation": "YOU-nee-form",
+      "morse": "..-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/u.json"
+    },
+    {
+      "id": "v",
+      "letter": "V",
+      "code_word": "Victor",
+      "pronunciation": "VIK-tah",
+      "morse": "...-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/v.json"
+    },
+    {
+      "id": "w",
+      "letter": "W",
+      "code_word": "Whiskey",
+      "pronunciation": "WISS-key",
+      "morse": ".--",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/w.json"
+    },
+    {
+      "id": "x",
+      "letter": "X",
+      "code_word": "X-ray",
+      "pronunciation": "ECKS-ray",
+      "morse": "-..-",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/x.json"
+    },
+    {
+      "id": "y",
+      "letter": "Y",
+      "code_word": "Yankee",
+      "pronunciation": "YANG-key",
+      "morse": "-.--",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/y.json"
+    },
+    {
+      "id": "z",
+      "letter": "Z",
+      "code_word": "Zulu",
+      "pronunciation": "ZOO-loo",
+      "morse": "--..",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/nato-alphabet/z.json"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "darkred",
+  "name": "Dark Red",
+  "hex": "#8B0000",
+  "rgb": {
+    "r": 139,
+    "g": 0,
+    "b": 0
+  },
+  "rgb_string": "rgb(139, 0, 0)",
+  "hsl": {
+    "h": 0,
+    "s": 100,
+    "l": 27
+  },
+  "hsl_string": "hsl(0, 100%, 27%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/darkred.json"
+}

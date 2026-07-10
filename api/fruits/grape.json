@@ -1,0 +1,11 @@
+{
+  "id": "grape",
+  "name": "Grape",
+  "scientific_name": "Vitis vinifera",
+  "family": "Vitaceae",
+  "type": "Berry",
+  "color": "Green",
+  "origin_region": "Mediterranean and Central Asia",
+  "calories_per_100g": 69,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/grape.json"
+}

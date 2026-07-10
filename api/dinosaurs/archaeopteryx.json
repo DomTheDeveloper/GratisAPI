@@ -1,0 +1,11 @@
+{
+  "id": "archaeopteryx",
+  "name": "Archaeopteryx",
+  "period": "Late Jurassic",
+  "diet": "Carnivore",
+  "length_m": 0.5,
+  "weight_kg": 1,
+  "region": "Europe",
+  "meaning": "Ancient wing",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/dinosaurs/archaeopteryx.json"
+}

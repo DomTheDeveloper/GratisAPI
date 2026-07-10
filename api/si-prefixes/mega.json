@@ -1,0 +1,8 @@
+{
+  "id": "mega",
+  "name": "mega",
+  "symbol": "M",
+  "base_10": 6,
+  "factor": "1e6",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/si-prefixes/mega.json"
+}

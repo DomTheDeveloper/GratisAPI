@@ -1,0 +1,10 @@
+{
+  "id": "cassava",
+  "name": "Cassava",
+  "scientific_name": "Manihot esculenta",
+  "family": "Euphorbiaceae",
+  "type": "Tuber",
+  "color": "Brown",
+  "calories_per_100g": 160,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/vegetables/cassava.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ogg-audio",
+  "mime_type": "audio/ogg",
+  "name": "Ogg Audio",
+  "category": "audio",
+  "extensions": [
+    ".ogg",
+    ".oga"
+  ],
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/mime-types/ogg-audio.json"
+}

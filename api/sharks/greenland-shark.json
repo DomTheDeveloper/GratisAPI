@@ -1,0 +1,12 @@
+{
+  "id": "greenland-shark",
+  "common_name": "Greenland Shark",
+  "scientific_name": "Somniosus microcephalus",
+  "family": "Somniosidae",
+  "max_length_m": 6.4,
+  "habitat": "Cold deep North Atlantic and Arctic waters",
+  "diet": "Carnivore",
+  "conservation_status": "Vulnerable",
+  "danger_to_humans": "Low",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/sharks/greenland-shark.json"
+}

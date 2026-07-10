@@ -1,0 +1,12 @@
+{
+  "id": "minnesota",
+  "name": "Minnesota",
+  "abbreviation": "MN",
+  "capital": "Saint Paul",
+  "largest_city": "Minneapolis",
+  "population": 5706494,
+  "area_km2": 225163,
+  "statehood_year": 1858,
+  "region": "Midwest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/us-states/minnesota.json"
+}

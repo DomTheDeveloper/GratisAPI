@@ -1,0 +1,9 @@
+{
+  "id": "cancer",
+  "name": "Cancer",
+  "abbreviation": "Cnc",
+  "meaning": "The Crab",
+  "quadrant": "NQ2",
+  "area_sq_deg": 505.872,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/constellations/cancer.json"
+}

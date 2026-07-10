@@ -1,0 +1,18 @@
+{
+  "id": "deeppink",
+  "name": "Deep Pink",
+  "hex": "#FF1493",
+  "rgb": {
+    "r": 255,
+    "g": 20,
+    "b": 147
+  },
+  "rgb_string": "rgb(255, 20, 147)",
+  "hsl": {
+    "h": 328,
+    "s": 100,
+    "l": 54
+  },
+  "hsl_string": "hsl(328, 100%, 54%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/deeppink.json"
+}

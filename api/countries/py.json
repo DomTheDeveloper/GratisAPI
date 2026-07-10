@@ -1,0 +1,13 @@
+{
+  "id": "py",
+  "name": "Paraguay",
+  "alpha2": "PY",
+  "alpha3": "PRY",
+  "capital": "Asuncion",
+  "continent": "South America",
+  "currency_code": "PYG",
+  "currency": "Guarani",
+  "population_millions": 7,
+  "flag_emoji": "🇵🇾",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/py.json"
+}

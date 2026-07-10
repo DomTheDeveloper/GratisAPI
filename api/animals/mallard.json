@@ -1,0 +1,15 @@
+{
+  "id": "mallard",
+  "common_name": "Mallard",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Anseriformes",
+  "family": "Anatidae",
+  "genus": "Anas",
+  "species": "Anas platyrhynchos",
+  "conservation_status": "Least Concern",
+  "habitat": "Wetlands, lakes and rivers",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/mallard.json"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "passion-fruit",
+  "name": "Passion Fruit",
+  "scientific_name": "Passiflora edulis",
+  "family": "Passifloraceae",
+  "type": "Tropical",
+  "color": "Purple",
+  "origin_region": "South America",
+  "calories_per_100g": 97,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/fruits/passion-fruit.json"
+}

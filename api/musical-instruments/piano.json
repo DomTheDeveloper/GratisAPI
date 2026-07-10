@@ -1,0 +1,8 @@
+{
+  "id": "piano",
+  "name": "Piano",
+  "family": "Keyboard",
+  "classification": "Chordophone",
+  "origin_region": "Italy",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/musical-instruments/piano.json"
+}

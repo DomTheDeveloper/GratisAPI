@@ -1,0 +1,13 @@
+{
+  "id": "gr",
+  "name": "Greece",
+  "alpha2": "GR",
+  "alpha3": "GRC",
+  "capital": "Athens",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 11,
+  "flag_emoji": "🇬🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gr.json"
+}

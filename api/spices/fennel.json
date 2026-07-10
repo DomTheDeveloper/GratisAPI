@@ -1,0 +1,9 @@
+{
+  "id": "fennel",
+  "name": "Fennel",
+  "plant_part": "Seed",
+  "origin_region": "Mediterranean",
+  "flavor": "Sweet, anise-like",
+  "heat_level": "None",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/spices/fennel.json"
+}

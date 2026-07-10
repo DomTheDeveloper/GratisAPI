@@ -1,0 +1,9 @@
+{
+  "id": "queen-of-spades",
+  "rank": "Queen",
+  "suit": "Spades",
+  "color": "Black",
+  "value": 12,
+  "symbol": "♠",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/playing-cards/queen-of-spades.json"
+}

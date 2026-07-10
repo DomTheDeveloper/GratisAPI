@@ -1,0 +1,14 @@
+{
+  "id": "typescript",
+  "name": "TypeScript",
+  "year": 2012,
+  "paradigm": [
+    "Object-oriented",
+    "Functional",
+    "Imperative"
+  ],
+  "typing": "Static",
+  "designed_by": "Microsoft",
+  "extension": ".ts",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/programming-languages/typescript.json"
+}

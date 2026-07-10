@@ -1,0 +1,8 @@
+{
+  "id": 414,
+  "code": 414,
+  "message": "URI Too Long",
+  "category": "Client Error",
+  "description": "The requested URI is longer than the server is willing to interpret.",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/414.json"
+}
