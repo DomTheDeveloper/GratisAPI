@@ -1,0 +1,210 @@
+{
+  "api": "http-status",
+  "title": "HTTP Status Codes",
+  "description": "HTTP response status codes with their standard reason phrase and category.",
+  "emoji": "📡",
+  "license": "GPL-2.0-or-later",
+  "count": 27,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/http-status/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/http-status/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/http-status/{id}.json"
+  },
+  "fields": [
+    "category",
+    "code",
+    "id",
+    "message"
+  ],
+  "results": [
+    {
+      "id": 100,
+      "code": 100,
+      "message": "Continue",
+      "category": "Informational",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/100.json"
+    },
+    {
+      "id": 101,
+      "code": 101,
+      "message": "Switching Protocols",
+      "category": "Informational",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/101.json"
+    },
+    {
+      "id": 200,
+      "code": 200,
+      "message": "OK",
+      "category": "Success",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/200.json"
+    },
+    {
+      "id": 201,
+      "code": 201,
+      "message": "Created",
+      "category": "Success",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/201.json"
+    },
+    {
+      "id": 202,
+      "code": 202,
+      "message": "Accepted",
+      "category": "Success",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/202.json"
+    },
+    {
+      "id": 204,
+      "code": 204,
+      "message": "No Content",
+      "category": "Success",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/204.json"
+    },
+    {
+      "id": 206,
+      "code": 206,
+      "message": "Partial Content",
+      "category": "Success",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/206.json"
+    },
+    {
+      "id": 301,
+      "code": 301,
+      "message": "Moved Permanently",
+      "category": "Redirection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/301.json"
+    },
+    {
+      "id": 302,
+      "code": 302,
+      "message": "Found",
+      "category": "Redirection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/302.json"
+    },
+    {
+      "id": 304,
+      "code": 304,
+      "message": "Not Modified",
+      "category": "Redirection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/304.json"
+    },
+    {
+      "id": 307,
+      "code": 307,
+      "message": "Temporary Redirect",
+      "category": "Redirection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/307.json"
+    },
+    {
+      "id": 308,
+      "code": 308,
+      "message": "Permanent Redirect",
+      "category": "Redirection",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/308.json"
+    },
+    {
+      "id": 400,
+      "code": 400,
+      "message": "Bad Request",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/400.json"
+    },
+    {
+      "id": 401,
+      "code": 401,
+      "message": "Unauthorized",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/401.json"
+    },
+    {
+      "id": 403,
+      "code": 403,
+      "message": "Forbidden",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/403.json"
+    },
+    {
+      "id": 404,
+      "code": 404,
+      "message": "Not Found",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/404.json"
+    },
+    {
+      "id": 405,
+      "code": 405,
+      "message": "Method Not Allowed",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/405.json"
+    },
+    {
+      "id": 409,
+      "code": 409,
+      "message": "Conflict",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/409.json"
+    },
+    {
+      "id": 410,
+      "code": 410,
+      "message": "Gone",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/410.json"
+    },
+    {
+      "id": 418,
+      "code": 418,
+      "message": "I'm a teapot",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/418.json"
+    },
+    {
+      "id": 422,
+      "code": 422,
+      "message": "Unprocessable Entity",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/422.json"
+    },
+    {
+      "id": 429,
+      "code": 429,
+      "message": "Too Many Requests",
+      "category": "Client Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/429.json"
+    },
+    {
+      "id": 500,
+      "code": 500,
+      "message": "Internal Server Error",
+      "category": "Server Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/500.json"
+    },
+    {
+      "id": 501,
+      "code": 501,
+      "message": "Not Implemented",
+      "category": "Server Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/501.json"
+    },
+    {
+      "id": 502,
+      "code": 502,
+      "message": "Bad Gateway",
+      "category": "Server Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/502.json"
+    },
+    {
+      "id": 503,
+      "code": 503,
+      "message": "Service Unavailable",
+      "category": "Server Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/503.json"
+    },
+    {
+      "id": 504,
+      "code": 504,
+      "message": "Gateway Timeout",
+      "category": "Server Error",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/504.json"
+    }
+  ]
+}

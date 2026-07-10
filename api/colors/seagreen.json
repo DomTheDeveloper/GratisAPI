@@ -1,0 +1,18 @@
+{
+  "id": "seagreen",
+  "name": "Sea Green",
+  "hex": "#2E8B57",
+  "rgb": {
+    "r": 46,
+    "g": 139,
+    "b": 87
+  },
+  "rgb_string": "rgb(46, 139, 87)",
+  "hsl": {
+    "h": 146,
+    "s": 50,
+    "l": 36
+  },
+  "hsl_string": "hsl(146, 50%, 36%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/seagreen.json"
+}

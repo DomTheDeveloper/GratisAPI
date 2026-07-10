@@ -1,0 +1,18 @@
+{
+  "id": "black",
+  "name": "Black",
+  "hex": "#000000",
+  "rgb": {
+    "r": 0,
+    "g": 0,
+    "b": 0
+  },
+  "rgb_string": "rgb(0, 0, 0)",
+  "hsl": {
+    "h": 0,
+    "s": 0,
+    "l": 0
+  },
+  "hsl_string": "hsl(0, 0%, 0%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/black.json"
+}

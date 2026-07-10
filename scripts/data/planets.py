@@ -1,0 +1,20 @@
+"""Planets and dwarf planets of the Solar System."""
+
+META = {
+    "name": "planets",
+    "title": "Planets",
+    "description": "Planets and dwarf planets of the Solar System with key physical data.",
+    "emoji": "\U0001FA90",
+}
+
+ITEMS = [
+    {"id": "mercury", "name": "Mercury", "type": "Terrestrial planet", "order_from_sun": 1, "mass_earths": 0.055, "radius_km": 2440, "moons": 0, "orbital_period_days": 88.0, "day_length_hours": 4222.6, "mean_temp_c": 167, "has_rings": False},
+    {"id": "venus", "name": "Venus", "type": "Terrestrial planet", "order_from_sun": 2, "mass_earths": 0.815, "radius_km": 6052, "moons": 0, "orbital_period_days": 224.7, "day_length_hours": 2802.0, "mean_temp_c": 464, "has_rings": False},
+    {"id": "earth", "name": "Earth", "type": "Terrestrial planet", "order_from_sun": 3, "mass_earths": 1.0, "radius_km": 6371, "moons": 1, "orbital_period_days": 365.25, "day_length_hours": 24.0, "mean_temp_c": 15, "has_rings": False},
+    {"id": "mars", "name": "Mars", "type": "Terrestrial planet", "order_from_sun": 4, "mass_earths": 0.107, "radius_km": 3390, "moons": 2, "orbital_period_days": 687.0, "day_length_hours": 24.7, "mean_temp_c": -65, "has_rings": False},
+    {"id": "jupiter", "name": "Jupiter", "type": "Gas giant", "order_from_sun": 5, "mass_earths": 317.8, "radius_km": 69911, "moons": 95, "orbital_period_days": 4331.0, "day_length_hours": 9.9, "mean_temp_c": -110, "has_rings": True},
+    {"id": "saturn", "name": "Saturn", "type": "Gas giant", "order_from_sun": 6, "mass_earths": 95.2, "radius_km": 58232, "moons": 146, "orbital_period_days": 10747.0, "day_length_hours": 10.7, "mean_temp_c": -140, "has_rings": True},
+    {"id": "uranus", "name": "Uranus", "type": "Ice giant", "order_from_sun": 7, "mass_earths": 14.5, "radius_km": 25362, "moons": 28, "orbital_period_days": 30589.0, "day_length_hours": 17.2, "mean_temp_c": -195, "has_rings": True},
+    {"id": "neptune", "name": "Neptune", "type": "Ice giant", "order_from_sun": 8, "mass_earths": 17.1, "radius_km": 24622, "moons": 16, "orbital_period_days": 59800.0, "day_length_hours": 16.1, "mean_temp_c": -200, "has_rings": True},
+    {"id": "pluto", "name": "Pluto", "type": "Dwarf planet", "order_from_sun": 9, "mass_earths": 0.0022, "radius_km": 1188, "moons": 5, "orbital_period_days": 90560.0, "day_length_hours": 153.3, "mean_temp_c": -225, "has_rings": False},
+]

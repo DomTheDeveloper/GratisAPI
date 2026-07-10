@@ -1,0 +1,13 @@
+{
+  "id": "no",
+  "name": "Norway",
+  "alpha2": "NO",
+  "alpha3": "NOR",
+  "capital": "Oslo",
+  "continent": "Europe",
+  "currency_code": "NOK",
+  "currency": "Norwegian Krone",
+  "population_millions": 5,
+  "flag_emoji": "🇳🇴",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/no.json"
+}

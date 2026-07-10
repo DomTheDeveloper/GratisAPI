@@ -1,0 +1,10 @@
+{
+  "id": "south-america",
+  "name": "South America",
+  "area_km2": 17840000,
+  "population_millions": 434,
+  "countries": 12,
+  "largest_country": "Brazil",
+  "highest_point": "Aconcagua",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/south-america.json"
+}

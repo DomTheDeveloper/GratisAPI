@@ -1,0 +1,15 @@
+{
+  "id": "bald-eagle",
+  "common_name": "Bald Eagle",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "genus": "Haliaeetus",
+  "species": "Haliaeetus leucocephalus",
+  "conservation_status": "Least Concern",
+  "habitat": "Near large bodies of water",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/bald-eagle.json"
+}

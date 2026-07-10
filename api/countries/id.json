@@ -1,0 +1,13 @@
+{
+  "id": "id",
+  "name": "Indonesia",
+  "alpha2": "ID",
+  "alpha3": "IDN",
+  "capital": "Jakarta",
+  "continent": "Asia",
+  "currency_code": "IDR",
+  "currency": "Indonesian Rupiah",
+  "population_millions": 274,
+  "flag_emoji": "🇮🇩",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/id.json"
+}

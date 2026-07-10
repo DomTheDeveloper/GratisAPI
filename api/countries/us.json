@@ -1,0 +1,13 @@
+{
+  "id": "us",
+  "name": "United States",
+  "alpha2": "US",
+  "alpha3": "USA",
+  "capital": "Washington, D.C.",
+  "continent": "North America",
+  "currency_code": "USD",
+  "currency": "US Dollar",
+  "population_millions": 331,
+  "flag_emoji": "🇺🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/us.json"
+}

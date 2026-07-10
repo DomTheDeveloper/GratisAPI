@@ -1,0 +1,208 @@
+{
+  "api": "calendar",
+  "title": "Calendar",
+  "description": "Months of the year and days of the week with ordinal, length and abbreviation.",
+  "emoji": "📅",
+  "license": "GPL-2.0-or-later",
+  "count": 19,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/calendar/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/calendar/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/calendar/{id}.json"
+  },
+  "fields": [
+    "abbreviation",
+    "days",
+    "id",
+    "is_weekend",
+    "name",
+    "number",
+    "season_northern",
+    "type"
+  ],
+  "results": [
+    {
+      "id": "january",
+      "type": "month",
+      "name": "January",
+      "number": 1,
+      "days": 31,
+      "abbreviation": "Jan",
+      "season_northern": "Winter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/january.json"
+    },
+    {
+      "id": "february",
+      "type": "month",
+      "name": "February",
+      "number": 2,
+      "days": 28,
+      "abbreviation": "Feb",
+      "season_northern": "Winter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/february.json"
+    },
+    {
+      "id": "march",
+      "type": "month",
+      "name": "March",
+      "number": 3,
+      "days": 31,
+      "abbreviation": "Mar",
+      "season_northern": "Spring",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/march.json"
+    },
+    {
+      "id": "april",
+      "type": "month",
+      "name": "April",
+      "number": 4,
+      "days": 30,
+      "abbreviation": "Apr",
+      "season_northern": "Spring",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/april.json"
+    },
+    {
+      "id": "may",
+      "type": "month",
+      "name": "May",
+      "number": 5,
+      "days": 31,
+      "abbreviation": "May",
+      "season_northern": "Spring",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/may.json"
+    },
+    {
+      "id": "june",
+      "type": "month",
+      "name": "June",
+      "number": 6,
+      "days": 30,
+      "abbreviation": "Jun",
+      "season_northern": "Summer",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/june.json"
+    },
+    {
+      "id": "july",
+      "type": "month",
+      "name": "July",
+      "number": 7,
+      "days": 31,
+      "abbreviation": "Jul",
+      "season_northern": "Summer",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/july.json"
+    },
+    {
+      "id": "august",
+      "type": "month",
+      "name": "August",
+      "number": 8,
+      "days": 31,
+      "abbreviation": "Aug",
+      "season_northern": "Summer",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/august.json"
+    },
+    {
+      "id": "september",
+      "type": "month",
+      "name": "September",
+      "number": 9,
+      "days": 30,
+      "abbreviation": "Sep",
+      "season_northern": "Autumn",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/september.json"
+    },
+    {
+      "id": "october",
+      "type": "month",
+      "name": "October",
+      "number": 10,
+      "days": 31,
+      "abbreviation": "Oct",
+      "season_northern": "Autumn",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/october.json"
+    },
+    {
+      "id": "november",
+      "type": "month",
+      "name": "November",
+      "number": 11,
+      "days": 30,
+      "abbreviation": "Nov",
+      "season_northern": "Autumn",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/november.json"
+    },
+    {
+      "id": "december",
+      "type": "month",
+      "name": "December",
+      "number": 12,
+      "days": 31,
+      "abbreviation": "Dec",
+      "season_northern": "Winter",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/december.json"
+    },
+    {
+      "id": "monday",
+      "type": "weekday",
+      "name": "Monday",
+      "number": 1,
+      "abbreviation": "Mon",
+      "is_weekend": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/monday.json"
+    },
+    {
+      "id": "tuesday",
+      "type": "weekday",
+      "name": "Tuesday",
+      "number": 2,
+      "abbreviation": "Tue",
+      "is_weekend": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/tuesday.json"
+    },
+    {
+      "id": "wednesday",
+      "type": "weekday",
+      "name": "Wednesday",
+      "number": 3,
+      "abbreviation": "Wed",
+      "is_weekend": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/wednesday.json"
+    },
+    {
+      "id": "thursday",
+      "type": "weekday",
+      "name": "Thursday",
+      "number": 4,
+      "abbreviation": "Thu",
+      "is_weekend": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/thursday.json"
+    },
+    {
+      "id": "friday",
+      "type": "weekday",
+      "name": "Friday",
+      "number": 5,
+      "abbreviation": "Fri",
+      "is_weekend": false,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/friday.json"
+    },
+    {
+      "id": "saturday",
+      "type": "weekday",
+      "name": "Saturday",
+      "number": 6,
+      "abbreviation": "Sat",
+      "is_weekend": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/saturday.json"
+    },
+    {
+      "id": "sunday",
+      "type": "weekday",
+      "name": "Sunday",
+      "number": 7,
+      "abbreviation": "Sun",
+      "is_weekend": true,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/sunday.json"
+    }
+  ]
+}

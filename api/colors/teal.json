@@ -1,0 +1,18 @@
+{
+  "id": "teal",
+  "name": "Teal",
+  "hex": "#008080",
+  "rgb": {
+    "r": 0,
+    "g": 128,
+    "b": 128
+  },
+  "rgb_string": "rgb(0, 128, 128)",
+  "hsl": {
+    "h": 180,
+    "s": 100,
+    "l": 25
+  },
+  "hsl_string": "hsl(180, 100%, 25%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/teal.json"
+}

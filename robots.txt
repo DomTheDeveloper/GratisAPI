@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://domthedeveloper.github.io/GratisAPI/sitemap.xml

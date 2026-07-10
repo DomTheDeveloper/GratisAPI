@@ -1,0 +1,18 @@
+{
+  "id": "crimson",
+  "name": "Crimson",
+  "hex": "#DC143C",
+  "rgb": {
+    "r": 220,
+    "g": 20,
+    "b": 60
+  },
+  "rgb_string": "rgb(220, 20, 60)",
+  "hsl": {
+    "h": 348,
+    "s": 83,
+    "l": 47
+  },
+  "hsl_string": "hsl(348, 83%, 47%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/crimson.json"
+}

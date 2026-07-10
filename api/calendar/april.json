@@ -1,0 +1,10 @@
+{
+  "id": "april",
+  "type": "month",
+  "name": "April",
+  "number": 4,
+  "days": 30,
+  "abbreviation": "Apr",
+  "season_northern": "Spring",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/april.json"
+}

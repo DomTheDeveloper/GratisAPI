@@ -1,0 +1,9 @@
+{
+  "id": "el",
+  "code": "el",
+  "name": "Greek",
+  "native_name": "Ελληνικά",
+  "direction": "ltr",
+  "speakers_millions": 13,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/el.json"
+}

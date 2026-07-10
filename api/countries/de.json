@@ -1,0 +1,13 @@
+{
+  "id": "de",
+  "name": "Germany",
+  "alpha2": "DE",
+  "alpha3": "DEU",
+  "capital": "Berlin",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 83,
+  "flag_emoji": "🇩🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/de.json"
+}

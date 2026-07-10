@@ -1,0 +1,13 @@
+{
+  "id": "ru",
+  "name": "Russia",
+  "alpha2": "RU",
+  "alpha3": "RUS",
+  "capital": "Moscow",
+  "continent": "Europe",
+  "currency_code": "RUB",
+  "currency": "Russian Ruble",
+  "population_millions": 144,
+  "flag_emoji": "🇷🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ru.json"
+}

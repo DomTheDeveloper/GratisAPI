@@ -1,0 +1,13 @@
+{
+  "id": "sa",
+  "name": "Saudi Arabia",
+  "alpha2": "SA",
+  "alpha3": "SAU",
+  "capital": "Riyadh",
+  "continent": "Asia",
+  "currency_code": "SAR",
+  "currency": "Saudi Riyal",
+  "population_millions": 35,
+  "flag_emoji": "🇸🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/sa.json"
+}

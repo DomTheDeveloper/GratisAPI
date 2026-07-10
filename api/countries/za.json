@@ -1,0 +1,13 @@
+{
+  "id": "za",
+  "name": "South Africa",
+  "alpha2": "ZA",
+  "alpha3": "ZAF",
+  "capital": "Pretoria",
+  "continent": "Africa",
+  "currency_code": "ZAR",
+  "currency": "South African Rand",
+  "population_millions": 60,
+  "flag_emoji": "🇿🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/za.json"
+}

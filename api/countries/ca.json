@@ -1,0 +1,13 @@
+{
+  "id": "ca",
+  "name": "Canada",
+  "alpha2": "CA",
+  "alpha3": "CAN",
+  "capital": "Ottawa",
+  "continent": "North America",
+  "currency_code": "CAD",
+  "currency": "Canadian Dollar",
+  "population_millions": 38,
+  "flag_emoji": "🇨🇦",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ca.json"
+}

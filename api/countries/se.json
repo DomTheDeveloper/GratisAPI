@@ -1,0 +1,13 @@
+{
+  "id": "se",
+  "name": "Sweden",
+  "alpha2": "SE",
+  "alpha3": "SWE",
+  "capital": "Stockholm",
+  "continent": "Europe",
+  "currency_code": "SEK",
+  "currency": "Swedish Krona",
+  "population_millions": 10,
+  "flag_emoji": "🇸🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/se.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "common-octopus",
+  "common_name": "Common Octopus",
+  "kingdom": "Animalia",
+  "phylum": "Mollusca",
+  "class": "Cephalopoda",
+  "order": "Octopoda",
+  "family": "Octopodidae",
+  "genus": "Octopus",
+  "species": "Octopus vulgaris",
+  "conservation_status": "Least Concern",
+  "habitat": "Tropical and temperate seas",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/common-octopus.json"
+}

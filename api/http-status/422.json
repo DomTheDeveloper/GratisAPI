@@ -1,0 +1,7 @@
+{
+  "id": 422,
+  "code": 422,
+  "message": "Unprocessable Entity",
+  "category": "Client Error",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/422.json"
+}

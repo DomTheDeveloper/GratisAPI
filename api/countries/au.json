@@ -1,0 +1,13 @@
+{
+  "id": "au",
+  "name": "Australia",
+  "alpha2": "AU",
+  "alpha3": "AUS",
+  "capital": "Canberra",
+  "continent": "Oceania",
+  "currency_code": "AUD",
+  "currency": "Australian Dollar",
+  "population_millions": 26,
+  "flag_emoji": "🇦🇺",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/au.json"
+}

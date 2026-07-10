@@ -1,0 +1,18 @@
+{
+  "id": "skyblue",
+  "name": "Sky Blue",
+  "hex": "#87CEEB",
+  "rgb": {
+    "r": 135,
+    "g": 206,
+    "b": 235
+  },
+  "rgb_string": "rgb(135, 206, 235)",
+  "hsl": {
+    "h": 197,
+    "s": 71,
+    "l": 73
+  },
+  "hsl_string": "hsl(197, 71%, 73%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/skyblue.json"
+}

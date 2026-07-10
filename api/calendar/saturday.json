@@ -1,0 +1,9 @@
+{
+  "id": "saturday",
+  "type": "weekday",
+  "name": "Saturday",
+  "number": 6,
+  "abbreviation": "Sat",
+  "is_weekend": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/saturday.json"
+}

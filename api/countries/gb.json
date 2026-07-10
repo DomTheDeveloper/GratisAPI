@@ -1,0 +1,13 @@
+{
+  "id": "gb",
+  "name": "United Kingdom",
+  "alpha2": "GB",
+  "alpha3": "GBR",
+  "capital": "London",
+  "continent": "Europe",
+  "currency_code": "GBP",
+  "currency": "Pound Sterling",
+  "population_millions": 67,
+  "flag_emoji": "🇬🇧",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/gb.json"
+}

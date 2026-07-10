@@ -1,0 +1,15 @@
+{
+  "id": "lion",
+  "common_name": "Lion",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "species": "Panthera leo",
+  "conservation_status": "Vulnerable",
+  "habitat": "Grasslands and savanna",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/lion.json"
+}

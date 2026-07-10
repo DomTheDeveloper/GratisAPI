@@ -1,0 +1,18 @@
+{
+  "id": "silver",
+  "name": "Silver",
+  "hex": "#C0C0C0",
+  "rgb": {
+    "r": 192,
+    "g": 192,
+    "b": 192
+  },
+  "rgb_string": "rgb(192, 192, 192)",
+  "hsl": {
+    "h": 0,
+    "s": 0,
+    "l": 75
+  },
+  "hsl_string": "hsl(0, 0%, 75%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/silver.json"
+}

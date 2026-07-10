@@ -1,0 +1,9 @@
+{
+  "id": "zh",
+  "code": "zh",
+  "name": "Chinese",
+  "native_name": "中文",
+  "direction": "ltr",
+  "speakers_millions": 1138,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/zh.json"
+}

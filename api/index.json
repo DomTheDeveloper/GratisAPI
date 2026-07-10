@@ -1,0 +1,110 @@
+{
+  "name": "GratisAPI",
+  "tagline": "A completely free, 100% static, open-data API.",
+  "description": "GratisAPI is a collection of static JSON APIs hosted on GitHub Pages. Every endpoint is a plain JSON file: no keys, no rate limits, no tracking, no cost. Gratis means free.",
+  "license": "GPL-2.0-or-later",
+  "base_url": "https://domthedeveloper.github.io/GratisAPI",
+  "documentation": "https://domthedeveloper.github.io/GratisAPI/docs/",
+  "openapi": "https://domthedeveloper.github.io/GratisAPI/openapi.json",
+  "source": "https://github.com/DomTheDeveloper/GratisAPI",
+  "api_count": 12,
+  "total_records": 360,
+  "apis": [
+    {
+      "api": "animals",
+      "title": "Animals",
+      "description": "Biological taxonomy of animals, from kingdom down to species.",
+      "emoji": "🦊",
+      "count": 20,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/index.json"
+    },
+    {
+      "api": "quotes",
+      "title": "Quotes",
+      "description": "Memorable quotes from famous people throughout history.",
+      "emoji": "💬",
+      "count": 30,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/quotes/index.json"
+    },
+    {
+      "api": "colors",
+      "title": "Colors",
+      "description": "Named web colors with hex, RGB and HSL values.",
+      "emoji": "🎨",
+      "count": 40,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/index.json"
+    },
+    {
+      "api": "countries",
+      "title": "Countries",
+      "description": "Countries of the world with capital, ISO codes, continent and currency.",
+      "emoji": "🌍",
+      "count": 28,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/index.json"
+    },
+    {
+      "api": "continents",
+      "title": "Continents",
+      "description": "The seven continents of Earth with area, population and country counts.",
+      "emoji": "🗺️",
+      "count": 7,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/index.json"
+    },
+    {
+      "api": "planets",
+      "title": "Planets",
+      "description": "Planets and dwarf planets of the Solar System with key physical data.",
+      "emoji": "🪐",
+      "count": 9,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/index.json"
+    },
+    {
+      "api": "elements",
+      "title": "Chemical Elements",
+      "description": "The 118 elements of the periodic table with symbol, atomic number, mass and category.",
+      "emoji": "🧪",
+      "count": 118,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/elements/index.json"
+    },
+    {
+      "api": "http-status",
+      "title": "HTTP Status Codes",
+      "description": "HTTP response status codes with their standard reason phrase and category.",
+      "emoji": "📡",
+      "count": 27,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/index.json"
+    },
+    {
+      "api": "currencies",
+      "title": "Currencies",
+      "description": "World currencies with ISO 4217 code, symbol and minor unit.",
+      "emoji": "💱",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json"
+    },
+    {
+      "api": "languages",
+      "title": "Languages",
+      "description": "Human languages with ISO 639-1 code, native name and writing direction.",
+      "emoji": "🗣️",
+      "count": 25,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/index.json"
+    },
+    {
+      "api": "zodiac",
+      "title": "Zodiac",
+      "description": "The twelve signs of the Western zodiac with dates, elements and symbols.",
+      "emoji": "♌",
+      "count": 12,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/index.json"
+    },
+    {
+      "api": "calendar",
+      "title": "Calendar",
+      "description": "Months of the year and days of the week with ordinal, length and abbreviation.",
+      "emoji": "📅",
+      "count": 19,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/index.json"
+    }
+  ]
+}

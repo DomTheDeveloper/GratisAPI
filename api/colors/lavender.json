@@ -1,0 +1,18 @@
+{
+  "id": "lavender",
+  "name": "Lavender",
+  "hex": "#E6E6FA",
+  "rgb": {
+    "r": 230,
+    "g": 230,
+    "b": 250
+  },
+  "rgb_string": "rgb(230, 230, 250)",
+  "hsl": {
+    "h": 240,
+    "s": 67,
+    "l": 94
+  },
+  "hsl_string": "hsl(240, 67%, 94%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/lavender.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "february",
+  "type": "month",
+  "name": "February",
+  "number": 2,
+  "days": 28,
+  "abbreviation": "Feb",
+  "season_northern": "Winter",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/february.json"
+}

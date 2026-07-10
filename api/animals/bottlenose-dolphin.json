@@ -1,0 +1,15 @@
+{
+  "id": "bottlenose-dolphin",
+  "common_name": "Common Bottlenose Dolphin",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Delphinidae",
+  "genus": "Tursiops",
+  "species": "Tursiops truncatus",
+  "conservation_status": "Least Concern",
+  "habitat": "Temperate and tropical oceans",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/bottlenose-dolphin.json"
+}

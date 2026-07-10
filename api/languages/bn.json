@@ -1,0 +1,9 @@
+{
+  "id": "bn",
+  "code": "bn",
+  "name": "Bengali",
+  "native_name": "বাংলা",
+  "direction": "ltr",
+  "speakers_millions": 284,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/bn.json"
+}

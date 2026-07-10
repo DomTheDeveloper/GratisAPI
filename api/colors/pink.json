@@ -1,0 +1,18 @@
+{
+  "id": "pink",
+  "name": "Pink",
+  "hex": "#FFC0CB",
+  "rgb": {
+    "r": 255,
+    "g": 192,
+    "b": 203
+  },
+  "rgb_string": "rgb(255, 192, 203)",
+  "hsl": {
+    "h": 350,
+    "s": 100,
+    "l": 88
+  },
+  "hsl_string": "hsl(350, 100%, 88%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/pink.json"
+}

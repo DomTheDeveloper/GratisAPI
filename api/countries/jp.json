@@ -1,0 +1,13 @@
+{
+  "id": "jp",
+  "name": "Japan",
+  "alpha2": "JP",
+  "alpha3": "JPN",
+  "capital": "Tokyo",
+  "continent": "Asia",
+  "currency_code": "JPY",
+  "currency": "Japanese Yen",
+  "population_millions": 125,
+  "flag_emoji": "🇯🇵",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/jp.json"
+}

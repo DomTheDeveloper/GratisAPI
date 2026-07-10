@@ -1,0 +1,18 @@
+{
+  "id": "salmon",
+  "name": "Salmon",
+  "hex": "#FA8072",
+  "rgb": {
+    "r": 250,
+    "g": 128,
+    "b": 114
+  },
+  "rgb_string": "rgb(250, 128, 114)",
+  "hsl": {
+    "h": 6,
+    "s": 93,
+    "l": 71
+  },
+  "hsl_string": "hsl(6, 93%, 71%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/salmon.json"
+}

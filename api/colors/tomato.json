@@ -1,0 +1,18 @@
+{
+  "id": "tomato",
+  "name": "Tomato",
+  "hex": "#FF6347",
+  "rgb": {
+    "r": 255,
+    "g": 99,
+    "b": 71
+  },
+  "rgb_string": "rgb(255, 99, 71)",
+  "hsl": {
+    "h": 9,
+    "s": 100,
+    "l": 64
+  },
+  "hsl_string": "hsl(9, 100%, 64%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/tomato.json"
+}

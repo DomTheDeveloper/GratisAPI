@@ -1,0 +1,10 @@
+{
+  "id": "oceania",
+  "name": "Oceania",
+  "area_km2": 8526000,
+  "population_millions": 45,
+  "countries": 14,
+  "largest_country": "Australia",
+  "highest_point": "Puncak Jaya",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/oceania.json"
+}

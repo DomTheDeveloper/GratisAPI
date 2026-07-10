@@ -1,0 +1,8 @@
+{
+  "id": "GBP",
+  "code": "GBP",
+  "name": "Pound Sterling",
+  "symbol": "£",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/GBP.json"
+}

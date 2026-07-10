@@ -1,0 +1,8 @@
+{
+  "id": "HKD",
+  "code": "HKD",
+  "name": "Hong Kong Dollar",
+  "symbol": "$",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/HKD.json"
+}

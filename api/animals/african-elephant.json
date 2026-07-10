@@ -1,0 +1,15 @@
+{
+  "id": "african-elephant",
+  "common_name": "African Bush Elephant",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Proboscidea",
+  "family": "Elephantidae",
+  "genus": "Loxodonta",
+  "species": "Loxodonta africana",
+  "conservation_status": "Endangered",
+  "habitat": "Savanna and forests",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/african-elephant.json"
+}

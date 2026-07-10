@@ -1,0 +1,18 @@
+{
+  "id": "khaki",
+  "name": "Khaki",
+  "hex": "#F0E68C",
+  "rgb": {
+    "r": 240,
+    "g": 230,
+    "b": 140
+  },
+  "rgb_string": "rgb(240, 230, 140)",
+  "hsl": {
+    "h": 54,
+    "s": 77,
+    "l": 75
+  },
+  "hsl_string": "hsl(54, 77%, 75%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/khaki.json"
+}

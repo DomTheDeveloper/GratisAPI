@@ -1,0 +1,14 @@
+{
+  "id": "venus",
+  "name": "Venus",
+  "type": "Terrestrial planet",
+  "order_from_sun": 2,
+  "mass_earths": 0.815,
+  "radius_km": 6052,
+  "moons": 0,
+  "orbital_period_days": 224.7,
+  "day_length_hours": 2802.0,
+  "mean_temp_c": 464,
+  "has_rings": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/venus.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "human",
+  "common_name": "Human",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hominidae",
+  "genus": "Homo",
+  "species": "Homo sapiens",
+  "conservation_status": "Least Concern",
+  "habitat": "Worldwide",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/human.json"
+}

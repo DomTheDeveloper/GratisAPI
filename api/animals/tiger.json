@@ -1,0 +1,15 @@
+{
+  "id": "tiger",
+  "common_name": "Tiger",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "species": "Panthera tigris",
+  "conservation_status": "Endangered",
+  "habitat": "Forests and grasslands",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/tiger.json"
+}

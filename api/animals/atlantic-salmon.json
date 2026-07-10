@@ -1,0 +1,15 @@
+{
+  "id": "atlantic-salmon",
+  "common_name": "Atlantic Salmon",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Actinopterygii",
+  "order": "Salmoniformes",
+  "family": "Salmonidae",
+  "genus": "Salmo",
+  "species": "Salmo salar",
+  "conservation_status": "Least Concern",
+  "habitat": "North Atlantic and rivers",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/atlantic-salmon.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "chimpanzee",
+  "common_name": "Chimpanzee",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hominidae",
+  "genus": "Pan",
+  "species": "Pan troglodytes",
+  "conservation_status": "Endangered",
+  "habitat": "Forests and savanna of Central Africa",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/chimpanzee.json"
+}

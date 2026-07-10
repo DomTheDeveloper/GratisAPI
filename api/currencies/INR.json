@@ -1,0 +1,8 @@
+{
+  "id": "INR",
+  "code": "INR",
+  "name": "Indian Rupee",
+  "symbol": "₹",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/INR.json"
+}

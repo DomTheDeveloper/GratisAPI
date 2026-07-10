@@ -1,0 +1,15 @@
+{
+  "id": "green-sea-turtle",
+  "common_name": "Green Sea Turtle",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Reptilia",
+  "order": "Testudines",
+  "family": "Cheloniidae",
+  "genus": "Chelonia",
+  "species": "Chelonia mydas",
+  "conservation_status": "Endangered",
+  "habitat": "Tropical and subtropical seas",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/green-sea-turtle.json"
+}

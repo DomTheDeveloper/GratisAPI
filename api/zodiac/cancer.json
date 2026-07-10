@@ -1,0 +1,10 @@
+{
+  "id": "cancer",
+  "name": "Cancer",
+  "symbol": "♋",
+  "element": "Water",
+  "ruling_planet": "Moon",
+  "date_range": "Jun 21 - Jul 22",
+  "quality": "Cardinal",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/cancer.json"
+}

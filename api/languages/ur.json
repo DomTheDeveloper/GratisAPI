@@ -1,0 +1,9 @@
+{
+  "id": "ur",
+  "code": "ur",
+  "name": "Urdu",
+  "native_name": "اردو",
+  "direction": "rtl",
+  "speakers_millions": 232,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ur.json"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "europe",
+  "name": "Europe",
+  "area_km2": 10180000,
+  "population_millions": 745,
+  "countries": 44,
+  "largest_country": "Russia",
+  "highest_point": "Mount Elbrus",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/europe.json"
+}

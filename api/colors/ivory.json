@@ -1,0 +1,18 @@
+{
+  "id": "ivory",
+  "name": "Ivory",
+  "hex": "#FFFFF0",
+  "rgb": {
+    "r": 255,
+    "g": 255,
+    "b": 240
+  },
+  "rgb_string": "rgb(255, 255, 240)",
+  "hsl": {
+    "h": 60,
+    "s": 100,
+    "l": 97
+  },
+  "hsl_string": "hsl(60, 100%, 97%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/ivory.json"
+}

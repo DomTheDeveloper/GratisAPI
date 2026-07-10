@@ -1,0 +1,15 @@
+{
+  "id": "king-cobra",
+  "common_name": "King Cobra",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Elapidae",
+  "genus": "Ophiophagus",
+  "species": "Ophiophagus hannah",
+  "conservation_status": "Vulnerable",
+  "habitat": "Forests of South and Southeast Asia",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/king-cobra.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "coral",
+  "name": "Coral",
+  "hex": "#FF7F50",
+  "rgb": {
+    "r": 255,
+    "g": 127,
+    "b": 80
+  },
+  "rgb_string": "rgb(255, 127, 80)",
+  "hsl": {
+    "h": 16,
+    "s": 100,
+    "l": 66
+  },
+  "hsl_string": "hsl(16, 100%, 66%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/coral.json"
+}

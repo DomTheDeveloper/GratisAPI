@@ -1,0 +1,13 @@
+{
+  "id": "ae",
+  "name": "United Arab Emirates",
+  "alpha2": "AE",
+  "alpha3": "ARE",
+  "capital": "Abu Dhabi",
+  "continent": "Asia",
+  "currency_code": "AED",
+  "currency": "UAE Dirham",
+  "population_millions": 10,
+  "flag_emoji": "🇦🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ae.json"
+}

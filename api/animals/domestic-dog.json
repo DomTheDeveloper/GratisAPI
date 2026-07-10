@@ -1,0 +1,15 @@
+{
+  "id": "domestic-dog",
+  "common_name": "Domestic Dog",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Canidae",
+  "genus": "Canis",
+  "species": "Canis familiaris",
+  "conservation_status": "Domesticated",
+  "habitat": "Worldwide, with humans",
+  "diet": "Omnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/domestic-dog.json"
+}

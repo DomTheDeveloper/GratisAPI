@@ -1,0 +1,18 @@
+{
+  "id": "forestgreen",
+  "name": "Forest Green",
+  "hex": "#228B22",
+  "rgb": {
+    "r": 34,
+    "g": 139,
+    "b": 34
+  },
+  "rgb_string": "rgb(34, 139, 34)",
+  "hsl": {
+    "h": 120,
+    "s": 61,
+    "l": 34
+  },
+  "hsl_string": "hsl(120, 61%, 34%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/forestgreen.json"
+}

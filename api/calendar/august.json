@@ -1,0 +1,10 @@
+{
+  "id": "august",
+  "type": "month",
+  "name": "August",
+  "number": 8,
+  "days": 31,
+  "abbreviation": "Aug",
+  "season_northern": "Summer",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/august.json"
+}

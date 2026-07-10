@@ -1,0 +1,10 @@
+{
+  "id": "antarctica",
+  "name": "Antarctica",
+  "area_km2": 14000000,
+  "population_millions": 0,
+  "countries": 0,
+  "largest_country": null,
+  "highest_point": "Vinson Massif",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/antarctica.json"
+}

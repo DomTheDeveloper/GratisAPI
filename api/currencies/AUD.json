@@ -1,0 +1,8 @@
+{
+  "id": "AUD",
+  "code": "AUD",
+  "name": "Australian Dollar",
+  "symbol": "$",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AUD.json"
+}

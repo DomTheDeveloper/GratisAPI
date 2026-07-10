@@ -1,0 +1,10 @@
+{
+  "id": "december",
+  "type": "month",
+  "name": "December",
+  "number": 12,
+  "days": 31,
+  "abbreviation": "Dec",
+  "season_northern": "Winter",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/december.json"
+}

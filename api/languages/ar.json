@@ -1,0 +1,9 @@
+{
+  "id": "ar",
+  "code": "ar",
+  "name": "Arabic",
+  "native_name": "العربية",
+  "direction": "rtl",
+  "speakers_millions": 422,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ar.json"
+}

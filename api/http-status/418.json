@@ -1,0 +1,7 @@
+{
+  "id": 418,
+  "code": 418,
+  "message": "I'm a teapot",
+  "category": "Client Error",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/418.json"
+}

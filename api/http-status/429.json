@@ -1,0 +1,7 @@
+{
+  "id": 429,
+  "code": 429,
+  "message": "Too Many Requests",
+  "category": "Client Error",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/429.json"
+}

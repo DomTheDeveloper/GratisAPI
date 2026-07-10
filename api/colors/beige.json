@@ -1,0 +1,18 @@
+{
+  "id": "beige",
+  "name": "Beige",
+  "hex": "#F5F5DC",
+  "rgb": {
+    "r": 245,
+    "g": 245,
+    "b": 220
+  },
+  "rgb_string": "rgb(245, 245, 220)",
+  "hsl": {
+    "h": 60,
+    "s": 56,
+    "l": 91
+  },
+  "hsl_string": "hsl(60, 56%, 91%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/beige.json"
+}

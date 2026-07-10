@@ -1,0 +1,41 @@
+"""Famous quotes from notable people."""
+
+META = {
+    "name": "quotes",
+    "title": "Quotes",
+    "description": "Memorable quotes from famous people throughout history.",
+    "emoji": "\U0001F4AC",
+}
+
+ITEMS = [
+    {"id": 1, "quote": "The only thing we have to fear is fear itself.", "author": "Franklin D. Roosevelt", "tags": ["courage", "politics"]},
+    {"id": 2, "quote": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.", "author": "Martin Luther King Jr.", "tags": ["equality", "hope"]},
+    {"id": 3, "quote": "That's one small step for man, one giant leap for mankind.", "author": "Neil Armstrong", "tags": ["science", "space"]},
+    {"id": 4, "quote": "The unexamined life is not worth living.", "author": "Socrates", "tags": ["philosophy", "life"]},
+    {"id": 5, "quote": "In the middle of difficulty lies opportunity.", "author": "Albert Einstein", "tags": ["opportunity", "inspiration"]},
+    {"id": 6, "quote": "Be the change that you wish to see in the world.", "author": "Mahatma Gandhi", "tags": ["change", "inspiration"]},
+    {"id": 7, "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.", "author": "Nelson Mandela", "tags": ["perseverance", "life"]},
+    {"id": 8, "quote": "To be, or not to be, that is the question.", "author": "William Shakespeare", "tags": ["literature", "philosophy"]},
+    {"id": 9, "quote": "I think, therefore I am.", "author": "Rene Descartes", "tags": ["philosophy"]},
+    {"id": 10, "quote": "Ask not what your country can do for you; ask what you can do for your country.", "author": "John F. Kennedy", "tags": ["politics", "service"]},
+    {"id": 11, "quote": "Imagination is more important than knowledge.", "author": "Albert Einstein", "tags": ["creativity", "science"]},
+    {"id": 12, "quote": "The journey of a thousand miles begins with a single step.", "author": "Lao Tzu", "tags": ["perseverance", "wisdom"]},
+    {"id": 13, "quote": "Life is what happens when you're busy making other plans.", "author": "John Lennon", "tags": ["life"]},
+    {"id": 14, "quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt", "tags": ["dreams", "inspiration"]},
+    {"id": 15, "quote": "It always seems impossible until it's done.", "author": "Nelson Mandela", "tags": ["perseverance", "inspiration"]},
+    {"id": 16, "quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs", "tags": ["work", "passion"]},
+    {"id": 17, "quote": "Whether you think you can or you think you can't, you're right.", "author": "Henry Ford", "tags": ["mindset"]},
+    {"id": 18, "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.", "author": "Martin Luther King Jr.", "tags": ["love", "peace"]},
+    {"id": 19, "quote": "An eye for an eye only ends up making the whole world blind.", "author": "Mahatma Gandhi", "tags": ["peace", "wisdom"]},
+    {"id": 20, "quote": "Knowledge speaks, but wisdom listens.", "author": "Jimi Hendrix", "tags": ["wisdom"]},
+    {"id": 21, "quote": "Not all those who wander are lost.", "author": "J.R.R. Tolkien", "tags": ["literature", "adventure"]},
+    {"id": 22, "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", "author": "Aristotle", "tags": ["philosophy", "excellence"]},
+    {"id": 23, "quote": "The best way to predict the future is to invent it.", "author": "Alan Kay", "tags": ["innovation", "future"]},
+    {"id": 24, "quote": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci", "tags": ["design", "wisdom"]},
+    {"id": 25, "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.", "author": "Thomas Edison", "tags": ["work", "science"]},
+    {"id": 26, "quote": "The important thing is not to stop questioning. Curiosity has its own reason for existing.", "author": "Albert Einstein", "tags": ["curiosity", "science"]},
+    {"id": 27, "quote": "Injustice anywhere is a threat to justice everywhere.", "author": "Martin Luther King Jr.", "tags": ["justice", "equality"]},
+    {"id": 28, "quote": "You must be the change you wish to see in the world.", "author": "Mahatma Gandhi", "tags": ["change"]},
+    {"id": 29, "quote": "Well done is better than well said.", "author": "Benjamin Franklin", "tags": ["action", "wisdom"]},
+    {"id": 30, "quote": "The measure of intelligence is the ability to change.", "author": "Albert Einstein", "tags": ["intelligence", "change"]},
+]

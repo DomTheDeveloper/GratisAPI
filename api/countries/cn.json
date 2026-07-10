@@ -1,0 +1,13 @@
+{
+  "id": "cn",
+  "name": "China",
+  "alpha2": "CN",
+  "alpha3": "CHN",
+  "capital": "Beijing",
+  "continent": "Asia",
+  "currency_code": "CNY",
+  "currency": "Renminbi",
+  "population_millions": 1412,
+  "flag_emoji": "🇨🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/cn.json"
+}

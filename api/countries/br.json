@@ -1,0 +1,13 @@
+{
+  "id": "br",
+  "name": "Brazil",
+  "alpha2": "BR",
+  "alpha3": "BRA",
+  "capital": "Brasilia",
+  "continent": "South America",
+  "currency_code": "BRL",
+  "currency": "Brazilian Real",
+  "population_millions": 214,
+  "flag_emoji": "🇧🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/br.json"
+}

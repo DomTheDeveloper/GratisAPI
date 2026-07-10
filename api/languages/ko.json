@@ -1,0 +1,9 @@
+{
+  "id": "ko",
+  "code": "ko",
+  "name": "Korean",
+  "native_name": "한국어",
+  "direction": "ltr",
+  "speakers_millions": 81,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ko.json"
+}

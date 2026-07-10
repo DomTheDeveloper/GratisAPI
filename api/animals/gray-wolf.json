@@ -1,0 +1,15 @@
+{
+  "id": "gray-wolf",
+  "common_name": "Gray Wolf",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Canidae",
+  "genus": "Canis",
+  "species": "Canis lupus",
+  "conservation_status": "Least Concern",
+  "habitat": "Forests, tundra and grasslands",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/gray-wolf.json"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fr",
+  "name": "France",
+  "alpha2": "FR",
+  "alpha3": "FRA",
+  "capital": "Paris",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 68,
+  "flag_emoji": "🇫🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/fr.json"
+}

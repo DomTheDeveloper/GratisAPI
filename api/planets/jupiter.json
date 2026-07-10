@@ -1,0 +1,14 @@
+{
+  "id": "jupiter",
+  "name": "Jupiter",
+  "type": "Gas giant",
+  "order_from_sun": 5,
+  "mass_earths": 317.8,
+  "radius_km": 69911,
+  "moons": 95,
+  "orbital_period_days": 4331.0,
+  "day_length_hours": 9.9,
+  "mean_temp_c": -110,
+  "has_rings": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/jupiter.json"
+}

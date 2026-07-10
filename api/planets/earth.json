@@ -1,0 +1,14 @@
+{
+  "id": "earth",
+  "name": "Earth",
+  "type": "Terrestrial planet",
+  "order_from_sun": 3,
+  "mass_earths": 1.0,
+  "radius_km": 6371,
+  "moons": 1,
+  "orbital_period_days": 365.25,
+  "day_length_hours": 24.0,
+  "mean_temp_c": 15,
+  "has_rings": false,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/earth.json"
+}

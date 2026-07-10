@@ -1,0 +1,13 @@
+{
+  "id": "ke",
+  "name": "Kenya",
+  "alpha2": "KE",
+  "alpha3": "KEN",
+  "capital": "Nairobi",
+  "continent": "Africa",
+  "currency_code": "KES",
+  "currency": "Kenyan Shilling",
+  "population_millions": 53,
+  "flag_emoji": "🇰🇪",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ke.json"
+}

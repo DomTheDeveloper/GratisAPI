@@ -1,0 +1,18 @@
+{
+  "id": "chocolate",
+  "name": "Chocolate",
+  "hex": "#D2691E",
+  "rgb": {
+    "r": 210,
+    "g": 105,
+    "b": 30
+  },
+  "rgb_string": "rgb(210, 105, 30)",
+  "hsl": {
+    "h": 25,
+    "s": 75,
+    "l": 47
+  },
+  "hsl_string": "hsl(25, 75%, 47%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/chocolate.json"
+}

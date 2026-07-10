@@ -1,0 +1,10 @@
+{
+  "id": "north-america",
+  "name": "North America",
+  "area_km2": 24709000,
+  "population_millions": 592,
+  "countries": 23,
+  "largest_country": "Canada",
+  "highest_point": "Denali",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/north-america.json"
+}

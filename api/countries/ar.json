@@ -1,0 +1,13 @@
+{
+  "id": "ar",
+  "name": "Argentina",
+  "alpha2": "AR",
+  "alpha3": "ARG",
+  "capital": "Buenos Aires",
+  "continent": "South America",
+  "currency_code": "ARS",
+  "currency": "Argentine Peso",
+  "population_millions": 46,
+  "flag_emoji": "🇦🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ar.json"
+}

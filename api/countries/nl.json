@@ -1,0 +1,13 @@
+{
+  "id": "nl",
+  "name": "Netherlands",
+  "alpha2": "NL",
+  "alpha3": "NLD",
+  "capital": "Amsterdam",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 17,
+  "flag_emoji": "🇳🇱",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/nl.json"
+}

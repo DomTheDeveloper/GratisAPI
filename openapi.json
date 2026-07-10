@@ -1,0 +1,597 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "GratisAPI",
+    "version": "1.0.0",
+    "summary": "A completely free, static, open-data API.",
+    "description": "GratisAPI is served entirely from static JSON files on GitHub Pages. Every path below resolves to a real file you can `curl` or `fetch` directly — no authentication, no rate limits, no cost. Only HTTP GET is supported.",
+    "license": {
+      "name": "GPL-2.0-or-later",
+      "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+    },
+    "contact": {
+      "name": "GratisAPI on GitHub",
+      "url": "https://github.com/DomTheDeveloper/GratisAPI"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://domthedeveloper.github.io/GratisAPI",
+      "description": "GitHub Pages (production)"
+    }
+  ],
+  "tags": [
+    {
+      "name": "meta",
+      "description": "Discovery and metadata endpoints."
+    },
+    {
+      "name": "animals",
+      "description": "Biological taxonomy of animals, from kingdom down to species."
+    },
+    {
+      "name": "quotes",
+      "description": "Memorable quotes from famous people throughout history."
+    },
+    {
+      "name": "colors",
+      "description": "Named web colors with hex, RGB and HSL values."
+    },
+    {
+      "name": "countries",
+      "description": "Countries of the world with capital, ISO codes, continent and currency."
+    },
+    {
+      "name": "continents",
+      "description": "The seven continents of Earth with area, population and country counts."
+    },
+    {
+      "name": "planets",
+      "description": "Planets and dwarf planets of the Solar System with key physical data."
+    },
+    {
+      "name": "elements",
+      "description": "The 118 elements of the periodic table with symbol, atomic number, mass and category."
+    },
+    {
+      "name": "http-status",
+      "description": "HTTP response status codes with their standard reason phrase and category."
+    },
+    {
+      "name": "currencies",
+      "description": "World currencies with ISO 4217 code, symbol and minor unit."
+    },
+    {
+      "name": "languages",
+      "description": "Human languages with ISO 639-1 code, native name and writing direction."
+    },
+    {
+      "name": "zodiac",
+      "description": "The twelve signs of the Western zodiac with dates, elements and symbols."
+    },
+    {
+      "name": "calendar",
+      "description": "Months of the year and days of the week with ordinal, length and abbreviation."
+    }
+  ],
+  "paths": {
+    "/api/index.json": {
+      "get": {
+        "summary": "List all available APIs",
+        "operationId": "listApis",
+        "tags": [
+          "meta"
+        ],
+        "responses": {
+          "200": {
+            "description": "Directory of every GratisAPI dataset."
+          }
+        }
+      }
+    },
+    "/api/animals/index.json": {
+      "get": {
+        "summary": "List all animals",
+        "operationId": "list_animals",
+        "tags": [
+          "animals"
+        ],
+        "responses": {
+          "200": {
+            "description": "All animals records."
+          }
+        }
+      }
+    },
+    "/api/animals/{id}.json": {
+      "get": {
+        "summary": "Get a single animals record by id",
+        "operationId": "get_animals",
+        "tags": [
+          "animals"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/quotes/index.json": {
+      "get": {
+        "summary": "List all quotes",
+        "operationId": "list_quotes",
+        "tags": [
+          "quotes"
+        ],
+        "responses": {
+          "200": {
+            "description": "All quotes records."
+          }
+        }
+      }
+    },
+    "/api/quotes/{id}.json": {
+      "get": {
+        "summary": "Get a single quotes record by id",
+        "operationId": "get_quotes",
+        "tags": [
+          "quotes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/colors/index.json": {
+      "get": {
+        "summary": "List all colors",
+        "operationId": "list_colors",
+        "tags": [
+          "colors"
+        ],
+        "responses": {
+          "200": {
+            "description": "All colors records."
+          }
+        }
+      }
+    },
+    "/api/colors/{id}.json": {
+      "get": {
+        "summary": "Get a single colors record by id",
+        "operationId": "get_colors",
+        "tags": [
+          "colors"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/countries/index.json": {
+      "get": {
+        "summary": "List all countries",
+        "operationId": "list_countries",
+        "tags": [
+          "countries"
+        ],
+        "responses": {
+          "200": {
+            "description": "All countries records."
+          }
+        }
+      }
+    },
+    "/api/countries/{id}.json": {
+      "get": {
+        "summary": "Get a single countries record by id",
+        "operationId": "get_countries",
+        "tags": [
+          "countries"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/continents/index.json": {
+      "get": {
+        "summary": "List all continents",
+        "operationId": "list_continents",
+        "tags": [
+          "continents"
+        ],
+        "responses": {
+          "200": {
+            "description": "All continents records."
+          }
+        }
+      }
+    },
+    "/api/continents/{id}.json": {
+      "get": {
+        "summary": "Get a single continents record by id",
+        "operationId": "get_continents",
+        "tags": [
+          "continents"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/planets/index.json": {
+      "get": {
+        "summary": "List all planets",
+        "operationId": "list_planets",
+        "tags": [
+          "planets"
+        ],
+        "responses": {
+          "200": {
+            "description": "All planets records."
+          }
+        }
+      }
+    },
+    "/api/planets/{id}.json": {
+      "get": {
+        "summary": "Get a single planets record by id",
+        "operationId": "get_planets",
+        "tags": [
+          "planets"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/elements/index.json": {
+      "get": {
+        "summary": "List all chemical elements",
+        "operationId": "list_elements",
+        "tags": [
+          "elements"
+        ],
+        "responses": {
+          "200": {
+            "description": "All chemical elements records."
+          }
+        }
+      }
+    },
+    "/api/elements/{id}.json": {
+      "get": {
+        "summary": "Get a single chemical elements record by id",
+        "operationId": "get_elements",
+        "tags": [
+          "elements"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/http-status/index.json": {
+      "get": {
+        "summary": "List all http status codes",
+        "operationId": "list_http_status",
+        "tags": [
+          "http-status"
+        ],
+        "responses": {
+          "200": {
+            "description": "All http status codes records."
+          }
+        }
+      }
+    },
+    "/api/http-status/{id}.json": {
+      "get": {
+        "summary": "Get a single http status codes record by id",
+        "operationId": "get_http_status",
+        "tags": [
+          "http-status"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/currencies/index.json": {
+      "get": {
+        "summary": "List all currencies",
+        "operationId": "list_currencies",
+        "tags": [
+          "currencies"
+        ],
+        "responses": {
+          "200": {
+            "description": "All currencies records."
+          }
+        }
+      }
+    },
+    "/api/currencies/{id}.json": {
+      "get": {
+        "summary": "Get a single currencies record by id",
+        "operationId": "get_currencies",
+        "tags": [
+          "currencies"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/languages/index.json": {
+      "get": {
+        "summary": "List all languages",
+        "operationId": "list_languages",
+        "tags": [
+          "languages"
+        ],
+        "responses": {
+          "200": {
+            "description": "All languages records."
+          }
+        }
+      }
+    },
+    "/api/languages/{id}.json": {
+      "get": {
+        "summary": "Get a single languages record by id",
+        "operationId": "get_languages",
+        "tags": [
+          "languages"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/zodiac/index.json": {
+      "get": {
+        "summary": "List all zodiac",
+        "operationId": "list_zodiac",
+        "tags": [
+          "zodiac"
+        ],
+        "responses": {
+          "200": {
+            "description": "All zodiac records."
+          }
+        }
+      }
+    },
+    "/api/zodiac/{id}.json": {
+      "get": {
+        "summary": "Get a single zodiac record by id",
+        "operationId": "get_zodiac",
+        "tags": [
+          "zodiac"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/calendar/index.json": {
+      "get": {
+        "summary": "List all calendar",
+        "operationId": "list_calendar",
+        "tags": [
+          "calendar"
+        ],
+        "responses": {
+          "200": {
+            "description": "All calendar records."
+          }
+        }
+      }
+    },
+    "/api/calendar/{id}.json": {
+      "get": {
+        "summary": "Get a single calendar record by id",
+        "operationId": "get_calendar",
+        "tags": [
+          "calendar"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    }
+  }
+}

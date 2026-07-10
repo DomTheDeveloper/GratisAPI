@@ -1,0 +1,8 @@
+{
+  "id": "PLN",
+  "code": "PLN",
+  "name": "Polish Zloty",
+  "symbol": "zł",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PLN.json"
+}

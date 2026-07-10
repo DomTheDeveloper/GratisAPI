@@ -1,0 +1,9 @@
+{
+  "id": "es",
+  "code": "es",
+  "name": "Spanish",
+  "native_name": "Español",
+  "direction": "ltr",
+  "speakers_millions": 559,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/es.json"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "green",
+  "name": "Green",
+  "hex": "#008000",
+  "rgb": {
+    "r": 0,
+    "g": 128,
+    "b": 0
+  },
+  "rgb_string": "rgb(0, 128, 0)",
+  "hsl": {
+    "h": 120,
+    "s": 100,
+    "l": 25
+  },
+  "hsl_string": "hsl(120, 100%, 25%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/green.json"
+}

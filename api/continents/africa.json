@@ -1,0 +1,10 @@
+{
+  "id": "africa",
+  "name": "Africa",
+  "area_km2": 30370000,
+  "population_millions": 1394,
+  "countries": 54,
+  "largest_country": "Algeria",
+  "highest_point": "Mount Kilimanjaro",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/africa.json"
+}

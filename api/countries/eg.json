@@ -1,0 +1,13 @@
+{
+  "id": "eg",
+  "name": "Egypt",
+  "alpha2": "EG",
+  "alpha3": "EGY",
+  "capital": "Cairo",
+  "continent": "Africa",
+  "currency_code": "EGP",
+  "currency": "Egyptian Pound",
+  "population_millions": 109,
+  "flag_emoji": "🇪🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/eg.json"
+}

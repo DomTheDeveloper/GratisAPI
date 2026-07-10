@@ -1,0 +1,15 @@
+{
+  "id": "western-honey-bee",
+  "common_name": "Western Honey Bee",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Insecta",
+  "order": "Hymenoptera",
+  "family": "Apidae",
+  "genus": "Apis",
+  "species": "Apis mellifera",
+  "conservation_status": "Not Evaluated",
+  "habitat": "Worldwide, near flowering plants",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/western-honey-bee.json"
+}

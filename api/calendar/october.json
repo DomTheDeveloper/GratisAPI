@@ -1,0 +1,10 @@
+{
+  "id": "october",
+  "type": "month",
+  "name": "October",
+  "number": 10,
+  "days": 31,
+  "abbreviation": "Oct",
+  "season_northern": "Autumn",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/october.json"
+}

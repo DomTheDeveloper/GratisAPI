@@ -1,0 +1,13 @@
+{
+  "id": "es",
+  "name": "Spain",
+  "alpha2": "ES",
+  "alpha3": "ESP",
+  "capital": "Madrid",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 47,
+  "flag_emoji": "🇪🇸",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/es.json"
+}

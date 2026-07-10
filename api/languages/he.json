@@ -1,0 +1,9 @@
+{
+  "id": "he",
+  "code": "he",
+  "name": "Hebrew",
+  "native_name": "עברית",
+  "direction": "rtl",
+  "speakers_millions": 9,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/he.json"
+}

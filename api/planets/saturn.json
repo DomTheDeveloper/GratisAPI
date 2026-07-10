@@ -1,0 +1,14 @@
+{
+  "id": "saturn",
+  "name": "Saturn",
+  "type": "Gas giant",
+  "order_from_sun": 6,
+  "mass_earths": 95.2,
+  "radius_km": 58232,
+  "moons": 146,
+  "orbital_period_days": 10747.0,
+  "day_length_hours": 10.7,
+  "mean_temp_c": -140,
+  "has_rings": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/saturn.json"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "neptune",
+  "name": "Neptune",
+  "type": "Ice giant",
+  "order_from_sun": 8,
+  "mass_earths": 17.1,
+  "radius_km": 24622,
+  "moons": 16,
+  "orbital_period_days": 59800.0,
+  "day_length_hours": 16.1,
+  "mean_temp_c": -200,
+  "has_rings": true,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/planets/neptune.json"
+}

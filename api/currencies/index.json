@@ -1,0 +1,222 @@
+{
+  "api": "currencies",
+  "title": "Currencies",
+  "description": "World currencies with ISO 4217 code, symbol and minor unit.",
+  "emoji": "💱",
+  "license": "GPL-2.0-or-later",
+  "count": 25,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/currencies/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/currencies/{id}.json"
+  },
+  "fields": [
+    "code",
+    "id",
+    "minor_unit",
+    "name",
+    "symbol"
+  ],
+  "results": [
+    {
+      "id": "USD",
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/USD.json"
+    },
+    {
+      "id": "EUR",
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/EUR.json"
+    },
+    {
+      "id": "JPY",
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/JPY.json"
+    },
+    {
+      "id": "GBP",
+      "code": "GBP",
+      "name": "Pound Sterling",
+      "symbol": "£",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/GBP.json"
+    },
+    {
+      "id": "AUD",
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AUD.json"
+    },
+    {
+      "id": "CAD",
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CAD.json"
+    },
+    {
+      "id": "CHF",
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "Fr",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CHF.json"
+    },
+    {
+      "id": "CNY",
+      "code": "CNY",
+      "name": "Renminbi",
+      "symbol": "¥",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/CNY.json"
+    },
+    {
+      "id": "HKD",
+      "code": "HKD",
+      "name": "Hong Kong Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/HKD.json"
+    },
+    {
+      "id": "NZD",
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NZD.json"
+    },
+    {
+      "id": "SEK",
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "symbol": "kr",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/SEK.json"
+    },
+    {
+      "id": "KRW",
+      "code": "KRW",
+      "name": "South Korean Won",
+      "symbol": "₩",
+      "minor_unit": 0,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/KRW.json"
+    },
+    {
+      "id": "SGD",
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/SGD.json"
+    },
+    {
+      "id": "NOK",
+      "code": "NOK",
+      "name": "Norwegian Krone",
+      "symbol": "kr",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/NOK.json"
+    },
+    {
+      "id": "MXN",
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "symbol": "$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/MXN.json"
+    },
+    {
+      "id": "INR",
+      "code": "INR",
+      "name": "Indian Rupee",
+      "symbol": "₹",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/INR.json"
+    },
+    {
+      "id": "RUB",
+      "code": "RUB",
+      "name": "Russian Ruble",
+      "symbol": "₽",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/RUB.json"
+    },
+    {
+      "id": "ZAR",
+      "code": "ZAR",
+      "name": "South African Rand",
+      "symbol": "R",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/ZAR.json"
+    },
+    {
+      "id": "BRL",
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "symbol": "R$",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/BRL.json"
+    },
+    {
+      "id": "TRY",
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "symbol": "₺",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/TRY.json"
+    },
+    {
+      "id": "AED",
+      "code": "AED",
+      "name": "UAE Dirham",
+      "symbol": "د.إ",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/AED.json"
+    },
+    {
+      "id": "SAR",
+      "code": "SAR",
+      "name": "Saudi Riyal",
+      "symbol": "﷼",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/SAR.json"
+    },
+    {
+      "id": "PLN",
+      "code": "PLN",
+      "name": "Polish Zloty",
+      "symbol": "zł",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/PLN.json"
+    },
+    {
+      "id": "THB",
+      "code": "THB",
+      "name": "Thai Baht",
+      "symbol": "฿",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/THB.json"
+    },
+    {
+      "id": "IDR",
+      "code": "IDR",
+      "name": "Indonesian Rupiah",
+      "symbol": "Rp",
+      "minor_unit": 2,
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/IDR.json"
+    }
+  ]
+}

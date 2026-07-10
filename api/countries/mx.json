@@ -1,0 +1,13 @@
+{
+  "id": "mx",
+  "name": "Mexico",
+  "alpha2": "MX",
+  "alpha3": "MEX",
+  "capital": "Mexico City",
+  "continent": "North America",
+  "currency_code": "MXN",
+  "currency": "Mexican Peso",
+  "population_millions": 129,
+  "flag_emoji": "🇲🇽",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/mx.json"
+}

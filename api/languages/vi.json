@@ -1,0 +1,9 @@
+{
+  "id": "vi",
+  "code": "vi",
+  "name": "Vietnamese",
+  "native_name": "Tiếng Việt",
+  "direction": "ltr",
+  "speakers_millions": 85,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/vi.json"
+}

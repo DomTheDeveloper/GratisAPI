@@ -1,0 +1,18 @@
+{
+  "id": "steelblue",
+  "name": "Steel Blue",
+  "hex": "#4682B4",
+  "rgb": {
+    "r": 70,
+    "g": 130,
+    "b": 180
+  },
+  "rgb_string": "rgb(70, 130, 180)",
+  "hsl": {
+    "h": 207,
+    "s": 44,
+    "l": 49
+  },
+  "hsl_string": "hsl(207, 44%, 49%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/steelblue.json"
+}

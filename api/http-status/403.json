@@ -1,0 +1,7 @@
+{
+  "id": 403,
+  "code": 403,
+  "message": "Forbidden",
+  "category": "Client Error",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/http-status/403.json"
+}

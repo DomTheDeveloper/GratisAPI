@@ -1,0 +1,18 @@
+{
+  "id": "royalblue",
+  "name": "Royal Blue",
+  "hex": "#4169E1",
+  "rgb": {
+    "r": 65,
+    "g": 105,
+    "b": 225
+  },
+  "rgb_string": "rgb(65, 105, 225)",
+  "hsl": {
+    "h": 225,
+    "s": 73,
+    "l": 57
+  },
+  "hsl_string": "hsl(225, 73%, 57%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/royalblue.json"
+}

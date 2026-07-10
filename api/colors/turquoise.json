@@ -1,0 +1,18 @@
+{
+  "id": "turquoise",
+  "name": "Turquoise",
+  "hex": "#40E0D0",
+  "rgb": {
+    "r": 64,
+    "g": 224,
+    "b": 208
+  },
+  "rgb_string": "rgb(64, 224, 208)",
+  "hsl": {
+    "h": 174,
+    "s": 72,
+    "l": 56
+  },
+  "hsl_string": "hsl(174, 72%, 56%)",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/colors/turquoise.json"
+}

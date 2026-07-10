@@ -1,0 +1,10 @@
+{
+  "id": "july",
+  "type": "month",
+  "name": "July",
+  "number": 7,
+  "days": 31,
+  "abbreviation": "Jul",
+  "season_northern": "Summer",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/calendar/july.json"
+}

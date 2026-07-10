@@ -1,0 +1,15 @@
+{
+  "id": "red-kangaroo",
+  "common_name": "Red Kangaroo",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Diprotodontia",
+  "family": "Macropodidae",
+  "genus": "Osphranter",
+  "species": "Osphranter rufus",
+  "conservation_status": "Least Concern",
+  "habitat": "Arid and semi-arid Australia",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/red-kangaroo.json"
+}

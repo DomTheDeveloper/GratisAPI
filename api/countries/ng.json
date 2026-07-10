@@ -1,0 +1,13 @@
+{
+  "id": "ng",
+  "name": "Nigeria",
+  "alpha2": "NG",
+  "alpha3": "NGA",
+  "capital": "Abuja",
+  "continent": "Africa",
+  "currency_code": "NGN",
+  "currency": "Nigerian Naira",
+  "population_millions": 213,
+  "flag_emoji": "🇳🇬",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/ng.json"
+}

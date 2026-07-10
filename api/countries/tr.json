@@ -1,0 +1,13 @@
+{
+  "id": "tr",
+  "name": "Turkey",
+  "alpha2": "TR",
+  "alpha3": "TUR",
+  "capital": "Ankara",
+  "continent": "Asia",
+  "currency_code": "TRY",
+  "currency": "Turkish Lira",
+  "population_millions": 85,
+  "flag_emoji": "🇹🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/tr.json"
+}

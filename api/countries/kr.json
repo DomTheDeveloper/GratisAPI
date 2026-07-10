@@ -1,0 +1,13 @@
+{
+  "id": "kr",
+  "name": "South Korea",
+  "alpha2": "KR",
+  "alpha3": "KOR",
+  "capital": "Seoul",
+  "continent": "Asia",
+  "currency_code": "KRW",
+  "currency": "South Korean Won",
+  "population_millions": 52,
+  "flag_emoji": "🇰🇷",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/kr.json"
+}

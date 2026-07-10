@@ -1,0 +1,10 @@
+{
+  "id": "asia",
+  "name": "Asia",
+  "area_km2": 44579000,
+  "population_millions": 4694,
+  "countries": 48,
+  "largest_country": "Russia",
+  "highest_point": "Mount Everest",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/continents/asia.json"
+}

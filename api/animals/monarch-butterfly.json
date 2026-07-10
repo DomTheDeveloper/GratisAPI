@@ -1,0 +1,15 @@
+{
+  "id": "monarch-butterfly",
+  "common_name": "Monarch Butterfly",
+  "kingdom": "Animalia",
+  "phylum": "Arthropoda",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Nymphalidae",
+  "genus": "Danaus",
+  "species": "Danaus plexippus",
+  "conservation_status": "Endangered",
+  "habitat": "Meadows and fields of the Americas",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/monarch-butterfly.json"
+}

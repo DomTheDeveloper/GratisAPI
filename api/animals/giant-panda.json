@@ -1,0 +1,15 @@
+{
+  "id": "giant-panda",
+  "common_name": "Giant Panda",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Ailuropoda",
+  "species": "Ailuropoda melanoleuca",
+  "conservation_status": "Vulnerable",
+  "habitat": "Bamboo forests of central China",
+  "diet": "Herbivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/giant-panda.json"
+}

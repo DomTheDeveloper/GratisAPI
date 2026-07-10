@@ -1,0 +1,9 @@
+{
+  "id": "ru",
+  "code": "ru",
+  "name": "Russian",
+  "native_name": "Русский",
+  "direction": "ltr",
+  "speakers_millions": 255,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ru.json"
+}

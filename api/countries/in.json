@@ -1,0 +1,13 @@
+{
+  "id": "in",
+  "name": "India",
+  "alpha2": "IN",
+  "alpha3": "IND",
+  "capital": "New Delhi",
+  "continent": "Asia",
+  "currency_code": "INR",
+  "currency": "Indian Rupee",
+  "population_millions": 1408,
+  "flag_emoji": "🇮🇳",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/in.json"
+}

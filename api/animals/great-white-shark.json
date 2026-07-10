@@ -1,0 +1,15 @@
+{
+  "id": "great-white-shark",
+  "common_name": "Great White Shark",
+  "kingdom": "Animalia",
+  "phylum": "Chordata",
+  "class": "Chondrichthyes",
+  "order": "Lamniformes",
+  "family": "Lamnidae",
+  "genus": "Carcharodon",
+  "species": "Carcharodon carcharias",
+  "conservation_status": "Vulnerable",
+  "habitat": "Coastal surface waters",
+  "diet": "Carnivore",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/animals/great-white-shark.json"
+}

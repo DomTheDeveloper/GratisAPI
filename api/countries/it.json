@@ -1,0 +1,13 @@
+{
+  "id": "it",
+  "name": "Italy",
+  "alpha2": "IT",
+  "alpha3": "ITA",
+  "capital": "Rome",
+  "continent": "Europe",
+  "currency_code": "EUR",
+  "currency": "Euro",
+  "population_millions": 59,
+  "flag_emoji": "🇮🇹",
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/countries/it.json"
+}

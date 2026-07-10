@@ -1,0 +1,9 @@
+{
+  "id": "ja",
+  "code": "ja",
+  "name": "Japanese",
+  "native_name": "日本語",
+  "direction": "ltr",
+  "speakers_millions": 125,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/languages/ja.json"
+}

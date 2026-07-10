@@ -1,0 +1,8 @@
+{
+  "id": "IDR",
+  "code": "IDR",
+  "name": "Indonesian Rupiah",
+  "symbol": "Rp",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/IDR.json"
+}

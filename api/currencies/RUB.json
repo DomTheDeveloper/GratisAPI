@@ -1,0 +1,8 @@
+{
+  "id": "RUB",
+  "code": "RUB",
+  "name": "Russian Ruble",
+  "symbol": "₽",
+  "minor_unit": 2,
+  "url": "https://domthedeveloper.github.io/GratisAPI/api/currencies/RUB.json"
+}

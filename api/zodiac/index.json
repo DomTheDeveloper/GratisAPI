@@ -1,0 +1,144 @@
+{
+  "api": "zodiac",
+  "title": "Zodiac",
+  "description": "The twelve signs of the Western zodiac with dates, elements and symbols.",
+  "emoji": "♌",
+  "license": "GPL-2.0-or-later",
+  "count": 12,
+  "self": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/index.json",
+  "endpoints": {
+    "list": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/index.json",
+    "item": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/{id}.json"
+  },
+  "fields": [
+    "date_range",
+    "element",
+    "id",
+    "name",
+    "quality",
+    "ruling_planet",
+    "symbol"
+  ],
+  "results": [
+    {
+      "id": "aries",
+      "name": "Aries",
+      "symbol": "♈",
+      "element": "Fire",
+      "ruling_planet": "Mars",
+      "date_range": "Mar 21 - Apr 19",
+      "quality": "Cardinal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/aries.json"
+    },
+    {
+      "id": "taurus",
+      "name": "Taurus",
+      "symbol": "♉",
+      "element": "Earth",
+      "ruling_planet": "Venus",
+      "date_range": "Apr 20 - May 20",
+      "quality": "Fixed",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/taurus.json"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "symbol": "♊",
+      "element": "Air",
+      "ruling_planet": "Mercury",
+      "date_range": "May 21 - Jun 20",
+      "quality": "Mutable",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/gemini.json"
+    },
+    {
+      "id": "cancer",
+      "name": "Cancer",
+      "symbol": "♋",
+      "element": "Water",
+      "ruling_planet": "Moon",
+      "date_range": "Jun 21 - Jul 22",
+      "quality": "Cardinal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/cancer.json"
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "symbol": "♌",
+      "element": "Fire",
+      "ruling_planet": "Sun",
+      "date_range": "Jul 23 - Aug 22",
+      "quality": "Fixed",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/leo.json"
+    },
+    {
+      "id": "virgo",
+      "name": "Virgo",
+      "symbol": "♍",
+      "element": "Earth",
+      "ruling_planet": "Mercury",
+      "date_range": "Aug 23 - Sep 22",
+      "quality": "Mutable",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/virgo.json"
+    },
+    {
+      "id": "libra",
+      "name": "Libra",
+      "symbol": "♎",
+      "element": "Air",
+      "ruling_planet": "Venus",
+      "date_range": "Sep 23 - Oct 22",
+      "quality": "Cardinal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/libra.json"
+    },
+    {
+      "id": "scorpio",
+      "name": "Scorpio",
+      "symbol": "♏",
+      "element": "Water",
+      "ruling_planet": "Pluto",
+      "date_range": "Oct 23 - Nov 21",
+      "quality": "Fixed",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/scorpio.json"
+    },
+    {
+      "id": "sagittarius",
+      "name": "Sagittarius",
+      "symbol": "♐",
+      "element": "Fire",
+      "ruling_planet": "Jupiter",
+      "date_range": "Nov 22 - Dec 21",
+      "quality": "Mutable",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/sagittarius.json"
+    },
+    {
+      "id": "capricorn",
+      "name": "Capricorn",
+      "symbol": "♑",
+      "element": "Earth",
+      "ruling_planet": "Saturn",
+      "date_range": "Dec 22 - Jan 19",
+      "quality": "Cardinal",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/capricorn.json"
+    },
+    {
+      "id": "aquarius",
+      "name": "Aquarius",
+      "symbol": "♒",
+      "element": "Air",
+      "ruling_planet": "Uranus",
+      "date_range": "Jan 20 - Feb 18",
+      "quality": "Fixed",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/aquarius.json"
+    },
+    {
+      "id": "pisces",
+      "name": "Pisces",
+      "symbol": "♓",
+      "element": "Water",
+      "ruling_planet": "Neptune",
+      "date_range": "Feb 19 - Mar 20",
+      "quality": "Mutable",
+      "url": "https://domthedeveloper.github.io/GratisAPI/api/zodiac/pisces.json"
+    }
+  ]
+}
