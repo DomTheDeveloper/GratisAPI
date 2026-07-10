@@ -73,7 +73,7 @@
     );
   }
 
-  function selectApi(api) {
+  function selectApi(api, scroll) {
     state.current = api;
     var list = document.getElementById("explorer-list");
     list.innerHTML = "";
@@ -89,8 +89,11 @@
       });
     });
     loadRecord(api, api.url, "index");
-    var exp = document.querySelector(".explorer");
-    if (exp) exp.scrollIntoView({ behavior: "smooth", block: "center" });
+    // Only scroll when the user explicitly picks an API — never on initial load.
+    if (scroll) {
+      var exp = document.querySelector(".explorer");
+      if (exp) exp.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
   }
 
   // ---------- API cards + search ----------
@@ -104,7 +107,7 @@
       el("p", null, [api.description]),
       el("span", { class: "count" }, [fmt(api.count) + " records"]),
     ]);
-    card.onclick = function (e) { e.preventDefault(); selectApi(api); };
+    card.onclick = function (e) { e.preventDefault(); selectApi(api, true); };
     return card;
   }
 
@@ -168,7 +171,7 @@
         el("pre", { class: "surprise-json", html: highlight(pretty) }),
         el("div", { class: "surprise-actions" }, [
           (function () { var b = el("button", { class: "btn primary", text: "🎲 Again" }); b.onclick = surprise; return b; })(),
-          (function () { var b = el("button", { class: "btn ghost", text: "Open in explorer →" }); b.onclick = function () { selectApi(api); }; return b; })(),
+          (function () { var b = el("button", { class: "btn ghost", text: "Open in explorer →" }); b.onclick = function () { selectApi(api, true); }; return b; })(),
         ]),
       ]));
     }).catch(function () { out.innerHTML = '<span class="surprise-loading">Hmm, try again.</span>'; });

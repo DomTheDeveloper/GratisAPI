@@ -43,9 +43,9 @@
         <tr><td>Static hosting &amp; bandwidth</td><td>Cloudflare Pages (free plan)</td><td>$0 — unlimited</td></tr>
         <tr><td>Source &amp; CI/CD</td><td>GitHub + GitHub Actions (public repo)</td><td>$0</td></tr>
         <tr><td>TLS, CDN, DDoS protection</td><td>Cloudflare (included)</td><td>$0</td></tr>
-        <tr><td>Domain name</td><td><code>gratisapi.com</code></td><td>≈ $10–12 / year</td></tr>
-        <tr><td>Dynamic API compute <em>(planned)</em></td><td>Cloudflare Workers</td><td>free to 100k req/day, then cents</td></tr>
-        <tr><td class="tot"><strong>To run the site today</strong></td><td class="tot">just the domain</td><td class="tot"><strong>≈ $1 / month</strong></td></tr>
+        <tr><td>Domain name</td><td><code>gratisapi.com</code></td><td>$14 / year</td></tr>
+        <tr><td>Dynamic API compute <em>(planned)</em></td><td>Cloudflare Workers</td><td>free tier, then $0.30 / extra 100k requests</td></tr>
+        <tr><td class="tot"><strong>To run the site today</strong></td><td class="tot">just the domain</td><td class="tot"><strong>$14 / year</strong></td></tr>
       </tbody>
     </table>
     </div>
@@ -58,20 +58,20 @@
     static: popularity doesn't cost anything.</p>
 
     <h2>The only real cost: the domain</h2>
-    <p>The one fixed expense is the domain, <code>gratisapi.com</code> — on the order of
-    <strong>ten dollars a year</strong>. It's paid out of pocket, and it's small enough that it
-    will simply keep being paid. That's the entire recurring cost of running GratisAPI as it
-    exists today: inexpensive to build, inexpensive to keep alive.</p>
+    <p>The one fixed expense is the domain, <code>gratisapi.com</code> — <strong>$14 a
+    year</strong>. It's paid out of pocket, and it's small enough that it will simply keep
+    being paid. That's the entire recurring cost of running GratisAPI as it exists today:
+    inexpensive to build, inexpensive to keep alive.</p>
 
     <h2>The dynamic API changes the math</h2>
     <p>A <a href="../tech/">dynamic API</a> (filtering, search, <code>random</code>) needs code
     to run on each request, and that's the first time a request costs anything. On Cloudflare
-    Workers the <strong>first 100,000 requests a day are free</strong>, and beyond that it's a
-    fraction of a dollar per 100,000 — cheap, but no longer zero. The genuinely hard part isn't
-    the price; it's that <strong>without API keys it's difficult to stop a single heavy user
-    from spending the whole budget</strong>. Keys would fix it, but keys are exactly what we
-    promised never to require. Squaring that circle — generous limits, no accounts — is the
-    interesting problem we're working on.</p>
+    Workers there's a free allotment, and beyond it each additional block of requests costs
+    <strong>about $0.30 per extra 100,000 requests</strong> — cheap, but no longer zero. The
+    genuinely hard part isn't the price; it's that <strong>without API keys it's difficult to
+    stop a single heavy user from spending the whole budget</strong>. Keys would fix it, but
+    keys are exactly what we promised never to require. Squaring that circle — generous limits,
+    no accounts — is the interesting problem we're working on.</p>
 
     <div class="callout">
       <h3>How it's funded</h3>
@@ -89,9 +89,9 @@
     option, not a fallback — see the <a href="../about/">build guide</a>.</p>
 
     <h2>The bottom line</h2>
-    <p>GratisAPI costs about a dollar a month to run and nothing to use. It's cheap by design,
-    open by license, and free by promise — and every one of those three is what keeps the other
-    two honest.</p>
+    <p>GratisAPI costs $14 a year to run — one domain renewal — and nothing to use. It's cheap
+    by design, open by license, and free by promise, and every one of those three is what keeps
+    the other two honest.</p>
 
     <p style="margin-top:30px"><a class="btn primary" href="../#apis">Start using it — free</a>
     &nbsp; <a class="btn ghost" href="../tech/">The technicals →</a></p>
