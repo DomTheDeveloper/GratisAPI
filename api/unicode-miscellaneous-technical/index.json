@@ -1,0 +1,2327 @@
+{
+  "api": "unicode-miscellaneous-technical",
+  "title": "Miscellaneous Technical",
+  "description": "The Miscellaneous Technical Unicode block (U+2300..U+23FF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 256,
+  "self": "https://gratisapi.com/api/unicode-miscellaneous-technical/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-miscellaneous-technical/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u2300",
+      "codepoint": 8960,
+      "hex": "U+2300",
+      "char": "⌀",
+      "name": "DIAMETER SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2300"
+    },
+    {
+      "id": "u2301",
+      "codepoint": 8961,
+      "hex": "U+2301",
+      "char": "⌁",
+      "name": "ELECTRIC ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2301"
+    },
+    {
+      "id": "u2302",
+      "codepoint": 8962,
+      "hex": "U+2302",
+      "char": "⌂",
+      "name": "HOUSE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2302"
+    },
+    {
+      "id": "u2303",
+      "codepoint": 8963,
+      "hex": "U+2303",
+      "char": "⌃",
+      "name": "UP ARROWHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2303"
+    },
+    {
+      "id": "u2304",
+      "codepoint": 8964,
+      "hex": "U+2304",
+      "char": "⌄",
+      "name": "DOWN ARROWHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2304"
+    },
+    {
+      "id": "u2305",
+      "codepoint": 8965,
+      "hex": "U+2305",
+      "char": "⌅",
+      "name": "PROJECTIVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2305"
+    },
+    {
+      "id": "u2306",
+      "codepoint": 8966,
+      "hex": "U+2306",
+      "char": "⌆",
+      "name": "PERSPECTIVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2306"
+    },
+    {
+      "id": "u2307",
+      "codepoint": 8967,
+      "hex": "U+2307",
+      "char": "⌇",
+      "name": "WAVY LINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2307"
+    },
+    {
+      "id": "u2308",
+      "codepoint": 8968,
+      "hex": "U+2308",
+      "char": "⌈",
+      "name": "LEFT CEILING",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2308"
+    },
+    {
+      "id": "u2309",
+      "codepoint": 8969,
+      "hex": "U+2309",
+      "char": "⌉",
+      "name": "RIGHT CEILING",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2309"
+    },
+    {
+      "id": "u230A",
+      "codepoint": 8970,
+      "hex": "U+230A",
+      "char": "⌊",
+      "name": "LEFT FLOOR",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u230A"
+    },
+    {
+      "id": "u230B",
+      "codepoint": 8971,
+      "hex": "U+230B",
+      "char": "⌋",
+      "name": "RIGHT FLOOR",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u230B"
+    },
+    {
+      "id": "u230C",
+      "codepoint": 8972,
+      "hex": "U+230C",
+      "char": "⌌",
+      "name": "BOTTOM RIGHT CROP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u230C"
+    },
+    {
+      "id": "u230D",
+      "codepoint": 8973,
+      "hex": "U+230D",
+      "char": "⌍",
+      "name": "BOTTOM LEFT CROP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u230D"
+    },
+    {
+      "id": "u230E",
+      "codepoint": 8974,
+      "hex": "U+230E",
+      "char": "⌎",
+      "name": "TOP RIGHT CROP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u230E"
+    },
+    {
+      "id": "u230F",
+      "codepoint": 8975,
+      "hex": "U+230F",
+      "char": "⌏",
+      "name": "TOP LEFT CROP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u230F"
+    },
+    {
+      "id": "u2310",
+      "codepoint": 8976,
+      "hex": "U+2310",
+      "char": "⌐",
+      "name": "REVERSED NOT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2310"
+    },
+    {
+      "id": "u2311",
+      "codepoint": 8977,
+      "hex": "U+2311",
+      "char": "⌑",
+      "name": "SQUARE LOZENGE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2311"
+    },
+    {
+      "id": "u2312",
+      "codepoint": 8978,
+      "hex": "U+2312",
+      "char": "⌒",
+      "name": "ARC",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2312"
+    },
+    {
+      "id": "u2313",
+      "codepoint": 8979,
+      "hex": "U+2313",
+      "char": "⌓",
+      "name": "SEGMENT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2313"
+    },
+    {
+      "id": "u2314",
+      "codepoint": 8980,
+      "hex": "U+2314",
+      "char": "⌔",
+      "name": "SECTOR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2314"
+    },
+    {
+      "id": "u2315",
+      "codepoint": 8981,
+      "hex": "U+2315",
+      "char": "⌕",
+      "name": "TELEPHONE RECORDER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2315"
+    },
+    {
+      "id": "u2316",
+      "codepoint": 8982,
+      "hex": "U+2316",
+      "char": "⌖",
+      "name": "POSITION INDICATOR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2316"
+    },
+    {
+      "id": "u2317",
+      "codepoint": 8983,
+      "hex": "U+2317",
+      "char": "⌗",
+      "name": "VIEWDATA SQUARE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2317"
+    },
+    {
+      "id": "u2318",
+      "codepoint": 8984,
+      "hex": "U+2318",
+      "char": "⌘",
+      "name": "PLACE OF INTEREST SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2318"
+    },
+    {
+      "id": "u2319",
+      "codepoint": 8985,
+      "hex": "U+2319",
+      "char": "⌙",
+      "name": "TURNED NOT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2319"
+    },
+    {
+      "id": "u231A",
+      "codepoint": 8986,
+      "hex": "U+231A",
+      "char": "⌚",
+      "name": "WATCH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u231A"
+    },
+    {
+      "id": "u231B",
+      "codepoint": 8987,
+      "hex": "U+231B",
+      "char": "⌛",
+      "name": "HOURGLASS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u231B"
+    },
+    {
+      "id": "u231C",
+      "codepoint": 8988,
+      "hex": "U+231C",
+      "char": "⌜",
+      "name": "TOP LEFT CORNER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u231C"
+    },
+    {
+      "id": "u231D",
+      "codepoint": 8989,
+      "hex": "U+231D",
+      "char": "⌝",
+      "name": "TOP RIGHT CORNER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u231D"
+    },
+    {
+      "id": "u231E",
+      "codepoint": 8990,
+      "hex": "U+231E",
+      "char": "⌞",
+      "name": "BOTTOM LEFT CORNER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u231E"
+    },
+    {
+      "id": "u231F",
+      "codepoint": 8991,
+      "hex": "U+231F",
+      "char": "⌟",
+      "name": "BOTTOM RIGHT CORNER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u231F"
+    },
+    {
+      "id": "u2320",
+      "codepoint": 8992,
+      "hex": "U+2320",
+      "char": "⌠",
+      "name": "TOP HALF INTEGRAL",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2320"
+    },
+    {
+      "id": "u2321",
+      "codepoint": 8993,
+      "hex": "U+2321",
+      "char": "⌡",
+      "name": "BOTTOM HALF INTEGRAL",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2321"
+    },
+    {
+      "id": "u2322",
+      "codepoint": 8994,
+      "hex": "U+2322",
+      "char": "⌢",
+      "name": "FROWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2322"
+    },
+    {
+      "id": "u2323",
+      "codepoint": 8995,
+      "hex": "U+2323",
+      "char": "⌣",
+      "name": "SMILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2323"
+    },
+    {
+      "id": "u2324",
+      "codepoint": 8996,
+      "hex": "U+2324",
+      "char": "⌤",
+      "name": "UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2324"
+    },
+    {
+      "id": "u2325",
+      "codepoint": 8997,
+      "hex": "U+2325",
+      "char": "⌥",
+      "name": "OPTION KEY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2325"
+    },
+    {
+      "id": "u2326",
+      "codepoint": 8998,
+      "hex": "U+2326",
+      "char": "⌦",
+      "name": "ERASE TO THE RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2326"
+    },
+    {
+      "id": "u2327",
+      "codepoint": 8999,
+      "hex": "U+2327",
+      "char": "⌧",
+      "name": "X IN A RECTANGLE BOX",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2327"
+    },
+    {
+      "id": "u2328",
+      "codepoint": 9000,
+      "hex": "U+2328",
+      "char": "⌨",
+      "name": "KEYBOARD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2328"
+    },
+    {
+      "id": "u2329",
+      "codepoint": 9001,
+      "hex": "U+2329",
+      "char": "〈",
+      "name": "LEFT-POINTING ANGLE BRACKET",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2329"
+    },
+    {
+      "id": "u232A",
+      "codepoint": 9002,
+      "hex": "U+232A",
+      "char": "〉",
+      "name": "RIGHT-POINTING ANGLE BRACKET",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u232A"
+    },
+    {
+      "id": "u232B",
+      "codepoint": 9003,
+      "hex": "U+232B",
+      "char": "⌫",
+      "name": "ERASE TO THE LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u232B"
+    },
+    {
+      "id": "u232C",
+      "codepoint": 9004,
+      "hex": "U+232C",
+      "char": "⌬",
+      "name": "BENZENE RING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u232C"
+    },
+    {
+      "id": "u232D",
+      "codepoint": 9005,
+      "hex": "U+232D",
+      "char": "⌭",
+      "name": "CYLINDRICITY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u232D"
+    },
+    {
+      "id": "u232E",
+      "codepoint": 9006,
+      "hex": "U+232E",
+      "char": "⌮",
+      "name": "ALL AROUND-PROFILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u232E"
+    },
+    {
+      "id": "u232F",
+      "codepoint": 9007,
+      "hex": "U+232F",
+      "char": "⌯",
+      "name": "SYMMETRY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u232F"
+    },
+    {
+      "id": "u2330",
+      "codepoint": 9008,
+      "hex": "U+2330",
+      "char": "⌰",
+      "name": "TOTAL RUNOUT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2330"
+    },
+    {
+      "id": "u2331",
+      "codepoint": 9009,
+      "hex": "U+2331",
+      "char": "⌱",
+      "name": "DIMENSION ORIGIN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2331"
+    },
+    {
+      "id": "u2332",
+      "codepoint": 9010,
+      "hex": "U+2332",
+      "char": "⌲",
+      "name": "CONICAL TAPER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2332"
+    },
+    {
+      "id": "u2333",
+      "codepoint": 9011,
+      "hex": "U+2333",
+      "char": "⌳",
+      "name": "SLOPE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2333"
+    },
+    {
+      "id": "u2334",
+      "codepoint": 9012,
+      "hex": "U+2334",
+      "char": "⌴",
+      "name": "COUNTERBORE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2334"
+    },
+    {
+      "id": "u2335",
+      "codepoint": 9013,
+      "hex": "U+2335",
+      "char": "⌵",
+      "name": "COUNTERSINK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2335"
+    },
+    {
+      "id": "u2336",
+      "codepoint": 9014,
+      "hex": "U+2336",
+      "char": "⌶",
+      "name": "APL FUNCTIONAL SYMBOL I-BEAM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2336"
+    },
+    {
+      "id": "u2337",
+      "codepoint": 9015,
+      "hex": "U+2337",
+      "char": "⌷",
+      "name": "APL FUNCTIONAL SYMBOL SQUISH QUAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2337"
+    },
+    {
+      "id": "u2338",
+      "codepoint": 9016,
+      "hex": "U+2338",
+      "char": "⌸",
+      "name": "APL FUNCTIONAL SYMBOL QUAD EQUAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2338"
+    },
+    {
+      "id": "u2339",
+      "codepoint": 9017,
+      "hex": "U+2339",
+      "char": "⌹",
+      "name": "APL FUNCTIONAL SYMBOL QUAD DIVIDE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2339"
+    },
+    {
+      "id": "u233A",
+      "codepoint": 9018,
+      "hex": "U+233A",
+      "char": "⌺",
+      "name": "APL FUNCTIONAL SYMBOL QUAD DIAMOND",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u233A"
+    },
+    {
+      "id": "u233B",
+      "codepoint": 9019,
+      "hex": "U+233B",
+      "char": "⌻",
+      "name": "APL FUNCTIONAL SYMBOL QUAD JOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u233B"
+    },
+    {
+      "id": "u233C",
+      "codepoint": 9020,
+      "hex": "U+233C",
+      "char": "⌼",
+      "name": "APL FUNCTIONAL SYMBOL QUAD CIRCLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u233C"
+    },
+    {
+      "id": "u233D",
+      "codepoint": 9021,
+      "hex": "U+233D",
+      "char": "⌽",
+      "name": "APL FUNCTIONAL SYMBOL CIRCLE STILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u233D"
+    },
+    {
+      "id": "u233E",
+      "codepoint": 9022,
+      "hex": "U+233E",
+      "char": "⌾",
+      "name": "APL FUNCTIONAL SYMBOL CIRCLE JOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u233E"
+    },
+    {
+      "id": "u233F",
+      "codepoint": 9023,
+      "hex": "U+233F",
+      "char": "⌿",
+      "name": "APL FUNCTIONAL SYMBOL SLASH BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u233F"
+    },
+    {
+      "id": "u2340",
+      "codepoint": 9024,
+      "hex": "U+2340",
+      "char": "⍀",
+      "name": "APL FUNCTIONAL SYMBOL BACKSLASH BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2340"
+    },
+    {
+      "id": "u2341",
+      "codepoint": 9025,
+      "hex": "U+2341",
+      "char": "⍁",
+      "name": "APL FUNCTIONAL SYMBOL QUAD SLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2341"
+    },
+    {
+      "id": "u2342",
+      "codepoint": 9026,
+      "hex": "U+2342",
+      "char": "⍂",
+      "name": "APL FUNCTIONAL SYMBOL QUAD BACKSLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2342"
+    },
+    {
+      "id": "u2343",
+      "codepoint": 9027,
+      "hex": "U+2343",
+      "char": "⍃",
+      "name": "APL FUNCTIONAL SYMBOL QUAD LESS-THAN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2343"
+    },
+    {
+      "id": "u2344",
+      "codepoint": 9028,
+      "hex": "U+2344",
+      "char": "⍄",
+      "name": "APL FUNCTIONAL SYMBOL QUAD GREATER-THAN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2344"
+    },
+    {
+      "id": "u2345",
+      "codepoint": 9029,
+      "hex": "U+2345",
+      "char": "⍅",
+      "name": "APL FUNCTIONAL SYMBOL LEFTWARDS VANE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2345"
+    },
+    {
+      "id": "u2346",
+      "codepoint": 9030,
+      "hex": "U+2346",
+      "char": "⍆",
+      "name": "APL FUNCTIONAL SYMBOL RIGHTWARDS VANE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2346"
+    },
+    {
+      "id": "u2347",
+      "codepoint": 9031,
+      "hex": "U+2347",
+      "char": "⍇",
+      "name": "APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2347"
+    },
+    {
+      "id": "u2348",
+      "codepoint": 9032,
+      "hex": "U+2348",
+      "char": "⍈",
+      "name": "APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2348"
+    },
+    {
+      "id": "u2349",
+      "codepoint": 9033,
+      "hex": "U+2349",
+      "char": "⍉",
+      "name": "APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2349"
+    },
+    {
+      "id": "u234A",
+      "codepoint": 9034,
+      "hex": "U+234A",
+      "char": "⍊",
+      "name": "APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u234A"
+    },
+    {
+      "id": "u234B",
+      "codepoint": 9035,
+      "hex": "U+234B",
+      "char": "⍋",
+      "name": "APL FUNCTIONAL SYMBOL DELTA STILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u234B"
+    },
+    {
+      "id": "u234C",
+      "codepoint": 9036,
+      "hex": "U+234C",
+      "char": "⍌",
+      "name": "APL FUNCTIONAL SYMBOL QUAD DOWN CARET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u234C"
+    },
+    {
+      "id": "u234D",
+      "codepoint": 9037,
+      "hex": "U+234D",
+      "char": "⍍",
+      "name": "APL FUNCTIONAL SYMBOL QUAD DELTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u234D"
+    },
+    {
+      "id": "u234E",
+      "codepoint": 9038,
+      "hex": "U+234E",
+      "char": "⍎",
+      "name": "APL FUNCTIONAL SYMBOL DOWN TACK JOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u234E"
+    },
+    {
+      "id": "u234F",
+      "codepoint": 9039,
+      "hex": "U+234F",
+      "char": "⍏",
+      "name": "APL FUNCTIONAL SYMBOL UPWARDS VANE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u234F"
+    },
+    {
+      "id": "u2350",
+      "codepoint": 9040,
+      "hex": "U+2350",
+      "char": "⍐",
+      "name": "APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2350"
+    },
+    {
+      "id": "u2351",
+      "codepoint": 9041,
+      "hex": "U+2351",
+      "char": "⍑",
+      "name": "APL FUNCTIONAL SYMBOL UP TACK OVERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2351"
+    },
+    {
+      "id": "u2352",
+      "codepoint": 9042,
+      "hex": "U+2352",
+      "char": "⍒",
+      "name": "APL FUNCTIONAL SYMBOL DEL STILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2352"
+    },
+    {
+      "id": "u2353",
+      "codepoint": 9043,
+      "hex": "U+2353",
+      "char": "⍓",
+      "name": "APL FUNCTIONAL SYMBOL QUAD UP CARET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2353"
+    },
+    {
+      "id": "u2354",
+      "codepoint": 9044,
+      "hex": "U+2354",
+      "char": "⍔",
+      "name": "APL FUNCTIONAL SYMBOL QUAD DEL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2354"
+    },
+    {
+      "id": "u2355",
+      "codepoint": 9045,
+      "hex": "U+2355",
+      "char": "⍕",
+      "name": "APL FUNCTIONAL SYMBOL UP TACK JOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2355"
+    },
+    {
+      "id": "u2356",
+      "codepoint": 9046,
+      "hex": "U+2356",
+      "char": "⍖",
+      "name": "APL FUNCTIONAL SYMBOL DOWNWARDS VANE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2356"
+    },
+    {
+      "id": "u2357",
+      "codepoint": 9047,
+      "hex": "U+2357",
+      "char": "⍗",
+      "name": "APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2357"
+    },
+    {
+      "id": "u2358",
+      "codepoint": 9048,
+      "hex": "U+2358",
+      "char": "⍘",
+      "name": "APL FUNCTIONAL SYMBOL QUOTE UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2358"
+    },
+    {
+      "id": "u2359",
+      "codepoint": 9049,
+      "hex": "U+2359",
+      "char": "⍙",
+      "name": "APL FUNCTIONAL SYMBOL DELTA UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2359"
+    },
+    {
+      "id": "u235A",
+      "codepoint": 9050,
+      "hex": "U+235A",
+      "char": "⍚",
+      "name": "APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u235A"
+    },
+    {
+      "id": "u235B",
+      "codepoint": 9051,
+      "hex": "U+235B",
+      "char": "⍛",
+      "name": "APL FUNCTIONAL SYMBOL JOT UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u235B"
+    },
+    {
+      "id": "u235C",
+      "codepoint": 9052,
+      "hex": "U+235C",
+      "char": "⍜",
+      "name": "APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u235C"
+    },
+    {
+      "id": "u235D",
+      "codepoint": 9053,
+      "hex": "U+235D",
+      "char": "⍝",
+      "name": "APL FUNCTIONAL SYMBOL UP SHOE JOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u235D"
+    },
+    {
+      "id": "u235E",
+      "codepoint": 9054,
+      "hex": "U+235E",
+      "char": "⍞",
+      "name": "APL FUNCTIONAL SYMBOL QUOTE QUAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u235E"
+    },
+    {
+      "id": "u235F",
+      "codepoint": 9055,
+      "hex": "U+235F",
+      "char": "⍟",
+      "name": "APL FUNCTIONAL SYMBOL CIRCLE STAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u235F"
+    },
+    {
+      "id": "u2360",
+      "codepoint": 9056,
+      "hex": "U+2360",
+      "char": "⍠",
+      "name": "APL FUNCTIONAL SYMBOL QUAD COLON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2360"
+    },
+    {
+      "id": "u2361",
+      "codepoint": 9057,
+      "hex": "U+2361",
+      "char": "⍡",
+      "name": "APL FUNCTIONAL SYMBOL UP TACK DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2361"
+    },
+    {
+      "id": "u2362",
+      "codepoint": 9058,
+      "hex": "U+2362",
+      "char": "⍢",
+      "name": "APL FUNCTIONAL SYMBOL DEL DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2362"
+    },
+    {
+      "id": "u2363",
+      "codepoint": 9059,
+      "hex": "U+2363",
+      "char": "⍣",
+      "name": "APL FUNCTIONAL SYMBOL STAR DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2363"
+    },
+    {
+      "id": "u2364",
+      "codepoint": 9060,
+      "hex": "U+2364",
+      "char": "⍤",
+      "name": "APL FUNCTIONAL SYMBOL JOT DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2364"
+    },
+    {
+      "id": "u2365",
+      "codepoint": 9061,
+      "hex": "U+2365",
+      "char": "⍥",
+      "name": "APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2365"
+    },
+    {
+      "id": "u2366",
+      "codepoint": 9062,
+      "hex": "U+2366",
+      "char": "⍦",
+      "name": "APL FUNCTIONAL SYMBOL DOWN SHOE STILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2366"
+    },
+    {
+      "id": "u2367",
+      "codepoint": 9063,
+      "hex": "U+2367",
+      "char": "⍧",
+      "name": "APL FUNCTIONAL SYMBOL LEFT SHOE STILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2367"
+    },
+    {
+      "id": "u2368",
+      "codepoint": 9064,
+      "hex": "U+2368",
+      "char": "⍨",
+      "name": "APL FUNCTIONAL SYMBOL TILDE DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2368"
+    },
+    {
+      "id": "u2369",
+      "codepoint": 9065,
+      "hex": "U+2369",
+      "char": "⍩",
+      "name": "APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2369"
+    },
+    {
+      "id": "u236A",
+      "codepoint": 9066,
+      "hex": "U+236A",
+      "char": "⍪",
+      "name": "APL FUNCTIONAL SYMBOL COMMA BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u236A"
+    },
+    {
+      "id": "u236B",
+      "codepoint": 9067,
+      "hex": "U+236B",
+      "char": "⍫",
+      "name": "APL FUNCTIONAL SYMBOL DEL TILDE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u236B"
+    },
+    {
+      "id": "u236C",
+      "codepoint": 9068,
+      "hex": "U+236C",
+      "char": "⍬",
+      "name": "APL FUNCTIONAL SYMBOL ZILDE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u236C"
+    },
+    {
+      "id": "u236D",
+      "codepoint": 9069,
+      "hex": "U+236D",
+      "char": "⍭",
+      "name": "APL FUNCTIONAL SYMBOL STILE TILDE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u236D"
+    },
+    {
+      "id": "u236E",
+      "codepoint": 9070,
+      "hex": "U+236E",
+      "char": "⍮",
+      "name": "APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u236E"
+    },
+    {
+      "id": "u236F",
+      "codepoint": 9071,
+      "hex": "U+236F",
+      "char": "⍯",
+      "name": "APL FUNCTIONAL SYMBOL QUAD NOT EQUAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u236F"
+    },
+    {
+      "id": "u2370",
+      "codepoint": 9072,
+      "hex": "U+2370",
+      "char": "⍰",
+      "name": "APL FUNCTIONAL SYMBOL QUAD QUESTION",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2370"
+    },
+    {
+      "id": "u2371",
+      "codepoint": 9073,
+      "hex": "U+2371",
+      "char": "⍱",
+      "name": "APL FUNCTIONAL SYMBOL DOWN CARET TILDE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2371"
+    },
+    {
+      "id": "u2372",
+      "codepoint": 9074,
+      "hex": "U+2372",
+      "char": "⍲",
+      "name": "APL FUNCTIONAL SYMBOL UP CARET TILDE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2372"
+    },
+    {
+      "id": "u2373",
+      "codepoint": 9075,
+      "hex": "U+2373",
+      "char": "⍳",
+      "name": "APL FUNCTIONAL SYMBOL IOTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2373"
+    },
+    {
+      "id": "u2374",
+      "codepoint": 9076,
+      "hex": "U+2374",
+      "char": "⍴",
+      "name": "APL FUNCTIONAL SYMBOL RHO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2374"
+    },
+    {
+      "id": "u2375",
+      "codepoint": 9077,
+      "hex": "U+2375",
+      "char": "⍵",
+      "name": "APL FUNCTIONAL SYMBOL OMEGA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2375"
+    },
+    {
+      "id": "u2376",
+      "codepoint": 9078,
+      "hex": "U+2376",
+      "char": "⍶",
+      "name": "APL FUNCTIONAL SYMBOL ALPHA UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2376"
+    },
+    {
+      "id": "u2377",
+      "codepoint": 9079,
+      "hex": "U+2377",
+      "char": "⍷",
+      "name": "APL FUNCTIONAL SYMBOL EPSILON UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2377"
+    },
+    {
+      "id": "u2378",
+      "codepoint": 9080,
+      "hex": "U+2378",
+      "char": "⍸",
+      "name": "APL FUNCTIONAL SYMBOL IOTA UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2378"
+    },
+    {
+      "id": "u2379",
+      "codepoint": 9081,
+      "hex": "U+2379",
+      "char": "⍹",
+      "name": "APL FUNCTIONAL SYMBOL OMEGA UNDERBAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2379"
+    },
+    {
+      "id": "u237A",
+      "codepoint": 9082,
+      "hex": "U+237A",
+      "char": "⍺",
+      "name": "APL FUNCTIONAL SYMBOL ALPHA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u237A"
+    },
+    {
+      "id": "u237B",
+      "codepoint": 9083,
+      "hex": "U+237B",
+      "char": "⍻",
+      "name": "NOT CHECK MARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u237B"
+    },
+    {
+      "id": "u237C",
+      "codepoint": 9084,
+      "hex": "U+237C",
+      "char": "⍼",
+      "name": "RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u237C"
+    },
+    {
+      "id": "u237D",
+      "codepoint": 9085,
+      "hex": "U+237D",
+      "char": "⍽",
+      "name": "SHOULDERED OPEN BOX",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u237D"
+    },
+    {
+      "id": "u237E",
+      "codepoint": 9086,
+      "hex": "U+237E",
+      "char": "⍾",
+      "name": "BELL SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u237E"
+    },
+    {
+      "id": "u237F",
+      "codepoint": 9087,
+      "hex": "U+237F",
+      "char": "⍿",
+      "name": "VERTICAL LINE WITH MIDDLE DOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u237F"
+    },
+    {
+      "id": "u2380",
+      "codepoint": 9088,
+      "hex": "U+2380",
+      "char": "⎀",
+      "name": "INSERTION SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2380"
+    },
+    {
+      "id": "u2381",
+      "codepoint": 9089,
+      "hex": "U+2381",
+      "char": "⎁",
+      "name": "CONTINUOUS UNDERLINE SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2381"
+    },
+    {
+      "id": "u2382",
+      "codepoint": 9090,
+      "hex": "U+2382",
+      "char": "⎂",
+      "name": "DISCONTINUOUS UNDERLINE SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2382"
+    },
+    {
+      "id": "u2383",
+      "codepoint": 9091,
+      "hex": "U+2383",
+      "char": "⎃",
+      "name": "EMPHASIS SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2383"
+    },
+    {
+      "id": "u2384",
+      "codepoint": 9092,
+      "hex": "U+2384",
+      "char": "⎄",
+      "name": "COMPOSITION SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2384"
+    },
+    {
+      "id": "u2385",
+      "codepoint": 9093,
+      "hex": "U+2385",
+      "char": "⎅",
+      "name": "WHITE SQUARE WITH CENTRE VERTICAL LINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2385"
+    },
+    {
+      "id": "u2386",
+      "codepoint": 9094,
+      "hex": "U+2386",
+      "char": "⎆",
+      "name": "ENTER SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2386"
+    },
+    {
+      "id": "u2387",
+      "codepoint": 9095,
+      "hex": "U+2387",
+      "char": "⎇",
+      "name": "ALTERNATIVE KEY SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2387"
+    },
+    {
+      "id": "u2388",
+      "codepoint": 9096,
+      "hex": "U+2388",
+      "char": "⎈",
+      "name": "HELM SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2388"
+    },
+    {
+      "id": "u2389",
+      "codepoint": 9097,
+      "hex": "U+2389",
+      "char": "⎉",
+      "name": "CIRCLED HORIZONTAL BAR WITH NOTCH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2389"
+    },
+    {
+      "id": "u238A",
+      "codepoint": 9098,
+      "hex": "U+238A",
+      "char": "⎊",
+      "name": "CIRCLED TRIANGLE DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u238A"
+    },
+    {
+      "id": "u238B",
+      "codepoint": 9099,
+      "hex": "U+238B",
+      "char": "⎋",
+      "name": "BROKEN CIRCLE WITH NORTHWEST ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u238B"
+    },
+    {
+      "id": "u238C",
+      "codepoint": 9100,
+      "hex": "U+238C",
+      "char": "⎌",
+      "name": "UNDO SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u238C"
+    },
+    {
+      "id": "u238D",
+      "codepoint": 9101,
+      "hex": "U+238D",
+      "char": "⎍",
+      "name": "MONOSTABLE SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u238D"
+    },
+    {
+      "id": "u238E",
+      "codepoint": 9102,
+      "hex": "U+238E",
+      "char": "⎎",
+      "name": "HYSTERESIS SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u238E"
+    },
+    {
+      "id": "u238F",
+      "codepoint": 9103,
+      "hex": "U+238F",
+      "char": "⎏",
+      "name": "OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u238F"
+    },
+    {
+      "id": "u2390",
+      "codepoint": 9104,
+      "hex": "U+2390",
+      "char": "⎐",
+      "name": "OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2390"
+    },
+    {
+      "id": "u2391",
+      "codepoint": 9105,
+      "hex": "U+2391",
+      "char": "⎑",
+      "name": "PASSIVE-PULL-DOWN-OUTPUT SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2391"
+    },
+    {
+      "id": "u2392",
+      "codepoint": 9106,
+      "hex": "U+2392",
+      "char": "⎒",
+      "name": "PASSIVE-PULL-UP-OUTPUT SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2392"
+    },
+    {
+      "id": "u2393",
+      "codepoint": 9107,
+      "hex": "U+2393",
+      "char": "⎓",
+      "name": "DIRECT CURRENT SYMBOL FORM TWO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2393"
+    },
+    {
+      "id": "u2394",
+      "codepoint": 9108,
+      "hex": "U+2394",
+      "char": "⎔",
+      "name": "SOFTWARE-FUNCTION SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2394"
+    },
+    {
+      "id": "u2395",
+      "codepoint": 9109,
+      "hex": "U+2395",
+      "char": "⎕",
+      "name": "APL FUNCTIONAL SYMBOL QUAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2395"
+    },
+    {
+      "id": "u2396",
+      "codepoint": 9110,
+      "hex": "U+2396",
+      "char": "⎖",
+      "name": "DECIMAL SEPARATOR KEY SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2396"
+    },
+    {
+      "id": "u2397",
+      "codepoint": 9111,
+      "hex": "U+2397",
+      "char": "⎗",
+      "name": "PREVIOUS PAGE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2397"
+    },
+    {
+      "id": "u2398",
+      "codepoint": 9112,
+      "hex": "U+2398",
+      "char": "⎘",
+      "name": "NEXT PAGE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2398"
+    },
+    {
+      "id": "u2399",
+      "codepoint": 9113,
+      "hex": "U+2399",
+      "char": "⎙",
+      "name": "PRINT SCREEN SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u2399"
+    },
+    {
+      "id": "u239A",
+      "codepoint": 9114,
+      "hex": "U+239A",
+      "char": "⎚",
+      "name": "CLEAR SCREEN SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u239A"
+    },
+    {
+      "id": "u239B",
+      "codepoint": 9115,
+      "hex": "U+239B",
+      "char": "⎛",
+      "name": "LEFT PARENTHESIS UPPER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u239B"
+    },
+    {
+      "id": "u239C",
+      "codepoint": 9116,
+      "hex": "U+239C",
+      "char": "⎜",
+      "name": "LEFT PARENTHESIS EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u239C"
+    },
+    {
+      "id": "u239D",
+      "codepoint": 9117,
+      "hex": "U+239D",
+      "char": "⎝",
+      "name": "LEFT PARENTHESIS LOWER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u239D"
+    },
+    {
+      "id": "u239E",
+      "codepoint": 9118,
+      "hex": "U+239E",
+      "char": "⎞",
+      "name": "RIGHT PARENTHESIS UPPER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u239E"
+    },
+    {
+      "id": "u239F",
+      "codepoint": 9119,
+      "hex": "U+239F",
+      "char": "⎟",
+      "name": "RIGHT PARENTHESIS EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u239F"
+    },
+    {
+      "id": "u23A0",
+      "codepoint": 9120,
+      "hex": "U+23A0",
+      "char": "⎠",
+      "name": "RIGHT PARENTHESIS LOWER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A0"
+    },
+    {
+      "id": "u23A1",
+      "codepoint": 9121,
+      "hex": "U+23A1",
+      "char": "⎡",
+      "name": "LEFT SQUARE BRACKET UPPER CORNER",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A1"
+    },
+    {
+      "id": "u23A2",
+      "codepoint": 9122,
+      "hex": "U+23A2",
+      "char": "⎢",
+      "name": "LEFT SQUARE BRACKET EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A2"
+    },
+    {
+      "id": "u23A3",
+      "codepoint": 9123,
+      "hex": "U+23A3",
+      "char": "⎣",
+      "name": "LEFT SQUARE BRACKET LOWER CORNER",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A3"
+    },
+    {
+      "id": "u23A4",
+      "codepoint": 9124,
+      "hex": "U+23A4",
+      "char": "⎤",
+      "name": "RIGHT SQUARE BRACKET UPPER CORNER",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A4"
+    },
+    {
+      "id": "u23A5",
+      "codepoint": 9125,
+      "hex": "U+23A5",
+      "char": "⎥",
+      "name": "RIGHT SQUARE BRACKET EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A5"
+    },
+    {
+      "id": "u23A6",
+      "codepoint": 9126,
+      "hex": "U+23A6",
+      "char": "⎦",
+      "name": "RIGHT SQUARE BRACKET LOWER CORNER",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A6"
+    },
+    {
+      "id": "u23A7",
+      "codepoint": 9127,
+      "hex": "U+23A7",
+      "char": "⎧",
+      "name": "LEFT CURLY BRACKET UPPER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A7"
+    },
+    {
+      "id": "u23A8",
+      "codepoint": 9128,
+      "hex": "U+23A8",
+      "char": "⎨",
+      "name": "LEFT CURLY BRACKET MIDDLE PIECE",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A8"
+    },
+    {
+      "id": "u23A9",
+      "codepoint": 9129,
+      "hex": "U+23A9",
+      "char": "⎩",
+      "name": "LEFT CURLY BRACKET LOWER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23A9"
+    },
+    {
+      "id": "u23AA",
+      "codepoint": 9130,
+      "hex": "U+23AA",
+      "char": "⎪",
+      "name": "CURLY BRACKET EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23AA"
+    },
+    {
+      "id": "u23AB",
+      "codepoint": 9131,
+      "hex": "U+23AB",
+      "char": "⎫",
+      "name": "RIGHT CURLY BRACKET UPPER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23AB"
+    },
+    {
+      "id": "u23AC",
+      "codepoint": 9132,
+      "hex": "U+23AC",
+      "char": "⎬",
+      "name": "RIGHT CURLY BRACKET MIDDLE PIECE",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23AC"
+    },
+    {
+      "id": "u23AD",
+      "codepoint": 9133,
+      "hex": "U+23AD",
+      "char": "⎭",
+      "name": "RIGHT CURLY BRACKET LOWER HOOK",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23AD"
+    },
+    {
+      "id": "u23AE",
+      "codepoint": 9134,
+      "hex": "U+23AE",
+      "char": "⎮",
+      "name": "INTEGRAL EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23AE"
+    },
+    {
+      "id": "u23AF",
+      "codepoint": 9135,
+      "hex": "U+23AF",
+      "char": "⎯",
+      "name": "HORIZONTAL LINE EXTENSION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23AF"
+    },
+    {
+      "id": "u23B0",
+      "codepoint": 9136,
+      "hex": "U+23B0",
+      "char": "⎰",
+      "name": "UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B0"
+    },
+    {
+      "id": "u23B1",
+      "codepoint": 9137,
+      "hex": "U+23B1",
+      "char": "⎱",
+      "name": "UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B1"
+    },
+    {
+      "id": "u23B2",
+      "codepoint": 9138,
+      "hex": "U+23B2",
+      "char": "⎲",
+      "name": "SUMMATION TOP",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B2"
+    },
+    {
+      "id": "u23B3",
+      "codepoint": 9139,
+      "hex": "U+23B3",
+      "char": "⎳",
+      "name": "SUMMATION BOTTOM",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B3"
+    },
+    {
+      "id": "u23B4",
+      "codepoint": 9140,
+      "hex": "U+23B4",
+      "char": "⎴",
+      "name": "TOP SQUARE BRACKET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B4"
+    },
+    {
+      "id": "u23B5",
+      "codepoint": 9141,
+      "hex": "U+23B5",
+      "char": "⎵",
+      "name": "BOTTOM SQUARE BRACKET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B5"
+    },
+    {
+      "id": "u23B6",
+      "codepoint": 9142,
+      "hex": "U+23B6",
+      "char": "⎶",
+      "name": "BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B6"
+    },
+    {
+      "id": "u23B7",
+      "codepoint": 9143,
+      "hex": "U+23B7",
+      "char": "⎷",
+      "name": "RADICAL SYMBOL BOTTOM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B7"
+    },
+    {
+      "id": "u23B8",
+      "codepoint": 9144,
+      "hex": "U+23B8",
+      "char": "⎸",
+      "name": "LEFT VERTICAL BOX LINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B8"
+    },
+    {
+      "id": "u23B9",
+      "codepoint": 9145,
+      "hex": "U+23B9",
+      "char": "⎹",
+      "name": "RIGHT VERTICAL BOX LINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23B9"
+    },
+    {
+      "id": "u23BA",
+      "codepoint": 9146,
+      "hex": "U+23BA",
+      "char": "⎺",
+      "name": "HORIZONTAL SCAN LINE-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23BA"
+    },
+    {
+      "id": "u23BB",
+      "codepoint": 9147,
+      "hex": "U+23BB",
+      "char": "⎻",
+      "name": "HORIZONTAL SCAN LINE-3",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23BB"
+    },
+    {
+      "id": "u23BC",
+      "codepoint": 9148,
+      "hex": "U+23BC",
+      "char": "⎼",
+      "name": "HORIZONTAL SCAN LINE-7",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23BC"
+    },
+    {
+      "id": "u23BD",
+      "codepoint": 9149,
+      "hex": "U+23BD",
+      "char": "⎽",
+      "name": "HORIZONTAL SCAN LINE-9",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23BD"
+    },
+    {
+      "id": "u23BE",
+      "codepoint": 9150,
+      "hex": "U+23BE",
+      "char": "⎾",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23BE"
+    },
+    {
+      "id": "u23BF",
+      "codepoint": 9151,
+      "hex": "U+23BF",
+      "char": "⎿",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23BF"
+    },
+    {
+      "id": "u23C0",
+      "codepoint": 9152,
+      "hex": "U+23C0",
+      "char": "⏀",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C0"
+    },
+    {
+      "id": "u23C1",
+      "codepoint": 9153,
+      "hex": "U+23C1",
+      "char": "⏁",
+      "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C1"
+    },
+    {
+      "id": "u23C2",
+      "codepoint": 9154,
+      "hex": "U+23C2",
+      "char": "⏂",
+      "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C2"
+    },
+    {
+      "id": "u23C3",
+      "codepoint": 9155,
+      "hex": "U+23C3",
+      "char": "⏃",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C3"
+    },
+    {
+      "id": "u23C4",
+      "codepoint": 9156,
+      "hex": "U+23C4",
+      "char": "⏄",
+      "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C4"
+    },
+    {
+      "id": "u23C5",
+      "codepoint": 9157,
+      "hex": "U+23C5",
+      "char": "⏅",
+      "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C5"
+    },
+    {
+      "id": "u23C6",
+      "codepoint": 9158,
+      "hex": "U+23C6",
+      "char": "⏆",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C6"
+    },
+    {
+      "id": "u23C7",
+      "codepoint": 9159,
+      "hex": "U+23C7",
+      "char": "⏇",
+      "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C7"
+    },
+    {
+      "id": "u23C8",
+      "codepoint": 9160,
+      "hex": "U+23C8",
+      "char": "⏈",
+      "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C8"
+    },
+    {
+      "id": "u23C9",
+      "codepoint": 9161,
+      "hex": "U+23C9",
+      "char": "⏉",
+      "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23C9"
+    },
+    {
+      "id": "u23CA",
+      "codepoint": 9162,
+      "hex": "U+23CA",
+      "char": "⏊",
+      "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23CA"
+    },
+    {
+      "id": "u23CB",
+      "codepoint": 9163,
+      "hex": "U+23CB",
+      "char": "⏋",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23CB"
+    },
+    {
+      "id": "u23CC",
+      "codepoint": 9164,
+      "hex": "U+23CC",
+      "char": "⏌",
+      "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23CC"
+    },
+    {
+      "id": "u23CD",
+      "codepoint": 9165,
+      "hex": "U+23CD",
+      "char": "⏍",
+      "name": "SQUARE FOOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23CD"
+    },
+    {
+      "id": "u23CE",
+      "codepoint": 9166,
+      "hex": "U+23CE",
+      "char": "⏎",
+      "name": "RETURN SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23CE"
+    },
+    {
+      "id": "u23CF",
+      "codepoint": 9167,
+      "hex": "U+23CF",
+      "char": "⏏",
+      "name": "EJECT SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23CF"
+    },
+    {
+      "id": "u23D0",
+      "codepoint": 9168,
+      "hex": "U+23D0",
+      "char": "⏐",
+      "name": "VERTICAL LINE EXTENSION",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D0"
+    },
+    {
+      "id": "u23D1",
+      "codepoint": 9169,
+      "hex": "U+23D1",
+      "char": "⏑",
+      "name": "METRICAL BREVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D1"
+    },
+    {
+      "id": "u23D2",
+      "codepoint": 9170,
+      "hex": "U+23D2",
+      "char": "⏒",
+      "name": "METRICAL LONG OVER SHORT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D2"
+    },
+    {
+      "id": "u23D3",
+      "codepoint": 9171,
+      "hex": "U+23D3",
+      "char": "⏓",
+      "name": "METRICAL SHORT OVER LONG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D3"
+    },
+    {
+      "id": "u23D4",
+      "codepoint": 9172,
+      "hex": "U+23D4",
+      "char": "⏔",
+      "name": "METRICAL LONG OVER TWO SHORTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D4"
+    },
+    {
+      "id": "u23D5",
+      "codepoint": 9173,
+      "hex": "U+23D5",
+      "char": "⏕",
+      "name": "METRICAL TWO SHORTS OVER LONG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D5"
+    },
+    {
+      "id": "u23D6",
+      "codepoint": 9174,
+      "hex": "U+23D6",
+      "char": "⏖",
+      "name": "METRICAL TWO SHORTS JOINED",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D6"
+    },
+    {
+      "id": "u23D7",
+      "codepoint": 9175,
+      "hex": "U+23D7",
+      "char": "⏗",
+      "name": "METRICAL TRISEME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D7"
+    },
+    {
+      "id": "u23D8",
+      "codepoint": 9176,
+      "hex": "U+23D8",
+      "char": "⏘",
+      "name": "METRICAL TETRASEME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D8"
+    },
+    {
+      "id": "u23D9",
+      "codepoint": 9177,
+      "hex": "U+23D9",
+      "char": "⏙",
+      "name": "METRICAL PENTASEME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23D9"
+    },
+    {
+      "id": "u23DA",
+      "codepoint": 9178,
+      "hex": "U+23DA",
+      "char": "⏚",
+      "name": "EARTH GROUND",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23DA"
+    },
+    {
+      "id": "u23DB",
+      "codepoint": 9179,
+      "hex": "U+23DB",
+      "char": "⏛",
+      "name": "FUSE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23DB"
+    },
+    {
+      "id": "u23DC",
+      "codepoint": 9180,
+      "hex": "U+23DC",
+      "char": "⏜",
+      "name": "TOP PARENTHESIS",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23DC"
+    },
+    {
+      "id": "u23DD",
+      "codepoint": 9181,
+      "hex": "U+23DD",
+      "char": "⏝",
+      "name": "BOTTOM PARENTHESIS",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23DD"
+    },
+    {
+      "id": "u23DE",
+      "codepoint": 9182,
+      "hex": "U+23DE",
+      "char": "⏞",
+      "name": "TOP CURLY BRACKET",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23DE"
+    },
+    {
+      "id": "u23DF",
+      "codepoint": 9183,
+      "hex": "U+23DF",
+      "char": "⏟",
+      "name": "BOTTOM CURLY BRACKET",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23DF"
+    },
+    {
+      "id": "u23E0",
+      "codepoint": 9184,
+      "hex": "U+23E0",
+      "char": "⏠",
+      "name": "TOP TORTOISE SHELL BRACKET",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E0"
+    },
+    {
+      "id": "u23E1",
+      "codepoint": 9185,
+      "hex": "U+23E1",
+      "char": "⏡",
+      "name": "BOTTOM TORTOISE SHELL BRACKET",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E1"
+    },
+    {
+      "id": "u23E2",
+      "codepoint": 9186,
+      "hex": "U+23E2",
+      "char": "⏢",
+      "name": "WHITE TRAPEZIUM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E2"
+    },
+    {
+      "id": "u23E3",
+      "codepoint": 9187,
+      "hex": "U+23E3",
+      "char": "⏣",
+      "name": "BENZENE RING WITH CIRCLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E3"
+    },
+    {
+      "id": "u23E4",
+      "codepoint": 9188,
+      "hex": "U+23E4",
+      "char": "⏤",
+      "name": "STRAIGHTNESS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E4"
+    },
+    {
+      "id": "u23E5",
+      "codepoint": 9189,
+      "hex": "U+23E5",
+      "char": "⏥",
+      "name": "FLATNESS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E5"
+    },
+    {
+      "id": "u23E6",
+      "codepoint": 9190,
+      "hex": "U+23E6",
+      "char": "⏦",
+      "name": "AC CURRENT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E6"
+    },
+    {
+      "id": "u23E7",
+      "codepoint": 9191,
+      "hex": "U+23E7",
+      "char": "⏧",
+      "name": "ELECTRICAL INTERSECTION",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E7"
+    },
+    {
+      "id": "u23E8",
+      "codepoint": 9192,
+      "hex": "U+23E8",
+      "char": "⏨",
+      "name": "DECIMAL EXPONENT SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E8"
+    },
+    {
+      "id": "u23E9",
+      "codepoint": 9193,
+      "hex": "U+23E9",
+      "char": "⏩",
+      "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23E9"
+    },
+    {
+      "id": "u23EA",
+      "codepoint": 9194,
+      "hex": "U+23EA",
+      "char": "⏪",
+      "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23EA"
+    },
+    {
+      "id": "u23EB",
+      "codepoint": 9195,
+      "hex": "U+23EB",
+      "char": "⏫",
+      "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23EB"
+    },
+    {
+      "id": "u23EC",
+      "codepoint": 9196,
+      "hex": "U+23EC",
+      "char": "⏬",
+      "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23EC"
+    },
+    {
+      "id": "u23ED",
+      "codepoint": 9197,
+      "hex": "U+23ED",
+      "char": "⏭",
+      "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23ED"
+    },
+    {
+      "id": "u23EE",
+      "codepoint": 9198,
+      "hex": "U+23EE",
+      "char": "⏮",
+      "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23EE"
+    },
+    {
+      "id": "u23EF",
+      "codepoint": 9199,
+      "hex": "U+23EF",
+      "char": "⏯",
+      "name": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23EF"
+    },
+    {
+      "id": "u23F0",
+      "codepoint": 9200,
+      "hex": "U+23F0",
+      "char": "⏰",
+      "name": "ALARM CLOCK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F0"
+    },
+    {
+      "id": "u23F1",
+      "codepoint": 9201,
+      "hex": "U+23F1",
+      "char": "⏱",
+      "name": "STOPWATCH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F1"
+    },
+    {
+      "id": "u23F2",
+      "codepoint": 9202,
+      "hex": "U+23F2",
+      "char": "⏲",
+      "name": "TIMER CLOCK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F2"
+    },
+    {
+      "id": "u23F3",
+      "codepoint": 9203,
+      "hex": "U+23F3",
+      "char": "⏳",
+      "name": "HOURGLASS WITH FLOWING SAND",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F3"
+    },
+    {
+      "id": "u23F4",
+      "codepoint": 9204,
+      "hex": "U+23F4",
+      "char": "⏴",
+      "name": "BLACK MEDIUM LEFT-POINTING TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F4"
+    },
+    {
+      "id": "u23F5",
+      "codepoint": 9205,
+      "hex": "U+23F5",
+      "char": "⏵",
+      "name": "BLACK MEDIUM RIGHT-POINTING TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F5"
+    },
+    {
+      "id": "u23F6",
+      "codepoint": 9206,
+      "hex": "U+23F6",
+      "char": "⏶",
+      "name": "BLACK MEDIUM UP-POINTING TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F6"
+    },
+    {
+      "id": "u23F7",
+      "codepoint": 9207,
+      "hex": "U+23F7",
+      "char": "⏷",
+      "name": "BLACK MEDIUM DOWN-POINTING TRIANGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F7"
+    },
+    {
+      "id": "u23F8",
+      "codepoint": 9208,
+      "hex": "U+23F8",
+      "char": "⏸",
+      "name": "DOUBLE VERTICAL BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F8"
+    },
+    {
+      "id": "u23F9",
+      "codepoint": 9209,
+      "hex": "U+23F9",
+      "char": "⏹",
+      "name": "BLACK SQUARE FOR STOP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23F9"
+    },
+    {
+      "id": "u23FA",
+      "codepoint": 9210,
+      "hex": "U+23FA",
+      "char": "⏺",
+      "name": "BLACK CIRCLE FOR RECORD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23FA"
+    },
+    {
+      "id": "u23FB",
+      "codepoint": 9211,
+      "hex": "U+23FB",
+      "char": "⏻",
+      "name": "POWER SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23FB"
+    },
+    {
+      "id": "u23FC",
+      "codepoint": 9212,
+      "hex": "U+23FC",
+      "char": "⏼",
+      "name": "POWER ON-OFF SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23FC"
+    },
+    {
+      "id": "u23FD",
+      "codepoint": 9213,
+      "hex": "U+23FD",
+      "char": "⏽",
+      "name": "POWER ON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23FD"
+    },
+    {
+      "id": "u23FE",
+      "codepoint": 9214,
+      "hex": "U+23FE",
+      "char": "⏾",
+      "name": "POWER SLEEP SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23FE"
+    },
+    {
+      "id": "u23FF",
+      "codepoint": 9215,
+      "hex": "U+23FF",
+      "char": "⏿",
+      "name": "OBSERVER EYE SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-technical/u23FF"
+    }
+  ]
+}

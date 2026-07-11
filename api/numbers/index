@@ -1,0 +1,427 @@
+{
+  "api": "numbers",
+  "title": "Numbers",
+  "description": "Computed facts for every integer from 0 to 999,999: parity, primality, perfect squares and hexadecimal.",
+  "emoji": "🔢",
+  "license": "GPL-2.0-or-later",
+  "count": 1000000,
+  "self": "https://gratisapi.com/api/numbers/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/numbers/index",
+    "item": "https://gratisapi.com/api/numbers/{id}"
+  },
+  "fields": [
+    "hexadecimal",
+    "id",
+    "is_even",
+    "is_perfect_square",
+    "is_prime"
+  ],
+  "paginated": true,
+  "page_size": 10000,
+  "pages": 100,
+  "page_endpoint": "https://gratisapi.com/api/numbers/page/{n}",
+  "note": "1,000,000 records. Fetch pages of 10000 at /api/numbers/page/0 .. /api/numbers/page/99, or single records at /api/numbers/{id} for id 0-999.",
+  "results": [
+    {
+      "id": 0,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x0",
+      "url": "https://gratisapi.com/api/numbers/0"
+    },
+    {
+      "id": 1,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x1",
+      "url": "https://gratisapi.com/api/numbers/1"
+    },
+    {
+      "id": 2,
+      "is_even": true,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2",
+      "url": "https://gratisapi.com/api/numbers/2"
+    },
+    {
+      "id": 3,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x3",
+      "url": "https://gratisapi.com/api/numbers/3"
+    },
+    {
+      "id": 4,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x4",
+      "url": "https://gratisapi.com/api/numbers/4"
+    },
+    {
+      "id": 5,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x5",
+      "url": "https://gratisapi.com/api/numbers/5"
+    },
+    {
+      "id": 6,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x6",
+      "url": "https://gratisapi.com/api/numbers/6"
+    },
+    {
+      "id": 7,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x7",
+      "url": "https://gratisapi.com/api/numbers/7"
+    },
+    {
+      "id": 8,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x8",
+      "url": "https://gratisapi.com/api/numbers/8"
+    },
+    {
+      "id": 9,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x9",
+      "url": "https://gratisapi.com/api/numbers/9"
+    },
+    {
+      "id": 10,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0xa",
+      "url": "https://gratisapi.com/api/numbers/10"
+    },
+    {
+      "id": 11,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0xb",
+      "url": "https://gratisapi.com/api/numbers/11"
+    },
+    {
+      "id": 12,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0xc",
+      "url": "https://gratisapi.com/api/numbers/12"
+    },
+    {
+      "id": 13,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0xd",
+      "url": "https://gratisapi.com/api/numbers/13"
+    },
+    {
+      "id": 14,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0xe",
+      "url": "https://gratisapi.com/api/numbers/14"
+    },
+    {
+      "id": 15,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0xf",
+      "url": "https://gratisapi.com/api/numbers/15"
+    },
+    {
+      "id": 16,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x10",
+      "url": "https://gratisapi.com/api/numbers/16"
+    },
+    {
+      "id": 17,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x11",
+      "url": "https://gratisapi.com/api/numbers/17"
+    },
+    {
+      "id": 18,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x12",
+      "url": "https://gratisapi.com/api/numbers/18"
+    },
+    {
+      "id": 19,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x13",
+      "url": "https://gratisapi.com/api/numbers/19"
+    },
+    {
+      "id": 20,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x14",
+      "url": "https://gratisapi.com/api/numbers/20"
+    },
+    {
+      "id": 21,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x15",
+      "url": "https://gratisapi.com/api/numbers/21"
+    },
+    {
+      "id": 22,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x16",
+      "url": "https://gratisapi.com/api/numbers/22"
+    },
+    {
+      "id": 23,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x17",
+      "url": "https://gratisapi.com/api/numbers/23"
+    },
+    {
+      "id": 24,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x18",
+      "url": "https://gratisapi.com/api/numbers/24"
+    },
+    {
+      "id": 25,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x19",
+      "url": "https://gratisapi.com/api/numbers/25"
+    },
+    {
+      "id": 26,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x1a",
+      "url": "https://gratisapi.com/api/numbers/26"
+    },
+    {
+      "id": 27,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x1b",
+      "url": "https://gratisapi.com/api/numbers/27"
+    },
+    {
+      "id": 28,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x1c",
+      "url": "https://gratisapi.com/api/numbers/28"
+    },
+    {
+      "id": 29,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x1d",
+      "url": "https://gratisapi.com/api/numbers/29"
+    },
+    {
+      "id": 30,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x1e",
+      "url": "https://gratisapi.com/api/numbers/30"
+    },
+    {
+      "id": 31,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x1f",
+      "url": "https://gratisapi.com/api/numbers/31"
+    },
+    {
+      "id": 32,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x20",
+      "url": "https://gratisapi.com/api/numbers/32"
+    },
+    {
+      "id": 33,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x21",
+      "url": "https://gratisapi.com/api/numbers/33"
+    },
+    {
+      "id": 34,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x22",
+      "url": "https://gratisapi.com/api/numbers/34"
+    },
+    {
+      "id": 35,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x23",
+      "url": "https://gratisapi.com/api/numbers/35"
+    },
+    {
+      "id": 36,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x24",
+      "url": "https://gratisapi.com/api/numbers/36"
+    },
+    {
+      "id": 37,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x25",
+      "url": "https://gratisapi.com/api/numbers/37"
+    },
+    {
+      "id": 38,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x26",
+      "url": "https://gratisapi.com/api/numbers/38"
+    },
+    {
+      "id": 39,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x27",
+      "url": "https://gratisapi.com/api/numbers/39"
+    },
+    {
+      "id": 40,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x28",
+      "url": "https://gratisapi.com/api/numbers/40"
+    },
+    {
+      "id": 41,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x29",
+      "url": "https://gratisapi.com/api/numbers/41"
+    },
+    {
+      "id": 42,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2a",
+      "url": "https://gratisapi.com/api/numbers/42"
+    },
+    {
+      "id": 43,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2b",
+      "url": "https://gratisapi.com/api/numbers/43"
+    },
+    {
+      "id": 44,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2c",
+      "url": "https://gratisapi.com/api/numbers/44"
+    },
+    {
+      "id": 45,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2d",
+      "url": "https://gratisapi.com/api/numbers/45"
+    },
+    {
+      "id": 46,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2e",
+      "url": "https://gratisapi.com/api/numbers/46"
+    },
+    {
+      "id": 47,
+      "is_even": false,
+      "is_prime": true,
+      "is_perfect_square": false,
+      "hexadecimal": "0x2f",
+      "url": "https://gratisapi.com/api/numbers/47"
+    },
+    {
+      "id": 48,
+      "is_even": true,
+      "is_prime": false,
+      "is_perfect_square": false,
+      "hexadecimal": "0x30",
+      "url": "https://gratisapi.com/api/numbers/48"
+    },
+    {
+      "id": 49,
+      "is_even": false,
+      "is_prime": false,
+      "is_perfect_square": true,
+      "hexadecimal": "0x31",
+      "url": "https://gratisapi.com/api/numbers/49"
+    }
+  ]
+}

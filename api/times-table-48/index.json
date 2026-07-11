@@ -1,0 +1,182 @@
+{
+  "api": "times-table-48",
+  "title": "48 Times Table",
+  "description": "The multiplication table for 48: 48x1 through 48x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-48/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-48/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 48,
+      "multiplicand": 1,
+      "product": 48,
+      "expression": "48 x 1 = 48",
+      "url": "https://gratisapi.com/api/times-table-48/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 48,
+      "multiplicand": 2,
+      "product": 96,
+      "expression": "48 x 2 = 96",
+      "url": "https://gratisapi.com/api/times-table-48/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 48,
+      "multiplicand": 3,
+      "product": 144,
+      "expression": "48 x 3 = 144",
+      "url": "https://gratisapi.com/api/times-table-48/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 48,
+      "multiplicand": 4,
+      "product": 192,
+      "expression": "48 x 4 = 192",
+      "url": "https://gratisapi.com/api/times-table-48/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 48,
+      "multiplicand": 5,
+      "product": 240,
+      "expression": "48 x 5 = 240",
+      "url": "https://gratisapi.com/api/times-table-48/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 48,
+      "multiplicand": 6,
+      "product": 288,
+      "expression": "48 x 6 = 288",
+      "url": "https://gratisapi.com/api/times-table-48/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 48,
+      "multiplicand": 7,
+      "product": 336,
+      "expression": "48 x 7 = 336",
+      "url": "https://gratisapi.com/api/times-table-48/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 48,
+      "multiplicand": 8,
+      "product": 384,
+      "expression": "48 x 8 = 384",
+      "url": "https://gratisapi.com/api/times-table-48/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 48,
+      "multiplicand": 9,
+      "product": 432,
+      "expression": "48 x 9 = 432",
+      "url": "https://gratisapi.com/api/times-table-48/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 48,
+      "multiplicand": 10,
+      "product": 480,
+      "expression": "48 x 10 = 480",
+      "url": "https://gratisapi.com/api/times-table-48/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 48,
+      "multiplicand": 11,
+      "product": 528,
+      "expression": "48 x 11 = 528",
+      "url": "https://gratisapi.com/api/times-table-48/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 48,
+      "multiplicand": 12,
+      "product": 576,
+      "expression": "48 x 12 = 576",
+      "url": "https://gratisapi.com/api/times-table-48/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 48,
+      "multiplicand": 13,
+      "product": 624,
+      "expression": "48 x 13 = 624",
+      "url": "https://gratisapi.com/api/times-table-48/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 48,
+      "multiplicand": 14,
+      "product": 672,
+      "expression": "48 x 14 = 672",
+      "url": "https://gratisapi.com/api/times-table-48/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 48,
+      "multiplicand": 15,
+      "product": 720,
+      "expression": "48 x 15 = 720",
+      "url": "https://gratisapi.com/api/times-table-48/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 48,
+      "multiplicand": 16,
+      "product": 768,
+      "expression": "48 x 16 = 768",
+      "url": "https://gratisapi.com/api/times-table-48/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 48,
+      "multiplicand": 17,
+      "product": 816,
+      "expression": "48 x 17 = 816",
+      "url": "https://gratisapi.com/api/times-table-48/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 48,
+      "multiplicand": 18,
+      "product": 864,
+      "expression": "48 x 18 = 864",
+      "url": "https://gratisapi.com/api/times-table-48/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 48,
+      "multiplicand": 19,
+      "product": 912,
+      "expression": "48 x 19 = 912",
+      "url": "https://gratisapi.com/api/times-table-48/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 48,
+      "multiplicand": 20,
+      "product": 960,
+      "expression": "48 x 20 = 960",
+      "url": "https://gratisapi.com/api/times-table-48/20"
+    }
+  ]
+}

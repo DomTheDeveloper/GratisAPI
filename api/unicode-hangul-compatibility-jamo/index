@@ -1,0 +1,869 @@
+{
+  "api": "unicode-hangul-compatibility-jamo",
+  "title": "Hangul Compatibility Jamo",
+  "description": "The Hangul Compatibility Jamo Unicode block (U+3130..U+318F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 94,
+  "self": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u3131",
+      "codepoint": 12593,
+      "hex": "U+3131",
+      "char": "ㄱ",
+      "name": "HANGUL LETTER KIYEOK",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3131"
+    },
+    {
+      "id": "u3132",
+      "codepoint": 12594,
+      "hex": "U+3132",
+      "char": "ㄲ",
+      "name": "HANGUL LETTER SSANGKIYEOK",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3132"
+    },
+    {
+      "id": "u3133",
+      "codepoint": 12595,
+      "hex": "U+3133",
+      "char": "ㄳ",
+      "name": "HANGUL LETTER KIYEOK-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3133"
+    },
+    {
+      "id": "u3134",
+      "codepoint": 12596,
+      "hex": "U+3134",
+      "char": "ㄴ",
+      "name": "HANGUL LETTER NIEUN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3134"
+    },
+    {
+      "id": "u3135",
+      "codepoint": 12597,
+      "hex": "U+3135",
+      "char": "ㄵ",
+      "name": "HANGUL LETTER NIEUN-CIEUC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3135"
+    },
+    {
+      "id": "u3136",
+      "codepoint": 12598,
+      "hex": "U+3136",
+      "char": "ㄶ",
+      "name": "HANGUL LETTER NIEUN-HIEUH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3136"
+    },
+    {
+      "id": "u3137",
+      "codepoint": 12599,
+      "hex": "U+3137",
+      "char": "ㄷ",
+      "name": "HANGUL LETTER TIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3137"
+    },
+    {
+      "id": "u3138",
+      "codepoint": 12600,
+      "hex": "U+3138",
+      "char": "ㄸ",
+      "name": "HANGUL LETTER SSANGTIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3138"
+    },
+    {
+      "id": "u3139",
+      "codepoint": 12601,
+      "hex": "U+3139",
+      "char": "ㄹ",
+      "name": "HANGUL LETTER RIEUL",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3139"
+    },
+    {
+      "id": "u313A",
+      "codepoint": 12602,
+      "hex": "U+313A",
+      "char": "ㄺ",
+      "name": "HANGUL LETTER RIEUL-KIYEOK",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u313A"
+    },
+    {
+      "id": "u313B",
+      "codepoint": 12603,
+      "hex": "U+313B",
+      "char": "ㄻ",
+      "name": "HANGUL LETTER RIEUL-MIEUM",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u313B"
+    },
+    {
+      "id": "u313C",
+      "codepoint": 12604,
+      "hex": "U+313C",
+      "char": "ㄼ",
+      "name": "HANGUL LETTER RIEUL-PIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u313C"
+    },
+    {
+      "id": "u313D",
+      "codepoint": 12605,
+      "hex": "U+313D",
+      "char": "ㄽ",
+      "name": "HANGUL LETTER RIEUL-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u313D"
+    },
+    {
+      "id": "u313E",
+      "codepoint": 12606,
+      "hex": "U+313E",
+      "char": "ㄾ",
+      "name": "HANGUL LETTER RIEUL-THIEUTH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u313E"
+    },
+    {
+      "id": "u313F",
+      "codepoint": 12607,
+      "hex": "U+313F",
+      "char": "ㄿ",
+      "name": "HANGUL LETTER RIEUL-PHIEUPH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u313F"
+    },
+    {
+      "id": "u3140",
+      "codepoint": 12608,
+      "hex": "U+3140",
+      "char": "ㅀ",
+      "name": "HANGUL LETTER RIEUL-HIEUH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3140"
+    },
+    {
+      "id": "u3141",
+      "codepoint": 12609,
+      "hex": "U+3141",
+      "char": "ㅁ",
+      "name": "HANGUL LETTER MIEUM",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3141"
+    },
+    {
+      "id": "u3142",
+      "codepoint": 12610,
+      "hex": "U+3142",
+      "char": "ㅂ",
+      "name": "HANGUL LETTER PIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3142"
+    },
+    {
+      "id": "u3143",
+      "codepoint": 12611,
+      "hex": "U+3143",
+      "char": "ㅃ",
+      "name": "HANGUL LETTER SSANGPIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3143"
+    },
+    {
+      "id": "u3144",
+      "codepoint": 12612,
+      "hex": "U+3144",
+      "char": "ㅄ",
+      "name": "HANGUL LETTER PIEUP-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3144"
+    },
+    {
+      "id": "u3145",
+      "codepoint": 12613,
+      "hex": "U+3145",
+      "char": "ㅅ",
+      "name": "HANGUL LETTER SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3145"
+    },
+    {
+      "id": "u3146",
+      "codepoint": 12614,
+      "hex": "U+3146",
+      "char": "ㅆ",
+      "name": "HANGUL LETTER SSANGSIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3146"
+    },
+    {
+      "id": "u3147",
+      "codepoint": 12615,
+      "hex": "U+3147",
+      "char": "ㅇ",
+      "name": "HANGUL LETTER IEUNG",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3147"
+    },
+    {
+      "id": "u3148",
+      "codepoint": 12616,
+      "hex": "U+3148",
+      "char": "ㅈ",
+      "name": "HANGUL LETTER CIEUC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3148"
+    },
+    {
+      "id": "u3149",
+      "codepoint": 12617,
+      "hex": "U+3149",
+      "char": "ㅉ",
+      "name": "HANGUL LETTER SSANGCIEUC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3149"
+    },
+    {
+      "id": "u314A",
+      "codepoint": 12618,
+      "hex": "U+314A",
+      "char": "ㅊ",
+      "name": "HANGUL LETTER CHIEUCH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u314A"
+    },
+    {
+      "id": "u314B",
+      "codepoint": 12619,
+      "hex": "U+314B",
+      "char": "ㅋ",
+      "name": "HANGUL LETTER KHIEUKH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u314B"
+    },
+    {
+      "id": "u314C",
+      "codepoint": 12620,
+      "hex": "U+314C",
+      "char": "ㅌ",
+      "name": "HANGUL LETTER THIEUTH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u314C"
+    },
+    {
+      "id": "u314D",
+      "codepoint": 12621,
+      "hex": "U+314D",
+      "char": "ㅍ",
+      "name": "HANGUL LETTER PHIEUPH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u314D"
+    },
+    {
+      "id": "u314E",
+      "codepoint": 12622,
+      "hex": "U+314E",
+      "char": "ㅎ",
+      "name": "HANGUL LETTER HIEUH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u314E"
+    },
+    {
+      "id": "u314F",
+      "codepoint": 12623,
+      "hex": "U+314F",
+      "char": "ㅏ",
+      "name": "HANGUL LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u314F"
+    },
+    {
+      "id": "u3150",
+      "codepoint": 12624,
+      "hex": "U+3150",
+      "char": "ㅐ",
+      "name": "HANGUL LETTER AE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3150"
+    },
+    {
+      "id": "u3151",
+      "codepoint": 12625,
+      "hex": "U+3151",
+      "char": "ㅑ",
+      "name": "HANGUL LETTER YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3151"
+    },
+    {
+      "id": "u3152",
+      "codepoint": 12626,
+      "hex": "U+3152",
+      "char": "ㅒ",
+      "name": "HANGUL LETTER YAE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3152"
+    },
+    {
+      "id": "u3153",
+      "codepoint": 12627,
+      "hex": "U+3153",
+      "char": "ㅓ",
+      "name": "HANGUL LETTER EO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3153"
+    },
+    {
+      "id": "u3154",
+      "codepoint": 12628,
+      "hex": "U+3154",
+      "char": "ㅔ",
+      "name": "HANGUL LETTER E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3154"
+    },
+    {
+      "id": "u3155",
+      "codepoint": 12629,
+      "hex": "U+3155",
+      "char": "ㅕ",
+      "name": "HANGUL LETTER YEO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3155"
+    },
+    {
+      "id": "u3156",
+      "codepoint": 12630,
+      "hex": "U+3156",
+      "char": "ㅖ",
+      "name": "HANGUL LETTER YE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3156"
+    },
+    {
+      "id": "u3157",
+      "codepoint": 12631,
+      "hex": "U+3157",
+      "char": "ㅗ",
+      "name": "HANGUL LETTER O",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3157"
+    },
+    {
+      "id": "u3158",
+      "codepoint": 12632,
+      "hex": "U+3158",
+      "char": "ㅘ",
+      "name": "HANGUL LETTER WA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3158"
+    },
+    {
+      "id": "u3159",
+      "codepoint": 12633,
+      "hex": "U+3159",
+      "char": "ㅙ",
+      "name": "HANGUL LETTER WAE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3159"
+    },
+    {
+      "id": "u315A",
+      "codepoint": 12634,
+      "hex": "U+315A",
+      "char": "ㅚ",
+      "name": "HANGUL LETTER OE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u315A"
+    },
+    {
+      "id": "u315B",
+      "codepoint": 12635,
+      "hex": "U+315B",
+      "char": "ㅛ",
+      "name": "HANGUL LETTER YO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u315B"
+    },
+    {
+      "id": "u315C",
+      "codepoint": 12636,
+      "hex": "U+315C",
+      "char": "ㅜ",
+      "name": "HANGUL LETTER U",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u315C"
+    },
+    {
+      "id": "u315D",
+      "codepoint": 12637,
+      "hex": "U+315D",
+      "char": "ㅝ",
+      "name": "HANGUL LETTER WEO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u315D"
+    },
+    {
+      "id": "u315E",
+      "codepoint": 12638,
+      "hex": "U+315E",
+      "char": "ㅞ",
+      "name": "HANGUL LETTER WE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u315E"
+    },
+    {
+      "id": "u315F",
+      "codepoint": 12639,
+      "hex": "U+315F",
+      "char": "ㅟ",
+      "name": "HANGUL LETTER WI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u315F"
+    },
+    {
+      "id": "u3160",
+      "codepoint": 12640,
+      "hex": "U+3160",
+      "char": "ㅠ",
+      "name": "HANGUL LETTER YU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3160"
+    },
+    {
+      "id": "u3161",
+      "codepoint": 12641,
+      "hex": "U+3161",
+      "char": "ㅡ",
+      "name": "HANGUL LETTER EU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3161"
+    },
+    {
+      "id": "u3162",
+      "codepoint": 12642,
+      "hex": "U+3162",
+      "char": "ㅢ",
+      "name": "HANGUL LETTER YI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3162"
+    },
+    {
+      "id": "u3163",
+      "codepoint": 12643,
+      "hex": "U+3163",
+      "char": "ㅣ",
+      "name": "HANGUL LETTER I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3163"
+    },
+    {
+      "id": "u3164",
+      "codepoint": 12644,
+      "hex": "U+3164",
+      "char": "ㅤ",
+      "name": "HANGUL FILLER",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3164"
+    },
+    {
+      "id": "u3165",
+      "codepoint": 12645,
+      "hex": "U+3165",
+      "char": "ㅥ",
+      "name": "HANGUL LETTER SSANGNIEUN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3165"
+    },
+    {
+      "id": "u3166",
+      "codepoint": 12646,
+      "hex": "U+3166",
+      "char": "ㅦ",
+      "name": "HANGUL LETTER NIEUN-TIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3166"
+    },
+    {
+      "id": "u3167",
+      "codepoint": 12647,
+      "hex": "U+3167",
+      "char": "ㅧ",
+      "name": "HANGUL LETTER NIEUN-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3167"
+    },
+    {
+      "id": "u3168",
+      "codepoint": 12648,
+      "hex": "U+3168",
+      "char": "ㅨ",
+      "name": "HANGUL LETTER NIEUN-PANSIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3168"
+    },
+    {
+      "id": "u3169",
+      "codepoint": 12649,
+      "hex": "U+3169",
+      "char": "ㅩ",
+      "name": "HANGUL LETTER RIEUL-KIYEOK-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3169"
+    },
+    {
+      "id": "u316A",
+      "codepoint": 12650,
+      "hex": "U+316A",
+      "char": "ㅪ",
+      "name": "HANGUL LETTER RIEUL-TIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u316A"
+    },
+    {
+      "id": "u316B",
+      "codepoint": 12651,
+      "hex": "U+316B",
+      "char": "ㅫ",
+      "name": "HANGUL LETTER RIEUL-PIEUP-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u316B"
+    },
+    {
+      "id": "u316C",
+      "codepoint": 12652,
+      "hex": "U+316C",
+      "char": "ㅬ",
+      "name": "HANGUL LETTER RIEUL-PANSIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u316C"
+    },
+    {
+      "id": "u316D",
+      "codepoint": 12653,
+      "hex": "U+316D",
+      "char": "ㅭ",
+      "name": "HANGUL LETTER RIEUL-YEORINHIEUH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u316D"
+    },
+    {
+      "id": "u316E",
+      "codepoint": 12654,
+      "hex": "U+316E",
+      "char": "ㅮ",
+      "name": "HANGUL LETTER MIEUM-PIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u316E"
+    },
+    {
+      "id": "u316F",
+      "codepoint": 12655,
+      "hex": "U+316F",
+      "char": "ㅯ",
+      "name": "HANGUL LETTER MIEUM-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u316F"
+    },
+    {
+      "id": "u3170",
+      "codepoint": 12656,
+      "hex": "U+3170",
+      "char": "ㅰ",
+      "name": "HANGUL LETTER MIEUM-PANSIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3170"
+    },
+    {
+      "id": "u3171",
+      "codepoint": 12657,
+      "hex": "U+3171",
+      "char": "ㅱ",
+      "name": "HANGUL LETTER KAPYEOUNMIEUM",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3171"
+    },
+    {
+      "id": "u3172",
+      "codepoint": 12658,
+      "hex": "U+3172",
+      "char": "ㅲ",
+      "name": "HANGUL LETTER PIEUP-KIYEOK",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3172"
+    },
+    {
+      "id": "u3173",
+      "codepoint": 12659,
+      "hex": "U+3173",
+      "char": "ㅳ",
+      "name": "HANGUL LETTER PIEUP-TIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3173"
+    },
+    {
+      "id": "u3174",
+      "codepoint": 12660,
+      "hex": "U+3174",
+      "char": "ㅴ",
+      "name": "HANGUL LETTER PIEUP-SIOS-KIYEOK",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3174"
+    },
+    {
+      "id": "u3175",
+      "codepoint": 12661,
+      "hex": "U+3175",
+      "char": "ㅵ",
+      "name": "HANGUL LETTER PIEUP-SIOS-TIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3175"
+    },
+    {
+      "id": "u3176",
+      "codepoint": 12662,
+      "hex": "U+3176",
+      "char": "ㅶ",
+      "name": "HANGUL LETTER PIEUP-CIEUC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3176"
+    },
+    {
+      "id": "u3177",
+      "codepoint": 12663,
+      "hex": "U+3177",
+      "char": "ㅷ",
+      "name": "HANGUL LETTER PIEUP-THIEUTH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3177"
+    },
+    {
+      "id": "u3178",
+      "codepoint": 12664,
+      "hex": "U+3178",
+      "char": "ㅸ",
+      "name": "HANGUL LETTER KAPYEOUNPIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3178"
+    },
+    {
+      "id": "u3179",
+      "codepoint": 12665,
+      "hex": "U+3179",
+      "char": "ㅹ",
+      "name": "HANGUL LETTER KAPYEOUNSSANGPIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3179"
+    },
+    {
+      "id": "u317A",
+      "codepoint": 12666,
+      "hex": "U+317A",
+      "char": "ㅺ",
+      "name": "HANGUL LETTER SIOS-KIYEOK",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u317A"
+    },
+    {
+      "id": "u317B",
+      "codepoint": 12667,
+      "hex": "U+317B",
+      "char": "ㅻ",
+      "name": "HANGUL LETTER SIOS-NIEUN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u317B"
+    },
+    {
+      "id": "u317C",
+      "codepoint": 12668,
+      "hex": "U+317C",
+      "char": "ㅼ",
+      "name": "HANGUL LETTER SIOS-TIKEUT",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u317C"
+    },
+    {
+      "id": "u317D",
+      "codepoint": 12669,
+      "hex": "U+317D",
+      "char": "ㅽ",
+      "name": "HANGUL LETTER SIOS-PIEUP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u317D"
+    },
+    {
+      "id": "u317E",
+      "codepoint": 12670,
+      "hex": "U+317E",
+      "char": "ㅾ",
+      "name": "HANGUL LETTER SIOS-CIEUC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u317E"
+    },
+    {
+      "id": "u317F",
+      "codepoint": 12671,
+      "hex": "U+317F",
+      "char": "ㅿ",
+      "name": "HANGUL LETTER PANSIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u317F"
+    },
+    {
+      "id": "u3180",
+      "codepoint": 12672,
+      "hex": "U+3180",
+      "char": "ㆀ",
+      "name": "HANGUL LETTER SSANGIEUNG",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3180"
+    },
+    {
+      "id": "u3181",
+      "codepoint": 12673,
+      "hex": "U+3181",
+      "char": "ㆁ",
+      "name": "HANGUL LETTER YESIEUNG",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3181"
+    },
+    {
+      "id": "u3182",
+      "codepoint": 12674,
+      "hex": "U+3182",
+      "char": "ㆂ",
+      "name": "HANGUL LETTER YESIEUNG-SIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3182"
+    },
+    {
+      "id": "u3183",
+      "codepoint": 12675,
+      "hex": "U+3183",
+      "char": "ㆃ",
+      "name": "HANGUL LETTER YESIEUNG-PANSIOS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3183"
+    },
+    {
+      "id": "u3184",
+      "codepoint": 12676,
+      "hex": "U+3184",
+      "char": "ㆄ",
+      "name": "HANGUL LETTER KAPYEOUNPHIEUPH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3184"
+    },
+    {
+      "id": "u3185",
+      "codepoint": 12677,
+      "hex": "U+3185",
+      "char": "ㆅ",
+      "name": "HANGUL LETTER SSANGHIEUH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3185"
+    },
+    {
+      "id": "u3186",
+      "codepoint": 12678,
+      "hex": "U+3186",
+      "char": "ㆆ",
+      "name": "HANGUL LETTER YEORINHIEUH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3186"
+    },
+    {
+      "id": "u3187",
+      "codepoint": 12679,
+      "hex": "U+3187",
+      "char": "ㆇ",
+      "name": "HANGUL LETTER YO-YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3187"
+    },
+    {
+      "id": "u3188",
+      "codepoint": 12680,
+      "hex": "U+3188",
+      "char": "ㆈ",
+      "name": "HANGUL LETTER YO-YAE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3188"
+    },
+    {
+      "id": "u3189",
+      "codepoint": 12681,
+      "hex": "U+3189",
+      "char": "ㆉ",
+      "name": "HANGUL LETTER YO-I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u3189"
+    },
+    {
+      "id": "u318A",
+      "codepoint": 12682,
+      "hex": "U+318A",
+      "char": "ㆊ",
+      "name": "HANGUL LETTER YU-YEO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u318A"
+    },
+    {
+      "id": "u318B",
+      "codepoint": 12683,
+      "hex": "U+318B",
+      "char": "ㆋ",
+      "name": "HANGUL LETTER YU-YE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u318B"
+    },
+    {
+      "id": "u318C",
+      "codepoint": 12684,
+      "hex": "U+318C",
+      "char": "ㆌ",
+      "name": "HANGUL LETTER YU-I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u318C"
+    },
+    {
+      "id": "u318D",
+      "codepoint": 12685,
+      "hex": "U+318D",
+      "char": "ㆍ",
+      "name": "HANGUL LETTER ARAEA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u318D"
+    },
+    {
+      "id": "u318E",
+      "codepoint": 12686,
+      "hex": "U+318E",
+      "char": "ㆎ",
+      "name": "HANGUL LETTER ARAEAE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-hangul-compatibility-jamo/u318E"
+    }
+  ]
+}

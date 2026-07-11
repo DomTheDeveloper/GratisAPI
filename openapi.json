@@ -4,7 +4,7 @@
     "title": "GratisAPI",
     "version": "1.0.0",
     "summary": "A completely free, static, open-data API.",
-    "description": "GratisAPI is served entirely from static files on GitHub Pages. Every path below resolves to a real, clean, extension-less URL you can `curl` or `fetch` directly — for example `GET /api/animals/lion` — with no authentication, no rate limits, no keys and no cost. Only HTTP GET is supported. Gratis means free, and libre means free too.",
+    "description": "GratisAPI is served entirely from static files. Every path below resolves to a real, clean, extension-less URL you can `curl` or `fetch` directly — for example `GET /api/animals/lion` — with no authentication, no rate limits, no keys and no cost. Only HTTP GET is supported. Large generated families (numbers, unicode blocks, calendars, times tables, math sequences) are omitted here for brevity — see /api/index for the full catalog.",
     "license": {
       "name": "GPL-2.0-or-later",
       "url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
@@ -17,7 +17,7 @@
   "servers": [
     {
       "url": "https://gratisapi.com",
-      "description": "GitHub Pages (production)"
+      "description": "production"
     }
   ],
   "tags": [
@@ -28,6 +28,10 @@
     {
       "name": "articles",
       "description": "Guides, explainers and essays about free data, the APIs and the philosophy behind GratisAPI."
+    },
+    {
+      "name": "numbers",
+      "description": "Computed facts for every integer from 0 to 999,999: parity, primality, perfect squares and hexadecimal."
     },
     {
       "name": "countries",
@@ -525,6 +529,48 @@
         "operationId": "get_articles",
         "tags": [
           "articles"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/numbers/index": {
+      "get": {
+        "summary": "List all numbers",
+        "operationId": "list_numbers",
+        "tags": [
+          "numbers"
+        ],
+        "responses": {
+          "200": {
+            "description": "All numbers records."
+          }
+        }
+      }
+    },
+    "/api/numbers/{id}": {
+      "get": {
+        "summary": "Get a single numbers record by id",
+        "operationId": "get_numbers",
+        "tags": [
+          "numbers"
         ],
         "parameters": [
           {

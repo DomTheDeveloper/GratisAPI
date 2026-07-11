@@ -1,0 +1,887 @@
+{
+  "api": "unicode-ipa-extensions",
+  "title": "IPA Extensions",
+  "description": "The IPA Extensions Unicode block (U+0250..U+02AF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 96,
+  "self": "https://gratisapi.com/api/unicode-ipa-extensions/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-ipa-extensions/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0250",
+      "codepoint": 592,
+      "hex": "U+0250",
+      "char": "ɐ",
+      "name": "LATIN SMALL LETTER TURNED A",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0250"
+    },
+    {
+      "id": "u0251",
+      "codepoint": 593,
+      "hex": "U+0251",
+      "char": "ɑ",
+      "name": "LATIN SMALL LETTER ALPHA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0251"
+    },
+    {
+      "id": "u0252",
+      "codepoint": 594,
+      "hex": "U+0252",
+      "char": "ɒ",
+      "name": "LATIN SMALL LETTER TURNED ALPHA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0252"
+    },
+    {
+      "id": "u0253",
+      "codepoint": 595,
+      "hex": "U+0253",
+      "char": "ɓ",
+      "name": "LATIN SMALL LETTER B WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0253"
+    },
+    {
+      "id": "u0254",
+      "codepoint": 596,
+      "hex": "U+0254",
+      "char": "ɔ",
+      "name": "LATIN SMALL LETTER OPEN O",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0254"
+    },
+    {
+      "id": "u0255",
+      "codepoint": 597,
+      "hex": "U+0255",
+      "char": "ɕ",
+      "name": "LATIN SMALL LETTER C WITH CURL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0255"
+    },
+    {
+      "id": "u0256",
+      "codepoint": 598,
+      "hex": "U+0256",
+      "char": "ɖ",
+      "name": "LATIN SMALL LETTER D WITH TAIL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0256"
+    },
+    {
+      "id": "u0257",
+      "codepoint": 599,
+      "hex": "U+0257",
+      "char": "ɗ",
+      "name": "LATIN SMALL LETTER D WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0257"
+    },
+    {
+      "id": "u0258",
+      "codepoint": 600,
+      "hex": "U+0258",
+      "char": "ɘ",
+      "name": "LATIN SMALL LETTER REVERSED E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0258"
+    },
+    {
+      "id": "u0259",
+      "codepoint": 601,
+      "hex": "U+0259",
+      "char": "ə",
+      "name": "LATIN SMALL LETTER SCHWA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0259"
+    },
+    {
+      "id": "u025A",
+      "codepoint": 602,
+      "hex": "U+025A",
+      "char": "ɚ",
+      "name": "LATIN SMALL LETTER SCHWA WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u025A"
+    },
+    {
+      "id": "u025B",
+      "codepoint": 603,
+      "hex": "U+025B",
+      "char": "ɛ",
+      "name": "LATIN SMALL LETTER OPEN E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u025B"
+    },
+    {
+      "id": "u025C",
+      "codepoint": 604,
+      "hex": "U+025C",
+      "char": "ɜ",
+      "name": "LATIN SMALL LETTER REVERSED OPEN E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u025C"
+    },
+    {
+      "id": "u025D",
+      "codepoint": 605,
+      "hex": "U+025D",
+      "char": "ɝ",
+      "name": "LATIN SMALL LETTER REVERSED OPEN E WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u025D"
+    },
+    {
+      "id": "u025E",
+      "codepoint": 606,
+      "hex": "U+025E",
+      "char": "ɞ",
+      "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u025E"
+    },
+    {
+      "id": "u025F",
+      "codepoint": 607,
+      "hex": "U+025F",
+      "char": "ɟ",
+      "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u025F"
+    },
+    {
+      "id": "u0260",
+      "codepoint": 608,
+      "hex": "U+0260",
+      "char": "ɠ",
+      "name": "LATIN SMALL LETTER G WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0260"
+    },
+    {
+      "id": "u0261",
+      "codepoint": 609,
+      "hex": "U+0261",
+      "char": "ɡ",
+      "name": "LATIN SMALL LETTER SCRIPT G",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0261"
+    },
+    {
+      "id": "u0262",
+      "codepoint": 610,
+      "hex": "U+0262",
+      "char": "ɢ",
+      "name": "LATIN LETTER SMALL CAPITAL G",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0262"
+    },
+    {
+      "id": "u0263",
+      "codepoint": 611,
+      "hex": "U+0263",
+      "char": "ɣ",
+      "name": "LATIN SMALL LETTER GAMMA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0263"
+    },
+    {
+      "id": "u0264",
+      "codepoint": 612,
+      "hex": "U+0264",
+      "char": "ɤ",
+      "name": "LATIN SMALL LETTER RAMS HORN",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0264"
+    },
+    {
+      "id": "u0265",
+      "codepoint": 613,
+      "hex": "U+0265",
+      "char": "ɥ",
+      "name": "LATIN SMALL LETTER TURNED H",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0265"
+    },
+    {
+      "id": "u0266",
+      "codepoint": 614,
+      "hex": "U+0266",
+      "char": "ɦ",
+      "name": "LATIN SMALL LETTER H WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0266"
+    },
+    {
+      "id": "u0267",
+      "codepoint": 615,
+      "hex": "U+0267",
+      "char": "ɧ",
+      "name": "LATIN SMALL LETTER HENG WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0267"
+    },
+    {
+      "id": "u0268",
+      "codepoint": 616,
+      "hex": "U+0268",
+      "char": "ɨ",
+      "name": "LATIN SMALL LETTER I WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0268"
+    },
+    {
+      "id": "u0269",
+      "codepoint": 617,
+      "hex": "U+0269",
+      "char": "ɩ",
+      "name": "LATIN SMALL LETTER IOTA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0269"
+    },
+    {
+      "id": "u026A",
+      "codepoint": 618,
+      "hex": "U+026A",
+      "char": "ɪ",
+      "name": "LATIN LETTER SMALL CAPITAL I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u026A"
+    },
+    {
+      "id": "u026B",
+      "codepoint": 619,
+      "hex": "U+026B",
+      "char": "ɫ",
+      "name": "LATIN SMALL LETTER L WITH MIDDLE TILDE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u026B"
+    },
+    {
+      "id": "u026C",
+      "codepoint": 620,
+      "hex": "U+026C",
+      "char": "ɬ",
+      "name": "LATIN SMALL LETTER L WITH BELT",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u026C"
+    },
+    {
+      "id": "u026D",
+      "codepoint": 621,
+      "hex": "U+026D",
+      "char": "ɭ",
+      "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u026D"
+    },
+    {
+      "id": "u026E",
+      "codepoint": 622,
+      "hex": "U+026E",
+      "char": "ɮ",
+      "name": "LATIN SMALL LETTER LEZH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u026E"
+    },
+    {
+      "id": "u026F",
+      "codepoint": 623,
+      "hex": "U+026F",
+      "char": "ɯ",
+      "name": "LATIN SMALL LETTER TURNED M",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u026F"
+    },
+    {
+      "id": "u0270",
+      "codepoint": 624,
+      "hex": "U+0270",
+      "char": "ɰ",
+      "name": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0270"
+    },
+    {
+      "id": "u0271",
+      "codepoint": 625,
+      "hex": "U+0271",
+      "char": "ɱ",
+      "name": "LATIN SMALL LETTER M WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0271"
+    },
+    {
+      "id": "u0272",
+      "codepoint": 626,
+      "hex": "U+0272",
+      "char": "ɲ",
+      "name": "LATIN SMALL LETTER N WITH LEFT HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0272"
+    },
+    {
+      "id": "u0273",
+      "codepoint": 627,
+      "hex": "U+0273",
+      "char": "ɳ",
+      "name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0273"
+    },
+    {
+      "id": "u0274",
+      "codepoint": 628,
+      "hex": "U+0274",
+      "char": "ɴ",
+      "name": "LATIN LETTER SMALL CAPITAL N",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0274"
+    },
+    {
+      "id": "u0275",
+      "codepoint": 629,
+      "hex": "U+0275",
+      "char": "ɵ",
+      "name": "LATIN SMALL LETTER BARRED O",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0275"
+    },
+    {
+      "id": "u0276",
+      "codepoint": 630,
+      "hex": "U+0276",
+      "char": "ɶ",
+      "name": "LATIN LETTER SMALL CAPITAL OE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0276"
+    },
+    {
+      "id": "u0277",
+      "codepoint": 631,
+      "hex": "U+0277",
+      "char": "ɷ",
+      "name": "LATIN SMALL LETTER CLOSED OMEGA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0277"
+    },
+    {
+      "id": "u0278",
+      "codepoint": 632,
+      "hex": "U+0278",
+      "char": "ɸ",
+      "name": "LATIN SMALL LETTER PHI",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0278"
+    },
+    {
+      "id": "u0279",
+      "codepoint": 633,
+      "hex": "U+0279",
+      "char": "ɹ",
+      "name": "LATIN SMALL LETTER TURNED R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0279"
+    },
+    {
+      "id": "u027A",
+      "codepoint": 634,
+      "hex": "U+027A",
+      "char": "ɺ",
+      "name": "LATIN SMALL LETTER TURNED R WITH LONG LEG",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u027A"
+    },
+    {
+      "id": "u027B",
+      "codepoint": 635,
+      "hex": "U+027B",
+      "char": "ɻ",
+      "name": "LATIN SMALL LETTER TURNED R WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u027B"
+    },
+    {
+      "id": "u027C",
+      "codepoint": 636,
+      "hex": "U+027C",
+      "char": "ɼ",
+      "name": "LATIN SMALL LETTER R WITH LONG LEG",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u027C"
+    },
+    {
+      "id": "u027D",
+      "codepoint": 637,
+      "hex": "U+027D",
+      "char": "ɽ",
+      "name": "LATIN SMALL LETTER R WITH TAIL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u027D"
+    },
+    {
+      "id": "u027E",
+      "codepoint": 638,
+      "hex": "U+027E",
+      "char": "ɾ",
+      "name": "LATIN SMALL LETTER R WITH FISHHOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u027E"
+    },
+    {
+      "id": "u027F",
+      "codepoint": 639,
+      "hex": "U+027F",
+      "char": "ɿ",
+      "name": "LATIN SMALL LETTER REVERSED R WITH FISHHOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u027F"
+    },
+    {
+      "id": "u0280",
+      "codepoint": 640,
+      "hex": "U+0280",
+      "char": "ʀ",
+      "name": "LATIN LETTER SMALL CAPITAL R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0280"
+    },
+    {
+      "id": "u0281",
+      "codepoint": 641,
+      "hex": "U+0281",
+      "char": "ʁ",
+      "name": "LATIN LETTER SMALL CAPITAL INVERTED R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0281"
+    },
+    {
+      "id": "u0282",
+      "codepoint": 642,
+      "hex": "U+0282",
+      "char": "ʂ",
+      "name": "LATIN SMALL LETTER S WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0282"
+    },
+    {
+      "id": "u0283",
+      "codepoint": 643,
+      "hex": "U+0283",
+      "char": "ʃ",
+      "name": "LATIN SMALL LETTER ESH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0283"
+    },
+    {
+      "id": "u0284",
+      "codepoint": 644,
+      "hex": "U+0284",
+      "char": "ʄ",
+      "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0284"
+    },
+    {
+      "id": "u0285",
+      "codepoint": 645,
+      "hex": "U+0285",
+      "char": "ʅ",
+      "name": "LATIN SMALL LETTER SQUAT REVERSED ESH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0285"
+    },
+    {
+      "id": "u0286",
+      "codepoint": 646,
+      "hex": "U+0286",
+      "char": "ʆ",
+      "name": "LATIN SMALL LETTER ESH WITH CURL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0286"
+    },
+    {
+      "id": "u0287",
+      "codepoint": 647,
+      "hex": "U+0287",
+      "char": "ʇ",
+      "name": "LATIN SMALL LETTER TURNED T",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0287"
+    },
+    {
+      "id": "u0288",
+      "codepoint": 648,
+      "hex": "U+0288",
+      "char": "ʈ",
+      "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0288"
+    },
+    {
+      "id": "u0289",
+      "codepoint": 649,
+      "hex": "U+0289",
+      "char": "ʉ",
+      "name": "LATIN SMALL LETTER U BAR",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0289"
+    },
+    {
+      "id": "u028A",
+      "codepoint": 650,
+      "hex": "U+028A",
+      "char": "ʊ",
+      "name": "LATIN SMALL LETTER UPSILON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u028A"
+    },
+    {
+      "id": "u028B",
+      "codepoint": 651,
+      "hex": "U+028B",
+      "char": "ʋ",
+      "name": "LATIN SMALL LETTER V WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u028B"
+    },
+    {
+      "id": "u028C",
+      "codepoint": 652,
+      "hex": "U+028C",
+      "char": "ʌ",
+      "name": "LATIN SMALL LETTER TURNED V",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u028C"
+    },
+    {
+      "id": "u028D",
+      "codepoint": 653,
+      "hex": "U+028D",
+      "char": "ʍ",
+      "name": "LATIN SMALL LETTER TURNED W",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u028D"
+    },
+    {
+      "id": "u028E",
+      "codepoint": 654,
+      "hex": "U+028E",
+      "char": "ʎ",
+      "name": "LATIN SMALL LETTER TURNED Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u028E"
+    },
+    {
+      "id": "u028F",
+      "codepoint": 655,
+      "hex": "U+028F",
+      "char": "ʏ",
+      "name": "LATIN LETTER SMALL CAPITAL Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u028F"
+    },
+    {
+      "id": "u0290",
+      "codepoint": 656,
+      "hex": "U+0290",
+      "char": "ʐ",
+      "name": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0290"
+    },
+    {
+      "id": "u0291",
+      "codepoint": 657,
+      "hex": "U+0291",
+      "char": "ʑ",
+      "name": "LATIN SMALL LETTER Z WITH CURL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0291"
+    },
+    {
+      "id": "u0292",
+      "codepoint": 658,
+      "hex": "U+0292",
+      "char": "ʒ",
+      "name": "LATIN SMALL LETTER EZH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0292"
+    },
+    {
+      "id": "u0293",
+      "codepoint": 659,
+      "hex": "U+0293",
+      "char": "ʓ",
+      "name": "LATIN SMALL LETTER EZH WITH CURL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0293"
+    },
+    {
+      "id": "u0294",
+      "codepoint": 660,
+      "hex": "U+0294",
+      "char": "ʔ",
+      "name": "LATIN LETTER GLOTTAL STOP",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0294"
+    },
+    {
+      "id": "u0295",
+      "codepoint": 661,
+      "hex": "U+0295",
+      "char": "ʕ",
+      "name": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0295"
+    },
+    {
+      "id": "u0296",
+      "codepoint": 662,
+      "hex": "U+0296",
+      "char": "ʖ",
+      "name": "LATIN LETTER INVERTED GLOTTAL STOP",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0296"
+    },
+    {
+      "id": "u0297",
+      "codepoint": 663,
+      "hex": "U+0297",
+      "char": "ʗ",
+      "name": "LATIN LETTER STRETCHED C",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0297"
+    },
+    {
+      "id": "u0298",
+      "codepoint": 664,
+      "hex": "U+0298",
+      "char": "ʘ",
+      "name": "LATIN LETTER BILABIAL CLICK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0298"
+    },
+    {
+      "id": "u0299",
+      "codepoint": 665,
+      "hex": "U+0299",
+      "char": "ʙ",
+      "name": "LATIN LETTER SMALL CAPITAL B",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u0299"
+    },
+    {
+      "id": "u029A",
+      "codepoint": 666,
+      "hex": "U+029A",
+      "char": "ʚ",
+      "name": "LATIN SMALL LETTER CLOSED OPEN E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u029A"
+    },
+    {
+      "id": "u029B",
+      "codepoint": 667,
+      "hex": "U+029B",
+      "char": "ʛ",
+      "name": "LATIN LETTER SMALL CAPITAL G WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u029B"
+    },
+    {
+      "id": "u029C",
+      "codepoint": 668,
+      "hex": "U+029C",
+      "char": "ʜ",
+      "name": "LATIN LETTER SMALL CAPITAL H",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u029C"
+    },
+    {
+      "id": "u029D",
+      "codepoint": 669,
+      "hex": "U+029D",
+      "char": "ʝ",
+      "name": "LATIN SMALL LETTER J WITH CROSSED-TAIL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u029D"
+    },
+    {
+      "id": "u029E",
+      "codepoint": 670,
+      "hex": "U+029E",
+      "char": "ʞ",
+      "name": "LATIN SMALL LETTER TURNED K",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u029E"
+    },
+    {
+      "id": "u029F",
+      "codepoint": 671,
+      "hex": "U+029F",
+      "char": "ʟ",
+      "name": "LATIN LETTER SMALL CAPITAL L",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u029F"
+    },
+    {
+      "id": "u02A0",
+      "codepoint": 672,
+      "hex": "U+02A0",
+      "char": "ʠ",
+      "name": "LATIN SMALL LETTER Q WITH HOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A0"
+    },
+    {
+      "id": "u02A1",
+      "codepoint": 673,
+      "hex": "U+02A1",
+      "char": "ʡ",
+      "name": "LATIN LETTER GLOTTAL STOP WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A1"
+    },
+    {
+      "id": "u02A2",
+      "codepoint": 674,
+      "hex": "U+02A2",
+      "char": "ʢ",
+      "name": "LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A2"
+    },
+    {
+      "id": "u02A3",
+      "codepoint": 675,
+      "hex": "U+02A3",
+      "char": "ʣ",
+      "name": "LATIN SMALL LETTER DZ DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A3"
+    },
+    {
+      "id": "u02A4",
+      "codepoint": 676,
+      "hex": "U+02A4",
+      "char": "ʤ",
+      "name": "LATIN SMALL LETTER DEZH DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A4"
+    },
+    {
+      "id": "u02A5",
+      "codepoint": 677,
+      "hex": "U+02A5",
+      "char": "ʥ",
+      "name": "LATIN SMALL LETTER DZ DIGRAPH WITH CURL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A5"
+    },
+    {
+      "id": "u02A6",
+      "codepoint": 678,
+      "hex": "U+02A6",
+      "char": "ʦ",
+      "name": "LATIN SMALL LETTER TS DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A6"
+    },
+    {
+      "id": "u02A7",
+      "codepoint": 679,
+      "hex": "U+02A7",
+      "char": "ʧ",
+      "name": "LATIN SMALL LETTER TESH DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A7"
+    },
+    {
+      "id": "u02A8",
+      "codepoint": 680,
+      "hex": "U+02A8",
+      "char": "ʨ",
+      "name": "LATIN SMALL LETTER TC DIGRAPH WITH CURL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A8"
+    },
+    {
+      "id": "u02A9",
+      "codepoint": 681,
+      "hex": "U+02A9",
+      "char": "ʩ",
+      "name": "LATIN SMALL LETTER FENG DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02A9"
+    },
+    {
+      "id": "u02AA",
+      "codepoint": 682,
+      "hex": "U+02AA",
+      "char": "ʪ",
+      "name": "LATIN SMALL LETTER LS DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02AA"
+    },
+    {
+      "id": "u02AB",
+      "codepoint": 683,
+      "hex": "U+02AB",
+      "char": "ʫ",
+      "name": "LATIN SMALL LETTER LZ DIGRAPH",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02AB"
+    },
+    {
+      "id": "u02AC",
+      "codepoint": 684,
+      "hex": "U+02AC",
+      "char": "ʬ",
+      "name": "LATIN LETTER BILABIAL PERCUSSIVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02AC"
+    },
+    {
+      "id": "u02AD",
+      "codepoint": 685,
+      "hex": "U+02AD",
+      "char": "ʭ",
+      "name": "LATIN LETTER BIDENTAL PERCUSSIVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02AD"
+    },
+    {
+      "id": "u02AE",
+      "codepoint": 686,
+      "hex": "U+02AE",
+      "char": "ʮ",
+      "name": "LATIN SMALL LETTER TURNED H WITH FISHHOOK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02AE"
+    },
+    {
+      "id": "u02AF",
+      "codepoint": 687,
+      "hex": "U+02AF",
+      "char": "ʯ",
+      "name": "LATIN SMALL LETTER TURNED H WITH FISHHOOK AND TAIL",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-ipa-extensions/u02AF"
+    }
+  ]
+}

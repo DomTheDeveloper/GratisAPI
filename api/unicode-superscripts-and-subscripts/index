@@ -1,0 +1,401 @@
+{
+  "api": "unicode-superscripts-and-subscripts",
+  "title": "Superscripts and Subscripts",
+  "description": "The Superscripts and Subscripts Unicode block (U+2070..U+209F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 42,
+  "self": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u2070",
+      "codepoint": 8304,
+      "hex": "U+2070",
+      "char": "⁰",
+      "name": "SUPERSCRIPT ZERO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2070"
+    },
+    {
+      "id": "u2071",
+      "codepoint": 8305,
+      "hex": "U+2071",
+      "char": "ⁱ",
+      "name": "SUPERSCRIPT LATIN SMALL LETTER I",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2071"
+    },
+    {
+      "id": "u2074",
+      "codepoint": 8308,
+      "hex": "U+2074",
+      "char": "⁴",
+      "name": "SUPERSCRIPT FOUR",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2074"
+    },
+    {
+      "id": "u2075",
+      "codepoint": 8309,
+      "hex": "U+2075",
+      "char": "⁵",
+      "name": "SUPERSCRIPT FIVE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2075"
+    },
+    {
+      "id": "u2076",
+      "codepoint": 8310,
+      "hex": "U+2076",
+      "char": "⁶",
+      "name": "SUPERSCRIPT SIX",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2076"
+    },
+    {
+      "id": "u2077",
+      "codepoint": 8311,
+      "hex": "U+2077",
+      "char": "⁷",
+      "name": "SUPERSCRIPT SEVEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2077"
+    },
+    {
+      "id": "u2078",
+      "codepoint": 8312,
+      "hex": "U+2078",
+      "char": "⁸",
+      "name": "SUPERSCRIPT EIGHT",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2078"
+    },
+    {
+      "id": "u2079",
+      "codepoint": 8313,
+      "hex": "U+2079",
+      "char": "⁹",
+      "name": "SUPERSCRIPT NINE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2079"
+    },
+    {
+      "id": "u207A",
+      "codepoint": 8314,
+      "hex": "U+207A",
+      "char": "⁺",
+      "name": "SUPERSCRIPT PLUS SIGN",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u207A"
+    },
+    {
+      "id": "u207B",
+      "codepoint": 8315,
+      "hex": "U+207B",
+      "char": "⁻",
+      "name": "SUPERSCRIPT MINUS",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u207B"
+    },
+    {
+      "id": "u207C",
+      "codepoint": 8316,
+      "hex": "U+207C",
+      "char": "⁼",
+      "name": "SUPERSCRIPT EQUALS SIGN",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u207C"
+    },
+    {
+      "id": "u207D",
+      "codepoint": 8317,
+      "hex": "U+207D",
+      "char": "⁽",
+      "name": "SUPERSCRIPT LEFT PARENTHESIS",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u207D"
+    },
+    {
+      "id": "u207E",
+      "codepoint": 8318,
+      "hex": "U+207E",
+      "char": "⁾",
+      "name": "SUPERSCRIPT RIGHT PARENTHESIS",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u207E"
+    },
+    {
+      "id": "u207F",
+      "codepoint": 8319,
+      "hex": "U+207F",
+      "char": "ⁿ",
+      "name": "SUPERSCRIPT LATIN SMALL LETTER N",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u207F"
+    },
+    {
+      "id": "u2080",
+      "codepoint": 8320,
+      "hex": "U+2080",
+      "char": "₀",
+      "name": "SUBSCRIPT ZERO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2080"
+    },
+    {
+      "id": "u2081",
+      "codepoint": 8321,
+      "hex": "U+2081",
+      "char": "₁",
+      "name": "SUBSCRIPT ONE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2081"
+    },
+    {
+      "id": "u2082",
+      "codepoint": 8322,
+      "hex": "U+2082",
+      "char": "₂",
+      "name": "SUBSCRIPT TWO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2082"
+    },
+    {
+      "id": "u2083",
+      "codepoint": 8323,
+      "hex": "U+2083",
+      "char": "₃",
+      "name": "SUBSCRIPT THREE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2083"
+    },
+    {
+      "id": "u2084",
+      "codepoint": 8324,
+      "hex": "U+2084",
+      "char": "₄",
+      "name": "SUBSCRIPT FOUR",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2084"
+    },
+    {
+      "id": "u2085",
+      "codepoint": 8325,
+      "hex": "U+2085",
+      "char": "₅",
+      "name": "SUBSCRIPT FIVE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2085"
+    },
+    {
+      "id": "u2086",
+      "codepoint": 8326,
+      "hex": "U+2086",
+      "char": "₆",
+      "name": "SUBSCRIPT SIX",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2086"
+    },
+    {
+      "id": "u2087",
+      "codepoint": 8327,
+      "hex": "U+2087",
+      "char": "₇",
+      "name": "SUBSCRIPT SEVEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2087"
+    },
+    {
+      "id": "u2088",
+      "codepoint": 8328,
+      "hex": "U+2088",
+      "char": "₈",
+      "name": "SUBSCRIPT EIGHT",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2088"
+    },
+    {
+      "id": "u2089",
+      "codepoint": 8329,
+      "hex": "U+2089",
+      "char": "₉",
+      "name": "SUBSCRIPT NINE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2089"
+    },
+    {
+      "id": "u208A",
+      "codepoint": 8330,
+      "hex": "U+208A",
+      "char": "₊",
+      "name": "SUBSCRIPT PLUS SIGN",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u208A"
+    },
+    {
+      "id": "u208B",
+      "codepoint": 8331,
+      "hex": "U+208B",
+      "char": "₋",
+      "name": "SUBSCRIPT MINUS",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u208B"
+    },
+    {
+      "id": "u208C",
+      "codepoint": 8332,
+      "hex": "U+208C",
+      "char": "₌",
+      "name": "SUBSCRIPT EQUALS SIGN",
+      "category": "Sm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u208C"
+    },
+    {
+      "id": "u208D",
+      "codepoint": 8333,
+      "hex": "U+208D",
+      "char": "₍",
+      "name": "SUBSCRIPT LEFT PARENTHESIS",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u208D"
+    },
+    {
+      "id": "u208E",
+      "codepoint": 8334,
+      "hex": "U+208E",
+      "char": "₎",
+      "name": "SUBSCRIPT RIGHT PARENTHESIS",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u208E"
+    },
+    {
+      "id": "u2090",
+      "codepoint": 8336,
+      "hex": "U+2090",
+      "char": "ₐ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER A",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2090"
+    },
+    {
+      "id": "u2091",
+      "codepoint": 8337,
+      "hex": "U+2091",
+      "char": "ₑ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER E",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2091"
+    },
+    {
+      "id": "u2092",
+      "codepoint": 8338,
+      "hex": "U+2092",
+      "char": "ₒ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER O",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2092"
+    },
+    {
+      "id": "u2093",
+      "codepoint": 8339,
+      "hex": "U+2093",
+      "char": "ₓ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER X",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2093"
+    },
+    {
+      "id": "u2094",
+      "codepoint": 8340,
+      "hex": "U+2094",
+      "char": "ₔ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER SCHWA",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2094"
+    },
+    {
+      "id": "u2095",
+      "codepoint": 8341,
+      "hex": "U+2095",
+      "char": "ₕ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER H",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2095"
+    },
+    {
+      "id": "u2096",
+      "codepoint": 8342,
+      "hex": "U+2096",
+      "char": "ₖ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER K",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2096"
+    },
+    {
+      "id": "u2097",
+      "codepoint": 8343,
+      "hex": "U+2097",
+      "char": "ₗ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER L",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2097"
+    },
+    {
+      "id": "u2098",
+      "codepoint": 8344,
+      "hex": "U+2098",
+      "char": "ₘ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER M",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2098"
+    },
+    {
+      "id": "u2099",
+      "codepoint": 8345,
+      "hex": "U+2099",
+      "char": "ₙ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER N",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u2099"
+    },
+    {
+      "id": "u209A",
+      "codepoint": 8346,
+      "hex": "U+209A",
+      "char": "ₚ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER P",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u209A"
+    },
+    {
+      "id": "u209B",
+      "codepoint": 8347,
+      "hex": "U+209B",
+      "char": "ₛ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER S",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u209B"
+    },
+    {
+      "id": "u209C",
+      "codepoint": 8348,
+      "hex": "U+209C",
+      "char": "ₜ",
+      "name": "LATIN SUBSCRIPT SMALL LETTER T",
+      "category": "Lm",
+      "url": "https://gratisapi.com/api/unicode-superscripts-and-subscripts/u209C"
+    }
+  ]
+}

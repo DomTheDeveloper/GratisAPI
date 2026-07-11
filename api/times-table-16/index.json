@@ -1,0 +1,182 @@
+{
+  "api": "times-table-16",
+  "title": "16 Times Table",
+  "description": "The multiplication table for 16: 16x1 through 16x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-16/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-16/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 16,
+      "multiplicand": 1,
+      "product": 16,
+      "expression": "16 x 1 = 16",
+      "url": "https://gratisapi.com/api/times-table-16/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 16,
+      "multiplicand": 2,
+      "product": 32,
+      "expression": "16 x 2 = 32",
+      "url": "https://gratisapi.com/api/times-table-16/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 16,
+      "multiplicand": 3,
+      "product": 48,
+      "expression": "16 x 3 = 48",
+      "url": "https://gratisapi.com/api/times-table-16/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 16,
+      "multiplicand": 4,
+      "product": 64,
+      "expression": "16 x 4 = 64",
+      "url": "https://gratisapi.com/api/times-table-16/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 16,
+      "multiplicand": 5,
+      "product": 80,
+      "expression": "16 x 5 = 80",
+      "url": "https://gratisapi.com/api/times-table-16/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 16,
+      "multiplicand": 6,
+      "product": 96,
+      "expression": "16 x 6 = 96",
+      "url": "https://gratisapi.com/api/times-table-16/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 16,
+      "multiplicand": 7,
+      "product": 112,
+      "expression": "16 x 7 = 112",
+      "url": "https://gratisapi.com/api/times-table-16/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 16,
+      "multiplicand": 8,
+      "product": 128,
+      "expression": "16 x 8 = 128",
+      "url": "https://gratisapi.com/api/times-table-16/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 16,
+      "multiplicand": 9,
+      "product": 144,
+      "expression": "16 x 9 = 144",
+      "url": "https://gratisapi.com/api/times-table-16/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 16,
+      "multiplicand": 10,
+      "product": 160,
+      "expression": "16 x 10 = 160",
+      "url": "https://gratisapi.com/api/times-table-16/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 16,
+      "multiplicand": 11,
+      "product": 176,
+      "expression": "16 x 11 = 176",
+      "url": "https://gratisapi.com/api/times-table-16/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 16,
+      "multiplicand": 12,
+      "product": 192,
+      "expression": "16 x 12 = 192",
+      "url": "https://gratisapi.com/api/times-table-16/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 16,
+      "multiplicand": 13,
+      "product": 208,
+      "expression": "16 x 13 = 208",
+      "url": "https://gratisapi.com/api/times-table-16/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 16,
+      "multiplicand": 14,
+      "product": 224,
+      "expression": "16 x 14 = 224",
+      "url": "https://gratisapi.com/api/times-table-16/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 16,
+      "multiplicand": 15,
+      "product": 240,
+      "expression": "16 x 15 = 240",
+      "url": "https://gratisapi.com/api/times-table-16/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 16,
+      "multiplicand": 16,
+      "product": 256,
+      "expression": "16 x 16 = 256",
+      "url": "https://gratisapi.com/api/times-table-16/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 16,
+      "multiplicand": 17,
+      "product": 272,
+      "expression": "16 x 17 = 272",
+      "url": "https://gratisapi.com/api/times-table-16/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 16,
+      "multiplicand": 18,
+      "product": 288,
+      "expression": "16 x 18 = 288",
+      "url": "https://gratisapi.com/api/times-table-16/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 16,
+      "multiplicand": 19,
+      "product": 304,
+      "expression": "16 x 19 = 304",
+      "url": "https://gratisapi.com/api/times-table-16/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 16,
+      "multiplicand": 20,
+      "product": 320,
+      "expression": "16 x 20 = 320",
+      "url": "https://gratisapi.com/api/times-table-16/20"
+    }
+  ]
+}

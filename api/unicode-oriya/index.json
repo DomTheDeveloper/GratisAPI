@@ -1,0 +1,842 @@
+{
+  "api": "unicode-oriya",
+  "title": "Oriya",
+  "description": "The Oriya Unicode block (U+0B00..U+0B7F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 91,
+  "self": "https://gratisapi.com/api/unicode-oriya/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-oriya/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0B01",
+      "codepoint": 2817,
+      "hex": "U+0B01",
+      "char": "ଁ",
+      "name": "ORIYA SIGN CANDRABINDU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B01"
+    },
+    {
+      "id": "u0B02",
+      "codepoint": 2818,
+      "hex": "U+0B02",
+      "char": "ଂ",
+      "name": "ORIYA SIGN ANUSVARA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B02"
+    },
+    {
+      "id": "u0B03",
+      "codepoint": 2819,
+      "hex": "U+0B03",
+      "char": "ଃ",
+      "name": "ORIYA SIGN VISARGA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B03"
+    },
+    {
+      "id": "u0B05",
+      "codepoint": 2821,
+      "hex": "U+0B05",
+      "char": "ଅ",
+      "name": "ORIYA LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B05"
+    },
+    {
+      "id": "u0B06",
+      "codepoint": 2822,
+      "hex": "U+0B06",
+      "char": "ଆ",
+      "name": "ORIYA LETTER AA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B06"
+    },
+    {
+      "id": "u0B07",
+      "codepoint": 2823,
+      "hex": "U+0B07",
+      "char": "ଇ",
+      "name": "ORIYA LETTER I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B07"
+    },
+    {
+      "id": "u0B08",
+      "codepoint": 2824,
+      "hex": "U+0B08",
+      "char": "ଈ",
+      "name": "ORIYA LETTER II",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B08"
+    },
+    {
+      "id": "u0B09",
+      "codepoint": 2825,
+      "hex": "U+0B09",
+      "char": "ଉ",
+      "name": "ORIYA LETTER U",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B09"
+    },
+    {
+      "id": "u0B0A",
+      "codepoint": 2826,
+      "hex": "U+0B0A",
+      "char": "ଊ",
+      "name": "ORIYA LETTER UU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B0A"
+    },
+    {
+      "id": "u0B0B",
+      "codepoint": 2827,
+      "hex": "U+0B0B",
+      "char": "ଋ",
+      "name": "ORIYA LETTER VOCALIC R",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B0B"
+    },
+    {
+      "id": "u0B0C",
+      "codepoint": 2828,
+      "hex": "U+0B0C",
+      "char": "ଌ",
+      "name": "ORIYA LETTER VOCALIC L",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B0C"
+    },
+    {
+      "id": "u0B0F",
+      "codepoint": 2831,
+      "hex": "U+0B0F",
+      "char": "ଏ",
+      "name": "ORIYA LETTER E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B0F"
+    },
+    {
+      "id": "u0B10",
+      "codepoint": 2832,
+      "hex": "U+0B10",
+      "char": "ଐ",
+      "name": "ORIYA LETTER AI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B10"
+    },
+    {
+      "id": "u0B13",
+      "codepoint": 2835,
+      "hex": "U+0B13",
+      "char": "ଓ",
+      "name": "ORIYA LETTER O",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B13"
+    },
+    {
+      "id": "u0B14",
+      "codepoint": 2836,
+      "hex": "U+0B14",
+      "char": "ଔ",
+      "name": "ORIYA LETTER AU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B14"
+    },
+    {
+      "id": "u0B15",
+      "codepoint": 2837,
+      "hex": "U+0B15",
+      "char": "କ",
+      "name": "ORIYA LETTER KA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B15"
+    },
+    {
+      "id": "u0B16",
+      "codepoint": 2838,
+      "hex": "U+0B16",
+      "char": "ଖ",
+      "name": "ORIYA LETTER KHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B16"
+    },
+    {
+      "id": "u0B17",
+      "codepoint": 2839,
+      "hex": "U+0B17",
+      "char": "ଗ",
+      "name": "ORIYA LETTER GA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B17"
+    },
+    {
+      "id": "u0B18",
+      "codepoint": 2840,
+      "hex": "U+0B18",
+      "char": "ଘ",
+      "name": "ORIYA LETTER GHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B18"
+    },
+    {
+      "id": "u0B19",
+      "codepoint": 2841,
+      "hex": "U+0B19",
+      "char": "ଙ",
+      "name": "ORIYA LETTER NGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B19"
+    },
+    {
+      "id": "u0B1A",
+      "codepoint": 2842,
+      "hex": "U+0B1A",
+      "char": "ଚ",
+      "name": "ORIYA LETTER CA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B1A"
+    },
+    {
+      "id": "u0B1B",
+      "codepoint": 2843,
+      "hex": "U+0B1B",
+      "char": "ଛ",
+      "name": "ORIYA LETTER CHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B1B"
+    },
+    {
+      "id": "u0B1C",
+      "codepoint": 2844,
+      "hex": "U+0B1C",
+      "char": "ଜ",
+      "name": "ORIYA LETTER JA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B1C"
+    },
+    {
+      "id": "u0B1D",
+      "codepoint": 2845,
+      "hex": "U+0B1D",
+      "char": "ଝ",
+      "name": "ORIYA LETTER JHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B1D"
+    },
+    {
+      "id": "u0B1E",
+      "codepoint": 2846,
+      "hex": "U+0B1E",
+      "char": "ଞ",
+      "name": "ORIYA LETTER NYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B1E"
+    },
+    {
+      "id": "u0B1F",
+      "codepoint": 2847,
+      "hex": "U+0B1F",
+      "char": "ଟ",
+      "name": "ORIYA LETTER TTA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B1F"
+    },
+    {
+      "id": "u0B20",
+      "codepoint": 2848,
+      "hex": "U+0B20",
+      "char": "ଠ",
+      "name": "ORIYA LETTER TTHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B20"
+    },
+    {
+      "id": "u0B21",
+      "codepoint": 2849,
+      "hex": "U+0B21",
+      "char": "ଡ",
+      "name": "ORIYA LETTER DDA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B21"
+    },
+    {
+      "id": "u0B22",
+      "codepoint": 2850,
+      "hex": "U+0B22",
+      "char": "ଢ",
+      "name": "ORIYA LETTER DDHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B22"
+    },
+    {
+      "id": "u0B23",
+      "codepoint": 2851,
+      "hex": "U+0B23",
+      "char": "ଣ",
+      "name": "ORIYA LETTER NNA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B23"
+    },
+    {
+      "id": "u0B24",
+      "codepoint": 2852,
+      "hex": "U+0B24",
+      "char": "ତ",
+      "name": "ORIYA LETTER TA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B24"
+    },
+    {
+      "id": "u0B25",
+      "codepoint": 2853,
+      "hex": "U+0B25",
+      "char": "ଥ",
+      "name": "ORIYA LETTER THA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B25"
+    },
+    {
+      "id": "u0B26",
+      "codepoint": 2854,
+      "hex": "U+0B26",
+      "char": "ଦ",
+      "name": "ORIYA LETTER DA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B26"
+    },
+    {
+      "id": "u0B27",
+      "codepoint": 2855,
+      "hex": "U+0B27",
+      "char": "ଧ",
+      "name": "ORIYA LETTER DHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B27"
+    },
+    {
+      "id": "u0B28",
+      "codepoint": 2856,
+      "hex": "U+0B28",
+      "char": "ନ",
+      "name": "ORIYA LETTER NA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B28"
+    },
+    {
+      "id": "u0B2A",
+      "codepoint": 2858,
+      "hex": "U+0B2A",
+      "char": "ପ",
+      "name": "ORIYA LETTER PA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B2A"
+    },
+    {
+      "id": "u0B2B",
+      "codepoint": 2859,
+      "hex": "U+0B2B",
+      "char": "ଫ",
+      "name": "ORIYA LETTER PHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B2B"
+    },
+    {
+      "id": "u0B2C",
+      "codepoint": 2860,
+      "hex": "U+0B2C",
+      "char": "ବ",
+      "name": "ORIYA LETTER BA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B2C"
+    },
+    {
+      "id": "u0B2D",
+      "codepoint": 2861,
+      "hex": "U+0B2D",
+      "char": "ଭ",
+      "name": "ORIYA LETTER BHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B2D"
+    },
+    {
+      "id": "u0B2E",
+      "codepoint": 2862,
+      "hex": "U+0B2E",
+      "char": "ମ",
+      "name": "ORIYA LETTER MA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B2E"
+    },
+    {
+      "id": "u0B2F",
+      "codepoint": 2863,
+      "hex": "U+0B2F",
+      "char": "ଯ",
+      "name": "ORIYA LETTER YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B2F"
+    },
+    {
+      "id": "u0B30",
+      "codepoint": 2864,
+      "hex": "U+0B30",
+      "char": "ର",
+      "name": "ORIYA LETTER RA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B30"
+    },
+    {
+      "id": "u0B32",
+      "codepoint": 2866,
+      "hex": "U+0B32",
+      "char": "ଲ",
+      "name": "ORIYA LETTER LA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B32"
+    },
+    {
+      "id": "u0B33",
+      "codepoint": 2867,
+      "hex": "U+0B33",
+      "char": "ଳ",
+      "name": "ORIYA LETTER LLA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B33"
+    },
+    {
+      "id": "u0B35",
+      "codepoint": 2869,
+      "hex": "U+0B35",
+      "char": "ଵ",
+      "name": "ORIYA LETTER VA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B35"
+    },
+    {
+      "id": "u0B36",
+      "codepoint": 2870,
+      "hex": "U+0B36",
+      "char": "ଶ",
+      "name": "ORIYA LETTER SHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B36"
+    },
+    {
+      "id": "u0B37",
+      "codepoint": 2871,
+      "hex": "U+0B37",
+      "char": "ଷ",
+      "name": "ORIYA LETTER SSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B37"
+    },
+    {
+      "id": "u0B38",
+      "codepoint": 2872,
+      "hex": "U+0B38",
+      "char": "ସ",
+      "name": "ORIYA LETTER SA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B38"
+    },
+    {
+      "id": "u0B39",
+      "codepoint": 2873,
+      "hex": "U+0B39",
+      "char": "ହ",
+      "name": "ORIYA LETTER HA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B39"
+    },
+    {
+      "id": "u0B3C",
+      "codepoint": 2876,
+      "hex": "U+0B3C",
+      "char": "଼",
+      "name": "ORIYA SIGN NUKTA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B3C"
+    },
+    {
+      "id": "u0B3D",
+      "codepoint": 2877,
+      "hex": "U+0B3D",
+      "char": "ଽ",
+      "name": "ORIYA SIGN AVAGRAHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B3D"
+    },
+    {
+      "id": "u0B3E",
+      "codepoint": 2878,
+      "hex": "U+0B3E",
+      "char": "ା",
+      "name": "ORIYA VOWEL SIGN AA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B3E"
+    },
+    {
+      "id": "u0B3F",
+      "codepoint": 2879,
+      "hex": "U+0B3F",
+      "char": "ି",
+      "name": "ORIYA VOWEL SIGN I",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B3F"
+    },
+    {
+      "id": "u0B40",
+      "codepoint": 2880,
+      "hex": "U+0B40",
+      "char": "ୀ",
+      "name": "ORIYA VOWEL SIGN II",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B40"
+    },
+    {
+      "id": "u0B41",
+      "codepoint": 2881,
+      "hex": "U+0B41",
+      "char": "ୁ",
+      "name": "ORIYA VOWEL SIGN U",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B41"
+    },
+    {
+      "id": "u0B42",
+      "codepoint": 2882,
+      "hex": "U+0B42",
+      "char": "ୂ",
+      "name": "ORIYA VOWEL SIGN UU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B42"
+    },
+    {
+      "id": "u0B43",
+      "codepoint": 2883,
+      "hex": "U+0B43",
+      "char": "ୃ",
+      "name": "ORIYA VOWEL SIGN VOCALIC R",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B43"
+    },
+    {
+      "id": "u0B44",
+      "codepoint": 2884,
+      "hex": "U+0B44",
+      "char": "ୄ",
+      "name": "ORIYA VOWEL SIGN VOCALIC RR",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B44"
+    },
+    {
+      "id": "u0B47",
+      "codepoint": 2887,
+      "hex": "U+0B47",
+      "char": "େ",
+      "name": "ORIYA VOWEL SIGN E",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B47"
+    },
+    {
+      "id": "u0B48",
+      "codepoint": 2888,
+      "hex": "U+0B48",
+      "char": "ୈ",
+      "name": "ORIYA VOWEL SIGN AI",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B48"
+    },
+    {
+      "id": "u0B4B",
+      "codepoint": 2891,
+      "hex": "U+0B4B",
+      "char": "ୋ",
+      "name": "ORIYA VOWEL SIGN O",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B4B"
+    },
+    {
+      "id": "u0B4C",
+      "codepoint": 2892,
+      "hex": "U+0B4C",
+      "char": "ୌ",
+      "name": "ORIYA VOWEL SIGN AU",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B4C"
+    },
+    {
+      "id": "u0B4D",
+      "codepoint": 2893,
+      "hex": "U+0B4D",
+      "char": "୍",
+      "name": "ORIYA SIGN VIRAMA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B4D"
+    },
+    {
+      "id": "u0B55",
+      "codepoint": 2901,
+      "hex": "U+0B55",
+      "char": "୕",
+      "name": "ORIYA SIGN OVERLINE",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B55"
+    },
+    {
+      "id": "u0B56",
+      "codepoint": 2902,
+      "hex": "U+0B56",
+      "char": "ୖ",
+      "name": "ORIYA AI LENGTH MARK",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B56"
+    },
+    {
+      "id": "u0B57",
+      "codepoint": 2903,
+      "hex": "U+0B57",
+      "char": "ୗ",
+      "name": "ORIYA AU LENGTH MARK",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B57"
+    },
+    {
+      "id": "u0B5C",
+      "codepoint": 2908,
+      "hex": "U+0B5C",
+      "char": "ଡ଼",
+      "name": "ORIYA LETTER RRA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B5C"
+    },
+    {
+      "id": "u0B5D",
+      "codepoint": 2909,
+      "hex": "U+0B5D",
+      "char": "ଢ଼",
+      "name": "ORIYA LETTER RHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B5D"
+    },
+    {
+      "id": "u0B5F",
+      "codepoint": 2911,
+      "hex": "U+0B5F",
+      "char": "ୟ",
+      "name": "ORIYA LETTER YYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B5F"
+    },
+    {
+      "id": "u0B60",
+      "codepoint": 2912,
+      "hex": "U+0B60",
+      "char": "ୠ",
+      "name": "ORIYA LETTER VOCALIC RR",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B60"
+    },
+    {
+      "id": "u0B61",
+      "codepoint": 2913,
+      "hex": "U+0B61",
+      "char": "ୡ",
+      "name": "ORIYA LETTER VOCALIC LL",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B61"
+    },
+    {
+      "id": "u0B62",
+      "codepoint": 2914,
+      "hex": "U+0B62",
+      "char": "ୢ",
+      "name": "ORIYA VOWEL SIGN VOCALIC L",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B62"
+    },
+    {
+      "id": "u0B63",
+      "codepoint": 2915,
+      "hex": "U+0B63",
+      "char": "ୣ",
+      "name": "ORIYA VOWEL SIGN VOCALIC LL",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B63"
+    },
+    {
+      "id": "u0B66",
+      "codepoint": 2918,
+      "hex": "U+0B66",
+      "char": "୦",
+      "name": "ORIYA DIGIT ZERO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B66"
+    },
+    {
+      "id": "u0B67",
+      "codepoint": 2919,
+      "hex": "U+0B67",
+      "char": "୧",
+      "name": "ORIYA DIGIT ONE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B67"
+    },
+    {
+      "id": "u0B68",
+      "codepoint": 2920,
+      "hex": "U+0B68",
+      "char": "୨",
+      "name": "ORIYA DIGIT TWO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B68"
+    },
+    {
+      "id": "u0B69",
+      "codepoint": 2921,
+      "hex": "U+0B69",
+      "char": "୩",
+      "name": "ORIYA DIGIT THREE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B69"
+    },
+    {
+      "id": "u0B6A",
+      "codepoint": 2922,
+      "hex": "U+0B6A",
+      "char": "୪",
+      "name": "ORIYA DIGIT FOUR",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B6A"
+    },
+    {
+      "id": "u0B6B",
+      "codepoint": 2923,
+      "hex": "U+0B6B",
+      "char": "୫",
+      "name": "ORIYA DIGIT FIVE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B6B"
+    },
+    {
+      "id": "u0B6C",
+      "codepoint": 2924,
+      "hex": "U+0B6C",
+      "char": "୬",
+      "name": "ORIYA DIGIT SIX",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B6C"
+    },
+    {
+      "id": "u0B6D",
+      "codepoint": 2925,
+      "hex": "U+0B6D",
+      "char": "୭",
+      "name": "ORIYA DIGIT SEVEN",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B6D"
+    },
+    {
+      "id": "u0B6E",
+      "codepoint": 2926,
+      "hex": "U+0B6E",
+      "char": "୮",
+      "name": "ORIYA DIGIT EIGHT",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B6E"
+    },
+    {
+      "id": "u0B6F",
+      "codepoint": 2927,
+      "hex": "U+0B6F",
+      "char": "୯",
+      "name": "ORIYA DIGIT NINE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B6F"
+    },
+    {
+      "id": "u0B70",
+      "codepoint": 2928,
+      "hex": "U+0B70",
+      "char": "୰",
+      "name": "ORIYA ISSHAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B70"
+    },
+    {
+      "id": "u0B71",
+      "codepoint": 2929,
+      "hex": "U+0B71",
+      "char": "ୱ",
+      "name": "ORIYA LETTER WA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B71"
+    },
+    {
+      "id": "u0B72",
+      "codepoint": 2930,
+      "hex": "U+0B72",
+      "char": "୲",
+      "name": "ORIYA FRACTION ONE QUARTER",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B72"
+    },
+    {
+      "id": "u0B73",
+      "codepoint": 2931,
+      "hex": "U+0B73",
+      "char": "୳",
+      "name": "ORIYA FRACTION ONE HALF",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B73"
+    },
+    {
+      "id": "u0B74",
+      "codepoint": 2932,
+      "hex": "U+0B74",
+      "char": "୴",
+      "name": "ORIYA FRACTION THREE QUARTERS",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B74"
+    },
+    {
+      "id": "u0B75",
+      "codepoint": 2933,
+      "hex": "U+0B75",
+      "char": "୵",
+      "name": "ORIYA FRACTION ONE SIXTEENTH",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B75"
+    },
+    {
+      "id": "u0B76",
+      "codepoint": 2934,
+      "hex": "U+0B76",
+      "char": "୶",
+      "name": "ORIYA FRACTION ONE EIGHTH",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B76"
+    },
+    {
+      "id": "u0B77",
+      "codepoint": 2935,
+      "hex": "U+0B77",
+      "char": "୷",
+      "name": "ORIYA FRACTION THREE SIXTEENTHS",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-oriya/u0B77"
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "api": "unicode-box-drawing",
+  "title": "Box Drawing",
+  "description": "The Box Drawing Unicode block (U+2500..U+257F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 128,
+  "self": "https://gratisapi.com/api/unicode-box-drawing/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-box-drawing/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u2500",
+      "codepoint": 9472,
+      "hex": "U+2500",
+      "char": "─",
+      "name": "BOX DRAWINGS LIGHT HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2500"
+    },
+    {
+      "id": "u2501",
+      "codepoint": 9473,
+      "hex": "U+2501",
+      "char": "━",
+      "name": "BOX DRAWINGS HEAVY HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2501"
+    },
+    {
+      "id": "u2502",
+      "codepoint": 9474,
+      "hex": "U+2502",
+      "char": "│",
+      "name": "BOX DRAWINGS LIGHT VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2502"
+    },
+    {
+      "id": "u2503",
+      "codepoint": 9475,
+      "hex": "U+2503",
+      "char": "┃",
+      "name": "BOX DRAWINGS HEAVY VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2503"
+    },
+    {
+      "id": "u2504",
+      "codepoint": 9476,
+      "hex": "U+2504",
+      "char": "┄",
+      "name": "BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2504"
+    },
+    {
+      "id": "u2505",
+      "codepoint": 9477,
+      "hex": "U+2505",
+      "char": "┅",
+      "name": "BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2505"
+    },
+    {
+      "id": "u2506",
+      "codepoint": 9478,
+      "hex": "U+2506",
+      "char": "┆",
+      "name": "BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2506"
+    },
+    {
+      "id": "u2507",
+      "codepoint": 9479,
+      "hex": "U+2507",
+      "char": "┇",
+      "name": "BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2507"
+    },
+    {
+      "id": "u2508",
+      "codepoint": 9480,
+      "hex": "U+2508",
+      "char": "┈",
+      "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2508"
+    },
+    {
+      "id": "u2509",
+      "codepoint": 9481,
+      "hex": "U+2509",
+      "char": "┉",
+      "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2509"
+    },
+    {
+      "id": "u250A",
+      "codepoint": 9482,
+      "hex": "U+250A",
+      "char": "┊",
+      "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u250A"
+    },
+    {
+      "id": "u250B",
+      "codepoint": 9483,
+      "hex": "U+250B",
+      "char": "┋",
+      "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u250B"
+    },
+    {
+      "id": "u250C",
+      "codepoint": 9484,
+      "hex": "U+250C",
+      "char": "┌",
+      "name": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u250C"
+    },
+    {
+      "id": "u250D",
+      "codepoint": 9485,
+      "hex": "U+250D",
+      "char": "┍",
+      "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u250D"
+    },
+    {
+      "id": "u250E",
+      "codepoint": 9486,
+      "hex": "U+250E",
+      "char": "┎",
+      "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u250E"
+    },
+    {
+      "id": "u250F",
+      "codepoint": 9487,
+      "hex": "U+250F",
+      "char": "┏",
+      "name": "BOX DRAWINGS HEAVY DOWN AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u250F"
+    },
+    {
+      "id": "u2510",
+      "codepoint": 9488,
+      "hex": "U+2510",
+      "char": "┐",
+      "name": "BOX DRAWINGS LIGHT DOWN AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2510"
+    },
+    {
+      "id": "u2511",
+      "codepoint": 9489,
+      "hex": "U+2511",
+      "char": "┑",
+      "name": "BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2511"
+    },
+    {
+      "id": "u2512",
+      "codepoint": 9490,
+      "hex": "U+2512",
+      "char": "┒",
+      "name": "BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2512"
+    },
+    {
+      "id": "u2513",
+      "codepoint": 9491,
+      "hex": "U+2513",
+      "char": "┓",
+      "name": "BOX DRAWINGS HEAVY DOWN AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2513"
+    },
+    {
+      "id": "u2514",
+      "codepoint": 9492,
+      "hex": "U+2514",
+      "char": "└",
+      "name": "BOX DRAWINGS LIGHT UP AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2514"
+    },
+    {
+      "id": "u2515",
+      "codepoint": 9493,
+      "hex": "U+2515",
+      "char": "┕",
+      "name": "BOX DRAWINGS UP LIGHT AND RIGHT HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2515"
+    },
+    {
+      "id": "u2516",
+      "codepoint": 9494,
+      "hex": "U+2516",
+      "char": "┖",
+      "name": "BOX DRAWINGS UP HEAVY AND RIGHT LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2516"
+    },
+    {
+      "id": "u2517",
+      "codepoint": 9495,
+      "hex": "U+2517",
+      "char": "┗",
+      "name": "BOX DRAWINGS HEAVY UP AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2517"
+    },
+    {
+      "id": "u2518",
+      "codepoint": 9496,
+      "hex": "U+2518",
+      "char": "┘",
+      "name": "BOX DRAWINGS LIGHT UP AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2518"
+    },
+    {
+      "id": "u2519",
+      "codepoint": 9497,
+      "hex": "U+2519",
+      "char": "┙",
+      "name": "BOX DRAWINGS UP LIGHT AND LEFT HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2519"
+    },
+    {
+      "id": "u251A",
+      "codepoint": 9498,
+      "hex": "U+251A",
+      "char": "┚",
+      "name": "BOX DRAWINGS UP HEAVY AND LEFT LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u251A"
+    },
+    {
+      "id": "u251B",
+      "codepoint": 9499,
+      "hex": "U+251B",
+      "char": "┛",
+      "name": "BOX DRAWINGS HEAVY UP AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u251B"
+    },
+    {
+      "id": "u251C",
+      "codepoint": 9500,
+      "hex": "U+251C",
+      "char": "├",
+      "name": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u251C"
+    },
+    {
+      "id": "u251D",
+      "codepoint": 9501,
+      "hex": "U+251D",
+      "char": "┝",
+      "name": "BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u251D"
+    },
+    {
+      "id": "u251E",
+      "codepoint": 9502,
+      "hex": "U+251E",
+      "char": "┞",
+      "name": "BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u251E"
+    },
+    {
+      "id": "u251F",
+      "codepoint": 9503,
+      "hex": "U+251F",
+      "char": "┟",
+      "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u251F"
+    },
+    {
+      "id": "u2520",
+      "codepoint": 9504,
+      "hex": "U+2520",
+      "char": "┠",
+      "name": "BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2520"
+    },
+    {
+      "id": "u2521",
+      "codepoint": 9505,
+      "hex": "U+2521",
+      "char": "┡",
+      "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2521"
+    },
+    {
+      "id": "u2522",
+      "codepoint": 9506,
+      "hex": "U+2522",
+      "char": "┢",
+      "name": "BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2522"
+    },
+    {
+      "id": "u2523",
+      "codepoint": 9507,
+      "hex": "U+2523",
+      "char": "┣",
+      "name": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2523"
+    },
+    {
+      "id": "u2524",
+      "codepoint": 9508,
+      "hex": "U+2524",
+      "char": "┤",
+      "name": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2524"
+    },
+    {
+      "id": "u2525",
+      "codepoint": 9509,
+      "hex": "U+2525",
+      "char": "┥",
+      "name": "BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2525"
+    },
+    {
+      "id": "u2526",
+      "codepoint": 9510,
+      "hex": "U+2526",
+      "char": "┦",
+      "name": "BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2526"
+    },
+    {
+      "id": "u2527",
+      "codepoint": 9511,
+      "hex": "U+2527",
+      "char": "┧",
+      "name": "BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2527"
+    },
+    {
+      "id": "u2528",
+      "codepoint": 9512,
+      "hex": "U+2528",
+      "char": "┨",
+      "name": "BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2528"
+    },
+    {
+      "id": "u2529",
+      "codepoint": 9513,
+      "hex": "U+2529",
+      "char": "┩",
+      "name": "BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2529"
+    },
+    {
+      "id": "u252A",
+      "codepoint": 9514,
+      "hex": "U+252A",
+      "char": "┪",
+      "name": "BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u252A"
+    },
+    {
+      "id": "u252B",
+      "codepoint": 9515,
+      "hex": "U+252B",
+      "char": "┫",
+      "name": "BOX DRAWINGS HEAVY VERTICAL AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u252B"
+    },
+    {
+      "id": "u252C",
+      "codepoint": 9516,
+      "hex": "U+252C",
+      "char": "┬",
+      "name": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u252C"
+    },
+    {
+      "id": "u252D",
+      "codepoint": 9517,
+      "hex": "U+252D",
+      "char": "┭",
+      "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u252D"
+    },
+    {
+      "id": "u252E",
+      "codepoint": 9518,
+      "hex": "U+252E",
+      "char": "┮",
+      "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u252E"
+    },
+    {
+      "id": "u252F",
+      "codepoint": 9519,
+      "hex": "U+252F",
+      "char": "┯",
+      "name": "BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u252F"
+    },
+    {
+      "id": "u2530",
+      "codepoint": 9520,
+      "hex": "U+2530",
+      "char": "┰",
+      "name": "BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2530"
+    },
+    {
+      "id": "u2531",
+      "codepoint": 9521,
+      "hex": "U+2531",
+      "char": "┱",
+      "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2531"
+    },
+    {
+      "id": "u2532",
+      "codepoint": 9522,
+      "hex": "U+2532",
+      "char": "┲",
+      "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2532"
+    },
+    {
+      "id": "u2533",
+      "codepoint": 9523,
+      "hex": "U+2533",
+      "char": "┳",
+      "name": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2533"
+    },
+    {
+      "id": "u2534",
+      "codepoint": 9524,
+      "hex": "U+2534",
+      "char": "┴",
+      "name": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2534"
+    },
+    {
+      "id": "u2535",
+      "codepoint": 9525,
+      "hex": "U+2535",
+      "char": "┵",
+      "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2535"
+    },
+    {
+      "id": "u2536",
+      "codepoint": 9526,
+      "hex": "U+2536",
+      "char": "┶",
+      "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2536"
+    },
+    {
+      "id": "u2537",
+      "codepoint": 9527,
+      "hex": "U+2537",
+      "char": "┷",
+      "name": "BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2537"
+    },
+    {
+      "id": "u2538",
+      "codepoint": 9528,
+      "hex": "U+2538",
+      "char": "┸",
+      "name": "BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2538"
+    },
+    {
+      "id": "u2539",
+      "codepoint": 9529,
+      "hex": "U+2539",
+      "char": "┹",
+      "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2539"
+    },
+    {
+      "id": "u253A",
+      "codepoint": 9530,
+      "hex": "U+253A",
+      "char": "┺",
+      "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u253A"
+    },
+    {
+      "id": "u253B",
+      "codepoint": 9531,
+      "hex": "U+253B",
+      "char": "┻",
+      "name": "BOX DRAWINGS HEAVY UP AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u253B"
+    },
+    {
+      "id": "u253C",
+      "codepoint": 9532,
+      "hex": "U+253C",
+      "char": "┼",
+      "name": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u253C"
+    },
+    {
+      "id": "u253D",
+      "codepoint": 9533,
+      "hex": "U+253D",
+      "char": "┽",
+      "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u253D"
+    },
+    {
+      "id": "u253E",
+      "codepoint": 9534,
+      "hex": "U+253E",
+      "char": "┾",
+      "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u253E"
+    },
+    {
+      "id": "u253F",
+      "codepoint": 9535,
+      "hex": "U+253F",
+      "char": "┿",
+      "name": "BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u253F"
+    },
+    {
+      "id": "u2540",
+      "codepoint": 9536,
+      "hex": "U+2540",
+      "char": "╀",
+      "name": "BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2540"
+    },
+    {
+      "id": "u2541",
+      "codepoint": 9537,
+      "hex": "U+2541",
+      "char": "╁",
+      "name": "BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2541"
+    },
+    {
+      "id": "u2542",
+      "codepoint": 9538,
+      "hex": "U+2542",
+      "char": "╂",
+      "name": "BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2542"
+    },
+    {
+      "id": "u2543",
+      "codepoint": 9539,
+      "hex": "U+2543",
+      "char": "╃",
+      "name": "BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2543"
+    },
+    {
+      "id": "u2544",
+      "codepoint": 9540,
+      "hex": "U+2544",
+      "char": "╄",
+      "name": "BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2544"
+    },
+    {
+      "id": "u2545",
+      "codepoint": 9541,
+      "hex": "U+2545",
+      "char": "╅",
+      "name": "BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2545"
+    },
+    {
+      "id": "u2546",
+      "codepoint": 9542,
+      "hex": "U+2546",
+      "char": "╆",
+      "name": "BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2546"
+    },
+    {
+      "id": "u2547",
+      "codepoint": 9543,
+      "hex": "U+2547",
+      "char": "╇",
+      "name": "BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2547"
+    },
+    {
+      "id": "u2548",
+      "codepoint": 9544,
+      "hex": "U+2548",
+      "char": "╈",
+      "name": "BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2548"
+    },
+    {
+      "id": "u2549",
+      "codepoint": 9545,
+      "hex": "U+2549",
+      "char": "╉",
+      "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2549"
+    },
+    {
+      "id": "u254A",
+      "codepoint": 9546,
+      "hex": "U+254A",
+      "char": "╊",
+      "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u254A"
+    },
+    {
+      "id": "u254B",
+      "codepoint": 9547,
+      "hex": "U+254B",
+      "char": "╋",
+      "name": "BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u254B"
+    },
+    {
+      "id": "u254C",
+      "codepoint": 9548,
+      "hex": "U+254C",
+      "char": "╌",
+      "name": "BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u254C"
+    },
+    {
+      "id": "u254D",
+      "codepoint": 9549,
+      "hex": "U+254D",
+      "char": "╍",
+      "name": "BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u254D"
+    },
+    {
+      "id": "u254E",
+      "codepoint": 9550,
+      "hex": "U+254E",
+      "char": "╎",
+      "name": "BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u254E"
+    },
+    {
+      "id": "u254F",
+      "codepoint": 9551,
+      "hex": "U+254F",
+      "char": "╏",
+      "name": "BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u254F"
+    },
+    {
+      "id": "u2550",
+      "codepoint": 9552,
+      "hex": "U+2550",
+      "char": "═",
+      "name": "BOX DRAWINGS DOUBLE HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2550"
+    },
+    {
+      "id": "u2551",
+      "codepoint": 9553,
+      "hex": "U+2551",
+      "char": "║",
+      "name": "BOX DRAWINGS DOUBLE VERTICAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2551"
+    },
+    {
+      "id": "u2552",
+      "codepoint": 9554,
+      "hex": "U+2552",
+      "char": "╒",
+      "name": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2552"
+    },
+    {
+      "id": "u2553",
+      "codepoint": 9555,
+      "hex": "U+2553",
+      "char": "╓",
+      "name": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2553"
+    },
+    {
+      "id": "u2554",
+      "codepoint": 9556,
+      "hex": "U+2554",
+      "char": "╔",
+      "name": "BOX DRAWINGS DOUBLE DOWN AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2554"
+    },
+    {
+      "id": "u2555",
+      "codepoint": 9557,
+      "hex": "U+2555",
+      "char": "╕",
+      "name": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2555"
+    },
+    {
+      "id": "u2556",
+      "codepoint": 9558,
+      "hex": "U+2556",
+      "char": "╖",
+      "name": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2556"
+    },
+    {
+      "id": "u2557",
+      "codepoint": 9559,
+      "hex": "U+2557",
+      "char": "╗",
+      "name": "BOX DRAWINGS DOUBLE DOWN AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2557"
+    },
+    {
+      "id": "u2558",
+      "codepoint": 9560,
+      "hex": "U+2558",
+      "char": "╘",
+      "name": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2558"
+    },
+    {
+      "id": "u2559",
+      "codepoint": 9561,
+      "hex": "U+2559",
+      "char": "╙",
+      "name": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2559"
+    },
+    {
+      "id": "u255A",
+      "codepoint": 9562,
+      "hex": "U+255A",
+      "char": "╚",
+      "name": "BOX DRAWINGS DOUBLE UP AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u255A"
+    },
+    {
+      "id": "u255B",
+      "codepoint": 9563,
+      "hex": "U+255B",
+      "char": "╛",
+      "name": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u255B"
+    },
+    {
+      "id": "u255C",
+      "codepoint": 9564,
+      "hex": "U+255C",
+      "char": "╜",
+      "name": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u255C"
+    },
+    {
+      "id": "u255D",
+      "codepoint": 9565,
+      "hex": "U+255D",
+      "char": "╝",
+      "name": "BOX DRAWINGS DOUBLE UP AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u255D"
+    },
+    {
+      "id": "u255E",
+      "codepoint": 9566,
+      "hex": "U+255E",
+      "char": "╞",
+      "name": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u255E"
+    },
+    {
+      "id": "u255F",
+      "codepoint": 9567,
+      "hex": "U+255F",
+      "char": "╟",
+      "name": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u255F"
+    },
+    {
+      "id": "u2560",
+      "codepoint": 9568,
+      "hex": "U+2560",
+      "char": "╠",
+      "name": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2560"
+    },
+    {
+      "id": "u2561",
+      "codepoint": 9569,
+      "hex": "U+2561",
+      "char": "╡",
+      "name": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2561"
+    },
+    {
+      "id": "u2562",
+      "codepoint": 9570,
+      "hex": "U+2562",
+      "char": "╢",
+      "name": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2562"
+    },
+    {
+      "id": "u2563",
+      "codepoint": 9571,
+      "hex": "U+2563",
+      "char": "╣",
+      "name": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2563"
+    },
+    {
+      "id": "u2564",
+      "codepoint": 9572,
+      "hex": "U+2564",
+      "char": "╤",
+      "name": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2564"
+    },
+    {
+      "id": "u2565",
+      "codepoint": 9573,
+      "hex": "U+2565",
+      "char": "╥",
+      "name": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2565"
+    },
+    {
+      "id": "u2566",
+      "codepoint": 9574,
+      "hex": "U+2566",
+      "char": "╦",
+      "name": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2566"
+    },
+    {
+      "id": "u2567",
+      "codepoint": 9575,
+      "hex": "U+2567",
+      "char": "╧",
+      "name": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2567"
+    },
+    {
+      "id": "u2568",
+      "codepoint": 9576,
+      "hex": "U+2568",
+      "char": "╨",
+      "name": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2568"
+    },
+    {
+      "id": "u2569",
+      "codepoint": 9577,
+      "hex": "U+2569",
+      "char": "╩",
+      "name": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2569"
+    },
+    {
+      "id": "u256A",
+      "codepoint": 9578,
+      "hex": "U+256A",
+      "char": "╪",
+      "name": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u256A"
+    },
+    {
+      "id": "u256B",
+      "codepoint": 9579,
+      "hex": "U+256B",
+      "char": "╫",
+      "name": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u256B"
+    },
+    {
+      "id": "u256C",
+      "codepoint": 9580,
+      "hex": "U+256C",
+      "char": "╬",
+      "name": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u256C"
+    },
+    {
+      "id": "u256D",
+      "codepoint": 9581,
+      "hex": "U+256D",
+      "char": "╭",
+      "name": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u256D"
+    },
+    {
+      "id": "u256E",
+      "codepoint": 9582,
+      "hex": "U+256E",
+      "char": "╮",
+      "name": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u256E"
+    },
+    {
+      "id": "u256F",
+      "codepoint": 9583,
+      "hex": "U+256F",
+      "char": "╯",
+      "name": "BOX DRAWINGS LIGHT ARC UP AND LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u256F"
+    },
+    {
+      "id": "u2570",
+      "codepoint": 9584,
+      "hex": "U+2570",
+      "char": "╰",
+      "name": "BOX DRAWINGS LIGHT ARC UP AND RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2570"
+    },
+    {
+      "id": "u2571",
+      "codepoint": 9585,
+      "hex": "U+2571",
+      "char": "╱",
+      "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2571"
+    },
+    {
+      "id": "u2572",
+      "codepoint": 9586,
+      "hex": "U+2572",
+      "char": "╲",
+      "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2572"
+    },
+    {
+      "id": "u2573",
+      "codepoint": 9587,
+      "hex": "U+2573",
+      "char": "╳",
+      "name": "BOX DRAWINGS LIGHT DIAGONAL CROSS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2573"
+    },
+    {
+      "id": "u2574",
+      "codepoint": 9588,
+      "hex": "U+2574",
+      "char": "╴",
+      "name": "BOX DRAWINGS LIGHT LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2574"
+    },
+    {
+      "id": "u2575",
+      "codepoint": 9589,
+      "hex": "U+2575",
+      "char": "╵",
+      "name": "BOX DRAWINGS LIGHT UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2575"
+    },
+    {
+      "id": "u2576",
+      "codepoint": 9590,
+      "hex": "U+2576",
+      "char": "╶",
+      "name": "BOX DRAWINGS LIGHT RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2576"
+    },
+    {
+      "id": "u2577",
+      "codepoint": 9591,
+      "hex": "U+2577",
+      "char": "╷",
+      "name": "BOX DRAWINGS LIGHT DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2577"
+    },
+    {
+      "id": "u2578",
+      "codepoint": 9592,
+      "hex": "U+2578",
+      "char": "╸",
+      "name": "BOX DRAWINGS HEAVY LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2578"
+    },
+    {
+      "id": "u2579",
+      "codepoint": 9593,
+      "hex": "U+2579",
+      "char": "╹",
+      "name": "BOX DRAWINGS HEAVY UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u2579"
+    },
+    {
+      "id": "u257A",
+      "codepoint": 9594,
+      "hex": "U+257A",
+      "char": "╺",
+      "name": "BOX DRAWINGS HEAVY RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u257A"
+    },
+    {
+      "id": "u257B",
+      "codepoint": 9595,
+      "hex": "U+257B",
+      "char": "╻",
+      "name": "BOX DRAWINGS HEAVY DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u257B"
+    },
+    {
+      "id": "u257C",
+      "codepoint": 9596,
+      "hex": "U+257C",
+      "char": "╼",
+      "name": "BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u257C"
+    },
+    {
+      "id": "u257D",
+      "codepoint": 9597,
+      "hex": "U+257D",
+      "char": "╽",
+      "name": "BOX DRAWINGS LIGHT UP AND HEAVY DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u257D"
+    },
+    {
+      "id": "u257E",
+      "codepoint": 9598,
+      "hex": "U+257E",
+      "char": "╾",
+      "name": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u257E"
+    },
+    {
+      "id": "u257F",
+      "codepoint": 9599,
+      "hex": "U+257F",
+      "char": "╿",
+      "name": "BOX DRAWINGS HEAVY UP AND LIGHT DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-box-drawing/u257F"
+    }
+  ]
+}

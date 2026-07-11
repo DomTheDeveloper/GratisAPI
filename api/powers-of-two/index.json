@@ -1,0 +1,338 @@
+{
+  "api": "powers-of-two",
+  "title": "Powers of Two",
+  "description": "2^n within exact-integer range.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 53,
+  "self": "https://gratisapi.com/api/powers-of-two/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/powers-of-two/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 1,
+      "url": "https://gratisapi.com/api/powers-of-two/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 2,
+      "url": "https://gratisapi.com/api/powers-of-two/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 4,
+      "url": "https://gratisapi.com/api/powers-of-two/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 8,
+      "url": "https://gratisapi.com/api/powers-of-two/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 16,
+      "url": "https://gratisapi.com/api/powers-of-two/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 32,
+      "url": "https://gratisapi.com/api/powers-of-two/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 64,
+      "url": "https://gratisapi.com/api/powers-of-two/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 128,
+      "url": "https://gratisapi.com/api/powers-of-two/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 256,
+      "url": "https://gratisapi.com/api/powers-of-two/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 512,
+      "url": "https://gratisapi.com/api/powers-of-two/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 1024,
+      "url": "https://gratisapi.com/api/powers-of-two/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 2048,
+      "url": "https://gratisapi.com/api/powers-of-two/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 4096,
+      "url": "https://gratisapi.com/api/powers-of-two/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 8192,
+      "url": "https://gratisapi.com/api/powers-of-two/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 16384,
+      "url": "https://gratisapi.com/api/powers-of-two/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 32768,
+      "url": "https://gratisapi.com/api/powers-of-two/15"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "value": 65536,
+      "url": "https://gratisapi.com/api/powers-of-two/16"
+    },
+    {
+      "id": 17,
+      "index": 18,
+      "value": 131072,
+      "url": "https://gratisapi.com/api/powers-of-two/17"
+    },
+    {
+      "id": 18,
+      "index": 19,
+      "value": 262144,
+      "url": "https://gratisapi.com/api/powers-of-two/18"
+    },
+    {
+      "id": 19,
+      "index": 20,
+      "value": 524288,
+      "url": "https://gratisapi.com/api/powers-of-two/19"
+    },
+    {
+      "id": 20,
+      "index": 21,
+      "value": 1048576,
+      "url": "https://gratisapi.com/api/powers-of-two/20"
+    },
+    {
+      "id": 21,
+      "index": 22,
+      "value": 2097152,
+      "url": "https://gratisapi.com/api/powers-of-two/21"
+    },
+    {
+      "id": 22,
+      "index": 23,
+      "value": 4194304,
+      "url": "https://gratisapi.com/api/powers-of-two/22"
+    },
+    {
+      "id": 23,
+      "index": 24,
+      "value": 8388608,
+      "url": "https://gratisapi.com/api/powers-of-two/23"
+    },
+    {
+      "id": 24,
+      "index": 25,
+      "value": 16777216,
+      "url": "https://gratisapi.com/api/powers-of-two/24"
+    },
+    {
+      "id": 25,
+      "index": 26,
+      "value": 33554432,
+      "url": "https://gratisapi.com/api/powers-of-two/25"
+    },
+    {
+      "id": 26,
+      "index": 27,
+      "value": 67108864,
+      "url": "https://gratisapi.com/api/powers-of-two/26"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "value": 134217728,
+      "url": "https://gratisapi.com/api/powers-of-two/27"
+    },
+    {
+      "id": 28,
+      "index": 29,
+      "value": 268435456,
+      "url": "https://gratisapi.com/api/powers-of-two/28"
+    },
+    {
+      "id": 29,
+      "index": 30,
+      "value": 536870912,
+      "url": "https://gratisapi.com/api/powers-of-two/29"
+    },
+    {
+      "id": 30,
+      "index": 31,
+      "value": 1073741824,
+      "url": "https://gratisapi.com/api/powers-of-two/30"
+    },
+    {
+      "id": 31,
+      "index": 32,
+      "value": 2147483648,
+      "url": "https://gratisapi.com/api/powers-of-two/31"
+    },
+    {
+      "id": 32,
+      "index": 33,
+      "value": 4294967296,
+      "url": "https://gratisapi.com/api/powers-of-two/32"
+    },
+    {
+      "id": 33,
+      "index": 34,
+      "value": 8589934592,
+      "url": "https://gratisapi.com/api/powers-of-two/33"
+    },
+    {
+      "id": 34,
+      "index": 35,
+      "value": 17179869184,
+      "url": "https://gratisapi.com/api/powers-of-two/34"
+    },
+    {
+      "id": 35,
+      "index": 36,
+      "value": 34359738368,
+      "url": "https://gratisapi.com/api/powers-of-two/35"
+    },
+    {
+      "id": 36,
+      "index": 37,
+      "value": 68719476736,
+      "url": "https://gratisapi.com/api/powers-of-two/36"
+    },
+    {
+      "id": 37,
+      "index": 38,
+      "value": 137438953472,
+      "url": "https://gratisapi.com/api/powers-of-two/37"
+    },
+    {
+      "id": 38,
+      "index": 39,
+      "value": 274877906944,
+      "url": "https://gratisapi.com/api/powers-of-two/38"
+    },
+    {
+      "id": 39,
+      "index": 40,
+      "value": 549755813888,
+      "url": "https://gratisapi.com/api/powers-of-two/39"
+    },
+    {
+      "id": 40,
+      "index": 41,
+      "value": 1099511627776,
+      "url": "https://gratisapi.com/api/powers-of-two/40"
+    },
+    {
+      "id": 41,
+      "index": 42,
+      "value": 2199023255552,
+      "url": "https://gratisapi.com/api/powers-of-two/41"
+    },
+    {
+      "id": 42,
+      "index": 43,
+      "value": 4398046511104,
+      "url": "https://gratisapi.com/api/powers-of-two/42"
+    },
+    {
+      "id": 43,
+      "index": 44,
+      "value": 8796093022208,
+      "url": "https://gratisapi.com/api/powers-of-two/43"
+    },
+    {
+      "id": 44,
+      "index": 45,
+      "value": 17592186044416,
+      "url": "https://gratisapi.com/api/powers-of-two/44"
+    },
+    {
+      "id": 45,
+      "index": 46,
+      "value": 35184372088832,
+      "url": "https://gratisapi.com/api/powers-of-two/45"
+    },
+    {
+      "id": 46,
+      "index": 47,
+      "value": 70368744177664,
+      "url": "https://gratisapi.com/api/powers-of-two/46"
+    },
+    {
+      "id": 47,
+      "index": 48,
+      "value": 140737488355328,
+      "url": "https://gratisapi.com/api/powers-of-two/47"
+    },
+    {
+      "id": 48,
+      "index": 49,
+      "value": 281474976710656,
+      "url": "https://gratisapi.com/api/powers-of-two/48"
+    },
+    {
+      "id": 49,
+      "index": 50,
+      "value": 562949953421312,
+      "url": "https://gratisapi.com/api/powers-of-two/49"
+    },
+    {
+      "id": 50,
+      "index": 51,
+      "value": 1125899906842624,
+      "url": "https://gratisapi.com/api/powers-of-two/50"
+    },
+    {
+      "id": 51,
+      "index": 52,
+      "value": 2251799813685248,
+      "url": "https://gratisapi.com/api/powers-of-two/51"
+    },
+    {
+      "id": 52,
+      "index": 53,
+      "value": 4503599627370496,
+      "url": "https://gratisapi.com/api/powers-of-two/52"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ _Gratis_ means free — and GratisAPI is free in every sense. No API keys, no ra
 limits, no sign-up, no tracking, no cost. Ever. Every endpoint is a plain JSON
 file served at a clean URL straight from a global CDN.
 
-**100+ APIs · 3,000+ records · 100+ articles · $0 forever.**
+**1,000+ APIs · 1,000,000+ records · 100+ articles · $0 forever.**
 
 🌐 **Live:** https://gratisapi.com/
 📖 **Docs (Swagger UI):** https://gratisapi.com/docs/
@@ -67,7 +67,7 @@ Each dataset index looks like:
 
 ## Available APIs
 
-There are **100+ APIs** in total — from `amino-acids` to `volcanoes`. The live,
+There are **1,000+ APIs** in total — from `amino-acids` to `volcanoes`. The live,
 always-current directory of every one is at
 [`/api/index`](https://gratisapi.com/api/index).
 A selection is listed below.

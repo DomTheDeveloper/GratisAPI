@@ -1,0 +1,1922 @@
+{
+  "api": "unicode-tibetan",
+  "title": "Tibetan",
+  "description": "The Tibetan Unicode block (U+0F00..U+0FFF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 211,
+  "self": "https://gratisapi.com/api/unicode-tibetan/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-tibetan/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0F00",
+      "codepoint": 3840,
+      "hex": "U+0F00",
+      "char": "ༀ",
+      "name": "TIBETAN SYLLABLE OM",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F00"
+    },
+    {
+      "id": "u0F01",
+      "codepoint": 3841,
+      "hex": "U+0F01",
+      "char": "༁",
+      "name": "TIBETAN MARK GTER YIG MGO TRUNCATED A",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F01"
+    },
+    {
+      "id": "u0F02",
+      "codepoint": 3842,
+      "hex": "U+0F02",
+      "char": "༂",
+      "name": "TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F02"
+    },
+    {
+      "id": "u0F03",
+      "codepoint": 3843,
+      "hex": "U+0F03",
+      "char": "༃",
+      "name": "TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F03"
+    },
+    {
+      "id": "u0F04",
+      "codepoint": 3844,
+      "hex": "U+0F04",
+      "char": "༄",
+      "name": "TIBETAN MARK INITIAL YIG MGO MDUN MA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F04"
+    },
+    {
+      "id": "u0F05",
+      "codepoint": 3845,
+      "hex": "U+0F05",
+      "char": "༅",
+      "name": "TIBETAN MARK CLOSING YIG MGO SGAB MA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F05"
+    },
+    {
+      "id": "u0F06",
+      "codepoint": 3846,
+      "hex": "U+0F06",
+      "char": "༆",
+      "name": "TIBETAN MARK CARET YIG MGO PHUR SHAD MA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F06"
+    },
+    {
+      "id": "u0F07",
+      "codepoint": 3847,
+      "hex": "U+0F07",
+      "char": "༇",
+      "name": "TIBETAN MARK YIG MGO TSHEG SHAD MA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F07"
+    },
+    {
+      "id": "u0F08",
+      "codepoint": 3848,
+      "hex": "U+0F08",
+      "char": "༈",
+      "name": "TIBETAN MARK SBRUL SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F08"
+    },
+    {
+      "id": "u0F09",
+      "codepoint": 3849,
+      "hex": "U+0F09",
+      "char": "༉",
+      "name": "TIBETAN MARK BSKUR YIG MGO",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F09"
+    },
+    {
+      "id": "u0F0A",
+      "codepoint": 3850,
+      "hex": "U+0F0A",
+      "char": "༊",
+      "name": "TIBETAN MARK BKA- SHOG YIG MGO",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F0A"
+    },
+    {
+      "id": "u0F0B",
+      "codepoint": 3851,
+      "hex": "U+0F0B",
+      "char": "་",
+      "name": "TIBETAN MARK INTERSYLLABIC TSHEG",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F0B"
+    },
+    {
+      "id": "u0F0C",
+      "codepoint": 3852,
+      "hex": "U+0F0C",
+      "char": "༌",
+      "name": "TIBETAN MARK DELIMITER TSHEG BSTAR",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F0C"
+    },
+    {
+      "id": "u0F0D",
+      "codepoint": 3853,
+      "hex": "U+0F0D",
+      "char": "།",
+      "name": "TIBETAN MARK SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F0D"
+    },
+    {
+      "id": "u0F0E",
+      "codepoint": 3854,
+      "hex": "U+0F0E",
+      "char": "༎",
+      "name": "TIBETAN MARK NYIS SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F0E"
+    },
+    {
+      "id": "u0F0F",
+      "codepoint": 3855,
+      "hex": "U+0F0F",
+      "char": "༏",
+      "name": "TIBETAN MARK TSHEG SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F0F"
+    },
+    {
+      "id": "u0F10",
+      "codepoint": 3856,
+      "hex": "U+0F10",
+      "char": "༐",
+      "name": "TIBETAN MARK NYIS TSHEG SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F10"
+    },
+    {
+      "id": "u0F11",
+      "codepoint": 3857,
+      "hex": "U+0F11",
+      "char": "༑",
+      "name": "TIBETAN MARK RIN CHEN SPUNGS SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F11"
+    },
+    {
+      "id": "u0F12",
+      "codepoint": 3858,
+      "hex": "U+0F12",
+      "char": "༒",
+      "name": "TIBETAN MARK RGYA GRAM SHAD",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F12"
+    },
+    {
+      "id": "u0F13",
+      "codepoint": 3859,
+      "hex": "U+0F13",
+      "char": "༓",
+      "name": "TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F13"
+    },
+    {
+      "id": "u0F14",
+      "codepoint": 3860,
+      "hex": "U+0F14",
+      "char": "༔",
+      "name": "TIBETAN MARK GTER TSHEG",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F14"
+    },
+    {
+      "id": "u0F15",
+      "codepoint": 3861,
+      "hex": "U+0F15",
+      "char": "༕",
+      "name": "TIBETAN LOGOTYPE SIGN CHAD RTAGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F15"
+    },
+    {
+      "id": "u0F16",
+      "codepoint": 3862,
+      "hex": "U+0F16",
+      "char": "༖",
+      "name": "TIBETAN LOGOTYPE SIGN LHAG RTAGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F16"
+    },
+    {
+      "id": "u0F17",
+      "codepoint": 3863,
+      "hex": "U+0F17",
+      "char": "༗",
+      "name": "TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F17"
+    },
+    {
+      "id": "u0F18",
+      "codepoint": 3864,
+      "hex": "U+0F18",
+      "char": "༘",
+      "name": "TIBETAN ASTROLOGICAL SIGN -KHYUD PA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F18"
+    },
+    {
+      "id": "u0F19",
+      "codepoint": 3865,
+      "hex": "U+0F19",
+      "char": "༙",
+      "name": "TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F19"
+    },
+    {
+      "id": "u0F1A",
+      "codepoint": 3866,
+      "hex": "U+0F1A",
+      "char": "༚",
+      "name": "TIBETAN SIGN RDEL DKAR GCIG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F1A"
+    },
+    {
+      "id": "u0F1B",
+      "codepoint": 3867,
+      "hex": "U+0F1B",
+      "char": "༛",
+      "name": "TIBETAN SIGN RDEL DKAR GNYIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F1B"
+    },
+    {
+      "id": "u0F1C",
+      "codepoint": 3868,
+      "hex": "U+0F1C",
+      "char": "༜",
+      "name": "TIBETAN SIGN RDEL DKAR GSUM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F1C"
+    },
+    {
+      "id": "u0F1D",
+      "codepoint": 3869,
+      "hex": "U+0F1D",
+      "char": "༝",
+      "name": "TIBETAN SIGN RDEL NAG GCIG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F1D"
+    },
+    {
+      "id": "u0F1E",
+      "codepoint": 3870,
+      "hex": "U+0F1E",
+      "char": "༞",
+      "name": "TIBETAN SIGN RDEL NAG GNYIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F1E"
+    },
+    {
+      "id": "u0F1F",
+      "codepoint": 3871,
+      "hex": "U+0F1F",
+      "char": "༟",
+      "name": "TIBETAN SIGN RDEL DKAR RDEL NAG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F1F"
+    },
+    {
+      "id": "u0F20",
+      "codepoint": 3872,
+      "hex": "U+0F20",
+      "char": "༠",
+      "name": "TIBETAN DIGIT ZERO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F20"
+    },
+    {
+      "id": "u0F21",
+      "codepoint": 3873,
+      "hex": "U+0F21",
+      "char": "༡",
+      "name": "TIBETAN DIGIT ONE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F21"
+    },
+    {
+      "id": "u0F22",
+      "codepoint": 3874,
+      "hex": "U+0F22",
+      "char": "༢",
+      "name": "TIBETAN DIGIT TWO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F22"
+    },
+    {
+      "id": "u0F23",
+      "codepoint": 3875,
+      "hex": "U+0F23",
+      "char": "༣",
+      "name": "TIBETAN DIGIT THREE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F23"
+    },
+    {
+      "id": "u0F24",
+      "codepoint": 3876,
+      "hex": "U+0F24",
+      "char": "༤",
+      "name": "TIBETAN DIGIT FOUR",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F24"
+    },
+    {
+      "id": "u0F25",
+      "codepoint": 3877,
+      "hex": "U+0F25",
+      "char": "༥",
+      "name": "TIBETAN DIGIT FIVE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F25"
+    },
+    {
+      "id": "u0F26",
+      "codepoint": 3878,
+      "hex": "U+0F26",
+      "char": "༦",
+      "name": "TIBETAN DIGIT SIX",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F26"
+    },
+    {
+      "id": "u0F27",
+      "codepoint": 3879,
+      "hex": "U+0F27",
+      "char": "༧",
+      "name": "TIBETAN DIGIT SEVEN",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F27"
+    },
+    {
+      "id": "u0F28",
+      "codepoint": 3880,
+      "hex": "U+0F28",
+      "char": "༨",
+      "name": "TIBETAN DIGIT EIGHT",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F28"
+    },
+    {
+      "id": "u0F29",
+      "codepoint": 3881,
+      "hex": "U+0F29",
+      "char": "༩",
+      "name": "TIBETAN DIGIT NINE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F29"
+    },
+    {
+      "id": "u0F2A",
+      "codepoint": 3882,
+      "hex": "U+0F2A",
+      "char": "༪",
+      "name": "TIBETAN DIGIT HALF ONE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F2A"
+    },
+    {
+      "id": "u0F2B",
+      "codepoint": 3883,
+      "hex": "U+0F2B",
+      "char": "༫",
+      "name": "TIBETAN DIGIT HALF TWO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F2B"
+    },
+    {
+      "id": "u0F2C",
+      "codepoint": 3884,
+      "hex": "U+0F2C",
+      "char": "༬",
+      "name": "TIBETAN DIGIT HALF THREE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F2C"
+    },
+    {
+      "id": "u0F2D",
+      "codepoint": 3885,
+      "hex": "U+0F2D",
+      "char": "༭",
+      "name": "TIBETAN DIGIT HALF FOUR",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F2D"
+    },
+    {
+      "id": "u0F2E",
+      "codepoint": 3886,
+      "hex": "U+0F2E",
+      "char": "༮",
+      "name": "TIBETAN DIGIT HALF FIVE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F2E"
+    },
+    {
+      "id": "u0F2F",
+      "codepoint": 3887,
+      "hex": "U+0F2F",
+      "char": "༯",
+      "name": "TIBETAN DIGIT HALF SIX",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F2F"
+    },
+    {
+      "id": "u0F30",
+      "codepoint": 3888,
+      "hex": "U+0F30",
+      "char": "༰",
+      "name": "TIBETAN DIGIT HALF SEVEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F30"
+    },
+    {
+      "id": "u0F31",
+      "codepoint": 3889,
+      "hex": "U+0F31",
+      "char": "༱",
+      "name": "TIBETAN DIGIT HALF EIGHT",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F31"
+    },
+    {
+      "id": "u0F32",
+      "codepoint": 3890,
+      "hex": "U+0F32",
+      "char": "༲",
+      "name": "TIBETAN DIGIT HALF NINE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F32"
+    },
+    {
+      "id": "u0F33",
+      "codepoint": 3891,
+      "hex": "U+0F33",
+      "char": "༳",
+      "name": "TIBETAN DIGIT HALF ZERO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F33"
+    },
+    {
+      "id": "u0F34",
+      "codepoint": 3892,
+      "hex": "U+0F34",
+      "char": "༴",
+      "name": "TIBETAN MARK BSDUS RTAGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F34"
+    },
+    {
+      "id": "u0F35",
+      "codepoint": 3893,
+      "hex": "U+0F35",
+      "char": "༵",
+      "name": "TIBETAN MARK NGAS BZUNG NYI ZLA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F35"
+    },
+    {
+      "id": "u0F36",
+      "codepoint": 3894,
+      "hex": "U+0F36",
+      "char": "༶",
+      "name": "TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F36"
+    },
+    {
+      "id": "u0F37",
+      "codepoint": 3895,
+      "hex": "U+0F37",
+      "char": "༷",
+      "name": "TIBETAN MARK NGAS BZUNG SGOR RTAGS",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F37"
+    },
+    {
+      "id": "u0F38",
+      "codepoint": 3896,
+      "hex": "U+0F38",
+      "char": "༸",
+      "name": "TIBETAN MARK CHE MGO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F38"
+    },
+    {
+      "id": "u0F39",
+      "codepoint": 3897,
+      "hex": "U+0F39",
+      "char": "༹",
+      "name": "TIBETAN MARK TSA -PHRU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F39"
+    },
+    {
+      "id": "u0F3A",
+      "codepoint": 3898,
+      "hex": "U+0F3A",
+      "char": "༺",
+      "name": "TIBETAN MARK GUG RTAGS GYON",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F3A"
+    },
+    {
+      "id": "u0F3B",
+      "codepoint": 3899,
+      "hex": "U+0F3B",
+      "char": "༻",
+      "name": "TIBETAN MARK GUG RTAGS GYAS",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F3B"
+    },
+    {
+      "id": "u0F3C",
+      "codepoint": 3900,
+      "hex": "U+0F3C",
+      "char": "༼",
+      "name": "TIBETAN MARK ANG KHANG GYON",
+      "category": "Ps",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F3C"
+    },
+    {
+      "id": "u0F3D",
+      "codepoint": 3901,
+      "hex": "U+0F3D",
+      "char": "༽",
+      "name": "TIBETAN MARK ANG KHANG GYAS",
+      "category": "Pe",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F3D"
+    },
+    {
+      "id": "u0F3E",
+      "codepoint": 3902,
+      "hex": "U+0F3E",
+      "char": "༾",
+      "name": "TIBETAN SIGN YAR TSHES",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F3E"
+    },
+    {
+      "id": "u0F3F",
+      "codepoint": 3903,
+      "hex": "U+0F3F",
+      "char": "༿",
+      "name": "TIBETAN SIGN MAR TSHES",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F3F"
+    },
+    {
+      "id": "u0F40",
+      "codepoint": 3904,
+      "hex": "U+0F40",
+      "char": "ཀ",
+      "name": "TIBETAN LETTER KA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F40"
+    },
+    {
+      "id": "u0F41",
+      "codepoint": 3905,
+      "hex": "U+0F41",
+      "char": "ཁ",
+      "name": "TIBETAN LETTER KHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F41"
+    },
+    {
+      "id": "u0F42",
+      "codepoint": 3906,
+      "hex": "U+0F42",
+      "char": "ག",
+      "name": "TIBETAN LETTER GA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F42"
+    },
+    {
+      "id": "u0F43",
+      "codepoint": 3907,
+      "hex": "U+0F43",
+      "char": "གྷ",
+      "name": "TIBETAN LETTER GHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F43"
+    },
+    {
+      "id": "u0F44",
+      "codepoint": 3908,
+      "hex": "U+0F44",
+      "char": "ང",
+      "name": "TIBETAN LETTER NGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F44"
+    },
+    {
+      "id": "u0F45",
+      "codepoint": 3909,
+      "hex": "U+0F45",
+      "char": "ཅ",
+      "name": "TIBETAN LETTER CA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F45"
+    },
+    {
+      "id": "u0F46",
+      "codepoint": 3910,
+      "hex": "U+0F46",
+      "char": "ཆ",
+      "name": "TIBETAN LETTER CHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F46"
+    },
+    {
+      "id": "u0F47",
+      "codepoint": 3911,
+      "hex": "U+0F47",
+      "char": "ཇ",
+      "name": "TIBETAN LETTER JA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F47"
+    },
+    {
+      "id": "u0F49",
+      "codepoint": 3913,
+      "hex": "U+0F49",
+      "char": "ཉ",
+      "name": "TIBETAN LETTER NYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F49"
+    },
+    {
+      "id": "u0F4A",
+      "codepoint": 3914,
+      "hex": "U+0F4A",
+      "char": "ཊ",
+      "name": "TIBETAN LETTER TTA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F4A"
+    },
+    {
+      "id": "u0F4B",
+      "codepoint": 3915,
+      "hex": "U+0F4B",
+      "char": "ཋ",
+      "name": "TIBETAN LETTER TTHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F4B"
+    },
+    {
+      "id": "u0F4C",
+      "codepoint": 3916,
+      "hex": "U+0F4C",
+      "char": "ཌ",
+      "name": "TIBETAN LETTER DDA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F4C"
+    },
+    {
+      "id": "u0F4D",
+      "codepoint": 3917,
+      "hex": "U+0F4D",
+      "char": "ཌྷ",
+      "name": "TIBETAN LETTER DDHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F4D"
+    },
+    {
+      "id": "u0F4E",
+      "codepoint": 3918,
+      "hex": "U+0F4E",
+      "char": "ཎ",
+      "name": "TIBETAN LETTER NNA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F4E"
+    },
+    {
+      "id": "u0F4F",
+      "codepoint": 3919,
+      "hex": "U+0F4F",
+      "char": "ཏ",
+      "name": "TIBETAN LETTER TA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F4F"
+    },
+    {
+      "id": "u0F50",
+      "codepoint": 3920,
+      "hex": "U+0F50",
+      "char": "ཐ",
+      "name": "TIBETAN LETTER THA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F50"
+    },
+    {
+      "id": "u0F51",
+      "codepoint": 3921,
+      "hex": "U+0F51",
+      "char": "ད",
+      "name": "TIBETAN LETTER DA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F51"
+    },
+    {
+      "id": "u0F52",
+      "codepoint": 3922,
+      "hex": "U+0F52",
+      "char": "དྷ",
+      "name": "TIBETAN LETTER DHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F52"
+    },
+    {
+      "id": "u0F53",
+      "codepoint": 3923,
+      "hex": "U+0F53",
+      "char": "ན",
+      "name": "TIBETAN LETTER NA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F53"
+    },
+    {
+      "id": "u0F54",
+      "codepoint": 3924,
+      "hex": "U+0F54",
+      "char": "པ",
+      "name": "TIBETAN LETTER PA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F54"
+    },
+    {
+      "id": "u0F55",
+      "codepoint": 3925,
+      "hex": "U+0F55",
+      "char": "ཕ",
+      "name": "TIBETAN LETTER PHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F55"
+    },
+    {
+      "id": "u0F56",
+      "codepoint": 3926,
+      "hex": "U+0F56",
+      "char": "བ",
+      "name": "TIBETAN LETTER BA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F56"
+    },
+    {
+      "id": "u0F57",
+      "codepoint": 3927,
+      "hex": "U+0F57",
+      "char": "བྷ",
+      "name": "TIBETAN LETTER BHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F57"
+    },
+    {
+      "id": "u0F58",
+      "codepoint": 3928,
+      "hex": "U+0F58",
+      "char": "མ",
+      "name": "TIBETAN LETTER MA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F58"
+    },
+    {
+      "id": "u0F59",
+      "codepoint": 3929,
+      "hex": "U+0F59",
+      "char": "ཙ",
+      "name": "TIBETAN LETTER TSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F59"
+    },
+    {
+      "id": "u0F5A",
+      "codepoint": 3930,
+      "hex": "U+0F5A",
+      "char": "ཚ",
+      "name": "TIBETAN LETTER TSHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F5A"
+    },
+    {
+      "id": "u0F5B",
+      "codepoint": 3931,
+      "hex": "U+0F5B",
+      "char": "ཛ",
+      "name": "TIBETAN LETTER DZA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F5B"
+    },
+    {
+      "id": "u0F5C",
+      "codepoint": 3932,
+      "hex": "U+0F5C",
+      "char": "ཛྷ",
+      "name": "TIBETAN LETTER DZHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F5C"
+    },
+    {
+      "id": "u0F5D",
+      "codepoint": 3933,
+      "hex": "U+0F5D",
+      "char": "ཝ",
+      "name": "TIBETAN LETTER WA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F5D"
+    },
+    {
+      "id": "u0F5E",
+      "codepoint": 3934,
+      "hex": "U+0F5E",
+      "char": "ཞ",
+      "name": "TIBETAN LETTER ZHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F5E"
+    },
+    {
+      "id": "u0F5F",
+      "codepoint": 3935,
+      "hex": "U+0F5F",
+      "char": "ཟ",
+      "name": "TIBETAN LETTER ZA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F5F"
+    },
+    {
+      "id": "u0F60",
+      "codepoint": 3936,
+      "hex": "U+0F60",
+      "char": "འ",
+      "name": "TIBETAN LETTER -A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F60"
+    },
+    {
+      "id": "u0F61",
+      "codepoint": 3937,
+      "hex": "U+0F61",
+      "char": "ཡ",
+      "name": "TIBETAN LETTER YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F61"
+    },
+    {
+      "id": "u0F62",
+      "codepoint": 3938,
+      "hex": "U+0F62",
+      "char": "ར",
+      "name": "TIBETAN LETTER RA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F62"
+    },
+    {
+      "id": "u0F63",
+      "codepoint": 3939,
+      "hex": "U+0F63",
+      "char": "ལ",
+      "name": "TIBETAN LETTER LA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F63"
+    },
+    {
+      "id": "u0F64",
+      "codepoint": 3940,
+      "hex": "U+0F64",
+      "char": "ཤ",
+      "name": "TIBETAN LETTER SHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F64"
+    },
+    {
+      "id": "u0F65",
+      "codepoint": 3941,
+      "hex": "U+0F65",
+      "char": "ཥ",
+      "name": "TIBETAN LETTER SSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F65"
+    },
+    {
+      "id": "u0F66",
+      "codepoint": 3942,
+      "hex": "U+0F66",
+      "char": "ས",
+      "name": "TIBETAN LETTER SA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F66"
+    },
+    {
+      "id": "u0F67",
+      "codepoint": 3943,
+      "hex": "U+0F67",
+      "char": "ཧ",
+      "name": "TIBETAN LETTER HA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F67"
+    },
+    {
+      "id": "u0F68",
+      "codepoint": 3944,
+      "hex": "U+0F68",
+      "char": "ཨ",
+      "name": "TIBETAN LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F68"
+    },
+    {
+      "id": "u0F69",
+      "codepoint": 3945,
+      "hex": "U+0F69",
+      "char": "ཀྵ",
+      "name": "TIBETAN LETTER KSSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F69"
+    },
+    {
+      "id": "u0F6A",
+      "codepoint": 3946,
+      "hex": "U+0F6A",
+      "char": "ཪ",
+      "name": "TIBETAN LETTER FIXED-FORM RA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F6A"
+    },
+    {
+      "id": "u0F6B",
+      "codepoint": 3947,
+      "hex": "U+0F6B",
+      "char": "ཫ",
+      "name": "TIBETAN LETTER KKA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F6B"
+    },
+    {
+      "id": "u0F6C",
+      "codepoint": 3948,
+      "hex": "U+0F6C",
+      "char": "ཬ",
+      "name": "TIBETAN LETTER RRA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F6C"
+    },
+    {
+      "id": "u0F71",
+      "codepoint": 3953,
+      "hex": "U+0F71",
+      "char": "ཱ",
+      "name": "TIBETAN VOWEL SIGN AA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F71"
+    },
+    {
+      "id": "u0F72",
+      "codepoint": 3954,
+      "hex": "U+0F72",
+      "char": "ི",
+      "name": "TIBETAN VOWEL SIGN I",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F72"
+    },
+    {
+      "id": "u0F73",
+      "codepoint": 3955,
+      "hex": "U+0F73",
+      "char": "ཱི",
+      "name": "TIBETAN VOWEL SIGN II",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F73"
+    },
+    {
+      "id": "u0F74",
+      "codepoint": 3956,
+      "hex": "U+0F74",
+      "char": "ུ",
+      "name": "TIBETAN VOWEL SIGN U",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F74"
+    },
+    {
+      "id": "u0F75",
+      "codepoint": 3957,
+      "hex": "U+0F75",
+      "char": "ཱུ",
+      "name": "TIBETAN VOWEL SIGN UU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F75"
+    },
+    {
+      "id": "u0F76",
+      "codepoint": 3958,
+      "hex": "U+0F76",
+      "char": "ྲྀ",
+      "name": "TIBETAN VOWEL SIGN VOCALIC R",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F76"
+    },
+    {
+      "id": "u0F77",
+      "codepoint": 3959,
+      "hex": "U+0F77",
+      "char": "ཷ",
+      "name": "TIBETAN VOWEL SIGN VOCALIC RR",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F77"
+    },
+    {
+      "id": "u0F78",
+      "codepoint": 3960,
+      "hex": "U+0F78",
+      "char": "ླྀ",
+      "name": "TIBETAN VOWEL SIGN VOCALIC L",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F78"
+    },
+    {
+      "id": "u0F79",
+      "codepoint": 3961,
+      "hex": "U+0F79",
+      "char": "ཹ",
+      "name": "TIBETAN VOWEL SIGN VOCALIC LL",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F79"
+    },
+    {
+      "id": "u0F7A",
+      "codepoint": 3962,
+      "hex": "U+0F7A",
+      "char": "ེ",
+      "name": "TIBETAN VOWEL SIGN E",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F7A"
+    },
+    {
+      "id": "u0F7B",
+      "codepoint": 3963,
+      "hex": "U+0F7B",
+      "char": "ཻ",
+      "name": "TIBETAN VOWEL SIGN EE",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F7B"
+    },
+    {
+      "id": "u0F7C",
+      "codepoint": 3964,
+      "hex": "U+0F7C",
+      "char": "ོ",
+      "name": "TIBETAN VOWEL SIGN O",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F7C"
+    },
+    {
+      "id": "u0F7D",
+      "codepoint": 3965,
+      "hex": "U+0F7D",
+      "char": "ཽ",
+      "name": "TIBETAN VOWEL SIGN OO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F7D"
+    },
+    {
+      "id": "u0F7E",
+      "codepoint": 3966,
+      "hex": "U+0F7E",
+      "char": "ཾ",
+      "name": "TIBETAN SIGN RJES SU NGA RO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F7E"
+    },
+    {
+      "id": "u0F7F",
+      "codepoint": 3967,
+      "hex": "U+0F7F",
+      "char": "ཿ",
+      "name": "TIBETAN SIGN RNAM BCAD",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F7F"
+    },
+    {
+      "id": "u0F80",
+      "codepoint": 3968,
+      "hex": "U+0F80",
+      "char": "ྀ",
+      "name": "TIBETAN VOWEL SIGN REVERSED I",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F80"
+    },
+    {
+      "id": "u0F81",
+      "codepoint": 3969,
+      "hex": "U+0F81",
+      "char": "ཱྀ",
+      "name": "TIBETAN VOWEL SIGN REVERSED II",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F81"
+    },
+    {
+      "id": "u0F82",
+      "codepoint": 3970,
+      "hex": "U+0F82",
+      "char": "ྂ",
+      "name": "TIBETAN SIGN NYI ZLA NAA DA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F82"
+    },
+    {
+      "id": "u0F83",
+      "codepoint": 3971,
+      "hex": "U+0F83",
+      "char": "ྃ",
+      "name": "TIBETAN SIGN SNA LDAN",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F83"
+    },
+    {
+      "id": "u0F84",
+      "codepoint": 3972,
+      "hex": "U+0F84",
+      "char": "྄",
+      "name": "TIBETAN MARK HALANTA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F84"
+    },
+    {
+      "id": "u0F85",
+      "codepoint": 3973,
+      "hex": "U+0F85",
+      "char": "྅",
+      "name": "TIBETAN MARK PALUTA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F85"
+    },
+    {
+      "id": "u0F86",
+      "codepoint": 3974,
+      "hex": "U+0F86",
+      "char": "྆",
+      "name": "TIBETAN SIGN LCI RTAGS",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F86"
+    },
+    {
+      "id": "u0F87",
+      "codepoint": 3975,
+      "hex": "U+0F87",
+      "char": "྇",
+      "name": "TIBETAN SIGN YANG RTAGS",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F87"
+    },
+    {
+      "id": "u0F88",
+      "codepoint": 3976,
+      "hex": "U+0F88",
+      "char": "ྈ",
+      "name": "TIBETAN SIGN LCE TSA CAN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F88"
+    },
+    {
+      "id": "u0F89",
+      "codepoint": 3977,
+      "hex": "U+0F89",
+      "char": "ྉ",
+      "name": "TIBETAN SIGN MCHU CAN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F89"
+    },
+    {
+      "id": "u0F8A",
+      "codepoint": 3978,
+      "hex": "U+0F8A",
+      "char": "ྊ",
+      "name": "TIBETAN SIGN GRU CAN RGYINGS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F8A"
+    },
+    {
+      "id": "u0F8B",
+      "codepoint": 3979,
+      "hex": "U+0F8B",
+      "char": "ྋ",
+      "name": "TIBETAN SIGN GRU MED RGYINGS",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F8B"
+    },
+    {
+      "id": "u0F8C",
+      "codepoint": 3980,
+      "hex": "U+0F8C",
+      "char": "ྌ",
+      "name": "TIBETAN SIGN INVERTED MCHU CAN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F8C"
+    },
+    {
+      "id": "u0F8D",
+      "codepoint": 3981,
+      "hex": "U+0F8D",
+      "char": "ྍ",
+      "name": "TIBETAN SUBJOINED SIGN LCE TSA CAN",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F8D"
+    },
+    {
+      "id": "u0F8E",
+      "codepoint": 3982,
+      "hex": "U+0F8E",
+      "char": "ྎ",
+      "name": "TIBETAN SUBJOINED SIGN MCHU CAN",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F8E"
+    },
+    {
+      "id": "u0F8F",
+      "codepoint": 3983,
+      "hex": "U+0F8F",
+      "char": "ྏ",
+      "name": "TIBETAN SUBJOINED SIGN INVERTED MCHU CAN",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F8F"
+    },
+    {
+      "id": "u0F90",
+      "codepoint": 3984,
+      "hex": "U+0F90",
+      "char": "ྐ",
+      "name": "TIBETAN SUBJOINED LETTER KA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F90"
+    },
+    {
+      "id": "u0F91",
+      "codepoint": 3985,
+      "hex": "U+0F91",
+      "char": "ྑ",
+      "name": "TIBETAN SUBJOINED LETTER KHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F91"
+    },
+    {
+      "id": "u0F92",
+      "codepoint": 3986,
+      "hex": "U+0F92",
+      "char": "ྒ",
+      "name": "TIBETAN SUBJOINED LETTER GA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F92"
+    },
+    {
+      "id": "u0F93",
+      "codepoint": 3987,
+      "hex": "U+0F93",
+      "char": "ྒྷ",
+      "name": "TIBETAN SUBJOINED LETTER GHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F93"
+    },
+    {
+      "id": "u0F94",
+      "codepoint": 3988,
+      "hex": "U+0F94",
+      "char": "ྔ",
+      "name": "TIBETAN SUBJOINED LETTER NGA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F94"
+    },
+    {
+      "id": "u0F95",
+      "codepoint": 3989,
+      "hex": "U+0F95",
+      "char": "ྕ",
+      "name": "TIBETAN SUBJOINED LETTER CA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F95"
+    },
+    {
+      "id": "u0F96",
+      "codepoint": 3990,
+      "hex": "U+0F96",
+      "char": "ྖ",
+      "name": "TIBETAN SUBJOINED LETTER CHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F96"
+    },
+    {
+      "id": "u0F97",
+      "codepoint": 3991,
+      "hex": "U+0F97",
+      "char": "ྗ",
+      "name": "TIBETAN SUBJOINED LETTER JA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F97"
+    },
+    {
+      "id": "u0F99",
+      "codepoint": 3993,
+      "hex": "U+0F99",
+      "char": "ྙ",
+      "name": "TIBETAN SUBJOINED LETTER NYA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F99"
+    },
+    {
+      "id": "u0F9A",
+      "codepoint": 3994,
+      "hex": "U+0F9A",
+      "char": "ྚ",
+      "name": "TIBETAN SUBJOINED LETTER TTA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F9A"
+    },
+    {
+      "id": "u0F9B",
+      "codepoint": 3995,
+      "hex": "U+0F9B",
+      "char": "ྛ",
+      "name": "TIBETAN SUBJOINED LETTER TTHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F9B"
+    },
+    {
+      "id": "u0F9C",
+      "codepoint": 3996,
+      "hex": "U+0F9C",
+      "char": "ྜ",
+      "name": "TIBETAN SUBJOINED LETTER DDA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F9C"
+    },
+    {
+      "id": "u0F9D",
+      "codepoint": 3997,
+      "hex": "U+0F9D",
+      "char": "ྜྷ",
+      "name": "TIBETAN SUBJOINED LETTER DDHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F9D"
+    },
+    {
+      "id": "u0F9E",
+      "codepoint": 3998,
+      "hex": "U+0F9E",
+      "char": "ྞ",
+      "name": "TIBETAN SUBJOINED LETTER NNA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F9E"
+    },
+    {
+      "id": "u0F9F",
+      "codepoint": 3999,
+      "hex": "U+0F9F",
+      "char": "ྟ",
+      "name": "TIBETAN SUBJOINED LETTER TA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0F9F"
+    },
+    {
+      "id": "u0FA0",
+      "codepoint": 4000,
+      "hex": "U+0FA0",
+      "char": "ྠ",
+      "name": "TIBETAN SUBJOINED LETTER THA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA0"
+    },
+    {
+      "id": "u0FA1",
+      "codepoint": 4001,
+      "hex": "U+0FA1",
+      "char": "ྡ",
+      "name": "TIBETAN SUBJOINED LETTER DA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA1"
+    },
+    {
+      "id": "u0FA2",
+      "codepoint": 4002,
+      "hex": "U+0FA2",
+      "char": "ྡྷ",
+      "name": "TIBETAN SUBJOINED LETTER DHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA2"
+    },
+    {
+      "id": "u0FA3",
+      "codepoint": 4003,
+      "hex": "U+0FA3",
+      "char": "ྣ",
+      "name": "TIBETAN SUBJOINED LETTER NA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA3"
+    },
+    {
+      "id": "u0FA4",
+      "codepoint": 4004,
+      "hex": "U+0FA4",
+      "char": "ྤ",
+      "name": "TIBETAN SUBJOINED LETTER PA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA4"
+    },
+    {
+      "id": "u0FA5",
+      "codepoint": 4005,
+      "hex": "U+0FA5",
+      "char": "ྥ",
+      "name": "TIBETAN SUBJOINED LETTER PHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA5"
+    },
+    {
+      "id": "u0FA6",
+      "codepoint": 4006,
+      "hex": "U+0FA6",
+      "char": "ྦ",
+      "name": "TIBETAN SUBJOINED LETTER BA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA6"
+    },
+    {
+      "id": "u0FA7",
+      "codepoint": 4007,
+      "hex": "U+0FA7",
+      "char": "ྦྷ",
+      "name": "TIBETAN SUBJOINED LETTER BHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA7"
+    },
+    {
+      "id": "u0FA8",
+      "codepoint": 4008,
+      "hex": "U+0FA8",
+      "char": "ྨ",
+      "name": "TIBETAN SUBJOINED LETTER MA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA8"
+    },
+    {
+      "id": "u0FA9",
+      "codepoint": 4009,
+      "hex": "U+0FA9",
+      "char": "ྩ",
+      "name": "TIBETAN SUBJOINED LETTER TSA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FA9"
+    },
+    {
+      "id": "u0FAA",
+      "codepoint": 4010,
+      "hex": "U+0FAA",
+      "char": "ྪ",
+      "name": "TIBETAN SUBJOINED LETTER TSHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FAA"
+    },
+    {
+      "id": "u0FAB",
+      "codepoint": 4011,
+      "hex": "U+0FAB",
+      "char": "ྫ",
+      "name": "TIBETAN SUBJOINED LETTER DZA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FAB"
+    },
+    {
+      "id": "u0FAC",
+      "codepoint": 4012,
+      "hex": "U+0FAC",
+      "char": "ྫྷ",
+      "name": "TIBETAN SUBJOINED LETTER DZHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FAC"
+    },
+    {
+      "id": "u0FAD",
+      "codepoint": 4013,
+      "hex": "U+0FAD",
+      "char": "ྭ",
+      "name": "TIBETAN SUBJOINED LETTER WA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FAD"
+    },
+    {
+      "id": "u0FAE",
+      "codepoint": 4014,
+      "hex": "U+0FAE",
+      "char": "ྮ",
+      "name": "TIBETAN SUBJOINED LETTER ZHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FAE"
+    },
+    {
+      "id": "u0FAF",
+      "codepoint": 4015,
+      "hex": "U+0FAF",
+      "char": "ྯ",
+      "name": "TIBETAN SUBJOINED LETTER ZA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FAF"
+    },
+    {
+      "id": "u0FB0",
+      "codepoint": 4016,
+      "hex": "U+0FB0",
+      "char": "ྰ",
+      "name": "TIBETAN SUBJOINED LETTER -A",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB0"
+    },
+    {
+      "id": "u0FB1",
+      "codepoint": 4017,
+      "hex": "U+0FB1",
+      "char": "ྱ",
+      "name": "TIBETAN SUBJOINED LETTER YA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB1"
+    },
+    {
+      "id": "u0FB2",
+      "codepoint": 4018,
+      "hex": "U+0FB2",
+      "char": "ྲ",
+      "name": "TIBETAN SUBJOINED LETTER RA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB2"
+    },
+    {
+      "id": "u0FB3",
+      "codepoint": 4019,
+      "hex": "U+0FB3",
+      "char": "ླ",
+      "name": "TIBETAN SUBJOINED LETTER LA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB3"
+    },
+    {
+      "id": "u0FB4",
+      "codepoint": 4020,
+      "hex": "U+0FB4",
+      "char": "ྴ",
+      "name": "TIBETAN SUBJOINED LETTER SHA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB4"
+    },
+    {
+      "id": "u0FB5",
+      "codepoint": 4021,
+      "hex": "U+0FB5",
+      "char": "ྵ",
+      "name": "TIBETAN SUBJOINED LETTER SSA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB5"
+    },
+    {
+      "id": "u0FB6",
+      "codepoint": 4022,
+      "hex": "U+0FB6",
+      "char": "ྶ",
+      "name": "TIBETAN SUBJOINED LETTER SA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB6"
+    },
+    {
+      "id": "u0FB7",
+      "codepoint": 4023,
+      "hex": "U+0FB7",
+      "char": "ྷ",
+      "name": "TIBETAN SUBJOINED LETTER HA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB7"
+    },
+    {
+      "id": "u0FB8",
+      "codepoint": 4024,
+      "hex": "U+0FB8",
+      "char": "ྸ",
+      "name": "TIBETAN SUBJOINED LETTER A",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB8"
+    },
+    {
+      "id": "u0FB9",
+      "codepoint": 4025,
+      "hex": "U+0FB9",
+      "char": "ྐྵ",
+      "name": "TIBETAN SUBJOINED LETTER KSSA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FB9"
+    },
+    {
+      "id": "u0FBA",
+      "codepoint": 4026,
+      "hex": "U+0FBA",
+      "char": "ྺ",
+      "name": "TIBETAN SUBJOINED LETTER FIXED-FORM WA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FBA"
+    },
+    {
+      "id": "u0FBB",
+      "codepoint": 4027,
+      "hex": "U+0FBB",
+      "char": "ྻ",
+      "name": "TIBETAN SUBJOINED LETTER FIXED-FORM YA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FBB"
+    },
+    {
+      "id": "u0FBC",
+      "codepoint": 4028,
+      "hex": "U+0FBC",
+      "char": "ྼ",
+      "name": "TIBETAN SUBJOINED LETTER FIXED-FORM RA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FBC"
+    },
+    {
+      "id": "u0FBE",
+      "codepoint": 4030,
+      "hex": "U+0FBE",
+      "char": "྾",
+      "name": "TIBETAN KU RU KHA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FBE"
+    },
+    {
+      "id": "u0FBF",
+      "codepoint": 4031,
+      "hex": "U+0FBF",
+      "char": "྿",
+      "name": "TIBETAN KU RU KHA BZHI MIG CAN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FBF"
+    },
+    {
+      "id": "u0FC0",
+      "codepoint": 4032,
+      "hex": "U+0FC0",
+      "char": "࿀",
+      "name": "TIBETAN CANTILLATION SIGN HEAVY BEAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC0"
+    },
+    {
+      "id": "u0FC1",
+      "codepoint": 4033,
+      "hex": "U+0FC1",
+      "char": "࿁",
+      "name": "TIBETAN CANTILLATION SIGN LIGHT BEAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC1"
+    },
+    {
+      "id": "u0FC2",
+      "codepoint": 4034,
+      "hex": "U+0FC2",
+      "char": "࿂",
+      "name": "TIBETAN CANTILLATION SIGN CANG TE-U",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC2"
+    },
+    {
+      "id": "u0FC3",
+      "codepoint": 4035,
+      "hex": "U+0FC3",
+      "char": "࿃",
+      "name": "TIBETAN CANTILLATION SIGN SBUB -CHAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC3"
+    },
+    {
+      "id": "u0FC4",
+      "codepoint": 4036,
+      "hex": "U+0FC4",
+      "char": "࿄",
+      "name": "TIBETAN SYMBOL DRIL BU",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC4"
+    },
+    {
+      "id": "u0FC5",
+      "codepoint": 4037,
+      "hex": "U+0FC5",
+      "char": "࿅",
+      "name": "TIBETAN SYMBOL RDO RJE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC5"
+    },
+    {
+      "id": "u0FC6",
+      "codepoint": 4038,
+      "hex": "U+0FC6",
+      "char": "࿆",
+      "name": "TIBETAN SYMBOL PADMA GDAN",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC6"
+    },
+    {
+      "id": "u0FC7",
+      "codepoint": 4039,
+      "hex": "U+0FC7",
+      "char": "࿇",
+      "name": "TIBETAN SYMBOL RDO RJE RGYA GRAM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC7"
+    },
+    {
+      "id": "u0FC8",
+      "codepoint": 4040,
+      "hex": "U+0FC8",
+      "char": "࿈",
+      "name": "TIBETAN SYMBOL PHUR PA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC8"
+    },
+    {
+      "id": "u0FC9",
+      "codepoint": 4041,
+      "hex": "U+0FC9",
+      "char": "࿉",
+      "name": "TIBETAN SYMBOL NOR BU",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FC9"
+    },
+    {
+      "id": "u0FCA",
+      "codepoint": 4042,
+      "hex": "U+0FCA",
+      "char": "࿊",
+      "name": "TIBETAN SYMBOL NOR BU NYIS -KHYIL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FCA"
+    },
+    {
+      "id": "u0FCB",
+      "codepoint": 4043,
+      "hex": "U+0FCB",
+      "char": "࿋",
+      "name": "TIBETAN SYMBOL NOR BU GSUM -KHYIL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FCB"
+    },
+    {
+      "id": "u0FCC",
+      "codepoint": 4044,
+      "hex": "U+0FCC",
+      "char": "࿌",
+      "name": "TIBETAN SYMBOL NOR BU BZHI -KHYIL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FCC"
+    },
+    {
+      "id": "u0FCE",
+      "codepoint": 4046,
+      "hex": "U+0FCE",
+      "char": "࿎",
+      "name": "TIBETAN SIGN RDEL NAG RDEL DKAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FCE"
+    },
+    {
+      "id": "u0FCF",
+      "codepoint": 4047,
+      "hex": "U+0FCF",
+      "char": "࿏",
+      "name": "TIBETAN SIGN RDEL NAG GSUM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FCF"
+    },
+    {
+      "id": "u0FD0",
+      "codepoint": 4048,
+      "hex": "U+0FD0",
+      "char": "࿐",
+      "name": "TIBETAN MARK BSKA- SHOG GI MGO RGYAN",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD0"
+    },
+    {
+      "id": "u0FD1",
+      "codepoint": 4049,
+      "hex": "U+0FD1",
+      "char": "࿑",
+      "name": "TIBETAN MARK MNYAM YIG GI MGO RGYAN",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD1"
+    },
+    {
+      "id": "u0FD2",
+      "codepoint": 4050,
+      "hex": "U+0FD2",
+      "char": "࿒",
+      "name": "TIBETAN MARK NYIS TSHEG",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD2"
+    },
+    {
+      "id": "u0FD3",
+      "codepoint": 4051,
+      "hex": "U+0FD3",
+      "char": "࿓",
+      "name": "TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD3"
+    },
+    {
+      "id": "u0FD4",
+      "codepoint": 4052,
+      "hex": "U+0FD4",
+      "char": "࿔",
+      "name": "TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD4"
+    },
+    {
+      "id": "u0FD5",
+      "codepoint": 4053,
+      "hex": "U+0FD5",
+      "char": "࿕",
+      "name": "RIGHT-FACING SVASTI SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD5"
+    },
+    {
+      "id": "u0FD6",
+      "codepoint": 4054,
+      "hex": "U+0FD6",
+      "char": "࿖",
+      "name": "LEFT-FACING SVASTI SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD6"
+    },
+    {
+      "id": "u0FD7",
+      "codepoint": 4055,
+      "hex": "U+0FD7",
+      "char": "࿗",
+      "name": "RIGHT-FACING SVASTI SIGN WITH DOTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD7"
+    },
+    {
+      "id": "u0FD8",
+      "codepoint": 4056,
+      "hex": "U+0FD8",
+      "char": "࿘",
+      "name": "LEFT-FACING SVASTI SIGN WITH DOTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD8"
+    },
+    {
+      "id": "u0FD9",
+      "codepoint": 4057,
+      "hex": "U+0FD9",
+      "char": "࿙",
+      "name": "TIBETAN MARK LEADING MCHAN RTAGS",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FD9"
+    },
+    {
+      "id": "u0FDA",
+      "codepoint": 4058,
+      "hex": "U+0FDA",
+      "char": "࿚",
+      "name": "TIBETAN MARK TRAILING MCHAN RTAGS",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-tibetan/u0FDA"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "api": "calendar-1642",
+  "title": "Calendar 1642",
+  "description": "The 1642 calendar: a common year of 365 days, starting on a Wednesday.",
+  "emoji": "📅",
+  "license": "GPL-2.0-or-later",
+  "count": 12,
+  "self": "https://gratisapi.com/api/calendar-1642/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/calendar-1642/index"
+  },
+  "fields": [
+    "days",
+    "first_weekday",
+    "id",
+    "month",
+    "number"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "january",
+      "month": "January",
+      "number": 1,
+      "days": 31,
+      "first_weekday": "Wednesday",
+      "url": "https://gratisapi.com/api/calendar-1642/january"
+    },
+    {
+      "id": "february",
+      "month": "February",
+      "number": 2,
+      "days": 28,
+      "first_weekday": "Saturday",
+      "url": "https://gratisapi.com/api/calendar-1642/february"
+    },
+    {
+      "id": "march",
+      "month": "March",
+      "number": 3,
+      "days": 31,
+      "first_weekday": "Saturday",
+      "url": "https://gratisapi.com/api/calendar-1642/march"
+    },
+    {
+      "id": "april",
+      "month": "April",
+      "number": 4,
+      "days": 30,
+      "first_weekday": "Tuesday",
+      "url": "https://gratisapi.com/api/calendar-1642/april"
+    },
+    {
+      "id": "may",
+      "month": "May",
+      "number": 5,
+      "days": 31,
+      "first_weekday": "Thursday",
+      "url": "https://gratisapi.com/api/calendar-1642/may"
+    },
+    {
+      "id": "june",
+      "month": "June",
+      "number": 6,
+      "days": 30,
+      "first_weekday": "Sunday",
+      "url": "https://gratisapi.com/api/calendar-1642/june"
+    },
+    {
+      "id": "july",
+      "month": "July",
+      "number": 7,
+      "days": 31,
+      "first_weekday": "Tuesday",
+      "url": "https://gratisapi.com/api/calendar-1642/july"
+    },
+    {
+      "id": "august",
+      "month": "August",
+      "number": 8,
+      "days": 31,
+      "first_weekday": "Friday",
+      "url": "https://gratisapi.com/api/calendar-1642/august"
+    },
+    {
+      "id": "september",
+      "month": "September",
+      "number": 9,
+      "days": 30,
+      "first_weekday": "Monday",
+      "url": "https://gratisapi.com/api/calendar-1642/september"
+    },
+    {
+      "id": "october",
+      "month": "October",
+      "number": 10,
+      "days": 31,
+      "first_weekday": "Wednesday",
+      "url": "https://gratisapi.com/api/calendar-1642/october"
+    },
+    {
+      "id": "november",
+      "month": "November",
+      "number": 11,
+      "days": 30,
+      "first_weekday": "Saturday",
+      "url": "https://gratisapi.com/api/calendar-1642/november"
+    },
+    {
+      "id": "december",
+      "month": "December",
+      "number": 12,
+      "days": 31,
+      "first_weekday": "Monday",
+      "url": "https://gratisapi.com/api/calendar-1642/december"
+    }
+  ]
+}

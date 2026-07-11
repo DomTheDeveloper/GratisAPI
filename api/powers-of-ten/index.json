@@ -1,0 +1,116 @@
+{
+  "api": "powers-of-ten",
+  "title": "Powers of Ten",
+  "description": "10^n within exact-integer range.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 16,
+  "self": "https://gratisapi.com/api/powers-of-ten/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/powers-of-ten/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 1,
+      "url": "https://gratisapi.com/api/powers-of-ten/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 10,
+      "url": "https://gratisapi.com/api/powers-of-ten/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 100,
+      "url": "https://gratisapi.com/api/powers-of-ten/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 1000,
+      "url": "https://gratisapi.com/api/powers-of-ten/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 10000,
+      "url": "https://gratisapi.com/api/powers-of-ten/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 100000,
+      "url": "https://gratisapi.com/api/powers-of-ten/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 1000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 10000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 100000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 1000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 10000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 100000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 1000000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 10000000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 100000000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 1000000000000000,
+      "url": "https://gratisapi.com/api/powers-of-ten/15"
+    }
+  ]
+}

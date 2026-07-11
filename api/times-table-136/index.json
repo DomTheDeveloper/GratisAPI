@@ -1,0 +1,182 @@
+{
+  "api": "times-table-136",
+  "title": "136 Times Table",
+  "description": "The multiplication table for 136: 136x1 through 136x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-136/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-136/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 136,
+      "multiplicand": 1,
+      "product": 136,
+      "expression": "136 x 1 = 136",
+      "url": "https://gratisapi.com/api/times-table-136/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 136,
+      "multiplicand": 2,
+      "product": 272,
+      "expression": "136 x 2 = 272",
+      "url": "https://gratisapi.com/api/times-table-136/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 136,
+      "multiplicand": 3,
+      "product": 408,
+      "expression": "136 x 3 = 408",
+      "url": "https://gratisapi.com/api/times-table-136/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 136,
+      "multiplicand": 4,
+      "product": 544,
+      "expression": "136 x 4 = 544",
+      "url": "https://gratisapi.com/api/times-table-136/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 136,
+      "multiplicand": 5,
+      "product": 680,
+      "expression": "136 x 5 = 680",
+      "url": "https://gratisapi.com/api/times-table-136/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 136,
+      "multiplicand": 6,
+      "product": 816,
+      "expression": "136 x 6 = 816",
+      "url": "https://gratisapi.com/api/times-table-136/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 136,
+      "multiplicand": 7,
+      "product": 952,
+      "expression": "136 x 7 = 952",
+      "url": "https://gratisapi.com/api/times-table-136/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 136,
+      "multiplicand": 8,
+      "product": 1088,
+      "expression": "136 x 8 = 1088",
+      "url": "https://gratisapi.com/api/times-table-136/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 136,
+      "multiplicand": 9,
+      "product": 1224,
+      "expression": "136 x 9 = 1224",
+      "url": "https://gratisapi.com/api/times-table-136/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 136,
+      "multiplicand": 10,
+      "product": 1360,
+      "expression": "136 x 10 = 1360",
+      "url": "https://gratisapi.com/api/times-table-136/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 136,
+      "multiplicand": 11,
+      "product": 1496,
+      "expression": "136 x 11 = 1496",
+      "url": "https://gratisapi.com/api/times-table-136/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 136,
+      "multiplicand": 12,
+      "product": 1632,
+      "expression": "136 x 12 = 1632",
+      "url": "https://gratisapi.com/api/times-table-136/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 136,
+      "multiplicand": 13,
+      "product": 1768,
+      "expression": "136 x 13 = 1768",
+      "url": "https://gratisapi.com/api/times-table-136/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 136,
+      "multiplicand": 14,
+      "product": 1904,
+      "expression": "136 x 14 = 1904",
+      "url": "https://gratisapi.com/api/times-table-136/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 136,
+      "multiplicand": 15,
+      "product": 2040,
+      "expression": "136 x 15 = 2040",
+      "url": "https://gratisapi.com/api/times-table-136/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 136,
+      "multiplicand": 16,
+      "product": 2176,
+      "expression": "136 x 16 = 2176",
+      "url": "https://gratisapi.com/api/times-table-136/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 136,
+      "multiplicand": 17,
+      "product": 2312,
+      "expression": "136 x 17 = 2312",
+      "url": "https://gratisapi.com/api/times-table-136/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 136,
+      "multiplicand": 18,
+      "product": 2448,
+      "expression": "136 x 18 = 2448",
+      "url": "https://gratisapi.com/api/times-table-136/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 136,
+      "multiplicand": 19,
+      "product": 2584,
+      "expression": "136 x 19 = 2584",
+      "url": "https://gratisapi.com/api/times-table-136/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 136,
+      "multiplicand": 20,
+      "product": 2720,
+      "expression": "136 x 20 = 2720",
+      "url": "https://gratisapi.com/api/times-table-136/20"
+    }
+  ]
+}

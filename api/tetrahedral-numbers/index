@@ -1,0 +1,3020 @@
+{
+  "api": "tetrahedral-numbers",
+  "title": "Tetrahedral Numbers",
+  "description": "n(n+1)(n+2)/6 for n = 1..500.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 500,
+  "self": "https://gratisapi.com/api/tetrahedral-numbers/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/tetrahedral-numbers/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 1,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 4,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 10,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 20,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 35,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 56,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 84,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 120,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 165,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 220,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 286,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 364,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 455,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 560,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 680,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 816,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/15"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "value": 969,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/16"
+    },
+    {
+      "id": 17,
+      "index": 18,
+      "value": 1140,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/17"
+    },
+    {
+      "id": 18,
+      "index": 19,
+      "value": 1330,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/18"
+    },
+    {
+      "id": 19,
+      "index": 20,
+      "value": 1540,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/19"
+    },
+    {
+      "id": 20,
+      "index": 21,
+      "value": 1771,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/20"
+    },
+    {
+      "id": 21,
+      "index": 22,
+      "value": 2024,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/21"
+    },
+    {
+      "id": 22,
+      "index": 23,
+      "value": 2300,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/22"
+    },
+    {
+      "id": 23,
+      "index": 24,
+      "value": 2600,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/23"
+    },
+    {
+      "id": 24,
+      "index": 25,
+      "value": 2925,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/24"
+    },
+    {
+      "id": 25,
+      "index": 26,
+      "value": 3276,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/25"
+    },
+    {
+      "id": 26,
+      "index": 27,
+      "value": 3654,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/26"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "value": 4060,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/27"
+    },
+    {
+      "id": 28,
+      "index": 29,
+      "value": 4495,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/28"
+    },
+    {
+      "id": 29,
+      "index": 30,
+      "value": 4960,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/29"
+    },
+    {
+      "id": 30,
+      "index": 31,
+      "value": 5456,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/30"
+    },
+    {
+      "id": 31,
+      "index": 32,
+      "value": 5984,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/31"
+    },
+    {
+      "id": 32,
+      "index": 33,
+      "value": 6545,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/32"
+    },
+    {
+      "id": 33,
+      "index": 34,
+      "value": 7140,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/33"
+    },
+    {
+      "id": 34,
+      "index": 35,
+      "value": 7770,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/34"
+    },
+    {
+      "id": 35,
+      "index": 36,
+      "value": 8436,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/35"
+    },
+    {
+      "id": 36,
+      "index": 37,
+      "value": 9139,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/36"
+    },
+    {
+      "id": 37,
+      "index": 38,
+      "value": 9880,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/37"
+    },
+    {
+      "id": 38,
+      "index": 39,
+      "value": 10660,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/38"
+    },
+    {
+      "id": 39,
+      "index": 40,
+      "value": 11480,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/39"
+    },
+    {
+      "id": 40,
+      "index": 41,
+      "value": 12341,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/40"
+    },
+    {
+      "id": 41,
+      "index": 42,
+      "value": 13244,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/41"
+    },
+    {
+      "id": 42,
+      "index": 43,
+      "value": 14190,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/42"
+    },
+    {
+      "id": 43,
+      "index": 44,
+      "value": 15180,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/43"
+    },
+    {
+      "id": 44,
+      "index": 45,
+      "value": 16215,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/44"
+    },
+    {
+      "id": 45,
+      "index": 46,
+      "value": 17296,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/45"
+    },
+    {
+      "id": 46,
+      "index": 47,
+      "value": 18424,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/46"
+    },
+    {
+      "id": 47,
+      "index": 48,
+      "value": 19600,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/47"
+    },
+    {
+      "id": 48,
+      "index": 49,
+      "value": 20825,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/48"
+    },
+    {
+      "id": 49,
+      "index": 50,
+      "value": 22100,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/49"
+    },
+    {
+      "id": 50,
+      "index": 51,
+      "value": 23426,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/50"
+    },
+    {
+      "id": 51,
+      "index": 52,
+      "value": 24804,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/51"
+    },
+    {
+      "id": 52,
+      "index": 53,
+      "value": 26235,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/52"
+    },
+    {
+      "id": 53,
+      "index": 54,
+      "value": 27720,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/53"
+    },
+    {
+      "id": 54,
+      "index": 55,
+      "value": 29260,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/54"
+    },
+    {
+      "id": 55,
+      "index": 56,
+      "value": 30856,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/55"
+    },
+    {
+      "id": 56,
+      "index": 57,
+      "value": 32509,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/56"
+    },
+    {
+      "id": 57,
+      "index": 58,
+      "value": 34220,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/57"
+    },
+    {
+      "id": 58,
+      "index": 59,
+      "value": 35990,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/58"
+    },
+    {
+      "id": 59,
+      "index": 60,
+      "value": 37820,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/59"
+    },
+    {
+      "id": 60,
+      "index": 61,
+      "value": 39711,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/60"
+    },
+    {
+      "id": 61,
+      "index": 62,
+      "value": 41664,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/61"
+    },
+    {
+      "id": 62,
+      "index": 63,
+      "value": 43680,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/62"
+    },
+    {
+      "id": 63,
+      "index": 64,
+      "value": 45760,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/63"
+    },
+    {
+      "id": 64,
+      "index": 65,
+      "value": 47905,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/64"
+    },
+    {
+      "id": 65,
+      "index": 66,
+      "value": 50116,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/65"
+    },
+    {
+      "id": 66,
+      "index": 67,
+      "value": 52394,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/66"
+    },
+    {
+      "id": 67,
+      "index": 68,
+      "value": 54740,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/67"
+    },
+    {
+      "id": 68,
+      "index": 69,
+      "value": 57155,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/68"
+    },
+    {
+      "id": 69,
+      "index": 70,
+      "value": 59640,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/69"
+    },
+    {
+      "id": 70,
+      "index": 71,
+      "value": 62196,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/70"
+    },
+    {
+      "id": 71,
+      "index": 72,
+      "value": 64824,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/71"
+    },
+    {
+      "id": 72,
+      "index": 73,
+      "value": 67525,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/72"
+    },
+    {
+      "id": 73,
+      "index": 74,
+      "value": 70300,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/73"
+    },
+    {
+      "id": 74,
+      "index": 75,
+      "value": 73150,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/74"
+    },
+    {
+      "id": 75,
+      "index": 76,
+      "value": 76076,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/75"
+    },
+    {
+      "id": 76,
+      "index": 77,
+      "value": 79079,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/76"
+    },
+    {
+      "id": 77,
+      "index": 78,
+      "value": 82160,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/77"
+    },
+    {
+      "id": 78,
+      "index": 79,
+      "value": 85320,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/78"
+    },
+    {
+      "id": 79,
+      "index": 80,
+      "value": 88560,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/79"
+    },
+    {
+      "id": 80,
+      "index": 81,
+      "value": 91881,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/80"
+    },
+    {
+      "id": 81,
+      "index": 82,
+      "value": 95284,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/81"
+    },
+    {
+      "id": 82,
+      "index": 83,
+      "value": 98770,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/82"
+    },
+    {
+      "id": 83,
+      "index": 84,
+      "value": 102340,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/83"
+    },
+    {
+      "id": 84,
+      "index": 85,
+      "value": 105995,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/84"
+    },
+    {
+      "id": 85,
+      "index": 86,
+      "value": 109736,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/85"
+    },
+    {
+      "id": 86,
+      "index": 87,
+      "value": 113564,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/86"
+    },
+    {
+      "id": 87,
+      "index": 88,
+      "value": 117480,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/87"
+    },
+    {
+      "id": 88,
+      "index": 89,
+      "value": 121485,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/88"
+    },
+    {
+      "id": 89,
+      "index": 90,
+      "value": 125580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/89"
+    },
+    {
+      "id": 90,
+      "index": 91,
+      "value": 129766,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/90"
+    },
+    {
+      "id": 91,
+      "index": 92,
+      "value": 134044,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/91"
+    },
+    {
+      "id": 92,
+      "index": 93,
+      "value": 138415,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/92"
+    },
+    {
+      "id": 93,
+      "index": 94,
+      "value": 142880,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/93"
+    },
+    {
+      "id": 94,
+      "index": 95,
+      "value": 147440,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/94"
+    },
+    {
+      "id": 95,
+      "index": 96,
+      "value": 152096,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/95"
+    },
+    {
+      "id": 96,
+      "index": 97,
+      "value": 156849,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/96"
+    },
+    {
+      "id": 97,
+      "index": 98,
+      "value": 161700,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/97"
+    },
+    {
+      "id": 98,
+      "index": 99,
+      "value": 166650,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/98"
+    },
+    {
+      "id": 99,
+      "index": 100,
+      "value": 171700,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/99"
+    },
+    {
+      "id": 100,
+      "index": 101,
+      "value": 176851,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/100"
+    },
+    {
+      "id": 101,
+      "index": 102,
+      "value": 182104,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/101"
+    },
+    {
+      "id": 102,
+      "index": 103,
+      "value": 187460,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/102"
+    },
+    {
+      "id": 103,
+      "index": 104,
+      "value": 192920,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/103"
+    },
+    {
+      "id": 104,
+      "index": 105,
+      "value": 198485,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/104"
+    },
+    {
+      "id": 105,
+      "index": 106,
+      "value": 204156,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/105"
+    },
+    {
+      "id": 106,
+      "index": 107,
+      "value": 209934,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/106"
+    },
+    {
+      "id": 107,
+      "index": 108,
+      "value": 215820,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/107"
+    },
+    {
+      "id": 108,
+      "index": 109,
+      "value": 221815,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/108"
+    },
+    {
+      "id": 109,
+      "index": 110,
+      "value": 227920,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/109"
+    },
+    {
+      "id": 110,
+      "index": 111,
+      "value": 234136,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/110"
+    },
+    {
+      "id": 111,
+      "index": 112,
+      "value": 240464,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/111"
+    },
+    {
+      "id": 112,
+      "index": 113,
+      "value": 246905,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/112"
+    },
+    {
+      "id": 113,
+      "index": 114,
+      "value": 253460,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/113"
+    },
+    {
+      "id": 114,
+      "index": 115,
+      "value": 260130,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/114"
+    },
+    {
+      "id": 115,
+      "index": 116,
+      "value": 266916,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/115"
+    },
+    {
+      "id": 116,
+      "index": 117,
+      "value": 273819,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/116"
+    },
+    {
+      "id": 117,
+      "index": 118,
+      "value": 280840,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/117"
+    },
+    {
+      "id": 118,
+      "index": 119,
+      "value": 287980,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/118"
+    },
+    {
+      "id": 119,
+      "index": 120,
+      "value": 295240,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/119"
+    },
+    {
+      "id": 120,
+      "index": 121,
+      "value": 302621,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/120"
+    },
+    {
+      "id": 121,
+      "index": 122,
+      "value": 310124,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/121"
+    },
+    {
+      "id": 122,
+      "index": 123,
+      "value": 317750,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/122"
+    },
+    {
+      "id": 123,
+      "index": 124,
+      "value": 325500,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/123"
+    },
+    {
+      "id": 124,
+      "index": 125,
+      "value": 333375,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/124"
+    },
+    {
+      "id": 125,
+      "index": 126,
+      "value": 341376,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/125"
+    },
+    {
+      "id": 126,
+      "index": 127,
+      "value": 349504,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/126"
+    },
+    {
+      "id": 127,
+      "index": 128,
+      "value": 357760,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/127"
+    },
+    {
+      "id": 128,
+      "index": 129,
+      "value": 366145,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/128"
+    },
+    {
+      "id": 129,
+      "index": 130,
+      "value": 374660,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/129"
+    },
+    {
+      "id": 130,
+      "index": 131,
+      "value": 383306,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/130"
+    },
+    {
+      "id": 131,
+      "index": 132,
+      "value": 392084,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/131"
+    },
+    {
+      "id": 132,
+      "index": 133,
+      "value": 400995,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/132"
+    },
+    {
+      "id": 133,
+      "index": 134,
+      "value": 410040,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/133"
+    },
+    {
+      "id": 134,
+      "index": 135,
+      "value": 419220,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/134"
+    },
+    {
+      "id": 135,
+      "index": 136,
+      "value": 428536,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/135"
+    },
+    {
+      "id": 136,
+      "index": 137,
+      "value": 437989,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/136"
+    },
+    {
+      "id": 137,
+      "index": 138,
+      "value": 447580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/137"
+    },
+    {
+      "id": 138,
+      "index": 139,
+      "value": 457310,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/138"
+    },
+    {
+      "id": 139,
+      "index": 140,
+      "value": 467180,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/139"
+    },
+    {
+      "id": 140,
+      "index": 141,
+      "value": 477191,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/140"
+    },
+    {
+      "id": 141,
+      "index": 142,
+      "value": 487344,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/141"
+    },
+    {
+      "id": 142,
+      "index": 143,
+      "value": 497640,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/142"
+    },
+    {
+      "id": 143,
+      "index": 144,
+      "value": 508080,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/143"
+    },
+    {
+      "id": 144,
+      "index": 145,
+      "value": 518665,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/144"
+    },
+    {
+      "id": 145,
+      "index": 146,
+      "value": 529396,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/145"
+    },
+    {
+      "id": 146,
+      "index": 147,
+      "value": 540274,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/146"
+    },
+    {
+      "id": 147,
+      "index": 148,
+      "value": 551300,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/147"
+    },
+    {
+      "id": 148,
+      "index": 149,
+      "value": 562475,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/148"
+    },
+    {
+      "id": 149,
+      "index": 150,
+      "value": 573800,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/149"
+    },
+    {
+      "id": 150,
+      "index": 151,
+      "value": 585276,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/150"
+    },
+    {
+      "id": 151,
+      "index": 152,
+      "value": 596904,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/151"
+    },
+    {
+      "id": 152,
+      "index": 153,
+      "value": 608685,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/152"
+    },
+    {
+      "id": 153,
+      "index": 154,
+      "value": 620620,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/153"
+    },
+    {
+      "id": 154,
+      "index": 155,
+      "value": 632710,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/154"
+    },
+    {
+      "id": 155,
+      "index": 156,
+      "value": 644956,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/155"
+    },
+    {
+      "id": 156,
+      "index": 157,
+      "value": 657359,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/156"
+    },
+    {
+      "id": 157,
+      "index": 158,
+      "value": 669920,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/157"
+    },
+    {
+      "id": 158,
+      "index": 159,
+      "value": 682640,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/158"
+    },
+    {
+      "id": 159,
+      "index": 160,
+      "value": 695520,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/159"
+    },
+    {
+      "id": 160,
+      "index": 161,
+      "value": 708561,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/160"
+    },
+    {
+      "id": 161,
+      "index": 162,
+      "value": 721764,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/161"
+    },
+    {
+      "id": 162,
+      "index": 163,
+      "value": 735130,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/162"
+    },
+    {
+      "id": 163,
+      "index": 164,
+      "value": 748660,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/163"
+    },
+    {
+      "id": 164,
+      "index": 165,
+      "value": 762355,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/164"
+    },
+    {
+      "id": 165,
+      "index": 166,
+      "value": 776216,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/165"
+    },
+    {
+      "id": 166,
+      "index": 167,
+      "value": 790244,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/166"
+    },
+    {
+      "id": 167,
+      "index": 168,
+      "value": 804440,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/167"
+    },
+    {
+      "id": 168,
+      "index": 169,
+      "value": 818805,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/168"
+    },
+    {
+      "id": 169,
+      "index": 170,
+      "value": 833340,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/169"
+    },
+    {
+      "id": 170,
+      "index": 171,
+      "value": 848046,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/170"
+    },
+    {
+      "id": 171,
+      "index": 172,
+      "value": 862924,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/171"
+    },
+    {
+      "id": 172,
+      "index": 173,
+      "value": 877975,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/172"
+    },
+    {
+      "id": 173,
+      "index": 174,
+      "value": 893200,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/173"
+    },
+    {
+      "id": 174,
+      "index": 175,
+      "value": 908600,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/174"
+    },
+    {
+      "id": 175,
+      "index": 176,
+      "value": 924176,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/175"
+    },
+    {
+      "id": 176,
+      "index": 177,
+      "value": 939929,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/176"
+    },
+    {
+      "id": 177,
+      "index": 178,
+      "value": 955860,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/177"
+    },
+    {
+      "id": 178,
+      "index": 179,
+      "value": 971970,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/178"
+    },
+    {
+      "id": 179,
+      "index": 180,
+      "value": 988260,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/179"
+    },
+    {
+      "id": 180,
+      "index": 181,
+      "value": 1004731,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/180"
+    },
+    {
+      "id": 181,
+      "index": 182,
+      "value": 1021384,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/181"
+    },
+    {
+      "id": 182,
+      "index": 183,
+      "value": 1038220,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/182"
+    },
+    {
+      "id": 183,
+      "index": 184,
+      "value": 1055240,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/183"
+    },
+    {
+      "id": 184,
+      "index": 185,
+      "value": 1072445,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/184"
+    },
+    {
+      "id": 185,
+      "index": 186,
+      "value": 1089836,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/185"
+    },
+    {
+      "id": 186,
+      "index": 187,
+      "value": 1107414,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/186"
+    },
+    {
+      "id": 187,
+      "index": 188,
+      "value": 1125180,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/187"
+    },
+    {
+      "id": 188,
+      "index": 189,
+      "value": 1143135,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/188"
+    },
+    {
+      "id": 189,
+      "index": 190,
+      "value": 1161280,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/189"
+    },
+    {
+      "id": 190,
+      "index": 191,
+      "value": 1179616,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/190"
+    },
+    {
+      "id": 191,
+      "index": 192,
+      "value": 1198144,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/191"
+    },
+    {
+      "id": 192,
+      "index": 193,
+      "value": 1216865,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/192"
+    },
+    {
+      "id": 193,
+      "index": 194,
+      "value": 1235780,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/193"
+    },
+    {
+      "id": 194,
+      "index": 195,
+      "value": 1254890,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/194"
+    },
+    {
+      "id": 195,
+      "index": 196,
+      "value": 1274196,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/195"
+    },
+    {
+      "id": 196,
+      "index": 197,
+      "value": 1293699,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/196"
+    },
+    {
+      "id": 197,
+      "index": 198,
+      "value": 1313400,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/197"
+    },
+    {
+      "id": 198,
+      "index": 199,
+      "value": 1333300,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/198"
+    },
+    {
+      "id": 199,
+      "index": 200,
+      "value": 1353400,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/199"
+    },
+    {
+      "id": 200,
+      "index": 201,
+      "value": 1373701,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/200"
+    },
+    {
+      "id": 201,
+      "index": 202,
+      "value": 1394204,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/201"
+    },
+    {
+      "id": 202,
+      "index": 203,
+      "value": 1414910,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/202"
+    },
+    {
+      "id": 203,
+      "index": 204,
+      "value": 1435820,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/203"
+    },
+    {
+      "id": 204,
+      "index": 205,
+      "value": 1456935,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/204"
+    },
+    {
+      "id": 205,
+      "index": 206,
+      "value": 1478256,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/205"
+    },
+    {
+      "id": 206,
+      "index": 207,
+      "value": 1499784,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/206"
+    },
+    {
+      "id": 207,
+      "index": 208,
+      "value": 1521520,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/207"
+    },
+    {
+      "id": 208,
+      "index": 209,
+      "value": 1543465,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/208"
+    },
+    {
+      "id": 209,
+      "index": 210,
+      "value": 1565620,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/209"
+    },
+    {
+      "id": 210,
+      "index": 211,
+      "value": 1587986,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/210"
+    },
+    {
+      "id": 211,
+      "index": 212,
+      "value": 1610564,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/211"
+    },
+    {
+      "id": 212,
+      "index": 213,
+      "value": 1633355,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/212"
+    },
+    {
+      "id": 213,
+      "index": 214,
+      "value": 1656360,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/213"
+    },
+    {
+      "id": 214,
+      "index": 215,
+      "value": 1679580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/214"
+    },
+    {
+      "id": 215,
+      "index": 216,
+      "value": 1703016,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/215"
+    },
+    {
+      "id": 216,
+      "index": 217,
+      "value": 1726669,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/216"
+    },
+    {
+      "id": 217,
+      "index": 218,
+      "value": 1750540,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/217"
+    },
+    {
+      "id": 218,
+      "index": 219,
+      "value": 1774630,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/218"
+    },
+    {
+      "id": 219,
+      "index": 220,
+      "value": 1798940,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/219"
+    },
+    {
+      "id": 220,
+      "index": 221,
+      "value": 1823471,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/220"
+    },
+    {
+      "id": 221,
+      "index": 222,
+      "value": 1848224,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/221"
+    },
+    {
+      "id": 222,
+      "index": 223,
+      "value": 1873200,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/222"
+    },
+    {
+      "id": 223,
+      "index": 224,
+      "value": 1898400,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/223"
+    },
+    {
+      "id": 224,
+      "index": 225,
+      "value": 1923825,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/224"
+    },
+    {
+      "id": 225,
+      "index": 226,
+      "value": 1949476,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/225"
+    },
+    {
+      "id": 226,
+      "index": 227,
+      "value": 1975354,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/226"
+    },
+    {
+      "id": 227,
+      "index": 228,
+      "value": 2001460,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/227"
+    },
+    {
+      "id": 228,
+      "index": 229,
+      "value": 2027795,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/228"
+    },
+    {
+      "id": 229,
+      "index": 230,
+      "value": 2054360,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/229"
+    },
+    {
+      "id": 230,
+      "index": 231,
+      "value": 2081156,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/230"
+    },
+    {
+      "id": 231,
+      "index": 232,
+      "value": 2108184,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/231"
+    },
+    {
+      "id": 232,
+      "index": 233,
+      "value": 2135445,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/232"
+    },
+    {
+      "id": 233,
+      "index": 234,
+      "value": 2162940,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/233"
+    },
+    {
+      "id": 234,
+      "index": 235,
+      "value": 2190670,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/234"
+    },
+    {
+      "id": 235,
+      "index": 236,
+      "value": 2218636,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/235"
+    },
+    {
+      "id": 236,
+      "index": 237,
+      "value": 2246839,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/236"
+    },
+    {
+      "id": 237,
+      "index": 238,
+      "value": 2275280,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/237"
+    },
+    {
+      "id": 238,
+      "index": 239,
+      "value": 2303960,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/238"
+    },
+    {
+      "id": 239,
+      "index": 240,
+      "value": 2332880,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/239"
+    },
+    {
+      "id": 240,
+      "index": 241,
+      "value": 2362041,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/240"
+    },
+    {
+      "id": 241,
+      "index": 242,
+      "value": 2391444,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/241"
+    },
+    {
+      "id": 242,
+      "index": 243,
+      "value": 2421090,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/242"
+    },
+    {
+      "id": 243,
+      "index": 244,
+      "value": 2450980,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/243"
+    },
+    {
+      "id": 244,
+      "index": 245,
+      "value": 2481115,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/244"
+    },
+    {
+      "id": 245,
+      "index": 246,
+      "value": 2511496,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/245"
+    },
+    {
+      "id": 246,
+      "index": 247,
+      "value": 2542124,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/246"
+    },
+    {
+      "id": 247,
+      "index": 248,
+      "value": 2573000,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/247"
+    },
+    {
+      "id": 248,
+      "index": 249,
+      "value": 2604125,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/248"
+    },
+    {
+      "id": 249,
+      "index": 250,
+      "value": 2635500,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/249"
+    },
+    {
+      "id": 250,
+      "index": 251,
+      "value": 2667126,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/250"
+    },
+    {
+      "id": 251,
+      "index": 252,
+      "value": 2699004,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/251"
+    },
+    {
+      "id": 252,
+      "index": 253,
+      "value": 2731135,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/252"
+    },
+    {
+      "id": 253,
+      "index": 254,
+      "value": 2763520,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/253"
+    },
+    {
+      "id": 254,
+      "index": 255,
+      "value": 2796160,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/254"
+    },
+    {
+      "id": 255,
+      "index": 256,
+      "value": 2829056,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/255"
+    },
+    {
+      "id": 256,
+      "index": 257,
+      "value": 2862209,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/256"
+    },
+    {
+      "id": 257,
+      "index": 258,
+      "value": 2895620,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/257"
+    },
+    {
+      "id": 258,
+      "index": 259,
+      "value": 2929290,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/258"
+    },
+    {
+      "id": 259,
+      "index": 260,
+      "value": 2963220,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/259"
+    },
+    {
+      "id": 260,
+      "index": 261,
+      "value": 2997411,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/260"
+    },
+    {
+      "id": 261,
+      "index": 262,
+      "value": 3031864,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/261"
+    },
+    {
+      "id": 262,
+      "index": 263,
+      "value": 3066580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/262"
+    },
+    {
+      "id": 263,
+      "index": 264,
+      "value": 3101560,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/263"
+    },
+    {
+      "id": 264,
+      "index": 265,
+      "value": 3136805,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/264"
+    },
+    {
+      "id": 265,
+      "index": 266,
+      "value": 3172316,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/265"
+    },
+    {
+      "id": 266,
+      "index": 267,
+      "value": 3208094,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/266"
+    },
+    {
+      "id": 267,
+      "index": 268,
+      "value": 3244140,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/267"
+    },
+    {
+      "id": 268,
+      "index": 269,
+      "value": 3280455,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/268"
+    },
+    {
+      "id": 269,
+      "index": 270,
+      "value": 3317040,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/269"
+    },
+    {
+      "id": 270,
+      "index": 271,
+      "value": 3353896,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/270"
+    },
+    {
+      "id": 271,
+      "index": 272,
+      "value": 3391024,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/271"
+    },
+    {
+      "id": 272,
+      "index": 273,
+      "value": 3428425,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/272"
+    },
+    {
+      "id": 273,
+      "index": 274,
+      "value": 3466100,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/273"
+    },
+    {
+      "id": 274,
+      "index": 275,
+      "value": 3504050,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/274"
+    },
+    {
+      "id": 275,
+      "index": 276,
+      "value": 3542276,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/275"
+    },
+    {
+      "id": 276,
+      "index": 277,
+      "value": 3580779,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/276"
+    },
+    {
+      "id": 277,
+      "index": 278,
+      "value": 3619560,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/277"
+    },
+    {
+      "id": 278,
+      "index": 279,
+      "value": 3658620,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/278"
+    },
+    {
+      "id": 279,
+      "index": 280,
+      "value": 3697960,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/279"
+    },
+    {
+      "id": 280,
+      "index": 281,
+      "value": 3737581,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/280"
+    },
+    {
+      "id": 281,
+      "index": 282,
+      "value": 3777484,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/281"
+    },
+    {
+      "id": 282,
+      "index": 283,
+      "value": 3817670,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/282"
+    },
+    {
+      "id": 283,
+      "index": 284,
+      "value": 3858140,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/283"
+    },
+    {
+      "id": 284,
+      "index": 285,
+      "value": 3898895,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/284"
+    },
+    {
+      "id": 285,
+      "index": 286,
+      "value": 3939936,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/285"
+    },
+    {
+      "id": 286,
+      "index": 287,
+      "value": 3981264,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/286"
+    },
+    {
+      "id": 287,
+      "index": 288,
+      "value": 4022880,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/287"
+    },
+    {
+      "id": 288,
+      "index": 289,
+      "value": 4064785,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/288"
+    },
+    {
+      "id": 289,
+      "index": 290,
+      "value": 4106980,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/289"
+    },
+    {
+      "id": 290,
+      "index": 291,
+      "value": 4149466,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/290"
+    },
+    {
+      "id": 291,
+      "index": 292,
+      "value": 4192244,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/291"
+    },
+    {
+      "id": 292,
+      "index": 293,
+      "value": 4235315,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/292"
+    },
+    {
+      "id": 293,
+      "index": 294,
+      "value": 4278680,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/293"
+    },
+    {
+      "id": 294,
+      "index": 295,
+      "value": 4322340,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/294"
+    },
+    {
+      "id": 295,
+      "index": 296,
+      "value": 4366296,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/295"
+    },
+    {
+      "id": 296,
+      "index": 297,
+      "value": 4410549,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/296"
+    },
+    {
+      "id": 297,
+      "index": 298,
+      "value": 4455100,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/297"
+    },
+    {
+      "id": 298,
+      "index": 299,
+      "value": 4499950,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/298"
+    },
+    {
+      "id": 299,
+      "index": 300,
+      "value": 4545100,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/299"
+    },
+    {
+      "id": 300,
+      "index": 301,
+      "value": 4590551,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/300"
+    },
+    {
+      "id": 301,
+      "index": 302,
+      "value": 4636304,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/301"
+    },
+    {
+      "id": 302,
+      "index": 303,
+      "value": 4682360,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/302"
+    },
+    {
+      "id": 303,
+      "index": 304,
+      "value": 4728720,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/303"
+    },
+    {
+      "id": 304,
+      "index": 305,
+      "value": 4775385,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/304"
+    },
+    {
+      "id": 305,
+      "index": 306,
+      "value": 4822356,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/305"
+    },
+    {
+      "id": 306,
+      "index": 307,
+      "value": 4869634,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/306"
+    },
+    {
+      "id": 307,
+      "index": 308,
+      "value": 4917220,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/307"
+    },
+    {
+      "id": 308,
+      "index": 309,
+      "value": 4965115,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/308"
+    },
+    {
+      "id": 309,
+      "index": 310,
+      "value": 5013320,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/309"
+    },
+    {
+      "id": 310,
+      "index": 311,
+      "value": 5061836,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/310"
+    },
+    {
+      "id": 311,
+      "index": 312,
+      "value": 5110664,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/311"
+    },
+    {
+      "id": 312,
+      "index": 313,
+      "value": 5159805,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/312"
+    },
+    {
+      "id": 313,
+      "index": 314,
+      "value": 5209260,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/313"
+    },
+    {
+      "id": 314,
+      "index": 315,
+      "value": 5259030,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/314"
+    },
+    {
+      "id": 315,
+      "index": 316,
+      "value": 5309116,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/315"
+    },
+    {
+      "id": 316,
+      "index": 317,
+      "value": 5359519,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/316"
+    },
+    {
+      "id": 317,
+      "index": 318,
+      "value": 5410240,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/317"
+    },
+    {
+      "id": 318,
+      "index": 319,
+      "value": 5461280,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/318"
+    },
+    {
+      "id": 319,
+      "index": 320,
+      "value": 5512640,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/319"
+    },
+    {
+      "id": 320,
+      "index": 321,
+      "value": 5564321,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/320"
+    },
+    {
+      "id": 321,
+      "index": 322,
+      "value": 5616324,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/321"
+    },
+    {
+      "id": 322,
+      "index": 323,
+      "value": 5668650,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/322"
+    },
+    {
+      "id": 323,
+      "index": 324,
+      "value": 5721300,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/323"
+    },
+    {
+      "id": 324,
+      "index": 325,
+      "value": 5774275,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/324"
+    },
+    {
+      "id": 325,
+      "index": 326,
+      "value": 5827576,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/325"
+    },
+    {
+      "id": 326,
+      "index": 327,
+      "value": 5881204,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/326"
+    },
+    {
+      "id": 327,
+      "index": 328,
+      "value": 5935160,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/327"
+    },
+    {
+      "id": 328,
+      "index": 329,
+      "value": 5989445,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/328"
+    },
+    {
+      "id": 329,
+      "index": 330,
+      "value": 6044060,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/329"
+    },
+    {
+      "id": 330,
+      "index": 331,
+      "value": 6099006,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/330"
+    },
+    {
+      "id": 331,
+      "index": 332,
+      "value": 6154284,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/331"
+    },
+    {
+      "id": 332,
+      "index": 333,
+      "value": 6209895,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/332"
+    },
+    {
+      "id": 333,
+      "index": 334,
+      "value": 6265840,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/333"
+    },
+    {
+      "id": 334,
+      "index": 335,
+      "value": 6322120,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/334"
+    },
+    {
+      "id": 335,
+      "index": 336,
+      "value": 6378736,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/335"
+    },
+    {
+      "id": 336,
+      "index": 337,
+      "value": 6435689,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/336"
+    },
+    {
+      "id": 337,
+      "index": 338,
+      "value": 6492980,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/337"
+    },
+    {
+      "id": 338,
+      "index": 339,
+      "value": 6550610,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/338"
+    },
+    {
+      "id": 339,
+      "index": 340,
+      "value": 6608580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/339"
+    },
+    {
+      "id": 340,
+      "index": 341,
+      "value": 6666891,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/340"
+    },
+    {
+      "id": 341,
+      "index": 342,
+      "value": 6725544,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/341"
+    },
+    {
+      "id": 342,
+      "index": 343,
+      "value": 6784540,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/342"
+    },
+    {
+      "id": 343,
+      "index": 344,
+      "value": 6843880,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/343"
+    },
+    {
+      "id": 344,
+      "index": 345,
+      "value": 6903565,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/344"
+    },
+    {
+      "id": 345,
+      "index": 346,
+      "value": 6963596,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/345"
+    },
+    {
+      "id": 346,
+      "index": 347,
+      "value": 7023974,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/346"
+    },
+    {
+      "id": 347,
+      "index": 348,
+      "value": 7084700,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/347"
+    },
+    {
+      "id": 348,
+      "index": 349,
+      "value": 7145775,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/348"
+    },
+    {
+      "id": 349,
+      "index": 350,
+      "value": 7207200,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/349"
+    },
+    {
+      "id": 350,
+      "index": 351,
+      "value": 7268976,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/350"
+    },
+    {
+      "id": 351,
+      "index": 352,
+      "value": 7331104,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/351"
+    },
+    {
+      "id": 352,
+      "index": 353,
+      "value": 7393585,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/352"
+    },
+    {
+      "id": 353,
+      "index": 354,
+      "value": 7456420,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/353"
+    },
+    {
+      "id": 354,
+      "index": 355,
+      "value": 7519610,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/354"
+    },
+    {
+      "id": 355,
+      "index": 356,
+      "value": 7583156,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/355"
+    },
+    {
+      "id": 356,
+      "index": 357,
+      "value": 7647059,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/356"
+    },
+    {
+      "id": 357,
+      "index": 358,
+      "value": 7711320,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/357"
+    },
+    {
+      "id": 358,
+      "index": 359,
+      "value": 7775940,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/358"
+    },
+    {
+      "id": 359,
+      "index": 360,
+      "value": 7840920,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/359"
+    },
+    {
+      "id": 360,
+      "index": 361,
+      "value": 7906261,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/360"
+    },
+    {
+      "id": 361,
+      "index": 362,
+      "value": 7971964,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/361"
+    },
+    {
+      "id": 362,
+      "index": 363,
+      "value": 8038030,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/362"
+    },
+    {
+      "id": 363,
+      "index": 364,
+      "value": 8104460,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/363"
+    },
+    {
+      "id": 364,
+      "index": 365,
+      "value": 8171255,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/364"
+    },
+    {
+      "id": 365,
+      "index": 366,
+      "value": 8238416,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/365"
+    },
+    {
+      "id": 366,
+      "index": 367,
+      "value": 8305944,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/366"
+    },
+    {
+      "id": 367,
+      "index": 368,
+      "value": 8373840,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/367"
+    },
+    {
+      "id": 368,
+      "index": 369,
+      "value": 8442105,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/368"
+    },
+    {
+      "id": 369,
+      "index": 370,
+      "value": 8510740,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/369"
+    },
+    {
+      "id": 370,
+      "index": 371,
+      "value": 8579746,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/370"
+    },
+    {
+      "id": 371,
+      "index": 372,
+      "value": 8649124,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/371"
+    },
+    {
+      "id": 372,
+      "index": 373,
+      "value": 8718875,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/372"
+    },
+    {
+      "id": 373,
+      "index": 374,
+      "value": 8789000,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/373"
+    },
+    {
+      "id": 374,
+      "index": 375,
+      "value": 8859500,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/374"
+    },
+    {
+      "id": 375,
+      "index": 376,
+      "value": 8930376,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/375"
+    },
+    {
+      "id": 376,
+      "index": 377,
+      "value": 9001629,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/376"
+    },
+    {
+      "id": 377,
+      "index": 378,
+      "value": 9073260,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/377"
+    },
+    {
+      "id": 378,
+      "index": 379,
+      "value": 9145270,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/378"
+    },
+    {
+      "id": 379,
+      "index": 380,
+      "value": 9217660,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/379"
+    },
+    {
+      "id": 380,
+      "index": 381,
+      "value": 9290431,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/380"
+    },
+    {
+      "id": 381,
+      "index": 382,
+      "value": 9363584,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/381"
+    },
+    {
+      "id": 382,
+      "index": 383,
+      "value": 9437120,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/382"
+    },
+    {
+      "id": 383,
+      "index": 384,
+      "value": 9511040,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/383"
+    },
+    {
+      "id": 384,
+      "index": 385,
+      "value": 9585345,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/384"
+    },
+    {
+      "id": 385,
+      "index": 386,
+      "value": 9660036,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/385"
+    },
+    {
+      "id": 386,
+      "index": 387,
+      "value": 9735114,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/386"
+    },
+    {
+      "id": 387,
+      "index": 388,
+      "value": 9810580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/387"
+    },
+    {
+      "id": 388,
+      "index": 389,
+      "value": 9886435,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/388"
+    },
+    {
+      "id": 389,
+      "index": 390,
+      "value": 9962680,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/389"
+    },
+    {
+      "id": 390,
+      "index": 391,
+      "value": 10039316,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/390"
+    },
+    {
+      "id": 391,
+      "index": 392,
+      "value": 10116344,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/391"
+    },
+    {
+      "id": 392,
+      "index": 393,
+      "value": 10193765,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/392"
+    },
+    {
+      "id": 393,
+      "index": 394,
+      "value": 10271580,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/393"
+    },
+    {
+      "id": 394,
+      "index": 395,
+      "value": 10349790,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/394"
+    },
+    {
+      "id": 395,
+      "index": 396,
+      "value": 10428396,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/395"
+    },
+    {
+      "id": 396,
+      "index": 397,
+      "value": 10507399,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/396"
+    },
+    {
+      "id": 397,
+      "index": 398,
+      "value": 10586800,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/397"
+    },
+    {
+      "id": 398,
+      "index": 399,
+      "value": 10666600,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/398"
+    },
+    {
+      "id": 399,
+      "index": 400,
+      "value": 10746800,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/399"
+    },
+    {
+      "id": 400,
+      "index": 401,
+      "value": 10827401,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/400"
+    },
+    {
+      "id": 401,
+      "index": 402,
+      "value": 10908404,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/401"
+    },
+    {
+      "id": 402,
+      "index": 403,
+      "value": 10989810,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/402"
+    },
+    {
+      "id": 403,
+      "index": 404,
+      "value": 11071620,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/403"
+    },
+    {
+      "id": 404,
+      "index": 405,
+      "value": 11153835,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/404"
+    },
+    {
+      "id": 405,
+      "index": 406,
+      "value": 11236456,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/405"
+    },
+    {
+      "id": 406,
+      "index": 407,
+      "value": 11319484,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/406"
+    },
+    {
+      "id": 407,
+      "index": 408,
+      "value": 11402920,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/407"
+    },
+    {
+      "id": 408,
+      "index": 409,
+      "value": 11486765,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/408"
+    },
+    {
+      "id": 409,
+      "index": 410,
+      "value": 11571020,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/409"
+    },
+    {
+      "id": 410,
+      "index": 411,
+      "value": 11655686,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/410"
+    },
+    {
+      "id": 411,
+      "index": 412,
+      "value": 11740764,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/411"
+    },
+    {
+      "id": 412,
+      "index": 413,
+      "value": 11826255,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/412"
+    },
+    {
+      "id": 413,
+      "index": 414,
+      "value": 11912160,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/413"
+    },
+    {
+      "id": 414,
+      "index": 415,
+      "value": 11998480,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/414"
+    },
+    {
+      "id": 415,
+      "index": 416,
+      "value": 12085216,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/415"
+    },
+    {
+      "id": 416,
+      "index": 417,
+      "value": 12172369,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/416"
+    },
+    {
+      "id": 417,
+      "index": 418,
+      "value": 12259940,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/417"
+    },
+    {
+      "id": 418,
+      "index": 419,
+      "value": 12347930,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/418"
+    },
+    {
+      "id": 419,
+      "index": 420,
+      "value": 12436340,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/419"
+    },
+    {
+      "id": 420,
+      "index": 421,
+      "value": 12525171,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/420"
+    },
+    {
+      "id": 421,
+      "index": 422,
+      "value": 12614424,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/421"
+    },
+    {
+      "id": 422,
+      "index": 423,
+      "value": 12704100,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/422"
+    },
+    {
+      "id": 423,
+      "index": 424,
+      "value": 12794200,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/423"
+    },
+    {
+      "id": 424,
+      "index": 425,
+      "value": 12884725,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/424"
+    },
+    {
+      "id": 425,
+      "index": 426,
+      "value": 12975676,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/425"
+    },
+    {
+      "id": 426,
+      "index": 427,
+      "value": 13067054,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/426"
+    },
+    {
+      "id": 427,
+      "index": 428,
+      "value": 13158860,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/427"
+    },
+    {
+      "id": 428,
+      "index": 429,
+      "value": 13251095,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/428"
+    },
+    {
+      "id": 429,
+      "index": 430,
+      "value": 13343760,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/429"
+    },
+    {
+      "id": 430,
+      "index": 431,
+      "value": 13436856,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/430"
+    },
+    {
+      "id": 431,
+      "index": 432,
+      "value": 13530384,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/431"
+    },
+    {
+      "id": 432,
+      "index": 433,
+      "value": 13624345,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/432"
+    },
+    {
+      "id": 433,
+      "index": 434,
+      "value": 13718740,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/433"
+    },
+    {
+      "id": 434,
+      "index": 435,
+      "value": 13813570,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/434"
+    },
+    {
+      "id": 435,
+      "index": 436,
+      "value": 13908836,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/435"
+    },
+    {
+      "id": 436,
+      "index": 437,
+      "value": 14004539,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/436"
+    },
+    {
+      "id": 437,
+      "index": 438,
+      "value": 14100680,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/437"
+    },
+    {
+      "id": 438,
+      "index": 439,
+      "value": 14197260,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/438"
+    },
+    {
+      "id": 439,
+      "index": 440,
+      "value": 14294280,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/439"
+    },
+    {
+      "id": 440,
+      "index": 441,
+      "value": 14391741,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/440"
+    },
+    {
+      "id": 441,
+      "index": 442,
+      "value": 14489644,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/441"
+    },
+    {
+      "id": 442,
+      "index": 443,
+      "value": 14587990,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/442"
+    },
+    {
+      "id": 443,
+      "index": 444,
+      "value": 14686780,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/443"
+    },
+    {
+      "id": 444,
+      "index": 445,
+      "value": 14786015,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/444"
+    },
+    {
+      "id": 445,
+      "index": 446,
+      "value": 14885696,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/445"
+    },
+    {
+      "id": 446,
+      "index": 447,
+      "value": 14985824,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/446"
+    },
+    {
+      "id": 447,
+      "index": 448,
+      "value": 15086400,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/447"
+    },
+    {
+      "id": 448,
+      "index": 449,
+      "value": 15187425,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/448"
+    },
+    {
+      "id": 449,
+      "index": 450,
+      "value": 15288900,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/449"
+    },
+    {
+      "id": 450,
+      "index": 451,
+      "value": 15390826,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/450"
+    },
+    {
+      "id": 451,
+      "index": 452,
+      "value": 15493204,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/451"
+    },
+    {
+      "id": 452,
+      "index": 453,
+      "value": 15596035,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/452"
+    },
+    {
+      "id": 453,
+      "index": 454,
+      "value": 15699320,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/453"
+    },
+    {
+      "id": 454,
+      "index": 455,
+      "value": 15803060,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/454"
+    },
+    {
+      "id": 455,
+      "index": 456,
+      "value": 15907256,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/455"
+    },
+    {
+      "id": 456,
+      "index": 457,
+      "value": 16011909,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/456"
+    },
+    {
+      "id": 457,
+      "index": 458,
+      "value": 16117020,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/457"
+    },
+    {
+      "id": 458,
+      "index": 459,
+      "value": 16222590,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/458"
+    },
+    {
+      "id": 459,
+      "index": 460,
+      "value": 16328620,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/459"
+    },
+    {
+      "id": 460,
+      "index": 461,
+      "value": 16435111,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/460"
+    },
+    {
+      "id": 461,
+      "index": 462,
+      "value": 16542064,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/461"
+    },
+    {
+      "id": 462,
+      "index": 463,
+      "value": 16649480,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/462"
+    },
+    {
+      "id": 463,
+      "index": 464,
+      "value": 16757360,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/463"
+    },
+    {
+      "id": 464,
+      "index": 465,
+      "value": 16865705,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/464"
+    },
+    {
+      "id": 465,
+      "index": 466,
+      "value": 16974516,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/465"
+    },
+    {
+      "id": 466,
+      "index": 467,
+      "value": 17083794,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/466"
+    },
+    {
+      "id": 467,
+      "index": 468,
+      "value": 17193540,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/467"
+    },
+    {
+      "id": 468,
+      "index": 469,
+      "value": 17303755,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/468"
+    },
+    {
+      "id": 469,
+      "index": 470,
+      "value": 17414440,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/469"
+    },
+    {
+      "id": 470,
+      "index": 471,
+      "value": 17525596,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/470"
+    },
+    {
+      "id": 471,
+      "index": 472,
+      "value": 17637224,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/471"
+    },
+    {
+      "id": 472,
+      "index": 473,
+      "value": 17749325,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/472"
+    },
+    {
+      "id": 473,
+      "index": 474,
+      "value": 17861900,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/473"
+    },
+    {
+      "id": 474,
+      "index": 475,
+      "value": 17974950,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/474"
+    },
+    {
+      "id": 475,
+      "index": 476,
+      "value": 18088476,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/475"
+    },
+    {
+      "id": 476,
+      "index": 477,
+      "value": 18202479,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/476"
+    },
+    {
+      "id": 477,
+      "index": 478,
+      "value": 18316960,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/477"
+    },
+    {
+      "id": 478,
+      "index": 479,
+      "value": 18431920,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/478"
+    },
+    {
+      "id": 479,
+      "index": 480,
+      "value": 18547360,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/479"
+    },
+    {
+      "id": 480,
+      "index": 481,
+      "value": 18663281,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/480"
+    },
+    {
+      "id": 481,
+      "index": 482,
+      "value": 18779684,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/481"
+    },
+    {
+      "id": 482,
+      "index": 483,
+      "value": 18896570,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/482"
+    },
+    {
+      "id": 483,
+      "index": 484,
+      "value": 19013940,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/483"
+    },
+    {
+      "id": 484,
+      "index": 485,
+      "value": 19131795,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/484"
+    },
+    {
+      "id": 485,
+      "index": 486,
+      "value": 19250136,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/485"
+    },
+    {
+      "id": 486,
+      "index": 487,
+      "value": 19368964,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/486"
+    },
+    {
+      "id": 487,
+      "index": 488,
+      "value": 19488280,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/487"
+    },
+    {
+      "id": 488,
+      "index": 489,
+      "value": 19608085,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/488"
+    },
+    {
+      "id": 489,
+      "index": 490,
+      "value": 19728380,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/489"
+    },
+    {
+      "id": 490,
+      "index": 491,
+      "value": 19849166,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/490"
+    },
+    {
+      "id": 491,
+      "index": 492,
+      "value": 19970444,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/491"
+    },
+    {
+      "id": 492,
+      "index": 493,
+      "value": 20092215,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/492"
+    },
+    {
+      "id": 493,
+      "index": 494,
+      "value": 20214480,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/493"
+    },
+    {
+      "id": 494,
+      "index": 495,
+      "value": 20337240,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/494"
+    },
+    {
+      "id": 495,
+      "index": 496,
+      "value": 20460496,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/495"
+    },
+    {
+      "id": 496,
+      "index": 497,
+      "value": 20584249,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/496"
+    },
+    {
+      "id": 497,
+      "index": 498,
+      "value": 20708500,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/497"
+    },
+    {
+      "id": 498,
+      "index": 499,
+      "value": 20833250,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/498"
+    },
+    {
+      "id": 499,
+      "index": 500,
+      "value": 20958500,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/499"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "api": "fifth-powers",
+  "title": "Fifth Powers",
+  "description": "n^5 for n = 1..80.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 80,
+  "self": "https://gratisapi.com/api/fifth-powers/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/fifth-powers/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 1,
+      "url": "https://gratisapi.com/api/fifth-powers/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 32,
+      "url": "https://gratisapi.com/api/fifth-powers/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 243,
+      "url": "https://gratisapi.com/api/fifth-powers/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 1024,
+      "url": "https://gratisapi.com/api/fifth-powers/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 3125,
+      "url": "https://gratisapi.com/api/fifth-powers/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 7776,
+      "url": "https://gratisapi.com/api/fifth-powers/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 16807,
+      "url": "https://gratisapi.com/api/fifth-powers/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 32768,
+      "url": "https://gratisapi.com/api/fifth-powers/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 59049,
+      "url": "https://gratisapi.com/api/fifth-powers/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 100000,
+      "url": "https://gratisapi.com/api/fifth-powers/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 161051,
+      "url": "https://gratisapi.com/api/fifth-powers/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 248832,
+      "url": "https://gratisapi.com/api/fifth-powers/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 371293,
+      "url": "https://gratisapi.com/api/fifth-powers/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 537824,
+      "url": "https://gratisapi.com/api/fifth-powers/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 759375,
+      "url": "https://gratisapi.com/api/fifth-powers/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 1048576,
+      "url": "https://gratisapi.com/api/fifth-powers/15"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "value": 1419857,
+      "url": "https://gratisapi.com/api/fifth-powers/16"
+    },
+    {
+      "id": 17,
+      "index": 18,
+      "value": 1889568,
+      "url": "https://gratisapi.com/api/fifth-powers/17"
+    },
+    {
+      "id": 18,
+      "index": 19,
+      "value": 2476099,
+      "url": "https://gratisapi.com/api/fifth-powers/18"
+    },
+    {
+      "id": 19,
+      "index": 20,
+      "value": 3200000,
+      "url": "https://gratisapi.com/api/fifth-powers/19"
+    },
+    {
+      "id": 20,
+      "index": 21,
+      "value": 4084101,
+      "url": "https://gratisapi.com/api/fifth-powers/20"
+    },
+    {
+      "id": 21,
+      "index": 22,
+      "value": 5153632,
+      "url": "https://gratisapi.com/api/fifth-powers/21"
+    },
+    {
+      "id": 22,
+      "index": 23,
+      "value": 6436343,
+      "url": "https://gratisapi.com/api/fifth-powers/22"
+    },
+    {
+      "id": 23,
+      "index": 24,
+      "value": 7962624,
+      "url": "https://gratisapi.com/api/fifth-powers/23"
+    },
+    {
+      "id": 24,
+      "index": 25,
+      "value": 9765625,
+      "url": "https://gratisapi.com/api/fifth-powers/24"
+    },
+    {
+      "id": 25,
+      "index": 26,
+      "value": 11881376,
+      "url": "https://gratisapi.com/api/fifth-powers/25"
+    },
+    {
+      "id": 26,
+      "index": 27,
+      "value": 14348907,
+      "url": "https://gratisapi.com/api/fifth-powers/26"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "value": 17210368,
+      "url": "https://gratisapi.com/api/fifth-powers/27"
+    },
+    {
+      "id": 28,
+      "index": 29,
+      "value": 20511149,
+      "url": "https://gratisapi.com/api/fifth-powers/28"
+    },
+    {
+      "id": 29,
+      "index": 30,
+      "value": 24300000,
+      "url": "https://gratisapi.com/api/fifth-powers/29"
+    },
+    {
+      "id": 30,
+      "index": 31,
+      "value": 28629151,
+      "url": "https://gratisapi.com/api/fifth-powers/30"
+    },
+    {
+      "id": 31,
+      "index": 32,
+      "value": 33554432,
+      "url": "https://gratisapi.com/api/fifth-powers/31"
+    },
+    {
+      "id": 32,
+      "index": 33,
+      "value": 39135393,
+      "url": "https://gratisapi.com/api/fifth-powers/32"
+    },
+    {
+      "id": 33,
+      "index": 34,
+      "value": 45435424,
+      "url": "https://gratisapi.com/api/fifth-powers/33"
+    },
+    {
+      "id": 34,
+      "index": 35,
+      "value": 52521875,
+      "url": "https://gratisapi.com/api/fifth-powers/34"
+    },
+    {
+      "id": 35,
+      "index": 36,
+      "value": 60466176,
+      "url": "https://gratisapi.com/api/fifth-powers/35"
+    },
+    {
+      "id": 36,
+      "index": 37,
+      "value": 69343957,
+      "url": "https://gratisapi.com/api/fifth-powers/36"
+    },
+    {
+      "id": 37,
+      "index": 38,
+      "value": 79235168,
+      "url": "https://gratisapi.com/api/fifth-powers/37"
+    },
+    {
+      "id": 38,
+      "index": 39,
+      "value": 90224199,
+      "url": "https://gratisapi.com/api/fifth-powers/38"
+    },
+    {
+      "id": 39,
+      "index": 40,
+      "value": 102400000,
+      "url": "https://gratisapi.com/api/fifth-powers/39"
+    },
+    {
+      "id": 40,
+      "index": 41,
+      "value": 115856201,
+      "url": "https://gratisapi.com/api/fifth-powers/40"
+    },
+    {
+      "id": 41,
+      "index": 42,
+      "value": 130691232,
+      "url": "https://gratisapi.com/api/fifth-powers/41"
+    },
+    {
+      "id": 42,
+      "index": 43,
+      "value": 147008443,
+      "url": "https://gratisapi.com/api/fifth-powers/42"
+    },
+    {
+      "id": 43,
+      "index": 44,
+      "value": 164916224,
+      "url": "https://gratisapi.com/api/fifth-powers/43"
+    },
+    {
+      "id": 44,
+      "index": 45,
+      "value": 184528125,
+      "url": "https://gratisapi.com/api/fifth-powers/44"
+    },
+    {
+      "id": 45,
+      "index": 46,
+      "value": 205962976,
+      "url": "https://gratisapi.com/api/fifth-powers/45"
+    },
+    {
+      "id": 46,
+      "index": 47,
+      "value": 229345007,
+      "url": "https://gratisapi.com/api/fifth-powers/46"
+    },
+    {
+      "id": 47,
+      "index": 48,
+      "value": 254803968,
+      "url": "https://gratisapi.com/api/fifth-powers/47"
+    },
+    {
+      "id": 48,
+      "index": 49,
+      "value": 282475249,
+      "url": "https://gratisapi.com/api/fifth-powers/48"
+    },
+    {
+      "id": 49,
+      "index": 50,
+      "value": 312500000,
+      "url": "https://gratisapi.com/api/fifth-powers/49"
+    },
+    {
+      "id": 50,
+      "index": 51,
+      "value": 345025251,
+      "url": "https://gratisapi.com/api/fifth-powers/50"
+    },
+    {
+      "id": 51,
+      "index": 52,
+      "value": 380204032,
+      "url": "https://gratisapi.com/api/fifth-powers/51"
+    },
+    {
+      "id": 52,
+      "index": 53,
+      "value": 418195493,
+      "url": "https://gratisapi.com/api/fifth-powers/52"
+    },
+    {
+      "id": 53,
+      "index": 54,
+      "value": 459165024,
+      "url": "https://gratisapi.com/api/fifth-powers/53"
+    },
+    {
+      "id": 54,
+      "index": 55,
+      "value": 503284375,
+      "url": "https://gratisapi.com/api/fifth-powers/54"
+    },
+    {
+      "id": 55,
+      "index": 56,
+      "value": 550731776,
+      "url": "https://gratisapi.com/api/fifth-powers/55"
+    },
+    {
+      "id": 56,
+      "index": 57,
+      "value": 601692057,
+      "url": "https://gratisapi.com/api/fifth-powers/56"
+    },
+    {
+      "id": 57,
+      "index": 58,
+      "value": 656356768,
+      "url": "https://gratisapi.com/api/fifth-powers/57"
+    },
+    {
+      "id": 58,
+      "index": 59,
+      "value": 714924299,
+      "url": "https://gratisapi.com/api/fifth-powers/58"
+    },
+    {
+      "id": 59,
+      "index": 60,
+      "value": 777600000,
+      "url": "https://gratisapi.com/api/fifth-powers/59"
+    },
+    {
+      "id": 60,
+      "index": 61,
+      "value": 844596301,
+      "url": "https://gratisapi.com/api/fifth-powers/60"
+    },
+    {
+      "id": 61,
+      "index": 62,
+      "value": 916132832,
+      "url": "https://gratisapi.com/api/fifth-powers/61"
+    },
+    {
+      "id": 62,
+      "index": 63,
+      "value": 992436543,
+      "url": "https://gratisapi.com/api/fifth-powers/62"
+    },
+    {
+      "id": 63,
+      "index": 64,
+      "value": 1073741824,
+      "url": "https://gratisapi.com/api/fifth-powers/63"
+    },
+    {
+      "id": 64,
+      "index": 65,
+      "value": 1160290625,
+      "url": "https://gratisapi.com/api/fifth-powers/64"
+    },
+    {
+      "id": 65,
+      "index": 66,
+      "value": 1252332576,
+      "url": "https://gratisapi.com/api/fifth-powers/65"
+    },
+    {
+      "id": 66,
+      "index": 67,
+      "value": 1350125107,
+      "url": "https://gratisapi.com/api/fifth-powers/66"
+    },
+    {
+      "id": 67,
+      "index": 68,
+      "value": 1453933568,
+      "url": "https://gratisapi.com/api/fifth-powers/67"
+    },
+    {
+      "id": 68,
+      "index": 69,
+      "value": 1564031349,
+      "url": "https://gratisapi.com/api/fifth-powers/68"
+    },
+    {
+      "id": 69,
+      "index": 70,
+      "value": 1680700000,
+      "url": "https://gratisapi.com/api/fifth-powers/69"
+    },
+    {
+      "id": 70,
+      "index": 71,
+      "value": 1804229351,
+      "url": "https://gratisapi.com/api/fifth-powers/70"
+    },
+    {
+      "id": 71,
+      "index": 72,
+      "value": 1934917632,
+      "url": "https://gratisapi.com/api/fifth-powers/71"
+    },
+    {
+      "id": 72,
+      "index": 73,
+      "value": 2073071593,
+      "url": "https://gratisapi.com/api/fifth-powers/72"
+    },
+    {
+      "id": 73,
+      "index": 74,
+      "value": 2219006624,
+      "url": "https://gratisapi.com/api/fifth-powers/73"
+    },
+    {
+      "id": 74,
+      "index": 75,
+      "value": 2373046875,
+      "url": "https://gratisapi.com/api/fifth-powers/74"
+    },
+    {
+      "id": 75,
+      "index": 76,
+      "value": 2535525376,
+      "url": "https://gratisapi.com/api/fifth-powers/75"
+    },
+    {
+      "id": 76,
+      "index": 77,
+      "value": 2706784157,
+      "url": "https://gratisapi.com/api/fifth-powers/76"
+    },
+    {
+      "id": 77,
+      "index": 78,
+      "value": 2887174368,
+      "url": "https://gratisapi.com/api/fifth-powers/77"
+    },
+    {
+      "id": 78,
+      "index": 79,
+      "value": 3077056399,
+      "url": "https://gratisapi.com/api/fifth-powers/78"
+    },
+    {
+      "id": 79,
+      "index": 80,
+      "value": 3276800000,
+      "url": "https://gratisapi.com/api/fifth-powers/79"
+    }
+  ]
+}

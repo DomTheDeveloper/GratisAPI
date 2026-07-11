@@ -1,0 +1,182 @@
+{
+  "api": "times-table-114",
+  "title": "114 Times Table",
+  "description": "The multiplication table for 114: 114x1 through 114x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-114/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-114/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 114,
+      "multiplicand": 1,
+      "product": 114,
+      "expression": "114 x 1 = 114",
+      "url": "https://gratisapi.com/api/times-table-114/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 114,
+      "multiplicand": 2,
+      "product": 228,
+      "expression": "114 x 2 = 228",
+      "url": "https://gratisapi.com/api/times-table-114/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 114,
+      "multiplicand": 3,
+      "product": 342,
+      "expression": "114 x 3 = 342",
+      "url": "https://gratisapi.com/api/times-table-114/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 114,
+      "multiplicand": 4,
+      "product": 456,
+      "expression": "114 x 4 = 456",
+      "url": "https://gratisapi.com/api/times-table-114/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 114,
+      "multiplicand": 5,
+      "product": 570,
+      "expression": "114 x 5 = 570",
+      "url": "https://gratisapi.com/api/times-table-114/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 114,
+      "multiplicand": 6,
+      "product": 684,
+      "expression": "114 x 6 = 684",
+      "url": "https://gratisapi.com/api/times-table-114/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 114,
+      "multiplicand": 7,
+      "product": 798,
+      "expression": "114 x 7 = 798",
+      "url": "https://gratisapi.com/api/times-table-114/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 114,
+      "multiplicand": 8,
+      "product": 912,
+      "expression": "114 x 8 = 912",
+      "url": "https://gratisapi.com/api/times-table-114/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 114,
+      "multiplicand": 9,
+      "product": 1026,
+      "expression": "114 x 9 = 1026",
+      "url": "https://gratisapi.com/api/times-table-114/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 114,
+      "multiplicand": 10,
+      "product": 1140,
+      "expression": "114 x 10 = 1140",
+      "url": "https://gratisapi.com/api/times-table-114/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 114,
+      "multiplicand": 11,
+      "product": 1254,
+      "expression": "114 x 11 = 1254",
+      "url": "https://gratisapi.com/api/times-table-114/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 114,
+      "multiplicand": 12,
+      "product": 1368,
+      "expression": "114 x 12 = 1368",
+      "url": "https://gratisapi.com/api/times-table-114/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 114,
+      "multiplicand": 13,
+      "product": 1482,
+      "expression": "114 x 13 = 1482",
+      "url": "https://gratisapi.com/api/times-table-114/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 114,
+      "multiplicand": 14,
+      "product": 1596,
+      "expression": "114 x 14 = 1596",
+      "url": "https://gratisapi.com/api/times-table-114/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 114,
+      "multiplicand": 15,
+      "product": 1710,
+      "expression": "114 x 15 = 1710",
+      "url": "https://gratisapi.com/api/times-table-114/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 114,
+      "multiplicand": 16,
+      "product": 1824,
+      "expression": "114 x 16 = 1824",
+      "url": "https://gratisapi.com/api/times-table-114/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 114,
+      "multiplicand": 17,
+      "product": 1938,
+      "expression": "114 x 17 = 1938",
+      "url": "https://gratisapi.com/api/times-table-114/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 114,
+      "multiplicand": 18,
+      "product": 2052,
+      "expression": "114 x 18 = 2052",
+      "url": "https://gratisapi.com/api/times-table-114/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 114,
+      "multiplicand": 19,
+      "product": 2166,
+      "expression": "114 x 19 = 2166",
+      "url": "https://gratisapi.com/api/times-table-114/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 114,
+      "multiplicand": 20,
+      "product": 2280,
+      "expression": "114 x 20 = 2280",
+      "url": "https://gratisapi.com/api/times-table-114/20"
+    }
+  ]
+}

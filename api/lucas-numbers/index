@@ -1,0 +1,482 @@
+{
+  "api": "lucas-numbers",
+  "title": "Lucas Numbers",
+  "description": "The Lucas sequence within exact-integer range.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 77,
+  "self": "https://gratisapi.com/api/lucas-numbers/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/lucas-numbers/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 2,
+      "url": "https://gratisapi.com/api/lucas-numbers/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 1,
+      "url": "https://gratisapi.com/api/lucas-numbers/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 3,
+      "url": "https://gratisapi.com/api/lucas-numbers/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 4,
+      "url": "https://gratisapi.com/api/lucas-numbers/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 7,
+      "url": "https://gratisapi.com/api/lucas-numbers/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 11,
+      "url": "https://gratisapi.com/api/lucas-numbers/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 18,
+      "url": "https://gratisapi.com/api/lucas-numbers/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 29,
+      "url": "https://gratisapi.com/api/lucas-numbers/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 47,
+      "url": "https://gratisapi.com/api/lucas-numbers/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 76,
+      "url": "https://gratisapi.com/api/lucas-numbers/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 123,
+      "url": "https://gratisapi.com/api/lucas-numbers/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 199,
+      "url": "https://gratisapi.com/api/lucas-numbers/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 322,
+      "url": "https://gratisapi.com/api/lucas-numbers/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 521,
+      "url": "https://gratisapi.com/api/lucas-numbers/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 843,
+      "url": "https://gratisapi.com/api/lucas-numbers/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 1364,
+      "url": "https://gratisapi.com/api/lucas-numbers/15"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "value": 2207,
+      "url": "https://gratisapi.com/api/lucas-numbers/16"
+    },
+    {
+      "id": 17,
+      "index": 18,
+      "value": 3571,
+      "url": "https://gratisapi.com/api/lucas-numbers/17"
+    },
+    {
+      "id": 18,
+      "index": 19,
+      "value": 5778,
+      "url": "https://gratisapi.com/api/lucas-numbers/18"
+    },
+    {
+      "id": 19,
+      "index": 20,
+      "value": 9349,
+      "url": "https://gratisapi.com/api/lucas-numbers/19"
+    },
+    {
+      "id": 20,
+      "index": 21,
+      "value": 15127,
+      "url": "https://gratisapi.com/api/lucas-numbers/20"
+    },
+    {
+      "id": 21,
+      "index": 22,
+      "value": 24476,
+      "url": "https://gratisapi.com/api/lucas-numbers/21"
+    },
+    {
+      "id": 22,
+      "index": 23,
+      "value": 39603,
+      "url": "https://gratisapi.com/api/lucas-numbers/22"
+    },
+    {
+      "id": 23,
+      "index": 24,
+      "value": 64079,
+      "url": "https://gratisapi.com/api/lucas-numbers/23"
+    },
+    {
+      "id": 24,
+      "index": 25,
+      "value": 103682,
+      "url": "https://gratisapi.com/api/lucas-numbers/24"
+    },
+    {
+      "id": 25,
+      "index": 26,
+      "value": 167761,
+      "url": "https://gratisapi.com/api/lucas-numbers/25"
+    },
+    {
+      "id": 26,
+      "index": 27,
+      "value": 271443,
+      "url": "https://gratisapi.com/api/lucas-numbers/26"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "value": 439204,
+      "url": "https://gratisapi.com/api/lucas-numbers/27"
+    },
+    {
+      "id": 28,
+      "index": 29,
+      "value": 710647,
+      "url": "https://gratisapi.com/api/lucas-numbers/28"
+    },
+    {
+      "id": 29,
+      "index": 30,
+      "value": 1149851,
+      "url": "https://gratisapi.com/api/lucas-numbers/29"
+    },
+    {
+      "id": 30,
+      "index": 31,
+      "value": 1860498,
+      "url": "https://gratisapi.com/api/lucas-numbers/30"
+    },
+    {
+      "id": 31,
+      "index": 32,
+      "value": 3010349,
+      "url": "https://gratisapi.com/api/lucas-numbers/31"
+    },
+    {
+      "id": 32,
+      "index": 33,
+      "value": 4870847,
+      "url": "https://gratisapi.com/api/lucas-numbers/32"
+    },
+    {
+      "id": 33,
+      "index": 34,
+      "value": 7881196,
+      "url": "https://gratisapi.com/api/lucas-numbers/33"
+    },
+    {
+      "id": 34,
+      "index": 35,
+      "value": 12752043,
+      "url": "https://gratisapi.com/api/lucas-numbers/34"
+    },
+    {
+      "id": 35,
+      "index": 36,
+      "value": 20633239,
+      "url": "https://gratisapi.com/api/lucas-numbers/35"
+    },
+    {
+      "id": 36,
+      "index": 37,
+      "value": 33385282,
+      "url": "https://gratisapi.com/api/lucas-numbers/36"
+    },
+    {
+      "id": 37,
+      "index": 38,
+      "value": 54018521,
+      "url": "https://gratisapi.com/api/lucas-numbers/37"
+    },
+    {
+      "id": 38,
+      "index": 39,
+      "value": 87403803,
+      "url": "https://gratisapi.com/api/lucas-numbers/38"
+    },
+    {
+      "id": 39,
+      "index": 40,
+      "value": 141422324,
+      "url": "https://gratisapi.com/api/lucas-numbers/39"
+    },
+    {
+      "id": 40,
+      "index": 41,
+      "value": 228826127,
+      "url": "https://gratisapi.com/api/lucas-numbers/40"
+    },
+    {
+      "id": 41,
+      "index": 42,
+      "value": 370248451,
+      "url": "https://gratisapi.com/api/lucas-numbers/41"
+    },
+    {
+      "id": 42,
+      "index": 43,
+      "value": 599074578,
+      "url": "https://gratisapi.com/api/lucas-numbers/42"
+    },
+    {
+      "id": 43,
+      "index": 44,
+      "value": 969323029,
+      "url": "https://gratisapi.com/api/lucas-numbers/43"
+    },
+    {
+      "id": 44,
+      "index": 45,
+      "value": 1568397607,
+      "url": "https://gratisapi.com/api/lucas-numbers/44"
+    },
+    {
+      "id": 45,
+      "index": 46,
+      "value": 2537720636,
+      "url": "https://gratisapi.com/api/lucas-numbers/45"
+    },
+    {
+      "id": 46,
+      "index": 47,
+      "value": 4106118243,
+      "url": "https://gratisapi.com/api/lucas-numbers/46"
+    },
+    {
+      "id": 47,
+      "index": 48,
+      "value": 6643838879,
+      "url": "https://gratisapi.com/api/lucas-numbers/47"
+    },
+    {
+      "id": 48,
+      "index": 49,
+      "value": 10749957122,
+      "url": "https://gratisapi.com/api/lucas-numbers/48"
+    },
+    {
+      "id": 49,
+      "index": 50,
+      "value": 17393796001,
+      "url": "https://gratisapi.com/api/lucas-numbers/49"
+    },
+    {
+      "id": 50,
+      "index": 51,
+      "value": 28143753123,
+      "url": "https://gratisapi.com/api/lucas-numbers/50"
+    },
+    {
+      "id": 51,
+      "index": 52,
+      "value": 45537549124,
+      "url": "https://gratisapi.com/api/lucas-numbers/51"
+    },
+    {
+      "id": 52,
+      "index": 53,
+      "value": 73681302247,
+      "url": "https://gratisapi.com/api/lucas-numbers/52"
+    },
+    {
+      "id": 53,
+      "index": 54,
+      "value": 119218851371,
+      "url": "https://gratisapi.com/api/lucas-numbers/53"
+    },
+    {
+      "id": 54,
+      "index": 55,
+      "value": 192900153618,
+      "url": "https://gratisapi.com/api/lucas-numbers/54"
+    },
+    {
+      "id": 55,
+      "index": 56,
+      "value": 312119004989,
+      "url": "https://gratisapi.com/api/lucas-numbers/55"
+    },
+    {
+      "id": 56,
+      "index": 57,
+      "value": 505019158607,
+      "url": "https://gratisapi.com/api/lucas-numbers/56"
+    },
+    {
+      "id": 57,
+      "index": 58,
+      "value": 817138163596,
+      "url": "https://gratisapi.com/api/lucas-numbers/57"
+    },
+    {
+      "id": 58,
+      "index": 59,
+      "value": 1322157322203,
+      "url": "https://gratisapi.com/api/lucas-numbers/58"
+    },
+    {
+      "id": 59,
+      "index": 60,
+      "value": 2139295485799,
+      "url": "https://gratisapi.com/api/lucas-numbers/59"
+    },
+    {
+      "id": 60,
+      "index": 61,
+      "value": 3461452808002,
+      "url": "https://gratisapi.com/api/lucas-numbers/60"
+    },
+    {
+      "id": 61,
+      "index": 62,
+      "value": 5600748293801,
+      "url": "https://gratisapi.com/api/lucas-numbers/61"
+    },
+    {
+      "id": 62,
+      "index": 63,
+      "value": 9062201101803,
+      "url": "https://gratisapi.com/api/lucas-numbers/62"
+    },
+    {
+      "id": 63,
+      "index": 64,
+      "value": 14662949395604,
+      "url": "https://gratisapi.com/api/lucas-numbers/63"
+    },
+    {
+      "id": 64,
+      "index": 65,
+      "value": 23725150497407,
+      "url": "https://gratisapi.com/api/lucas-numbers/64"
+    },
+    {
+      "id": 65,
+      "index": 66,
+      "value": 38388099893011,
+      "url": "https://gratisapi.com/api/lucas-numbers/65"
+    },
+    {
+      "id": 66,
+      "index": 67,
+      "value": 62113250390418,
+      "url": "https://gratisapi.com/api/lucas-numbers/66"
+    },
+    {
+      "id": 67,
+      "index": 68,
+      "value": 100501350283429,
+      "url": "https://gratisapi.com/api/lucas-numbers/67"
+    },
+    {
+      "id": 68,
+      "index": 69,
+      "value": 162614600673847,
+      "url": "https://gratisapi.com/api/lucas-numbers/68"
+    },
+    {
+      "id": 69,
+      "index": 70,
+      "value": 263115950957276,
+      "url": "https://gratisapi.com/api/lucas-numbers/69"
+    },
+    {
+      "id": 70,
+      "index": 71,
+      "value": 425730551631123,
+      "url": "https://gratisapi.com/api/lucas-numbers/70"
+    },
+    {
+      "id": 71,
+      "index": 72,
+      "value": 688846502588399,
+      "url": "https://gratisapi.com/api/lucas-numbers/71"
+    },
+    {
+      "id": 72,
+      "index": 73,
+      "value": 1114577054219522,
+      "url": "https://gratisapi.com/api/lucas-numbers/72"
+    },
+    {
+      "id": 73,
+      "index": 74,
+      "value": 1803423556807921,
+      "url": "https://gratisapi.com/api/lucas-numbers/73"
+    },
+    {
+      "id": 74,
+      "index": 75,
+      "value": 2918000611027443,
+      "url": "https://gratisapi.com/api/lucas-numbers/74"
+    },
+    {
+      "id": 75,
+      "index": 76,
+      "value": 4721424167835364,
+      "url": "https://gratisapi.com/api/lucas-numbers/75"
+    },
+    {
+      "id": 76,
+      "index": 77,
+      "value": 7639424778862807,
+      "url": "https://gratisapi.com/api/lucas-numbers/76"
+    }
+  ]
+}

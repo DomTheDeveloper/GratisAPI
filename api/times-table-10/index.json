@@ -1,0 +1,182 @@
+{
+  "api": "times-table-10",
+  "title": "10 Times Table",
+  "description": "The multiplication table for 10: 10x1 through 10x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-10/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-10/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 10,
+      "multiplicand": 1,
+      "product": 10,
+      "expression": "10 x 1 = 10",
+      "url": "https://gratisapi.com/api/times-table-10/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 10,
+      "multiplicand": 2,
+      "product": 20,
+      "expression": "10 x 2 = 20",
+      "url": "https://gratisapi.com/api/times-table-10/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 10,
+      "multiplicand": 3,
+      "product": 30,
+      "expression": "10 x 3 = 30",
+      "url": "https://gratisapi.com/api/times-table-10/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 10,
+      "multiplicand": 4,
+      "product": 40,
+      "expression": "10 x 4 = 40",
+      "url": "https://gratisapi.com/api/times-table-10/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 10,
+      "multiplicand": 5,
+      "product": 50,
+      "expression": "10 x 5 = 50",
+      "url": "https://gratisapi.com/api/times-table-10/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 10,
+      "multiplicand": 6,
+      "product": 60,
+      "expression": "10 x 6 = 60",
+      "url": "https://gratisapi.com/api/times-table-10/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 10,
+      "multiplicand": 7,
+      "product": 70,
+      "expression": "10 x 7 = 70",
+      "url": "https://gratisapi.com/api/times-table-10/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 10,
+      "multiplicand": 8,
+      "product": 80,
+      "expression": "10 x 8 = 80",
+      "url": "https://gratisapi.com/api/times-table-10/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 10,
+      "multiplicand": 9,
+      "product": 90,
+      "expression": "10 x 9 = 90",
+      "url": "https://gratisapi.com/api/times-table-10/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 10,
+      "multiplicand": 10,
+      "product": 100,
+      "expression": "10 x 10 = 100",
+      "url": "https://gratisapi.com/api/times-table-10/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 10,
+      "multiplicand": 11,
+      "product": 110,
+      "expression": "10 x 11 = 110",
+      "url": "https://gratisapi.com/api/times-table-10/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 10,
+      "multiplicand": 12,
+      "product": 120,
+      "expression": "10 x 12 = 120",
+      "url": "https://gratisapi.com/api/times-table-10/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 10,
+      "multiplicand": 13,
+      "product": 130,
+      "expression": "10 x 13 = 130",
+      "url": "https://gratisapi.com/api/times-table-10/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 10,
+      "multiplicand": 14,
+      "product": 140,
+      "expression": "10 x 14 = 140",
+      "url": "https://gratisapi.com/api/times-table-10/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 10,
+      "multiplicand": 15,
+      "product": 150,
+      "expression": "10 x 15 = 150",
+      "url": "https://gratisapi.com/api/times-table-10/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 10,
+      "multiplicand": 16,
+      "product": 160,
+      "expression": "10 x 16 = 160",
+      "url": "https://gratisapi.com/api/times-table-10/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 10,
+      "multiplicand": 17,
+      "product": 170,
+      "expression": "10 x 17 = 170",
+      "url": "https://gratisapi.com/api/times-table-10/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 10,
+      "multiplicand": 18,
+      "product": 180,
+      "expression": "10 x 18 = 180",
+      "url": "https://gratisapi.com/api/times-table-10/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 10,
+      "multiplicand": 19,
+      "product": 190,
+      "expression": "10 x 19 = 190",
+      "url": "https://gratisapi.com/api/times-table-10/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 10,
+      "multiplicand": 20,
+      "product": 200,
+      "expression": "10 x 20 = 200",
+      "url": "https://gratisapi.com/api/times-table-10/20"
+    }
+  ]
+}

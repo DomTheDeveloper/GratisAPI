@@ -62,7 +62,7 @@ GET <span class="p">/api/index</span>            <span class="c"># the catalog o
     <p>We'd rather tell you the trade-offs than pretend they aren't there. A static API cannot:</p>
     <ul>
       <li><strong>Filter, search or sort on the server.</strong> There's no server. You fetch a collection and filter it client-side. (Our datasets are small enough that this is instant.)</li>
-      <li><strong>Paginate or return partial responses.</strong> A collection is one file — you get all of it. Great for caching, less great for very large datasets.</li>
+      <li><strong>Paginate freely.</strong> A collection is normally one file — you get all of it (great for caching). The exception is a few huge computed families like <a href="../api/numbers/index"><code>numbers</code></a> (a million records), which we split into static page files.</li>
       <li><strong>Accept writes.</strong> It's read-only: only HTTP <code>GET</code>. No POST, no PUT, no auth-gated mutation.</li>
       <li><strong>Authenticate users or rate-limit them.</strong> With no server and no keys, there is nobody to identify and nothing to throttle. That's a feature <em>and</em> a constraint.</li>
       <li><strong>Serve volatile/real-time data.</strong> Everything is precomputed, so it's reference data (taxonomy, elements, capitals) — never live prices or feeds.</li>

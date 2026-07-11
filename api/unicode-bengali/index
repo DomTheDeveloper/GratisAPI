@@ -1,0 +1,887 @@
+{
+  "api": "unicode-bengali",
+  "title": "Bengali",
+  "description": "The Bengali Unicode block (U+0980..U+09FF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 96,
+  "self": "https://gratisapi.com/api/unicode-bengali/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-bengali/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0980",
+      "codepoint": 2432,
+      "hex": "U+0980",
+      "char": "ঀ",
+      "name": "BENGALI ANJI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0980"
+    },
+    {
+      "id": "u0981",
+      "codepoint": 2433,
+      "hex": "U+0981",
+      "char": "ঁ",
+      "name": "BENGALI SIGN CANDRABINDU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0981"
+    },
+    {
+      "id": "u0982",
+      "codepoint": 2434,
+      "hex": "U+0982",
+      "char": "ং",
+      "name": "BENGALI SIGN ANUSVARA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0982"
+    },
+    {
+      "id": "u0983",
+      "codepoint": 2435,
+      "hex": "U+0983",
+      "char": "ঃ",
+      "name": "BENGALI SIGN VISARGA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0983"
+    },
+    {
+      "id": "u0985",
+      "codepoint": 2437,
+      "hex": "U+0985",
+      "char": "অ",
+      "name": "BENGALI LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0985"
+    },
+    {
+      "id": "u0986",
+      "codepoint": 2438,
+      "hex": "U+0986",
+      "char": "আ",
+      "name": "BENGALI LETTER AA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0986"
+    },
+    {
+      "id": "u0987",
+      "codepoint": 2439,
+      "hex": "U+0987",
+      "char": "ই",
+      "name": "BENGALI LETTER I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0987"
+    },
+    {
+      "id": "u0988",
+      "codepoint": 2440,
+      "hex": "U+0988",
+      "char": "ঈ",
+      "name": "BENGALI LETTER II",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0988"
+    },
+    {
+      "id": "u0989",
+      "codepoint": 2441,
+      "hex": "U+0989",
+      "char": "উ",
+      "name": "BENGALI LETTER U",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0989"
+    },
+    {
+      "id": "u098A",
+      "codepoint": 2442,
+      "hex": "U+098A",
+      "char": "ঊ",
+      "name": "BENGALI LETTER UU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u098A"
+    },
+    {
+      "id": "u098B",
+      "codepoint": 2443,
+      "hex": "U+098B",
+      "char": "ঋ",
+      "name": "BENGALI LETTER VOCALIC R",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u098B"
+    },
+    {
+      "id": "u098C",
+      "codepoint": 2444,
+      "hex": "U+098C",
+      "char": "ঌ",
+      "name": "BENGALI LETTER VOCALIC L",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u098C"
+    },
+    {
+      "id": "u098F",
+      "codepoint": 2447,
+      "hex": "U+098F",
+      "char": "এ",
+      "name": "BENGALI LETTER E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u098F"
+    },
+    {
+      "id": "u0990",
+      "codepoint": 2448,
+      "hex": "U+0990",
+      "char": "ঐ",
+      "name": "BENGALI LETTER AI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0990"
+    },
+    {
+      "id": "u0993",
+      "codepoint": 2451,
+      "hex": "U+0993",
+      "char": "ও",
+      "name": "BENGALI LETTER O",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0993"
+    },
+    {
+      "id": "u0994",
+      "codepoint": 2452,
+      "hex": "U+0994",
+      "char": "ঔ",
+      "name": "BENGALI LETTER AU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0994"
+    },
+    {
+      "id": "u0995",
+      "codepoint": 2453,
+      "hex": "U+0995",
+      "char": "ক",
+      "name": "BENGALI LETTER KA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0995"
+    },
+    {
+      "id": "u0996",
+      "codepoint": 2454,
+      "hex": "U+0996",
+      "char": "খ",
+      "name": "BENGALI LETTER KHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0996"
+    },
+    {
+      "id": "u0997",
+      "codepoint": 2455,
+      "hex": "U+0997",
+      "char": "গ",
+      "name": "BENGALI LETTER GA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0997"
+    },
+    {
+      "id": "u0998",
+      "codepoint": 2456,
+      "hex": "U+0998",
+      "char": "ঘ",
+      "name": "BENGALI LETTER GHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0998"
+    },
+    {
+      "id": "u0999",
+      "codepoint": 2457,
+      "hex": "U+0999",
+      "char": "ঙ",
+      "name": "BENGALI LETTER NGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u0999"
+    },
+    {
+      "id": "u099A",
+      "codepoint": 2458,
+      "hex": "U+099A",
+      "char": "চ",
+      "name": "BENGALI LETTER CA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u099A"
+    },
+    {
+      "id": "u099B",
+      "codepoint": 2459,
+      "hex": "U+099B",
+      "char": "ছ",
+      "name": "BENGALI LETTER CHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u099B"
+    },
+    {
+      "id": "u099C",
+      "codepoint": 2460,
+      "hex": "U+099C",
+      "char": "জ",
+      "name": "BENGALI LETTER JA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u099C"
+    },
+    {
+      "id": "u099D",
+      "codepoint": 2461,
+      "hex": "U+099D",
+      "char": "ঝ",
+      "name": "BENGALI LETTER JHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u099D"
+    },
+    {
+      "id": "u099E",
+      "codepoint": 2462,
+      "hex": "U+099E",
+      "char": "ঞ",
+      "name": "BENGALI LETTER NYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u099E"
+    },
+    {
+      "id": "u099F",
+      "codepoint": 2463,
+      "hex": "U+099F",
+      "char": "ট",
+      "name": "BENGALI LETTER TTA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u099F"
+    },
+    {
+      "id": "u09A0",
+      "codepoint": 2464,
+      "hex": "U+09A0",
+      "char": "ঠ",
+      "name": "BENGALI LETTER TTHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A0"
+    },
+    {
+      "id": "u09A1",
+      "codepoint": 2465,
+      "hex": "U+09A1",
+      "char": "ড",
+      "name": "BENGALI LETTER DDA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A1"
+    },
+    {
+      "id": "u09A2",
+      "codepoint": 2466,
+      "hex": "U+09A2",
+      "char": "ঢ",
+      "name": "BENGALI LETTER DDHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A2"
+    },
+    {
+      "id": "u09A3",
+      "codepoint": 2467,
+      "hex": "U+09A3",
+      "char": "ণ",
+      "name": "BENGALI LETTER NNA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A3"
+    },
+    {
+      "id": "u09A4",
+      "codepoint": 2468,
+      "hex": "U+09A4",
+      "char": "ত",
+      "name": "BENGALI LETTER TA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A4"
+    },
+    {
+      "id": "u09A5",
+      "codepoint": 2469,
+      "hex": "U+09A5",
+      "char": "থ",
+      "name": "BENGALI LETTER THA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A5"
+    },
+    {
+      "id": "u09A6",
+      "codepoint": 2470,
+      "hex": "U+09A6",
+      "char": "দ",
+      "name": "BENGALI LETTER DA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A6"
+    },
+    {
+      "id": "u09A7",
+      "codepoint": 2471,
+      "hex": "U+09A7",
+      "char": "ধ",
+      "name": "BENGALI LETTER DHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A7"
+    },
+    {
+      "id": "u09A8",
+      "codepoint": 2472,
+      "hex": "U+09A8",
+      "char": "ন",
+      "name": "BENGALI LETTER NA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09A8"
+    },
+    {
+      "id": "u09AA",
+      "codepoint": 2474,
+      "hex": "U+09AA",
+      "char": "প",
+      "name": "BENGALI LETTER PA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09AA"
+    },
+    {
+      "id": "u09AB",
+      "codepoint": 2475,
+      "hex": "U+09AB",
+      "char": "ফ",
+      "name": "BENGALI LETTER PHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09AB"
+    },
+    {
+      "id": "u09AC",
+      "codepoint": 2476,
+      "hex": "U+09AC",
+      "char": "ব",
+      "name": "BENGALI LETTER BA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09AC"
+    },
+    {
+      "id": "u09AD",
+      "codepoint": 2477,
+      "hex": "U+09AD",
+      "char": "ভ",
+      "name": "BENGALI LETTER BHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09AD"
+    },
+    {
+      "id": "u09AE",
+      "codepoint": 2478,
+      "hex": "U+09AE",
+      "char": "ম",
+      "name": "BENGALI LETTER MA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09AE"
+    },
+    {
+      "id": "u09AF",
+      "codepoint": 2479,
+      "hex": "U+09AF",
+      "char": "য",
+      "name": "BENGALI LETTER YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09AF"
+    },
+    {
+      "id": "u09B0",
+      "codepoint": 2480,
+      "hex": "U+09B0",
+      "char": "র",
+      "name": "BENGALI LETTER RA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09B0"
+    },
+    {
+      "id": "u09B2",
+      "codepoint": 2482,
+      "hex": "U+09B2",
+      "char": "ল",
+      "name": "BENGALI LETTER LA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09B2"
+    },
+    {
+      "id": "u09B6",
+      "codepoint": 2486,
+      "hex": "U+09B6",
+      "char": "শ",
+      "name": "BENGALI LETTER SHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09B6"
+    },
+    {
+      "id": "u09B7",
+      "codepoint": 2487,
+      "hex": "U+09B7",
+      "char": "ষ",
+      "name": "BENGALI LETTER SSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09B7"
+    },
+    {
+      "id": "u09B8",
+      "codepoint": 2488,
+      "hex": "U+09B8",
+      "char": "স",
+      "name": "BENGALI LETTER SA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09B8"
+    },
+    {
+      "id": "u09B9",
+      "codepoint": 2489,
+      "hex": "U+09B9",
+      "char": "হ",
+      "name": "BENGALI LETTER HA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09B9"
+    },
+    {
+      "id": "u09BC",
+      "codepoint": 2492,
+      "hex": "U+09BC",
+      "char": "়",
+      "name": "BENGALI SIGN NUKTA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09BC"
+    },
+    {
+      "id": "u09BD",
+      "codepoint": 2493,
+      "hex": "U+09BD",
+      "char": "ঽ",
+      "name": "BENGALI SIGN AVAGRAHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09BD"
+    },
+    {
+      "id": "u09BE",
+      "codepoint": 2494,
+      "hex": "U+09BE",
+      "char": "া",
+      "name": "BENGALI VOWEL SIGN AA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09BE"
+    },
+    {
+      "id": "u09BF",
+      "codepoint": 2495,
+      "hex": "U+09BF",
+      "char": "ি",
+      "name": "BENGALI VOWEL SIGN I",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09BF"
+    },
+    {
+      "id": "u09C0",
+      "codepoint": 2496,
+      "hex": "U+09C0",
+      "char": "ী",
+      "name": "BENGALI VOWEL SIGN II",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C0"
+    },
+    {
+      "id": "u09C1",
+      "codepoint": 2497,
+      "hex": "U+09C1",
+      "char": "ু",
+      "name": "BENGALI VOWEL SIGN U",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C1"
+    },
+    {
+      "id": "u09C2",
+      "codepoint": 2498,
+      "hex": "U+09C2",
+      "char": "ূ",
+      "name": "BENGALI VOWEL SIGN UU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C2"
+    },
+    {
+      "id": "u09C3",
+      "codepoint": 2499,
+      "hex": "U+09C3",
+      "char": "ৃ",
+      "name": "BENGALI VOWEL SIGN VOCALIC R",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C3"
+    },
+    {
+      "id": "u09C4",
+      "codepoint": 2500,
+      "hex": "U+09C4",
+      "char": "ৄ",
+      "name": "BENGALI VOWEL SIGN VOCALIC RR",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C4"
+    },
+    {
+      "id": "u09C7",
+      "codepoint": 2503,
+      "hex": "U+09C7",
+      "char": "ে",
+      "name": "BENGALI VOWEL SIGN E",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C7"
+    },
+    {
+      "id": "u09C8",
+      "codepoint": 2504,
+      "hex": "U+09C8",
+      "char": "ৈ",
+      "name": "BENGALI VOWEL SIGN AI",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09C8"
+    },
+    {
+      "id": "u09CB",
+      "codepoint": 2507,
+      "hex": "U+09CB",
+      "char": "ো",
+      "name": "BENGALI VOWEL SIGN O",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09CB"
+    },
+    {
+      "id": "u09CC",
+      "codepoint": 2508,
+      "hex": "U+09CC",
+      "char": "ৌ",
+      "name": "BENGALI VOWEL SIGN AU",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09CC"
+    },
+    {
+      "id": "u09CD",
+      "codepoint": 2509,
+      "hex": "U+09CD",
+      "char": "্",
+      "name": "BENGALI SIGN VIRAMA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09CD"
+    },
+    {
+      "id": "u09CE",
+      "codepoint": 2510,
+      "hex": "U+09CE",
+      "char": "ৎ",
+      "name": "BENGALI LETTER KHANDA TA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09CE"
+    },
+    {
+      "id": "u09D7",
+      "codepoint": 2519,
+      "hex": "U+09D7",
+      "char": "ৗ",
+      "name": "BENGALI AU LENGTH MARK",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09D7"
+    },
+    {
+      "id": "u09DC",
+      "codepoint": 2524,
+      "hex": "U+09DC",
+      "char": "ড়",
+      "name": "BENGALI LETTER RRA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09DC"
+    },
+    {
+      "id": "u09DD",
+      "codepoint": 2525,
+      "hex": "U+09DD",
+      "char": "ঢ়",
+      "name": "BENGALI LETTER RHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09DD"
+    },
+    {
+      "id": "u09DF",
+      "codepoint": 2527,
+      "hex": "U+09DF",
+      "char": "য়",
+      "name": "BENGALI LETTER YYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09DF"
+    },
+    {
+      "id": "u09E0",
+      "codepoint": 2528,
+      "hex": "U+09E0",
+      "char": "ৠ",
+      "name": "BENGALI LETTER VOCALIC RR",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E0"
+    },
+    {
+      "id": "u09E1",
+      "codepoint": 2529,
+      "hex": "U+09E1",
+      "char": "ৡ",
+      "name": "BENGALI LETTER VOCALIC LL",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E1"
+    },
+    {
+      "id": "u09E2",
+      "codepoint": 2530,
+      "hex": "U+09E2",
+      "char": "ৢ",
+      "name": "BENGALI VOWEL SIGN VOCALIC L",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E2"
+    },
+    {
+      "id": "u09E3",
+      "codepoint": 2531,
+      "hex": "U+09E3",
+      "char": "ৣ",
+      "name": "BENGALI VOWEL SIGN VOCALIC LL",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E3"
+    },
+    {
+      "id": "u09E6",
+      "codepoint": 2534,
+      "hex": "U+09E6",
+      "char": "০",
+      "name": "BENGALI DIGIT ZERO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E6"
+    },
+    {
+      "id": "u09E7",
+      "codepoint": 2535,
+      "hex": "U+09E7",
+      "char": "১",
+      "name": "BENGALI DIGIT ONE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E7"
+    },
+    {
+      "id": "u09E8",
+      "codepoint": 2536,
+      "hex": "U+09E8",
+      "char": "২",
+      "name": "BENGALI DIGIT TWO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E8"
+    },
+    {
+      "id": "u09E9",
+      "codepoint": 2537,
+      "hex": "U+09E9",
+      "char": "৩",
+      "name": "BENGALI DIGIT THREE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09E9"
+    },
+    {
+      "id": "u09EA",
+      "codepoint": 2538,
+      "hex": "U+09EA",
+      "char": "৪",
+      "name": "BENGALI DIGIT FOUR",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09EA"
+    },
+    {
+      "id": "u09EB",
+      "codepoint": 2539,
+      "hex": "U+09EB",
+      "char": "৫",
+      "name": "BENGALI DIGIT FIVE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09EB"
+    },
+    {
+      "id": "u09EC",
+      "codepoint": 2540,
+      "hex": "U+09EC",
+      "char": "৬",
+      "name": "BENGALI DIGIT SIX",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09EC"
+    },
+    {
+      "id": "u09ED",
+      "codepoint": 2541,
+      "hex": "U+09ED",
+      "char": "৭",
+      "name": "BENGALI DIGIT SEVEN",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09ED"
+    },
+    {
+      "id": "u09EE",
+      "codepoint": 2542,
+      "hex": "U+09EE",
+      "char": "৮",
+      "name": "BENGALI DIGIT EIGHT",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09EE"
+    },
+    {
+      "id": "u09EF",
+      "codepoint": 2543,
+      "hex": "U+09EF",
+      "char": "৯",
+      "name": "BENGALI DIGIT NINE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09EF"
+    },
+    {
+      "id": "u09F0",
+      "codepoint": 2544,
+      "hex": "U+09F0",
+      "char": "ৰ",
+      "name": "BENGALI LETTER RA WITH MIDDLE DIAGONAL",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F0"
+    },
+    {
+      "id": "u09F1",
+      "codepoint": 2545,
+      "hex": "U+09F1",
+      "char": "ৱ",
+      "name": "BENGALI LETTER RA WITH LOWER DIAGONAL",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F1"
+    },
+    {
+      "id": "u09F2",
+      "codepoint": 2546,
+      "hex": "U+09F2",
+      "char": "৲",
+      "name": "BENGALI RUPEE MARK",
+      "category": "Sc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F2"
+    },
+    {
+      "id": "u09F3",
+      "codepoint": 2547,
+      "hex": "U+09F3",
+      "char": "৳",
+      "name": "BENGALI RUPEE SIGN",
+      "category": "Sc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F3"
+    },
+    {
+      "id": "u09F4",
+      "codepoint": 2548,
+      "hex": "U+09F4",
+      "char": "৴",
+      "name": "BENGALI CURRENCY NUMERATOR ONE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F4"
+    },
+    {
+      "id": "u09F5",
+      "codepoint": 2549,
+      "hex": "U+09F5",
+      "char": "৵",
+      "name": "BENGALI CURRENCY NUMERATOR TWO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F5"
+    },
+    {
+      "id": "u09F6",
+      "codepoint": 2550,
+      "hex": "U+09F6",
+      "char": "৶",
+      "name": "BENGALI CURRENCY NUMERATOR THREE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F6"
+    },
+    {
+      "id": "u09F7",
+      "codepoint": 2551,
+      "hex": "U+09F7",
+      "char": "৷",
+      "name": "BENGALI CURRENCY NUMERATOR FOUR",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F7"
+    },
+    {
+      "id": "u09F8",
+      "codepoint": 2552,
+      "hex": "U+09F8",
+      "char": "৸",
+      "name": "BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F8"
+    },
+    {
+      "id": "u09F9",
+      "codepoint": 2553,
+      "hex": "U+09F9",
+      "char": "৹",
+      "name": "BENGALI CURRENCY DENOMINATOR SIXTEEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09F9"
+    },
+    {
+      "id": "u09FA",
+      "codepoint": 2554,
+      "hex": "U+09FA",
+      "char": "৺",
+      "name": "BENGALI ISSHAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09FA"
+    },
+    {
+      "id": "u09FB",
+      "codepoint": 2555,
+      "hex": "U+09FB",
+      "char": "৻",
+      "name": "BENGALI GANDA MARK",
+      "category": "Sc",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09FB"
+    },
+    {
+      "id": "u09FC",
+      "codepoint": 2556,
+      "hex": "U+09FC",
+      "char": "ৼ",
+      "name": "BENGALI LETTER VEDIC ANUSVARA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09FC"
+    },
+    {
+      "id": "u09FD",
+      "codepoint": 2557,
+      "hex": "U+09FD",
+      "char": "৽",
+      "name": "BENGALI ABBREVIATION SIGN",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09FD"
+    },
+    {
+      "id": "u09FE",
+      "codepoint": 2558,
+      "hex": "U+09FE",
+      "char": "৾",
+      "name": "BENGALI SANDHI MARK",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-bengali/u09FE"
+    }
+  ]
+}

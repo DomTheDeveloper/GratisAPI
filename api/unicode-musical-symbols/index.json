@@ -1,0 +1,2120 @@
+{
+  "api": "unicode-musical-symbols",
+  "title": "Musical Symbols",
+  "description": "The Musical Symbols Unicode block (U+1D100..U+1D1FF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 233,
+  "self": "https://gratisapi.com/api/unicode-musical-symbols/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-musical-symbols/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u1D100",
+      "codepoint": 119040,
+      "hex": "U+1D100",
+      "char": "𝄀",
+      "name": "MUSICAL SYMBOL SINGLE BARLINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D100"
+    },
+    {
+      "id": "u1D101",
+      "codepoint": 119041,
+      "hex": "U+1D101",
+      "char": "𝄁",
+      "name": "MUSICAL SYMBOL DOUBLE BARLINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D101"
+    },
+    {
+      "id": "u1D102",
+      "codepoint": 119042,
+      "hex": "U+1D102",
+      "char": "𝄂",
+      "name": "MUSICAL SYMBOL FINAL BARLINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D102"
+    },
+    {
+      "id": "u1D103",
+      "codepoint": 119043,
+      "hex": "U+1D103",
+      "char": "𝄃",
+      "name": "MUSICAL SYMBOL REVERSE FINAL BARLINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D103"
+    },
+    {
+      "id": "u1D104",
+      "codepoint": 119044,
+      "hex": "U+1D104",
+      "char": "𝄄",
+      "name": "MUSICAL SYMBOL DASHED BARLINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D104"
+    },
+    {
+      "id": "u1D105",
+      "codepoint": 119045,
+      "hex": "U+1D105",
+      "char": "𝄅",
+      "name": "MUSICAL SYMBOL SHORT BARLINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D105"
+    },
+    {
+      "id": "u1D106",
+      "codepoint": 119046,
+      "hex": "U+1D106",
+      "char": "𝄆",
+      "name": "MUSICAL SYMBOL LEFT REPEAT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D106"
+    },
+    {
+      "id": "u1D107",
+      "codepoint": 119047,
+      "hex": "U+1D107",
+      "char": "𝄇",
+      "name": "MUSICAL SYMBOL RIGHT REPEAT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D107"
+    },
+    {
+      "id": "u1D108",
+      "codepoint": 119048,
+      "hex": "U+1D108",
+      "char": "𝄈",
+      "name": "MUSICAL SYMBOL REPEAT DOTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D108"
+    },
+    {
+      "id": "u1D109",
+      "codepoint": 119049,
+      "hex": "U+1D109",
+      "char": "𝄉",
+      "name": "MUSICAL SYMBOL DAL SEGNO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D109"
+    },
+    {
+      "id": "u1D10A",
+      "codepoint": 119050,
+      "hex": "U+1D10A",
+      "char": "𝄊",
+      "name": "MUSICAL SYMBOL DA CAPO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D10A"
+    },
+    {
+      "id": "u1D10B",
+      "codepoint": 119051,
+      "hex": "U+1D10B",
+      "char": "𝄋",
+      "name": "MUSICAL SYMBOL SEGNO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D10B"
+    },
+    {
+      "id": "u1D10C",
+      "codepoint": 119052,
+      "hex": "U+1D10C",
+      "char": "𝄌",
+      "name": "MUSICAL SYMBOL CODA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D10C"
+    },
+    {
+      "id": "u1D10D",
+      "codepoint": 119053,
+      "hex": "U+1D10D",
+      "char": "𝄍",
+      "name": "MUSICAL SYMBOL REPEATED FIGURE-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D10D"
+    },
+    {
+      "id": "u1D10E",
+      "codepoint": 119054,
+      "hex": "U+1D10E",
+      "char": "𝄎",
+      "name": "MUSICAL SYMBOL REPEATED FIGURE-2",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D10E"
+    },
+    {
+      "id": "u1D10F",
+      "codepoint": 119055,
+      "hex": "U+1D10F",
+      "char": "𝄏",
+      "name": "MUSICAL SYMBOL REPEATED FIGURE-3",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D10F"
+    },
+    {
+      "id": "u1D110",
+      "codepoint": 119056,
+      "hex": "U+1D110",
+      "char": "𝄐",
+      "name": "MUSICAL SYMBOL FERMATA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D110"
+    },
+    {
+      "id": "u1D111",
+      "codepoint": 119057,
+      "hex": "U+1D111",
+      "char": "𝄑",
+      "name": "MUSICAL SYMBOL FERMATA BELOW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D111"
+    },
+    {
+      "id": "u1D112",
+      "codepoint": 119058,
+      "hex": "U+1D112",
+      "char": "𝄒",
+      "name": "MUSICAL SYMBOL BREATH MARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D112"
+    },
+    {
+      "id": "u1D113",
+      "codepoint": 119059,
+      "hex": "U+1D113",
+      "char": "𝄓",
+      "name": "MUSICAL SYMBOL CAESURA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D113"
+    },
+    {
+      "id": "u1D114",
+      "codepoint": 119060,
+      "hex": "U+1D114",
+      "char": "𝄔",
+      "name": "MUSICAL SYMBOL BRACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D114"
+    },
+    {
+      "id": "u1D115",
+      "codepoint": 119061,
+      "hex": "U+1D115",
+      "char": "𝄕",
+      "name": "MUSICAL SYMBOL BRACKET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D115"
+    },
+    {
+      "id": "u1D116",
+      "codepoint": 119062,
+      "hex": "U+1D116",
+      "char": "𝄖",
+      "name": "MUSICAL SYMBOL ONE-LINE STAFF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D116"
+    },
+    {
+      "id": "u1D117",
+      "codepoint": 119063,
+      "hex": "U+1D117",
+      "char": "𝄗",
+      "name": "MUSICAL SYMBOL TWO-LINE STAFF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D117"
+    },
+    {
+      "id": "u1D118",
+      "codepoint": 119064,
+      "hex": "U+1D118",
+      "char": "𝄘",
+      "name": "MUSICAL SYMBOL THREE-LINE STAFF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D118"
+    },
+    {
+      "id": "u1D119",
+      "codepoint": 119065,
+      "hex": "U+1D119",
+      "char": "𝄙",
+      "name": "MUSICAL SYMBOL FOUR-LINE STAFF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D119"
+    },
+    {
+      "id": "u1D11A",
+      "codepoint": 119066,
+      "hex": "U+1D11A",
+      "char": "𝄚",
+      "name": "MUSICAL SYMBOL FIVE-LINE STAFF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D11A"
+    },
+    {
+      "id": "u1D11B",
+      "codepoint": 119067,
+      "hex": "U+1D11B",
+      "char": "𝄛",
+      "name": "MUSICAL SYMBOL SIX-LINE STAFF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D11B"
+    },
+    {
+      "id": "u1D11C",
+      "codepoint": 119068,
+      "hex": "U+1D11C",
+      "char": "𝄜",
+      "name": "MUSICAL SYMBOL SIX-STRING FRETBOARD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D11C"
+    },
+    {
+      "id": "u1D11D",
+      "codepoint": 119069,
+      "hex": "U+1D11D",
+      "char": "𝄝",
+      "name": "MUSICAL SYMBOL FOUR-STRING FRETBOARD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D11D"
+    },
+    {
+      "id": "u1D11E",
+      "codepoint": 119070,
+      "hex": "U+1D11E",
+      "char": "𝄞",
+      "name": "MUSICAL SYMBOL G CLEF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D11E"
+    },
+    {
+      "id": "u1D11F",
+      "codepoint": 119071,
+      "hex": "U+1D11F",
+      "char": "𝄟",
+      "name": "MUSICAL SYMBOL G CLEF OTTAVA ALTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D11F"
+    },
+    {
+      "id": "u1D120",
+      "codepoint": 119072,
+      "hex": "U+1D120",
+      "char": "𝄠",
+      "name": "MUSICAL SYMBOL G CLEF OTTAVA BASSA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D120"
+    },
+    {
+      "id": "u1D121",
+      "codepoint": 119073,
+      "hex": "U+1D121",
+      "char": "𝄡",
+      "name": "MUSICAL SYMBOL C CLEF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D121"
+    },
+    {
+      "id": "u1D122",
+      "codepoint": 119074,
+      "hex": "U+1D122",
+      "char": "𝄢",
+      "name": "MUSICAL SYMBOL F CLEF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D122"
+    },
+    {
+      "id": "u1D123",
+      "codepoint": 119075,
+      "hex": "U+1D123",
+      "char": "𝄣",
+      "name": "MUSICAL SYMBOL F CLEF OTTAVA ALTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D123"
+    },
+    {
+      "id": "u1D124",
+      "codepoint": 119076,
+      "hex": "U+1D124",
+      "char": "𝄤",
+      "name": "MUSICAL SYMBOL F CLEF OTTAVA BASSA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D124"
+    },
+    {
+      "id": "u1D125",
+      "codepoint": 119077,
+      "hex": "U+1D125",
+      "char": "𝄥",
+      "name": "MUSICAL SYMBOL DRUM CLEF-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D125"
+    },
+    {
+      "id": "u1D126",
+      "codepoint": 119078,
+      "hex": "U+1D126",
+      "char": "𝄦",
+      "name": "MUSICAL SYMBOL DRUM CLEF-2",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D126"
+    },
+    {
+      "id": "u1D129",
+      "codepoint": 119081,
+      "hex": "U+1D129",
+      "char": "𝄩",
+      "name": "MUSICAL SYMBOL MULTIPLE MEASURE REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D129"
+    },
+    {
+      "id": "u1D12A",
+      "codepoint": 119082,
+      "hex": "U+1D12A",
+      "char": "𝄪",
+      "name": "MUSICAL SYMBOL DOUBLE SHARP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D12A"
+    },
+    {
+      "id": "u1D12B",
+      "codepoint": 119083,
+      "hex": "U+1D12B",
+      "char": "𝄫",
+      "name": "MUSICAL SYMBOL DOUBLE FLAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D12B"
+    },
+    {
+      "id": "u1D12C",
+      "codepoint": 119084,
+      "hex": "U+1D12C",
+      "char": "𝄬",
+      "name": "MUSICAL SYMBOL FLAT UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D12C"
+    },
+    {
+      "id": "u1D12D",
+      "codepoint": 119085,
+      "hex": "U+1D12D",
+      "char": "𝄭",
+      "name": "MUSICAL SYMBOL FLAT DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D12D"
+    },
+    {
+      "id": "u1D12E",
+      "codepoint": 119086,
+      "hex": "U+1D12E",
+      "char": "𝄮",
+      "name": "MUSICAL SYMBOL NATURAL UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D12E"
+    },
+    {
+      "id": "u1D12F",
+      "codepoint": 119087,
+      "hex": "U+1D12F",
+      "char": "𝄯",
+      "name": "MUSICAL SYMBOL NATURAL DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D12F"
+    },
+    {
+      "id": "u1D130",
+      "codepoint": 119088,
+      "hex": "U+1D130",
+      "char": "𝄰",
+      "name": "MUSICAL SYMBOL SHARP UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D130"
+    },
+    {
+      "id": "u1D131",
+      "codepoint": 119089,
+      "hex": "U+1D131",
+      "char": "𝄱",
+      "name": "MUSICAL SYMBOL SHARP DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D131"
+    },
+    {
+      "id": "u1D132",
+      "codepoint": 119090,
+      "hex": "U+1D132",
+      "char": "𝄲",
+      "name": "MUSICAL SYMBOL QUARTER TONE SHARP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D132"
+    },
+    {
+      "id": "u1D133",
+      "codepoint": 119091,
+      "hex": "U+1D133",
+      "char": "𝄳",
+      "name": "MUSICAL SYMBOL QUARTER TONE FLAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D133"
+    },
+    {
+      "id": "u1D134",
+      "codepoint": 119092,
+      "hex": "U+1D134",
+      "char": "𝄴",
+      "name": "MUSICAL SYMBOL COMMON TIME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D134"
+    },
+    {
+      "id": "u1D135",
+      "codepoint": 119093,
+      "hex": "U+1D135",
+      "char": "𝄵",
+      "name": "MUSICAL SYMBOL CUT TIME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D135"
+    },
+    {
+      "id": "u1D136",
+      "codepoint": 119094,
+      "hex": "U+1D136",
+      "char": "𝄶",
+      "name": "MUSICAL SYMBOL OTTAVA ALTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D136"
+    },
+    {
+      "id": "u1D137",
+      "codepoint": 119095,
+      "hex": "U+1D137",
+      "char": "𝄷",
+      "name": "MUSICAL SYMBOL OTTAVA BASSA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D137"
+    },
+    {
+      "id": "u1D138",
+      "codepoint": 119096,
+      "hex": "U+1D138",
+      "char": "𝄸",
+      "name": "MUSICAL SYMBOL QUINDICESIMA ALTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D138"
+    },
+    {
+      "id": "u1D139",
+      "codepoint": 119097,
+      "hex": "U+1D139",
+      "char": "𝄹",
+      "name": "MUSICAL SYMBOL QUINDICESIMA BASSA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D139"
+    },
+    {
+      "id": "u1D13A",
+      "codepoint": 119098,
+      "hex": "U+1D13A",
+      "char": "𝄺",
+      "name": "MUSICAL SYMBOL MULTI REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D13A"
+    },
+    {
+      "id": "u1D13B",
+      "codepoint": 119099,
+      "hex": "U+1D13B",
+      "char": "𝄻",
+      "name": "MUSICAL SYMBOL WHOLE REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D13B"
+    },
+    {
+      "id": "u1D13C",
+      "codepoint": 119100,
+      "hex": "U+1D13C",
+      "char": "𝄼",
+      "name": "MUSICAL SYMBOL HALF REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D13C"
+    },
+    {
+      "id": "u1D13D",
+      "codepoint": 119101,
+      "hex": "U+1D13D",
+      "char": "𝄽",
+      "name": "MUSICAL SYMBOL QUARTER REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D13D"
+    },
+    {
+      "id": "u1D13E",
+      "codepoint": 119102,
+      "hex": "U+1D13E",
+      "char": "𝄾",
+      "name": "MUSICAL SYMBOL EIGHTH REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D13E"
+    },
+    {
+      "id": "u1D13F",
+      "codepoint": 119103,
+      "hex": "U+1D13F",
+      "char": "𝄿",
+      "name": "MUSICAL SYMBOL SIXTEENTH REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D13F"
+    },
+    {
+      "id": "u1D140",
+      "codepoint": 119104,
+      "hex": "U+1D140",
+      "char": "𝅀",
+      "name": "MUSICAL SYMBOL THIRTY-SECOND REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D140"
+    },
+    {
+      "id": "u1D141",
+      "codepoint": 119105,
+      "hex": "U+1D141",
+      "char": "𝅁",
+      "name": "MUSICAL SYMBOL SIXTY-FOURTH REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D141"
+    },
+    {
+      "id": "u1D142",
+      "codepoint": 119106,
+      "hex": "U+1D142",
+      "char": "𝅂",
+      "name": "MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D142"
+    },
+    {
+      "id": "u1D143",
+      "codepoint": 119107,
+      "hex": "U+1D143",
+      "char": "𝅃",
+      "name": "MUSICAL SYMBOL X NOTEHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D143"
+    },
+    {
+      "id": "u1D144",
+      "codepoint": 119108,
+      "hex": "U+1D144",
+      "char": "𝅄",
+      "name": "MUSICAL SYMBOL PLUS NOTEHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D144"
+    },
+    {
+      "id": "u1D145",
+      "codepoint": 119109,
+      "hex": "U+1D145",
+      "char": "𝅅",
+      "name": "MUSICAL SYMBOL CIRCLE X NOTEHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D145"
+    },
+    {
+      "id": "u1D146",
+      "codepoint": 119110,
+      "hex": "U+1D146",
+      "char": "𝅆",
+      "name": "MUSICAL SYMBOL SQUARE NOTEHEAD WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D146"
+    },
+    {
+      "id": "u1D147",
+      "codepoint": 119111,
+      "hex": "U+1D147",
+      "char": "𝅇",
+      "name": "MUSICAL SYMBOL SQUARE NOTEHEAD BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D147"
+    },
+    {
+      "id": "u1D148",
+      "codepoint": 119112,
+      "hex": "U+1D148",
+      "char": "𝅈",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D148"
+    },
+    {
+      "id": "u1D149",
+      "codepoint": 119113,
+      "hex": "U+1D149",
+      "char": "𝅉",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D149"
+    },
+    {
+      "id": "u1D14A",
+      "codepoint": 119114,
+      "hex": "U+1D14A",
+      "char": "𝅊",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD LEFT WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D14A"
+    },
+    {
+      "id": "u1D14B",
+      "codepoint": 119115,
+      "hex": "U+1D14B",
+      "char": "𝅋",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD LEFT BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D14B"
+    },
+    {
+      "id": "u1D14C",
+      "codepoint": 119116,
+      "hex": "U+1D14C",
+      "char": "𝅌",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD RIGHT WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D14C"
+    },
+    {
+      "id": "u1D14D",
+      "codepoint": 119117,
+      "hex": "U+1D14D",
+      "char": "𝅍",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD RIGHT BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D14D"
+    },
+    {
+      "id": "u1D14E",
+      "codepoint": 119118,
+      "hex": "U+1D14E",
+      "char": "𝅎",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD DOWN WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D14E"
+    },
+    {
+      "id": "u1D14F",
+      "codepoint": 119119,
+      "hex": "U+1D14F",
+      "char": "𝅏",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD DOWN BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D14F"
+    },
+    {
+      "id": "u1D150",
+      "codepoint": 119120,
+      "hex": "U+1D150",
+      "char": "𝅐",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP RIGHT WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D150"
+    },
+    {
+      "id": "u1D151",
+      "codepoint": 119121,
+      "hex": "U+1D151",
+      "char": "𝅑",
+      "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP RIGHT BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D151"
+    },
+    {
+      "id": "u1D152",
+      "codepoint": 119122,
+      "hex": "U+1D152",
+      "char": "𝅒",
+      "name": "MUSICAL SYMBOL MOON NOTEHEAD WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D152"
+    },
+    {
+      "id": "u1D153",
+      "codepoint": 119123,
+      "hex": "U+1D153",
+      "char": "𝅓",
+      "name": "MUSICAL SYMBOL MOON NOTEHEAD BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D153"
+    },
+    {
+      "id": "u1D154",
+      "codepoint": 119124,
+      "hex": "U+1D154",
+      "char": "𝅔",
+      "name": "MUSICAL SYMBOL TRIANGLE-ROUND NOTEHEAD DOWN WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D154"
+    },
+    {
+      "id": "u1D155",
+      "codepoint": 119125,
+      "hex": "U+1D155",
+      "char": "𝅕",
+      "name": "MUSICAL SYMBOL TRIANGLE-ROUND NOTEHEAD DOWN BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D155"
+    },
+    {
+      "id": "u1D156",
+      "codepoint": 119126,
+      "hex": "U+1D156",
+      "char": "𝅖",
+      "name": "MUSICAL SYMBOL PARENTHESIS NOTEHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D156"
+    },
+    {
+      "id": "u1D157",
+      "codepoint": 119127,
+      "hex": "U+1D157",
+      "char": "𝅗",
+      "name": "MUSICAL SYMBOL VOID NOTEHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D157"
+    },
+    {
+      "id": "u1D158",
+      "codepoint": 119128,
+      "hex": "U+1D158",
+      "char": "𝅘",
+      "name": "MUSICAL SYMBOL NOTEHEAD BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D158"
+    },
+    {
+      "id": "u1D159",
+      "codepoint": 119129,
+      "hex": "U+1D159",
+      "char": "𝅙",
+      "name": "MUSICAL SYMBOL NULL NOTEHEAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D159"
+    },
+    {
+      "id": "u1D15A",
+      "codepoint": 119130,
+      "hex": "U+1D15A",
+      "char": "𝅚",
+      "name": "MUSICAL SYMBOL CLUSTER NOTEHEAD WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D15A"
+    },
+    {
+      "id": "u1D15B",
+      "codepoint": 119131,
+      "hex": "U+1D15B",
+      "char": "𝅛",
+      "name": "MUSICAL SYMBOL CLUSTER NOTEHEAD BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D15B"
+    },
+    {
+      "id": "u1D15C",
+      "codepoint": 119132,
+      "hex": "U+1D15C",
+      "char": "𝅜",
+      "name": "MUSICAL SYMBOL BREVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D15C"
+    },
+    {
+      "id": "u1D15D",
+      "codepoint": 119133,
+      "hex": "U+1D15D",
+      "char": "𝅝",
+      "name": "MUSICAL SYMBOL WHOLE NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D15D"
+    },
+    {
+      "id": "u1D15E",
+      "codepoint": 119134,
+      "hex": "U+1D15E",
+      "char": "𝅗𝅥",
+      "name": "MUSICAL SYMBOL HALF NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D15E"
+    },
+    {
+      "id": "u1D15F",
+      "codepoint": 119135,
+      "hex": "U+1D15F",
+      "char": "𝅘𝅥",
+      "name": "MUSICAL SYMBOL QUARTER NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D15F"
+    },
+    {
+      "id": "u1D160",
+      "codepoint": 119136,
+      "hex": "U+1D160",
+      "char": "𝅘𝅥𝅮",
+      "name": "MUSICAL SYMBOL EIGHTH NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D160"
+    },
+    {
+      "id": "u1D161",
+      "codepoint": 119137,
+      "hex": "U+1D161",
+      "char": "𝅘𝅥𝅯",
+      "name": "MUSICAL SYMBOL SIXTEENTH NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D161"
+    },
+    {
+      "id": "u1D162",
+      "codepoint": 119138,
+      "hex": "U+1D162",
+      "char": "𝅘𝅥𝅰",
+      "name": "MUSICAL SYMBOL THIRTY-SECOND NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D162"
+    },
+    {
+      "id": "u1D163",
+      "codepoint": 119139,
+      "hex": "U+1D163",
+      "char": "𝅘𝅥𝅱",
+      "name": "MUSICAL SYMBOL SIXTY-FOURTH NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D163"
+    },
+    {
+      "id": "u1D164",
+      "codepoint": 119140,
+      "hex": "U+1D164",
+      "char": "𝅘𝅥𝅲",
+      "name": "MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D164"
+    },
+    {
+      "id": "u1D165",
+      "codepoint": 119141,
+      "hex": "U+1D165",
+      "char": "𝅥",
+      "name": "MUSICAL SYMBOL COMBINING STEM",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D165"
+    },
+    {
+      "id": "u1D166",
+      "codepoint": 119142,
+      "hex": "U+1D166",
+      "char": "𝅦",
+      "name": "MUSICAL SYMBOL COMBINING SPRECHGESANG STEM",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D166"
+    },
+    {
+      "id": "u1D167",
+      "codepoint": 119143,
+      "hex": "U+1D167",
+      "char": "𝅧",
+      "name": "MUSICAL SYMBOL COMBINING TREMOLO-1",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D167"
+    },
+    {
+      "id": "u1D168",
+      "codepoint": 119144,
+      "hex": "U+1D168",
+      "char": "𝅨",
+      "name": "MUSICAL SYMBOL COMBINING TREMOLO-2",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D168"
+    },
+    {
+      "id": "u1D169",
+      "codepoint": 119145,
+      "hex": "U+1D169",
+      "char": "𝅩",
+      "name": "MUSICAL SYMBOL COMBINING TREMOLO-3",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D169"
+    },
+    {
+      "id": "u1D16A",
+      "codepoint": 119146,
+      "hex": "U+1D16A",
+      "char": "𝅪",
+      "name": "MUSICAL SYMBOL FINGERED TREMOLO-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D16A"
+    },
+    {
+      "id": "u1D16B",
+      "codepoint": 119147,
+      "hex": "U+1D16B",
+      "char": "𝅫",
+      "name": "MUSICAL SYMBOL FINGERED TREMOLO-2",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D16B"
+    },
+    {
+      "id": "u1D16C",
+      "codepoint": 119148,
+      "hex": "U+1D16C",
+      "char": "𝅬",
+      "name": "MUSICAL SYMBOL FINGERED TREMOLO-3",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D16C"
+    },
+    {
+      "id": "u1D16D",
+      "codepoint": 119149,
+      "hex": "U+1D16D",
+      "char": "𝅭",
+      "name": "MUSICAL SYMBOL COMBINING AUGMENTATION DOT",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D16D"
+    },
+    {
+      "id": "u1D16E",
+      "codepoint": 119150,
+      "hex": "U+1D16E",
+      "char": "𝅮",
+      "name": "MUSICAL SYMBOL COMBINING FLAG-1",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D16E"
+    },
+    {
+      "id": "u1D16F",
+      "codepoint": 119151,
+      "hex": "U+1D16F",
+      "char": "𝅯",
+      "name": "MUSICAL SYMBOL COMBINING FLAG-2",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D16F"
+    },
+    {
+      "id": "u1D170",
+      "codepoint": 119152,
+      "hex": "U+1D170",
+      "char": "𝅰",
+      "name": "MUSICAL SYMBOL COMBINING FLAG-3",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D170"
+    },
+    {
+      "id": "u1D171",
+      "codepoint": 119153,
+      "hex": "U+1D171",
+      "char": "𝅱",
+      "name": "MUSICAL SYMBOL COMBINING FLAG-4",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D171"
+    },
+    {
+      "id": "u1D172",
+      "codepoint": 119154,
+      "hex": "U+1D172",
+      "char": "𝅲",
+      "name": "MUSICAL SYMBOL COMBINING FLAG-5",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D172"
+    },
+    {
+      "id": "u1D173",
+      "codepoint": 119155,
+      "hex": "U+1D173",
+      "char": "𝅳",
+      "name": "MUSICAL SYMBOL BEGIN BEAM",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D173"
+    },
+    {
+      "id": "u1D174",
+      "codepoint": 119156,
+      "hex": "U+1D174",
+      "char": "𝅴",
+      "name": "MUSICAL SYMBOL END BEAM",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D174"
+    },
+    {
+      "id": "u1D175",
+      "codepoint": 119157,
+      "hex": "U+1D175",
+      "char": "𝅵",
+      "name": "MUSICAL SYMBOL BEGIN TIE",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D175"
+    },
+    {
+      "id": "u1D176",
+      "codepoint": 119158,
+      "hex": "U+1D176",
+      "char": "𝅶",
+      "name": "MUSICAL SYMBOL END TIE",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D176"
+    },
+    {
+      "id": "u1D177",
+      "codepoint": 119159,
+      "hex": "U+1D177",
+      "char": "𝅷",
+      "name": "MUSICAL SYMBOL BEGIN SLUR",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D177"
+    },
+    {
+      "id": "u1D178",
+      "codepoint": 119160,
+      "hex": "U+1D178",
+      "char": "𝅸",
+      "name": "MUSICAL SYMBOL END SLUR",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D178"
+    },
+    {
+      "id": "u1D179",
+      "codepoint": 119161,
+      "hex": "U+1D179",
+      "char": "𝅹",
+      "name": "MUSICAL SYMBOL BEGIN PHRASE",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D179"
+    },
+    {
+      "id": "u1D17A",
+      "codepoint": 119162,
+      "hex": "U+1D17A",
+      "char": "𝅺",
+      "name": "MUSICAL SYMBOL END PHRASE",
+      "category": "Cf",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D17A"
+    },
+    {
+      "id": "u1D17B",
+      "codepoint": 119163,
+      "hex": "U+1D17B",
+      "char": "𝅻",
+      "name": "MUSICAL SYMBOL COMBINING ACCENT",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D17B"
+    },
+    {
+      "id": "u1D17C",
+      "codepoint": 119164,
+      "hex": "U+1D17C",
+      "char": "𝅼",
+      "name": "MUSICAL SYMBOL COMBINING STACCATO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D17C"
+    },
+    {
+      "id": "u1D17D",
+      "codepoint": 119165,
+      "hex": "U+1D17D",
+      "char": "𝅽",
+      "name": "MUSICAL SYMBOL COMBINING TENUTO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D17D"
+    },
+    {
+      "id": "u1D17E",
+      "codepoint": 119166,
+      "hex": "U+1D17E",
+      "char": "𝅾",
+      "name": "MUSICAL SYMBOL COMBINING STACCATISSIMO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D17E"
+    },
+    {
+      "id": "u1D17F",
+      "codepoint": 119167,
+      "hex": "U+1D17F",
+      "char": "𝅿",
+      "name": "MUSICAL SYMBOL COMBINING MARCATO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D17F"
+    },
+    {
+      "id": "u1D180",
+      "codepoint": 119168,
+      "hex": "U+1D180",
+      "char": "𝆀",
+      "name": "MUSICAL SYMBOL COMBINING MARCATO-STACCATO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D180"
+    },
+    {
+      "id": "u1D181",
+      "codepoint": 119169,
+      "hex": "U+1D181",
+      "char": "𝆁",
+      "name": "MUSICAL SYMBOL COMBINING ACCENT-STACCATO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D181"
+    },
+    {
+      "id": "u1D182",
+      "codepoint": 119170,
+      "hex": "U+1D182",
+      "char": "𝆂",
+      "name": "MUSICAL SYMBOL COMBINING LOURE",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D182"
+    },
+    {
+      "id": "u1D183",
+      "codepoint": 119171,
+      "hex": "U+1D183",
+      "char": "𝆃",
+      "name": "MUSICAL SYMBOL ARPEGGIATO UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D183"
+    },
+    {
+      "id": "u1D184",
+      "codepoint": 119172,
+      "hex": "U+1D184",
+      "char": "𝆄",
+      "name": "MUSICAL SYMBOL ARPEGGIATO DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D184"
+    },
+    {
+      "id": "u1D185",
+      "codepoint": 119173,
+      "hex": "U+1D185",
+      "char": "𝆅",
+      "name": "MUSICAL SYMBOL COMBINING DOIT",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D185"
+    },
+    {
+      "id": "u1D186",
+      "codepoint": 119174,
+      "hex": "U+1D186",
+      "char": "𝆆",
+      "name": "MUSICAL SYMBOL COMBINING RIP",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D186"
+    },
+    {
+      "id": "u1D187",
+      "codepoint": 119175,
+      "hex": "U+1D187",
+      "char": "𝆇",
+      "name": "MUSICAL SYMBOL COMBINING FLIP",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D187"
+    },
+    {
+      "id": "u1D188",
+      "codepoint": 119176,
+      "hex": "U+1D188",
+      "char": "𝆈",
+      "name": "MUSICAL SYMBOL COMBINING SMEAR",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D188"
+    },
+    {
+      "id": "u1D189",
+      "codepoint": 119177,
+      "hex": "U+1D189",
+      "char": "𝆉",
+      "name": "MUSICAL SYMBOL COMBINING BEND",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D189"
+    },
+    {
+      "id": "u1D18A",
+      "codepoint": 119178,
+      "hex": "U+1D18A",
+      "char": "𝆊",
+      "name": "MUSICAL SYMBOL COMBINING DOUBLE TONGUE",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D18A"
+    },
+    {
+      "id": "u1D18B",
+      "codepoint": 119179,
+      "hex": "U+1D18B",
+      "char": "𝆋",
+      "name": "MUSICAL SYMBOL COMBINING TRIPLE TONGUE",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D18B"
+    },
+    {
+      "id": "u1D18C",
+      "codepoint": 119180,
+      "hex": "U+1D18C",
+      "char": "𝆌",
+      "name": "MUSICAL SYMBOL RINFORZANDO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D18C"
+    },
+    {
+      "id": "u1D18D",
+      "codepoint": 119181,
+      "hex": "U+1D18D",
+      "char": "𝆍",
+      "name": "MUSICAL SYMBOL SUBITO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D18D"
+    },
+    {
+      "id": "u1D18E",
+      "codepoint": 119182,
+      "hex": "U+1D18E",
+      "char": "𝆎",
+      "name": "MUSICAL SYMBOL Z",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D18E"
+    },
+    {
+      "id": "u1D18F",
+      "codepoint": 119183,
+      "hex": "U+1D18F",
+      "char": "𝆏",
+      "name": "MUSICAL SYMBOL PIANO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D18F"
+    },
+    {
+      "id": "u1D190",
+      "codepoint": 119184,
+      "hex": "U+1D190",
+      "char": "𝆐",
+      "name": "MUSICAL SYMBOL MEZZO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D190"
+    },
+    {
+      "id": "u1D191",
+      "codepoint": 119185,
+      "hex": "U+1D191",
+      "char": "𝆑",
+      "name": "MUSICAL SYMBOL FORTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D191"
+    },
+    {
+      "id": "u1D192",
+      "codepoint": 119186,
+      "hex": "U+1D192",
+      "char": "𝆒",
+      "name": "MUSICAL SYMBOL CRESCENDO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D192"
+    },
+    {
+      "id": "u1D193",
+      "codepoint": 119187,
+      "hex": "U+1D193",
+      "char": "𝆓",
+      "name": "MUSICAL SYMBOL DECRESCENDO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D193"
+    },
+    {
+      "id": "u1D194",
+      "codepoint": 119188,
+      "hex": "U+1D194",
+      "char": "𝆔",
+      "name": "MUSICAL SYMBOL GRACE NOTE SLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D194"
+    },
+    {
+      "id": "u1D195",
+      "codepoint": 119189,
+      "hex": "U+1D195",
+      "char": "𝆕",
+      "name": "MUSICAL SYMBOL GRACE NOTE NO SLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D195"
+    },
+    {
+      "id": "u1D196",
+      "codepoint": 119190,
+      "hex": "U+1D196",
+      "char": "𝆖",
+      "name": "MUSICAL SYMBOL TR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D196"
+    },
+    {
+      "id": "u1D197",
+      "codepoint": 119191,
+      "hex": "U+1D197",
+      "char": "𝆗",
+      "name": "MUSICAL SYMBOL TURN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D197"
+    },
+    {
+      "id": "u1D198",
+      "codepoint": 119192,
+      "hex": "U+1D198",
+      "char": "𝆘",
+      "name": "MUSICAL SYMBOL INVERTED TURN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D198"
+    },
+    {
+      "id": "u1D199",
+      "codepoint": 119193,
+      "hex": "U+1D199",
+      "char": "𝆙",
+      "name": "MUSICAL SYMBOL TURN SLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D199"
+    },
+    {
+      "id": "u1D19A",
+      "codepoint": 119194,
+      "hex": "U+1D19A",
+      "char": "𝆚",
+      "name": "MUSICAL SYMBOL TURN UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D19A"
+    },
+    {
+      "id": "u1D19B",
+      "codepoint": 119195,
+      "hex": "U+1D19B",
+      "char": "𝆛",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D19B"
+    },
+    {
+      "id": "u1D19C",
+      "codepoint": 119196,
+      "hex": "U+1D19C",
+      "char": "𝆜",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-2",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D19C"
+    },
+    {
+      "id": "u1D19D",
+      "codepoint": 119197,
+      "hex": "U+1D19D",
+      "char": "𝆝",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-3",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D19D"
+    },
+    {
+      "id": "u1D19E",
+      "codepoint": 119198,
+      "hex": "U+1D19E",
+      "char": "𝆞",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-4",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D19E"
+    },
+    {
+      "id": "u1D19F",
+      "codepoint": 119199,
+      "hex": "U+1D19F",
+      "char": "𝆟",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-5",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D19F"
+    },
+    {
+      "id": "u1D1A0",
+      "codepoint": 119200,
+      "hex": "U+1D1A0",
+      "char": "𝆠",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-6",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A0"
+    },
+    {
+      "id": "u1D1A1",
+      "codepoint": 119201,
+      "hex": "U+1D1A1",
+      "char": "𝆡",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-7",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A1"
+    },
+    {
+      "id": "u1D1A2",
+      "codepoint": 119202,
+      "hex": "U+1D1A2",
+      "char": "𝆢",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-8",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A2"
+    },
+    {
+      "id": "u1D1A3",
+      "codepoint": 119203,
+      "hex": "U+1D1A3",
+      "char": "𝆣",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-9",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A3"
+    },
+    {
+      "id": "u1D1A4",
+      "codepoint": 119204,
+      "hex": "U+1D1A4",
+      "char": "𝆤",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-10",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A4"
+    },
+    {
+      "id": "u1D1A5",
+      "codepoint": 119205,
+      "hex": "U+1D1A5",
+      "char": "𝆥",
+      "name": "MUSICAL SYMBOL ORNAMENT STROKE-11",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A5"
+    },
+    {
+      "id": "u1D1A6",
+      "codepoint": 119206,
+      "hex": "U+1D1A6",
+      "char": "𝆦",
+      "name": "MUSICAL SYMBOL HAUPTSTIMME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A6"
+    },
+    {
+      "id": "u1D1A7",
+      "codepoint": 119207,
+      "hex": "U+1D1A7",
+      "char": "𝆧",
+      "name": "MUSICAL SYMBOL NEBENSTIMME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A7"
+    },
+    {
+      "id": "u1D1A8",
+      "codepoint": 119208,
+      "hex": "U+1D1A8",
+      "char": "𝆨",
+      "name": "MUSICAL SYMBOL END OF STIMME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A8"
+    },
+    {
+      "id": "u1D1A9",
+      "codepoint": 119209,
+      "hex": "U+1D1A9",
+      "char": "𝆩",
+      "name": "MUSICAL SYMBOL DEGREE SLASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1A9"
+    },
+    {
+      "id": "u1D1AA",
+      "codepoint": 119210,
+      "hex": "U+1D1AA",
+      "char": "𝆪",
+      "name": "MUSICAL SYMBOL COMBINING DOWN BOW",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1AA"
+    },
+    {
+      "id": "u1D1AB",
+      "codepoint": 119211,
+      "hex": "U+1D1AB",
+      "char": "𝆫",
+      "name": "MUSICAL SYMBOL COMBINING UP BOW",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1AB"
+    },
+    {
+      "id": "u1D1AC",
+      "codepoint": 119212,
+      "hex": "U+1D1AC",
+      "char": "𝆬",
+      "name": "MUSICAL SYMBOL COMBINING HARMONIC",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1AC"
+    },
+    {
+      "id": "u1D1AD",
+      "codepoint": 119213,
+      "hex": "U+1D1AD",
+      "char": "𝆭",
+      "name": "MUSICAL SYMBOL COMBINING SNAP PIZZICATO",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1AD"
+    },
+    {
+      "id": "u1D1AE",
+      "codepoint": 119214,
+      "hex": "U+1D1AE",
+      "char": "𝆮",
+      "name": "MUSICAL SYMBOL PEDAL MARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1AE"
+    },
+    {
+      "id": "u1D1AF",
+      "codepoint": 119215,
+      "hex": "U+1D1AF",
+      "char": "𝆯",
+      "name": "MUSICAL SYMBOL PEDAL UP MARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1AF"
+    },
+    {
+      "id": "u1D1B0",
+      "codepoint": 119216,
+      "hex": "U+1D1B0",
+      "char": "𝆰",
+      "name": "MUSICAL SYMBOL HALF PEDAL MARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B0"
+    },
+    {
+      "id": "u1D1B1",
+      "codepoint": 119217,
+      "hex": "U+1D1B1",
+      "char": "𝆱",
+      "name": "MUSICAL SYMBOL GLISSANDO UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B1"
+    },
+    {
+      "id": "u1D1B2",
+      "codepoint": 119218,
+      "hex": "U+1D1B2",
+      "char": "𝆲",
+      "name": "MUSICAL SYMBOL GLISSANDO DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B2"
+    },
+    {
+      "id": "u1D1B3",
+      "codepoint": 119219,
+      "hex": "U+1D1B3",
+      "char": "𝆳",
+      "name": "MUSICAL SYMBOL WITH FINGERNAILS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B3"
+    },
+    {
+      "id": "u1D1B4",
+      "codepoint": 119220,
+      "hex": "U+1D1B4",
+      "char": "𝆴",
+      "name": "MUSICAL SYMBOL DAMP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B4"
+    },
+    {
+      "id": "u1D1B5",
+      "codepoint": 119221,
+      "hex": "U+1D1B5",
+      "char": "𝆵",
+      "name": "MUSICAL SYMBOL DAMP ALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B5"
+    },
+    {
+      "id": "u1D1B6",
+      "codepoint": 119222,
+      "hex": "U+1D1B6",
+      "char": "𝆶",
+      "name": "MUSICAL SYMBOL MAXIMA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B6"
+    },
+    {
+      "id": "u1D1B7",
+      "codepoint": 119223,
+      "hex": "U+1D1B7",
+      "char": "𝆷",
+      "name": "MUSICAL SYMBOL LONGA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B7"
+    },
+    {
+      "id": "u1D1B8",
+      "codepoint": 119224,
+      "hex": "U+1D1B8",
+      "char": "𝆸",
+      "name": "MUSICAL SYMBOL BREVIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B8"
+    },
+    {
+      "id": "u1D1B9",
+      "codepoint": 119225,
+      "hex": "U+1D1B9",
+      "char": "𝆹",
+      "name": "MUSICAL SYMBOL SEMIBREVIS WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1B9"
+    },
+    {
+      "id": "u1D1BA",
+      "codepoint": 119226,
+      "hex": "U+1D1BA",
+      "char": "𝆺",
+      "name": "MUSICAL SYMBOL SEMIBREVIS BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1BA"
+    },
+    {
+      "id": "u1D1BB",
+      "codepoint": 119227,
+      "hex": "U+1D1BB",
+      "char": "𝆹𝅥",
+      "name": "MUSICAL SYMBOL MINIMA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1BB"
+    },
+    {
+      "id": "u1D1BC",
+      "codepoint": 119228,
+      "hex": "U+1D1BC",
+      "char": "𝆺𝅥",
+      "name": "MUSICAL SYMBOL MINIMA BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1BC"
+    },
+    {
+      "id": "u1D1BD",
+      "codepoint": 119229,
+      "hex": "U+1D1BD",
+      "char": "𝆹𝅥𝅮",
+      "name": "MUSICAL SYMBOL SEMIMINIMA WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1BD"
+    },
+    {
+      "id": "u1D1BE",
+      "codepoint": 119230,
+      "hex": "U+1D1BE",
+      "char": "𝆺𝅥𝅮",
+      "name": "MUSICAL SYMBOL SEMIMINIMA BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1BE"
+    },
+    {
+      "id": "u1D1BF",
+      "codepoint": 119231,
+      "hex": "U+1D1BF",
+      "char": "𝆹𝅥𝅯",
+      "name": "MUSICAL SYMBOL FUSA WHITE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1BF"
+    },
+    {
+      "id": "u1D1C0",
+      "codepoint": 119232,
+      "hex": "U+1D1C0",
+      "char": "𝆺𝅥𝅯",
+      "name": "MUSICAL SYMBOL FUSA BLACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C0"
+    },
+    {
+      "id": "u1D1C1",
+      "codepoint": 119233,
+      "hex": "U+1D1C1",
+      "char": "𝇁",
+      "name": "MUSICAL SYMBOL LONGA PERFECTA REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C1"
+    },
+    {
+      "id": "u1D1C2",
+      "codepoint": 119234,
+      "hex": "U+1D1C2",
+      "char": "𝇂",
+      "name": "MUSICAL SYMBOL LONGA IMPERFECTA REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C2"
+    },
+    {
+      "id": "u1D1C3",
+      "codepoint": 119235,
+      "hex": "U+1D1C3",
+      "char": "𝇃",
+      "name": "MUSICAL SYMBOL BREVIS REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C3"
+    },
+    {
+      "id": "u1D1C4",
+      "codepoint": 119236,
+      "hex": "U+1D1C4",
+      "char": "𝇄",
+      "name": "MUSICAL SYMBOL SEMIBREVIS REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C4"
+    },
+    {
+      "id": "u1D1C5",
+      "codepoint": 119237,
+      "hex": "U+1D1C5",
+      "char": "𝇅",
+      "name": "MUSICAL SYMBOL MINIMA REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C5"
+    },
+    {
+      "id": "u1D1C6",
+      "codepoint": 119238,
+      "hex": "U+1D1C6",
+      "char": "𝇆",
+      "name": "MUSICAL SYMBOL SEMIMINIMA REST",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C6"
+    },
+    {
+      "id": "u1D1C7",
+      "codepoint": 119239,
+      "hex": "U+1D1C7",
+      "char": "𝇇",
+      "name": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE PERFECTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C7"
+    },
+    {
+      "id": "u1D1C8",
+      "codepoint": 119240,
+      "hex": "U+1D1C8",
+      "char": "𝇈",
+      "name": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE IMPERFECTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C8"
+    },
+    {
+      "id": "u1D1C9",
+      "codepoint": 119241,
+      "hex": "U+1D1C9",
+      "char": "𝇉",
+      "name": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE PERFECTA DIMINUTION-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1C9"
+    },
+    {
+      "id": "u1D1CA",
+      "codepoint": 119242,
+      "hex": "U+1D1CA",
+      "char": "𝇊",
+      "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE PERFECTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1CA"
+    },
+    {
+      "id": "u1D1CB",
+      "codepoint": 119243,
+      "hex": "U+1D1CB",
+      "char": "𝇋",
+      "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1CB"
+    },
+    {
+      "id": "u1D1CC",
+      "codepoint": 119244,
+      "hex": "U+1D1CC",
+      "char": "𝇌",
+      "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1CC"
+    },
+    {
+      "id": "u1D1CD",
+      "codepoint": 119245,
+      "hex": "U+1D1CD",
+      "char": "𝇍",
+      "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-2",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1CD"
+    },
+    {
+      "id": "u1D1CE",
+      "codepoint": 119246,
+      "hex": "U+1D1CE",
+      "char": "𝇎",
+      "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-3",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1CE"
+    },
+    {
+      "id": "u1D1CF",
+      "codepoint": 119247,
+      "hex": "U+1D1CF",
+      "char": "𝇏",
+      "name": "MUSICAL SYMBOL CROIX",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1CF"
+    },
+    {
+      "id": "u1D1D0",
+      "codepoint": 119248,
+      "hex": "U+1D1D0",
+      "char": "𝇐",
+      "name": "MUSICAL SYMBOL GREGORIAN C CLEF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D0"
+    },
+    {
+      "id": "u1D1D1",
+      "codepoint": 119249,
+      "hex": "U+1D1D1",
+      "char": "𝇑",
+      "name": "MUSICAL SYMBOL GREGORIAN F CLEF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D1"
+    },
+    {
+      "id": "u1D1D2",
+      "codepoint": 119250,
+      "hex": "U+1D1D2",
+      "char": "𝇒",
+      "name": "MUSICAL SYMBOL SQUARE B",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D2"
+    },
+    {
+      "id": "u1D1D3",
+      "codepoint": 119251,
+      "hex": "U+1D1D3",
+      "char": "𝇓",
+      "name": "MUSICAL SYMBOL VIRGA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D3"
+    },
+    {
+      "id": "u1D1D4",
+      "codepoint": 119252,
+      "hex": "U+1D1D4",
+      "char": "𝇔",
+      "name": "MUSICAL SYMBOL PODATUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D4"
+    },
+    {
+      "id": "u1D1D5",
+      "codepoint": 119253,
+      "hex": "U+1D1D5",
+      "char": "𝇕",
+      "name": "MUSICAL SYMBOL CLIVIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D5"
+    },
+    {
+      "id": "u1D1D6",
+      "codepoint": 119254,
+      "hex": "U+1D1D6",
+      "char": "𝇖",
+      "name": "MUSICAL SYMBOL SCANDICUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D6"
+    },
+    {
+      "id": "u1D1D7",
+      "codepoint": 119255,
+      "hex": "U+1D1D7",
+      "char": "𝇗",
+      "name": "MUSICAL SYMBOL CLIMACUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D7"
+    },
+    {
+      "id": "u1D1D8",
+      "codepoint": 119256,
+      "hex": "U+1D1D8",
+      "char": "𝇘",
+      "name": "MUSICAL SYMBOL TORCULUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D8"
+    },
+    {
+      "id": "u1D1D9",
+      "codepoint": 119257,
+      "hex": "U+1D1D9",
+      "char": "𝇙",
+      "name": "MUSICAL SYMBOL PORRECTUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1D9"
+    },
+    {
+      "id": "u1D1DA",
+      "codepoint": 119258,
+      "hex": "U+1D1DA",
+      "char": "𝇚",
+      "name": "MUSICAL SYMBOL PORRECTUS FLEXUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1DA"
+    },
+    {
+      "id": "u1D1DB",
+      "codepoint": 119259,
+      "hex": "U+1D1DB",
+      "char": "𝇛",
+      "name": "MUSICAL SYMBOL SCANDICUS FLEXUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1DB"
+    },
+    {
+      "id": "u1D1DC",
+      "codepoint": 119260,
+      "hex": "U+1D1DC",
+      "char": "𝇜",
+      "name": "MUSICAL SYMBOL TORCULUS RESUPINUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1DC"
+    },
+    {
+      "id": "u1D1DD",
+      "codepoint": 119261,
+      "hex": "U+1D1DD",
+      "char": "𝇝",
+      "name": "MUSICAL SYMBOL PES SUBPUNCTIS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1DD"
+    },
+    {
+      "id": "u1D1DE",
+      "codepoint": 119262,
+      "hex": "U+1D1DE",
+      "char": "𝇞",
+      "name": "MUSICAL SYMBOL KIEVAN C CLEF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1DE"
+    },
+    {
+      "id": "u1D1DF",
+      "codepoint": 119263,
+      "hex": "U+1D1DF",
+      "char": "𝇟",
+      "name": "MUSICAL SYMBOL KIEVAN END OF PIECE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1DF"
+    },
+    {
+      "id": "u1D1E0",
+      "codepoint": 119264,
+      "hex": "U+1D1E0",
+      "char": "𝇠",
+      "name": "MUSICAL SYMBOL KIEVAN FINAL NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E0"
+    },
+    {
+      "id": "u1D1E1",
+      "codepoint": 119265,
+      "hex": "U+1D1E1",
+      "char": "𝇡",
+      "name": "MUSICAL SYMBOL KIEVAN RECITATIVE MARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E1"
+    },
+    {
+      "id": "u1D1E2",
+      "codepoint": 119266,
+      "hex": "U+1D1E2",
+      "char": "𝇢",
+      "name": "MUSICAL SYMBOL KIEVAN WHOLE NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E2"
+    },
+    {
+      "id": "u1D1E3",
+      "codepoint": 119267,
+      "hex": "U+1D1E3",
+      "char": "𝇣",
+      "name": "MUSICAL SYMBOL KIEVAN HALF NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E3"
+    },
+    {
+      "id": "u1D1E4",
+      "codepoint": 119268,
+      "hex": "U+1D1E4",
+      "char": "𝇤",
+      "name": "MUSICAL SYMBOL KIEVAN QUARTER NOTE STEM DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E4"
+    },
+    {
+      "id": "u1D1E5",
+      "codepoint": 119269,
+      "hex": "U+1D1E5",
+      "char": "𝇥",
+      "name": "MUSICAL SYMBOL KIEVAN QUARTER NOTE STEM UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E5"
+    },
+    {
+      "id": "u1D1E6",
+      "codepoint": 119270,
+      "hex": "U+1D1E6",
+      "char": "𝇦",
+      "name": "MUSICAL SYMBOL KIEVAN EIGHTH NOTE STEM DOWN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E6"
+    },
+    {
+      "id": "u1D1E7",
+      "codepoint": 119271,
+      "hex": "U+1D1E7",
+      "char": "𝇧",
+      "name": "MUSICAL SYMBOL KIEVAN EIGHTH NOTE STEM UP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E7"
+    },
+    {
+      "id": "u1D1E8",
+      "codepoint": 119272,
+      "hex": "U+1D1E8",
+      "char": "𝇨",
+      "name": "MUSICAL SYMBOL KIEVAN FLAT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E8"
+    },
+    {
+      "id": "u1D1E9",
+      "codepoint": 119273,
+      "hex": "U+1D1E9",
+      "char": "𝇩",
+      "name": "MUSICAL SYMBOL SORI",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1E9"
+    },
+    {
+      "id": "u1D1EA",
+      "codepoint": 119274,
+      "hex": "U+1D1EA",
+      "char": "𝇪",
+      "name": "MUSICAL SYMBOL KORON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-musical-symbols/u1D1EA"
+    }
+  ]
+}

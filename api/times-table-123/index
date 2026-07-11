@@ -1,0 +1,182 @@
+{
+  "api": "times-table-123",
+  "title": "123 Times Table",
+  "description": "The multiplication table for 123: 123x1 through 123x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-123/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-123/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 123,
+      "multiplicand": 1,
+      "product": 123,
+      "expression": "123 x 1 = 123",
+      "url": "https://gratisapi.com/api/times-table-123/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 123,
+      "multiplicand": 2,
+      "product": 246,
+      "expression": "123 x 2 = 246",
+      "url": "https://gratisapi.com/api/times-table-123/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 123,
+      "multiplicand": 3,
+      "product": 369,
+      "expression": "123 x 3 = 369",
+      "url": "https://gratisapi.com/api/times-table-123/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 123,
+      "multiplicand": 4,
+      "product": 492,
+      "expression": "123 x 4 = 492",
+      "url": "https://gratisapi.com/api/times-table-123/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 123,
+      "multiplicand": 5,
+      "product": 615,
+      "expression": "123 x 5 = 615",
+      "url": "https://gratisapi.com/api/times-table-123/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 123,
+      "multiplicand": 6,
+      "product": 738,
+      "expression": "123 x 6 = 738",
+      "url": "https://gratisapi.com/api/times-table-123/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 123,
+      "multiplicand": 7,
+      "product": 861,
+      "expression": "123 x 7 = 861",
+      "url": "https://gratisapi.com/api/times-table-123/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 123,
+      "multiplicand": 8,
+      "product": 984,
+      "expression": "123 x 8 = 984",
+      "url": "https://gratisapi.com/api/times-table-123/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 123,
+      "multiplicand": 9,
+      "product": 1107,
+      "expression": "123 x 9 = 1107",
+      "url": "https://gratisapi.com/api/times-table-123/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 123,
+      "multiplicand": 10,
+      "product": 1230,
+      "expression": "123 x 10 = 1230",
+      "url": "https://gratisapi.com/api/times-table-123/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 123,
+      "multiplicand": 11,
+      "product": 1353,
+      "expression": "123 x 11 = 1353",
+      "url": "https://gratisapi.com/api/times-table-123/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 123,
+      "multiplicand": 12,
+      "product": 1476,
+      "expression": "123 x 12 = 1476",
+      "url": "https://gratisapi.com/api/times-table-123/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 123,
+      "multiplicand": 13,
+      "product": 1599,
+      "expression": "123 x 13 = 1599",
+      "url": "https://gratisapi.com/api/times-table-123/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 123,
+      "multiplicand": 14,
+      "product": 1722,
+      "expression": "123 x 14 = 1722",
+      "url": "https://gratisapi.com/api/times-table-123/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 123,
+      "multiplicand": 15,
+      "product": 1845,
+      "expression": "123 x 15 = 1845",
+      "url": "https://gratisapi.com/api/times-table-123/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 123,
+      "multiplicand": 16,
+      "product": 1968,
+      "expression": "123 x 16 = 1968",
+      "url": "https://gratisapi.com/api/times-table-123/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 123,
+      "multiplicand": 17,
+      "product": 2091,
+      "expression": "123 x 17 = 2091",
+      "url": "https://gratisapi.com/api/times-table-123/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 123,
+      "multiplicand": 18,
+      "product": 2214,
+      "expression": "123 x 18 = 2214",
+      "url": "https://gratisapi.com/api/times-table-123/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 123,
+      "multiplicand": 19,
+      "product": 2337,
+      "expression": "123 x 19 = 2337",
+      "url": "https://gratisapi.com/api/times-table-123/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 123,
+      "multiplicand": 20,
+      "product": 2460,
+      "expression": "123 x 20 = 2460",
+      "url": "https://gratisapi.com/api/times-table-123/20"
+    }
+  ]
+}

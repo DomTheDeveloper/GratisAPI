@@ -1,0 +1,182 @@
+{
+  "api": "times-table-7",
+  "title": "7 Times Table",
+  "description": "The multiplication table for 7: 7x1 through 7x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-7/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-7/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 7,
+      "multiplicand": 1,
+      "product": 7,
+      "expression": "7 x 1 = 7",
+      "url": "https://gratisapi.com/api/times-table-7/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 7,
+      "multiplicand": 2,
+      "product": 14,
+      "expression": "7 x 2 = 14",
+      "url": "https://gratisapi.com/api/times-table-7/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 7,
+      "multiplicand": 3,
+      "product": 21,
+      "expression": "7 x 3 = 21",
+      "url": "https://gratisapi.com/api/times-table-7/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 7,
+      "multiplicand": 4,
+      "product": 28,
+      "expression": "7 x 4 = 28",
+      "url": "https://gratisapi.com/api/times-table-7/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 7,
+      "multiplicand": 5,
+      "product": 35,
+      "expression": "7 x 5 = 35",
+      "url": "https://gratisapi.com/api/times-table-7/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 7,
+      "multiplicand": 6,
+      "product": 42,
+      "expression": "7 x 6 = 42",
+      "url": "https://gratisapi.com/api/times-table-7/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 7,
+      "multiplicand": 7,
+      "product": 49,
+      "expression": "7 x 7 = 49",
+      "url": "https://gratisapi.com/api/times-table-7/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 7,
+      "multiplicand": 8,
+      "product": 56,
+      "expression": "7 x 8 = 56",
+      "url": "https://gratisapi.com/api/times-table-7/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 7,
+      "multiplicand": 9,
+      "product": 63,
+      "expression": "7 x 9 = 63",
+      "url": "https://gratisapi.com/api/times-table-7/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 7,
+      "multiplicand": 10,
+      "product": 70,
+      "expression": "7 x 10 = 70",
+      "url": "https://gratisapi.com/api/times-table-7/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 7,
+      "multiplicand": 11,
+      "product": 77,
+      "expression": "7 x 11 = 77",
+      "url": "https://gratisapi.com/api/times-table-7/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 7,
+      "multiplicand": 12,
+      "product": 84,
+      "expression": "7 x 12 = 84",
+      "url": "https://gratisapi.com/api/times-table-7/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 7,
+      "multiplicand": 13,
+      "product": 91,
+      "expression": "7 x 13 = 91",
+      "url": "https://gratisapi.com/api/times-table-7/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 7,
+      "multiplicand": 14,
+      "product": 98,
+      "expression": "7 x 14 = 98",
+      "url": "https://gratisapi.com/api/times-table-7/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 7,
+      "multiplicand": 15,
+      "product": 105,
+      "expression": "7 x 15 = 105",
+      "url": "https://gratisapi.com/api/times-table-7/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 7,
+      "multiplicand": 16,
+      "product": 112,
+      "expression": "7 x 16 = 112",
+      "url": "https://gratisapi.com/api/times-table-7/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 7,
+      "multiplicand": 17,
+      "product": 119,
+      "expression": "7 x 17 = 119",
+      "url": "https://gratisapi.com/api/times-table-7/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 7,
+      "multiplicand": 18,
+      "product": 126,
+      "expression": "7 x 18 = 126",
+      "url": "https://gratisapi.com/api/times-table-7/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 7,
+      "multiplicand": 19,
+      "product": 133,
+      "expression": "7 x 19 = 133",
+      "url": "https://gratisapi.com/api/times-table-7/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 7,
+      "multiplicand": 20,
+      "product": 140,
+      "expression": "7 x 20 = 140",
+      "url": "https://gratisapi.com/api/times-table-7/20"
+    }
+  ]
+}

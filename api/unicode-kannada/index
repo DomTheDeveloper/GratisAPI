@@ -1,0 +1,833 @@
+{
+  "api": "unicode-kannada",
+  "title": "Kannada",
+  "description": "The Kannada Unicode block (U+0C80..U+0CFF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 90,
+  "self": "https://gratisapi.com/api/unicode-kannada/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-kannada/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0C80",
+      "codepoint": 3200,
+      "hex": "U+0C80",
+      "char": "ಀ",
+      "name": "KANNADA SIGN SPACING CANDRABINDU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C80"
+    },
+    {
+      "id": "u0C81",
+      "codepoint": 3201,
+      "hex": "U+0C81",
+      "char": "ಁ",
+      "name": "KANNADA SIGN CANDRABINDU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C81"
+    },
+    {
+      "id": "u0C82",
+      "codepoint": 3202,
+      "hex": "U+0C82",
+      "char": "ಂ",
+      "name": "KANNADA SIGN ANUSVARA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C82"
+    },
+    {
+      "id": "u0C83",
+      "codepoint": 3203,
+      "hex": "U+0C83",
+      "char": "ಃ",
+      "name": "KANNADA SIGN VISARGA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C83"
+    },
+    {
+      "id": "u0C84",
+      "codepoint": 3204,
+      "hex": "U+0C84",
+      "char": "಄",
+      "name": "KANNADA SIGN SIDDHAM",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C84"
+    },
+    {
+      "id": "u0C85",
+      "codepoint": 3205,
+      "hex": "U+0C85",
+      "char": "ಅ",
+      "name": "KANNADA LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C85"
+    },
+    {
+      "id": "u0C86",
+      "codepoint": 3206,
+      "hex": "U+0C86",
+      "char": "ಆ",
+      "name": "KANNADA LETTER AA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C86"
+    },
+    {
+      "id": "u0C87",
+      "codepoint": 3207,
+      "hex": "U+0C87",
+      "char": "ಇ",
+      "name": "KANNADA LETTER I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C87"
+    },
+    {
+      "id": "u0C88",
+      "codepoint": 3208,
+      "hex": "U+0C88",
+      "char": "ಈ",
+      "name": "KANNADA LETTER II",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C88"
+    },
+    {
+      "id": "u0C89",
+      "codepoint": 3209,
+      "hex": "U+0C89",
+      "char": "ಉ",
+      "name": "KANNADA LETTER U",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C89"
+    },
+    {
+      "id": "u0C8A",
+      "codepoint": 3210,
+      "hex": "U+0C8A",
+      "char": "ಊ",
+      "name": "KANNADA LETTER UU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C8A"
+    },
+    {
+      "id": "u0C8B",
+      "codepoint": 3211,
+      "hex": "U+0C8B",
+      "char": "ಋ",
+      "name": "KANNADA LETTER VOCALIC R",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C8B"
+    },
+    {
+      "id": "u0C8C",
+      "codepoint": 3212,
+      "hex": "U+0C8C",
+      "char": "ಌ",
+      "name": "KANNADA LETTER VOCALIC L",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C8C"
+    },
+    {
+      "id": "u0C8E",
+      "codepoint": 3214,
+      "hex": "U+0C8E",
+      "char": "ಎ",
+      "name": "KANNADA LETTER E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C8E"
+    },
+    {
+      "id": "u0C8F",
+      "codepoint": 3215,
+      "hex": "U+0C8F",
+      "char": "ಏ",
+      "name": "KANNADA LETTER EE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C8F"
+    },
+    {
+      "id": "u0C90",
+      "codepoint": 3216,
+      "hex": "U+0C90",
+      "char": "ಐ",
+      "name": "KANNADA LETTER AI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C90"
+    },
+    {
+      "id": "u0C92",
+      "codepoint": 3218,
+      "hex": "U+0C92",
+      "char": "ಒ",
+      "name": "KANNADA LETTER O",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C92"
+    },
+    {
+      "id": "u0C93",
+      "codepoint": 3219,
+      "hex": "U+0C93",
+      "char": "ಓ",
+      "name": "KANNADA LETTER OO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C93"
+    },
+    {
+      "id": "u0C94",
+      "codepoint": 3220,
+      "hex": "U+0C94",
+      "char": "ಔ",
+      "name": "KANNADA LETTER AU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C94"
+    },
+    {
+      "id": "u0C95",
+      "codepoint": 3221,
+      "hex": "U+0C95",
+      "char": "ಕ",
+      "name": "KANNADA LETTER KA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C95"
+    },
+    {
+      "id": "u0C96",
+      "codepoint": 3222,
+      "hex": "U+0C96",
+      "char": "ಖ",
+      "name": "KANNADA LETTER KHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C96"
+    },
+    {
+      "id": "u0C97",
+      "codepoint": 3223,
+      "hex": "U+0C97",
+      "char": "ಗ",
+      "name": "KANNADA LETTER GA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C97"
+    },
+    {
+      "id": "u0C98",
+      "codepoint": 3224,
+      "hex": "U+0C98",
+      "char": "ಘ",
+      "name": "KANNADA LETTER GHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C98"
+    },
+    {
+      "id": "u0C99",
+      "codepoint": 3225,
+      "hex": "U+0C99",
+      "char": "ಙ",
+      "name": "KANNADA LETTER NGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C99"
+    },
+    {
+      "id": "u0C9A",
+      "codepoint": 3226,
+      "hex": "U+0C9A",
+      "char": "ಚ",
+      "name": "KANNADA LETTER CA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C9A"
+    },
+    {
+      "id": "u0C9B",
+      "codepoint": 3227,
+      "hex": "U+0C9B",
+      "char": "ಛ",
+      "name": "KANNADA LETTER CHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C9B"
+    },
+    {
+      "id": "u0C9C",
+      "codepoint": 3228,
+      "hex": "U+0C9C",
+      "char": "ಜ",
+      "name": "KANNADA LETTER JA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C9C"
+    },
+    {
+      "id": "u0C9D",
+      "codepoint": 3229,
+      "hex": "U+0C9D",
+      "char": "ಝ",
+      "name": "KANNADA LETTER JHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C9D"
+    },
+    {
+      "id": "u0C9E",
+      "codepoint": 3230,
+      "hex": "U+0C9E",
+      "char": "ಞ",
+      "name": "KANNADA LETTER NYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C9E"
+    },
+    {
+      "id": "u0C9F",
+      "codepoint": 3231,
+      "hex": "U+0C9F",
+      "char": "ಟ",
+      "name": "KANNADA LETTER TTA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0C9F"
+    },
+    {
+      "id": "u0CA0",
+      "codepoint": 3232,
+      "hex": "U+0CA0",
+      "char": "ಠ",
+      "name": "KANNADA LETTER TTHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA0"
+    },
+    {
+      "id": "u0CA1",
+      "codepoint": 3233,
+      "hex": "U+0CA1",
+      "char": "ಡ",
+      "name": "KANNADA LETTER DDA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA1"
+    },
+    {
+      "id": "u0CA2",
+      "codepoint": 3234,
+      "hex": "U+0CA2",
+      "char": "ಢ",
+      "name": "KANNADA LETTER DDHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA2"
+    },
+    {
+      "id": "u0CA3",
+      "codepoint": 3235,
+      "hex": "U+0CA3",
+      "char": "ಣ",
+      "name": "KANNADA LETTER NNA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA3"
+    },
+    {
+      "id": "u0CA4",
+      "codepoint": 3236,
+      "hex": "U+0CA4",
+      "char": "ತ",
+      "name": "KANNADA LETTER TA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA4"
+    },
+    {
+      "id": "u0CA5",
+      "codepoint": 3237,
+      "hex": "U+0CA5",
+      "char": "ಥ",
+      "name": "KANNADA LETTER THA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA5"
+    },
+    {
+      "id": "u0CA6",
+      "codepoint": 3238,
+      "hex": "U+0CA6",
+      "char": "ದ",
+      "name": "KANNADA LETTER DA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA6"
+    },
+    {
+      "id": "u0CA7",
+      "codepoint": 3239,
+      "hex": "U+0CA7",
+      "char": "ಧ",
+      "name": "KANNADA LETTER DHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA7"
+    },
+    {
+      "id": "u0CA8",
+      "codepoint": 3240,
+      "hex": "U+0CA8",
+      "char": "ನ",
+      "name": "KANNADA LETTER NA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CA8"
+    },
+    {
+      "id": "u0CAA",
+      "codepoint": 3242,
+      "hex": "U+0CAA",
+      "char": "ಪ",
+      "name": "KANNADA LETTER PA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CAA"
+    },
+    {
+      "id": "u0CAB",
+      "codepoint": 3243,
+      "hex": "U+0CAB",
+      "char": "ಫ",
+      "name": "KANNADA LETTER PHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CAB"
+    },
+    {
+      "id": "u0CAC",
+      "codepoint": 3244,
+      "hex": "U+0CAC",
+      "char": "ಬ",
+      "name": "KANNADA LETTER BA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CAC"
+    },
+    {
+      "id": "u0CAD",
+      "codepoint": 3245,
+      "hex": "U+0CAD",
+      "char": "ಭ",
+      "name": "KANNADA LETTER BHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CAD"
+    },
+    {
+      "id": "u0CAE",
+      "codepoint": 3246,
+      "hex": "U+0CAE",
+      "char": "ಮ",
+      "name": "KANNADA LETTER MA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CAE"
+    },
+    {
+      "id": "u0CAF",
+      "codepoint": 3247,
+      "hex": "U+0CAF",
+      "char": "ಯ",
+      "name": "KANNADA LETTER YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CAF"
+    },
+    {
+      "id": "u0CB0",
+      "codepoint": 3248,
+      "hex": "U+0CB0",
+      "char": "ರ",
+      "name": "KANNADA LETTER RA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB0"
+    },
+    {
+      "id": "u0CB1",
+      "codepoint": 3249,
+      "hex": "U+0CB1",
+      "char": "ಱ",
+      "name": "KANNADA LETTER RRA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB1"
+    },
+    {
+      "id": "u0CB2",
+      "codepoint": 3250,
+      "hex": "U+0CB2",
+      "char": "ಲ",
+      "name": "KANNADA LETTER LA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB2"
+    },
+    {
+      "id": "u0CB3",
+      "codepoint": 3251,
+      "hex": "U+0CB3",
+      "char": "ಳ",
+      "name": "KANNADA LETTER LLA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB3"
+    },
+    {
+      "id": "u0CB5",
+      "codepoint": 3253,
+      "hex": "U+0CB5",
+      "char": "ವ",
+      "name": "KANNADA LETTER VA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB5"
+    },
+    {
+      "id": "u0CB6",
+      "codepoint": 3254,
+      "hex": "U+0CB6",
+      "char": "ಶ",
+      "name": "KANNADA LETTER SHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB6"
+    },
+    {
+      "id": "u0CB7",
+      "codepoint": 3255,
+      "hex": "U+0CB7",
+      "char": "ಷ",
+      "name": "KANNADA LETTER SSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB7"
+    },
+    {
+      "id": "u0CB8",
+      "codepoint": 3256,
+      "hex": "U+0CB8",
+      "char": "ಸ",
+      "name": "KANNADA LETTER SA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB8"
+    },
+    {
+      "id": "u0CB9",
+      "codepoint": 3257,
+      "hex": "U+0CB9",
+      "char": "ಹ",
+      "name": "KANNADA LETTER HA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CB9"
+    },
+    {
+      "id": "u0CBC",
+      "codepoint": 3260,
+      "hex": "U+0CBC",
+      "char": "಼",
+      "name": "KANNADA SIGN NUKTA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CBC"
+    },
+    {
+      "id": "u0CBD",
+      "codepoint": 3261,
+      "hex": "U+0CBD",
+      "char": "ಽ",
+      "name": "KANNADA SIGN AVAGRAHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CBD"
+    },
+    {
+      "id": "u0CBE",
+      "codepoint": 3262,
+      "hex": "U+0CBE",
+      "char": "ಾ",
+      "name": "KANNADA VOWEL SIGN AA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CBE"
+    },
+    {
+      "id": "u0CBF",
+      "codepoint": 3263,
+      "hex": "U+0CBF",
+      "char": "ಿ",
+      "name": "KANNADA VOWEL SIGN I",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CBF"
+    },
+    {
+      "id": "u0CC0",
+      "codepoint": 3264,
+      "hex": "U+0CC0",
+      "char": "ೀ",
+      "name": "KANNADA VOWEL SIGN II",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC0"
+    },
+    {
+      "id": "u0CC1",
+      "codepoint": 3265,
+      "hex": "U+0CC1",
+      "char": "ು",
+      "name": "KANNADA VOWEL SIGN U",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC1"
+    },
+    {
+      "id": "u0CC2",
+      "codepoint": 3266,
+      "hex": "U+0CC2",
+      "char": "ೂ",
+      "name": "KANNADA VOWEL SIGN UU",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC2"
+    },
+    {
+      "id": "u0CC3",
+      "codepoint": 3267,
+      "hex": "U+0CC3",
+      "char": "ೃ",
+      "name": "KANNADA VOWEL SIGN VOCALIC R",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC3"
+    },
+    {
+      "id": "u0CC4",
+      "codepoint": 3268,
+      "hex": "U+0CC4",
+      "char": "ೄ",
+      "name": "KANNADA VOWEL SIGN VOCALIC RR",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC4"
+    },
+    {
+      "id": "u0CC6",
+      "codepoint": 3270,
+      "hex": "U+0CC6",
+      "char": "ೆ",
+      "name": "KANNADA VOWEL SIGN E",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC6"
+    },
+    {
+      "id": "u0CC7",
+      "codepoint": 3271,
+      "hex": "U+0CC7",
+      "char": "ೇ",
+      "name": "KANNADA VOWEL SIGN EE",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC7"
+    },
+    {
+      "id": "u0CC8",
+      "codepoint": 3272,
+      "hex": "U+0CC8",
+      "char": "ೈ",
+      "name": "KANNADA VOWEL SIGN AI",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CC8"
+    },
+    {
+      "id": "u0CCA",
+      "codepoint": 3274,
+      "hex": "U+0CCA",
+      "char": "ೊ",
+      "name": "KANNADA VOWEL SIGN O",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CCA"
+    },
+    {
+      "id": "u0CCB",
+      "codepoint": 3275,
+      "hex": "U+0CCB",
+      "char": "ೋ",
+      "name": "KANNADA VOWEL SIGN OO",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CCB"
+    },
+    {
+      "id": "u0CCC",
+      "codepoint": 3276,
+      "hex": "U+0CCC",
+      "char": "ೌ",
+      "name": "KANNADA VOWEL SIGN AU",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CCC"
+    },
+    {
+      "id": "u0CCD",
+      "codepoint": 3277,
+      "hex": "U+0CCD",
+      "char": "್",
+      "name": "KANNADA SIGN VIRAMA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CCD"
+    },
+    {
+      "id": "u0CD5",
+      "codepoint": 3285,
+      "hex": "U+0CD5",
+      "char": "ೕ",
+      "name": "KANNADA LENGTH MARK",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CD5"
+    },
+    {
+      "id": "u0CD6",
+      "codepoint": 3286,
+      "hex": "U+0CD6",
+      "char": "ೖ",
+      "name": "KANNADA AI LENGTH MARK",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CD6"
+    },
+    {
+      "id": "u0CDD",
+      "codepoint": 3293,
+      "hex": "U+0CDD",
+      "char": "ೝ",
+      "name": "KANNADA LETTER NAKAARA POLLU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CDD"
+    },
+    {
+      "id": "u0CDE",
+      "codepoint": 3294,
+      "hex": "U+0CDE",
+      "char": "ೞ",
+      "name": "KANNADA LETTER FA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CDE"
+    },
+    {
+      "id": "u0CE0",
+      "codepoint": 3296,
+      "hex": "U+0CE0",
+      "char": "ೠ",
+      "name": "KANNADA LETTER VOCALIC RR",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE0"
+    },
+    {
+      "id": "u0CE1",
+      "codepoint": 3297,
+      "hex": "U+0CE1",
+      "char": "ೡ",
+      "name": "KANNADA LETTER VOCALIC LL",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE1"
+    },
+    {
+      "id": "u0CE2",
+      "codepoint": 3298,
+      "hex": "U+0CE2",
+      "char": "ೢ",
+      "name": "KANNADA VOWEL SIGN VOCALIC L",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE2"
+    },
+    {
+      "id": "u0CE3",
+      "codepoint": 3299,
+      "hex": "U+0CE3",
+      "char": "ೣ",
+      "name": "KANNADA VOWEL SIGN VOCALIC LL",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE3"
+    },
+    {
+      "id": "u0CE6",
+      "codepoint": 3302,
+      "hex": "U+0CE6",
+      "char": "೦",
+      "name": "KANNADA DIGIT ZERO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE6"
+    },
+    {
+      "id": "u0CE7",
+      "codepoint": 3303,
+      "hex": "U+0CE7",
+      "char": "೧",
+      "name": "KANNADA DIGIT ONE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE7"
+    },
+    {
+      "id": "u0CE8",
+      "codepoint": 3304,
+      "hex": "U+0CE8",
+      "char": "೨",
+      "name": "KANNADA DIGIT TWO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE8"
+    },
+    {
+      "id": "u0CE9",
+      "codepoint": 3305,
+      "hex": "U+0CE9",
+      "char": "೩",
+      "name": "KANNADA DIGIT THREE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CE9"
+    },
+    {
+      "id": "u0CEA",
+      "codepoint": 3306,
+      "hex": "U+0CEA",
+      "char": "೪",
+      "name": "KANNADA DIGIT FOUR",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CEA"
+    },
+    {
+      "id": "u0CEB",
+      "codepoint": 3307,
+      "hex": "U+0CEB",
+      "char": "೫",
+      "name": "KANNADA DIGIT FIVE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CEB"
+    },
+    {
+      "id": "u0CEC",
+      "codepoint": 3308,
+      "hex": "U+0CEC",
+      "char": "೬",
+      "name": "KANNADA DIGIT SIX",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CEC"
+    },
+    {
+      "id": "u0CED",
+      "codepoint": 3309,
+      "hex": "U+0CED",
+      "char": "೭",
+      "name": "KANNADA DIGIT SEVEN",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CED"
+    },
+    {
+      "id": "u0CEE",
+      "codepoint": 3310,
+      "hex": "U+0CEE",
+      "char": "೮",
+      "name": "KANNADA DIGIT EIGHT",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CEE"
+    },
+    {
+      "id": "u0CEF",
+      "codepoint": 3311,
+      "hex": "U+0CEF",
+      "char": "೯",
+      "name": "KANNADA DIGIT NINE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CEF"
+    },
+    {
+      "id": "u0CF1",
+      "codepoint": 3313,
+      "hex": "U+0CF1",
+      "char": "ೱ",
+      "name": "KANNADA SIGN JIHVAMULIYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CF1"
+    },
+    {
+      "id": "u0CF2",
+      "codepoint": 3314,
+      "hex": "U+0CF2",
+      "char": "ೲ",
+      "name": "KANNADA SIGN UPADHMANIYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-kannada/u0CF2"
+    }
+  ]
+}

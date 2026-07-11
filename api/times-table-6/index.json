@@ -1,0 +1,182 @@
+{
+  "api": "times-table-6",
+  "title": "6 Times Table",
+  "description": "The multiplication table for 6: 6x1 through 6x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-6/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-6/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 6,
+      "multiplicand": 1,
+      "product": 6,
+      "expression": "6 x 1 = 6",
+      "url": "https://gratisapi.com/api/times-table-6/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 6,
+      "multiplicand": 2,
+      "product": 12,
+      "expression": "6 x 2 = 12",
+      "url": "https://gratisapi.com/api/times-table-6/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 6,
+      "multiplicand": 3,
+      "product": 18,
+      "expression": "6 x 3 = 18",
+      "url": "https://gratisapi.com/api/times-table-6/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 6,
+      "multiplicand": 4,
+      "product": 24,
+      "expression": "6 x 4 = 24",
+      "url": "https://gratisapi.com/api/times-table-6/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 6,
+      "multiplicand": 5,
+      "product": 30,
+      "expression": "6 x 5 = 30",
+      "url": "https://gratisapi.com/api/times-table-6/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 6,
+      "multiplicand": 6,
+      "product": 36,
+      "expression": "6 x 6 = 36",
+      "url": "https://gratisapi.com/api/times-table-6/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 6,
+      "multiplicand": 7,
+      "product": 42,
+      "expression": "6 x 7 = 42",
+      "url": "https://gratisapi.com/api/times-table-6/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 6,
+      "multiplicand": 8,
+      "product": 48,
+      "expression": "6 x 8 = 48",
+      "url": "https://gratisapi.com/api/times-table-6/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 6,
+      "multiplicand": 9,
+      "product": 54,
+      "expression": "6 x 9 = 54",
+      "url": "https://gratisapi.com/api/times-table-6/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 6,
+      "multiplicand": 10,
+      "product": 60,
+      "expression": "6 x 10 = 60",
+      "url": "https://gratisapi.com/api/times-table-6/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 6,
+      "multiplicand": 11,
+      "product": 66,
+      "expression": "6 x 11 = 66",
+      "url": "https://gratisapi.com/api/times-table-6/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 6,
+      "multiplicand": 12,
+      "product": 72,
+      "expression": "6 x 12 = 72",
+      "url": "https://gratisapi.com/api/times-table-6/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 6,
+      "multiplicand": 13,
+      "product": 78,
+      "expression": "6 x 13 = 78",
+      "url": "https://gratisapi.com/api/times-table-6/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 6,
+      "multiplicand": 14,
+      "product": 84,
+      "expression": "6 x 14 = 84",
+      "url": "https://gratisapi.com/api/times-table-6/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 6,
+      "multiplicand": 15,
+      "product": 90,
+      "expression": "6 x 15 = 90",
+      "url": "https://gratisapi.com/api/times-table-6/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 6,
+      "multiplicand": 16,
+      "product": 96,
+      "expression": "6 x 16 = 96",
+      "url": "https://gratisapi.com/api/times-table-6/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 6,
+      "multiplicand": 17,
+      "product": 102,
+      "expression": "6 x 17 = 102",
+      "url": "https://gratisapi.com/api/times-table-6/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 6,
+      "multiplicand": 18,
+      "product": 108,
+      "expression": "6 x 18 = 108",
+      "url": "https://gratisapi.com/api/times-table-6/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 6,
+      "multiplicand": 19,
+      "product": 114,
+      "expression": "6 x 19 = 114",
+      "url": "https://gratisapi.com/api/times-table-6/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 6,
+      "multiplicand": 20,
+      "product": 120,
+      "expression": "6 x 20 = 120",
+      "url": "https://gratisapi.com/api/times-table-6/20"
+    }
+  ]
+}

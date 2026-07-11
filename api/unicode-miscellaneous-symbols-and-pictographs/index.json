@@ -1,0 +1,2327 @@
+{
+  "api": "unicode-miscellaneous-symbols-and-pictographs",
+  "title": "Miscellaneous Symbols and Pictographs",
+  "description": "The Miscellaneous Symbols and Pictographs Unicode block (U+1F300..U+1F5FF) — first 256 of 768 named characters.",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 256,
+  "self": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u1F300",
+      "codepoint": 127744,
+      "hex": "U+1F300",
+      "char": "🌀",
+      "name": "CYCLONE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F300"
+    },
+    {
+      "id": "u1F301",
+      "codepoint": 127745,
+      "hex": "U+1F301",
+      "char": "🌁",
+      "name": "FOGGY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F301"
+    },
+    {
+      "id": "u1F302",
+      "codepoint": 127746,
+      "hex": "U+1F302",
+      "char": "🌂",
+      "name": "CLOSED UMBRELLA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F302"
+    },
+    {
+      "id": "u1F303",
+      "codepoint": 127747,
+      "hex": "U+1F303",
+      "char": "🌃",
+      "name": "NIGHT WITH STARS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F303"
+    },
+    {
+      "id": "u1F304",
+      "codepoint": 127748,
+      "hex": "U+1F304",
+      "char": "🌄",
+      "name": "SUNRISE OVER MOUNTAINS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F304"
+    },
+    {
+      "id": "u1F305",
+      "codepoint": 127749,
+      "hex": "U+1F305",
+      "char": "🌅",
+      "name": "SUNRISE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F305"
+    },
+    {
+      "id": "u1F306",
+      "codepoint": 127750,
+      "hex": "U+1F306",
+      "char": "🌆",
+      "name": "CITYSCAPE AT DUSK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F306"
+    },
+    {
+      "id": "u1F307",
+      "codepoint": 127751,
+      "hex": "U+1F307",
+      "char": "🌇",
+      "name": "SUNSET OVER BUILDINGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F307"
+    },
+    {
+      "id": "u1F308",
+      "codepoint": 127752,
+      "hex": "U+1F308",
+      "char": "🌈",
+      "name": "RAINBOW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F308"
+    },
+    {
+      "id": "u1F309",
+      "codepoint": 127753,
+      "hex": "U+1F309",
+      "char": "🌉",
+      "name": "BRIDGE AT NIGHT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F309"
+    },
+    {
+      "id": "u1F30A",
+      "codepoint": 127754,
+      "hex": "U+1F30A",
+      "char": "🌊",
+      "name": "WATER WAVE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F30A"
+    },
+    {
+      "id": "u1F30B",
+      "codepoint": 127755,
+      "hex": "U+1F30B",
+      "char": "🌋",
+      "name": "VOLCANO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F30B"
+    },
+    {
+      "id": "u1F30C",
+      "codepoint": 127756,
+      "hex": "U+1F30C",
+      "char": "🌌",
+      "name": "MILKY WAY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F30C"
+    },
+    {
+      "id": "u1F30D",
+      "codepoint": 127757,
+      "hex": "U+1F30D",
+      "char": "🌍",
+      "name": "EARTH GLOBE EUROPE-AFRICA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F30D"
+    },
+    {
+      "id": "u1F30E",
+      "codepoint": 127758,
+      "hex": "U+1F30E",
+      "char": "🌎",
+      "name": "EARTH GLOBE AMERICAS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F30E"
+    },
+    {
+      "id": "u1F30F",
+      "codepoint": 127759,
+      "hex": "U+1F30F",
+      "char": "🌏",
+      "name": "EARTH GLOBE ASIA-AUSTRALIA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F30F"
+    },
+    {
+      "id": "u1F310",
+      "codepoint": 127760,
+      "hex": "U+1F310",
+      "char": "🌐",
+      "name": "GLOBE WITH MERIDIANS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F310"
+    },
+    {
+      "id": "u1F311",
+      "codepoint": 127761,
+      "hex": "U+1F311",
+      "char": "🌑",
+      "name": "NEW MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F311"
+    },
+    {
+      "id": "u1F312",
+      "codepoint": 127762,
+      "hex": "U+1F312",
+      "char": "🌒",
+      "name": "WAXING CRESCENT MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F312"
+    },
+    {
+      "id": "u1F313",
+      "codepoint": 127763,
+      "hex": "U+1F313",
+      "char": "🌓",
+      "name": "FIRST QUARTER MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F313"
+    },
+    {
+      "id": "u1F314",
+      "codepoint": 127764,
+      "hex": "U+1F314",
+      "char": "🌔",
+      "name": "WAXING GIBBOUS MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F314"
+    },
+    {
+      "id": "u1F315",
+      "codepoint": 127765,
+      "hex": "U+1F315",
+      "char": "🌕",
+      "name": "FULL MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F315"
+    },
+    {
+      "id": "u1F316",
+      "codepoint": 127766,
+      "hex": "U+1F316",
+      "char": "🌖",
+      "name": "WANING GIBBOUS MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F316"
+    },
+    {
+      "id": "u1F317",
+      "codepoint": 127767,
+      "hex": "U+1F317",
+      "char": "🌗",
+      "name": "LAST QUARTER MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F317"
+    },
+    {
+      "id": "u1F318",
+      "codepoint": 127768,
+      "hex": "U+1F318",
+      "char": "🌘",
+      "name": "WANING CRESCENT MOON SYMBOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F318"
+    },
+    {
+      "id": "u1F319",
+      "codepoint": 127769,
+      "hex": "U+1F319",
+      "char": "🌙",
+      "name": "CRESCENT MOON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F319"
+    },
+    {
+      "id": "u1F31A",
+      "codepoint": 127770,
+      "hex": "U+1F31A",
+      "char": "🌚",
+      "name": "NEW MOON WITH FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F31A"
+    },
+    {
+      "id": "u1F31B",
+      "codepoint": 127771,
+      "hex": "U+1F31B",
+      "char": "🌛",
+      "name": "FIRST QUARTER MOON WITH FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F31B"
+    },
+    {
+      "id": "u1F31C",
+      "codepoint": 127772,
+      "hex": "U+1F31C",
+      "char": "🌜",
+      "name": "LAST QUARTER MOON WITH FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F31C"
+    },
+    {
+      "id": "u1F31D",
+      "codepoint": 127773,
+      "hex": "U+1F31D",
+      "char": "🌝",
+      "name": "FULL MOON WITH FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F31D"
+    },
+    {
+      "id": "u1F31E",
+      "codepoint": 127774,
+      "hex": "U+1F31E",
+      "char": "🌞",
+      "name": "SUN WITH FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F31E"
+    },
+    {
+      "id": "u1F31F",
+      "codepoint": 127775,
+      "hex": "U+1F31F",
+      "char": "🌟",
+      "name": "GLOWING STAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F31F"
+    },
+    {
+      "id": "u1F320",
+      "codepoint": 127776,
+      "hex": "U+1F320",
+      "char": "🌠",
+      "name": "SHOOTING STAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F320"
+    },
+    {
+      "id": "u1F321",
+      "codepoint": 127777,
+      "hex": "U+1F321",
+      "char": "🌡",
+      "name": "THERMOMETER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F321"
+    },
+    {
+      "id": "u1F322",
+      "codepoint": 127778,
+      "hex": "U+1F322",
+      "char": "🌢",
+      "name": "BLACK DROPLET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F322"
+    },
+    {
+      "id": "u1F323",
+      "codepoint": 127779,
+      "hex": "U+1F323",
+      "char": "🌣",
+      "name": "WHITE SUN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F323"
+    },
+    {
+      "id": "u1F324",
+      "codepoint": 127780,
+      "hex": "U+1F324",
+      "char": "🌤",
+      "name": "WHITE SUN WITH SMALL CLOUD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F324"
+    },
+    {
+      "id": "u1F325",
+      "codepoint": 127781,
+      "hex": "U+1F325",
+      "char": "🌥",
+      "name": "WHITE SUN BEHIND CLOUD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F325"
+    },
+    {
+      "id": "u1F326",
+      "codepoint": 127782,
+      "hex": "U+1F326",
+      "char": "🌦",
+      "name": "WHITE SUN BEHIND CLOUD WITH RAIN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F326"
+    },
+    {
+      "id": "u1F327",
+      "codepoint": 127783,
+      "hex": "U+1F327",
+      "char": "🌧",
+      "name": "CLOUD WITH RAIN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F327"
+    },
+    {
+      "id": "u1F328",
+      "codepoint": 127784,
+      "hex": "U+1F328",
+      "char": "🌨",
+      "name": "CLOUD WITH SNOW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F328"
+    },
+    {
+      "id": "u1F329",
+      "codepoint": 127785,
+      "hex": "U+1F329",
+      "char": "🌩",
+      "name": "CLOUD WITH LIGHTNING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F329"
+    },
+    {
+      "id": "u1F32A",
+      "codepoint": 127786,
+      "hex": "U+1F32A",
+      "char": "🌪",
+      "name": "CLOUD WITH TORNADO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F32A"
+    },
+    {
+      "id": "u1F32B",
+      "codepoint": 127787,
+      "hex": "U+1F32B",
+      "char": "🌫",
+      "name": "FOG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F32B"
+    },
+    {
+      "id": "u1F32C",
+      "codepoint": 127788,
+      "hex": "U+1F32C",
+      "char": "🌬",
+      "name": "WIND BLOWING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F32C"
+    },
+    {
+      "id": "u1F32D",
+      "codepoint": 127789,
+      "hex": "U+1F32D",
+      "char": "🌭",
+      "name": "HOT DOG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F32D"
+    },
+    {
+      "id": "u1F32E",
+      "codepoint": 127790,
+      "hex": "U+1F32E",
+      "char": "🌮",
+      "name": "TACO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F32E"
+    },
+    {
+      "id": "u1F32F",
+      "codepoint": 127791,
+      "hex": "U+1F32F",
+      "char": "🌯",
+      "name": "BURRITO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F32F"
+    },
+    {
+      "id": "u1F330",
+      "codepoint": 127792,
+      "hex": "U+1F330",
+      "char": "🌰",
+      "name": "CHESTNUT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F330"
+    },
+    {
+      "id": "u1F331",
+      "codepoint": 127793,
+      "hex": "U+1F331",
+      "char": "🌱",
+      "name": "SEEDLING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F331"
+    },
+    {
+      "id": "u1F332",
+      "codepoint": 127794,
+      "hex": "U+1F332",
+      "char": "🌲",
+      "name": "EVERGREEN TREE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F332"
+    },
+    {
+      "id": "u1F333",
+      "codepoint": 127795,
+      "hex": "U+1F333",
+      "char": "🌳",
+      "name": "DECIDUOUS TREE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F333"
+    },
+    {
+      "id": "u1F334",
+      "codepoint": 127796,
+      "hex": "U+1F334",
+      "char": "🌴",
+      "name": "PALM TREE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F334"
+    },
+    {
+      "id": "u1F335",
+      "codepoint": 127797,
+      "hex": "U+1F335",
+      "char": "🌵",
+      "name": "CACTUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F335"
+    },
+    {
+      "id": "u1F336",
+      "codepoint": 127798,
+      "hex": "U+1F336",
+      "char": "🌶",
+      "name": "HOT PEPPER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F336"
+    },
+    {
+      "id": "u1F337",
+      "codepoint": 127799,
+      "hex": "U+1F337",
+      "char": "🌷",
+      "name": "TULIP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F337"
+    },
+    {
+      "id": "u1F338",
+      "codepoint": 127800,
+      "hex": "U+1F338",
+      "char": "🌸",
+      "name": "CHERRY BLOSSOM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F338"
+    },
+    {
+      "id": "u1F339",
+      "codepoint": 127801,
+      "hex": "U+1F339",
+      "char": "🌹",
+      "name": "ROSE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F339"
+    },
+    {
+      "id": "u1F33A",
+      "codepoint": 127802,
+      "hex": "U+1F33A",
+      "char": "🌺",
+      "name": "HIBISCUS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F33A"
+    },
+    {
+      "id": "u1F33B",
+      "codepoint": 127803,
+      "hex": "U+1F33B",
+      "char": "🌻",
+      "name": "SUNFLOWER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F33B"
+    },
+    {
+      "id": "u1F33C",
+      "codepoint": 127804,
+      "hex": "U+1F33C",
+      "char": "🌼",
+      "name": "BLOSSOM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F33C"
+    },
+    {
+      "id": "u1F33D",
+      "codepoint": 127805,
+      "hex": "U+1F33D",
+      "char": "🌽",
+      "name": "EAR OF MAIZE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F33D"
+    },
+    {
+      "id": "u1F33E",
+      "codepoint": 127806,
+      "hex": "U+1F33E",
+      "char": "🌾",
+      "name": "EAR OF RICE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F33E"
+    },
+    {
+      "id": "u1F33F",
+      "codepoint": 127807,
+      "hex": "U+1F33F",
+      "char": "🌿",
+      "name": "HERB",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F33F"
+    },
+    {
+      "id": "u1F340",
+      "codepoint": 127808,
+      "hex": "U+1F340",
+      "char": "🍀",
+      "name": "FOUR LEAF CLOVER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F340"
+    },
+    {
+      "id": "u1F341",
+      "codepoint": 127809,
+      "hex": "U+1F341",
+      "char": "🍁",
+      "name": "MAPLE LEAF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F341"
+    },
+    {
+      "id": "u1F342",
+      "codepoint": 127810,
+      "hex": "U+1F342",
+      "char": "🍂",
+      "name": "FALLEN LEAF",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F342"
+    },
+    {
+      "id": "u1F343",
+      "codepoint": 127811,
+      "hex": "U+1F343",
+      "char": "🍃",
+      "name": "LEAF FLUTTERING IN WIND",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F343"
+    },
+    {
+      "id": "u1F344",
+      "codepoint": 127812,
+      "hex": "U+1F344",
+      "char": "🍄",
+      "name": "MUSHROOM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F344"
+    },
+    {
+      "id": "u1F345",
+      "codepoint": 127813,
+      "hex": "U+1F345",
+      "char": "🍅",
+      "name": "TOMATO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F345"
+    },
+    {
+      "id": "u1F346",
+      "codepoint": 127814,
+      "hex": "U+1F346",
+      "char": "🍆",
+      "name": "AUBERGINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F346"
+    },
+    {
+      "id": "u1F347",
+      "codepoint": 127815,
+      "hex": "U+1F347",
+      "char": "🍇",
+      "name": "GRAPES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F347"
+    },
+    {
+      "id": "u1F348",
+      "codepoint": 127816,
+      "hex": "U+1F348",
+      "char": "🍈",
+      "name": "MELON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F348"
+    },
+    {
+      "id": "u1F349",
+      "codepoint": 127817,
+      "hex": "U+1F349",
+      "char": "🍉",
+      "name": "WATERMELON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F349"
+    },
+    {
+      "id": "u1F34A",
+      "codepoint": 127818,
+      "hex": "U+1F34A",
+      "char": "🍊",
+      "name": "TANGERINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F34A"
+    },
+    {
+      "id": "u1F34B",
+      "codepoint": 127819,
+      "hex": "U+1F34B",
+      "char": "🍋",
+      "name": "LEMON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F34B"
+    },
+    {
+      "id": "u1F34C",
+      "codepoint": 127820,
+      "hex": "U+1F34C",
+      "char": "🍌",
+      "name": "BANANA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F34C"
+    },
+    {
+      "id": "u1F34D",
+      "codepoint": 127821,
+      "hex": "U+1F34D",
+      "char": "🍍",
+      "name": "PINEAPPLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F34D"
+    },
+    {
+      "id": "u1F34E",
+      "codepoint": 127822,
+      "hex": "U+1F34E",
+      "char": "🍎",
+      "name": "RED APPLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F34E"
+    },
+    {
+      "id": "u1F34F",
+      "codepoint": 127823,
+      "hex": "U+1F34F",
+      "char": "🍏",
+      "name": "GREEN APPLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F34F"
+    },
+    {
+      "id": "u1F350",
+      "codepoint": 127824,
+      "hex": "U+1F350",
+      "char": "🍐",
+      "name": "PEAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F350"
+    },
+    {
+      "id": "u1F351",
+      "codepoint": 127825,
+      "hex": "U+1F351",
+      "char": "🍑",
+      "name": "PEACH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F351"
+    },
+    {
+      "id": "u1F352",
+      "codepoint": 127826,
+      "hex": "U+1F352",
+      "char": "🍒",
+      "name": "CHERRIES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F352"
+    },
+    {
+      "id": "u1F353",
+      "codepoint": 127827,
+      "hex": "U+1F353",
+      "char": "🍓",
+      "name": "STRAWBERRY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F353"
+    },
+    {
+      "id": "u1F354",
+      "codepoint": 127828,
+      "hex": "U+1F354",
+      "char": "🍔",
+      "name": "HAMBURGER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F354"
+    },
+    {
+      "id": "u1F355",
+      "codepoint": 127829,
+      "hex": "U+1F355",
+      "char": "🍕",
+      "name": "SLICE OF PIZZA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F355"
+    },
+    {
+      "id": "u1F356",
+      "codepoint": 127830,
+      "hex": "U+1F356",
+      "char": "🍖",
+      "name": "MEAT ON BONE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F356"
+    },
+    {
+      "id": "u1F357",
+      "codepoint": 127831,
+      "hex": "U+1F357",
+      "char": "🍗",
+      "name": "POULTRY LEG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F357"
+    },
+    {
+      "id": "u1F358",
+      "codepoint": 127832,
+      "hex": "U+1F358",
+      "char": "🍘",
+      "name": "RICE CRACKER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F358"
+    },
+    {
+      "id": "u1F359",
+      "codepoint": 127833,
+      "hex": "U+1F359",
+      "char": "🍙",
+      "name": "RICE BALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F359"
+    },
+    {
+      "id": "u1F35A",
+      "codepoint": 127834,
+      "hex": "U+1F35A",
+      "char": "🍚",
+      "name": "COOKED RICE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F35A"
+    },
+    {
+      "id": "u1F35B",
+      "codepoint": 127835,
+      "hex": "U+1F35B",
+      "char": "🍛",
+      "name": "CURRY AND RICE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F35B"
+    },
+    {
+      "id": "u1F35C",
+      "codepoint": 127836,
+      "hex": "U+1F35C",
+      "char": "🍜",
+      "name": "STEAMING BOWL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F35C"
+    },
+    {
+      "id": "u1F35D",
+      "codepoint": 127837,
+      "hex": "U+1F35D",
+      "char": "🍝",
+      "name": "SPAGHETTI",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F35D"
+    },
+    {
+      "id": "u1F35E",
+      "codepoint": 127838,
+      "hex": "U+1F35E",
+      "char": "🍞",
+      "name": "BREAD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F35E"
+    },
+    {
+      "id": "u1F35F",
+      "codepoint": 127839,
+      "hex": "U+1F35F",
+      "char": "🍟",
+      "name": "FRENCH FRIES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F35F"
+    },
+    {
+      "id": "u1F360",
+      "codepoint": 127840,
+      "hex": "U+1F360",
+      "char": "🍠",
+      "name": "ROASTED SWEET POTATO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F360"
+    },
+    {
+      "id": "u1F361",
+      "codepoint": 127841,
+      "hex": "U+1F361",
+      "char": "🍡",
+      "name": "DANGO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F361"
+    },
+    {
+      "id": "u1F362",
+      "codepoint": 127842,
+      "hex": "U+1F362",
+      "char": "🍢",
+      "name": "ODEN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F362"
+    },
+    {
+      "id": "u1F363",
+      "codepoint": 127843,
+      "hex": "U+1F363",
+      "char": "🍣",
+      "name": "SUSHI",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F363"
+    },
+    {
+      "id": "u1F364",
+      "codepoint": 127844,
+      "hex": "U+1F364",
+      "char": "🍤",
+      "name": "FRIED SHRIMP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F364"
+    },
+    {
+      "id": "u1F365",
+      "codepoint": 127845,
+      "hex": "U+1F365",
+      "char": "🍥",
+      "name": "FISH CAKE WITH SWIRL DESIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F365"
+    },
+    {
+      "id": "u1F366",
+      "codepoint": 127846,
+      "hex": "U+1F366",
+      "char": "🍦",
+      "name": "SOFT ICE CREAM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F366"
+    },
+    {
+      "id": "u1F367",
+      "codepoint": 127847,
+      "hex": "U+1F367",
+      "char": "🍧",
+      "name": "SHAVED ICE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F367"
+    },
+    {
+      "id": "u1F368",
+      "codepoint": 127848,
+      "hex": "U+1F368",
+      "char": "🍨",
+      "name": "ICE CREAM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F368"
+    },
+    {
+      "id": "u1F369",
+      "codepoint": 127849,
+      "hex": "U+1F369",
+      "char": "🍩",
+      "name": "DOUGHNUT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F369"
+    },
+    {
+      "id": "u1F36A",
+      "codepoint": 127850,
+      "hex": "U+1F36A",
+      "char": "🍪",
+      "name": "COOKIE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F36A"
+    },
+    {
+      "id": "u1F36B",
+      "codepoint": 127851,
+      "hex": "U+1F36B",
+      "char": "🍫",
+      "name": "CHOCOLATE BAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F36B"
+    },
+    {
+      "id": "u1F36C",
+      "codepoint": 127852,
+      "hex": "U+1F36C",
+      "char": "🍬",
+      "name": "CANDY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F36C"
+    },
+    {
+      "id": "u1F36D",
+      "codepoint": 127853,
+      "hex": "U+1F36D",
+      "char": "🍭",
+      "name": "LOLLIPOP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F36D"
+    },
+    {
+      "id": "u1F36E",
+      "codepoint": 127854,
+      "hex": "U+1F36E",
+      "char": "🍮",
+      "name": "CUSTARD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F36E"
+    },
+    {
+      "id": "u1F36F",
+      "codepoint": 127855,
+      "hex": "U+1F36F",
+      "char": "🍯",
+      "name": "HONEY POT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F36F"
+    },
+    {
+      "id": "u1F370",
+      "codepoint": 127856,
+      "hex": "U+1F370",
+      "char": "🍰",
+      "name": "SHORTCAKE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F370"
+    },
+    {
+      "id": "u1F371",
+      "codepoint": 127857,
+      "hex": "U+1F371",
+      "char": "🍱",
+      "name": "BENTO BOX",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F371"
+    },
+    {
+      "id": "u1F372",
+      "codepoint": 127858,
+      "hex": "U+1F372",
+      "char": "🍲",
+      "name": "POT OF FOOD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F372"
+    },
+    {
+      "id": "u1F373",
+      "codepoint": 127859,
+      "hex": "U+1F373",
+      "char": "🍳",
+      "name": "COOKING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F373"
+    },
+    {
+      "id": "u1F374",
+      "codepoint": 127860,
+      "hex": "U+1F374",
+      "char": "🍴",
+      "name": "FORK AND KNIFE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F374"
+    },
+    {
+      "id": "u1F375",
+      "codepoint": 127861,
+      "hex": "U+1F375",
+      "char": "🍵",
+      "name": "TEACUP WITHOUT HANDLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F375"
+    },
+    {
+      "id": "u1F376",
+      "codepoint": 127862,
+      "hex": "U+1F376",
+      "char": "🍶",
+      "name": "SAKE BOTTLE AND CUP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F376"
+    },
+    {
+      "id": "u1F377",
+      "codepoint": 127863,
+      "hex": "U+1F377",
+      "char": "🍷",
+      "name": "WINE GLASS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F377"
+    },
+    {
+      "id": "u1F378",
+      "codepoint": 127864,
+      "hex": "U+1F378",
+      "char": "🍸",
+      "name": "COCKTAIL GLASS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F378"
+    },
+    {
+      "id": "u1F379",
+      "codepoint": 127865,
+      "hex": "U+1F379",
+      "char": "🍹",
+      "name": "TROPICAL DRINK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F379"
+    },
+    {
+      "id": "u1F37A",
+      "codepoint": 127866,
+      "hex": "U+1F37A",
+      "char": "🍺",
+      "name": "BEER MUG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F37A"
+    },
+    {
+      "id": "u1F37B",
+      "codepoint": 127867,
+      "hex": "U+1F37B",
+      "char": "🍻",
+      "name": "CLINKING BEER MUGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F37B"
+    },
+    {
+      "id": "u1F37C",
+      "codepoint": 127868,
+      "hex": "U+1F37C",
+      "char": "🍼",
+      "name": "BABY BOTTLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F37C"
+    },
+    {
+      "id": "u1F37D",
+      "codepoint": 127869,
+      "hex": "U+1F37D",
+      "char": "🍽",
+      "name": "FORK AND KNIFE WITH PLATE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F37D"
+    },
+    {
+      "id": "u1F37E",
+      "codepoint": 127870,
+      "hex": "U+1F37E",
+      "char": "🍾",
+      "name": "BOTTLE WITH POPPING CORK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F37E"
+    },
+    {
+      "id": "u1F37F",
+      "codepoint": 127871,
+      "hex": "U+1F37F",
+      "char": "🍿",
+      "name": "POPCORN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F37F"
+    },
+    {
+      "id": "u1F380",
+      "codepoint": 127872,
+      "hex": "U+1F380",
+      "char": "🎀",
+      "name": "RIBBON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F380"
+    },
+    {
+      "id": "u1F381",
+      "codepoint": 127873,
+      "hex": "U+1F381",
+      "char": "🎁",
+      "name": "WRAPPED PRESENT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F381"
+    },
+    {
+      "id": "u1F382",
+      "codepoint": 127874,
+      "hex": "U+1F382",
+      "char": "🎂",
+      "name": "BIRTHDAY CAKE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F382"
+    },
+    {
+      "id": "u1F383",
+      "codepoint": 127875,
+      "hex": "U+1F383",
+      "char": "🎃",
+      "name": "JACK-O-LANTERN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F383"
+    },
+    {
+      "id": "u1F384",
+      "codepoint": 127876,
+      "hex": "U+1F384",
+      "char": "🎄",
+      "name": "CHRISTMAS TREE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F384"
+    },
+    {
+      "id": "u1F385",
+      "codepoint": 127877,
+      "hex": "U+1F385",
+      "char": "🎅",
+      "name": "FATHER CHRISTMAS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F385"
+    },
+    {
+      "id": "u1F386",
+      "codepoint": 127878,
+      "hex": "U+1F386",
+      "char": "🎆",
+      "name": "FIREWORKS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F386"
+    },
+    {
+      "id": "u1F387",
+      "codepoint": 127879,
+      "hex": "U+1F387",
+      "char": "🎇",
+      "name": "FIREWORK SPARKLER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F387"
+    },
+    {
+      "id": "u1F388",
+      "codepoint": 127880,
+      "hex": "U+1F388",
+      "char": "🎈",
+      "name": "BALLOON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F388"
+    },
+    {
+      "id": "u1F389",
+      "codepoint": 127881,
+      "hex": "U+1F389",
+      "char": "🎉",
+      "name": "PARTY POPPER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F389"
+    },
+    {
+      "id": "u1F38A",
+      "codepoint": 127882,
+      "hex": "U+1F38A",
+      "char": "🎊",
+      "name": "CONFETTI BALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F38A"
+    },
+    {
+      "id": "u1F38B",
+      "codepoint": 127883,
+      "hex": "U+1F38B",
+      "char": "🎋",
+      "name": "TANABATA TREE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F38B"
+    },
+    {
+      "id": "u1F38C",
+      "codepoint": 127884,
+      "hex": "U+1F38C",
+      "char": "🎌",
+      "name": "CROSSED FLAGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F38C"
+    },
+    {
+      "id": "u1F38D",
+      "codepoint": 127885,
+      "hex": "U+1F38D",
+      "char": "🎍",
+      "name": "PINE DECORATION",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F38D"
+    },
+    {
+      "id": "u1F38E",
+      "codepoint": 127886,
+      "hex": "U+1F38E",
+      "char": "🎎",
+      "name": "JAPANESE DOLLS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F38E"
+    },
+    {
+      "id": "u1F38F",
+      "codepoint": 127887,
+      "hex": "U+1F38F",
+      "char": "🎏",
+      "name": "CARP STREAMER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F38F"
+    },
+    {
+      "id": "u1F390",
+      "codepoint": 127888,
+      "hex": "U+1F390",
+      "char": "🎐",
+      "name": "WIND CHIME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F390"
+    },
+    {
+      "id": "u1F391",
+      "codepoint": 127889,
+      "hex": "U+1F391",
+      "char": "🎑",
+      "name": "MOON VIEWING CEREMONY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F391"
+    },
+    {
+      "id": "u1F392",
+      "codepoint": 127890,
+      "hex": "U+1F392",
+      "char": "🎒",
+      "name": "SCHOOL SATCHEL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F392"
+    },
+    {
+      "id": "u1F393",
+      "codepoint": 127891,
+      "hex": "U+1F393",
+      "char": "🎓",
+      "name": "GRADUATION CAP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F393"
+    },
+    {
+      "id": "u1F394",
+      "codepoint": 127892,
+      "hex": "U+1F394",
+      "char": "🎔",
+      "name": "HEART WITH TIP ON THE LEFT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F394"
+    },
+    {
+      "id": "u1F395",
+      "codepoint": 127893,
+      "hex": "U+1F395",
+      "char": "🎕",
+      "name": "BOUQUET OF FLOWERS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F395"
+    },
+    {
+      "id": "u1F396",
+      "codepoint": 127894,
+      "hex": "U+1F396",
+      "char": "🎖",
+      "name": "MILITARY MEDAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F396"
+    },
+    {
+      "id": "u1F397",
+      "codepoint": 127895,
+      "hex": "U+1F397",
+      "char": "🎗",
+      "name": "REMINDER RIBBON",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F397"
+    },
+    {
+      "id": "u1F398",
+      "codepoint": 127896,
+      "hex": "U+1F398",
+      "char": "🎘",
+      "name": "MUSICAL KEYBOARD WITH JACKS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F398"
+    },
+    {
+      "id": "u1F399",
+      "codepoint": 127897,
+      "hex": "U+1F399",
+      "char": "🎙",
+      "name": "STUDIO MICROPHONE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F399"
+    },
+    {
+      "id": "u1F39A",
+      "codepoint": 127898,
+      "hex": "U+1F39A",
+      "char": "🎚",
+      "name": "LEVEL SLIDER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F39A"
+    },
+    {
+      "id": "u1F39B",
+      "codepoint": 127899,
+      "hex": "U+1F39B",
+      "char": "🎛",
+      "name": "CONTROL KNOBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F39B"
+    },
+    {
+      "id": "u1F39C",
+      "codepoint": 127900,
+      "hex": "U+1F39C",
+      "char": "🎜",
+      "name": "BEAMED ASCENDING MUSICAL NOTES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F39C"
+    },
+    {
+      "id": "u1F39D",
+      "codepoint": 127901,
+      "hex": "U+1F39D",
+      "char": "🎝",
+      "name": "BEAMED DESCENDING MUSICAL NOTES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F39D"
+    },
+    {
+      "id": "u1F39E",
+      "codepoint": 127902,
+      "hex": "U+1F39E",
+      "char": "🎞",
+      "name": "FILM FRAMES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F39E"
+    },
+    {
+      "id": "u1F39F",
+      "codepoint": 127903,
+      "hex": "U+1F39F",
+      "char": "🎟",
+      "name": "ADMISSION TICKETS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F39F"
+    },
+    {
+      "id": "u1F3A0",
+      "codepoint": 127904,
+      "hex": "U+1F3A0",
+      "char": "🎠",
+      "name": "CAROUSEL HORSE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A0"
+    },
+    {
+      "id": "u1F3A1",
+      "codepoint": 127905,
+      "hex": "U+1F3A1",
+      "char": "🎡",
+      "name": "FERRIS WHEEL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A1"
+    },
+    {
+      "id": "u1F3A2",
+      "codepoint": 127906,
+      "hex": "U+1F3A2",
+      "char": "🎢",
+      "name": "ROLLER COASTER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A2"
+    },
+    {
+      "id": "u1F3A3",
+      "codepoint": 127907,
+      "hex": "U+1F3A3",
+      "char": "🎣",
+      "name": "FISHING POLE AND FISH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A3"
+    },
+    {
+      "id": "u1F3A4",
+      "codepoint": 127908,
+      "hex": "U+1F3A4",
+      "char": "🎤",
+      "name": "MICROPHONE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A4"
+    },
+    {
+      "id": "u1F3A5",
+      "codepoint": 127909,
+      "hex": "U+1F3A5",
+      "char": "🎥",
+      "name": "MOVIE CAMERA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A5"
+    },
+    {
+      "id": "u1F3A6",
+      "codepoint": 127910,
+      "hex": "U+1F3A6",
+      "char": "🎦",
+      "name": "CINEMA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A6"
+    },
+    {
+      "id": "u1F3A7",
+      "codepoint": 127911,
+      "hex": "U+1F3A7",
+      "char": "🎧",
+      "name": "HEADPHONE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A7"
+    },
+    {
+      "id": "u1F3A8",
+      "codepoint": 127912,
+      "hex": "U+1F3A8",
+      "char": "🎨",
+      "name": "ARTIST PALETTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A8"
+    },
+    {
+      "id": "u1F3A9",
+      "codepoint": 127913,
+      "hex": "U+1F3A9",
+      "char": "🎩",
+      "name": "TOP HAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3A9"
+    },
+    {
+      "id": "u1F3AA",
+      "codepoint": 127914,
+      "hex": "U+1F3AA",
+      "char": "🎪",
+      "name": "CIRCUS TENT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3AA"
+    },
+    {
+      "id": "u1F3AB",
+      "codepoint": 127915,
+      "hex": "U+1F3AB",
+      "char": "🎫",
+      "name": "TICKET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3AB"
+    },
+    {
+      "id": "u1F3AC",
+      "codepoint": 127916,
+      "hex": "U+1F3AC",
+      "char": "🎬",
+      "name": "CLAPPER BOARD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3AC"
+    },
+    {
+      "id": "u1F3AD",
+      "codepoint": 127917,
+      "hex": "U+1F3AD",
+      "char": "🎭",
+      "name": "PERFORMING ARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3AD"
+    },
+    {
+      "id": "u1F3AE",
+      "codepoint": 127918,
+      "hex": "U+1F3AE",
+      "char": "🎮",
+      "name": "VIDEO GAME",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3AE"
+    },
+    {
+      "id": "u1F3AF",
+      "codepoint": 127919,
+      "hex": "U+1F3AF",
+      "char": "🎯",
+      "name": "DIRECT HIT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3AF"
+    },
+    {
+      "id": "u1F3B0",
+      "codepoint": 127920,
+      "hex": "U+1F3B0",
+      "char": "🎰",
+      "name": "SLOT MACHINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B0"
+    },
+    {
+      "id": "u1F3B1",
+      "codepoint": 127921,
+      "hex": "U+1F3B1",
+      "char": "🎱",
+      "name": "BILLIARDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B1"
+    },
+    {
+      "id": "u1F3B2",
+      "codepoint": 127922,
+      "hex": "U+1F3B2",
+      "char": "🎲",
+      "name": "GAME DIE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B2"
+    },
+    {
+      "id": "u1F3B3",
+      "codepoint": 127923,
+      "hex": "U+1F3B3",
+      "char": "🎳",
+      "name": "BOWLING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B3"
+    },
+    {
+      "id": "u1F3B4",
+      "codepoint": 127924,
+      "hex": "U+1F3B4",
+      "char": "🎴",
+      "name": "FLOWER PLAYING CARDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B4"
+    },
+    {
+      "id": "u1F3B5",
+      "codepoint": 127925,
+      "hex": "U+1F3B5",
+      "char": "🎵",
+      "name": "MUSICAL NOTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B5"
+    },
+    {
+      "id": "u1F3B6",
+      "codepoint": 127926,
+      "hex": "U+1F3B6",
+      "char": "🎶",
+      "name": "MULTIPLE MUSICAL NOTES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B6"
+    },
+    {
+      "id": "u1F3B7",
+      "codepoint": 127927,
+      "hex": "U+1F3B7",
+      "char": "🎷",
+      "name": "SAXOPHONE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B7"
+    },
+    {
+      "id": "u1F3B8",
+      "codepoint": 127928,
+      "hex": "U+1F3B8",
+      "char": "🎸",
+      "name": "GUITAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B8"
+    },
+    {
+      "id": "u1F3B9",
+      "codepoint": 127929,
+      "hex": "U+1F3B9",
+      "char": "🎹",
+      "name": "MUSICAL KEYBOARD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3B9"
+    },
+    {
+      "id": "u1F3BA",
+      "codepoint": 127930,
+      "hex": "U+1F3BA",
+      "char": "🎺",
+      "name": "TRUMPET",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3BA"
+    },
+    {
+      "id": "u1F3BB",
+      "codepoint": 127931,
+      "hex": "U+1F3BB",
+      "char": "🎻",
+      "name": "VIOLIN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3BB"
+    },
+    {
+      "id": "u1F3BC",
+      "codepoint": 127932,
+      "hex": "U+1F3BC",
+      "char": "🎼",
+      "name": "MUSICAL SCORE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3BC"
+    },
+    {
+      "id": "u1F3BD",
+      "codepoint": 127933,
+      "hex": "U+1F3BD",
+      "char": "🎽",
+      "name": "RUNNING SHIRT WITH SASH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3BD"
+    },
+    {
+      "id": "u1F3BE",
+      "codepoint": 127934,
+      "hex": "U+1F3BE",
+      "char": "🎾",
+      "name": "TENNIS RACQUET AND BALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3BE"
+    },
+    {
+      "id": "u1F3BF",
+      "codepoint": 127935,
+      "hex": "U+1F3BF",
+      "char": "🎿",
+      "name": "SKI AND SKI BOOT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3BF"
+    },
+    {
+      "id": "u1F3C0",
+      "codepoint": 127936,
+      "hex": "U+1F3C0",
+      "char": "🏀",
+      "name": "BASKETBALL AND HOOP",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C0"
+    },
+    {
+      "id": "u1F3C1",
+      "codepoint": 127937,
+      "hex": "U+1F3C1",
+      "char": "🏁",
+      "name": "CHEQUERED FLAG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C1"
+    },
+    {
+      "id": "u1F3C2",
+      "codepoint": 127938,
+      "hex": "U+1F3C2",
+      "char": "🏂",
+      "name": "SNOWBOARDER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C2"
+    },
+    {
+      "id": "u1F3C3",
+      "codepoint": 127939,
+      "hex": "U+1F3C3",
+      "char": "🏃",
+      "name": "RUNNER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C3"
+    },
+    {
+      "id": "u1F3C4",
+      "codepoint": 127940,
+      "hex": "U+1F3C4",
+      "char": "🏄",
+      "name": "SURFER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C4"
+    },
+    {
+      "id": "u1F3C5",
+      "codepoint": 127941,
+      "hex": "U+1F3C5",
+      "char": "🏅",
+      "name": "SPORTS MEDAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C5"
+    },
+    {
+      "id": "u1F3C6",
+      "codepoint": 127942,
+      "hex": "U+1F3C6",
+      "char": "🏆",
+      "name": "TROPHY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C6"
+    },
+    {
+      "id": "u1F3C7",
+      "codepoint": 127943,
+      "hex": "U+1F3C7",
+      "char": "🏇",
+      "name": "HORSE RACING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C7"
+    },
+    {
+      "id": "u1F3C8",
+      "codepoint": 127944,
+      "hex": "U+1F3C8",
+      "char": "🏈",
+      "name": "AMERICAN FOOTBALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C8"
+    },
+    {
+      "id": "u1F3C9",
+      "codepoint": 127945,
+      "hex": "U+1F3C9",
+      "char": "🏉",
+      "name": "RUGBY FOOTBALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3C9"
+    },
+    {
+      "id": "u1F3CA",
+      "codepoint": 127946,
+      "hex": "U+1F3CA",
+      "char": "🏊",
+      "name": "SWIMMER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3CA"
+    },
+    {
+      "id": "u1F3CB",
+      "codepoint": 127947,
+      "hex": "U+1F3CB",
+      "char": "🏋",
+      "name": "WEIGHT LIFTER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3CB"
+    },
+    {
+      "id": "u1F3CC",
+      "codepoint": 127948,
+      "hex": "U+1F3CC",
+      "char": "🏌",
+      "name": "GOLFER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3CC"
+    },
+    {
+      "id": "u1F3CD",
+      "codepoint": 127949,
+      "hex": "U+1F3CD",
+      "char": "🏍",
+      "name": "RACING MOTORCYCLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3CD"
+    },
+    {
+      "id": "u1F3CE",
+      "codepoint": 127950,
+      "hex": "U+1F3CE",
+      "char": "🏎",
+      "name": "RACING CAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3CE"
+    },
+    {
+      "id": "u1F3CF",
+      "codepoint": 127951,
+      "hex": "U+1F3CF",
+      "char": "🏏",
+      "name": "CRICKET BAT AND BALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3CF"
+    },
+    {
+      "id": "u1F3D0",
+      "codepoint": 127952,
+      "hex": "U+1F3D0",
+      "char": "🏐",
+      "name": "VOLLEYBALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D0"
+    },
+    {
+      "id": "u1F3D1",
+      "codepoint": 127953,
+      "hex": "U+1F3D1",
+      "char": "🏑",
+      "name": "FIELD HOCKEY STICK AND BALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D1"
+    },
+    {
+      "id": "u1F3D2",
+      "codepoint": 127954,
+      "hex": "U+1F3D2",
+      "char": "🏒",
+      "name": "ICE HOCKEY STICK AND PUCK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D2"
+    },
+    {
+      "id": "u1F3D3",
+      "codepoint": 127955,
+      "hex": "U+1F3D3",
+      "char": "🏓",
+      "name": "TABLE TENNIS PADDLE AND BALL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D3"
+    },
+    {
+      "id": "u1F3D4",
+      "codepoint": 127956,
+      "hex": "U+1F3D4",
+      "char": "🏔",
+      "name": "SNOW CAPPED MOUNTAIN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D4"
+    },
+    {
+      "id": "u1F3D5",
+      "codepoint": 127957,
+      "hex": "U+1F3D5",
+      "char": "🏕",
+      "name": "CAMPING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D5"
+    },
+    {
+      "id": "u1F3D6",
+      "codepoint": 127958,
+      "hex": "U+1F3D6",
+      "char": "🏖",
+      "name": "BEACH WITH UMBRELLA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D6"
+    },
+    {
+      "id": "u1F3D7",
+      "codepoint": 127959,
+      "hex": "U+1F3D7",
+      "char": "🏗",
+      "name": "BUILDING CONSTRUCTION",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D7"
+    },
+    {
+      "id": "u1F3D8",
+      "codepoint": 127960,
+      "hex": "U+1F3D8",
+      "char": "🏘",
+      "name": "HOUSE BUILDINGS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D8"
+    },
+    {
+      "id": "u1F3D9",
+      "codepoint": 127961,
+      "hex": "U+1F3D9",
+      "char": "🏙",
+      "name": "CITYSCAPE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3D9"
+    },
+    {
+      "id": "u1F3DA",
+      "codepoint": 127962,
+      "hex": "U+1F3DA",
+      "char": "🏚",
+      "name": "DERELICT HOUSE BUILDING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3DA"
+    },
+    {
+      "id": "u1F3DB",
+      "codepoint": 127963,
+      "hex": "U+1F3DB",
+      "char": "🏛",
+      "name": "CLASSICAL BUILDING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3DB"
+    },
+    {
+      "id": "u1F3DC",
+      "codepoint": 127964,
+      "hex": "U+1F3DC",
+      "char": "🏜",
+      "name": "DESERT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3DC"
+    },
+    {
+      "id": "u1F3DD",
+      "codepoint": 127965,
+      "hex": "U+1F3DD",
+      "char": "🏝",
+      "name": "DESERT ISLAND",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3DD"
+    },
+    {
+      "id": "u1F3DE",
+      "codepoint": 127966,
+      "hex": "U+1F3DE",
+      "char": "🏞",
+      "name": "NATIONAL PARK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3DE"
+    },
+    {
+      "id": "u1F3DF",
+      "codepoint": 127967,
+      "hex": "U+1F3DF",
+      "char": "🏟",
+      "name": "STADIUM",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3DF"
+    },
+    {
+      "id": "u1F3E0",
+      "codepoint": 127968,
+      "hex": "U+1F3E0",
+      "char": "🏠",
+      "name": "HOUSE BUILDING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E0"
+    },
+    {
+      "id": "u1F3E1",
+      "codepoint": 127969,
+      "hex": "U+1F3E1",
+      "char": "🏡",
+      "name": "HOUSE WITH GARDEN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E1"
+    },
+    {
+      "id": "u1F3E2",
+      "codepoint": 127970,
+      "hex": "U+1F3E2",
+      "char": "🏢",
+      "name": "OFFICE BUILDING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E2"
+    },
+    {
+      "id": "u1F3E3",
+      "codepoint": 127971,
+      "hex": "U+1F3E3",
+      "char": "🏣",
+      "name": "JAPANESE POST OFFICE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E3"
+    },
+    {
+      "id": "u1F3E4",
+      "codepoint": 127972,
+      "hex": "U+1F3E4",
+      "char": "🏤",
+      "name": "EUROPEAN POST OFFICE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E4"
+    },
+    {
+      "id": "u1F3E5",
+      "codepoint": 127973,
+      "hex": "U+1F3E5",
+      "char": "🏥",
+      "name": "HOSPITAL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E5"
+    },
+    {
+      "id": "u1F3E6",
+      "codepoint": 127974,
+      "hex": "U+1F3E6",
+      "char": "🏦",
+      "name": "BANK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E6"
+    },
+    {
+      "id": "u1F3E7",
+      "codepoint": 127975,
+      "hex": "U+1F3E7",
+      "char": "🏧",
+      "name": "AUTOMATED TELLER MACHINE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E7"
+    },
+    {
+      "id": "u1F3E8",
+      "codepoint": 127976,
+      "hex": "U+1F3E8",
+      "char": "🏨",
+      "name": "HOTEL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E8"
+    },
+    {
+      "id": "u1F3E9",
+      "codepoint": 127977,
+      "hex": "U+1F3E9",
+      "char": "🏩",
+      "name": "LOVE HOTEL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3E9"
+    },
+    {
+      "id": "u1F3EA",
+      "codepoint": 127978,
+      "hex": "U+1F3EA",
+      "char": "🏪",
+      "name": "CONVENIENCE STORE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3EA"
+    },
+    {
+      "id": "u1F3EB",
+      "codepoint": 127979,
+      "hex": "U+1F3EB",
+      "char": "🏫",
+      "name": "SCHOOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3EB"
+    },
+    {
+      "id": "u1F3EC",
+      "codepoint": 127980,
+      "hex": "U+1F3EC",
+      "char": "🏬",
+      "name": "DEPARTMENT STORE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3EC"
+    },
+    {
+      "id": "u1F3ED",
+      "codepoint": 127981,
+      "hex": "U+1F3ED",
+      "char": "🏭",
+      "name": "FACTORY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3ED"
+    },
+    {
+      "id": "u1F3EE",
+      "codepoint": 127982,
+      "hex": "U+1F3EE",
+      "char": "🏮",
+      "name": "IZAKAYA LANTERN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3EE"
+    },
+    {
+      "id": "u1F3EF",
+      "codepoint": 127983,
+      "hex": "U+1F3EF",
+      "char": "🏯",
+      "name": "JAPANESE CASTLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3EF"
+    },
+    {
+      "id": "u1F3F0",
+      "codepoint": 127984,
+      "hex": "U+1F3F0",
+      "char": "🏰",
+      "name": "EUROPEAN CASTLE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F0"
+    },
+    {
+      "id": "u1F3F1",
+      "codepoint": 127985,
+      "hex": "U+1F3F1",
+      "char": "🏱",
+      "name": "WHITE PENNANT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F1"
+    },
+    {
+      "id": "u1F3F2",
+      "codepoint": 127986,
+      "hex": "U+1F3F2",
+      "char": "🏲",
+      "name": "BLACK PENNANT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F2"
+    },
+    {
+      "id": "u1F3F3",
+      "codepoint": 127987,
+      "hex": "U+1F3F3",
+      "char": "🏳",
+      "name": "WAVING WHITE FLAG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F3"
+    },
+    {
+      "id": "u1F3F4",
+      "codepoint": 127988,
+      "hex": "U+1F3F4",
+      "char": "🏴",
+      "name": "WAVING BLACK FLAG",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F4"
+    },
+    {
+      "id": "u1F3F5",
+      "codepoint": 127989,
+      "hex": "U+1F3F5",
+      "char": "🏵",
+      "name": "ROSETTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F5"
+    },
+    {
+      "id": "u1F3F6",
+      "codepoint": 127990,
+      "hex": "U+1F3F6",
+      "char": "🏶",
+      "name": "BLACK ROSETTE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F6"
+    },
+    {
+      "id": "u1F3F7",
+      "codepoint": 127991,
+      "hex": "U+1F3F7",
+      "char": "🏷",
+      "name": "LABEL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F7"
+    },
+    {
+      "id": "u1F3F8",
+      "codepoint": 127992,
+      "hex": "U+1F3F8",
+      "char": "🏸",
+      "name": "BADMINTON RACQUET AND SHUTTLECOCK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F8"
+    },
+    {
+      "id": "u1F3F9",
+      "codepoint": 127993,
+      "hex": "U+1F3F9",
+      "char": "🏹",
+      "name": "BOW AND ARROW",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3F9"
+    },
+    {
+      "id": "u1F3FA",
+      "codepoint": 127994,
+      "hex": "U+1F3FA",
+      "char": "🏺",
+      "name": "AMPHORA",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3FA"
+    },
+    {
+      "id": "u1F3FB",
+      "codepoint": 127995,
+      "hex": "U+1F3FB",
+      "char": "🏻",
+      "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+      "category": "Sk",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3FB"
+    },
+    {
+      "id": "u1F3FC",
+      "codepoint": 127996,
+      "hex": "U+1F3FC",
+      "char": "🏼",
+      "name": "EMOJI MODIFIER FITZPATRICK TYPE-3",
+      "category": "Sk",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3FC"
+    },
+    {
+      "id": "u1F3FD",
+      "codepoint": 127997,
+      "hex": "U+1F3FD",
+      "char": "🏽",
+      "name": "EMOJI MODIFIER FITZPATRICK TYPE-4",
+      "category": "Sk",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3FD"
+    },
+    {
+      "id": "u1F3FE",
+      "codepoint": 127998,
+      "hex": "U+1F3FE",
+      "char": "🏾",
+      "name": "EMOJI MODIFIER FITZPATRICK TYPE-5",
+      "category": "Sk",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3FE"
+    },
+    {
+      "id": "u1F3FF",
+      "codepoint": 127999,
+      "hex": "U+1F3FF",
+      "char": "🏿",
+      "name": "EMOJI MODIFIER FITZPATRICK TYPE-6",
+      "category": "Sk",
+      "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F3FF"
+    }
+  ]
+}

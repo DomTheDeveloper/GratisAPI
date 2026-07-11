@@ -1,0 +1,182 @@
+{
+  "api": "times-table-141",
+  "title": "141 Times Table",
+  "description": "The multiplication table for 141: 141x1 through 141x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-141/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-141/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 141,
+      "multiplicand": 1,
+      "product": 141,
+      "expression": "141 x 1 = 141",
+      "url": "https://gratisapi.com/api/times-table-141/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 141,
+      "multiplicand": 2,
+      "product": 282,
+      "expression": "141 x 2 = 282",
+      "url": "https://gratisapi.com/api/times-table-141/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 141,
+      "multiplicand": 3,
+      "product": 423,
+      "expression": "141 x 3 = 423",
+      "url": "https://gratisapi.com/api/times-table-141/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 141,
+      "multiplicand": 4,
+      "product": 564,
+      "expression": "141 x 4 = 564",
+      "url": "https://gratisapi.com/api/times-table-141/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 141,
+      "multiplicand": 5,
+      "product": 705,
+      "expression": "141 x 5 = 705",
+      "url": "https://gratisapi.com/api/times-table-141/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 141,
+      "multiplicand": 6,
+      "product": 846,
+      "expression": "141 x 6 = 846",
+      "url": "https://gratisapi.com/api/times-table-141/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 141,
+      "multiplicand": 7,
+      "product": 987,
+      "expression": "141 x 7 = 987",
+      "url": "https://gratisapi.com/api/times-table-141/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 141,
+      "multiplicand": 8,
+      "product": 1128,
+      "expression": "141 x 8 = 1128",
+      "url": "https://gratisapi.com/api/times-table-141/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 141,
+      "multiplicand": 9,
+      "product": 1269,
+      "expression": "141 x 9 = 1269",
+      "url": "https://gratisapi.com/api/times-table-141/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 141,
+      "multiplicand": 10,
+      "product": 1410,
+      "expression": "141 x 10 = 1410",
+      "url": "https://gratisapi.com/api/times-table-141/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 141,
+      "multiplicand": 11,
+      "product": 1551,
+      "expression": "141 x 11 = 1551",
+      "url": "https://gratisapi.com/api/times-table-141/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 141,
+      "multiplicand": 12,
+      "product": 1692,
+      "expression": "141 x 12 = 1692",
+      "url": "https://gratisapi.com/api/times-table-141/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 141,
+      "multiplicand": 13,
+      "product": 1833,
+      "expression": "141 x 13 = 1833",
+      "url": "https://gratisapi.com/api/times-table-141/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 141,
+      "multiplicand": 14,
+      "product": 1974,
+      "expression": "141 x 14 = 1974",
+      "url": "https://gratisapi.com/api/times-table-141/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 141,
+      "multiplicand": 15,
+      "product": 2115,
+      "expression": "141 x 15 = 2115",
+      "url": "https://gratisapi.com/api/times-table-141/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 141,
+      "multiplicand": 16,
+      "product": 2256,
+      "expression": "141 x 16 = 2256",
+      "url": "https://gratisapi.com/api/times-table-141/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 141,
+      "multiplicand": 17,
+      "product": 2397,
+      "expression": "141 x 17 = 2397",
+      "url": "https://gratisapi.com/api/times-table-141/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 141,
+      "multiplicand": 18,
+      "product": 2538,
+      "expression": "141 x 18 = 2538",
+      "url": "https://gratisapi.com/api/times-table-141/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 141,
+      "multiplicand": 19,
+      "product": 2679,
+      "expression": "141 x 19 = 2679",
+      "url": "https://gratisapi.com/api/times-table-141/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 141,
+      "multiplicand": 20,
+      "product": 2820,
+      "expression": "141 x 20 = 2820",
+      "url": "https://gratisapi.com/api/times-table-141/20"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "api": "times-table-158",
+  "title": "158 Times Table",
+  "description": "The multiplication table for 158: 158x1 through 158x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-158/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-158/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 158,
+      "multiplicand": 1,
+      "product": 158,
+      "expression": "158 x 1 = 158",
+      "url": "https://gratisapi.com/api/times-table-158/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 158,
+      "multiplicand": 2,
+      "product": 316,
+      "expression": "158 x 2 = 316",
+      "url": "https://gratisapi.com/api/times-table-158/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 158,
+      "multiplicand": 3,
+      "product": 474,
+      "expression": "158 x 3 = 474",
+      "url": "https://gratisapi.com/api/times-table-158/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 158,
+      "multiplicand": 4,
+      "product": 632,
+      "expression": "158 x 4 = 632",
+      "url": "https://gratisapi.com/api/times-table-158/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 158,
+      "multiplicand": 5,
+      "product": 790,
+      "expression": "158 x 5 = 790",
+      "url": "https://gratisapi.com/api/times-table-158/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 158,
+      "multiplicand": 6,
+      "product": 948,
+      "expression": "158 x 6 = 948",
+      "url": "https://gratisapi.com/api/times-table-158/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 158,
+      "multiplicand": 7,
+      "product": 1106,
+      "expression": "158 x 7 = 1106",
+      "url": "https://gratisapi.com/api/times-table-158/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 158,
+      "multiplicand": 8,
+      "product": 1264,
+      "expression": "158 x 8 = 1264",
+      "url": "https://gratisapi.com/api/times-table-158/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 158,
+      "multiplicand": 9,
+      "product": 1422,
+      "expression": "158 x 9 = 1422",
+      "url": "https://gratisapi.com/api/times-table-158/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 158,
+      "multiplicand": 10,
+      "product": 1580,
+      "expression": "158 x 10 = 1580",
+      "url": "https://gratisapi.com/api/times-table-158/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 158,
+      "multiplicand": 11,
+      "product": 1738,
+      "expression": "158 x 11 = 1738",
+      "url": "https://gratisapi.com/api/times-table-158/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 158,
+      "multiplicand": 12,
+      "product": 1896,
+      "expression": "158 x 12 = 1896",
+      "url": "https://gratisapi.com/api/times-table-158/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 158,
+      "multiplicand": 13,
+      "product": 2054,
+      "expression": "158 x 13 = 2054",
+      "url": "https://gratisapi.com/api/times-table-158/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 158,
+      "multiplicand": 14,
+      "product": 2212,
+      "expression": "158 x 14 = 2212",
+      "url": "https://gratisapi.com/api/times-table-158/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 158,
+      "multiplicand": 15,
+      "product": 2370,
+      "expression": "158 x 15 = 2370",
+      "url": "https://gratisapi.com/api/times-table-158/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 158,
+      "multiplicand": 16,
+      "product": 2528,
+      "expression": "158 x 16 = 2528",
+      "url": "https://gratisapi.com/api/times-table-158/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 158,
+      "multiplicand": 17,
+      "product": 2686,
+      "expression": "158 x 17 = 2686",
+      "url": "https://gratisapi.com/api/times-table-158/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 158,
+      "multiplicand": 18,
+      "product": 2844,
+      "expression": "158 x 18 = 2844",
+      "url": "https://gratisapi.com/api/times-table-158/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 158,
+      "multiplicand": 19,
+      "product": 3002,
+      "expression": "158 x 19 = 3002",
+      "url": "https://gratisapi.com/api/times-table-158/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 158,
+      "multiplicand": 20,
+      "product": 3160,
+      "expression": "158 x 20 = 3160",
+      "url": "https://gratisapi.com/api/times-table-158/20"
+    }
+  ]
+}

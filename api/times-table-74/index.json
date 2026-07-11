@@ -1,0 +1,182 @@
+{
+  "api": "times-table-74",
+  "title": "74 Times Table",
+  "description": "The multiplication table for 74: 74x1 through 74x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-74/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-74/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 74,
+      "multiplicand": 1,
+      "product": 74,
+      "expression": "74 x 1 = 74",
+      "url": "https://gratisapi.com/api/times-table-74/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 74,
+      "multiplicand": 2,
+      "product": 148,
+      "expression": "74 x 2 = 148",
+      "url": "https://gratisapi.com/api/times-table-74/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 74,
+      "multiplicand": 3,
+      "product": 222,
+      "expression": "74 x 3 = 222",
+      "url": "https://gratisapi.com/api/times-table-74/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 74,
+      "multiplicand": 4,
+      "product": 296,
+      "expression": "74 x 4 = 296",
+      "url": "https://gratisapi.com/api/times-table-74/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 74,
+      "multiplicand": 5,
+      "product": 370,
+      "expression": "74 x 5 = 370",
+      "url": "https://gratisapi.com/api/times-table-74/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 74,
+      "multiplicand": 6,
+      "product": 444,
+      "expression": "74 x 6 = 444",
+      "url": "https://gratisapi.com/api/times-table-74/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 74,
+      "multiplicand": 7,
+      "product": 518,
+      "expression": "74 x 7 = 518",
+      "url": "https://gratisapi.com/api/times-table-74/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 74,
+      "multiplicand": 8,
+      "product": 592,
+      "expression": "74 x 8 = 592",
+      "url": "https://gratisapi.com/api/times-table-74/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 74,
+      "multiplicand": 9,
+      "product": 666,
+      "expression": "74 x 9 = 666",
+      "url": "https://gratisapi.com/api/times-table-74/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 74,
+      "multiplicand": 10,
+      "product": 740,
+      "expression": "74 x 10 = 740",
+      "url": "https://gratisapi.com/api/times-table-74/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 74,
+      "multiplicand": 11,
+      "product": 814,
+      "expression": "74 x 11 = 814",
+      "url": "https://gratisapi.com/api/times-table-74/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 74,
+      "multiplicand": 12,
+      "product": 888,
+      "expression": "74 x 12 = 888",
+      "url": "https://gratisapi.com/api/times-table-74/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 74,
+      "multiplicand": 13,
+      "product": 962,
+      "expression": "74 x 13 = 962",
+      "url": "https://gratisapi.com/api/times-table-74/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 74,
+      "multiplicand": 14,
+      "product": 1036,
+      "expression": "74 x 14 = 1036",
+      "url": "https://gratisapi.com/api/times-table-74/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 74,
+      "multiplicand": 15,
+      "product": 1110,
+      "expression": "74 x 15 = 1110",
+      "url": "https://gratisapi.com/api/times-table-74/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 74,
+      "multiplicand": 16,
+      "product": 1184,
+      "expression": "74 x 16 = 1184",
+      "url": "https://gratisapi.com/api/times-table-74/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 74,
+      "multiplicand": 17,
+      "product": 1258,
+      "expression": "74 x 17 = 1258",
+      "url": "https://gratisapi.com/api/times-table-74/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 74,
+      "multiplicand": 18,
+      "product": 1332,
+      "expression": "74 x 18 = 1332",
+      "url": "https://gratisapi.com/api/times-table-74/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 74,
+      "multiplicand": 19,
+      "product": 1406,
+      "expression": "74 x 19 = 1406",
+      "url": "https://gratisapi.com/api/times-table-74/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 74,
+      "multiplicand": 20,
+      "product": 1480,
+      "expression": "74 x 20 = 1480",
+      "url": "https://gratisapi.com/api/times-table-74/20"
+    }
+  ]
+}

@@ -1,0 +1,2327 @@
+{
+  "api": "unicode-cjk-unified-ideographs",
+  "title": "CJK Unified Ideographs",
+  "description": "The CJK Unified Ideographs Unicode block (U+4E00..U+9FFF) — first 256 of 20992 named characters.",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 256,
+  "self": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u4E00",
+      "codepoint": 19968,
+      "hex": "U+4E00",
+      "char": "一",
+      "name": "CJK UNIFIED IDEOGRAPH-4E00",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E00"
+    },
+    {
+      "id": "u4E01",
+      "codepoint": 19969,
+      "hex": "U+4E01",
+      "char": "丁",
+      "name": "CJK UNIFIED IDEOGRAPH-4E01",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E01"
+    },
+    {
+      "id": "u4E02",
+      "codepoint": 19970,
+      "hex": "U+4E02",
+      "char": "丂",
+      "name": "CJK UNIFIED IDEOGRAPH-4E02",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E02"
+    },
+    {
+      "id": "u4E03",
+      "codepoint": 19971,
+      "hex": "U+4E03",
+      "char": "七",
+      "name": "CJK UNIFIED IDEOGRAPH-4E03",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E03"
+    },
+    {
+      "id": "u4E04",
+      "codepoint": 19972,
+      "hex": "U+4E04",
+      "char": "丄",
+      "name": "CJK UNIFIED IDEOGRAPH-4E04",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E04"
+    },
+    {
+      "id": "u4E05",
+      "codepoint": 19973,
+      "hex": "U+4E05",
+      "char": "丅",
+      "name": "CJK UNIFIED IDEOGRAPH-4E05",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E05"
+    },
+    {
+      "id": "u4E06",
+      "codepoint": 19974,
+      "hex": "U+4E06",
+      "char": "丆",
+      "name": "CJK UNIFIED IDEOGRAPH-4E06",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E06"
+    },
+    {
+      "id": "u4E07",
+      "codepoint": 19975,
+      "hex": "U+4E07",
+      "char": "万",
+      "name": "CJK UNIFIED IDEOGRAPH-4E07",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E07"
+    },
+    {
+      "id": "u4E08",
+      "codepoint": 19976,
+      "hex": "U+4E08",
+      "char": "丈",
+      "name": "CJK UNIFIED IDEOGRAPH-4E08",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E08"
+    },
+    {
+      "id": "u4E09",
+      "codepoint": 19977,
+      "hex": "U+4E09",
+      "char": "三",
+      "name": "CJK UNIFIED IDEOGRAPH-4E09",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E09"
+    },
+    {
+      "id": "u4E0A",
+      "codepoint": 19978,
+      "hex": "U+4E0A",
+      "char": "上",
+      "name": "CJK UNIFIED IDEOGRAPH-4E0A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E0A"
+    },
+    {
+      "id": "u4E0B",
+      "codepoint": 19979,
+      "hex": "U+4E0B",
+      "char": "下",
+      "name": "CJK UNIFIED IDEOGRAPH-4E0B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E0B"
+    },
+    {
+      "id": "u4E0C",
+      "codepoint": 19980,
+      "hex": "U+4E0C",
+      "char": "丌",
+      "name": "CJK UNIFIED IDEOGRAPH-4E0C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E0C"
+    },
+    {
+      "id": "u4E0D",
+      "codepoint": 19981,
+      "hex": "U+4E0D",
+      "char": "不",
+      "name": "CJK UNIFIED IDEOGRAPH-4E0D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E0D"
+    },
+    {
+      "id": "u4E0E",
+      "codepoint": 19982,
+      "hex": "U+4E0E",
+      "char": "与",
+      "name": "CJK UNIFIED IDEOGRAPH-4E0E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E0E"
+    },
+    {
+      "id": "u4E0F",
+      "codepoint": 19983,
+      "hex": "U+4E0F",
+      "char": "丏",
+      "name": "CJK UNIFIED IDEOGRAPH-4E0F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E0F"
+    },
+    {
+      "id": "u4E10",
+      "codepoint": 19984,
+      "hex": "U+4E10",
+      "char": "丐",
+      "name": "CJK UNIFIED IDEOGRAPH-4E10",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E10"
+    },
+    {
+      "id": "u4E11",
+      "codepoint": 19985,
+      "hex": "U+4E11",
+      "char": "丑",
+      "name": "CJK UNIFIED IDEOGRAPH-4E11",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E11"
+    },
+    {
+      "id": "u4E12",
+      "codepoint": 19986,
+      "hex": "U+4E12",
+      "char": "丒",
+      "name": "CJK UNIFIED IDEOGRAPH-4E12",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E12"
+    },
+    {
+      "id": "u4E13",
+      "codepoint": 19987,
+      "hex": "U+4E13",
+      "char": "专",
+      "name": "CJK UNIFIED IDEOGRAPH-4E13",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E13"
+    },
+    {
+      "id": "u4E14",
+      "codepoint": 19988,
+      "hex": "U+4E14",
+      "char": "且",
+      "name": "CJK UNIFIED IDEOGRAPH-4E14",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E14"
+    },
+    {
+      "id": "u4E15",
+      "codepoint": 19989,
+      "hex": "U+4E15",
+      "char": "丕",
+      "name": "CJK UNIFIED IDEOGRAPH-4E15",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E15"
+    },
+    {
+      "id": "u4E16",
+      "codepoint": 19990,
+      "hex": "U+4E16",
+      "char": "世",
+      "name": "CJK UNIFIED IDEOGRAPH-4E16",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E16"
+    },
+    {
+      "id": "u4E17",
+      "codepoint": 19991,
+      "hex": "U+4E17",
+      "char": "丗",
+      "name": "CJK UNIFIED IDEOGRAPH-4E17",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E17"
+    },
+    {
+      "id": "u4E18",
+      "codepoint": 19992,
+      "hex": "U+4E18",
+      "char": "丘",
+      "name": "CJK UNIFIED IDEOGRAPH-4E18",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E18"
+    },
+    {
+      "id": "u4E19",
+      "codepoint": 19993,
+      "hex": "U+4E19",
+      "char": "丙",
+      "name": "CJK UNIFIED IDEOGRAPH-4E19",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E19"
+    },
+    {
+      "id": "u4E1A",
+      "codepoint": 19994,
+      "hex": "U+4E1A",
+      "char": "业",
+      "name": "CJK UNIFIED IDEOGRAPH-4E1A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E1A"
+    },
+    {
+      "id": "u4E1B",
+      "codepoint": 19995,
+      "hex": "U+4E1B",
+      "char": "丛",
+      "name": "CJK UNIFIED IDEOGRAPH-4E1B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E1B"
+    },
+    {
+      "id": "u4E1C",
+      "codepoint": 19996,
+      "hex": "U+4E1C",
+      "char": "东",
+      "name": "CJK UNIFIED IDEOGRAPH-4E1C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E1C"
+    },
+    {
+      "id": "u4E1D",
+      "codepoint": 19997,
+      "hex": "U+4E1D",
+      "char": "丝",
+      "name": "CJK UNIFIED IDEOGRAPH-4E1D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E1D"
+    },
+    {
+      "id": "u4E1E",
+      "codepoint": 19998,
+      "hex": "U+4E1E",
+      "char": "丞",
+      "name": "CJK UNIFIED IDEOGRAPH-4E1E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E1E"
+    },
+    {
+      "id": "u4E1F",
+      "codepoint": 19999,
+      "hex": "U+4E1F",
+      "char": "丟",
+      "name": "CJK UNIFIED IDEOGRAPH-4E1F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E1F"
+    },
+    {
+      "id": "u4E20",
+      "codepoint": 20000,
+      "hex": "U+4E20",
+      "char": "丠",
+      "name": "CJK UNIFIED IDEOGRAPH-4E20",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E20"
+    },
+    {
+      "id": "u4E21",
+      "codepoint": 20001,
+      "hex": "U+4E21",
+      "char": "両",
+      "name": "CJK UNIFIED IDEOGRAPH-4E21",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E21"
+    },
+    {
+      "id": "u4E22",
+      "codepoint": 20002,
+      "hex": "U+4E22",
+      "char": "丢",
+      "name": "CJK UNIFIED IDEOGRAPH-4E22",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E22"
+    },
+    {
+      "id": "u4E23",
+      "codepoint": 20003,
+      "hex": "U+4E23",
+      "char": "丣",
+      "name": "CJK UNIFIED IDEOGRAPH-4E23",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E23"
+    },
+    {
+      "id": "u4E24",
+      "codepoint": 20004,
+      "hex": "U+4E24",
+      "char": "两",
+      "name": "CJK UNIFIED IDEOGRAPH-4E24",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E24"
+    },
+    {
+      "id": "u4E25",
+      "codepoint": 20005,
+      "hex": "U+4E25",
+      "char": "严",
+      "name": "CJK UNIFIED IDEOGRAPH-4E25",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E25"
+    },
+    {
+      "id": "u4E26",
+      "codepoint": 20006,
+      "hex": "U+4E26",
+      "char": "並",
+      "name": "CJK UNIFIED IDEOGRAPH-4E26",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E26"
+    },
+    {
+      "id": "u4E27",
+      "codepoint": 20007,
+      "hex": "U+4E27",
+      "char": "丧",
+      "name": "CJK UNIFIED IDEOGRAPH-4E27",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E27"
+    },
+    {
+      "id": "u4E28",
+      "codepoint": 20008,
+      "hex": "U+4E28",
+      "char": "丨",
+      "name": "CJK UNIFIED IDEOGRAPH-4E28",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E28"
+    },
+    {
+      "id": "u4E29",
+      "codepoint": 20009,
+      "hex": "U+4E29",
+      "char": "丩",
+      "name": "CJK UNIFIED IDEOGRAPH-4E29",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E29"
+    },
+    {
+      "id": "u4E2A",
+      "codepoint": 20010,
+      "hex": "U+4E2A",
+      "char": "个",
+      "name": "CJK UNIFIED IDEOGRAPH-4E2A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E2A"
+    },
+    {
+      "id": "u4E2B",
+      "codepoint": 20011,
+      "hex": "U+4E2B",
+      "char": "丫",
+      "name": "CJK UNIFIED IDEOGRAPH-4E2B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E2B"
+    },
+    {
+      "id": "u4E2C",
+      "codepoint": 20012,
+      "hex": "U+4E2C",
+      "char": "丬",
+      "name": "CJK UNIFIED IDEOGRAPH-4E2C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E2C"
+    },
+    {
+      "id": "u4E2D",
+      "codepoint": 20013,
+      "hex": "U+4E2D",
+      "char": "中",
+      "name": "CJK UNIFIED IDEOGRAPH-4E2D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E2D"
+    },
+    {
+      "id": "u4E2E",
+      "codepoint": 20014,
+      "hex": "U+4E2E",
+      "char": "丮",
+      "name": "CJK UNIFIED IDEOGRAPH-4E2E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E2E"
+    },
+    {
+      "id": "u4E2F",
+      "codepoint": 20015,
+      "hex": "U+4E2F",
+      "char": "丯",
+      "name": "CJK UNIFIED IDEOGRAPH-4E2F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E2F"
+    },
+    {
+      "id": "u4E30",
+      "codepoint": 20016,
+      "hex": "U+4E30",
+      "char": "丰",
+      "name": "CJK UNIFIED IDEOGRAPH-4E30",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E30"
+    },
+    {
+      "id": "u4E31",
+      "codepoint": 20017,
+      "hex": "U+4E31",
+      "char": "丱",
+      "name": "CJK UNIFIED IDEOGRAPH-4E31",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E31"
+    },
+    {
+      "id": "u4E32",
+      "codepoint": 20018,
+      "hex": "U+4E32",
+      "char": "串",
+      "name": "CJK UNIFIED IDEOGRAPH-4E32",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E32"
+    },
+    {
+      "id": "u4E33",
+      "codepoint": 20019,
+      "hex": "U+4E33",
+      "char": "丳",
+      "name": "CJK UNIFIED IDEOGRAPH-4E33",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E33"
+    },
+    {
+      "id": "u4E34",
+      "codepoint": 20020,
+      "hex": "U+4E34",
+      "char": "临",
+      "name": "CJK UNIFIED IDEOGRAPH-4E34",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E34"
+    },
+    {
+      "id": "u4E35",
+      "codepoint": 20021,
+      "hex": "U+4E35",
+      "char": "丵",
+      "name": "CJK UNIFIED IDEOGRAPH-4E35",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E35"
+    },
+    {
+      "id": "u4E36",
+      "codepoint": 20022,
+      "hex": "U+4E36",
+      "char": "丶",
+      "name": "CJK UNIFIED IDEOGRAPH-4E36",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E36"
+    },
+    {
+      "id": "u4E37",
+      "codepoint": 20023,
+      "hex": "U+4E37",
+      "char": "丷",
+      "name": "CJK UNIFIED IDEOGRAPH-4E37",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E37"
+    },
+    {
+      "id": "u4E38",
+      "codepoint": 20024,
+      "hex": "U+4E38",
+      "char": "丸",
+      "name": "CJK UNIFIED IDEOGRAPH-4E38",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E38"
+    },
+    {
+      "id": "u4E39",
+      "codepoint": 20025,
+      "hex": "U+4E39",
+      "char": "丹",
+      "name": "CJK UNIFIED IDEOGRAPH-4E39",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E39"
+    },
+    {
+      "id": "u4E3A",
+      "codepoint": 20026,
+      "hex": "U+4E3A",
+      "char": "为",
+      "name": "CJK UNIFIED IDEOGRAPH-4E3A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E3A"
+    },
+    {
+      "id": "u4E3B",
+      "codepoint": 20027,
+      "hex": "U+4E3B",
+      "char": "主",
+      "name": "CJK UNIFIED IDEOGRAPH-4E3B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E3B"
+    },
+    {
+      "id": "u4E3C",
+      "codepoint": 20028,
+      "hex": "U+4E3C",
+      "char": "丼",
+      "name": "CJK UNIFIED IDEOGRAPH-4E3C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E3C"
+    },
+    {
+      "id": "u4E3D",
+      "codepoint": 20029,
+      "hex": "U+4E3D",
+      "char": "丽",
+      "name": "CJK UNIFIED IDEOGRAPH-4E3D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E3D"
+    },
+    {
+      "id": "u4E3E",
+      "codepoint": 20030,
+      "hex": "U+4E3E",
+      "char": "举",
+      "name": "CJK UNIFIED IDEOGRAPH-4E3E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E3E"
+    },
+    {
+      "id": "u4E3F",
+      "codepoint": 20031,
+      "hex": "U+4E3F",
+      "char": "丿",
+      "name": "CJK UNIFIED IDEOGRAPH-4E3F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E3F"
+    },
+    {
+      "id": "u4E40",
+      "codepoint": 20032,
+      "hex": "U+4E40",
+      "char": "乀",
+      "name": "CJK UNIFIED IDEOGRAPH-4E40",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E40"
+    },
+    {
+      "id": "u4E41",
+      "codepoint": 20033,
+      "hex": "U+4E41",
+      "char": "乁",
+      "name": "CJK UNIFIED IDEOGRAPH-4E41",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E41"
+    },
+    {
+      "id": "u4E42",
+      "codepoint": 20034,
+      "hex": "U+4E42",
+      "char": "乂",
+      "name": "CJK UNIFIED IDEOGRAPH-4E42",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E42"
+    },
+    {
+      "id": "u4E43",
+      "codepoint": 20035,
+      "hex": "U+4E43",
+      "char": "乃",
+      "name": "CJK UNIFIED IDEOGRAPH-4E43",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E43"
+    },
+    {
+      "id": "u4E44",
+      "codepoint": 20036,
+      "hex": "U+4E44",
+      "char": "乄",
+      "name": "CJK UNIFIED IDEOGRAPH-4E44",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E44"
+    },
+    {
+      "id": "u4E45",
+      "codepoint": 20037,
+      "hex": "U+4E45",
+      "char": "久",
+      "name": "CJK UNIFIED IDEOGRAPH-4E45",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E45"
+    },
+    {
+      "id": "u4E46",
+      "codepoint": 20038,
+      "hex": "U+4E46",
+      "char": "乆",
+      "name": "CJK UNIFIED IDEOGRAPH-4E46",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E46"
+    },
+    {
+      "id": "u4E47",
+      "codepoint": 20039,
+      "hex": "U+4E47",
+      "char": "乇",
+      "name": "CJK UNIFIED IDEOGRAPH-4E47",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E47"
+    },
+    {
+      "id": "u4E48",
+      "codepoint": 20040,
+      "hex": "U+4E48",
+      "char": "么",
+      "name": "CJK UNIFIED IDEOGRAPH-4E48",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E48"
+    },
+    {
+      "id": "u4E49",
+      "codepoint": 20041,
+      "hex": "U+4E49",
+      "char": "义",
+      "name": "CJK UNIFIED IDEOGRAPH-4E49",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E49"
+    },
+    {
+      "id": "u4E4A",
+      "codepoint": 20042,
+      "hex": "U+4E4A",
+      "char": "乊",
+      "name": "CJK UNIFIED IDEOGRAPH-4E4A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E4A"
+    },
+    {
+      "id": "u4E4B",
+      "codepoint": 20043,
+      "hex": "U+4E4B",
+      "char": "之",
+      "name": "CJK UNIFIED IDEOGRAPH-4E4B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E4B"
+    },
+    {
+      "id": "u4E4C",
+      "codepoint": 20044,
+      "hex": "U+4E4C",
+      "char": "乌",
+      "name": "CJK UNIFIED IDEOGRAPH-4E4C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E4C"
+    },
+    {
+      "id": "u4E4D",
+      "codepoint": 20045,
+      "hex": "U+4E4D",
+      "char": "乍",
+      "name": "CJK UNIFIED IDEOGRAPH-4E4D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E4D"
+    },
+    {
+      "id": "u4E4E",
+      "codepoint": 20046,
+      "hex": "U+4E4E",
+      "char": "乎",
+      "name": "CJK UNIFIED IDEOGRAPH-4E4E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E4E"
+    },
+    {
+      "id": "u4E4F",
+      "codepoint": 20047,
+      "hex": "U+4E4F",
+      "char": "乏",
+      "name": "CJK UNIFIED IDEOGRAPH-4E4F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E4F"
+    },
+    {
+      "id": "u4E50",
+      "codepoint": 20048,
+      "hex": "U+4E50",
+      "char": "乐",
+      "name": "CJK UNIFIED IDEOGRAPH-4E50",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E50"
+    },
+    {
+      "id": "u4E51",
+      "codepoint": 20049,
+      "hex": "U+4E51",
+      "char": "乑",
+      "name": "CJK UNIFIED IDEOGRAPH-4E51",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E51"
+    },
+    {
+      "id": "u4E52",
+      "codepoint": 20050,
+      "hex": "U+4E52",
+      "char": "乒",
+      "name": "CJK UNIFIED IDEOGRAPH-4E52",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E52"
+    },
+    {
+      "id": "u4E53",
+      "codepoint": 20051,
+      "hex": "U+4E53",
+      "char": "乓",
+      "name": "CJK UNIFIED IDEOGRAPH-4E53",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E53"
+    },
+    {
+      "id": "u4E54",
+      "codepoint": 20052,
+      "hex": "U+4E54",
+      "char": "乔",
+      "name": "CJK UNIFIED IDEOGRAPH-4E54",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E54"
+    },
+    {
+      "id": "u4E55",
+      "codepoint": 20053,
+      "hex": "U+4E55",
+      "char": "乕",
+      "name": "CJK UNIFIED IDEOGRAPH-4E55",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E55"
+    },
+    {
+      "id": "u4E56",
+      "codepoint": 20054,
+      "hex": "U+4E56",
+      "char": "乖",
+      "name": "CJK UNIFIED IDEOGRAPH-4E56",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E56"
+    },
+    {
+      "id": "u4E57",
+      "codepoint": 20055,
+      "hex": "U+4E57",
+      "char": "乗",
+      "name": "CJK UNIFIED IDEOGRAPH-4E57",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E57"
+    },
+    {
+      "id": "u4E58",
+      "codepoint": 20056,
+      "hex": "U+4E58",
+      "char": "乘",
+      "name": "CJK UNIFIED IDEOGRAPH-4E58",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E58"
+    },
+    {
+      "id": "u4E59",
+      "codepoint": 20057,
+      "hex": "U+4E59",
+      "char": "乙",
+      "name": "CJK UNIFIED IDEOGRAPH-4E59",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E59"
+    },
+    {
+      "id": "u4E5A",
+      "codepoint": 20058,
+      "hex": "U+4E5A",
+      "char": "乚",
+      "name": "CJK UNIFIED IDEOGRAPH-4E5A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E5A"
+    },
+    {
+      "id": "u4E5B",
+      "codepoint": 20059,
+      "hex": "U+4E5B",
+      "char": "乛",
+      "name": "CJK UNIFIED IDEOGRAPH-4E5B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E5B"
+    },
+    {
+      "id": "u4E5C",
+      "codepoint": 20060,
+      "hex": "U+4E5C",
+      "char": "乜",
+      "name": "CJK UNIFIED IDEOGRAPH-4E5C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E5C"
+    },
+    {
+      "id": "u4E5D",
+      "codepoint": 20061,
+      "hex": "U+4E5D",
+      "char": "九",
+      "name": "CJK UNIFIED IDEOGRAPH-4E5D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E5D"
+    },
+    {
+      "id": "u4E5E",
+      "codepoint": 20062,
+      "hex": "U+4E5E",
+      "char": "乞",
+      "name": "CJK UNIFIED IDEOGRAPH-4E5E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E5E"
+    },
+    {
+      "id": "u4E5F",
+      "codepoint": 20063,
+      "hex": "U+4E5F",
+      "char": "也",
+      "name": "CJK UNIFIED IDEOGRAPH-4E5F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E5F"
+    },
+    {
+      "id": "u4E60",
+      "codepoint": 20064,
+      "hex": "U+4E60",
+      "char": "习",
+      "name": "CJK UNIFIED IDEOGRAPH-4E60",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E60"
+    },
+    {
+      "id": "u4E61",
+      "codepoint": 20065,
+      "hex": "U+4E61",
+      "char": "乡",
+      "name": "CJK UNIFIED IDEOGRAPH-4E61",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E61"
+    },
+    {
+      "id": "u4E62",
+      "codepoint": 20066,
+      "hex": "U+4E62",
+      "char": "乢",
+      "name": "CJK UNIFIED IDEOGRAPH-4E62",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E62"
+    },
+    {
+      "id": "u4E63",
+      "codepoint": 20067,
+      "hex": "U+4E63",
+      "char": "乣",
+      "name": "CJK UNIFIED IDEOGRAPH-4E63",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E63"
+    },
+    {
+      "id": "u4E64",
+      "codepoint": 20068,
+      "hex": "U+4E64",
+      "char": "乤",
+      "name": "CJK UNIFIED IDEOGRAPH-4E64",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E64"
+    },
+    {
+      "id": "u4E65",
+      "codepoint": 20069,
+      "hex": "U+4E65",
+      "char": "乥",
+      "name": "CJK UNIFIED IDEOGRAPH-4E65",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E65"
+    },
+    {
+      "id": "u4E66",
+      "codepoint": 20070,
+      "hex": "U+4E66",
+      "char": "书",
+      "name": "CJK UNIFIED IDEOGRAPH-4E66",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E66"
+    },
+    {
+      "id": "u4E67",
+      "codepoint": 20071,
+      "hex": "U+4E67",
+      "char": "乧",
+      "name": "CJK UNIFIED IDEOGRAPH-4E67",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E67"
+    },
+    {
+      "id": "u4E68",
+      "codepoint": 20072,
+      "hex": "U+4E68",
+      "char": "乨",
+      "name": "CJK UNIFIED IDEOGRAPH-4E68",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E68"
+    },
+    {
+      "id": "u4E69",
+      "codepoint": 20073,
+      "hex": "U+4E69",
+      "char": "乩",
+      "name": "CJK UNIFIED IDEOGRAPH-4E69",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E69"
+    },
+    {
+      "id": "u4E6A",
+      "codepoint": 20074,
+      "hex": "U+4E6A",
+      "char": "乪",
+      "name": "CJK UNIFIED IDEOGRAPH-4E6A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E6A"
+    },
+    {
+      "id": "u4E6B",
+      "codepoint": 20075,
+      "hex": "U+4E6B",
+      "char": "乫",
+      "name": "CJK UNIFIED IDEOGRAPH-4E6B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E6B"
+    },
+    {
+      "id": "u4E6C",
+      "codepoint": 20076,
+      "hex": "U+4E6C",
+      "char": "乬",
+      "name": "CJK UNIFIED IDEOGRAPH-4E6C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E6C"
+    },
+    {
+      "id": "u4E6D",
+      "codepoint": 20077,
+      "hex": "U+4E6D",
+      "char": "乭",
+      "name": "CJK UNIFIED IDEOGRAPH-4E6D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E6D"
+    },
+    {
+      "id": "u4E6E",
+      "codepoint": 20078,
+      "hex": "U+4E6E",
+      "char": "乮",
+      "name": "CJK UNIFIED IDEOGRAPH-4E6E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E6E"
+    },
+    {
+      "id": "u4E6F",
+      "codepoint": 20079,
+      "hex": "U+4E6F",
+      "char": "乯",
+      "name": "CJK UNIFIED IDEOGRAPH-4E6F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E6F"
+    },
+    {
+      "id": "u4E70",
+      "codepoint": 20080,
+      "hex": "U+4E70",
+      "char": "买",
+      "name": "CJK UNIFIED IDEOGRAPH-4E70",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E70"
+    },
+    {
+      "id": "u4E71",
+      "codepoint": 20081,
+      "hex": "U+4E71",
+      "char": "乱",
+      "name": "CJK UNIFIED IDEOGRAPH-4E71",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E71"
+    },
+    {
+      "id": "u4E72",
+      "codepoint": 20082,
+      "hex": "U+4E72",
+      "char": "乲",
+      "name": "CJK UNIFIED IDEOGRAPH-4E72",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E72"
+    },
+    {
+      "id": "u4E73",
+      "codepoint": 20083,
+      "hex": "U+4E73",
+      "char": "乳",
+      "name": "CJK UNIFIED IDEOGRAPH-4E73",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E73"
+    },
+    {
+      "id": "u4E74",
+      "codepoint": 20084,
+      "hex": "U+4E74",
+      "char": "乴",
+      "name": "CJK UNIFIED IDEOGRAPH-4E74",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E74"
+    },
+    {
+      "id": "u4E75",
+      "codepoint": 20085,
+      "hex": "U+4E75",
+      "char": "乵",
+      "name": "CJK UNIFIED IDEOGRAPH-4E75",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E75"
+    },
+    {
+      "id": "u4E76",
+      "codepoint": 20086,
+      "hex": "U+4E76",
+      "char": "乶",
+      "name": "CJK UNIFIED IDEOGRAPH-4E76",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E76"
+    },
+    {
+      "id": "u4E77",
+      "codepoint": 20087,
+      "hex": "U+4E77",
+      "char": "乷",
+      "name": "CJK UNIFIED IDEOGRAPH-4E77",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E77"
+    },
+    {
+      "id": "u4E78",
+      "codepoint": 20088,
+      "hex": "U+4E78",
+      "char": "乸",
+      "name": "CJK UNIFIED IDEOGRAPH-4E78",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E78"
+    },
+    {
+      "id": "u4E79",
+      "codepoint": 20089,
+      "hex": "U+4E79",
+      "char": "乹",
+      "name": "CJK UNIFIED IDEOGRAPH-4E79",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E79"
+    },
+    {
+      "id": "u4E7A",
+      "codepoint": 20090,
+      "hex": "U+4E7A",
+      "char": "乺",
+      "name": "CJK UNIFIED IDEOGRAPH-4E7A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E7A"
+    },
+    {
+      "id": "u4E7B",
+      "codepoint": 20091,
+      "hex": "U+4E7B",
+      "char": "乻",
+      "name": "CJK UNIFIED IDEOGRAPH-4E7B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E7B"
+    },
+    {
+      "id": "u4E7C",
+      "codepoint": 20092,
+      "hex": "U+4E7C",
+      "char": "乼",
+      "name": "CJK UNIFIED IDEOGRAPH-4E7C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E7C"
+    },
+    {
+      "id": "u4E7D",
+      "codepoint": 20093,
+      "hex": "U+4E7D",
+      "char": "乽",
+      "name": "CJK UNIFIED IDEOGRAPH-4E7D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E7D"
+    },
+    {
+      "id": "u4E7E",
+      "codepoint": 20094,
+      "hex": "U+4E7E",
+      "char": "乾",
+      "name": "CJK UNIFIED IDEOGRAPH-4E7E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E7E"
+    },
+    {
+      "id": "u4E7F",
+      "codepoint": 20095,
+      "hex": "U+4E7F",
+      "char": "乿",
+      "name": "CJK UNIFIED IDEOGRAPH-4E7F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E7F"
+    },
+    {
+      "id": "u4E80",
+      "codepoint": 20096,
+      "hex": "U+4E80",
+      "char": "亀",
+      "name": "CJK UNIFIED IDEOGRAPH-4E80",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E80"
+    },
+    {
+      "id": "u4E81",
+      "codepoint": 20097,
+      "hex": "U+4E81",
+      "char": "亁",
+      "name": "CJK UNIFIED IDEOGRAPH-4E81",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E81"
+    },
+    {
+      "id": "u4E82",
+      "codepoint": 20098,
+      "hex": "U+4E82",
+      "char": "亂",
+      "name": "CJK UNIFIED IDEOGRAPH-4E82",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E82"
+    },
+    {
+      "id": "u4E83",
+      "codepoint": 20099,
+      "hex": "U+4E83",
+      "char": "亃",
+      "name": "CJK UNIFIED IDEOGRAPH-4E83",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E83"
+    },
+    {
+      "id": "u4E84",
+      "codepoint": 20100,
+      "hex": "U+4E84",
+      "char": "亄",
+      "name": "CJK UNIFIED IDEOGRAPH-4E84",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E84"
+    },
+    {
+      "id": "u4E85",
+      "codepoint": 20101,
+      "hex": "U+4E85",
+      "char": "亅",
+      "name": "CJK UNIFIED IDEOGRAPH-4E85",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E85"
+    },
+    {
+      "id": "u4E86",
+      "codepoint": 20102,
+      "hex": "U+4E86",
+      "char": "了",
+      "name": "CJK UNIFIED IDEOGRAPH-4E86",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E86"
+    },
+    {
+      "id": "u4E87",
+      "codepoint": 20103,
+      "hex": "U+4E87",
+      "char": "亇",
+      "name": "CJK UNIFIED IDEOGRAPH-4E87",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E87"
+    },
+    {
+      "id": "u4E88",
+      "codepoint": 20104,
+      "hex": "U+4E88",
+      "char": "予",
+      "name": "CJK UNIFIED IDEOGRAPH-4E88",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E88"
+    },
+    {
+      "id": "u4E89",
+      "codepoint": 20105,
+      "hex": "U+4E89",
+      "char": "争",
+      "name": "CJK UNIFIED IDEOGRAPH-4E89",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E89"
+    },
+    {
+      "id": "u4E8A",
+      "codepoint": 20106,
+      "hex": "U+4E8A",
+      "char": "亊",
+      "name": "CJK UNIFIED IDEOGRAPH-4E8A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E8A"
+    },
+    {
+      "id": "u4E8B",
+      "codepoint": 20107,
+      "hex": "U+4E8B",
+      "char": "事",
+      "name": "CJK UNIFIED IDEOGRAPH-4E8B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E8B"
+    },
+    {
+      "id": "u4E8C",
+      "codepoint": 20108,
+      "hex": "U+4E8C",
+      "char": "二",
+      "name": "CJK UNIFIED IDEOGRAPH-4E8C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E8C"
+    },
+    {
+      "id": "u4E8D",
+      "codepoint": 20109,
+      "hex": "U+4E8D",
+      "char": "亍",
+      "name": "CJK UNIFIED IDEOGRAPH-4E8D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E8D"
+    },
+    {
+      "id": "u4E8E",
+      "codepoint": 20110,
+      "hex": "U+4E8E",
+      "char": "于",
+      "name": "CJK UNIFIED IDEOGRAPH-4E8E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E8E"
+    },
+    {
+      "id": "u4E8F",
+      "codepoint": 20111,
+      "hex": "U+4E8F",
+      "char": "亏",
+      "name": "CJK UNIFIED IDEOGRAPH-4E8F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E8F"
+    },
+    {
+      "id": "u4E90",
+      "codepoint": 20112,
+      "hex": "U+4E90",
+      "char": "亐",
+      "name": "CJK UNIFIED IDEOGRAPH-4E90",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E90"
+    },
+    {
+      "id": "u4E91",
+      "codepoint": 20113,
+      "hex": "U+4E91",
+      "char": "云",
+      "name": "CJK UNIFIED IDEOGRAPH-4E91",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E91"
+    },
+    {
+      "id": "u4E92",
+      "codepoint": 20114,
+      "hex": "U+4E92",
+      "char": "互",
+      "name": "CJK UNIFIED IDEOGRAPH-4E92",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E92"
+    },
+    {
+      "id": "u4E93",
+      "codepoint": 20115,
+      "hex": "U+4E93",
+      "char": "亓",
+      "name": "CJK UNIFIED IDEOGRAPH-4E93",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E93"
+    },
+    {
+      "id": "u4E94",
+      "codepoint": 20116,
+      "hex": "U+4E94",
+      "char": "五",
+      "name": "CJK UNIFIED IDEOGRAPH-4E94",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E94"
+    },
+    {
+      "id": "u4E95",
+      "codepoint": 20117,
+      "hex": "U+4E95",
+      "char": "井",
+      "name": "CJK UNIFIED IDEOGRAPH-4E95",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E95"
+    },
+    {
+      "id": "u4E96",
+      "codepoint": 20118,
+      "hex": "U+4E96",
+      "char": "亖",
+      "name": "CJK UNIFIED IDEOGRAPH-4E96",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E96"
+    },
+    {
+      "id": "u4E97",
+      "codepoint": 20119,
+      "hex": "U+4E97",
+      "char": "亗",
+      "name": "CJK UNIFIED IDEOGRAPH-4E97",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E97"
+    },
+    {
+      "id": "u4E98",
+      "codepoint": 20120,
+      "hex": "U+4E98",
+      "char": "亘",
+      "name": "CJK UNIFIED IDEOGRAPH-4E98",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E98"
+    },
+    {
+      "id": "u4E99",
+      "codepoint": 20121,
+      "hex": "U+4E99",
+      "char": "亙",
+      "name": "CJK UNIFIED IDEOGRAPH-4E99",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E99"
+    },
+    {
+      "id": "u4E9A",
+      "codepoint": 20122,
+      "hex": "U+4E9A",
+      "char": "亚",
+      "name": "CJK UNIFIED IDEOGRAPH-4E9A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E9A"
+    },
+    {
+      "id": "u4E9B",
+      "codepoint": 20123,
+      "hex": "U+4E9B",
+      "char": "些",
+      "name": "CJK UNIFIED IDEOGRAPH-4E9B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E9B"
+    },
+    {
+      "id": "u4E9C",
+      "codepoint": 20124,
+      "hex": "U+4E9C",
+      "char": "亜",
+      "name": "CJK UNIFIED IDEOGRAPH-4E9C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E9C"
+    },
+    {
+      "id": "u4E9D",
+      "codepoint": 20125,
+      "hex": "U+4E9D",
+      "char": "亝",
+      "name": "CJK UNIFIED IDEOGRAPH-4E9D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E9D"
+    },
+    {
+      "id": "u4E9E",
+      "codepoint": 20126,
+      "hex": "U+4E9E",
+      "char": "亞",
+      "name": "CJK UNIFIED IDEOGRAPH-4E9E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E9E"
+    },
+    {
+      "id": "u4E9F",
+      "codepoint": 20127,
+      "hex": "U+4E9F",
+      "char": "亟",
+      "name": "CJK UNIFIED IDEOGRAPH-4E9F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E9F"
+    },
+    {
+      "id": "u4EA0",
+      "codepoint": 20128,
+      "hex": "U+4EA0",
+      "char": "亠",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA0",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA0"
+    },
+    {
+      "id": "u4EA1",
+      "codepoint": 20129,
+      "hex": "U+4EA1",
+      "char": "亡",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA1",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA1"
+    },
+    {
+      "id": "u4EA2",
+      "codepoint": 20130,
+      "hex": "U+4EA2",
+      "char": "亢",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA2",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA2"
+    },
+    {
+      "id": "u4EA3",
+      "codepoint": 20131,
+      "hex": "U+4EA3",
+      "char": "亣",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA3",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA3"
+    },
+    {
+      "id": "u4EA4",
+      "codepoint": 20132,
+      "hex": "U+4EA4",
+      "char": "交",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA4",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA4"
+    },
+    {
+      "id": "u4EA5",
+      "codepoint": 20133,
+      "hex": "U+4EA5",
+      "char": "亥",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA5",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA5"
+    },
+    {
+      "id": "u4EA6",
+      "codepoint": 20134,
+      "hex": "U+4EA6",
+      "char": "亦",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA6",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA6"
+    },
+    {
+      "id": "u4EA7",
+      "codepoint": 20135,
+      "hex": "U+4EA7",
+      "char": "产",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA7",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA7"
+    },
+    {
+      "id": "u4EA8",
+      "codepoint": 20136,
+      "hex": "U+4EA8",
+      "char": "亨",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA8",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA8"
+    },
+    {
+      "id": "u4EA9",
+      "codepoint": 20137,
+      "hex": "U+4EA9",
+      "char": "亩",
+      "name": "CJK UNIFIED IDEOGRAPH-4EA9",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EA9"
+    },
+    {
+      "id": "u4EAA",
+      "codepoint": 20138,
+      "hex": "U+4EAA",
+      "char": "亪",
+      "name": "CJK UNIFIED IDEOGRAPH-4EAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EAA"
+    },
+    {
+      "id": "u4EAB",
+      "codepoint": 20139,
+      "hex": "U+4EAB",
+      "char": "享",
+      "name": "CJK UNIFIED IDEOGRAPH-4EAB",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EAB"
+    },
+    {
+      "id": "u4EAC",
+      "codepoint": 20140,
+      "hex": "U+4EAC",
+      "char": "京",
+      "name": "CJK UNIFIED IDEOGRAPH-4EAC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EAC"
+    },
+    {
+      "id": "u4EAD",
+      "codepoint": 20141,
+      "hex": "U+4EAD",
+      "char": "亭",
+      "name": "CJK UNIFIED IDEOGRAPH-4EAD",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EAD"
+    },
+    {
+      "id": "u4EAE",
+      "codepoint": 20142,
+      "hex": "U+4EAE",
+      "char": "亮",
+      "name": "CJK UNIFIED IDEOGRAPH-4EAE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EAE"
+    },
+    {
+      "id": "u4EAF",
+      "codepoint": 20143,
+      "hex": "U+4EAF",
+      "char": "亯",
+      "name": "CJK UNIFIED IDEOGRAPH-4EAF",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EAF"
+    },
+    {
+      "id": "u4EB0",
+      "codepoint": 20144,
+      "hex": "U+4EB0",
+      "char": "亰",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB0",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB0"
+    },
+    {
+      "id": "u4EB1",
+      "codepoint": 20145,
+      "hex": "U+4EB1",
+      "char": "亱",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB1",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB1"
+    },
+    {
+      "id": "u4EB2",
+      "codepoint": 20146,
+      "hex": "U+4EB2",
+      "char": "亲",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB2",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB2"
+    },
+    {
+      "id": "u4EB3",
+      "codepoint": 20147,
+      "hex": "U+4EB3",
+      "char": "亳",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB3",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB3"
+    },
+    {
+      "id": "u4EB4",
+      "codepoint": 20148,
+      "hex": "U+4EB4",
+      "char": "亴",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB4",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB4"
+    },
+    {
+      "id": "u4EB5",
+      "codepoint": 20149,
+      "hex": "U+4EB5",
+      "char": "亵",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB5",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB5"
+    },
+    {
+      "id": "u4EB6",
+      "codepoint": 20150,
+      "hex": "U+4EB6",
+      "char": "亶",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB6",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB6"
+    },
+    {
+      "id": "u4EB7",
+      "codepoint": 20151,
+      "hex": "U+4EB7",
+      "char": "亷",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB7",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB7"
+    },
+    {
+      "id": "u4EB8",
+      "codepoint": 20152,
+      "hex": "U+4EB8",
+      "char": "亸",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB8",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB8"
+    },
+    {
+      "id": "u4EB9",
+      "codepoint": 20153,
+      "hex": "U+4EB9",
+      "char": "亹",
+      "name": "CJK UNIFIED IDEOGRAPH-4EB9",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EB9"
+    },
+    {
+      "id": "u4EBA",
+      "codepoint": 20154,
+      "hex": "U+4EBA",
+      "char": "人",
+      "name": "CJK UNIFIED IDEOGRAPH-4EBA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EBA"
+    },
+    {
+      "id": "u4EBB",
+      "codepoint": 20155,
+      "hex": "U+4EBB",
+      "char": "亻",
+      "name": "CJK UNIFIED IDEOGRAPH-4EBB",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EBB"
+    },
+    {
+      "id": "u4EBC",
+      "codepoint": 20156,
+      "hex": "U+4EBC",
+      "char": "亼",
+      "name": "CJK UNIFIED IDEOGRAPH-4EBC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EBC"
+    },
+    {
+      "id": "u4EBD",
+      "codepoint": 20157,
+      "hex": "U+4EBD",
+      "char": "亽",
+      "name": "CJK UNIFIED IDEOGRAPH-4EBD",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EBD"
+    },
+    {
+      "id": "u4EBE",
+      "codepoint": 20158,
+      "hex": "U+4EBE",
+      "char": "亾",
+      "name": "CJK UNIFIED IDEOGRAPH-4EBE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EBE"
+    },
+    {
+      "id": "u4EBF",
+      "codepoint": 20159,
+      "hex": "U+4EBF",
+      "char": "亿",
+      "name": "CJK UNIFIED IDEOGRAPH-4EBF",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EBF"
+    },
+    {
+      "id": "u4EC0",
+      "codepoint": 20160,
+      "hex": "U+4EC0",
+      "char": "什",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC0",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC0"
+    },
+    {
+      "id": "u4EC1",
+      "codepoint": 20161,
+      "hex": "U+4EC1",
+      "char": "仁",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC1",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC1"
+    },
+    {
+      "id": "u4EC2",
+      "codepoint": 20162,
+      "hex": "U+4EC2",
+      "char": "仂",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC2",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC2"
+    },
+    {
+      "id": "u4EC3",
+      "codepoint": 20163,
+      "hex": "U+4EC3",
+      "char": "仃",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC3",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC3"
+    },
+    {
+      "id": "u4EC4",
+      "codepoint": 20164,
+      "hex": "U+4EC4",
+      "char": "仄",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC4",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC4"
+    },
+    {
+      "id": "u4EC5",
+      "codepoint": 20165,
+      "hex": "U+4EC5",
+      "char": "仅",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC5",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC5"
+    },
+    {
+      "id": "u4EC6",
+      "codepoint": 20166,
+      "hex": "U+4EC6",
+      "char": "仆",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC6",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC6"
+    },
+    {
+      "id": "u4EC7",
+      "codepoint": 20167,
+      "hex": "U+4EC7",
+      "char": "仇",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC7",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC7"
+    },
+    {
+      "id": "u4EC8",
+      "codepoint": 20168,
+      "hex": "U+4EC8",
+      "char": "仈",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC8",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC8"
+    },
+    {
+      "id": "u4EC9",
+      "codepoint": 20169,
+      "hex": "U+4EC9",
+      "char": "仉",
+      "name": "CJK UNIFIED IDEOGRAPH-4EC9",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EC9"
+    },
+    {
+      "id": "u4ECA",
+      "codepoint": 20170,
+      "hex": "U+4ECA",
+      "char": "今",
+      "name": "CJK UNIFIED IDEOGRAPH-4ECA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ECA"
+    },
+    {
+      "id": "u4ECB",
+      "codepoint": 20171,
+      "hex": "U+4ECB",
+      "char": "介",
+      "name": "CJK UNIFIED IDEOGRAPH-4ECB",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ECB"
+    },
+    {
+      "id": "u4ECC",
+      "codepoint": 20172,
+      "hex": "U+4ECC",
+      "char": "仌",
+      "name": "CJK UNIFIED IDEOGRAPH-4ECC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ECC"
+    },
+    {
+      "id": "u4ECD",
+      "codepoint": 20173,
+      "hex": "U+4ECD",
+      "char": "仍",
+      "name": "CJK UNIFIED IDEOGRAPH-4ECD",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ECD"
+    },
+    {
+      "id": "u4ECE",
+      "codepoint": 20174,
+      "hex": "U+4ECE",
+      "char": "从",
+      "name": "CJK UNIFIED IDEOGRAPH-4ECE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ECE"
+    },
+    {
+      "id": "u4ECF",
+      "codepoint": 20175,
+      "hex": "U+4ECF",
+      "char": "仏",
+      "name": "CJK UNIFIED IDEOGRAPH-4ECF",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ECF"
+    },
+    {
+      "id": "u4ED0",
+      "codepoint": 20176,
+      "hex": "U+4ED0",
+      "char": "仐",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED0",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED0"
+    },
+    {
+      "id": "u4ED1",
+      "codepoint": 20177,
+      "hex": "U+4ED1",
+      "char": "仑",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED1",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED1"
+    },
+    {
+      "id": "u4ED2",
+      "codepoint": 20178,
+      "hex": "U+4ED2",
+      "char": "仒",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED2",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED2"
+    },
+    {
+      "id": "u4ED3",
+      "codepoint": 20179,
+      "hex": "U+4ED3",
+      "char": "仓",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED3",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED3"
+    },
+    {
+      "id": "u4ED4",
+      "codepoint": 20180,
+      "hex": "U+4ED4",
+      "char": "仔",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED4",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED4"
+    },
+    {
+      "id": "u4ED5",
+      "codepoint": 20181,
+      "hex": "U+4ED5",
+      "char": "仕",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED5",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED5"
+    },
+    {
+      "id": "u4ED6",
+      "codepoint": 20182,
+      "hex": "U+4ED6",
+      "char": "他",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED6",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED6"
+    },
+    {
+      "id": "u4ED7",
+      "codepoint": 20183,
+      "hex": "U+4ED7",
+      "char": "仗",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED7",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED7"
+    },
+    {
+      "id": "u4ED8",
+      "codepoint": 20184,
+      "hex": "U+4ED8",
+      "char": "付",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED8",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED8"
+    },
+    {
+      "id": "u4ED9",
+      "codepoint": 20185,
+      "hex": "U+4ED9",
+      "char": "仙",
+      "name": "CJK UNIFIED IDEOGRAPH-4ED9",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4ED9"
+    },
+    {
+      "id": "u4EDA",
+      "codepoint": 20186,
+      "hex": "U+4EDA",
+      "char": "仚",
+      "name": "CJK UNIFIED IDEOGRAPH-4EDA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EDA"
+    },
+    {
+      "id": "u4EDB",
+      "codepoint": 20187,
+      "hex": "U+4EDB",
+      "char": "仛",
+      "name": "CJK UNIFIED IDEOGRAPH-4EDB",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EDB"
+    },
+    {
+      "id": "u4EDC",
+      "codepoint": 20188,
+      "hex": "U+4EDC",
+      "char": "仜",
+      "name": "CJK UNIFIED IDEOGRAPH-4EDC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EDC"
+    },
+    {
+      "id": "u4EDD",
+      "codepoint": 20189,
+      "hex": "U+4EDD",
+      "char": "仝",
+      "name": "CJK UNIFIED IDEOGRAPH-4EDD",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EDD"
+    },
+    {
+      "id": "u4EDE",
+      "codepoint": 20190,
+      "hex": "U+4EDE",
+      "char": "仞",
+      "name": "CJK UNIFIED IDEOGRAPH-4EDE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EDE"
+    },
+    {
+      "id": "u4EDF",
+      "codepoint": 20191,
+      "hex": "U+4EDF",
+      "char": "仟",
+      "name": "CJK UNIFIED IDEOGRAPH-4EDF",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EDF"
+    },
+    {
+      "id": "u4EE0",
+      "codepoint": 20192,
+      "hex": "U+4EE0",
+      "char": "仠",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE0",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE0"
+    },
+    {
+      "id": "u4EE1",
+      "codepoint": 20193,
+      "hex": "U+4EE1",
+      "char": "仡",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE1",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE1"
+    },
+    {
+      "id": "u4EE2",
+      "codepoint": 20194,
+      "hex": "U+4EE2",
+      "char": "仢",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE2",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE2"
+    },
+    {
+      "id": "u4EE3",
+      "codepoint": 20195,
+      "hex": "U+4EE3",
+      "char": "代",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE3",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE3"
+    },
+    {
+      "id": "u4EE4",
+      "codepoint": 20196,
+      "hex": "U+4EE4",
+      "char": "令",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE4",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE4"
+    },
+    {
+      "id": "u4EE5",
+      "codepoint": 20197,
+      "hex": "U+4EE5",
+      "char": "以",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE5",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE5"
+    },
+    {
+      "id": "u4EE6",
+      "codepoint": 20198,
+      "hex": "U+4EE6",
+      "char": "仦",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE6",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE6"
+    },
+    {
+      "id": "u4EE7",
+      "codepoint": 20199,
+      "hex": "U+4EE7",
+      "char": "仧",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE7",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE7"
+    },
+    {
+      "id": "u4EE8",
+      "codepoint": 20200,
+      "hex": "U+4EE8",
+      "char": "仨",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE8",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE8"
+    },
+    {
+      "id": "u4EE9",
+      "codepoint": 20201,
+      "hex": "U+4EE9",
+      "char": "仩",
+      "name": "CJK UNIFIED IDEOGRAPH-4EE9",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EE9"
+    },
+    {
+      "id": "u4EEA",
+      "codepoint": 20202,
+      "hex": "U+4EEA",
+      "char": "仪",
+      "name": "CJK UNIFIED IDEOGRAPH-4EEA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EEA"
+    },
+    {
+      "id": "u4EEB",
+      "codepoint": 20203,
+      "hex": "U+4EEB",
+      "char": "仫",
+      "name": "CJK UNIFIED IDEOGRAPH-4EEB",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EEB"
+    },
+    {
+      "id": "u4EEC",
+      "codepoint": 20204,
+      "hex": "U+4EEC",
+      "char": "们",
+      "name": "CJK UNIFIED IDEOGRAPH-4EEC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EEC"
+    },
+    {
+      "id": "u4EED",
+      "codepoint": 20205,
+      "hex": "U+4EED",
+      "char": "仭",
+      "name": "CJK UNIFIED IDEOGRAPH-4EED",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EED"
+    },
+    {
+      "id": "u4EEE",
+      "codepoint": 20206,
+      "hex": "U+4EEE",
+      "char": "仮",
+      "name": "CJK UNIFIED IDEOGRAPH-4EEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EEE"
+    },
+    {
+      "id": "u4EEF",
+      "codepoint": 20207,
+      "hex": "U+4EEF",
+      "char": "仯",
+      "name": "CJK UNIFIED IDEOGRAPH-4EEF",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EEF"
+    },
+    {
+      "id": "u4EF0",
+      "codepoint": 20208,
+      "hex": "U+4EF0",
+      "char": "仰",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF0",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF0"
+    },
+    {
+      "id": "u4EF1",
+      "codepoint": 20209,
+      "hex": "U+4EF1",
+      "char": "仱",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF1",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF1"
+    },
+    {
+      "id": "u4EF2",
+      "codepoint": 20210,
+      "hex": "U+4EF2",
+      "char": "仲",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF2",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF2"
+    },
+    {
+      "id": "u4EF3",
+      "codepoint": 20211,
+      "hex": "U+4EF3",
+      "char": "仳",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF3",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF3"
+    },
+    {
+      "id": "u4EF4",
+      "codepoint": 20212,
+      "hex": "U+4EF4",
+      "char": "仴",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF4",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF4"
+    },
+    {
+      "id": "u4EF5",
+      "codepoint": 20213,
+      "hex": "U+4EF5",
+      "char": "仵",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF5",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF5"
+    },
+    {
+      "id": "u4EF6",
+      "codepoint": 20214,
+      "hex": "U+4EF6",
+      "char": "件",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF6",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF6"
+    },
+    {
+      "id": "u4EF7",
+      "codepoint": 20215,
+      "hex": "U+4EF7",
+      "char": "价",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF7",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF7"
+    },
+    {
+      "id": "u4EF8",
+      "codepoint": 20216,
+      "hex": "U+4EF8",
+      "char": "仸",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF8",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF8"
+    },
+    {
+      "id": "u4EF9",
+      "codepoint": 20217,
+      "hex": "U+4EF9",
+      "char": "仹",
+      "name": "CJK UNIFIED IDEOGRAPH-4EF9",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EF9"
+    },
+    {
+      "id": "u4EFA",
+      "codepoint": 20218,
+      "hex": "U+4EFA",
+      "char": "仺",
+      "name": "CJK UNIFIED IDEOGRAPH-4EFA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EFA"
+    },
+    {
+      "id": "u4EFB",
+      "codepoint": 20219,
+      "hex": "U+4EFB",
+      "char": "任",
+      "name": "CJK UNIFIED IDEOGRAPH-4EFB",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EFB"
+    },
+    {
+      "id": "u4EFC",
+      "codepoint": 20220,
+      "hex": "U+4EFC",
+      "char": "仼",
+      "name": "CJK UNIFIED IDEOGRAPH-4EFC",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EFC"
+    },
+    {
+      "id": "u4EFD",
+      "codepoint": 20221,
+      "hex": "U+4EFD",
+      "char": "份",
+      "name": "CJK UNIFIED IDEOGRAPH-4EFD",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EFD"
+    },
+    {
+      "id": "u4EFE",
+      "codepoint": 20222,
+      "hex": "U+4EFE",
+      "char": "仾",
+      "name": "CJK UNIFIED IDEOGRAPH-4EFE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EFE"
+    },
+    {
+      "id": "u4EFF",
+      "codepoint": 20223,
+      "hex": "U+4EFF",
+      "char": "仿",
+      "name": "CJK UNIFIED IDEOGRAPH-4EFF",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4EFF"
+    }
+  ]
+}

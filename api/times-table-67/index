@@ -1,0 +1,182 @@
+{
+  "api": "times-table-67",
+  "title": "67 Times Table",
+  "description": "The multiplication table for 67: 67x1 through 67x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-67/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-67/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 67,
+      "multiplicand": 1,
+      "product": 67,
+      "expression": "67 x 1 = 67",
+      "url": "https://gratisapi.com/api/times-table-67/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 67,
+      "multiplicand": 2,
+      "product": 134,
+      "expression": "67 x 2 = 134",
+      "url": "https://gratisapi.com/api/times-table-67/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 67,
+      "multiplicand": 3,
+      "product": 201,
+      "expression": "67 x 3 = 201",
+      "url": "https://gratisapi.com/api/times-table-67/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 67,
+      "multiplicand": 4,
+      "product": 268,
+      "expression": "67 x 4 = 268",
+      "url": "https://gratisapi.com/api/times-table-67/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 67,
+      "multiplicand": 5,
+      "product": 335,
+      "expression": "67 x 5 = 335",
+      "url": "https://gratisapi.com/api/times-table-67/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 67,
+      "multiplicand": 6,
+      "product": 402,
+      "expression": "67 x 6 = 402",
+      "url": "https://gratisapi.com/api/times-table-67/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 67,
+      "multiplicand": 7,
+      "product": 469,
+      "expression": "67 x 7 = 469",
+      "url": "https://gratisapi.com/api/times-table-67/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 67,
+      "multiplicand": 8,
+      "product": 536,
+      "expression": "67 x 8 = 536",
+      "url": "https://gratisapi.com/api/times-table-67/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 67,
+      "multiplicand": 9,
+      "product": 603,
+      "expression": "67 x 9 = 603",
+      "url": "https://gratisapi.com/api/times-table-67/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 67,
+      "multiplicand": 10,
+      "product": 670,
+      "expression": "67 x 10 = 670",
+      "url": "https://gratisapi.com/api/times-table-67/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 67,
+      "multiplicand": 11,
+      "product": 737,
+      "expression": "67 x 11 = 737",
+      "url": "https://gratisapi.com/api/times-table-67/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 67,
+      "multiplicand": 12,
+      "product": 804,
+      "expression": "67 x 12 = 804",
+      "url": "https://gratisapi.com/api/times-table-67/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 67,
+      "multiplicand": 13,
+      "product": 871,
+      "expression": "67 x 13 = 871",
+      "url": "https://gratisapi.com/api/times-table-67/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 67,
+      "multiplicand": 14,
+      "product": 938,
+      "expression": "67 x 14 = 938",
+      "url": "https://gratisapi.com/api/times-table-67/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 67,
+      "multiplicand": 15,
+      "product": 1005,
+      "expression": "67 x 15 = 1005",
+      "url": "https://gratisapi.com/api/times-table-67/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 67,
+      "multiplicand": 16,
+      "product": 1072,
+      "expression": "67 x 16 = 1072",
+      "url": "https://gratisapi.com/api/times-table-67/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 67,
+      "multiplicand": 17,
+      "product": 1139,
+      "expression": "67 x 17 = 1139",
+      "url": "https://gratisapi.com/api/times-table-67/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 67,
+      "multiplicand": 18,
+      "product": 1206,
+      "expression": "67 x 18 = 1206",
+      "url": "https://gratisapi.com/api/times-table-67/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 67,
+      "multiplicand": 19,
+      "product": 1273,
+      "expression": "67 x 19 = 1273",
+      "url": "https://gratisapi.com/api/times-table-67/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 67,
+      "multiplicand": 20,
+      "product": 1340,
+      "expression": "67 x 20 = 1340",
+      "url": "https://gratisapi.com/api/times-table-67/20"
+    }
+  ]
+}

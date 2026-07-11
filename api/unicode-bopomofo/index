@@ -1,0 +1,410 @@
+{
+  "api": "unicode-bopomofo",
+  "title": "Bopomofo",
+  "description": "The Bopomofo Unicode block (U+3100..U+312F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 43,
+  "self": "https://gratisapi.com/api/unicode-bopomofo/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-bopomofo/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u3105",
+      "codepoint": 12549,
+      "hex": "U+3105",
+      "char": "ㄅ",
+      "name": "BOPOMOFO LETTER B",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3105"
+    },
+    {
+      "id": "u3106",
+      "codepoint": 12550,
+      "hex": "U+3106",
+      "char": "ㄆ",
+      "name": "BOPOMOFO LETTER P",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3106"
+    },
+    {
+      "id": "u3107",
+      "codepoint": 12551,
+      "hex": "U+3107",
+      "char": "ㄇ",
+      "name": "BOPOMOFO LETTER M",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3107"
+    },
+    {
+      "id": "u3108",
+      "codepoint": 12552,
+      "hex": "U+3108",
+      "char": "ㄈ",
+      "name": "BOPOMOFO LETTER F",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3108"
+    },
+    {
+      "id": "u3109",
+      "codepoint": 12553,
+      "hex": "U+3109",
+      "char": "ㄉ",
+      "name": "BOPOMOFO LETTER D",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3109"
+    },
+    {
+      "id": "u310A",
+      "codepoint": 12554,
+      "hex": "U+310A",
+      "char": "ㄊ",
+      "name": "BOPOMOFO LETTER T",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u310A"
+    },
+    {
+      "id": "u310B",
+      "codepoint": 12555,
+      "hex": "U+310B",
+      "char": "ㄋ",
+      "name": "BOPOMOFO LETTER N",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u310B"
+    },
+    {
+      "id": "u310C",
+      "codepoint": 12556,
+      "hex": "U+310C",
+      "char": "ㄌ",
+      "name": "BOPOMOFO LETTER L",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u310C"
+    },
+    {
+      "id": "u310D",
+      "codepoint": 12557,
+      "hex": "U+310D",
+      "char": "ㄍ",
+      "name": "BOPOMOFO LETTER G",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u310D"
+    },
+    {
+      "id": "u310E",
+      "codepoint": 12558,
+      "hex": "U+310E",
+      "char": "ㄎ",
+      "name": "BOPOMOFO LETTER K",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u310E"
+    },
+    {
+      "id": "u310F",
+      "codepoint": 12559,
+      "hex": "U+310F",
+      "char": "ㄏ",
+      "name": "BOPOMOFO LETTER H",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u310F"
+    },
+    {
+      "id": "u3110",
+      "codepoint": 12560,
+      "hex": "U+3110",
+      "char": "ㄐ",
+      "name": "BOPOMOFO LETTER J",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3110"
+    },
+    {
+      "id": "u3111",
+      "codepoint": 12561,
+      "hex": "U+3111",
+      "char": "ㄑ",
+      "name": "BOPOMOFO LETTER Q",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3111"
+    },
+    {
+      "id": "u3112",
+      "codepoint": 12562,
+      "hex": "U+3112",
+      "char": "ㄒ",
+      "name": "BOPOMOFO LETTER X",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3112"
+    },
+    {
+      "id": "u3113",
+      "codepoint": 12563,
+      "hex": "U+3113",
+      "char": "ㄓ",
+      "name": "BOPOMOFO LETTER ZH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3113"
+    },
+    {
+      "id": "u3114",
+      "codepoint": 12564,
+      "hex": "U+3114",
+      "char": "ㄔ",
+      "name": "BOPOMOFO LETTER CH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3114"
+    },
+    {
+      "id": "u3115",
+      "codepoint": 12565,
+      "hex": "U+3115",
+      "char": "ㄕ",
+      "name": "BOPOMOFO LETTER SH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3115"
+    },
+    {
+      "id": "u3116",
+      "codepoint": 12566,
+      "hex": "U+3116",
+      "char": "ㄖ",
+      "name": "BOPOMOFO LETTER R",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3116"
+    },
+    {
+      "id": "u3117",
+      "codepoint": 12567,
+      "hex": "U+3117",
+      "char": "ㄗ",
+      "name": "BOPOMOFO LETTER Z",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3117"
+    },
+    {
+      "id": "u3118",
+      "codepoint": 12568,
+      "hex": "U+3118",
+      "char": "ㄘ",
+      "name": "BOPOMOFO LETTER C",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3118"
+    },
+    {
+      "id": "u3119",
+      "codepoint": 12569,
+      "hex": "U+3119",
+      "char": "ㄙ",
+      "name": "BOPOMOFO LETTER S",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3119"
+    },
+    {
+      "id": "u311A",
+      "codepoint": 12570,
+      "hex": "U+311A",
+      "char": "ㄚ",
+      "name": "BOPOMOFO LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u311A"
+    },
+    {
+      "id": "u311B",
+      "codepoint": 12571,
+      "hex": "U+311B",
+      "char": "ㄛ",
+      "name": "BOPOMOFO LETTER O",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u311B"
+    },
+    {
+      "id": "u311C",
+      "codepoint": 12572,
+      "hex": "U+311C",
+      "char": "ㄜ",
+      "name": "BOPOMOFO LETTER E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u311C"
+    },
+    {
+      "id": "u311D",
+      "codepoint": 12573,
+      "hex": "U+311D",
+      "char": "ㄝ",
+      "name": "BOPOMOFO LETTER EH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u311D"
+    },
+    {
+      "id": "u311E",
+      "codepoint": 12574,
+      "hex": "U+311E",
+      "char": "ㄞ",
+      "name": "BOPOMOFO LETTER AI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u311E"
+    },
+    {
+      "id": "u311F",
+      "codepoint": 12575,
+      "hex": "U+311F",
+      "char": "ㄟ",
+      "name": "BOPOMOFO LETTER EI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u311F"
+    },
+    {
+      "id": "u3120",
+      "codepoint": 12576,
+      "hex": "U+3120",
+      "char": "ㄠ",
+      "name": "BOPOMOFO LETTER AU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3120"
+    },
+    {
+      "id": "u3121",
+      "codepoint": 12577,
+      "hex": "U+3121",
+      "char": "ㄡ",
+      "name": "BOPOMOFO LETTER OU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3121"
+    },
+    {
+      "id": "u3122",
+      "codepoint": 12578,
+      "hex": "U+3122",
+      "char": "ㄢ",
+      "name": "BOPOMOFO LETTER AN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3122"
+    },
+    {
+      "id": "u3123",
+      "codepoint": 12579,
+      "hex": "U+3123",
+      "char": "ㄣ",
+      "name": "BOPOMOFO LETTER EN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3123"
+    },
+    {
+      "id": "u3124",
+      "codepoint": 12580,
+      "hex": "U+3124",
+      "char": "ㄤ",
+      "name": "BOPOMOFO LETTER ANG",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3124"
+    },
+    {
+      "id": "u3125",
+      "codepoint": 12581,
+      "hex": "U+3125",
+      "char": "ㄥ",
+      "name": "BOPOMOFO LETTER ENG",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3125"
+    },
+    {
+      "id": "u3126",
+      "codepoint": 12582,
+      "hex": "U+3126",
+      "char": "ㄦ",
+      "name": "BOPOMOFO LETTER ER",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3126"
+    },
+    {
+      "id": "u3127",
+      "codepoint": 12583,
+      "hex": "U+3127",
+      "char": "ㄧ",
+      "name": "BOPOMOFO LETTER I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3127"
+    },
+    {
+      "id": "u3128",
+      "codepoint": 12584,
+      "hex": "U+3128",
+      "char": "ㄨ",
+      "name": "BOPOMOFO LETTER U",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3128"
+    },
+    {
+      "id": "u3129",
+      "codepoint": 12585,
+      "hex": "U+3129",
+      "char": "ㄩ",
+      "name": "BOPOMOFO LETTER IU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u3129"
+    },
+    {
+      "id": "u312A",
+      "codepoint": 12586,
+      "hex": "U+312A",
+      "char": "ㄪ",
+      "name": "BOPOMOFO LETTER V",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u312A"
+    },
+    {
+      "id": "u312B",
+      "codepoint": 12587,
+      "hex": "U+312B",
+      "char": "ㄫ",
+      "name": "BOPOMOFO LETTER NG",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u312B"
+    },
+    {
+      "id": "u312C",
+      "codepoint": 12588,
+      "hex": "U+312C",
+      "char": "ㄬ",
+      "name": "BOPOMOFO LETTER GN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u312C"
+    },
+    {
+      "id": "u312D",
+      "codepoint": 12589,
+      "hex": "U+312D",
+      "char": "ㄭ",
+      "name": "BOPOMOFO LETTER IH",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u312D"
+    },
+    {
+      "id": "u312E",
+      "codepoint": 12590,
+      "hex": "U+312E",
+      "char": "ㄮ",
+      "name": "BOPOMOFO LETTER O WITH DOT ABOVE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u312E"
+    },
+    {
+      "id": "u312F",
+      "codepoint": 12591,
+      "hex": "U+312F",
+      "char": "ㄯ",
+      "name": "BOPOMOFO LETTER NN",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-bopomofo/u312F"
+    }
+  ]
+}

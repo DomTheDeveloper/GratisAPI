@@ -1,0 +1,182 @@
+{
+  "api": "times-table-32",
+  "title": "32 Times Table",
+  "description": "The multiplication table for 32: 32x1 through 32x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-32/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-32/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 32,
+      "multiplicand": 1,
+      "product": 32,
+      "expression": "32 x 1 = 32",
+      "url": "https://gratisapi.com/api/times-table-32/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 32,
+      "multiplicand": 2,
+      "product": 64,
+      "expression": "32 x 2 = 64",
+      "url": "https://gratisapi.com/api/times-table-32/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 32,
+      "multiplicand": 3,
+      "product": 96,
+      "expression": "32 x 3 = 96",
+      "url": "https://gratisapi.com/api/times-table-32/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 32,
+      "multiplicand": 4,
+      "product": 128,
+      "expression": "32 x 4 = 128",
+      "url": "https://gratisapi.com/api/times-table-32/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 32,
+      "multiplicand": 5,
+      "product": 160,
+      "expression": "32 x 5 = 160",
+      "url": "https://gratisapi.com/api/times-table-32/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 32,
+      "multiplicand": 6,
+      "product": 192,
+      "expression": "32 x 6 = 192",
+      "url": "https://gratisapi.com/api/times-table-32/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 32,
+      "multiplicand": 7,
+      "product": 224,
+      "expression": "32 x 7 = 224",
+      "url": "https://gratisapi.com/api/times-table-32/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 32,
+      "multiplicand": 8,
+      "product": 256,
+      "expression": "32 x 8 = 256",
+      "url": "https://gratisapi.com/api/times-table-32/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 32,
+      "multiplicand": 9,
+      "product": 288,
+      "expression": "32 x 9 = 288",
+      "url": "https://gratisapi.com/api/times-table-32/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 32,
+      "multiplicand": 10,
+      "product": 320,
+      "expression": "32 x 10 = 320",
+      "url": "https://gratisapi.com/api/times-table-32/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 32,
+      "multiplicand": 11,
+      "product": 352,
+      "expression": "32 x 11 = 352",
+      "url": "https://gratisapi.com/api/times-table-32/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 32,
+      "multiplicand": 12,
+      "product": 384,
+      "expression": "32 x 12 = 384",
+      "url": "https://gratisapi.com/api/times-table-32/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 32,
+      "multiplicand": 13,
+      "product": 416,
+      "expression": "32 x 13 = 416",
+      "url": "https://gratisapi.com/api/times-table-32/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 32,
+      "multiplicand": 14,
+      "product": 448,
+      "expression": "32 x 14 = 448",
+      "url": "https://gratisapi.com/api/times-table-32/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 32,
+      "multiplicand": 15,
+      "product": 480,
+      "expression": "32 x 15 = 480",
+      "url": "https://gratisapi.com/api/times-table-32/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 32,
+      "multiplicand": 16,
+      "product": 512,
+      "expression": "32 x 16 = 512",
+      "url": "https://gratisapi.com/api/times-table-32/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 32,
+      "multiplicand": 17,
+      "product": 544,
+      "expression": "32 x 17 = 544",
+      "url": "https://gratisapi.com/api/times-table-32/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 32,
+      "multiplicand": 18,
+      "product": 576,
+      "expression": "32 x 18 = 576",
+      "url": "https://gratisapi.com/api/times-table-32/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 32,
+      "multiplicand": 19,
+      "product": 608,
+      "expression": "32 x 19 = 608",
+      "url": "https://gratisapi.com/api/times-table-32/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 32,
+      "multiplicand": 20,
+      "product": 640,
+      "expression": "32 x 20 = 640",
+      "url": "https://gratisapi.com/api/times-table-32/20"
+    }
+  ]
+}

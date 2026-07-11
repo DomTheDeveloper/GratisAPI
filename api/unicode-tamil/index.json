@@ -1,0 +1,671 @@
+{
+  "api": "unicode-tamil",
+  "title": "Tamil",
+  "description": "The Tamil Unicode block (U+0B80..U+0BFF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 72,
+  "self": "https://gratisapi.com/api/unicode-tamil/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-tamil/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0B82",
+      "codepoint": 2946,
+      "hex": "U+0B82",
+      "char": "ஂ",
+      "name": "TAMIL SIGN ANUSVARA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B82"
+    },
+    {
+      "id": "u0B83",
+      "codepoint": 2947,
+      "hex": "U+0B83",
+      "char": "ஃ",
+      "name": "TAMIL SIGN VISARGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B83"
+    },
+    {
+      "id": "u0B85",
+      "codepoint": 2949,
+      "hex": "U+0B85",
+      "char": "அ",
+      "name": "TAMIL LETTER A",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B85"
+    },
+    {
+      "id": "u0B86",
+      "codepoint": 2950,
+      "hex": "U+0B86",
+      "char": "ஆ",
+      "name": "TAMIL LETTER AA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B86"
+    },
+    {
+      "id": "u0B87",
+      "codepoint": 2951,
+      "hex": "U+0B87",
+      "char": "இ",
+      "name": "TAMIL LETTER I",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B87"
+    },
+    {
+      "id": "u0B88",
+      "codepoint": 2952,
+      "hex": "U+0B88",
+      "char": "ஈ",
+      "name": "TAMIL LETTER II",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B88"
+    },
+    {
+      "id": "u0B89",
+      "codepoint": 2953,
+      "hex": "U+0B89",
+      "char": "உ",
+      "name": "TAMIL LETTER U",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B89"
+    },
+    {
+      "id": "u0B8A",
+      "codepoint": 2954,
+      "hex": "U+0B8A",
+      "char": "ஊ",
+      "name": "TAMIL LETTER UU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B8A"
+    },
+    {
+      "id": "u0B8E",
+      "codepoint": 2958,
+      "hex": "U+0B8E",
+      "char": "எ",
+      "name": "TAMIL LETTER E",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B8E"
+    },
+    {
+      "id": "u0B8F",
+      "codepoint": 2959,
+      "hex": "U+0B8F",
+      "char": "ஏ",
+      "name": "TAMIL LETTER EE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B8F"
+    },
+    {
+      "id": "u0B90",
+      "codepoint": 2960,
+      "hex": "U+0B90",
+      "char": "ஐ",
+      "name": "TAMIL LETTER AI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B90"
+    },
+    {
+      "id": "u0B92",
+      "codepoint": 2962,
+      "hex": "U+0B92",
+      "char": "ஒ",
+      "name": "TAMIL LETTER O",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B92"
+    },
+    {
+      "id": "u0B93",
+      "codepoint": 2963,
+      "hex": "U+0B93",
+      "char": "ஓ",
+      "name": "TAMIL LETTER OO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B93"
+    },
+    {
+      "id": "u0B94",
+      "codepoint": 2964,
+      "hex": "U+0B94",
+      "char": "ஔ",
+      "name": "TAMIL LETTER AU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B94"
+    },
+    {
+      "id": "u0B95",
+      "codepoint": 2965,
+      "hex": "U+0B95",
+      "char": "க",
+      "name": "TAMIL LETTER KA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B95"
+    },
+    {
+      "id": "u0B99",
+      "codepoint": 2969,
+      "hex": "U+0B99",
+      "char": "ங",
+      "name": "TAMIL LETTER NGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B99"
+    },
+    {
+      "id": "u0B9A",
+      "codepoint": 2970,
+      "hex": "U+0B9A",
+      "char": "ச",
+      "name": "TAMIL LETTER CA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B9A"
+    },
+    {
+      "id": "u0B9C",
+      "codepoint": 2972,
+      "hex": "U+0B9C",
+      "char": "ஜ",
+      "name": "TAMIL LETTER JA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B9C"
+    },
+    {
+      "id": "u0B9E",
+      "codepoint": 2974,
+      "hex": "U+0B9E",
+      "char": "ஞ",
+      "name": "TAMIL LETTER NYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B9E"
+    },
+    {
+      "id": "u0B9F",
+      "codepoint": 2975,
+      "hex": "U+0B9F",
+      "char": "ட",
+      "name": "TAMIL LETTER TTA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0B9F"
+    },
+    {
+      "id": "u0BA3",
+      "codepoint": 2979,
+      "hex": "U+0BA3",
+      "char": "ண",
+      "name": "TAMIL LETTER NNA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BA3"
+    },
+    {
+      "id": "u0BA4",
+      "codepoint": 2980,
+      "hex": "U+0BA4",
+      "char": "த",
+      "name": "TAMIL LETTER TA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BA4"
+    },
+    {
+      "id": "u0BA8",
+      "codepoint": 2984,
+      "hex": "U+0BA8",
+      "char": "ந",
+      "name": "TAMIL LETTER NA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BA8"
+    },
+    {
+      "id": "u0BA9",
+      "codepoint": 2985,
+      "hex": "U+0BA9",
+      "char": "ன",
+      "name": "TAMIL LETTER NNNA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BA9"
+    },
+    {
+      "id": "u0BAA",
+      "codepoint": 2986,
+      "hex": "U+0BAA",
+      "char": "ப",
+      "name": "TAMIL LETTER PA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BAA"
+    },
+    {
+      "id": "u0BAE",
+      "codepoint": 2990,
+      "hex": "U+0BAE",
+      "char": "ம",
+      "name": "TAMIL LETTER MA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BAE"
+    },
+    {
+      "id": "u0BAF",
+      "codepoint": 2991,
+      "hex": "U+0BAF",
+      "char": "ய",
+      "name": "TAMIL LETTER YA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BAF"
+    },
+    {
+      "id": "u0BB0",
+      "codepoint": 2992,
+      "hex": "U+0BB0",
+      "char": "ர",
+      "name": "TAMIL LETTER RA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB0"
+    },
+    {
+      "id": "u0BB1",
+      "codepoint": 2993,
+      "hex": "U+0BB1",
+      "char": "ற",
+      "name": "TAMIL LETTER RRA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB1"
+    },
+    {
+      "id": "u0BB2",
+      "codepoint": 2994,
+      "hex": "U+0BB2",
+      "char": "ல",
+      "name": "TAMIL LETTER LA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB2"
+    },
+    {
+      "id": "u0BB3",
+      "codepoint": 2995,
+      "hex": "U+0BB3",
+      "char": "ள",
+      "name": "TAMIL LETTER LLA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB3"
+    },
+    {
+      "id": "u0BB4",
+      "codepoint": 2996,
+      "hex": "U+0BB4",
+      "char": "ழ",
+      "name": "TAMIL LETTER LLLA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB4"
+    },
+    {
+      "id": "u0BB5",
+      "codepoint": 2997,
+      "hex": "U+0BB5",
+      "char": "வ",
+      "name": "TAMIL LETTER VA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB5"
+    },
+    {
+      "id": "u0BB6",
+      "codepoint": 2998,
+      "hex": "U+0BB6",
+      "char": "ஶ",
+      "name": "TAMIL LETTER SHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB6"
+    },
+    {
+      "id": "u0BB7",
+      "codepoint": 2999,
+      "hex": "U+0BB7",
+      "char": "ஷ",
+      "name": "TAMIL LETTER SSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB7"
+    },
+    {
+      "id": "u0BB8",
+      "codepoint": 3000,
+      "hex": "U+0BB8",
+      "char": "ஸ",
+      "name": "TAMIL LETTER SA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB8"
+    },
+    {
+      "id": "u0BB9",
+      "codepoint": 3001,
+      "hex": "U+0BB9",
+      "char": "ஹ",
+      "name": "TAMIL LETTER HA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BB9"
+    },
+    {
+      "id": "u0BBE",
+      "codepoint": 3006,
+      "hex": "U+0BBE",
+      "char": "ா",
+      "name": "TAMIL VOWEL SIGN AA",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BBE"
+    },
+    {
+      "id": "u0BBF",
+      "codepoint": 3007,
+      "hex": "U+0BBF",
+      "char": "ி",
+      "name": "TAMIL VOWEL SIGN I",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BBF"
+    },
+    {
+      "id": "u0BC0",
+      "codepoint": 3008,
+      "hex": "U+0BC0",
+      "char": "ீ",
+      "name": "TAMIL VOWEL SIGN II",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BC0"
+    },
+    {
+      "id": "u0BC1",
+      "codepoint": 3009,
+      "hex": "U+0BC1",
+      "char": "ு",
+      "name": "TAMIL VOWEL SIGN U",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BC1"
+    },
+    {
+      "id": "u0BC2",
+      "codepoint": 3010,
+      "hex": "U+0BC2",
+      "char": "ூ",
+      "name": "TAMIL VOWEL SIGN UU",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BC2"
+    },
+    {
+      "id": "u0BC6",
+      "codepoint": 3014,
+      "hex": "U+0BC6",
+      "char": "ெ",
+      "name": "TAMIL VOWEL SIGN E",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BC6"
+    },
+    {
+      "id": "u0BC7",
+      "codepoint": 3015,
+      "hex": "U+0BC7",
+      "char": "ே",
+      "name": "TAMIL VOWEL SIGN EE",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BC7"
+    },
+    {
+      "id": "u0BC8",
+      "codepoint": 3016,
+      "hex": "U+0BC8",
+      "char": "ை",
+      "name": "TAMIL VOWEL SIGN AI",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BC8"
+    },
+    {
+      "id": "u0BCA",
+      "codepoint": 3018,
+      "hex": "U+0BCA",
+      "char": "ொ",
+      "name": "TAMIL VOWEL SIGN O",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BCA"
+    },
+    {
+      "id": "u0BCB",
+      "codepoint": 3019,
+      "hex": "U+0BCB",
+      "char": "ோ",
+      "name": "TAMIL VOWEL SIGN OO",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BCB"
+    },
+    {
+      "id": "u0BCC",
+      "codepoint": 3020,
+      "hex": "U+0BCC",
+      "char": "ௌ",
+      "name": "TAMIL VOWEL SIGN AU",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BCC"
+    },
+    {
+      "id": "u0BCD",
+      "codepoint": 3021,
+      "hex": "U+0BCD",
+      "char": "்",
+      "name": "TAMIL SIGN VIRAMA",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BCD"
+    },
+    {
+      "id": "u0BD0",
+      "codepoint": 3024,
+      "hex": "U+0BD0",
+      "char": "ௐ",
+      "name": "TAMIL OM",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BD0"
+    },
+    {
+      "id": "u0BD7",
+      "codepoint": 3031,
+      "hex": "U+0BD7",
+      "char": "ௗ",
+      "name": "TAMIL AU LENGTH MARK",
+      "category": "Mc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BD7"
+    },
+    {
+      "id": "u0BE6",
+      "codepoint": 3046,
+      "hex": "U+0BE6",
+      "char": "௦",
+      "name": "TAMIL DIGIT ZERO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BE6"
+    },
+    {
+      "id": "u0BE7",
+      "codepoint": 3047,
+      "hex": "U+0BE7",
+      "char": "௧",
+      "name": "TAMIL DIGIT ONE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BE7"
+    },
+    {
+      "id": "u0BE8",
+      "codepoint": 3048,
+      "hex": "U+0BE8",
+      "char": "௨",
+      "name": "TAMIL DIGIT TWO",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BE8"
+    },
+    {
+      "id": "u0BE9",
+      "codepoint": 3049,
+      "hex": "U+0BE9",
+      "char": "௩",
+      "name": "TAMIL DIGIT THREE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BE9"
+    },
+    {
+      "id": "u0BEA",
+      "codepoint": 3050,
+      "hex": "U+0BEA",
+      "char": "௪",
+      "name": "TAMIL DIGIT FOUR",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BEA"
+    },
+    {
+      "id": "u0BEB",
+      "codepoint": 3051,
+      "hex": "U+0BEB",
+      "char": "௫",
+      "name": "TAMIL DIGIT FIVE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BEB"
+    },
+    {
+      "id": "u0BEC",
+      "codepoint": 3052,
+      "hex": "U+0BEC",
+      "char": "௬",
+      "name": "TAMIL DIGIT SIX",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BEC"
+    },
+    {
+      "id": "u0BED",
+      "codepoint": 3053,
+      "hex": "U+0BED",
+      "char": "௭",
+      "name": "TAMIL DIGIT SEVEN",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BED"
+    },
+    {
+      "id": "u0BEE",
+      "codepoint": 3054,
+      "hex": "U+0BEE",
+      "char": "௮",
+      "name": "TAMIL DIGIT EIGHT",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BEE"
+    },
+    {
+      "id": "u0BEF",
+      "codepoint": 3055,
+      "hex": "U+0BEF",
+      "char": "௯",
+      "name": "TAMIL DIGIT NINE",
+      "category": "Nd",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BEF"
+    },
+    {
+      "id": "u0BF0",
+      "codepoint": 3056,
+      "hex": "U+0BF0",
+      "char": "௰",
+      "name": "TAMIL NUMBER TEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF0"
+    },
+    {
+      "id": "u0BF1",
+      "codepoint": 3057,
+      "hex": "U+0BF1",
+      "char": "௱",
+      "name": "TAMIL NUMBER ONE HUNDRED",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF1"
+    },
+    {
+      "id": "u0BF2",
+      "codepoint": 3058,
+      "hex": "U+0BF2",
+      "char": "௲",
+      "name": "TAMIL NUMBER ONE THOUSAND",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF2"
+    },
+    {
+      "id": "u0BF3",
+      "codepoint": 3059,
+      "hex": "U+0BF3",
+      "char": "௳",
+      "name": "TAMIL DAY SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF3"
+    },
+    {
+      "id": "u0BF4",
+      "codepoint": 3060,
+      "hex": "U+0BF4",
+      "char": "௴",
+      "name": "TAMIL MONTH SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF4"
+    },
+    {
+      "id": "u0BF5",
+      "codepoint": 3061,
+      "hex": "U+0BF5",
+      "char": "௵",
+      "name": "TAMIL YEAR SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF5"
+    },
+    {
+      "id": "u0BF6",
+      "codepoint": 3062,
+      "hex": "U+0BF6",
+      "char": "௶",
+      "name": "TAMIL DEBIT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF6"
+    },
+    {
+      "id": "u0BF7",
+      "codepoint": 3063,
+      "hex": "U+0BF7",
+      "char": "௷",
+      "name": "TAMIL CREDIT SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF7"
+    },
+    {
+      "id": "u0BF8",
+      "codepoint": 3064,
+      "hex": "U+0BF8",
+      "char": "௸",
+      "name": "TAMIL AS ABOVE SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF8"
+    },
+    {
+      "id": "u0BF9",
+      "codepoint": 3065,
+      "hex": "U+0BF9",
+      "char": "௹",
+      "name": "TAMIL RUPEE SIGN",
+      "category": "Sc",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BF9"
+    },
+    {
+      "id": "u0BFA",
+      "codepoint": 3066,
+      "hex": "U+0BFA",
+      "char": "௺",
+      "name": "TAMIL NUMBER SIGN",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-tamil/u0BFA"
+    }
+  ]
+}

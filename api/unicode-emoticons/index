@@ -1,0 +1,743 @@
+{
+  "api": "unicode-emoticons",
+  "title": "Emoticons",
+  "description": "The Emoticons Unicode block (U+1F600..U+1F64F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 80,
+  "self": "https://gratisapi.com/api/unicode-emoticons/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-emoticons/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u1F600",
+      "codepoint": 128512,
+      "hex": "U+1F600",
+      "char": "😀",
+      "name": "GRINNING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F600"
+    },
+    {
+      "id": "u1F601",
+      "codepoint": 128513,
+      "hex": "U+1F601",
+      "char": "😁",
+      "name": "GRINNING FACE WITH SMILING EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F601"
+    },
+    {
+      "id": "u1F602",
+      "codepoint": 128514,
+      "hex": "U+1F602",
+      "char": "😂",
+      "name": "FACE WITH TEARS OF JOY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F602"
+    },
+    {
+      "id": "u1F603",
+      "codepoint": 128515,
+      "hex": "U+1F603",
+      "char": "😃",
+      "name": "SMILING FACE WITH OPEN MOUTH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F603"
+    },
+    {
+      "id": "u1F604",
+      "codepoint": 128516,
+      "hex": "U+1F604",
+      "char": "😄",
+      "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F604"
+    },
+    {
+      "id": "u1F605",
+      "codepoint": 128517,
+      "hex": "U+1F605",
+      "char": "😅",
+      "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F605"
+    },
+    {
+      "id": "u1F606",
+      "codepoint": 128518,
+      "hex": "U+1F606",
+      "char": "😆",
+      "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F606"
+    },
+    {
+      "id": "u1F607",
+      "codepoint": 128519,
+      "hex": "U+1F607",
+      "char": "😇",
+      "name": "SMILING FACE WITH HALO",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F607"
+    },
+    {
+      "id": "u1F608",
+      "codepoint": 128520,
+      "hex": "U+1F608",
+      "char": "😈",
+      "name": "SMILING FACE WITH HORNS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F608"
+    },
+    {
+      "id": "u1F609",
+      "codepoint": 128521,
+      "hex": "U+1F609",
+      "char": "😉",
+      "name": "WINKING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F609"
+    },
+    {
+      "id": "u1F60A",
+      "codepoint": 128522,
+      "hex": "U+1F60A",
+      "char": "😊",
+      "name": "SMILING FACE WITH SMILING EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F60A"
+    },
+    {
+      "id": "u1F60B",
+      "codepoint": 128523,
+      "hex": "U+1F60B",
+      "char": "😋",
+      "name": "FACE SAVOURING DELICIOUS FOOD",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F60B"
+    },
+    {
+      "id": "u1F60C",
+      "codepoint": 128524,
+      "hex": "U+1F60C",
+      "char": "😌",
+      "name": "RELIEVED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F60C"
+    },
+    {
+      "id": "u1F60D",
+      "codepoint": 128525,
+      "hex": "U+1F60D",
+      "char": "😍",
+      "name": "SMILING FACE WITH HEART-SHAPED EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F60D"
+    },
+    {
+      "id": "u1F60E",
+      "codepoint": 128526,
+      "hex": "U+1F60E",
+      "char": "😎",
+      "name": "SMILING FACE WITH SUNGLASSES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F60E"
+    },
+    {
+      "id": "u1F60F",
+      "codepoint": 128527,
+      "hex": "U+1F60F",
+      "char": "😏",
+      "name": "SMIRKING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F60F"
+    },
+    {
+      "id": "u1F610",
+      "codepoint": 128528,
+      "hex": "U+1F610",
+      "char": "😐",
+      "name": "NEUTRAL FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F610"
+    },
+    {
+      "id": "u1F611",
+      "codepoint": 128529,
+      "hex": "U+1F611",
+      "char": "😑",
+      "name": "EXPRESSIONLESS FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F611"
+    },
+    {
+      "id": "u1F612",
+      "codepoint": 128530,
+      "hex": "U+1F612",
+      "char": "😒",
+      "name": "UNAMUSED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F612"
+    },
+    {
+      "id": "u1F613",
+      "codepoint": 128531,
+      "hex": "U+1F613",
+      "char": "😓",
+      "name": "FACE WITH COLD SWEAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F613"
+    },
+    {
+      "id": "u1F614",
+      "codepoint": 128532,
+      "hex": "U+1F614",
+      "char": "😔",
+      "name": "PENSIVE FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F614"
+    },
+    {
+      "id": "u1F615",
+      "codepoint": 128533,
+      "hex": "U+1F615",
+      "char": "😕",
+      "name": "CONFUSED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F615"
+    },
+    {
+      "id": "u1F616",
+      "codepoint": 128534,
+      "hex": "U+1F616",
+      "char": "😖",
+      "name": "CONFOUNDED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F616"
+    },
+    {
+      "id": "u1F617",
+      "codepoint": 128535,
+      "hex": "U+1F617",
+      "char": "😗",
+      "name": "KISSING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F617"
+    },
+    {
+      "id": "u1F618",
+      "codepoint": 128536,
+      "hex": "U+1F618",
+      "char": "😘",
+      "name": "FACE THROWING A KISS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F618"
+    },
+    {
+      "id": "u1F619",
+      "codepoint": 128537,
+      "hex": "U+1F619",
+      "char": "😙",
+      "name": "KISSING FACE WITH SMILING EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F619"
+    },
+    {
+      "id": "u1F61A",
+      "codepoint": 128538,
+      "hex": "U+1F61A",
+      "char": "😚",
+      "name": "KISSING FACE WITH CLOSED EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F61A"
+    },
+    {
+      "id": "u1F61B",
+      "codepoint": 128539,
+      "hex": "U+1F61B",
+      "char": "😛",
+      "name": "FACE WITH STUCK-OUT TONGUE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F61B"
+    },
+    {
+      "id": "u1F61C",
+      "codepoint": 128540,
+      "hex": "U+1F61C",
+      "char": "😜",
+      "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F61C"
+    },
+    {
+      "id": "u1F61D",
+      "codepoint": 128541,
+      "hex": "U+1F61D",
+      "char": "😝",
+      "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F61D"
+    },
+    {
+      "id": "u1F61E",
+      "codepoint": 128542,
+      "hex": "U+1F61E",
+      "char": "😞",
+      "name": "DISAPPOINTED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F61E"
+    },
+    {
+      "id": "u1F61F",
+      "codepoint": 128543,
+      "hex": "U+1F61F",
+      "char": "😟",
+      "name": "WORRIED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F61F"
+    },
+    {
+      "id": "u1F620",
+      "codepoint": 128544,
+      "hex": "U+1F620",
+      "char": "😠",
+      "name": "ANGRY FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F620"
+    },
+    {
+      "id": "u1F621",
+      "codepoint": 128545,
+      "hex": "U+1F621",
+      "char": "😡",
+      "name": "POUTING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F621"
+    },
+    {
+      "id": "u1F622",
+      "codepoint": 128546,
+      "hex": "U+1F622",
+      "char": "😢",
+      "name": "CRYING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F622"
+    },
+    {
+      "id": "u1F623",
+      "codepoint": 128547,
+      "hex": "U+1F623",
+      "char": "😣",
+      "name": "PERSEVERING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F623"
+    },
+    {
+      "id": "u1F624",
+      "codepoint": 128548,
+      "hex": "U+1F624",
+      "char": "😤",
+      "name": "FACE WITH LOOK OF TRIUMPH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F624"
+    },
+    {
+      "id": "u1F625",
+      "codepoint": 128549,
+      "hex": "U+1F625",
+      "char": "😥",
+      "name": "DISAPPOINTED BUT RELIEVED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F625"
+    },
+    {
+      "id": "u1F626",
+      "codepoint": 128550,
+      "hex": "U+1F626",
+      "char": "😦",
+      "name": "FROWNING FACE WITH OPEN MOUTH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F626"
+    },
+    {
+      "id": "u1F627",
+      "codepoint": 128551,
+      "hex": "U+1F627",
+      "char": "😧",
+      "name": "ANGUISHED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F627"
+    },
+    {
+      "id": "u1F628",
+      "codepoint": 128552,
+      "hex": "U+1F628",
+      "char": "😨",
+      "name": "FEARFUL FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F628"
+    },
+    {
+      "id": "u1F629",
+      "codepoint": 128553,
+      "hex": "U+1F629",
+      "char": "😩",
+      "name": "WEARY FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F629"
+    },
+    {
+      "id": "u1F62A",
+      "codepoint": 128554,
+      "hex": "U+1F62A",
+      "char": "😪",
+      "name": "SLEEPY FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F62A"
+    },
+    {
+      "id": "u1F62B",
+      "codepoint": 128555,
+      "hex": "U+1F62B",
+      "char": "😫",
+      "name": "TIRED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F62B"
+    },
+    {
+      "id": "u1F62C",
+      "codepoint": 128556,
+      "hex": "U+1F62C",
+      "char": "😬",
+      "name": "GRIMACING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F62C"
+    },
+    {
+      "id": "u1F62D",
+      "codepoint": 128557,
+      "hex": "U+1F62D",
+      "char": "😭",
+      "name": "LOUDLY CRYING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F62D"
+    },
+    {
+      "id": "u1F62E",
+      "codepoint": 128558,
+      "hex": "U+1F62E",
+      "char": "😮",
+      "name": "FACE WITH OPEN MOUTH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F62E"
+    },
+    {
+      "id": "u1F62F",
+      "codepoint": 128559,
+      "hex": "U+1F62F",
+      "char": "😯",
+      "name": "HUSHED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F62F"
+    },
+    {
+      "id": "u1F630",
+      "codepoint": 128560,
+      "hex": "U+1F630",
+      "char": "😰",
+      "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F630"
+    },
+    {
+      "id": "u1F631",
+      "codepoint": 128561,
+      "hex": "U+1F631",
+      "char": "😱",
+      "name": "FACE SCREAMING IN FEAR",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F631"
+    },
+    {
+      "id": "u1F632",
+      "codepoint": 128562,
+      "hex": "U+1F632",
+      "char": "😲",
+      "name": "ASTONISHED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F632"
+    },
+    {
+      "id": "u1F633",
+      "codepoint": 128563,
+      "hex": "U+1F633",
+      "char": "😳",
+      "name": "FLUSHED FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F633"
+    },
+    {
+      "id": "u1F634",
+      "codepoint": 128564,
+      "hex": "U+1F634",
+      "char": "😴",
+      "name": "SLEEPING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F634"
+    },
+    {
+      "id": "u1F635",
+      "codepoint": 128565,
+      "hex": "U+1F635",
+      "char": "😵",
+      "name": "DIZZY FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F635"
+    },
+    {
+      "id": "u1F636",
+      "codepoint": 128566,
+      "hex": "U+1F636",
+      "char": "😶",
+      "name": "FACE WITHOUT MOUTH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F636"
+    },
+    {
+      "id": "u1F637",
+      "codepoint": 128567,
+      "hex": "U+1F637",
+      "char": "😷",
+      "name": "FACE WITH MEDICAL MASK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F637"
+    },
+    {
+      "id": "u1F638",
+      "codepoint": 128568,
+      "hex": "U+1F638",
+      "char": "😸",
+      "name": "GRINNING CAT FACE WITH SMILING EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F638"
+    },
+    {
+      "id": "u1F639",
+      "codepoint": 128569,
+      "hex": "U+1F639",
+      "char": "😹",
+      "name": "CAT FACE WITH TEARS OF JOY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F639"
+    },
+    {
+      "id": "u1F63A",
+      "codepoint": 128570,
+      "hex": "U+1F63A",
+      "char": "😺",
+      "name": "SMILING CAT FACE WITH OPEN MOUTH",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F63A"
+    },
+    {
+      "id": "u1F63B",
+      "codepoint": 128571,
+      "hex": "U+1F63B",
+      "char": "😻",
+      "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F63B"
+    },
+    {
+      "id": "u1F63C",
+      "codepoint": 128572,
+      "hex": "U+1F63C",
+      "char": "😼",
+      "name": "CAT FACE WITH WRY SMILE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F63C"
+    },
+    {
+      "id": "u1F63D",
+      "codepoint": 128573,
+      "hex": "U+1F63D",
+      "char": "😽",
+      "name": "KISSING CAT FACE WITH CLOSED EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F63D"
+    },
+    {
+      "id": "u1F63E",
+      "codepoint": 128574,
+      "hex": "U+1F63E",
+      "char": "😾",
+      "name": "POUTING CAT FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F63E"
+    },
+    {
+      "id": "u1F63F",
+      "codepoint": 128575,
+      "hex": "U+1F63F",
+      "char": "😿",
+      "name": "CRYING CAT FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F63F"
+    },
+    {
+      "id": "u1F640",
+      "codepoint": 128576,
+      "hex": "U+1F640",
+      "char": "🙀",
+      "name": "WEARY CAT FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F640"
+    },
+    {
+      "id": "u1F641",
+      "codepoint": 128577,
+      "hex": "U+1F641",
+      "char": "🙁",
+      "name": "SLIGHTLY FROWNING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F641"
+    },
+    {
+      "id": "u1F642",
+      "codepoint": 128578,
+      "hex": "U+1F642",
+      "char": "🙂",
+      "name": "SLIGHTLY SMILING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F642"
+    },
+    {
+      "id": "u1F643",
+      "codepoint": 128579,
+      "hex": "U+1F643",
+      "char": "🙃",
+      "name": "UPSIDE-DOWN FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F643"
+    },
+    {
+      "id": "u1F644",
+      "codepoint": 128580,
+      "hex": "U+1F644",
+      "char": "🙄",
+      "name": "FACE WITH ROLLING EYES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F644"
+    },
+    {
+      "id": "u1F645",
+      "codepoint": 128581,
+      "hex": "U+1F645",
+      "char": "🙅",
+      "name": "FACE WITH NO GOOD GESTURE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F645"
+    },
+    {
+      "id": "u1F646",
+      "codepoint": 128582,
+      "hex": "U+1F646",
+      "char": "🙆",
+      "name": "FACE WITH OK GESTURE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F646"
+    },
+    {
+      "id": "u1F647",
+      "codepoint": 128583,
+      "hex": "U+1F647",
+      "char": "🙇",
+      "name": "PERSON BOWING DEEPLY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F647"
+    },
+    {
+      "id": "u1F648",
+      "codepoint": 128584,
+      "hex": "U+1F648",
+      "char": "🙈",
+      "name": "SEE-NO-EVIL MONKEY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F648"
+    },
+    {
+      "id": "u1F649",
+      "codepoint": 128585,
+      "hex": "U+1F649",
+      "char": "🙉",
+      "name": "HEAR-NO-EVIL MONKEY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F649"
+    },
+    {
+      "id": "u1F64A",
+      "codepoint": 128586,
+      "hex": "U+1F64A",
+      "char": "🙊",
+      "name": "SPEAK-NO-EVIL MONKEY",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F64A"
+    },
+    {
+      "id": "u1F64B",
+      "codepoint": 128587,
+      "hex": "U+1F64B",
+      "char": "🙋",
+      "name": "HAPPY PERSON RAISING ONE HAND",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F64B"
+    },
+    {
+      "id": "u1F64C",
+      "codepoint": 128588,
+      "hex": "U+1F64C",
+      "char": "🙌",
+      "name": "PERSON RAISING BOTH HANDS IN CELEBRATION",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F64C"
+    },
+    {
+      "id": "u1F64D",
+      "codepoint": 128589,
+      "hex": "U+1F64D",
+      "char": "🙍",
+      "name": "PERSON FROWNING",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F64D"
+    },
+    {
+      "id": "u1F64E",
+      "codepoint": 128590,
+      "hex": "U+1F64E",
+      "char": "🙎",
+      "name": "PERSON WITH POUTING FACE",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F64E"
+    },
+    {
+      "id": "u1F64F",
+      "codepoint": 128591,
+      "hex": "U+1F64F",
+      "char": "🙏",
+      "name": "PERSON WITH FOLDED HANDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-emoticons/u1F64F"
+    }
+  ]
+}

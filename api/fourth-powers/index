@@ -1,0 +1,620 @@
+{
+  "api": "fourth-powers",
+  "title": "Fourth Powers",
+  "description": "n^4 for n = 1..100.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 100,
+  "self": "https://gratisapi.com/api/fourth-powers/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/fourth-powers/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 1,
+      "url": "https://gratisapi.com/api/fourth-powers/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 16,
+      "url": "https://gratisapi.com/api/fourth-powers/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 81,
+      "url": "https://gratisapi.com/api/fourth-powers/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 256,
+      "url": "https://gratisapi.com/api/fourth-powers/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 625,
+      "url": "https://gratisapi.com/api/fourth-powers/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 1296,
+      "url": "https://gratisapi.com/api/fourth-powers/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 2401,
+      "url": "https://gratisapi.com/api/fourth-powers/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 4096,
+      "url": "https://gratisapi.com/api/fourth-powers/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 6561,
+      "url": "https://gratisapi.com/api/fourth-powers/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 10000,
+      "url": "https://gratisapi.com/api/fourth-powers/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 14641,
+      "url": "https://gratisapi.com/api/fourth-powers/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 20736,
+      "url": "https://gratisapi.com/api/fourth-powers/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 28561,
+      "url": "https://gratisapi.com/api/fourth-powers/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 38416,
+      "url": "https://gratisapi.com/api/fourth-powers/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 50625,
+      "url": "https://gratisapi.com/api/fourth-powers/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 65536,
+      "url": "https://gratisapi.com/api/fourth-powers/15"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "value": 83521,
+      "url": "https://gratisapi.com/api/fourth-powers/16"
+    },
+    {
+      "id": 17,
+      "index": 18,
+      "value": 104976,
+      "url": "https://gratisapi.com/api/fourth-powers/17"
+    },
+    {
+      "id": 18,
+      "index": 19,
+      "value": 130321,
+      "url": "https://gratisapi.com/api/fourth-powers/18"
+    },
+    {
+      "id": 19,
+      "index": 20,
+      "value": 160000,
+      "url": "https://gratisapi.com/api/fourth-powers/19"
+    },
+    {
+      "id": 20,
+      "index": 21,
+      "value": 194481,
+      "url": "https://gratisapi.com/api/fourth-powers/20"
+    },
+    {
+      "id": 21,
+      "index": 22,
+      "value": 234256,
+      "url": "https://gratisapi.com/api/fourth-powers/21"
+    },
+    {
+      "id": 22,
+      "index": 23,
+      "value": 279841,
+      "url": "https://gratisapi.com/api/fourth-powers/22"
+    },
+    {
+      "id": 23,
+      "index": 24,
+      "value": 331776,
+      "url": "https://gratisapi.com/api/fourth-powers/23"
+    },
+    {
+      "id": 24,
+      "index": 25,
+      "value": 390625,
+      "url": "https://gratisapi.com/api/fourth-powers/24"
+    },
+    {
+      "id": 25,
+      "index": 26,
+      "value": 456976,
+      "url": "https://gratisapi.com/api/fourth-powers/25"
+    },
+    {
+      "id": 26,
+      "index": 27,
+      "value": 531441,
+      "url": "https://gratisapi.com/api/fourth-powers/26"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "value": 614656,
+      "url": "https://gratisapi.com/api/fourth-powers/27"
+    },
+    {
+      "id": 28,
+      "index": 29,
+      "value": 707281,
+      "url": "https://gratisapi.com/api/fourth-powers/28"
+    },
+    {
+      "id": 29,
+      "index": 30,
+      "value": 810000,
+      "url": "https://gratisapi.com/api/fourth-powers/29"
+    },
+    {
+      "id": 30,
+      "index": 31,
+      "value": 923521,
+      "url": "https://gratisapi.com/api/fourth-powers/30"
+    },
+    {
+      "id": 31,
+      "index": 32,
+      "value": 1048576,
+      "url": "https://gratisapi.com/api/fourth-powers/31"
+    },
+    {
+      "id": 32,
+      "index": 33,
+      "value": 1185921,
+      "url": "https://gratisapi.com/api/fourth-powers/32"
+    },
+    {
+      "id": 33,
+      "index": 34,
+      "value": 1336336,
+      "url": "https://gratisapi.com/api/fourth-powers/33"
+    },
+    {
+      "id": 34,
+      "index": 35,
+      "value": 1500625,
+      "url": "https://gratisapi.com/api/fourth-powers/34"
+    },
+    {
+      "id": 35,
+      "index": 36,
+      "value": 1679616,
+      "url": "https://gratisapi.com/api/fourth-powers/35"
+    },
+    {
+      "id": 36,
+      "index": 37,
+      "value": 1874161,
+      "url": "https://gratisapi.com/api/fourth-powers/36"
+    },
+    {
+      "id": 37,
+      "index": 38,
+      "value": 2085136,
+      "url": "https://gratisapi.com/api/fourth-powers/37"
+    },
+    {
+      "id": 38,
+      "index": 39,
+      "value": 2313441,
+      "url": "https://gratisapi.com/api/fourth-powers/38"
+    },
+    {
+      "id": 39,
+      "index": 40,
+      "value": 2560000,
+      "url": "https://gratisapi.com/api/fourth-powers/39"
+    },
+    {
+      "id": 40,
+      "index": 41,
+      "value": 2825761,
+      "url": "https://gratisapi.com/api/fourth-powers/40"
+    },
+    {
+      "id": 41,
+      "index": 42,
+      "value": 3111696,
+      "url": "https://gratisapi.com/api/fourth-powers/41"
+    },
+    {
+      "id": 42,
+      "index": 43,
+      "value": 3418801,
+      "url": "https://gratisapi.com/api/fourth-powers/42"
+    },
+    {
+      "id": 43,
+      "index": 44,
+      "value": 3748096,
+      "url": "https://gratisapi.com/api/fourth-powers/43"
+    },
+    {
+      "id": 44,
+      "index": 45,
+      "value": 4100625,
+      "url": "https://gratisapi.com/api/fourth-powers/44"
+    },
+    {
+      "id": 45,
+      "index": 46,
+      "value": 4477456,
+      "url": "https://gratisapi.com/api/fourth-powers/45"
+    },
+    {
+      "id": 46,
+      "index": 47,
+      "value": 4879681,
+      "url": "https://gratisapi.com/api/fourth-powers/46"
+    },
+    {
+      "id": 47,
+      "index": 48,
+      "value": 5308416,
+      "url": "https://gratisapi.com/api/fourth-powers/47"
+    },
+    {
+      "id": 48,
+      "index": 49,
+      "value": 5764801,
+      "url": "https://gratisapi.com/api/fourth-powers/48"
+    },
+    {
+      "id": 49,
+      "index": 50,
+      "value": 6250000,
+      "url": "https://gratisapi.com/api/fourth-powers/49"
+    },
+    {
+      "id": 50,
+      "index": 51,
+      "value": 6765201,
+      "url": "https://gratisapi.com/api/fourth-powers/50"
+    },
+    {
+      "id": 51,
+      "index": 52,
+      "value": 7311616,
+      "url": "https://gratisapi.com/api/fourth-powers/51"
+    },
+    {
+      "id": 52,
+      "index": 53,
+      "value": 7890481,
+      "url": "https://gratisapi.com/api/fourth-powers/52"
+    },
+    {
+      "id": 53,
+      "index": 54,
+      "value": 8503056,
+      "url": "https://gratisapi.com/api/fourth-powers/53"
+    },
+    {
+      "id": 54,
+      "index": 55,
+      "value": 9150625,
+      "url": "https://gratisapi.com/api/fourth-powers/54"
+    },
+    {
+      "id": 55,
+      "index": 56,
+      "value": 9834496,
+      "url": "https://gratisapi.com/api/fourth-powers/55"
+    },
+    {
+      "id": 56,
+      "index": 57,
+      "value": 10556001,
+      "url": "https://gratisapi.com/api/fourth-powers/56"
+    },
+    {
+      "id": 57,
+      "index": 58,
+      "value": 11316496,
+      "url": "https://gratisapi.com/api/fourth-powers/57"
+    },
+    {
+      "id": 58,
+      "index": 59,
+      "value": 12117361,
+      "url": "https://gratisapi.com/api/fourth-powers/58"
+    },
+    {
+      "id": 59,
+      "index": 60,
+      "value": 12960000,
+      "url": "https://gratisapi.com/api/fourth-powers/59"
+    },
+    {
+      "id": 60,
+      "index": 61,
+      "value": 13845841,
+      "url": "https://gratisapi.com/api/fourth-powers/60"
+    },
+    {
+      "id": 61,
+      "index": 62,
+      "value": 14776336,
+      "url": "https://gratisapi.com/api/fourth-powers/61"
+    },
+    {
+      "id": 62,
+      "index": 63,
+      "value": 15752961,
+      "url": "https://gratisapi.com/api/fourth-powers/62"
+    },
+    {
+      "id": 63,
+      "index": 64,
+      "value": 16777216,
+      "url": "https://gratisapi.com/api/fourth-powers/63"
+    },
+    {
+      "id": 64,
+      "index": 65,
+      "value": 17850625,
+      "url": "https://gratisapi.com/api/fourth-powers/64"
+    },
+    {
+      "id": 65,
+      "index": 66,
+      "value": 18974736,
+      "url": "https://gratisapi.com/api/fourth-powers/65"
+    },
+    {
+      "id": 66,
+      "index": 67,
+      "value": 20151121,
+      "url": "https://gratisapi.com/api/fourth-powers/66"
+    },
+    {
+      "id": 67,
+      "index": 68,
+      "value": 21381376,
+      "url": "https://gratisapi.com/api/fourth-powers/67"
+    },
+    {
+      "id": 68,
+      "index": 69,
+      "value": 22667121,
+      "url": "https://gratisapi.com/api/fourth-powers/68"
+    },
+    {
+      "id": 69,
+      "index": 70,
+      "value": 24010000,
+      "url": "https://gratisapi.com/api/fourth-powers/69"
+    },
+    {
+      "id": 70,
+      "index": 71,
+      "value": 25411681,
+      "url": "https://gratisapi.com/api/fourth-powers/70"
+    },
+    {
+      "id": 71,
+      "index": 72,
+      "value": 26873856,
+      "url": "https://gratisapi.com/api/fourth-powers/71"
+    },
+    {
+      "id": 72,
+      "index": 73,
+      "value": 28398241,
+      "url": "https://gratisapi.com/api/fourth-powers/72"
+    },
+    {
+      "id": 73,
+      "index": 74,
+      "value": 29986576,
+      "url": "https://gratisapi.com/api/fourth-powers/73"
+    },
+    {
+      "id": 74,
+      "index": 75,
+      "value": 31640625,
+      "url": "https://gratisapi.com/api/fourth-powers/74"
+    },
+    {
+      "id": 75,
+      "index": 76,
+      "value": 33362176,
+      "url": "https://gratisapi.com/api/fourth-powers/75"
+    },
+    {
+      "id": 76,
+      "index": 77,
+      "value": 35153041,
+      "url": "https://gratisapi.com/api/fourth-powers/76"
+    },
+    {
+      "id": 77,
+      "index": 78,
+      "value": 37015056,
+      "url": "https://gratisapi.com/api/fourth-powers/77"
+    },
+    {
+      "id": 78,
+      "index": 79,
+      "value": 38950081,
+      "url": "https://gratisapi.com/api/fourth-powers/78"
+    },
+    {
+      "id": 79,
+      "index": 80,
+      "value": 40960000,
+      "url": "https://gratisapi.com/api/fourth-powers/79"
+    },
+    {
+      "id": 80,
+      "index": 81,
+      "value": 43046721,
+      "url": "https://gratisapi.com/api/fourth-powers/80"
+    },
+    {
+      "id": 81,
+      "index": 82,
+      "value": 45212176,
+      "url": "https://gratisapi.com/api/fourth-powers/81"
+    },
+    {
+      "id": 82,
+      "index": 83,
+      "value": 47458321,
+      "url": "https://gratisapi.com/api/fourth-powers/82"
+    },
+    {
+      "id": 83,
+      "index": 84,
+      "value": 49787136,
+      "url": "https://gratisapi.com/api/fourth-powers/83"
+    },
+    {
+      "id": 84,
+      "index": 85,
+      "value": 52200625,
+      "url": "https://gratisapi.com/api/fourth-powers/84"
+    },
+    {
+      "id": 85,
+      "index": 86,
+      "value": 54700816,
+      "url": "https://gratisapi.com/api/fourth-powers/85"
+    },
+    {
+      "id": 86,
+      "index": 87,
+      "value": 57289761,
+      "url": "https://gratisapi.com/api/fourth-powers/86"
+    },
+    {
+      "id": 87,
+      "index": 88,
+      "value": 59969536,
+      "url": "https://gratisapi.com/api/fourth-powers/87"
+    },
+    {
+      "id": 88,
+      "index": 89,
+      "value": 62742241,
+      "url": "https://gratisapi.com/api/fourth-powers/88"
+    },
+    {
+      "id": 89,
+      "index": 90,
+      "value": 65610000,
+      "url": "https://gratisapi.com/api/fourth-powers/89"
+    },
+    {
+      "id": 90,
+      "index": 91,
+      "value": 68574961,
+      "url": "https://gratisapi.com/api/fourth-powers/90"
+    },
+    {
+      "id": 91,
+      "index": 92,
+      "value": 71639296,
+      "url": "https://gratisapi.com/api/fourth-powers/91"
+    },
+    {
+      "id": 92,
+      "index": 93,
+      "value": 74805201,
+      "url": "https://gratisapi.com/api/fourth-powers/92"
+    },
+    {
+      "id": 93,
+      "index": 94,
+      "value": 78074896,
+      "url": "https://gratisapi.com/api/fourth-powers/93"
+    },
+    {
+      "id": 94,
+      "index": 95,
+      "value": 81450625,
+      "url": "https://gratisapi.com/api/fourth-powers/94"
+    },
+    {
+      "id": 95,
+      "index": 96,
+      "value": 84934656,
+      "url": "https://gratisapi.com/api/fourth-powers/95"
+    },
+    {
+      "id": 96,
+      "index": 97,
+      "value": 88529281,
+      "url": "https://gratisapi.com/api/fourth-powers/96"
+    },
+    {
+      "id": 97,
+      "index": 98,
+      "value": 92236816,
+      "url": "https://gratisapi.com/api/fourth-powers/97"
+    },
+    {
+      "id": 98,
+      "index": 99,
+      "value": 96059601,
+      "url": "https://gratisapi.com/api/fourth-powers/98"
+    },
+    {
+      "id": 99,
+      "index": 100,
+      "value": 100000000,
+      "url": "https://gratisapi.com/api/fourth-powers/99"
+    }
+  ]
+}

@@ -1,0 +1,2327 @@
+{
+  "api": "unicode-mathematical-alphanumeric-symbols",
+  "title": "Mathematical Alphanumeric Symbols",
+  "description": "The Mathematical Alphanumeric Symbols Unicode block (U+1D400..U+1D7FF) — first 256 of 996 named characters.",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 256,
+  "self": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u1D400",
+      "codepoint": 119808,
+      "hex": "U+1D400",
+      "char": "𝐀",
+      "name": "MATHEMATICAL BOLD CAPITAL A",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D400"
+    },
+    {
+      "id": "u1D401",
+      "codepoint": 119809,
+      "hex": "U+1D401",
+      "char": "𝐁",
+      "name": "MATHEMATICAL BOLD CAPITAL B",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D401"
+    },
+    {
+      "id": "u1D402",
+      "codepoint": 119810,
+      "hex": "U+1D402",
+      "char": "𝐂",
+      "name": "MATHEMATICAL BOLD CAPITAL C",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D402"
+    },
+    {
+      "id": "u1D403",
+      "codepoint": 119811,
+      "hex": "U+1D403",
+      "char": "𝐃",
+      "name": "MATHEMATICAL BOLD CAPITAL D",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D403"
+    },
+    {
+      "id": "u1D404",
+      "codepoint": 119812,
+      "hex": "U+1D404",
+      "char": "𝐄",
+      "name": "MATHEMATICAL BOLD CAPITAL E",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D404"
+    },
+    {
+      "id": "u1D405",
+      "codepoint": 119813,
+      "hex": "U+1D405",
+      "char": "𝐅",
+      "name": "MATHEMATICAL BOLD CAPITAL F",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D405"
+    },
+    {
+      "id": "u1D406",
+      "codepoint": 119814,
+      "hex": "U+1D406",
+      "char": "𝐆",
+      "name": "MATHEMATICAL BOLD CAPITAL G",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D406"
+    },
+    {
+      "id": "u1D407",
+      "codepoint": 119815,
+      "hex": "U+1D407",
+      "char": "𝐇",
+      "name": "MATHEMATICAL BOLD CAPITAL H",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D407"
+    },
+    {
+      "id": "u1D408",
+      "codepoint": 119816,
+      "hex": "U+1D408",
+      "char": "𝐈",
+      "name": "MATHEMATICAL BOLD CAPITAL I",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D408"
+    },
+    {
+      "id": "u1D409",
+      "codepoint": 119817,
+      "hex": "U+1D409",
+      "char": "𝐉",
+      "name": "MATHEMATICAL BOLD CAPITAL J",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D409"
+    },
+    {
+      "id": "u1D40A",
+      "codepoint": 119818,
+      "hex": "U+1D40A",
+      "char": "𝐊",
+      "name": "MATHEMATICAL BOLD CAPITAL K",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D40A"
+    },
+    {
+      "id": "u1D40B",
+      "codepoint": 119819,
+      "hex": "U+1D40B",
+      "char": "𝐋",
+      "name": "MATHEMATICAL BOLD CAPITAL L",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D40B"
+    },
+    {
+      "id": "u1D40C",
+      "codepoint": 119820,
+      "hex": "U+1D40C",
+      "char": "𝐌",
+      "name": "MATHEMATICAL BOLD CAPITAL M",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D40C"
+    },
+    {
+      "id": "u1D40D",
+      "codepoint": 119821,
+      "hex": "U+1D40D",
+      "char": "𝐍",
+      "name": "MATHEMATICAL BOLD CAPITAL N",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D40D"
+    },
+    {
+      "id": "u1D40E",
+      "codepoint": 119822,
+      "hex": "U+1D40E",
+      "char": "𝐎",
+      "name": "MATHEMATICAL BOLD CAPITAL O",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D40E"
+    },
+    {
+      "id": "u1D40F",
+      "codepoint": 119823,
+      "hex": "U+1D40F",
+      "char": "𝐏",
+      "name": "MATHEMATICAL BOLD CAPITAL P",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D40F"
+    },
+    {
+      "id": "u1D410",
+      "codepoint": 119824,
+      "hex": "U+1D410",
+      "char": "𝐐",
+      "name": "MATHEMATICAL BOLD CAPITAL Q",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D410"
+    },
+    {
+      "id": "u1D411",
+      "codepoint": 119825,
+      "hex": "U+1D411",
+      "char": "𝐑",
+      "name": "MATHEMATICAL BOLD CAPITAL R",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D411"
+    },
+    {
+      "id": "u1D412",
+      "codepoint": 119826,
+      "hex": "U+1D412",
+      "char": "𝐒",
+      "name": "MATHEMATICAL BOLD CAPITAL S",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D412"
+    },
+    {
+      "id": "u1D413",
+      "codepoint": 119827,
+      "hex": "U+1D413",
+      "char": "𝐓",
+      "name": "MATHEMATICAL BOLD CAPITAL T",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D413"
+    },
+    {
+      "id": "u1D414",
+      "codepoint": 119828,
+      "hex": "U+1D414",
+      "char": "𝐔",
+      "name": "MATHEMATICAL BOLD CAPITAL U",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D414"
+    },
+    {
+      "id": "u1D415",
+      "codepoint": 119829,
+      "hex": "U+1D415",
+      "char": "𝐕",
+      "name": "MATHEMATICAL BOLD CAPITAL V",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D415"
+    },
+    {
+      "id": "u1D416",
+      "codepoint": 119830,
+      "hex": "U+1D416",
+      "char": "𝐖",
+      "name": "MATHEMATICAL BOLD CAPITAL W",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D416"
+    },
+    {
+      "id": "u1D417",
+      "codepoint": 119831,
+      "hex": "U+1D417",
+      "char": "𝐗",
+      "name": "MATHEMATICAL BOLD CAPITAL X",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D417"
+    },
+    {
+      "id": "u1D418",
+      "codepoint": 119832,
+      "hex": "U+1D418",
+      "char": "𝐘",
+      "name": "MATHEMATICAL BOLD CAPITAL Y",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D418"
+    },
+    {
+      "id": "u1D419",
+      "codepoint": 119833,
+      "hex": "U+1D419",
+      "char": "𝐙",
+      "name": "MATHEMATICAL BOLD CAPITAL Z",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D419"
+    },
+    {
+      "id": "u1D41A",
+      "codepoint": 119834,
+      "hex": "U+1D41A",
+      "char": "𝐚",
+      "name": "MATHEMATICAL BOLD SMALL A",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D41A"
+    },
+    {
+      "id": "u1D41B",
+      "codepoint": 119835,
+      "hex": "U+1D41B",
+      "char": "𝐛",
+      "name": "MATHEMATICAL BOLD SMALL B",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D41B"
+    },
+    {
+      "id": "u1D41C",
+      "codepoint": 119836,
+      "hex": "U+1D41C",
+      "char": "𝐜",
+      "name": "MATHEMATICAL BOLD SMALL C",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D41C"
+    },
+    {
+      "id": "u1D41D",
+      "codepoint": 119837,
+      "hex": "U+1D41D",
+      "char": "𝐝",
+      "name": "MATHEMATICAL BOLD SMALL D",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D41D"
+    },
+    {
+      "id": "u1D41E",
+      "codepoint": 119838,
+      "hex": "U+1D41E",
+      "char": "𝐞",
+      "name": "MATHEMATICAL BOLD SMALL E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D41E"
+    },
+    {
+      "id": "u1D41F",
+      "codepoint": 119839,
+      "hex": "U+1D41F",
+      "char": "𝐟",
+      "name": "MATHEMATICAL BOLD SMALL F",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D41F"
+    },
+    {
+      "id": "u1D420",
+      "codepoint": 119840,
+      "hex": "U+1D420",
+      "char": "𝐠",
+      "name": "MATHEMATICAL BOLD SMALL G",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D420"
+    },
+    {
+      "id": "u1D421",
+      "codepoint": 119841,
+      "hex": "U+1D421",
+      "char": "𝐡",
+      "name": "MATHEMATICAL BOLD SMALL H",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D421"
+    },
+    {
+      "id": "u1D422",
+      "codepoint": 119842,
+      "hex": "U+1D422",
+      "char": "𝐢",
+      "name": "MATHEMATICAL BOLD SMALL I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D422"
+    },
+    {
+      "id": "u1D423",
+      "codepoint": 119843,
+      "hex": "U+1D423",
+      "char": "𝐣",
+      "name": "MATHEMATICAL BOLD SMALL J",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D423"
+    },
+    {
+      "id": "u1D424",
+      "codepoint": 119844,
+      "hex": "U+1D424",
+      "char": "𝐤",
+      "name": "MATHEMATICAL BOLD SMALL K",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D424"
+    },
+    {
+      "id": "u1D425",
+      "codepoint": 119845,
+      "hex": "U+1D425",
+      "char": "𝐥",
+      "name": "MATHEMATICAL BOLD SMALL L",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D425"
+    },
+    {
+      "id": "u1D426",
+      "codepoint": 119846,
+      "hex": "U+1D426",
+      "char": "𝐦",
+      "name": "MATHEMATICAL BOLD SMALL M",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D426"
+    },
+    {
+      "id": "u1D427",
+      "codepoint": 119847,
+      "hex": "U+1D427",
+      "char": "𝐧",
+      "name": "MATHEMATICAL BOLD SMALL N",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D427"
+    },
+    {
+      "id": "u1D428",
+      "codepoint": 119848,
+      "hex": "U+1D428",
+      "char": "𝐨",
+      "name": "MATHEMATICAL BOLD SMALL O",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D428"
+    },
+    {
+      "id": "u1D429",
+      "codepoint": 119849,
+      "hex": "U+1D429",
+      "char": "𝐩",
+      "name": "MATHEMATICAL BOLD SMALL P",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D429"
+    },
+    {
+      "id": "u1D42A",
+      "codepoint": 119850,
+      "hex": "U+1D42A",
+      "char": "𝐪",
+      "name": "MATHEMATICAL BOLD SMALL Q",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D42A"
+    },
+    {
+      "id": "u1D42B",
+      "codepoint": 119851,
+      "hex": "U+1D42B",
+      "char": "𝐫",
+      "name": "MATHEMATICAL BOLD SMALL R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D42B"
+    },
+    {
+      "id": "u1D42C",
+      "codepoint": 119852,
+      "hex": "U+1D42C",
+      "char": "𝐬",
+      "name": "MATHEMATICAL BOLD SMALL S",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D42C"
+    },
+    {
+      "id": "u1D42D",
+      "codepoint": 119853,
+      "hex": "U+1D42D",
+      "char": "𝐭",
+      "name": "MATHEMATICAL BOLD SMALL T",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D42D"
+    },
+    {
+      "id": "u1D42E",
+      "codepoint": 119854,
+      "hex": "U+1D42E",
+      "char": "𝐮",
+      "name": "MATHEMATICAL BOLD SMALL U",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D42E"
+    },
+    {
+      "id": "u1D42F",
+      "codepoint": 119855,
+      "hex": "U+1D42F",
+      "char": "𝐯",
+      "name": "MATHEMATICAL BOLD SMALL V",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D42F"
+    },
+    {
+      "id": "u1D430",
+      "codepoint": 119856,
+      "hex": "U+1D430",
+      "char": "𝐰",
+      "name": "MATHEMATICAL BOLD SMALL W",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D430"
+    },
+    {
+      "id": "u1D431",
+      "codepoint": 119857,
+      "hex": "U+1D431",
+      "char": "𝐱",
+      "name": "MATHEMATICAL BOLD SMALL X",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D431"
+    },
+    {
+      "id": "u1D432",
+      "codepoint": 119858,
+      "hex": "U+1D432",
+      "char": "𝐲",
+      "name": "MATHEMATICAL BOLD SMALL Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D432"
+    },
+    {
+      "id": "u1D433",
+      "codepoint": 119859,
+      "hex": "U+1D433",
+      "char": "𝐳",
+      "name": "MATHEMATICAL BOLD SMALL Z",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D433"
+    },
+    {
+      "id": "u1D434",
+      "codepoint": 119860,
+      "hex": "U+1D434",
+      "char": "𝐴",
+      "name": "MATHEMATICAL ITALIC CAPITAL A",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D434"
+    },
+    {
+      "id": "u1D435",
+      "codepoint": 119861,
+      "hex": "U+1D435",
+      "char": "𝐵",
+      "name": "MATHEMATICAL ITALIC CAPITAL B",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D435"
+    },
+    {
+      "id": "u1D436",
+      "codepoint": 119862,
+      "hex": "U+1D436",
+      "char": "𝐶",
+      "name": "MATHEMATICAL ITALIC CAPITAL C",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D436"
+    },
+    {
+      "id": "u1D437",
+      "codepoint": 119863,
+      "hex": "U+1D437",
+      "char": "𝐷",
+      "name": "MATHEMATICAL ITALIC CAPITAL D",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D437"
+    },
+    {
+      "id": "u1D438",
+      "codepoint": 119864,
+      "hex": "U+1D438",
+      "char": "𝐸",
+      "name": "MATHEMATICAL ITALIC CAPITAL E",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D438"
+    },
+    {
+      "id": "u1D439",
+      "codepoint": 119865,
+      "hex": "U+1D439",
+      "char": "𝐹",
+      "name": "MATHEMATICAL ITALIC CAPITAL F",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D439"
+    },
+    {
+      "id": "u1D43A",
+      "codepoint": 119866,
+      "hex": "U+1D43A",
+      "char": "𝐺",
+      "name": "MATHEMATICAL ITALIC CAPITAL G",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D43A"
+    },
+    {
+      "id": "u1D43B",
+      "codepoint": 119867,
+      "hex": "U+1D43B",
+      "char": "𝐻",
+      "name": "MATHEMATICAL ITALIC CAPITAL H",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D43B"
+    },
+    {
+      "id": "u1D43C",
+      "codepoint": 119868,
+      "hex": "U+1D43C",
+      "char": "𝐼",
+      "name": "MATHEMATICAL ITALIC CAPITAL I",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D43C"
+    },
+    {
+      "id": "u1D43D",
+      "codepoint": 119869,
+      "hex": "U+1D43D",
+      "char": "𝐽",
+      "name": "MATHEMATICAL ITALIC CAPITAL J",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D43D"
+    },
+    {
+      "id": "u1D43E",
+      "codepoint": 119870,
+      "hex": "U+1D43E",
+      "char": "𝐾",
+      "name": "MATHEMATICAL ITALIC CAPITAL K",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D43E"
+    },
+    {
+      "id": "u1D43F",
+      "codepoint": 119871,
+      "hex": "U+1D43F",
+      "char": "𝐿",
+      "name": "MATHEMATICAL ITALIC CAPITAL L",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D43F"
+    },
+    {
+      "id": "u1D440",
+      "codepoint": 119872,
+      "hex": "U+1D440",
+      "char": "𝑀",
+      "name": "MATHEMATICAL ITALIC CAPITAL M",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D440"
+    },
+    {
+      "id": "u1D441",
+      "codepoint": 119873,
+      "hex": "U+1D441",
+      "char": "𝑁",
+      "name": "MATHEMATICAL ITALIC CAPITAL N",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D441"
+    },
+    {
+      "id": "u1D442",
+      "codepoint": 119874,
+      "hex": "U+1D442",
+      "char": "𝑂",
+      "name": "MATHEMATICAL ITALIC CAPITAL O",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D442"
+    },
+    {
+      "id": "u1D443",
+      "codepoint": 119875,
+      "hex": "U+1D443",
+      "char": "𝑃",
+      "name": "MATHEMATICAL ITALIC CAPITAL P",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D443"
+    },
+    {
+      "id": "u1D444",
+      "codepoint": 119876,
+      "hex": "U+1D444",
+      "char": "𝑄",
+      "name": "MATHEMATICAL ITALIC CAPITAL Q",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D444"
+    },
+    {
+      "id": "u1D445",
+      "codepoint": 119877,
+      "hex": "U+1D445",
+      "char": "𝑅",
+      "name": "MATHEMATICAL ITALIC CAPITAL R",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D445"
+    },
+    {
+      "id": "u1D446",
+      "codepoint": 119878,
+      "hex": "U+1D446",
+      "char": "𝑆",
+      "name": "MATHEMATICAL ITALIC CAPITAL S",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D446"
+    },
+    {
+      "id": "u1D447",
+      "codepoint": 119879,
+      "hex": "U+1D447",
+      "char": "𝑇",
+      "name": "MATHEMATICAL ITALIC CAPITAL T",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D447"
+    },
+    {
+      "id": "u1D448",
+      "codepoint": 119880,
+      "hex": "U+1D448",
+      "char": "𝑈",
+      "name": "MATHEMATICAL ITALIC CAPITAL U",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D448"
+    },
+    {
+      "id": "u1D449",
+      "codepoint": 119881,
+      "hex": "U+1D449",
+      "char": "𝑉",
+      "name": "MATHEMATICAL ITALIC CAPITAL V",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D449"
+    },
+    {
+      "id": "u1D44A",
+      "codepoint": 119882,
+      "hex": "U+1D44A",
+      "char": "𝑊",
+      "name": "MATHEMATICAL ITALIC CAPITAL W",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D44A"
+    },
+    {
+      "id": "u1D44B",
+      "codepoint": 119883,
+      "hex": "U+1D44B",
+      "char": "𝑋",
+      "name": "MATHEMATICAL ITALIC CAPITAL X",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D44B"
+    },
+    {
+      "id": "u1D44C",
+      "codepoint": 119884,
+      "hex": "U+1D44C",
+      "char": "𝑌",
+      "name": "MATHEMATICAL ITALIC CAPITAL Y",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D44C"
+    },
+    {
+      "id": "u1D44D",
+      "codepoint": 119885,
+      "hex": "U+1D44D",
+      "char": "𝑍",
+      "name": "MATHEMATICAL ITALIC CAPITAL Z",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D44D"
+    },
+    {
+      "id": "u1D44E",
+      "codepoint": 119886,
+      "hex": "U+1D44E",
+      "char": "𝑎",
+      "name": "MATHEMATICAL ITALIC SMALL A",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D44E"
+    },
+    {
+      "id": "u1D44F",
+      "codepoint": 119887,
+      "hex": "U+1D44F",
+      "char": "𝑏",
+      "name": "MATHEMATICAL ITALIC SMALL B",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D44F"
+    },
+    {
+      "id": "u1D450",
+      "codepoint": 119888,
+      "hex": "U+1D450",
+      "char": "𝑐",
+      "name": "MATHEMATICAL ITALIC SMALL C",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D450"
+    },
+    {
+      "id": "u1D451",
+      "codepoint": 119889,
+      "hex": "U+1D451",
+      "char": "𝑑",
+      "name": "MATHEMATICAL ITALIC SMALL D",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D451"
+    },
+    {
+      "id": "u1D452",
+      "codepoint": 119890,
+      "hex": "U+1D452",
+      "char": "𝑒",
+      "name": "MATHEMATICAL ITALIC SMALL E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D452"
+    },
+    {
+      "id": "u1D453",
+      "codepoint": 119891,
+      "hex": "U+1D453",
+      "char": "𝑓",
+      "name": "MATHEMATICAL ITALIC SMALL F",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D453"
+    },
+    {
+      "id": "u1D454",
+      "codepoint": 119892,
+      "hex": "U+1D454",
+      "char": "𝑔",
+      "name": "MATHEMATICAL ITALIC SMALL G",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D454"
+    },
+    {
+      "id": "u1D456",
+      "codepoint": 119894,
+      "hex": "U+1D456",
+      "char": "𝑖",
+      "name": "MATHEMATICAL ITALIC SMALL I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D456"
+    },
+    {
+      "id": "u1D457",
+      "codepoint": 119895,
+      "hex": "U+1D457",
+      "char": "𝑗",
+      "name": "MATHEMATICAL ITALIC SMALL J",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D457"
+    },
+    {
+      "id": "u1D458",
+      "codepoint": 119896,
+      "hex": "U+1D458",
+      "char": "𝑘",
+      "name": "MATHEMATICAL ITALIC SMALL K",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D458"
+    },
+    {
+      "id": "u1D459",
+      "codepoint": 119897,
+      "hex": "U+1D459",
+      "char": "𝑙",
+      "name": "MATHEMATICAL ITALIC SMALL L",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D459"
+    },
+    {
+      "id": "u1D45A",
+      "codepoint": 119898,
+      "hex": "U+1D45A",
+      "char": "𝑚",
+      "name": "MATHEMATICAL ITALIC SMALL M",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D45A"
+    },
+    {
+      "id": "u1D45B",
+      "codepoint": 119899,
+      "hex": "U+1D45B",
+      "char": "𝑛",
+      "name": "MATHEMATICAL ITALIC SMALL N",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D45B"
+    },
+    {
+      "id": "u1D45C",
+      "codepoint": 119900,
+      "hex": "U+1D45C",
+      "char": "𝑜",
+      "name": "MATHEMATICAL ITALIC SMALL O",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D45C"
+    },
+    {
+      "id": "u1D45D",
+      "codepoint": 119901,
+      "hex": "U+1D45D",
+      "char": "𝑝",
+      "name": "MATHEMATICAL ITALIC SMALL P",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D45D"
+    },
+    {
+      "id": "u1D45E",
+      "codepoint": 119902,
+      "hex": "U+1D45E",
+      "char": "𝑞",
+      "name": "MATHEMATICAL ITALIC SMALL Q",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D45E"
+    },
+    {
+      "id": "u1D45F",
+      "codepoint": 119903,
+      "hex": "U+1D45F",
+      "char": "𝑟",
+      "name": "MATHEMATICAL ITALIC SMALL R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D45F"
+    },
+    {
+      "id": "u1D460",
+      "codepoint": 119904,
+      "hex": "U+1D460",
+      "char": "𝑠",
+      "name": "MATHEMATICAL ITALIC SMALL S",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D460"
+    },
+    {
+      "id": "u1D461",
+      "codepoint": 119905,
+      "hex": "U+1D461",
+      "char": "𝑡",
+      "name": "MATHEMATICAL ITALIC SMALL T",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D461"
+    },
+    {
+      "id": "u1D462",
+      "codepoint": 119906,
+      "hex": "U+1D462",
+      "char": "𝑢",
+      "name": "MATHEMATICAL ITALIC SMALL U",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D462"
+    },
+    {
+      "id": "u1D463",
+      "codepoint": 119907,
+      "hex": "U+1D463",
+      "char": "𝑣",
+      "name": "MATHEMATICAL ITALIC SMALL V",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D463"
+    },
+    {
+      "id": "u1D464",
+      "codepoint": 119908,
+      "hex": "U+1D464",
+      "char": "𝑤",
+      "name": "MATHEMATICAL ITALIC SMALL W",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D464"
+    },
+    {
+      "id": "u1D465",
+      "codepoint": 119909,
+      "hex": "U+1D465",
+      "char": "𝑥",
+      "name": "MATHEMATICAL ITALIC SMALL X",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D465"
+    },
+    {
+      "id": "u1D466",
+      "codepoint": 119910,
+      "hex": "U+1D466",
+      "char": "𝑦",
+      "name": "MATHEMATICAL ITALIC SMALL Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D466"
+    },
+    {
+      "id": "u1D467",
+      "codepoint": 119911,
+      "hex": "U+1D467",
+      "char": "𝑧",
+      "name": "MATHEMATICAL ITALIC SMALL Z",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D467"
+    },
+    {
+      "id": "u1D468",
+      "codepoint": 119912,
+      "hex": "U+1D468",
+      "char": "𝑨",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL A",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D468"
+    },
+    {
+      "id": "u1D469",
+      "codepoint": 119913,
+      "hex": "U+1D469",
+      "char": "𝑩",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL B",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D469"
+    },
+    {
+      "id": "u1D46A",
+      "codepoint": 119914,
+      "hex": "U+1D46A",
+      "char": "𝑪",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL C",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D46A"
+    },
+    {
+      "id": "u1D46B",
+      "codepoint": 119915,
+      "hex": "U+1D46B",
+      "char": "𝑫",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL D",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D46B"
+    },
+    {
+      "id": "u1D46C",
+      "codepoint": 119916,
+      "hex": "U+1D46C",
+      "char": "𝑬",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL E",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D46C"
+    },
+    {
+      "id": "u1D46D",
+      "codepoint": 119917,
+      "hex": "U+1D46D",
+      "char": "𝑭",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL F",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D46D"
+    },
+    {
+      "id": "u1D46E",
+      "codepoint": 119918,
+      "hex": "U+1D46E",
+      "char": "𝑮",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL G",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D46E"
+    },
+    {
+      "id": "u1D46F",
+      "codepoint": 119919,
+      "hex": "U+1D46F",
+      "char": "𝑯",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL H",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D46F"
+    },
+    {
+      "id": "u1D470",
+      "codepoint": 119920,
+      "hex": "U+1D470",
+      "char": "𝑰",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL I",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D470"
+    },
+    {
+      "id": "u1D471",
+      "codepoint": 119921,
+      "hex": "U+1D471",
+      "char": "𝑱",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL J",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D471"
+    },
+    {
+      "id": "u1D472",
+      "codepoint": 119922,
+      "hex": "U+1D472",
+      "char": "𝑲",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL K",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D472"
+    },
+    {
+      "id": "u1D473",
+      "codepoint": 119923,
+      "hex": "U+1D473",
+      "char": "𝑳",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL L",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D473"
+    },
+    {
+      "id": "u1D474",
+      "codepoint": 119924,
+      "hex": "U+1D474",
+      "char": "𝑴",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL M",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D474"
+    },
+    {
+      "id": "u1D475",
+      "codepoint": 119925,
+      "hex": "U+1D475",
+      "char": "𝑵",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL N",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D475"
+    },
+    {
+      "id": "u1D476",
+      "codepoint": 119926,
+      "hex": "U+1D476",
+      "char": "𝑶",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL O",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D476"
+    },
+    {
+      "id": "u1D477",
+      "codepoint": 119927,
+      "hex": "U+1D477",
+      "char": "𝑷",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL P",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D477"
+    },
+    {
+      "id": "u1D478",
+      "codepoint": 119928,
+      "hex": "U+1D478",
+      "char": "𝑸",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL Q",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D478"
+    },
+    {
+      "id": "u1D479",
+      "codepoint": 119929,
+      "hex": "U+1D479",
+      "char": "𝑹",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL R",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D479"
+    },
+    {
+      "id": "u1D47A",
+      "codepoint": 119930,
+      "hex": "U+1D47A",
+      "char": "𝑺",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL S",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D47A"
+    },
+    {
+      "id": "u1D47B",
+      "codepoint": 119931,
+      "hex": "U+1D47B",
+      "char": "𝑻",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL T",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D47B"
+    },
+    {
+      "id": "u1D47C",
+      "codepoint": 119932,
+      "hex": "U+1D47C",
+      "char": "𝑼",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL U",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D47C"
+    },
+    {
+      "id": "u1D47D",
+      "codepoint": 119933,
+      "hex": "U+1D47D",
+      "char": "𝑽",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL V",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D47D"
+    },
+    {
+      "id": "u1D47E",
+      "codepoint": 119934,
+      "hex": "U+1D47E",
+      "char": "𝑾",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL W",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D47E"
+    },
+    {
+      "id": "u1D47F",
+      "codepoint": 119935,
+      "hex": "U+1D47F",
+      "char": "𝑿",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL X",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D47F"
+    },
+    {
+      "id": "u1D480",
+      "codepoint": 119936,
+      "hex": "U+1D480",
+      "char": "𝒀",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL Y",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D480"
+    },
+    {
+      "id": "u1D481",
+      "codepoint": 119937,
+      "hex": "U+1D481",
+      "char": "𝒁",
+      "name": "MATHEMATICAL BOLD ITALIC CAPITAL Z",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D481"
+    },
+    {
+      "id": "u1D482",
+      "codepoint": 119938,
+      "hex": "U+1D482",
+      "char": "𝒂",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL A",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D482"
+    },
+    {
+      "id": "u1D483",
+      "codepoint": 119939,
+      "hex": "U+1D483",
+      "char": "𝒃",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL B",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D483"
+    },
+    {
+      "id": "u1D484",
+      "codepoint": 119940,
+      "hex": "U+1D484",
+      "char": "𝒄",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL C",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D484"
+    },
+    {
+      "id": "u1D485",
+      "codepoint": 119941,
+      "hex": "U+1D485",
+      "char": "𝒅",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL D",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D485"
+    },
+    {
+      "id": "u1D486",
+      "codepoint": 119942,
+      "hex": "U+1D486",
+      "char": "𝒆",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D486"
+    },
+    {
+      "id": "u1D487",
+      "codepoint": 119943,
+      "hex": "U+1D487",
+      "char": "𝒇",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL F",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D487"
+    },
+    {
+      "id": "u1D488",
+      "codepoint": 119944,
+      "hex": "U+1D488",
+      "char": "𝒈",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL G",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D488"
+    },
+    {
+      "id": "u1D489",
+      "codepoint": 119945,
+      "hex": "U+1D489",
+      "char": "𝒉",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL H",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D489"
+    },
+    {
+      "id": "u1D48A",
+      "codepoint": 119946,
+      "hex": "U+1D48A",
+      "char": "𝒊",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D48A"
+    },
+    {
+      "id": "u1D48B",
+      "codepoint": 119947,
+      "hex": "U+1D48B",
+      "char": "𝒋",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL J",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D48B"
+    },
+    {
+      "id": "u1D48C",
+      "codepoint": 119948,
+      "hex": "U+1D48C",
+      "char": "𝒌",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL K",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D48C"
+    },
+    {
+      "id": "u1D48D",
+      "codepoint": 119949,
+      "hex": "U+1D48D",
+      "char": "𝒍",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL L",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D48D"
+    },
+    {
+      "id": "u1D48E",
+      "codepoint": 119950,
+      "hex": "U+1D48E",
+      "char": "𝒎",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL M",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D48E"
+    },
+    {
+      "id": "u1D48F",
+      "codepoint": 119951,
+      "hex": "U+1D48F",
+      "char": "𝒏",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL N",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D48F"
+    },
+    {
+      "id": "u1D490",
+      "codepoint": 119952,
+      "hex": "U+1D490",
+      "char": "𝒐",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL O",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D490"
+    },
+    {
+      "id": "u1D491",
+      "codepoint": 119953,
+      "hex": "U+1D491",
+      "char": "𝒑",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL P",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D491"
+    },
+    {
+      "id": "u1D492",
+      "codepoint": 119954,
+      "hex": "U+1D492",
+      "char": "𝒒",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL Q",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D492"
+    },
+    {
+      "id": "u1D493",
+      "codepoint": 119955,
+      "hex": "U+1D493",
+      "char": "𝒓",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D493"
+    },
+    {
+      "id": "u1D494",
+      "codepoint": 119956,
+      "hex": "U+1D494",
+      "char": "𝒔",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL S",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D494"
+    },
+    {
+      "id": "u1D495",
+      "codepoint": 119957,
+      "hex": "U+1D495",
+      "char": "𝒕",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL T",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D495"
+    },
+    {
+      "id": "u1D496",
+      "codepoint": 119958,
+      "hex": "U+1D496",
+      "char": "𝒖",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL U",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D496"
+    },
+    {
+      "id": "u1D497",
+      "codepoint": 119959,
+      "hex": "U+1D497",
+      "char": "𝒗",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL V",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D497"
+    },
+    {
+      "id": "u1D498",
+      "codepoint": 119960,
+      "hex": "U+1D498",
+      "char": "𝒘",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL W",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D498"
+    },
+    {
+      "id": "u1D499",
+      "codepoint": 119961,
+      "hex": "U+1D499",
+      "char": "𝒙",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL X",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D499"
+    },
+    {
+      "id": "u1D49A",
+      "codepoint": 119962,
+      "hex": "U+1D49A",
+      "char": "𝒚",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D49A"
+    },
+    {
+      "id": "u1D49B",
+      "codepoint": 119963,
+      "hex": "U+1D49B",
+      "char": "𝒛",
+      "name": "MATHEMATICAL BOLD ITALIC SMALL Z",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D49B"
+    },
+    {
+      "id": "u1D49C",
+      "codepoint": 119964,
+      "hex": "U+1D49C",
+      "char": "𝒜",
+      "name": "MATHEMATICAL SCRIPT CAPITAL A",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D49C"
+    },
+    {
+      "id": "u1D49E",
+      "codepoint": 119966,
+      "hex": "U+1D49E",
+      "char": "𝒞",
+      "name": "MATHEMATICAL SCRIPT CAPITAL C",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D49E"
+    },
+    {
+      "id": "u1D49F",
+      "codepoint": 119967,
+      "hex": "U+1D49F",
+      "char": "𝒟",
+      "name": "MATHEMATICAL SCRIPT CAPITAL D",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D49F"
+    },
+    {
+      "id": "u1D4A2",
+      "codepoint": 119970,
+      "hex": "U+1D4A2",
+      "char": "𝒢",
+      "name": "MATHEMATICAL SCRIPT CAPITAL G",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4A2"
+    },
+    {
+      "id": "u1D4A5",
+      "codepoint": 119973,
+      "hex": "U+1D4A5",
+      "char": "𝒥",
+      "name": "MATHEMATICAL SCRIPT CAPITAL J",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4A5"
+    },
+    {
+      "id": "u1D4A6",
+      "codepoint": 119974,
+      "hex": "U+1D4A6",
+      "char": "𝒦",
+      "name": "MATHEMATICAL SCRIPT CAPITAL K",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4A6"
+    },
+    {
+      "id": "u1D4A9",
+      "codepoint": 119977,
+      "hex": "U+1D4A9",
+      "char": "𝒩",
+      "name": "MATHEMATICAL SCRIPT CAPITAL N",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4A9"
+    },
+    {
+      "id": "u1D4AA",
+      "codepoint": 119978,
+      "hex": "U+1D4AA",
+      "char": "𝒪",
+      "name": "MATHEMATICAL SCRIPT CAPITAL O",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4AA"
+    },
+    {
+      "id": "u1D4AB",
+      "codepoint": 119979,
+      "hex": "U+1D4AB",
+      "char": "𝒫",
+      "name": "MATHEMATICAL SCRIPT CAPITAL P",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4AB"
+    },
+    {
+      "id": "u1D4AC",
+      "codepoint": 119980,
+      "hex": "U+1D4AC",
+      "char": "𝒬",
+      "name": "MATHEMATICAL SCRIPT CAPITAL Q",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4AC"
+    },
+    {
+      "id": "u1D4AE",
+      "codepoint": 119982,
+      "hex": "U+1D4AE",
+      "char": "𝒮",
+      "name": "MATHEMATICAL SCRIPT CAPITAL S",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4AE"
+    },
+    {
+      "id": "u1D4AF",
+      "codepoint": 119983,
+      "hex": "U+1D4AF",
+      "char": "𝒯",
+      "name": "MATHEMATICAL SCRIPT CAPITAL T",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4AF"
+    },
+    {
+      "id": "u1D4B0",
+      "codepoint": 119984,
+      "hex": "U+1D4B0",
+      "char": "𝒰",
+      "name": "MATHEMATICAL SCRIPT CAPITAL U",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B0"
+    },
+    {
+      "id": "u1D4B1",
+      "codepoint": 119985,
+      "hex": "U+1D4B1",
+      "char": "𝒱",
+      "name": "MATHEMATICAL SCRIPT CAPITAL V",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B1"
+    },
+    {
+      "id": "u1D4B2",
+      "codepoint": 119986,
+      "hex": "U+1D4B2",
+      "char": "𝒲",
+      "name": "MATHEMATICAL SCRIPT CAPITAL W",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B2"
+    },
+    {
+      "id": "u1D4B3",
+      "codepoint": 119987,
+      "hex": "U+1D4B3",
+      "char": "𝒳",
+      "name": "MATHEMATICAL SCRIPT CAPITAL X",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B3"
+    },
+    {
+      "id": "u1D4B4",
+      "codepoint": 119988,
+      "hex": "U+1D4B4",
+      "char": "𝒴",
+      "name": "MATHEMATICAL SCRIPT CAPITAL Y",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B4"
+    },
+    {
+      "id": "u1D4B5",
+      "codepoint": 119989,
+      "hex": "U+1D4B5",
+      "char": "𝒵",
+      "name": "MATHEMATICAL SCRIPT CAPITAL Z",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B5"
+    },
+    {
+      "id": "u1D4B6",
+      "codepoint": 119990,
+      "hex": "U+1D4B6",
+      "char": "𝒶",
+      "name": "MATHEMATICAL SCRIPT SMALL A",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B6"
+    },
+    {
+      "id": "u1D4B7",
+      "codepoint": 119991,
+      "hex": "U+1D4B7",
+      "char": "𝒷",
+      "name": "MATHEMATICAL SCRIPT SMALL B",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B7"
+    },
+    {
+      "id": "u1D4B8",
+      "codepoint": 119992,
+      "hex": "U+1D4B8",
+      "char": "𝒸",
+      "name": "MATHEMATICAL SCRIPT SMALL C",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B8"
+    },
+    {
+      "id": "u1D4B9",
+      "codepoint": 119993,
+      "hex": "U+1D4B9",
+      "char": "𝒹",
+      "name": "MATHEMATICAL SCRIPT SMALL D",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4B9"
+    },
+    {
+      "id": "u1D4BB",
+      "codepoint": 119995,
+      "hex": "U+1D4BB",
+      "char": "𝒻",
+      "name": "MATHEMATICAL SCRIPT SMALL F",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4BB"
+    },
+    {
+      "id": "u1D4BD",
+      "codepoint": 119997,
+      "hex": "U+1D4BD",
+      "char": "𝒽",
+      "name": "MATHEMATICAL SCRIPT SMALL H",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4BD"
+    },
+    {
+      "id": "u1D4BE",
+      "codepoint": 119998,
+      "hex": "U+1D4BE",
+      "char": "𝒾",
+      "name": "MATHEMATICAL SCRIPT SMALL I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4BE"
+    },
+    {
+      "id": "u1D4BF",
+      "codepoint": 119999,
+      "hex": "U+1D4BF",
+      "char": "𝒿",
+      "name": "MATHEMATICAL SCRIPT SMALL J",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4BF"
+    },
+    {
+      "id": "u1D4C0",
+      "codepoint": 120000,
+      "hex": "U+1D4C0",
+      "char": "𝓀",
+      "name": "MATHEMATICAL SCRIPT SMALL K",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C0"
+    },
+    {
+      "id": "u1D4C1",
+      "codepoint": 120001,
+      "hex": "U+1D4C1",
+      "char": "𝓁",
+      "name": "MATHEMATICAL SCRIPT SMALL L",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C1"
+    },
+    {
+      "id": "u1D4C2",
+      "codepoint": 120002,
+      "hex": "U+1D4C2",
+      "char": "𝓂",
+      "name": "MATHEMATICAL SCRIPT SMALL M",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C2"
+    },
+    {
+      "id": "u1D4C3",
+      "codepoint": 120003,
+      "hex": "U+1D4C3",
+      "char": "𝓃",
+      "name": "MATHEMATICAL SCRIPT SMALL N",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C3"
+    },
+    {
+      "id": "u1D4C5",
+      "codepoint": 120005,
+      "hex": "U+1D4C5",
+      "char": "𝓅",
+      "name": "MATHEMATICAL SCRIPT SMALL P",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C5"
+    },
+    {
+      "id": "u1D4C6",
+      "codepoint": 120006,
+      "hex": "U+1D4C6",
+      "char": "𝓆",
+      "name": "MATHEMATICAL SCRIPT SMALL Q",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C6"
+    },
+    {
+      "id": "u1D4C7",
+      "codepoint": 120007,
+      "hex": "U+1D4C7",
+      "char": "𝓇",
+      "name": "MATHEMATICAL SCRIPT SMALL R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C7"
+    },
+    {
+      "id": "u1D4C8",
+      "codepoint": 120008,
+      "hex": "U+1D4C8",
+      "char": "𝓈",
+      "name": "MATHEMATICAL SCRIPT SMALL S",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C8"
+    },
+    {
+      "id": "u1D4C9",
+      "codepoint": 120009,
+      "hex": "U+1D4C9",
+      "char": "𝓉",
+      "name": "MATHEMATICAL SCRIPT SMALL T",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4C9"
+    },
+    {
+      "id": "u1D4CA",
+      "codepoint": 120010,
+      "hex": "U+1D4CA",
+      "char": "𝓊",
+      "name": "MATHEMATICAL SCRIPT SMALL U",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4CA"
+    },
+    {
+      "id": "u1D4CB",
+      "codepoint": 120011,
+      "hex": "U+1D4CB",
+      "char": "𝓋",
+      "name": "MATHEMATICAL SCRIPT SMALL V",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4CB"
+    },
+    {
+      "id": "u1D4CC",
+      "codepoint": 120012,
+      "hex": "U+1D4CC",
+      "char": "𝓌",
+      "name": "MATHEMATICAL SCRIPT SMALL W",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4CC"
+    },
+    {
+      "id": "u1D4CD",
+      "codepoint": 120013,
+      "hex": "U+1D4CD",
+      "char": "𝓍",
+      "name": "MATHEMATICAL SCRIPT SMALL X",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4CD"
+    },
+    {
+      "id": "u1D4CE",
+      "codepoint": 120014,
+      "hex": "U+1D4CE",
+      "char": "𝓎",
+      "name": "MATHEMATICAL SCRIPT SMALL Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4CE"
+    },
+    {
+      "id": "u1D4CF",
+      "codepoint": 120015,
+      "hex": "U+1D4CF",
+      "char": "𝓏",
+      "name": "MATHEMATICAL SCRIPT SMALL Z",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4CF"
+    },
+    {
+      "id": "u1D4D0",
+      "codepoint": 120016,
+      "hex": "U+1D4D0",
+      "char": "𝓐",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL A",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D0"
+    },
+    {
+      "id": "u1D4D1",
+      "codepoint": 120017,
+      "hex": "U+1D4D1",
+      "char": "𝓑",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL B",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D1"
+    },
+    {
+      "id": "u1D4D2",
+      "codepoint": 120018,
+      "hex": "U+1D4D2",
+      "char": "𝓒",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL C",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D2"
+    },
+    {
+      "id": "u1D4D3",
+      "codepoint": 120019,
+      "hex": "U+1D4D3",
+      "char": "𝓓",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL D",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D3"
+    },
+    {
+      "id": "u1D4D4",
+      "codepoint": 120020,
+      "hex": "U+1D4D4",
+      "char": "𝓔",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL E",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D4"
+    },
+    {
+      "id": "u1D4D5",
+      "codepoint": 120021,
+      "hex": "U+1D4D5",
+      "char": "𝓕",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL F",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D5"
+    },
+    {
+      "id": "u1D4D6",
+      "codepoint": 120022,
+      "hex": "U+1D4D6",
+      "char": "𝓖",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL G",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D6"
+    },
+    {
+      "id": "u1D4D7",
+      "codepoint": 120023,
+      "hex": "U+1D4D7",
+      "char": "𝓗",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL H",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D7"
+    },
+    {
+      "id": "u1D4D8",
+      "codepoint": 120024,
+      "hex": "U+1D4D8",
+      "char": "𝓘",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL I",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D8"
+    },
+    {
+      "id": "u1D4D9",
+      "codepoint": 120025,
+      "hex": "U+1D4D9",
+      "char": "𝓙",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL J",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4D9"
+    },
+    {
+      "id": "u1D4DA",
+      "codepoint": 120026,
+      "hex": "U+1D4DA",
+      "char": "𝓚",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL K",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4DA"
+    },
+    {
+      "id": "u1D4DB",
+      "codepoint": 120027,
+      "hex": "U+1D4DB",
+      "char": "𝓛",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL L",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4DB"
+    },
+    {
+      "id": "u1D4DC",
+      "codepoint": 120028,
+      "hex": "U+1D4DC",
+      "char": "𝓜",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL M",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4DC"
+    },
+    {
+      "id": "u1D4DD",
+      "codepoint": 120029,
+      "hex": "U+1D4DD",
+      "char": "𝓝",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL N",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4DD"
+    },
+    {
+      "id": "u1D4DE",
+      "codepoint": 120030,
+      "hex": "U+1D4DE",
+      "char": "𝓞",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL O",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4DE"
+    },
+    {
+      "id": "u1D4DF",
+      "codepoint": 120031,
+      "hex": "U+1D4DF",
+      "char": "𝓟",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL P",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4DF"
+    },
+    {
+      "id": "u1D4E0",
+      "codepoint": 120032,
+      "hex": "U+1D4E0",
+      "char": "𝓠",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL Q",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E0"
+    },
+    {
+      "id": "u1D4E1",
+      "codepoint": 120033,
+      "hex": "U+1D4E1",
+      "char": "𝓡",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL R",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E1"
+    },
+    {
+      "id": "u1D4E2",
+      "codepoint": 120034,
+      "hex": "U+1D4E2",
+      "char": "𝓢",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL S",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E2"
+    },
+    {
+      "id": "u1D4E3",
+      "codepoint": 120035,
+      "hex": "U+1D4E3",
+      "char": "𝓣",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL T",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E3"
+    },
+    {
+      "id": "u1D4E4",
+      "codepoint": 120036,
+      "hex": "U+1D4E4",
+      "char": "𝓤",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL U",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E4"
+    },
+    {
+      "id": "u1D4E5",
+      "codepoint": 120037,
+      "hex": "U+1D4E5",
+      "char": "𝓥",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL V",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E5"
+    },
+    {
+      "id": "u1D4E6",
+      "codepoint": 120038,
+      "hex": "U+1D4E6",
+      "char": "𝓦",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL W",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E6"
+    },
+    {
+      "id": "u1D4E7",
+      "codepoint": 120039,
+      "hex": "U+1D4E7",
+      "char": "𝓧",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL X",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E7"
+    },
+    {
+      "id": "u1D4E8",
+      "codepoint": 120040,
+      "hex": "U+1D4E8",
+      "char": "𝓨",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL Y",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E8"
+    },
+    {
+      "id": "u1D4E9",
+      "codepoint": 120041,
+      "hex": "U+1D4E9",
+      "char": "𝓩",
+      "name": "MATHEMATICAL BOLD SCRIPT CAPITAL Z",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4E9"
+    },
+    {
+      "id": "u1D4EA",
+      "codepoint": 120042,
+      "hex": "U+1D4EA",
+      "char": "𝓪",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL A",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4EA"
+    },
+    {
+      "id": "u1D4EB",
+      "codepoint": 120043,
+      "hex": "U+1D4EB",
+      "char": "𝓫",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL B",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4EB"
+    },
+    {
+      "id": "u1D4EC",
+      "codepoint": 120044,
+      "hex": "U+1D4EC",
+      "char": "𝓬",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL C",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4EC"
+    },
+    {
+      "id": "u1D4ED",
+      "codepoint": 120045,
+      "hex": "U+1D4ED",
+      "char": "𝓭",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL D",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4ED"
+    },
+    {
+      "id": "u1D4EE",
+      "codepoint": 120046,
+      "hex": "U+1D4EE",
+      "char": "𝓮",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL E",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4EE"
+    },
+    {
+      "id": "u1D4EF",
+      "codepoint": 120047,
+      "hex": "U+1D4EF",
+      "char": "𝓯",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL F",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4EF"
+    },
+    {
+      "id": "u1D4F0",
+      "codepoint": 120048,
+      "hex": "U+1D4F0",
+      "char": "𝓰",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL G",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F0"
+    },
+    {
+      "id": "u1D4F1",
+      "codepoint": 120049,
+      "hex": "U+1D4F1",
+      "char": "𝓱",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL H",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F1"
+    },
+    {
+      "id": "u1D4F2",
+      "codepoint": 120050,
+      "hex": "U+1D4F2",
+      "char": "𝓲",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F2"
+    },
+    {
+      "id": "u1D4F3",
+      "codepoint": 120051,
+      "hex": "U+1D4F3",
+      "char": "𝓳",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL J",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F3"
+    },
+    {
+      "id": "u1D4F4",
+      "codepoint": 120052,
+      "hex": "U+1D4F4",
+      "char": "𝓴",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL K",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F4"
+    },
+    {
+      "id": "u1D4F5",
+      "codepoint": 120053,
+      "hex": "U+1D4F5",
+      "char": "𝓵",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL L",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F5"
+    },
+    {
+      "id": "u1D4F6",
+      "codepoint": 120054,
+      "hex": "U+1D4F6",
+      "char": "𝓶",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL M",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F6"
+    },
+    {
+      "id": "u1D4F7",
+      "codepoint": 120055,
+      "hex": "U+1D4F7",
+      "char": "𝓷",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL N",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F7"
+    },
+    {
+      "id": "u1D4F8",
+      "codepoint": 120056,
+      "hex": "U+1D4F8",
+      "char": "𝓸",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL O",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F8"
+    },
+    {
+      "id": "u1D4F9",
+      "codepoint": 120057,
+      "hex": "U+1D4F9",
+      "char": "𝓹",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL P",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4F9"
+    },
+    {
+      "id": "u1D4FA",
+      "codepoint": 120058,
+      "hex": "U+1D4FA",
+      "char": "𝓺",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL Q",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4FA"
+    },
+    {
+      "id": "u1D4FB",
+      "codepoint": 120059,
+      "hex": "U+1D4FB",
+      "char": "𝓻",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL R",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4FB"
+    },
+    {
+      "id": "u1D4FC",
+      "codepoint": 120060,
+      "hex": "U+1D4FC",
+      "char": "𝓼",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL S",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4FC"
+    },
+    {
+      "id": "u1D4FD",
+      "codepoint": 120061,
+      "hex": "U+1D4FD",
+      "char": "𝓽",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL T",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4FD"
+    },
+    {
+      "id": "u1D4FE",
+      "codepoint": 120062,
+      "hex": "U+1D4FE",
+      "char": "𝓾",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL U",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4FE"
+    },
+    {
+      "id": "u1D4FF",
+      "codepoint": 120063,
+      "hex": "U+1D4FF",
+      "char": "𝓿",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL V",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D4FF"
+    },
+    {
+      "id": "u1D500",
+      "codepoint": 120064,
+      "hex": "U+1D500",
+      "char": "𝔀",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL W",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D500"
+    },
+    {
+      "id": "u1D501",
+      "codepoint": 120065,
+      "hex": "U+1D501",
+      "char": "𝔁",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL X",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D501"
+    },
+    {
+      "id": "u1D502",
+      "codepoint": 120066,
+      "hex": "U+1D502",
+      "char": "𝔂",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL Y",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D502"
+    },
+    {
+      "id": "u1D503",
+      "codepoint": 120067,
+      "hex": "U+1D503",
+      "char": "𝔃",
+      "name": "MATHEMATICAL BOLD SCRIPT SMALL Z",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D503"
+    },
+    {
+      "id": "u1D504",
+      "codepoint": 120068,
+      "hex": "U+1D504",
+      "char": "𝔄",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL A",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D504"
+    },
+    {
+      "id": "u1D505",
+      "codepoint": 120069,
+      "hex": "U+1D505",
+      "char": "𝔅",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL B",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D505"
+    },
+    {
+      "id": "u1D507",
+      "codepoint": 120071,
+      "hex": "U+1D507",
+      "char": "𝔇",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL D",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D507"
+    },
+    {
+      "id": "u1D508",
+      "codepoint": 120072,
+      "hex": "U+1D508",
+      "char": "𝔈",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL E",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D508"
+    },
+    {
+      "id": "u1D509",
+      "codepoint": 120073,
+      "hex": "U+1D509",
+      "char": "𝔉",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL F",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D509"
+    },
+    {
+      "id": "u1D50A",
+      "codepoint": 120074,
+      "hex": "U+1D50A",
+      "char": "𝔊",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL G",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D50A"
+    },
+    {
+      "id": "u1D50D",
+      "codepoint": 120077,
+      "hex": "U+1D50D",
+      "char": "𝔍",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL J",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D50D"
+    },
+    {
+      "id": "u1D50E",
+      "codepoint": 120078,
+      "hex": "U+1D50E",
+      "char": "𝔎",
+      "name": "MATHEMATICAL FRAKTUR CAPITAL K",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D50E"
+    }
+  ]
+}

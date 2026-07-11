@@ -1,0 +1,182 @@
+{
+  "api": "times-table-167",
+  "title": "167 Times Table",
+  "description": "The multiplication table for 167: 167x1 through 167x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-167/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-167/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 167,
+      "multiplicand": 1,
+      "product": 167,
+      "expression": "167 x 1 = 167",
+      "url": "https://gratisapi.com/api/times-table-167/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 167,
+      "multiplicand": 2,
+      "product": 334,
+      "expression": "167 x 2 = 334",
+      "url": "https://gratisapi.com/api/times-table-167/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 167,
+      "multiplicand": 3,
+      "product": 501,
+      "expression": "167 x 3 = 501",
+      "url": "https://gratisapi.com/api/times-table-167/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 167,
+      "multiplicand": 4,
+      "product": 668,
+      "expression": "167 x 4 = 668",
+      "url": "https://gratisapi.com/api/times-table-167/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 167,
+      "multiplicand": 5,
+      "product": 835,
+      "expression": "167 x 5 = 835",
+      "url": "https://gratisapi.com/api/times-table-167/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 167,
+      "multiplicand": 6,
+      "product": 1002,
+      "expression": "167 x 6 = 1002",
+      "url": "https://gratisapi.com/api/times-table-167/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 167,
+      "multiplicand": 7,
+      "product": 1169,
+      "expression": "167 x 7 = 1169",
+      "url": "https://gratisapi.com/api/times-table-167/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 167,
+      "multiplicand": 8,
+      "product": 1336,
+      "expression": "167 x 8 = 1336",
+      "url": "https://gratisapi.com/api/times-table-167/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 167,
+      "multiplicand": 9,
+      "product": 1503,
+      "expression": "167 x 9 = 1503",
+      "url": "https://gratisapi.com/api/times-table-167/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 167,
+      "multiplicand": 10,
+      "product": 1670,
+      "expression": "167 x 10 = 1670",
+      "url": "https://gratisapi.com/api/times-table-167/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 167,
+      "multiplicand": 11,
+      "product": 1837,
+      "expression": "167 x 11 = 1837",
+      "url": "https://gratisapi.com/api/times-table-167/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 167,
+      "multiplicand": 12,
+      "product": 2004,
+      "expression": "167 x 12 = 2004",
+      "url": "https://gratisapi.com/api/times-table-167/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 167,
+      "multiplicand": 13,
+      "product": 2171,
+      "expression": "167 x 13 = 2171",
+      "url": "https://gratisapi.com/api/times-table-167/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 167,
+      "multiplicand": 14,
+      "product": 2338,
+      "expression": "167 x 14 = 2338",
+      "url": "https://gratisapi.com/api/times-table-167/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 167,
+      "multiplicand": 15,
+      "product": 2505,
+      "expression": "167 x 15 = 2505",
+      "url": "https://gratisapi.com/api/times-table-167/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 167,
+      "multiplicand": 16,
+      "product": 2672,
+      "expression": "167 x 16 = 2672",
+      "url": "https://gratisapi.com/api/times-table-167/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 167,
+      "multiplicand": 17,
+      "product": 2839,
+      "expression": "167 x 17 = 2839",
+      "url": "https://gratisapi.com/api/times-table-167/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 167,
+      "multiplicand": 18,
+      "product": 3006,
+      "expression": "167 x 18 = 3006",
+      "url": "https://gratisapi.com/api/times-table-167/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 167,
+      "multiplicand": 19,
+      "product": 3173,
+      "expression": "167 x 19 = 3173",
+      "url": "https://gratisapi.com/api/times-table-167/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 167,
+      "multiplicand": 20,
+      "product": 3340,
+      "expression": "167 x 20 = 3340",
+      "url": "https://gratisapi.com/api/times-table-167/20"
+    }
+  ]
+}

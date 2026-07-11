@@ -53,24 +53,36 @@
   var state = { apis: [], current: null };
 
   // ---------- Explorer ----------
-  function loadRecord(api, url, label) {
-    var codeEl = document.getElementById("explorer-code");
-    var urlEl = document.getElementById("explorer-url");
-    urlEl.textContent = "GET " + pathOf(url);
-    codeEl.innerHTML = "Loading…";
-    fetch(rel(url)).then(function (r) { return r.json(); }).then(function (data) {
-      if (data.results && data.results.length > 6) {
-        var clone = Object.assign({}, data);
-        clone.results = data.results.slice(0, 3);
-        clone["…"] = "(" + (data.count - 3) + " more records — open the endpoint to see them all)";
-        data = clone;
-      }
-      codeEl.innerHTML = highlight(data);
-    }).catch(function () { codeEl.textContent = "Could not load " + url; });
+  function setActive(label) {
     Array.prototype.forEach.call(
       document.querySelectorAll("#explorer-list button"),
       function (b) { b.classList.toggle("active", b.dataset.label === label); }
     );
+  }
+
+  // Render an object we already have (a record, or the index) — no fetch needed,
+  // which is important for list-only APIs that have no per-record files.
+  function showObject(url, obj, label) {
+    var codeEl = document.getElementById("explorer-code");
+    document.getElementById("explorer-url").textContent = "GET " + pathOf(url);
+    var data = obj;
+    if (data && data.results && data.results.length > 6) {
+      data = Object.assign({}, obj);
+      data.results = obj.results.slice(0, 3);
+      data["…"] = "(" + (obj.count - 3) + " more records — fetch the endpoint to see them all)";
+    }
+    codeEl.innerHTML = highlight(data);
+    setActive(label);
+  }
+
+  function loadIndex(api) {
+    var codeEl = document.getElementById("explorer-code");
+    document.getElementById("explorer-url").textContent = "GET " + pathOf(api.url);
+    codeEl.innerHTML = "Loading…";
+    fetch(rel(api.url)).then(function (r) { return r.json(); })
+      .then(function (data) { showObject(api.url, data, "index"); })
+      .catch(function () { codeEl.textContent = "Could not load " + api.url; });
+    setActive("index");
   }
 
   function selectApi(api, scroll) {
@@ -78,17 +90,17 @@
     var list = document.getElementById("explorer-list");
     list.innerHTML = "";
     var idxBtn = el("button", { "data-label": "index" }, ["GET /api/" + api.api]);
-    idxBtn.onclick = function () { loadRecord(api, api.url, "index"); };
+    idxBtn.onclick = function () { loadIndex(api); };
     list.appendChild(idxBtn);
     fetch(rel(api.url)).then(function (r) { return r.json(); }).then(function (data) {
       (data.results || []).slice(0, 25).forEach(function (rec) {
         var lbl = String(rec.id);
         var b = el("button", { "data-label": lbl }, [lbl]);
-        b.onclick = function () { loadRecord(api, rec.url, lbl); };
+        b.onclick = function () { showObject(rec.url || api.url, rec, lbl); };
         list.appendChild(b);
       });
     });
-    loadRecord(api, api.url, "index");
+    loadIndex(api);
     // Only scroll when the user explicitly picks an API — never on initial load.
     if (scroll) {
       var exp = document.querySelector(".explorer");
@@ -111,6 +123,7 @@
     return card;
   }
 
+  var MAX_RENDER = 240;  // never paint more than this many cards at once
   function renderCards() {
     var grid = document.getElementById("api-grid");
     var more = document.getElementById("api-more");
@@ -119,7 +132,8 @@
     var list = !q ? state.apis : state.apis.filter(function (a) {
       return (a.title + " " + a.api + " " + a.description).toLowerCase().indexOf(q) >= 0;
     });
-    var shown = (q || state.showAll) ? list : list.slice(0, FEATURED);
+    var full = (q || state.showAll) ? list : list.slice(0, FEATURED);
+    var shown = full.slice(0, MAX_RENDER);
     grid.innerHTML = "";
     if (!shown.length) { grid.appendChild(el("p", { text: "No APIs match your search." })); }
     shown.forEach(function (api) { grid.appendChild(cardFor(api)); });
@@ -130,9 +144,14 @@
         btn.onclick = function () { state.showAll = true; renderCards(); };
         more.appendChild(btn);
       } else if (!q && state.showAll) {
+        if (full.length > MAX_RENDER) {
+          more.appendChild(el("p", { class: "more-note", text: "Showing " + MAX_RENDER + " of " + fmt(list.length) + " APIs — use search to find any of them." }));
+        }
         var less = el("button", { class: "btn ghost", text: "Show less" });
         less.onclick = function () { state.showAll = false; renderCards(); document.getElementById("apis").scrollIntoView({ behavior: "smooth" }); };
         more.appendChild(less);
+      } else if (q && list.length > MAX_RENDER) {
+        more.appendChild(el("p", { class: "more-note", text: "Showing first " + MAX_RENDER + " of " + fmt(list.length) + " matches — refine your search." }));
       }
     }
   }

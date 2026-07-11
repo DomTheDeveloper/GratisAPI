@@ -1,0 +1,332 @@
+{
+  "api": "mersenne-numbers",
+  "title": "Mersenne Numbers",
+  "description": "2^n - 1 within exact-integer range.",
+  "emoji": "🧮",
+  "license": "GPL-2.0-or-later",
+  "count": 52,
+  "self": "https://gratisapi.com/api/mersenne-numbers/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/mersenne-numbers/index"
+  },
+  "fields": [
+    "id",
+    "index",
+    "value"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 0,
+      "index": 1,
+      "value": 1,
+      "url": "https://gratisapi.com/api/mersenne-numbers/0"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "value": 3,
+      "url": "https://gratisapi.com/api/mersenne-numbers/1"
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "value": 7,
+      "url": "https://gratisapi.com/api/mersenne-numbers/2"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "value": 15,
+      "url": "https://gratisapi.com/api/mersenne-numbers/3"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "value": 31,
+      "url": "https://gratisapi.com/api/mersenne-numbers/4"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "value": 63,
+      "url": "https://gratisapi.com/api/mersenne-numbers/5"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "value": 127,
+      "url": "https://gratisapi.com/api/mersenne-numbers/6"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "value": 255,
+      "url": "https://gratisapi.com/api/mersenne-numbers/7"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "value": 511,
+      "url": "https://gratisapi.com/api/mersenne-numbers/8"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "value": 1023,
+      "url": "https://gratisapi.com/api/mersenne-numbers/9"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "value": 2047,
+      "url": "https://gratisapi.com/api/mersenne-numbers/10"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "value": 4095,
+      "url": "https://gratisapi.com/api/mersenne-numbers/11"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "value": 8191,
+      "url": "https://gratisapi.com/api/mersenne-numbers/12"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "value": 16383,
+      "url": "https://gratisapi.com/api/mersenne-numbers/13"
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "value": 32767,
+      "url": "https://gratisapi.com/api/mersenne-numbers/14"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "value": 65535,
+      "url": "https://gratisapi.com/api/mersenne-numbers/15"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "value": 131071,
+      "url": "https://gratisapi.com/api/mersenne-numbers/16"
+    },
+    {
+      "id": 17,
+      "index": 18,
+      "value": 262143,
+      "url": "https://gratisapi.com/api/mersenne-numbers/17"
+    },
+    {
+      "id": 18,
+      "index": 19,
+      "value": 524287,
+      "url": "https://gratisapi.com/api/mersenne-numbers/18"
+    },
+    {
+      "id": 19,
+      "index": 20,
+      "value": 1048575,
+      "url": "https://gratisapi.com/api/mersenne-numbers/19"
+    },
+    {
+      "id": 20,
+      "index": 21,
+      "value": 2097151,
+      "url": "https://gratisapi.com/api/mersenne-numbers/20"
+    },
+    {
+      "id": 21,
+      "index": 22,
+      "value": 4194303,
+      "url": "https://gratisapi.com/api/mersenne-numbers/21"
+    },
+    {
+      "id": 22,
+      "index": 23,
+      "value": 8388607,
+      "url": "https://gratisapi.com/api/mersenne-numbers/22"
+    },
+    {
+      "id": 23,
+      "index": 24,
+      "value": 16777215,
+      "url": "https://gratisapi.com/api/mersenne-numbers/23"
+    },
+    {
+      "id": 24,
+      "index": 25,
+      "value": 33554431,
+      "url": "https://gratisapi.com/api/mersenne-numbers/24"
+    },
+    {
+      "id": 25,
+      "index": 26,
+      "value": 67108863,
+      "url": "https://gratisapi.com/api/mersenne-numbers/25"
+    },
+    {
+      "id": 26,
+      "index": 27,
+      "value": 134217727,
+      "url": "https://gratisapi.com/api/mersenne-numbers/26"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "value": 268435455,
+      "url": "https://gratisapi.com/api/mersenne-numbers/27"
+    },
+    {
+      "id": 28,
+      "index": 29,
+      "value": 536870911,
+      "url": "https://gratisapi.com/api/mersenne-numbers/28"
+    },
+    {
+      "id": 29,
+      "index": 30,
+      "value": 1073741823,
+      "url": "https://gratisapi.com/api/mersenne-numbers/29"
+    },
+    {
+      "id": 30,
+      "index": 31,
+      "value": 2147483647,
+      "url": "https://gratisapi.com/api/mersenne-numbers/30"
+    },
+    {
+      "id": 31,
+      "index": 32,
+      "value": 4294967295,
+      "url": "https://gratisapi.com/api/mersenne-numbers/31"
+    },
+    {
+      "id": 32,
+      "index": 33,
+      "value": 8589934591,
+      "url": "https://gratisapi.com/api/mersenne-numbers/32"
+    },
+    {
+      "id": 33,
+      "index": 34,
+      "value": 17179869183,
+      "url": "https://gratisapi.com/api/mersenne-numbers/33"
+    },
+    {
+      "id": 34,
+      "index": 35,
+      "value": 34359738367,
+      "url": "https://gratisapi.com/api/mersenne-numbers/34"
+    },
+    {
+      "id": 35,
+      "index": 36,
+      "value": 68719476735,
+      "url": "https://gratisapi.com/api/mersenne-numbers/35"
+    },
+    {
+      "id": 36,
+      "index": 37,
+      "value": 137438953471,
+      "url": "https://gratisapi.com/api/mersenne-numbers/36"
+    },
+    {
+      "id": 37,
+      "index": 38,
+      "value": 274877906943,
+      "url": "https://gratisapi.com/api/mersenne-numbers/37"
+    },
+    {
+      "id": 38,
+      "index": 39,
+      "value": 549755813887,
+      "url": "https://gratisapi.com/api/mersenne-numbers/38"
+    },
+    {
+      "id": 39,
+      "index": 40,
+      "value": 1099511627775,
+      "url": "https://gratisapi.com/api/mersenne-numbers/39"
+    },
+    {
+      "id": 40,
+      "index": 41,
+      "value": 2199023255551,
+      "url": "https://gratisapi.com/api/mersenne-numbers/40"
+    },
+    {
+      "id": 41,
+      "index": 42,
+      "value": 4398046511103,
+      "url": "https://gratisapi.com/api/mersenne-numbers/41"
+    },
+    {
+      "id": 42,
+      "index": 43,
+      "value": 8796093022207,
+      "url": "https://gratisapi.com/api/mersenne-numbers/42"
+    },
+    {
+      "id": 43,
+      "index": 44,
+      "value": 17592186044415,
+      "url": "https://gratisapi.com/api/mersenne-numbers/43"
+    },
+    {
+      "id": 44,
+      "index": 45,
+      "value": 35184372088831,
+      "url": "https://gratisapi.com/api/mersenne-numbers/44"
+    },
+    {
+      "id": 45,
+      "index": 46,
+      "value": 70368744177663,
+      "url": "https://gratisapi.com/api/mersenne-numbers/45"
+    },
+    {
+      "id": 46,
+      "index": 47,
+      "value": 140737488355327,
+      "url": "https://gratisapi.com/api/mersenne-numbers/46"
+    },
+    {
+      "id": 47,
+      "index": 48,
+      "value": 281474976710655,
+      "url": "https://gratisapi.com/api/mersenne-numbers/47"
+    },
+    {
+      "id": 48,
+      "index": 49,
+      "value": 562949953421311,
+      "url": "https://gratisapi.com/api/mersenne-numbers/48"
+    },
+    {
+      "id": 49,
+      "index": 50,
+      "value": 1125899906842623,
+      "url": "https://gratisapi.com/api/mersenne-numbers/49"
+    },
+    {
+      "id": 50,
+      "index": 51,
+      "value": 2251799813685247,
+      "url": "https://gratisapi.com/api/mersenne-numbers/50"
+    },
+    {
+      "id": 51,
+      "index": 52,
+      "value": 4503599627370495,
+      "url": "https://gratisapi.com/api/mersenne-numbers/51"
+    }
+  ]
+}

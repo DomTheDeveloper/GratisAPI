@@ -85,8 +85,10 @@ GET <span class="p">/api/quotes/42</span></pre>
     and <code>curl</code> work against the clean URLs regardless of content type.</p>
 
     <h2>The response shape</h2>
-    <p>Every collection returns metadata plus the full result set — there is no pagination
-    to page through, because the whole dataset is already one cache-friendly file:</p>
+    <p>Every collection returns metadata plus the full result set in one cache-friendly file —
+    so there's usually no pagination to page through. (The exception is a handful of huge
+    computed families like <a href="../api/numbers/index"><code>numbers</code></a>, with a
+    million records, which are split into page files.)</p>
     <pre class="codeblock">{
   <span class="k">"api"</span>: <span class="s">"animals"</span>,
   <span class="k">"count"</span>: <span class="n">71</span>,
@@ -161,7 +163,7 @@ python3 -m http.server   <span class="c"># now browse http://localhost:8000</spa
 
     <h2>Everything, in one place</h2>
     <ul>
-      <li><a href="../#apis">Browse all 100+ APIs</a></li>
+      <li><a href="../#apis">Browse all 1,000+ APIs</a></li>
       <li><a href="../history/">Our story</a> · <a href="../tech/">the technicals</a> · <a href="../cost/">what it costs</a></li>
       <li><a href="../docs/">Interactive API reference (Swagger UI)</a></li>
       <li><a href="../openapi.json">OpenAPI 3.1 specification</a></li>

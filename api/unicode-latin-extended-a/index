@@ -1,0 +1,1175 @@
+{
+  "api": "unicode-latin-extended-a",
+  "title": "Latin Extended-A",
+  "description": "The Latin Extended-A Unicode block (U+0100..U+017F).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 128,
+  "self": "https://gratisapi.com/api/unicode-latin-extended-a/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-latin-extended-a/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u0100",
+      "codepoint": 256,
+      "hex": "U+0100",
+      "char": "Ā",
+      "name": "LATIN CAPITAL LETTER A WITH MACRON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0100"
+    },
+    {
+      "id": "u0101",
+      "codepoint": 257,
+      "hex": "U+0101",
+      "char": "ā",
+      "name": "LATIN SMALL LETTER A WITH MACRON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0101"
+    },
+    {
+      "id": "u0102",
+      "codepoint": 258,
+      "hex": "U+0102",
+      "char": "Ă",
+      "name": "LATIN CAPITAL LETTER A WITH BREVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0102"
+    },
+    {
+      "id": "u0103",
+      "codepoint": 259,
+      "hex": "U+0103",
+      "char": "ă",
+      "name": "LATIN SMALL LETTER A WITH BREVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0103"
+    },
+    {
+      "id": "u0104",
+      "codepoint": 260,
+      "hex": "U+0104",
+      "char": "Ą",
+      "name": "LATIN CAPITAL LETTER A WITH OGONEK",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0104"
+    },
+    {
+      "id": "u0105",
+      "codepoint": 261,
+      "hex": "U+0105",
+      "char": "ą",
+      "name": "LATIN SMALL LETTER A WITH OGONEK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0105"
+    },
+    {
+      "id": "u0106",
+      "codepoint": 262,
+      "hex": "U+0106",
+      "char": "Ć",
+      "name": "LATIN CAPITAL LETTER C WITH ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0106"
+    },
+    {
+      "id": "u0107",
+      "codepoint": 263,
+      "hex": "U+0107",
+      "char": "ć",
+      "name": "LATIN SMALL LETTER C WITH ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0107"
+    },
+    {
+      "id": "u0108",
+      "codepoint": 264,
+      "hex": "U+0108",
+      "char": "Ĉ",
+      "name": "LATIN CAPITAL LETTER C WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0108"
+    },
+    {
+      "id": "u0109",
+      "codepoint": 265,
+      "hex": "U+0109",
+      "char": "ĉ",
+      "name": "LATIN SMALL LETTER C WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0109"
+    },
+    {
+      "id": "u010A",
+      "codepoint": 266,
+      "hex": "U+010A",
+      "char": "Ċ",
+      "name": "LATIN CAPITAL LETTER C WITH DOT ABOVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u010A"
+    },
+    {
+      "id": "u010B",
+      "codepoint": 267,
+      "hex": "U+010B",
+      "char": "ċ",
+      "name": "LATIN SMALL LETTER C WITH DOT ABOVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u010B"
+    },
+    {
+      "id": "u010C",
+      "codepoint": 268,
+      "hex": "U+010C",
+      "char": "Č",
+      "name": "LATIN CAPITAL LETTER C WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u010C"
+    },
+    {
+      "id": "u010D",
+      "codepoint": 269,
+      "hex": "U+010D",
+      "char": "č",
+      "name": "LATIN SMALL LETTER C WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u010D"
+    },
+    {
+      "id": "u010E",
+      "codepoint": 270,
+      "hex": "U+010E",
+      "char": "Ď",
+      "name": "LATIN CAPITAL LETTER D WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u010E"
+    },
+    {
+      "id": "u010F",
+      "codepoint": 271,
+      "hex": "U+010F",
+      "char": "ď",
+      "name": "LATIN SMALL LETTER D WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u010F"
+    },
+    {
+      "id": "u0110",
+      "codepoint": 272,
+      "hex": "U+0110",
+      "char": "Đ",
+      "name": "LATIN CAPITAL LETTER D WITH STROKE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0110"
+    },
+    {
+      "id": "u0111",
+      "codepoint": 273,
+      "hex": "U+0111",
+      "char": "đ",
+      "name": "LATIN SMALL LETTER D WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0111"
+    },
+    {
+      "id": "u0112",
+      "codepoint": 274,
+      "hex": "U+0112",
+      "char": "Ē",
+      "name": "LATIN CAPITAL LETTER E WITH MACRON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0112"
+    },
+    {
+      "id": "u0113",
+      "codepoint": 275,
+      "hex": "U+0113",
+      "char": "ē",
+      "name": "LATIN SMALL LETTER E WITH MACRON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0113"
+    },
+    {
+      "id": "u0114",
+      "codepoint": 276,
+      "hex": "U+0114",
+      "char": "Ĕ",
+      "name": "LATIN CAPITAL LETTER E WITH BREVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0114"
+    },
+    {
+      "id": "u0115",
+      "codepoint": 277,
+      "hex": "U+0115",
+      "char": "ĕ",
+      "name": "LATIN SMALL LETTER E WITH BREVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0115"
+    },
+    {
+      "id": "u0116",
+      "codepoint": 278,
+      "hex": "U+0116",
+      "char": "Ė",
+      "name": "LATIN CAPITAL LETTER E WITH DOT ABOVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0116"
+    },
+    {
+      "id": "u0117",
+      "codepoint": 279,
+      "hex": "U+0117",
+      "char": "ė",
+      "name": "LATIN SMALL LETTER E WITH DOT ABOVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0117"
+    },
+    {
+      "id": "u0118",
+      "codepoint": 280,
+      "hex": "U+0118",
+      "char": "Ę",
+      "name": "LATIN CAPITAL LETTER E WITH OGONEK",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0118"
+    },
+    {
+      "id": "u0119",
+      "codepoint": 281,
+      "hex": "U+0119",
+      "char": "ę",
+      "name": "LATIN SMALL LETTER E WITH OGONEK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0119"
+    },
+    {
+      "id": "u011A",
+      "codepoint": 282,
+      "hex": "U+011A",
+      "char": "Ě",
+      "name": "LATIN CAPITAL LETTER E WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u011A"
+    },
+    {
+      "id": "u011B",
+      "codepoint": 283,
+      "hex": "U+011B",
+      "char": "ě",
+      "name": "LATIN SMALL LETTER E WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u011B"
+    },
+    {
+      "id": "u011C",
+      "codepoint": 284,
+      "hex": "U+011C",
+      "char": "Ĝ",
+      "name": "LATIN CAPITAL LETTER G WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u011C"
+    },
+    {
+      "id": "u011D",
+      "codepoint": 285,
+      "hex": "U+011D",
+      "char": "ĝ",
+      "name": "LATIN SMALL LETTER G WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u011D"
+    },
+    {
+      "id": "u011E",
+      "codepoint": 286,
+      "hex": "U+011E",
+      "char": "Ğ",
+      "name": "LATIN CAPITAL LETTER G WITH BREVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u011E"
+    },
+    {
+      "id": "u011F",
+      "codepoint": 287,
+      "hex": "U+011F",
+      "char": "ğ",
+      "name": "LATIN SMALL LETTER G WITH BREVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u011F"
+    },
+    {
+      "id": "u0120",
+      "codepoint": 288,
+      "hex": "U+0120",
+      "char": "Ġ",
+      "name": "LATIN CAPITAL LETTER G WITH DOT ABOVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0120"
+    },
+    {
+      "id": "u0121",
+      "codepoint": 289,
+      "hex": "U+0121",
+      "char": "ġ",
+      "name": "LATIN SMALL LETTER G WITH DOT ABOVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0121"
+    },
+    {
+      "id": "u0122",
+      "codepoint": 290,
+      "hex": "U+0122",
+      "char": "Ģ",
+      "name": "LATIN CAPITAL LETTER G WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0122"
+    },
+    {
+      "id": "u0123",
+      "codepoint": 291,
+      "hex": "U+0123",
+      "char": "ģ",
+      "name": "LATIN SMALL LETTER G WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0123"
+    },
+    {
+      "id": "u0124",
+      "codepoint": 292,
+      "hex": "U+0124",
+      "char": "Ĥ",
+      "name": "LATIN CAPITAL LETTER H WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0124"
+    },
+    {
+      "id": "u0125",
+      "codepoint": 293,
+      "hex": "U+0125",
+      "char": "ĥ",
+      "name": "LATIN SMALL LETTER H WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0125"
+    },
+    {
+      "id": "u0126",
+      "codepoint": 294,
+      "hex": "U+0126",
+      "char": "Ħ",
+      "name": "LATIN CAPITAL LETTER H WITH STROKE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0126"
+    },
+    {
+      "id": "u0127",
+      "codepoint": 295,
+      "hex": "U+0127",
+      "char": "ħ",
+      "name": "LATIN SMALL LETTER H WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0127"
+    },
+    {
+      "id": "u0128",
+      "codepoint": 296,
+      "hex": "U+0128",
+      "char": "Ĩ",
+      "name": "LATIN CAPITAL LETTER I WITH TILDE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0128"
+    },
+    {
+      "id": "u0129",
+      "codepoint": 297,
+      "hex": "U+0129",
+      "char": "ĩ",
+      "name": "LATIN SMALL LETTER I WITH TILDE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0129"
+    },
+    {
+      "id": "u012A",
+      "codepoint": 298,
+      "hex": "U+012A",
+      "char": "Ī",
+      "name": "LATIN CAPITAL LETTER I WITH MACRON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u012A"
+    },
+    {
+      "id": "u012B",
+      "codepoint": 299,
+      "hex": "U+012B",
+      "char": "ī",
+      "name": "LATIN SMALL LETTER I WITH MACRON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u012B"
+    },
+    {
+      "id": "u012C",
+      "codepoint": 300,
+      "hex": "U+012C",
+      "char": "Ĭ",
+      "name": "LATIN CAPITAL LETTER I WITH BREVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u012C"
+    },
+    {
+      "id": "u012D",
+      "codepoint": 301,
+      "hex": "U+012D",
+      "char": "ĭ",
+      "name": "LATIN SMALL LETTER I WITH BREVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u012D"
+    },
+    {
+      "id": "u012E",
+      "codepoint": 302,
+      "hex": "U+012E",
+      "char": "Į",
+      "name": "LATIN CAPITAL LETTER I WITH OGONEK",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u012E"
+    },
+    {
+      "id": "u012F",
+      "codepoint": 303,
+      "hex": "U+012F",
+      "char": "į",
+      "name": "LATIN SMALL LETTER I WITH OGONEK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u012F"
+    },
+    {
+      "id": "u0130",
+      "codepoint": 304,
+      "hex": "U+0130",
+      "char": "İ",
+      "name": "LATIN CAPITAL LETTER I WITH DOT ABOVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0130"
+    },
+    {
+      "id": "u0131",
+      "codepoint": 305,
+      "hex": "U+0131",
+      "char": "ı",
+      "name": "LATIN SMALL LETTER DOTLESS I",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0131"
+    },
+    {
+      "id": "u0132",
+      "codepoint": 306,
+      "hex": "U+0132",
+      "char": "Ĳ",
+      "name": "LATIN CAPITAL LIGATURE IJ",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0132"
+    },
+    {
+      "id": "u0133",
+      "codepoint": 307,
+      "hex": "U+0133",
+      "char": "ĳ",
+      "name": "LATIN SMALL LIGATURE IJ",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0133"
+    },
+    {
+      "id": "u0134",
+      "codepoint": 308,
+      "hex": "U+0134",
+      "char": "Ĵ",
+      "name": "LATIN CAPITAL LETTER J WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0134"
+    },
+    {
+      "id": "u0135",
+      "codepoint": 309,
+      "hex": "U+0135",
+      "char": "ĵ",
+      "name": "LATIN SMALL LETTER J WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0135"
+    },
+    {
+      "id": "u0136",
+      "codepoint": 310,
+      "hex": "U+0136",
+      "char": "Ķ",
+      "name": "LATIN CAPITAL LETTER K WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0136"
+    },
+    {
+      "id": "u0137",
+      "codepoint": 311,
+      "hex": "U+0137",
+      "char": "ķ",
+      "name": "LATIN SMALL LETTER K WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0137"
+    },
+    {
+      "id": "u0138",
+      "codepoint": 312,
+      "hex": "U+0138",
+      "char": "ĸ",
+      "name": "LATIN SMALL LETTER KRA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0138"
+    },
+    {
+      "id": "u0139",
+      "codepoint": 313,
+      "hex": "U+0139",
+      "char": "Ĺ",
+      "name": "LATIN CAPITAL LETTER L WITH ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0139"
+    },
+    {
+      "id": "u013A",
+      "codepoint": 314,
+      "hex": "U+013A",
+      "char": "ĺ",
+      "name": "LATIN SMALL LETTER L WITH ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u013A"
+    },
+    {
+      "id": "u013B",
+      "codepoint": 315,
+      "hex": "U+013B",
+      "char": "Ļ",
+      "name": "LATIN CAPITAL LETTER L WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u013B"
+    },
+    {
+      "id": "u013C",
+      "codepoint": 316,
+      "hex": "U+013C",
+      "char": "ļ",
+      "name": "LATIN SMALL LETTER L WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u013C"
+    },
+    {
+      "id": "u013D",
+      "codepoint": 317,
+      "hex": "U+013D",
+      "char": "Ľ",
+      "name": "LATIN CAPITAL LETTER L WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u013D"
+    },
+    {
+      "id": "u013E",
+      "codepoint": 318,
+      "hex": "U+013E",
+      "char": "ľ",
+      "name": "LATIN SMALL LETTER L WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u013E"
+    },
+    {
+      "id": "u013F",
+      "codepoint": 319,
+      "hex": "U+013F",
+      "char": "Ŀ",
+      "name": "LATIN CAPITAL LETTER L WITH MIDDLE DOT",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u013F"
+    },
+    {
+      "id": "u0140",
+      "codepoint": 320,
+      "hex": "U+0140",
+      "char": "ŀ",
+      "name": "LATIN SMALL LETTER L WITH MIDDLE DOT",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0140"
+    },
+    {
+      "id": "u0141",
+      "codepoint": 321,
+      "hex": "U+0141",
+      "char": "Ł",
+      "name": "LATIN CAPITAL LETTER L WITH STROKE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0141"
+    },
+    {
+      "id": "u0142",
+      "codepoint": 322,
+      "hex": "U+0142",
+      "char": "ł",
+      "name": "LATIN SMALL LETTER L WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0142"
+    },
+    {
+      "id": "u0143",
+      "codepoint": 323,
+      "hex": "U+0143",
+      "char": "Ń",
+      "name": "LATIN CAPITAL LETTER N WITH ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0143"
+    },
+    {
+      "id": "u0144",
+      "codepoint": 324,
+      "hex": "U+0144",
+      "char": "ń",
+      "name": "LATIN SMALL LETTER N WITH ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0144"
+    },
+    {
+      "id": "u0145",
+      "codepoint": 325,
+      "hex": "U+0145",
+      "char": "Ņ",
+      "name": "LATIN CAPITAL LETTER N WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0145"
+    },
+    {
+      "id": "u0146",
+      "codepoint": 326,
+      "hex": "U+0146",
+      "char": "ņ",
+      "name": "LATIN SMALL LETTER N WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0146"
+    },
+    {
+      "id": "u0147",
+      "codepoint": 327,
+      "hex": "U+0147",
+      "char": "Ň",
+      "name": "LATIN CAPITAL LETTER N WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0147"
+    },
+    {
+      "id": "u0148",
+      "codepoint": 328,
+      "hex": "U+0148",
+      "char": "ň",
+      "name": "LATIN SMALL LETTER N WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0148"
+    },
+    {
+      "id": "u0149",
+      "codepoint": 329,
+      "hex": "U+0149",
+      "char": "ŉ",
+      "name": "LATIN SMALL LETTER N PRECEDED BY APOSTROPHE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0149"
+    },
+    {
+      "id": "u014A",
+      "codepoint": 330,
+      "hex": "U+014A",
+      "char": "Ŋ",
+      "name": "LATIN CAPITAL LETTER ENG",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u014A"
+    },
+    {
+      "id": "u014B",
+      "codepoint": 331,
+      "hex": "U+014B",
+      "char": "ŋ",
+      "name": "LATIN SMALL LETTER ENG",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u014B"
+    },
+    {
+      "id": "u014C",
+      "codepoint": 332,
+      "hex": "U+014C",
+      "char": "Ō",
+      "name": "LATIN CAPITAL LETTER O WITH MACRON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u014C"
+    },
+    {
+      "id": "u014D",
+      "codepoint": 333,
+      "hex": "U+014D",
+      "char": "ō",
+      "name": "LATIN SMALL LETTER O WITH MACRON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u014D"
+    },
+    {
+      "id": "u014E",
+      "codepoint": 334,
+      "hex": "U+014E",
+      "char": "Ŏ",
+      "name": "LATIN CAPITAL LETTER O WITH BREVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u014E"
+    },
+    {
+      "id": "u014F",
+      "codepoint": 335,
+      "hex": "U+014F",
+      "char": "ŏ",
+      "name": "LATIN SMALL LETTER O WITH BREVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u014F"
+    },
+    {
+      "id": "u0150",
+      "codepoint": 336,
+      "hex": "U+0150",
+      "char": "Ő",
+      "name": "LATIN CAPITAL LETTER O WITH DOUBLE ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0150"
+    },
+    {
+      "id": "u0151",
+      "codepoint": 337,
+      "hex": "U+0151",
+      "char": "ő",
+      "name": "LATIN SMALL LETTER O WITH DOUBLE ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0151"
+    },
+    {
+      "id": "u0152",
+      "codepoint": 338,
+      "hex": "U+0152",
+      "char": "Œ",
+      "name": "LATIN CAPITAL LIGATURE OE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0152"
+    },
+    {
+      "id": "u0153",
+      "codepoint": 339,
+      "hex": "U+0153",
+      "char": "œ",
+      "name": "LATIN SMALL LIGATURE OE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0153"
+    },
+    {
+      "id": "u0154",
+      "codepoint": 340,
+      "hex": "U+0154",
+      "char": "Ŕ",
+      "name": "LATIN CAPITAL LETTER R WITH ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0154"
+    },
+    {
+      "id": "u0155",
+      "codepoint": 341,
+      "hex": "U+0155",
+      "char": "ŕ",
+      "name": "LATIN SMALL LETTER R WITH ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0155"
+    },
+    {
+      "id": "u0156",
+      "codepoint": 342,
+      "hex": "U+0156",
+      "char": "Ŗ",
+      "name": "LATIN CAPITAL LETTER R WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0156"
+    },
+    {
+      "id": "u0157",
+      "codepoint": 343,
+      "hex": "U+0157",
+      "char": "ŗ",
+      "name": "LATIN SMALL LETTER R WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0157"
+    },
+    {
+      "id": "u0158",
+      "codepoint": 344,
+      "hex": "U+0158",
+      "char": "Ř",
+      "name": "LATIN CAPITAL LETTER R WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0158"
+    },
+    {
+      "id": "u0159",
+      "codepoint": 345,
+      "hex": "U+0159",
+      "char": "ř",
+      "name": "LATIN SMALL LETTER R WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0159"
+    },
+    {
+      "id": "u015A",
+      "codepoint": 346,
+      "hex": "U+015A",
+      "char": "Ś",
+      "name": "LATIN CAPITAL LETTER S WITH ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u015A"
+    },
+    {
+      "id": "u015B",
+      "codepoint": 347,
+      "hex": "U+015B",
+      "char": "ś",
+      "name": "LATIN SMALL LETTER S WITH ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u015B"
+    },
+    {
+      "id": "u015C",
+      "codepoint": 348,
+      "hex": "U+015C",
+      "char": "Ŝ",
+      "name": "LATIN CAPITAL LETTER S WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u015C"
+    },
+    {
+      "id": "u015D",
+      "codepoint": 349,
+      "hex": "U+015D",
+      "char": "ŝ",
+      "name": "LATIN SMALL LETTER S WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u015D"
+    },
+    {
+      "id": "u015E",
+      "codepoint": 350,
+      "hex": "U+015E",
+      "char": "Ş",
+      "name": "LATIN CAPITAL LETTER S WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u015E"
+    },
+    {
+      "id": "u015F",
+      "codepoint": 351,
+      "hex": "U+015F",
+      "char": "ş",
+      "name": "LATIN SMALL LETTER S WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u015F"
+    },
+    {
+      "id": "u0160",
+      "codepoint": 352,
+      "hex": "U+0160",
+      "char": "Š",
+      "name": "LATIN CAPITAL LETTER S WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0160"
+    },
+    {
+      "id": "u0161",
+      "codepoint": 353,
+      "hex": "U+0161",
+      "char": "š",
+      "name": "LATIN SMALL LETTER S WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0161"
+    },
+    {
+      "id": "u0162",
+      "codepoint": 354,
+      "hex": "U+0162",
+      "char": "Ţ",
+      "name": "LATIN CAPITAL LETTER T WITH CEDILLA",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0162"
+    },
+    {
+      "id": "u0163",
+      "codepoint": 355,
+      "hex": "U+0163",
+      "char": "ţ",
+      "name": "LATIN SMALL LETTER T WITH CEDILLA",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0163"
+    },
+    {
+      "id": "u0164",
+      "codepoint": 356,
+      "hex": "U+0164",
+      "char": "Ť",
+      "name": "LATIN CAPITAL LETTER T WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0164"
+    },
+    {
+      "id": "u0165",
+      "codepoint": 357,
+      "hex": "U+0165",
+      "char": "ť",
+      "name": "LATIN SMALL LETTER T WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0165"
+    },
+    {
+      "id": "u0166",
+      "codepoint": 358,
+      "hex": "U+0166",
+      "char": "Ŧ",
+      "name": "LATIN CAPITAL LETTER T WITH STROKE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0166"
+    },
+    {
+      "id": "u0167",
+      "codepoint": 359,
+      "hex": "U+0167",
+      "char": "ŧ",
+      "name": "LATIN SMALL LETTER T WITH STROKE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0167"
+    },
+    {
+      "id": "u0168",
+      "codepoint": 360,
+      "hex": "U+0168",
+      "char": "Ũ",
+      "name": "LATIN CAPITAL LETTER U WITH TILDE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0168"
+    },
+    {
+      "id": "u0169",
+      "codepoint": 361,
+      "hex": "U+0169",
+      "char": "ũ",
+      "name": "LATIN SMALL LETTER U WITH TILDE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0169"
+    },
+    {
+      "id": "u016A",
+      "codepoint": 362,
+      "hex": "U+016A",
+      "char": "Ū",
+      "name": "LATIN CAPITAL LETTER U WITH MACRON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u016A"
+    },
+    {
+      "id": "u016B",
+      "codepoint": 363,
+      "hex": "U+016B",
+      "char": "ū",
+      "name": "LATIN SMALL LETTER U WITH MACRON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u016B"
+    },
+    {
+      "id": "u016C",
+      "codepoint": 364,
+      "hex": "U+016C",
+      "char": "Ŭ",
+      "name": "LATIN CAPITAL LETTER U WITH BREVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u016C"
+    },
+    {
+      "id": "u016D",
+      "codepoint": 365,
+      "hex": "U+016D",
+      "char": "ŭ",
+      "name": "LATIN SMALL LETTER U WITH BREVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u016D"
+    },
+    {
+      "id": "u016E",
+      "codepoint": 366,
+      "hex": "U+016E",
+      "char": "Ů",
+      "name": "LATIN CAPITAL LETTER U WITH RING ABOVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u016E"
+    },
+    {
+      "id": "u016F",
+      "codepoint": 367,
+      "hex": "U+016F",
+      "char": "ů",
+      "name": "LATIN SMALL LETTER U WITH RING ABOVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u016F"
+    },
+    {
+      "id": "u0170",
+      "codepoint": 368,
+      "hex": "U+0170",
+      "char": "Ű",
+      "name": "LATIN CAPITAL LETTER U WITH DOUBLE ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0170"
+    },
+    {
+      "id": "u0171",
+      "codepoint": 369,
+      "hex": "U+0171",
+      "char": "ű",
+      "name": "LATIN SMALL LETTER U WITH DOUBLE ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0171"
+    },
+    {
+      "id": "u0172",
+      "codepoint": 370,
+      "hex": "U+0172",
+      "char": "Ų",
+      "name": "LATIN CAPITAL LETTER U WITH OGONEK",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0172"
+    },
+    {
+      "id": "u0173",
+      "codepoint": 371,
+      "hex": "U+0173",
+      "char": "ų",
+      "name": "LATIN SMALL LETTER U WITH OGONEK",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0173"
+    },
+    {
+      "id": "u0174",
+      "codepoint": 372,
+      "hex": "U+0174",
+      "char": "Ŵ",
+      "name": "LATIN CAPITAL LETTER W WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0174"
+    },
+    {
+      "id": "u0175",
+      "codepoint": 373,
+      "hex": "U+0175",
+      "char": "ŵ",
+      "name": "LATIN SMALL LETTER W WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0175"
+    },
+    {
+      "id": "u0176",
+      "codepoint": 374,
+      "hex": "U+0176",
+      "char": "Ŷ",
+      "name": "LATIN CAPITAL LETTER Y WITH CIRCUMFLEX",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0176"
+    },
+    {
+      "id": "u0177",
+      "codepoint": 375,
+      "hex": "U+0177",
+      "char": "ŷ",
+      "name": "LATIN SMALL LETTER Y WITH CIRCUMFLEX",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0177"
+    },
+    {
+      "id": "u0178",
+      "codepoint": 376,
+      "hex": "U+0178",
+      "char": "Ÿ",
+      "name": "LATIN CAPITAL LETTER Y WITH DIAERESIS",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0178"
+    },
+    {
+      "id": "u0179",
+      "codepoint": 377,
+      "hex": "U+0179",
+      "char": "Ź",
+      "name": "LATIN CAPITAL LETTER Z WITH ACUTE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u0179"
+    },
+    {
+      "id": "u017A",
+      "codepoint": 378,
+      "hex": "U+017A",
+      "char": "ź",
+      "name": "LATIN SMALL LETTER Z WITH ACUTE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u017A"
+    },
+    {
+      "id": "u017B",
+      "codepoint": 379,
+      "hex": "U+017B",
+      "char": "Ż",
+      "name": "LATIN CAPITAL LETTER Z WITH DOT ABOVE",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u017B"
+    },
+    {
+      "id": "u017C",
+      "codepoint": 380,
+      "hex": "U+017C",
+      "char": "ż",
+      "name": "LATIN SMALL LETTER Z WITH DOT ABOVE",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u017C"
+    },
+    {
+      "id": "u017D",
+      "codepoint": 381,
+      "hex": "U+017D",
+      "char": "Ž",
+      "name": "LATIN CAPITAL LETTER Z WITH CARON",
+      "category": "Lu",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u017D"
+    },
+    {
+      "id": "u017E",
+      "codepoint": 382,
+      "hex": "U+017E",
+      "char": "ž",
+      "name": "LATIN SMALL LETTER Z WITH CARON",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u017E"
+    },
+    {
+      "id": "u017F",
+      "codepoint": 383,
+      "hex": "U+017F",
+      "char": "ſ",
+      "name": "LATIN SMALL LETTER LONG S",
+      "category": "Ll",
+      "url": "https://gratisapi.com/api/unicode-latin-extended-a/u017F"
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "api": "unicode-playing-cards",
+  "title": "Playing Cards",
+  "description": "The Playing Cards Unicode block (U+1F0A0..U+1F0FF).",
+  "emoji": "🔤",
+  "license": "GPL-2.0-or-later",
+  "count": 82,
+  "self": "https://gratisapi.com/api/unicode-playing-cards/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/unicode-playing-cards/index"
+  },
+  "fields": [
+    "category",
+    "char",
+    "codepoint",
+    "hex",
+    "id",
+    "name"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": "u1F0A0",
+      "codepoint": 127136,
+      "hex": "U+1F0A0",
+      "char": "🂠",
+      "name": "PLAYING CARD BACK",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A0"
+    },
+    {
+      "id": "u1F0A1",
+      "codepoint": 127137,
+      "hex": "U+1F0A1",
+      "char": "🂡",
+      "name": "PLAYING CARD ACE OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A1"
+    },
+    {
+      "id": "u1F0A2",
+      "codepoint": 127138,
+      "hex": "U+1F0A2",
+      "char": "🂢",
+      "name": "PLAYING CARD TWO OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A2"
+    },
+    {
+      "id": "u1F0A3",
+      "codepoint": 127139,
+      "hex": "U+1F0A3",
+      "char": "🂣",
+      "name": "PLAYING CARD THREE OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A3"
+    },
+    {
+      "id": "u1F0A4",
+      "codepoint": 127140,
+      "hex": "U+1F0A4",
+      "char": "🂤",
+      "name": "PLAYING CARD FOUR OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A4"
+    },
+    {
+      "id": "u1F0A5",
+      "codepoint": 127141,
+      "hex": "U+1F0A5",
+      "char": "🂥",
+      "name": "PLAYING CARD FIVE OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A5"
+    },
+    {
+      "id": "u1F0A6",
+      "codepoint": 127142,
+      "hex": "U+1F0A6",
+      "char": "🂦",
+      "name": "PLAYING CARD SIX OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A6"
+    },
+    {
+      "id": "u1F0A7",
+      "codepoint": 127143,
+      "hex": "U+1F0A7",
+      "char": "🂧",
+      "name": "PLAYING CARD SEVEN OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A7"
+    },
+    {
+      "id": "u1F0A8",
+      "codepoint": 127144,
+      "hex": "U+1F0A8",
+      "char": "🂨",
+      "name": "PLAYING CARD EIGHT OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A8"
+    },
+    {
+      "id": "u1F0A9",
+      "codepoint": 127145,
+      "hex": "U+1F0A9",
+      "char": "🂩",
+      "name": "PLAYING CARD NINE OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0A9"
+    },
+    {
+      "id": "u1F0AA",
+      "codepoint": 127146,
+      "hex": "U+1F0AA",
+      "char": "🂪",
+      "name": "PLAYING CARD TEN OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0AA"
+    },
+    {
+      "id": "u1F0AB",
+      "codepoint": 127147,
+      "hex": "U+1F0AB",
+      "char": "🂫",
+      "name": "PLAYING CARD JACK OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0AB"
+    },
+    {
+      "id": "u1F0AC",
+      "codepoint": 127148,
+      "hex": "U+1F0AC",
+      "char": "🂬",
+      "name": "PLAYING CARD KNIGHT OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0AC"
+    },
+    {
+      "id": "u1F0AD",
+      "codepoint": 127149,
+      "hex": "U+1F0AD",
+      "char": "🂭",
+      "name": "PLAYING CARD QUEEN OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0AD"
+    },
+    {
+      "id": "u1F0AE",
+      "codepoint": 127150,
+      "hex": "U+1F0AE",
+      "char": "🂮",
+      "name": "PLAYING CARD KING OF SPADES",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0AE"
+    },
+    {
+      "id": "u1F0B1",
+      "codepoint": 127153,
+      "hex": "U+1F0B1",
+      "char": "🂱",
+      "name": "PLAYING CARD ACE OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B1"
+    },
+    {
+      "id": "u1F0B2",
+      "codepoint": 127154,
+      "hex": "U+1F0B2",
+      "char": "🂲",
+      "name": "PLAYING CARD TWO OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B2"
+    },
+    {
+      "id": "u1F0B3",
+      "codepoint": 127155,
+      "hex": "U+1F0B3",
+      "char": "🂳",
+      "name": "PLAYING CARD THREE OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B3"
+    },
+    {
+      "id": "u1F0B4",
+      "codepoint": 127156,
+      "hex": "U+1F0B4",
+      "char": "🂴",
+      "name": "PLAYING CARD FOUR OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B4"
+    },
+    {
+      "id": "u1F0B5",
+      "codepoint": 127157,
+      "hex": "U+1F0B5",
+      "char": "🂵",
+      "name": "PLAYING CARD FIVE OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B5"
+    },
+    {
+      "id": "u1F0B6",
+      "codepoint": 127158,
+      "hex": "U+1F0B6",
+      "char": "🂶",
+      "name": "PLAYING CARD SIX OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B6"
+    },
+    {
+      "id": "u1F0B7",
+      "codepoint": 127159,
+      "hex": "U+1F0B7",
+      "char": "🂷",
+      "name": "PLAYING CARD SEVEN OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B7"
+    },
+    {
+      "id": "u1F0B8",
+      "codepoint": 127160,
+      "hex": "U+1F0B8",
+      "char": "🂸",
+      "name": "PLAYING CARD EIGHT OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B8"
+    },
+    {
+      "id": "u1F0B9",
+      "codepoint": 127161,
+      "hex": "U+1F0B9",
+      "char": "🂹",
+      "name": "PLAYING CARD NINE OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0B9"
+    },
+    {
+      "id": "u1F0BA",
+      "codepoint": 127162,
+      "hex": "U+1F0BA",
+      "char": "🂺",
+      "name": "PLAYING CARD TEN OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0BA"
+    },
+    {
+      "id": "u1F0BB",
+      "codepoint": 127163,
+      "hex": "U+1F0BB",
+      "char": "🂻",
+      "name": "PLAYING CARD JACK OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0BB"
+    },
+    {
+      "id": "u1F0BC",
+      "codepoint": 127164,
+      "hex": "U+1F0BC",
+      "char": "🂼",
+      "name": "PLAYING CARD KNIGHT OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0BC"
+    },
+    {
+      "id": "u1F0BD",
+      "codepoint": 127165,
+      "hex": "U+1F0BD",
+      "char": "🂽",
+      "name": "PLAYING CARD QUEEN OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0BD"
+    },
+    {
+      "id": "u1F0BE",
+      "codepoint": 127166,
+      "hex": "U+1F0BE",
+      "char": "🂾",
+      "name": "PLAYING CARD KING OF HEARTS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0BE"
+    },
+    {
+      "id": "u1F0BF",
+      "codepoint": 127167,
+      "hex": "U+1F0BF",
+      "char": "🂿",
+      "name": "PLAYING CARD RED JOKER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0BF"
+    },
+    {
+      "id": "u1F0C1",
+      "codepoint": 127169,
+      "hex": "U+1F0C1",
+      "char": "🃁",
+      "name": "PLAYING CARD ACE OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C1"
+    },
+    {
+      "id": "u1F0C2",
+      "codepoint": 127170,
+      "hex": "U+1F0C2",
+      "char": "🃂",
+      "name": "PLAYING CARD TWO OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C2"
+    },
+    {
+      "id": "u1F0C3",
+      "codepoint": 127171,
+      "hex": "U+1F0C3",
+      "char": "🃃",
+      "name": "PLAYING CARD THREE OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C3"
+    },
+    {
+      "id": "u1F0C4",
+      "codepoint": 127172,
+      "hex": "U+1F0C4",
+      "char": "🃄",
+      "name": "PLAYING CARD FOUR OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C4"
+    },
+    {
+      "id": "u1F0C5",
+      "codepoint": 127173,
+      "hex": "U+1F0C5",
+      "char": "🃅",
+      "name": "PLAYING CARD FIVE OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C5"
+    },
+    {
+      "id": "u1F0C6",
+      "codepoint": 127174,
+      "hex": "U+1F0C6",
+      "char": "🃆",
+      "name": "PLAYING CARD SIX OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C6"
+    },
+    {
+      "id": "u1F0C7",
+      "codepoint": 127175,
+      "hex": "U+1F0C7",
+      "char": "🃇",
+      "name": "PLAYING CARD SEVEN OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C7"
+    },
+    {
+      "id": "u1F0C8",
+      "codepoint": 127176,
+      "hex": "U+1F0C8",
+      "char": "🃈",
+      "name": "PLAYING CARD EIGHT OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C8"
+    },
+    {
+      "id": "u1F0C9",
+      "codepoint": 127177,
+      "hex": "U+1F0C9",
+      "char": "🃉",
+      "name": "PLAYING CARD NINE OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0C9"
+    },
+    {
+      "id": "u1F0CA",
+      "codepoint": 127178,
+      "hex": "U+1F0CA",
+      "char": "🃊",
+      "name": "PLAYING CARD TEN OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0CA"
+    },
+    {
+      "id": "u1F0CB",
+      "codepoint": 127179,
+      "hex": "U+1F0CB",
+      "char": "🃋",
+      "name": "PLAYING CARD JACK OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0CB"
+    },
+    {
+      "id": "u1F0CC",
+      "codepoint": 127180,
+      "hex": "U+1F0CC",
+      "char": "🃌",
+      "name": "PLAYING CARD KNIGHT OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0CC"
+    },
+    {
+      "id": "u1F0CD",
+      "codepoint": 127181,
+      "hex": "U+1F0CD",
+      "char": "🃍",
+      "name": "PLAYING CARD QUEEN OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0CD"
+    },
+    {
+      "id": "u1F0CE",
+      "codepoint": 127182,
+      "hex": "U+1F0CE",
+      "char": "🃎",
+      "name": "PLAYING CARD KING OF DIAMONDS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0CE"
+    },
+    {
+      "id": "u1F0CF",
+      "codepoint": 127183,
+      "hex": "U+1F0CF",
+      "char": "🃏",
+      "name": "PLAYING CARD BLACK JOKER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0CF"
+    },
+    {
+      "id": "u1F0D1",
+      "codepoint": 127185,
+      "hex": "U+1F0D1",
+      "char": "🃑",
+      "name": "PLAYING CARD ACE OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D1"
+    },
+    {
+      "id": "u1F0D2",
+      "codepoint": 127186,
+      "hex": "U+1F0D2",
+      "char": "🃒",
+      "name": "PLAYING CARD TWO OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D2"
+    },
+    {
+      "id": "u1F0D3",
+      "codepoint": 127187,
+      "hex": "U+1F0D3",
+      "char": "🃓",
+      "name": "PLAYING CARD THREE OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D3"
+    },
+    {
+      "id": "u1F0D4",
+      "codepoint": 127188,
+      "hex": "U+1F0D4",
+      "char": "🃔",
+      "name": "PLAYING CARD FOUR OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D4"
+    },
+    {
+      "id": "u1F0D5",
+      "codepoint": 127189,
+      "hex": "U+1F0D5",
+      "char": "🃕",
+      "name": "PLAYING CARD FIVE OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D5"
+    },
+    {
+      "id": "u1F0D6",
+      "codepoint": 127190,
+      "hex": "U+1F0D6",
+      "char": "🃖",
+      "name": "PLAYING CARD SIX OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D6"
+    },
+    {
+      "id": "u1F0D7",
+      "codepoint": 127191,
+      "hex": "U+1F0D7",
+      "char": "🃗",
+      "name": "PLAYING CARD SEVEN OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D7"
+    },
+    {
+      "id": "u1F0D8",
+      "codepoint": 127192,
+      "hex": "U+1F0D8",
+      "char": "🃘",
+      "name": "PLAYING CARD EIGHT OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D8"
+    },
+    {
+      "id": "u1F0D9",
+      "codepoint": 127193,
+      "hex": "U+1F0D9",
+      "char": "🃙",
+      "name": "PLAYING CARD NINE OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0D9"
+    },
+    {
+      "id": "u1F0DA",
+      "codepoint": 127194,
+      "hex": "U+1F0DA",
+      "char": "🃚",
+      "name": "PLAYING CARD TEN OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0DA"
+    },
+    {
+      "id": "u1F0DB",
+      "codepoint": 127195,
+      "hex": "U+1F0DB",
+      "char": "🃛",
+      "name": "PLAYING CARD JACK OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0DB"
+    },
+    {
+      "id": "u1F0DC",
+      "codepoint": 127196,
+      "hex": "U+1F0DC",
+      "char": "🃜",
+      "name": "PLAYING CARD KNIGHT OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0DC"
+    },
+    {
+      "id": "u1F0DD",
+      "codepoint": 127197,
+      "hex": "U+1F0DD",
+      "char": "🃝",
+      "name": "PLAYING CARD QUEEN OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0DD"
+    },
+    {
+      "id": "u1F0DE",
+      "codepoint": 127198,
+      "hex": "U+1F0DE",
+      "char": "🃞",
+      "name": "PLAYING CARD KING OF CLUBS",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0DE"
+    },
+    {
+      "id": "u1F0DF",
+      "codepoint": 127199,
+      "hex": "U+1F0DF",
+      "char": "🃟",
+      "name": "PLAYING CARD WHITE JOKER",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0DF"
+    },
+    {
+      "id": "u1F0E0",
+      "codepoint": 127200,
+      "hex": "U+1F0E0",
+      "char": "🃠",
+      "name": "PLAYING CARD FOOL",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E0"
+    },
+    {
+      "id": "u1F0E1",
+      "codepoint": 127201,
+      "hex": "U+1F0E1",
+      "char": "🃡",
+      "name": "PLAYING CARD TRUMP-1",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E1"
+    },
+    {
+      "id": "u1F0E2",
+      "codepoint": 127202,
+      "hex": "U+1F0E2",
+      "char": "🃢",
+      "name": "PLAYING CARD TRUMP-2",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E2"
+    },
+    {
+      "id": "u1F0E3",
+      "codepoint": 127203,
+      "hex": "U+1F0E3",
+      "char": "🃣",
+      "name": "PLAYING CARD TRUMP-3",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E3"
+    },
+    {
+      "id": "u1F0E4",
+      "codepoint": 127204,
+      "hex": "U+1F0E4",
+      "char": "🃤",
+      "name": "PLAYING CARD TRUMP-4",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E4"
+    },
+    {
+      "id": "u1F0E5",
+      "codepoint": 127205,
+      "hex": "U+1F0E5",
+      "char": "🃥",
+      "name": "PLAYING CARD TRUMP-5",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E5"
+    },
+    {
+      "id": "u1F0E6",
+      "codepoint": 127206,
+      "hex": "U+1F0E6",
+      "char": "🃦",
+      "name": "PLAYING CARD TRUMP-6",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E6"
+    },
+    {
+      "id": "u1F0E7",
+      "codepoint": 127207,
+      "hex": "U+1F0E7",
+      "char": "🃧",
+      "name": "PLAYING CARD TRUMP-7",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E7"
+    },
+    {
+      "id": "u1F0E8",
+      "codepoint": 127208,
+      "hex": "U+1F0E8",
+      "char": "🃨",
+      "name": "PLAYING CARD TRUMP-8",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E8"
+    },
+    {
+      "id": "u1F0E9",
+      "codepoint": 127209,
+      "hex": "U+1F0E9",
+      "char": "🃩",
+      "name": "PLAYING CARD TRUMP-9",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0E9"
+    },
+    {
+      "id": "u1F0EA",
+      "codepoint": 127210,
+      "hex": "U+1F0EA",
+      "char": "🃪",
+      "name": "PLAYING CARD TRUMP-10",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0EA"
+    },
+    {
+      "id": "u1F0EB",
+      "codepoint": 127211,
+      "hex": "U+1F0EB",
+      "char": "🃫",
+      "name": "PLAYING CARD TRUMP-11",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0EB"
+    },
+    {
+      "id": "u1F0EC",
+      "codepoint": 127212,
+      "hex": "U+1F0EC",
+      "char": "🃬",
+      "name": "PLAYING CARD TRUMP-12",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0EC"
+    },
+    {
+      "id": "u1F0ED",
+      "codepoint": 127213,
+      "hex": "U+1F0ED",
+      "char": "🃭",
+      "name": "PLAYING CARD TRUMP-13",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0ED"
+    },
+    {
+      "id": "u1F0EE",
+      "codepoint": 127214,
+      "hex": "U+1F0EE",
+      "char": "🃮",
+      "name": "PLAYING CARD TRUMP-14",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0EE"
+    },
+    {
+      "id": "u1F0EF",
+      "codepoint": 127215,
+      "hex": "U+1F0EF",
+      "char": "🃯",
+      "name": "PLAYING CARD TRUMP-15",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0EF"
+    },
+    {
+      "id": "u1F0F0",
+      "codepoint": 127216,
+      "hex": "U+1F0F0",
+      "char": "🃰",
+      "name": "PLAYING CARD TRUMP-16",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0F0"
+    },
+    {
+      "id": "u1F0F1",
+      "codepoint": 127217,
+      "hex": "U+1F0F1",
+      "char": "🃱",
+      "name": "PLAYING CARD TRUMP-17",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0F1"
+    },
+    {
+      "id": "u1F0F2",
+      "codepoint": 127218,
+      "hex": "U+1F0F2",
+      "char": "🃲",
+      "name": "PLAYING CARD TRUMP-18",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0F2"
+    },
+    {
+      "id": "u1F0F3",
+      "codepoint": 127219,
+      "hex": "U+1F0F3",
+      "char": "🃳",
+      "name": "PLAYING CARD TRUMP-19",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0F3"
+    },
+    {
+      "id": "u1F0F4",
+      "codepoint": 127220,
+      "hex": "U+1F0F4",
+      "char": "🃴",
+      "name": "PLAYING CARD TRUMP-20",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0F4"
+    },
+    {
+      "id": "u1F0F5",
+      "codepoint": 127221,
+      "hex": "U+1F0F5",
+      "char": "🃵",
+      "name": "PLAYING CARD TRUMP-21",
+      "category": "So",
+      "url": "https://gratisapi.com/api/unicode-playing-cards/u1F0F5"
+    }
+  ]
+}

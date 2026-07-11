@@ -1,0 +1,182 @@
+{
+  "api": "times-table-39",
+  "title": "39 Times Table",
+  "description": "The multiplication table for 39: 39x1 through 39x20.",
+  "emoji": "✖️",
+  "license": "GPL-2.0-or-later",
+  "count": 20,
+  "self": "https://gratisapi.com/api/times-table-39/index",
+  "endpoints": {
+    "list": "https://gratisapi.com/api/times-table-39/index"
+  },
+  "fields": [
+    "expression",
+    "id",
+    "multiplicand",
+    "multiplier",
+    "product"
+  ],
+  "note": "All records are included in this response; there are no per-record endpoints.",
+  "results": [
+    {
+      "id": 1,
+      "multiplier": 39,
+      "multiplicand": 1,
+      "product": 39,
+      "expression": "39 x 1 = 39",
+      "url": "https://gratisapi.com/api/times-table-39/1"
+    },
+    {
+      "id": 2,
+      "multiplier": 39,
+      "multiplicand": 2,
+      "product": 78,
+      "expression": "39 x 2 = 78",
+      "url": "https://gratisapi.com/api/times-table-39/2"
+    },
+    {
+      "id": 3,
+      "multiplier": 39,
+      "multiplicand": 3,
+      "product": 117,
+      "expression": "39 x 3 = 117",
+      "url": "https://gratisapi.com/api/times-table-39/3"
+    },
+    {
+      "id": 4,
+      "multiplier": 39,
+      "multiplicand": 4,
+      "product": 156,
+      "expression": "39 x 4 = 156",
+      "url": "https://gratisapi.com/api/times-table-39/4"
+    },
+    {
+      "id": 5,
+      "multiplier": 39,
+      "multiplicand": 5,
+      "product": 195,
+      "expression": "39 x 5 = 195",
+      "url": "https://gratisapi.com/api/times-table-39/5"
+    },
+    {
+      "id": 6,
+      "multiplier": 39,
+      "multiplicand": 6,
+      "product": 234,
+      "expression": "39 x 6 = 234",
+      "url": "https://gratisapi.com/api/times-table-39/6"
+    },
+    {
+      "id": 7,
+      "multiplier": 39,
+      "multiplicand": 7,
+      "product": 273,
+      "expression": "39 x 7 = 273",
+      "url": "https://gratisapi.com/api/times-table-39/7"
+    },
+    {
+      "id": 8,
+      "multiplier": 39,
+      "multiplicand": 8,
+      "product": 312,
+      "expression": "39 x 8 = 312",
+      "url": "https://gratisapi.com/api/times-table-39/8"
+    },
+    {
+      "id": 9,
+      "multiplier": 39,
+      "multiplicand": 9,
+      "product": 351,
+      "expression": "39 x 9 = 351",
+      "url": "https://gratisapi.com/api/times-table-39/9"
+    },
+    {
+      "id": 10,
+      "multiplier": 39,
+      "multiplicand": 10,
+      "product": 390,
+      "expression": "39 x 10 = 390",
+      "url": "https://gratisapi.com/api/times-table-39/10"
+    },
+    {
+      "id": 11,
+      "multiplier": 39,
+      "multiplicand": 11,
+      "product": 429,
+      "expression": "39 x 11 = 429",
+      "url": "https://gratisapi.com/api/times-table-39/11"
+    },
+    {
+      "id": 12,
+      "multiplier": 39,
+      "multiplicand": 12,
+      "product": 468,
+      "expression": "39 x 12 = 468",
+      "url": "https://gratisapi.com/api/times-table-39/12"
+    },
+    {
+      "id": 13,
+      "multiplier": 39,
+      "multiplicand": 13,
+      "product": 507,
+      "expression": "39 x 13 = 507",
+      "url": "https://gratisapi.com/api/times-table-39/13"
+    },
+    {
+      "id": 14,
+      "multiplier": 39,
+      "multiplicand": 14,
+      "product": 546,
+      "expression": "39 x 14 = 546",
+      "url": "https://gratisapi.com/api/times-table-39/14"
+    },
+    {
+      "id": 15,
+      "multiplier": 39,
+      "multiplicand": 15,
+      "product": 585,
+      "expression": "39 x 15 = 585",
+      "url": "https://gratisapi.com/api/times-table-39/15"
+    },
+    {
+      "id": 16,
+      "multiplier": 39,
+      "multiplicand": 16,
+      "product": 624,
+      "expression": "39 x 16 = 624",
+      "url": "https://gratisapi.com/api/times-table-39/16"
+    },
+    {
+      "id": 17,
+      "multiplier": 39,
+      "multiplicand": 17,
+      "product": 663,
+      "expression": "39 x 17 = 663",
+      "url": "https://gratisapi.com/api/times-table-39/17"
+    },
+    {
+      "id": 18,
+      "multiplier": 39,
+      "multiplicand": 18,
+      "product": 702,
+      "expression": "39 x 18 = 702",
+      "url": "https://gratisapi.com/api/times-table-39/18"
+    },
+    {
+      "id": 19,
+      "multiplier": 39,
+      "multiplicand": 19,
+      "product": 741,
+      "expression": "39 x 19 = 741",
+      "url": "https://gratisapi.com/api/times-table-39/19"
+    },
+    {
+      "id": 20,
+      "multiplier": 39,
+      "multiplicand": 20,
+      "product": 780,
+      "expression": "39 x 20 = 780",
+      "url": "https://gratisapi.com/api/times-table-39/20"
+    }
+  ]
+}
