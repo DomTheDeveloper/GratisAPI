@@ -6,7 +6,7 @@ are capped to keep the JSON small; the index notes when it's a partial view.
 """
 import unicodedata
 
-CAP = 256  # max records per block
+CAP = 1500  # max records per block (big blocks like CJK are noted as partial)
 
 # (block name, start, end) for blocks with well-established ranges.
 _BLOCKS = [

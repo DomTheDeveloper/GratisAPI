@@ -1,10 +1,10 @@
 {
   "api": "unicode-ethiopic",
   "title": "Ethiopic",
-  "description": "The Ethiopic Unicode block (U+1200..U+137F) — first 256 of 358 named characters.",
+  "description": "The Ethiopic Unicode block (U+1200..U+137F).",
   "emoji": "🔤",
   "license": "GPL-2.0-or-later",
-  "count": 256,
+  "count": 358,
   "self": "https://gratisapi.com/api/unicode-ethiopic/index",
   "endpoints": {
     "list": "https://gratisapi.com/api/unicode-ethiopic/index"
@@ -2322,6 +2322,924 @@
       "name": "ETHIOPIC SYLLABLE GWI",
       "category": "Lo",
       "url": "https://gratisapi.com/api/unicode-ethiopic/u1312"
+    },
+    {
+      "id": "u1313",
+      "codepoint": 4883,
+      "hex": "U+1313",
+      "char": "ጓ",
+      "name": "ETHIOPIC SYLLABLE GWAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1313"
+    },
+    {
+      "id": "u1314",
+      "codepoint": 4884,
+      "hex": "U+1314",
+      "char": "ጔ",
+      "name": "ETHIOPIC SYLLABLE GWEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1314"
+    },
+    {
+      "id": "u1315",
+      "codepoint": 4885,
+      "hex": "U+1315",
+      "char": "ጕ",
+      "name": "ETHIOPIC SYLLABLE GWE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1315"
+    },
+    {
+      "id": "u1318",
+      "codepoint": 4888,
+      "hex": "U+1318",
+      "char": "ጘ",
+      "name": "ETHIOPIC SYLLABLE GGA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1318"
+    },
+    {
+      "id": "u1319",
+      "codepoint": 4889,
+      "hex": "U+1319",
+      "char": "ጙ",
+      "name": "ETHIOPIC SYLLABLE GGU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1319"
+    },
+    {
+      "id": "u131A",
+      "codepoint": 4890,
+      "hex": "U+131A",
+      "char": "ጚ",
+      "name": "ETHIOPIC SYLLABLE GGI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u131A"
+    },
+    {
+      "id": "u131B",
+      "codepoint": 4891,
+      "hex": "U+131B",
+      "char": "ጛ",
+      "name": "ETHIOPIC SYLLABLE GGAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u131B"
+    },
+    {
+      "id": "u131C",
+      "codepoint": 4892,
+      "hex": "U+131C",
+      "char": "ጜ",
+      "name": "ETHIOPIC SYLLABLE GGEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u131C"
+    },
+    {
+      "id": "u131D",
+      "codepoint": 4893,
+      "hex": "U+131D",
+      "char": "ጝ",
+      "name": "ETHIOPIC SYLLABLE GGE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u131D"
+    },
+    {
+      "id": "u131E",
+      "codepoint": 4894,
+      "hex": "U+131E",
+      "char": "ጞ",
+      "name": "ETHIOPIC SYLLABLE GGO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u131E"
+    },
+    {
+      "id": "u131F",
+      "codepoint": 4895,
+      "hex": "U+131F",
+      "char": "ጟ",
+      "name": "ETHIOPIC SYLLABLE GGWAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u131F"
+    },
+    {
+      "id": "u1320",
+      "codepoint": 4896,
+      "hex": "U+1320",
+      "char": "ጠ",
+      "name": "ETHIOPIC SYLLABLE THA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1320"
+    },
+    {
+      "id": "u1321",
+      "codepoint": 4897,
+      "hex": "U+1321",
+      "char": "ጡ",
+      "name": "ETHIOPIC SYLLABLE THU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1321"
+    },
+    {
+      "id": "u1322",
+      "codepoint": 4898,
+      "hex": "U+1322",
+      "char": "ጢ",
+      "name": "ETHIOPIC SYLLABLE THI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1322"
+    },
+    {
+      "id": "u1323",
+      "codepoint": 4899,
+      "hex": "U+1323",
+      "char": "ጣ",
+      "name": "ETHIOPIC SYLLABLE THAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1323"
+    },
+    {
+      "id": "u1324",
+      "codepoint": 4900,
+      "hex": "U+1324",
+      "char": "ጤ",
+      "name": "ETHIOPIC SYLLABLE THEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1324"
+    },
+    {
+      "id": "u1325",
+      "codepoint": 4901,
+      "hex": "U+1325",
+      "char": "ጥ",
+      "name": "ETHIOPIC SYLLABLE THE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1325"
+    },
+    {
+      "id": "u1326",
+      "codepoint": 4902,
+      "hex": "U+1326",
+      "char": "ጦ",
+      "name": "ETHIOPIC SYLLABLE THO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1326"
+    },
+    {
+      "id": "u1327",
+      "codepoint": 4903,
+      "hex": "U+1327",
+      "char": "ጧ",
+      "name": "ETHIOPIC SYLLABLE THWA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1327"
+    },
+    {
+      "id": "u1328",
+      "codepoint": 4904,
+      "hex": "U+1328",
+      "char": "ጨ",
+      "name": "ETHIOPIC SYLLABLE CHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1328"
+    },
+    {
+      "id": "u1329",
+      "codepoint": 4905,
+      "hex": "U+1329",
+      "char": "ጩ",
+      "name": "ETHIOPIC SYLLABLE CHU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1329"
+    },
+    {
+      "id": "u132A",
+      "codepoint": 4906,
+      "hex": "U+132A",
+      "char": "ጪ",
+      "name": "ETHIOPIC SYLLABLE CHI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u132A"
+    },
+    {
+      "id": "u132B",
+      "codepoint": 4907,
+      "hex": "U+132B",
+      "char": "ጫ",
+      "name": "ETHIOPIC SYLLABLE CHAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u132B"
+    },
+    {
+      "id": "u132C",
+      "codepoint": 4908,
+      "hex": "U+132C",
+      "char": "ጬ",
+      "name": "ETHIOPIC SYLLABLE CHEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u132C"
+    },
+    {
+      "id": "u132D",
+      "codepoint": 4909,
+      "hex": "U+132D",
+      "char": "ጭ",
+      "name": "ETHIOPIC SYLLABLE CHE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u132D"
+    },
+    {
+      "id": "u132E",
+      "codepoint": 4910,
+      "hex": "U+132E",
+      "char": "ጮ",
+      "name": "ETHIOPIC SYLLABLE CHO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u132E"
+    },
+    {
+      "id": "u132F",
+      "codepoint": 4911,
+      "hex": "U+132F",
+      "char": "ጯ",
+      "name": "ETHIOPIC SYLLABLE CHWA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u132F"
+    },
+    {
+      "id": "u1330",
+      "codepoint": 4912,
+      "hex": "U+1330",
+      "char": "ጰ",
+      "name": "ETHIOPIC SYLLABLE PHA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1330"
+    },
+    {
+      "id": "u1331",
+      "codepoint": 4913,
+      "hex": "U+1331",
+      "char": "ጱ",
+      "name": "ETHIOPIC SYLLABLE PHU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1331"
+    },
+    {
+      "id": "u1332",
+      "codepoint": 4914,
+      "hex": "U+1332",
+      "char": "ጲ",
+      "name": "ETHIOPIC SYLLABLE PHI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1332"
+    },
+    {
+      "id": "u1333",
+      "codepoint": 4915,
+      "hex": "U+1333",
+      "char": "ጳ",
+      "name": "ETHIOPIC SYLLABLE PHAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1333"
+    },
+    {
+      "id": "u1334",
+      "codepoint": 4916,
+      "hex": "U+1334",
+      "char": "ጴ",
+      "name": "ETHIOPIC SYLLABLE PHEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1334"
+    },
+    {
+      "id": "u1335",
+      "codepoint": 4917,
+      "hex": "U+1335",
+      "char": "ጵ",
+      "name": "ETHIOPIC SYLLABLE PHE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1335"
+    },
+    {
+      "id": "u1336",
+      "codepoint": 4918,
+      "hex": "U+1336",
+      "char": "ጶ",
+      "name": "ETHIOPIC SYLLABLE PHO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1336"
+    },
+    {
+      "id": "u1337",
+      "codepoint": 4919,
+      "hex": "U+1337",
+      "char": "ጷ",
+      "name": "ETHIOPIC SYLLABLE PHWA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1337"
+    },
+    {
+      "id": "u1338",
+      "codepoint": 4920,
+      "hex": "U+1338",
+      "char": "ጸ",
+      "name": "ETHIOPIC SYLLABLE TSA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1338"
+    },
+    {
+      "id": "u1339",
+      "codepoint": 4921,
+      "hex": "U+1339",
+      "char": "ጹ",
+      "name": "ETHIOPIC SYLLABLE TSU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1339"
+    },
+    {
+      "id": "u133A",
+      "codepoint": 4922,
+      "hex": "U+133A",
+      "char": "ጺ",
+      "name": "ETHIOPIC SYLLABLE TSI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u133A"
+    },
+    {
+      "id": "u133B",
+      "codepoint": 4923,
+      "hex": "U+133B",
+      "char": "ጻ",
+      "name": "ETHIOPIC SYLLABLE TSAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u133B"
+    },
+    {
+      "id": "u133C",
+      "codepoint": 4924,
+      "hex": "U+133C",
+      "char": "ጼ",
+      "name": "ETHIOPIC SYLLABLE TSEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u133C"
+    },
+    {
+      "id": "u133D",
+      "codepoint": 4925,
+      "hex": "U+133D",
+      "char": "ጽ",
+      "name": "ETHIOPIC SYLLABLE TSE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u133D"
+    },
+    {
+      "id": "u133E",
+      "codepoint": 4926,
+      "hex": "U+133E",
+      "char": "ጾ",
+      "name": "ETHIOPIC SYLLABLE TSO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u133E"
+    },
+    {
+      "id": "u133F",
+      "codepoint": 4927,
+      "hex": "U+133F",
+      "char": "ጿ",
+      "name": "ETHIOPIC SYLLABLE TSWA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u133F"
+    },
+    {
+      "id": "u1340",
+      "codepoint": 4928,
+      "hex": "U+1340",
+      "char": "ፀ",
+      "name": "ETHIOPIC SYLLABLE TZA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1340"
+    },
+    {
+      "id": "u1341",
+      "codepoint": 4929,
+      "hex": "U+1341",
+      "char": "ፁ",
+      "name": "ETHIOPIC SYLLABLE TZU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1341"
+    },
+    {
+      "id": "u1342",
+      "codepoint": 4930,
+      "hex": "U+1342",
+      "char": "ፂ",
+      "name": "ETHIOPIC SYLLABLE TZI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1342"
+    },
+    {
+      "id": "u1343",
+      "codepoint": 4931,
+      "hex": "U+1343",
+      "char": "ፃ",
+      "name": "ETHIOPIC SYLLABLE TZAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1343"
+    },
+    {
+      "id": "u1344",
+      "codepoint": 4932,
+      "hex": "U+1344",
+      "char": "ፄ",
+      "name": "ETHIOPIC SYLLABLE TZEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1344"
+    },
+    {
+      "id": "u1345",
+      "codepoint": 4933,
+      "hex": "U+1345",
+      "char": "ፅ",
+      "name": "ETHIOPIC SYLLABLE TZE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1345"
+    },
+    {
+      "id": "u1346",
+      "codepoint": 4934,
+      "hex": "U+1346",
+      "char": "ፆ",
+      "name": "ETHIOPIC SYLLABLE TZO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1346"
+    },
+    {
+      "id": "u1347",
+      "codepoint": 4935,
+      "hex": "U+1347",
+      "char": "ፇ",
+      "name": "ETHIOPIC SYLLABLE TZOA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1347"
+    },
+    {
+      "id": "u1348",
+      "codepoint": 4936,
+      "hex": "U+1348",
+      "char": "ፈ",
+      "name": "ETHIOPIC SYLLABLE FA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1348"
+    },
+    {
+      "id": "u1349",
+      "codepoint": 4937,
+      "hex": "U+1349",
+      "char": "ፉ",
+      "name": "ETHIOPIC SYLLABLE FU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1349"
+    },
+    {
+      "id": "u134A",
+      "codepoint": 4938,
+      "hex": "U+134A",
+      "char": "ፊ",
+      "name": "ETHIOPIC SYLLABLE FI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u134A"
+    },
+    {
+      "id": "u134B",
+      "codepoint": 4939,
+      "hex": "U+134B",
+      "char": "ፋ",
+      "name": "ETHIOPIC SYLLABLE FAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u134B"
+    },
+    {
+      "id": "u134C",
+      "codepoint": 4940,
+      "hex": "U+134C",
+      "char": "ፌ",
+      "name": "ETHIOPIC SYLLABLE FEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u134C"
+    },
+    {
+      "id": "u134D",
+      "codepoint": 4941,
+      "hex": "U+134D",
+      "char": "ፍ",
+      "name": "ETHIOPIC SYLLABLE FE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u134D"
+    },
+    {
+      "id": "u134E",
+      "codepoint": 4942,
+      "hex": "U+134E",
+      "char": "ፎ",
+      "name": "ETHIOPIC SYLLABLE FO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u134E"
+    },
+    {
+      "id": "u134F",
+      "codepoint": 4943,
+      "hex": "U+134F",
+      "char": "ፏ",
+      "name": "ETHIOPIC SYLLABLE FWA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u134F"
+    },
+    {
+      "id": "u1350",
+      "codepoint": 4944,
+      "hex": "U+1350",
+      "char": "ፐ",
+      "name": "ETHIOPIC SYLLABLE PA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1350"
+    },
+    {
+      "id": "u1351",
+      "codepoint": 4945,
+      "hex": "U+1351",
+      "char": "ፑ",
+      "name": "ETHIOPIC SYLLABLE PU",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1351"
+    },
+    {
+      "id": "u1352",
+      "codepoint": 4946,
+      "hex": "U+1352",
+      "char": "ፒ",
+      "name": "ETHIOPIC SYLLABLE PI",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1352"
+    },
+    {
+      "id": "u1353",
+      "codepoint": 4947,
+      "hex": "U+1353",
+      "char": "ፓ",
+      "name": "ETHIOPIC SYLLABLE PAA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1353"
+    },
+    {
+      "id": "u1354",
+      "codepoint": 4948,
+      "hex": "U+1354",
+      "char": "ፔ",
+      "name": "ETHIOPIC SYLLABLE PEE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1354"
+    },
+    {
+      "id": "u1355",
+      "codepoint": 4949,
+      "hex": "U+1355",
+      "char": "ፕ",
+      "name": "ETHIOPIC SYLLABLE PE",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1355"
+    },
+    {
+      "id": "u1356",
+      "codepoint": 4950,
+      "hex": "U+1356",
+      "char": "ፖ",
+      "name": "ETHIOPIC SYLLABLE PO",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1356"
+    },
+    {
+      "id": "u1357",
+      "codepoint": 4951,
+      "hex": "U+1357",
+      "char": "ፗ",
+      "name": "ETHIOPIC SYLLABLE PWA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1357"
+    },
+    {
+      "id": "u1358",
+      "codepoint": 4952,
+      "hex": "U+1358",
+      "char": "ፘ",
+      "name": "ETHIOPIC SYLLABLE RYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1358"
+    },
+    {
+      "id": "u1359",
+      "codepoint": 4953,
+      "hex": "U+1359",
+      "char": "ፙ",
+      "name": "ETHIOPIC SYLLABLE MYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1359"
+    },
+    {
+      "id": "u135A",
+      "codepoint": 4954,
+      "hex": "U+135A",
+      "char": "ፚ",
+      "name": "ETHIOPIC SYLLABLE FYA",
+      "category": "Lo",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u135A"
+    },
+    {
+      "id": "u135D",
+      "codepoint": 4957,
+      "hex": "U+135D",
+      "char": "፝",
+      "name": "ETHIOPIC COMBINING GEMINATION AND VOWEL LENGTH MARK",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u135D"
+    },
+    {
+      "id": "u135E",
+      "codepoint": 4958,
+      "hex": "U+135E",
+      "char": "፞",
+      "name": "ETHIOPIC COMBINING VOWEL LENGTH MARK",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u135E"
+    },
+    {
+      "id": "u135F",
+      "codepoint": 4959,
+      "hex": "U+135F",
+      "char": "፟",
+      "name": "ETHIOPIC COMBINING GEMINATION MARK",
+      "category": "Mn",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u135F"
+    },
+    {
+      "id": "u1360",
+      "codepoint": 4960,
+      "hex": "U+1360",
+      "char": "፠",
+      "name": "ETHIOPIC SECTION MARK",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1360"
+    },
+    {
+      "id": "u1361",
+      "codepoint": 4961,
+      "hex": "U+1361",
+      "char": "፡",
+      "name": "ETHIOPIC WORDSPACE",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1361"
+    },
+    {
+      "id": "u1362",
+      "codepoint": 4962,
+      "hex": "U+1362",
+      "char": "።",
+      "name": "ETHIOPIC FULL STOP",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1362"
+    },
+    {
+      "id": "u1363",
+      "codepoint": 4963,
+      "hex": "U+1363",
+      "char": "፣",
+      "name": "ETHIOPIC COMMA",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1363"
+    },
+    {
+      "id": "u1364",
+      "codepoint": 4964,
+      "hex": "U+1364",
+      "char": "፤",
+      "name": "ETHIOPIC SEMICOLON",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1364"
+    },
+    {
+      "id": "u1365",
+      "codepoint": 4965,
+      "hex": "U+1365",
+      "char": "፥",
+      "name": "ETHIOPIC COLON",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1365"
+    },
+    {
+      "id": "u1366",
+      "codepoint": 4966,
+      "hex": "U+1366",
+      "char": "፦",
+      "name": "ETHIOPIC PREFACE COLON",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1366"
+    },
+    {
+      "id": "u1367",
+      "codepoint": 4967,
+      "hex": "U+1367",
+      "char": "፧",
+      "name": "ETHIOPIC QUESTION MARK",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1367"
+    },
+    {
+      "id": "u1368",
+      "codepoint": 4968,
+      "hex": "U+1368",
+      "char": "፨",
+      "name": "ETHIOPIC PARAGRAPH SEPARATOR",
+      "category": "Po",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1368"
+    },
+    {
+      "id": "u1369",
+      "codepoint": 4969,
+      "hex": "U+1369",
+      "char": "፩",
+      "name": "ETHIOPIC DIGIT ONE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1369"
+    },
+    {
+      "id": "u136A",
+      "codepoint": 4970,
+      "hex": "U+136A",
+      "char": "፪",
+      "name": "ETHIOPIC DIGIT TWO",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u136A"
+    },
+    {
+      "id": "u136B",
+      "codepoint": 4971,
+      "hex": "U+136B",
+      "char": "፫",
+      "name": "ETHIOPIC DIGIT THREE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u136B"
+    },
+    {
+      "id": "u136C",
+      "codepoint": 4972,
+      "hex": "U+136C",
+      "char": "፬",
+      "name": "ETHIOPIC DIGIT FOUR",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u136C"
+    },
+    {
+      "id": "u136D",
+      "codepoint": 4973,
+      "hex": "U+136D",
+      "char": "፭",
+      "name": "ETHIOPIC DIGIT FIVE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u136D"
+    },
+    {
+      "id": "u136E",
+      "codepoint": 4974,
+      "hex": "U+136E",
+      "char": "፮",
+      "name": "ETHIOPIC DIGIT SIX",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u136E"
+    },
+    {
+      "id": "u136F",
+      "codepoint": 4975,
+      "hex": "U+136F",
+      "char": "፯",
+      "name": "ETHIOPIC DIGIT SEVEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u136F"
+    },
+    {
+      "id": "u1370",
+      "codepoint": 4976,
+      "hex": "U+1370",
+      "char": "፰",
+      "name": "ETHIOPIC DIGIT EIGHT",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1370"
+    },
+    {
+      "id": "u1371",
+      "codepoint": 4977,
+      "hex": "U+1371",
+      "char": "፱",
+      "name": "ETHIOPIC DIGIT NINE",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1371"
+    },
+    {
+      "id": "u1372",
+      "codepoint": 4978,
+      "hex": "U+1372",
+      "char": "፲",
+      "name": "ETHIOPIC NUMBER TEN",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1372"
+    },
+    {
+      "id": "u1373",
+      "codepoint": 4979,
+      "hex": "U+1373",
+      "char": "፳",
+      "name": "ETHIOPIC NUMBER TWENTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1373"
+    },
+    {
+      "id": "u1374",
+      "codepoint": 4980,
+      "hex": "U+1374",
+      "char": "፴",
+      "name": "ETHIOPIC NUMBER THIRTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1374"
+    },
+    {
+      "id": "u1375",
+      "codepoint": 4981,
+      "hex": "U+1375",
+      "char": "፵",
+      "name": "ETHIOPIC NUMBER FORTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1375"
+    },
+    {
+      "id": "u1376",
+      "codepoint": 4982,
+      "hex": "U+1376",
+      "char": "፶",
+      "name": "ETHIOPIC NUMBER FIFTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1376"
+    },
+    {
+      "id": "u1377",
+      "codepoint": 4983,
+      "hex": "U+1377",
+      "char": "፷",
+      "name": "ETHIOPIC NUMBER SIXTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1377"
+    },
+    {
+      "id": "u1378",
+      "codepoint": 4984,
+      "hex": "U+1378",
+      "char": "፸",
+      "name": "ETHIOPIC NUMBER SEVENTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1378"
+    },
+    {
+      "id": "u1379",
+      "codepoint": 4985,
+      "hex": "U+1379",
+      "char": "፹",
+      "name": "ETHIOPIC NUMBER EIGHTY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u1379"
+    },
+    {
+      "id": "u137A",
+      "codepoint": 4986,
+      "hex": "U+137A",
+      "char": "፺",
+      "name": "ETHIOPIC NUMBER NINETY",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u137A"
+    },
+    {
+      "id": "u137B",
+      "codepoint": 4987,
+      "hex": "U+137B",
+      "char": "፻",
+      "name": "ETHIOPIC NUMBER HUNDRED",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u137B"
+    },
+    {
+      "id": "u137C",
+      "codepoint": 4988,
+      "hex": "U+137C",
+      "char": "፼",
+      "name": "ETHIOPIC NUMBER TEN THOUSAND",
+      "category": "No",
+      "url": "https://gratisapi.com/api/unicode-ethiopic/u137C"
     }
   ]
 }

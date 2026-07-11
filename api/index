@@ -9,7 +9,7 @@
   "openapi": "https://gratisapi.com/openapi.json",
   "source": "https://github.com/DomTheDeveloper/GratisAPI",
   "api_count": 1006,
-  "total_records": 1036900,
+  "total_records": 1113862,
   "apis": [
     {
       "api": "articles",
@@ -19,15 +19,6 @@
       "count": 120,
       "url": "https://gratisapi.com/api/articles/index",
       "sample": "https://gratisapi.com/api/articles/freedom-manifesto-for-gratis-apis"
-    },
-    {
-      "api": "numbers",
-      "title": "Numbers",
-      "description": "Computed facts for every integer from 0 to 999,999: parity, primality, perfect squares and hexadecimal.",
-      "emoji": "🔢",
-      "count": 1000000,
-      "url": "https://gratisapi.com/api/numbers/index",
-      "sample": "https://gratisapi.com/api/numbers/0"
     },
     {
       "api": "countries",
@@ -1065,1887 +1056,6 @@
       "sample": "https://gratisapi.com/api/calendar/january"
     },
     {
-      "api": "primes",
-      "title": "Prime Numbers",
-      "description": "The first 1,000 prime numbers.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/primes/index",
-      "sample": "https://gratisapi.com/api/primes/0"
-    },
-    {
-      "api": "fibonacci",
-      "title": "Fibonacci Numbers",
-      "description": "The Fibonacci sequence within exact-integer range.",
-      "emoji": "🧮",
-      "count": 79,
-      "url": "https://gratisapi.com/api/fibonacci/index",
-      "sample": "https://gratisapi.com/api/fibonacci/0"
-    },
-    {
-      "api": "lucas-numbers",
-      "title": "Lucas Numbers",
-      "description": "The Lucas sequence within exact-integer range.",
-      "emoji": "🧮",
-      "count": 77,
-      "url": "https://gratisapi.com/api/lucas-numbers/index",
-      "sample": "https://gratisapi.com/api/lucas-numbers/0"
-    },
-    {
-      "api": "tribonacci-numbers",
-      "title": "Tribonacci Numbers",
-      "description": "The Tribonacci sequence within exact-integer range.",
-      "emoji": "🧮",
-      "count": 64,
-      "url": "https://gratisapi.com/api/tribonacci-numbers/index",
-      "sample": "https://gratisapi.com/api/tribonacci-numbers/0"
-    },
-    {
-      "api": "square-numbers",
-      "title": "Square Numbers",
-      "description": "Perfect squares n^2 for n = 1..1000.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/square-numbers/index",
-      "sample": "https://gratisapi.com/api/square-numbers/0"
-    },
-    {
-      "api": "cube-numbers",
-      "title": "Cube Numbers",
-      "description": "Perfect cubes n^3 for n = 1..200.",
-      "emoji": "🧮",
-      "count": 200,
-      "url": "https://gratisapi.com/api/cube-numbers/index",
-      "sample": "https://gratisapi.com/api/cube-numbers/0"
-    },
-    {
-      "api": "fourth-powers",
-      "title": "Fourth Powers",
-      "description": "n^4 for n = 1..100.",
-      "emoji": "🧮",
-      "count": 100,
-      "url": "https://gratisapi.com/api/fourth-powers/index",
-      "sample": "https://gratisapi.com/api/fourth-powers/0"
-    },
-    {
-      "api": "fifth-powers",
-      "title": "Fifth Powers",
-      "description": "n^5 for n = 1..80.",
-      "emoji": "🧮",
-      "count": 80,
-      "url": "https://gratisapi.com/api/fifth-powers/index",
-      "sample": "https://gratisapi.com/api/fifth-powers/0"
-    },
-    {
-      "api": "triangular-numbers",
-      "title": "Triangular Numbers",
-      "description": "n(n+1)/2 for n = 1..1000.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/triangular-numbers/index",
-      "sample": "https://gratisapi.com/api/triangular-numbers/0"
-    },
-    {
-      "api": "tetrahedral-numbers",
-      "title": "Tetrahedral Numbers",
-      "description": "n(n+1)(n+2)/6 for n = 1..500.",
-      "emoji": "🧮",
-      "count": 500,
-      "url": "https://gratisapi.com/api/tetrahedral-numbers/index",
-      "sample": "https://gratisapi.com/api/tetrahedral-numbers/0"
-    },
-    {
-      "api": "square-pyramidal-numbers",
-      "title": "Square Pyramidal Numbers",
-      "description": "n(n+1)(2n+1)/6 for n = 1..500.",
-      "emoji": "🧮",
-      "count": 500,
-      "url": "https://gratisapi.com/api/square-pyramidal-numbers/index",
-      "sample": "https://gratisapi.com/api/square-pyramidal-numbers/0"
-    },
-    {
-      "api": "pentagonal-numbers",
-      "title": "Pentagonal Numbers",
-      "description": "n(3n-1)/2 for n = 1..1000.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/pentagonal-numbers/index",
-      "sample": "https://gratisapi.com/api/pentagonal-numbers/0"
-    },
-    {
-      "api": "hexagonal-numbers",
-      "title": "Hexagonal Numbers",
-      "description": "n(2n-1) for n = 1..1000.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/hexagonal-numbers/index",
-      "sample": "https://gratisapi.com/api/hexagonal-numbers/0"
-    },
-    {
-      "api": "heptagonal-numbers",
-      "title": "Heptagonal Numbers",
-      "description": "n(5n-3)/2 for n = 1..1000.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/heptagonal-numbers/index",
-      "sample": "https://gratisapi.com/api/heptagonal-numbers/0"
-    },
-    {
-      "api": "octagonal-numbers",
-      "title": "Octagonal Numbers",
-      "description": "n(3n-2) for n = 1..1000.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/octagonal-numbers/index",
-      "sample": "https://gratisapi.com/api/octagonal-numbers/0"
-    },
-    {
-      "api": "factorials",
-      "title": "Factorials",
-      "description": "n! within exact-integer range.",
-      "emoji": "🧮",
-      "count": 19,
-      "url": "https://gratisapi.com/api/factorials/index",
-      "sample": "https://gratisapi.com/api/factorials/0"
-    },
-    {
-      "api": "powers-of-two",
-      "title": "Powers of Two",
-      "description": "2^n within exact-integer range.",
-      "emoji": "🧮",
-      "count": 53,
-      "url": "https://gratisapi.com/api/powers-of-two/index",
-      "sample": "https://gratisapi.com/api/powers-of-two/0"
-    },
-    {
-      "api": "powers-of-three",
-      "title": "Powers of Three",
-      "description": "3^n within exact-integer range.",
-      "emoji": "🧮",
-      "count": 34,
-      "url": "https://gratisapi.com/api/powers-of-three/index",
-      "sample": "https://gratisapi.com/api/powers-of-three/0"
-    },
-    {
-      "api": "powers-of-ten",
-      "title": "Powers of Ten",
-      "description": "10^n within exact-integer range.",
-      "emoji": "🧮",
-      "count": 16,
-      "url": "https://gratisapi.com/api/powers-of-ten/index",
-      "sample": "https://gratisapi.com/api/powers-of-ten/0"
-    },
-    {
-      "api": "catalan-numbers",
-      "title": "Catalan Numbers",
-      "description": "The Catalan numbers within exact-integer range.",
-      "emoji": "🧮",
-      "count": 31,
-      "url": "https://gratisapi.com/api/catalan-numbers/index",
-      "sample": "https://gratisapi.com/api/catalan-numbers/0"
-    },
-    {
-      "api": "perfect-numbers",
-      "title": "Perfect Numbers",
-      "description": "Numbers equal to the sum of their proper divisors.",
-      "emoji": "🧮",
-      "count": 7,
-      "url": "https://gratisapi.com/api/perfect-numbers/index",
-      "sample": "https://gratisapi.com/api/perfect-numbers/0"
-    },
-    {
-      "api": "happy-numbers",
-      "title": "Happy Numbers",
-      "description": "The first 200 happy numbers.",
-      "emoji": "🧮",
-      "count": 200,
-      "url": "https://gratisapi.com/api/happy-numbers/index",
-      "sample": "https://gratisapi.com/api/happy-numbers/0"
-    },
-    {
-      "api": "abundant-numbers",
-      "title": "Abundant Numbers",
-      "description": "The first 200 abundant numbers.",
-      "emoji": "🧮",
-      "count": 200,
-      "url": "https://gratisapi.com/api/abundant-numbers/index",
-      "sample": "https://gratisapi.com/api/abundant-numbers/0"
-    },
-    {
-      "api": "deficient-numbers",
-      "title": "Deficient Numbers",
-      "description": "The first 300 deficient numbers.",
-      "emoji": "🧮",
-      "count": 300,
-      "url": "https://gratisapi.com/api/deficient-numbers/index",
-      "sample": "https://gratisapi.com/api/deficient-numbers/0"
-    },
-    {
-      "api": "palindromic-numbers",
-      "title": "Palindromic Numbers",
-      "description": "The first 300 palindromic numbers.",
-      "emoji": "🧮",
-      "count": 300,
-      "url": "https://gratisapi.com/api/palindromic-numbers/index",
-      "sample": "https://gratisapi.com/api/palindromic-numbers/0"
-    },
-    {
-      "api": "highly-composite-numbers",
-      "title": "Highly Composite Numbers",
-      "description": "Numbers with more divisors than any smaller number.",
-      "emoji": "🧮",
-      "count": 30,
-      "url": "https://gratisapi.com/api/highly-composite-numbers/index",
-      "sample": "https://gratisapi.com/api/highly-composite-numbers/0"
-    },
-    {
-      "api": "even-numbers",
-      "title": "Even Numbers",
-      "description": "The first 1,000 even numbers.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/even-numbers/index",
-      "sample": "https://gratisapi.com/api/even-numbers/0"
-    },
-    {
-      "api": "odd-numbers",
-      "title": "Odd Numbers",
-      "description": "The first 1,000 odd numbers.",
-      "emoji": "🧮",
-      "count": 1000,
-      "url": "https://gratisapi.com/api/odd-numbers/index",
-      "sample": "https://gratisapi.com/api/odd-numbers/0"
-    },
-    {
-      "api": "mersenne-numbers",
-      "title": "Mersenne Numbers",
-      "description": "2^n - 1 within exact-integer range.",
-      "emoji": "🧮",
-      "count": 52,
-      "url": "https://gratisapi.com/api/mersenne-numbers/index",
-      "sample": "https://gratisapi.com/api/mersenne-numbers/0"
-    },
-    {
-      "api": "times-table-1",
-      "title": "1 Times Table",
-      "description": "The multiplication table for 1: 1x1 through 1x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-1/index",
-      "sample": "https://gratisapi.com/api/times-table-1/1"
-    },
-    {
-      "api": "times-table-2",
-      "title": "2 Times Table",
-      "description": "The multiplication table for 2: 2x1 through 2x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-2/index",
-      "sample": "https://gratisapi.com/api/times-table-2/1"
-    },
-    {
-      "api": "times-table-3",
-      "title": "3 Times Table",
-      "description": "The multiplication table for 3: 3x1 through 3x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-3/index",
-      "sample": "https://gratisapi.com/api/times-table-3/1"
-    },
-    {
-      "api": "times-table-4",
-      "title": "4 Times Table",
-      "description": "The multiplication table for 4: 4x1 through 4x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-4/index",
-      "sample": "https://gratisapi.com/api/times-table-4/1"
-    },
-    {
-      "api": "times-table-5",
-      "title": "5 Times Table",
-      "description": "The multiplication table for 5: 5x1 through 5x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-5/index",
-      "sample": "https://gratisapi.com/api/times-table-5/1"
-    },
-    {
-      "api": "times-table-6",
-      "title": "6 Times Table",
-      "description": "The multiplication table for 6: 6x1 through 6x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-6/index",
-      "sample": "https://gratisapi.com/api/times-table-6/1"
-    },
-    {
-      "api": "times-table-7",
-      "title": "7 Times Table",
-      "description": "The multiplication table for 7: 7x1 through 7x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-7/index",
-      "sample": "https://gratisapi.com/api/times-table-7/1"
-    },
-    {
-      "api": "times-table-8",
-      "title": "8 Times Table",
-      "description": "The multiplication table for 8: 8x1 through 8x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-8/index",
-      "sample": "https://gratisapi.com/api/times-table-8/1"
-    },
-    {
-      "api": "times-table-9",
-      "title": "9 Times Table",
-      "description": "The multiplication table for 9: 9x1 through 9x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-9/index",
-      "sample": "https://gratisapi.com/api/times-table-9/1"
-    },
-    {
-      "api": "times-table-10",
-      "title": "10 Times Table",
-      "description": "The multiplication table for 10: 10x1 through 10x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-10/index",
-      "sample": "https://gratisapi.com/api/times-table-10/1"
-    },
-    {
-      "api": "times-table-11",
-      "title": "11 Times Table",
-      "description": "The multiplication table for 11: 11x1 through 11x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-11/index",
-      "sample": "https://gratisapi.com/api/times-table-11/1"
-    },
-    {
-      "api": "times-table-12",
-      "title": "12 Times Table",
-      "description": "The multiplication table for 12: 12x1 through 12x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-12/index",
-      "sample": "https://gratisapi.com/api/times-table-12/1"
-    },
-    {
-      "api": "times-table-13",
-      "title": "13 Times Table",
-      "description": "The multiplication table for 13: 13x1 through 13x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-13/index",
-      "sample": "https://gratisapi.com/api/times-table-13/1"
-    },
-    {
-      "api": "times-table-14",
-      "title": "14 Times Table",
-      "description": "The multiplication table for 14: 14x1 through 14x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-14/index",
-      "sample": "https://gratisapi.com/api/times-table-14/1"
-    },
-    {
-      "api": "times-table-15",
-      "title": "15 Times Table",
-      "description": "The multiplication table for 15: 15x1 through 15x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-15/index",
-      "sample": "https://gratisapi.com/api/times-table-15/1"
-    },
-    {
-      "api": "times-table-16",
-      "title": "16 Times Table",
-      "description": "The multiplication table for 16: 16x1 through 16x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-16/index",
-      "sample": "https://gratisapi.com/api/times-table-16/1"
-    },
-    {
-      "api": "times-table-17",
-      "title": "17 Times Table",
-      "description": "The multiplication table for 17: 17x1 through 17x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-17/index",
-      "sample": "https://gratisapi.com/api/times-table-17/1"
-    },
-    {
-      "api": "times-table-18",
-      "title": "18 Times Table",
-      "description": "The multiplication table for 18: 18x1 through 18x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-18/index",
-      "sample": "https://gratisapi.com/api/times-table-18/1"
-    },
-    {
-      "api": "times-table-19",
-      "title": "19 Times Table",
-      "description": "The multiplication table for 19: 19x1 through 19x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-19/index",
-      "sample": "https://gratisapi.com/api/times-table-19/1"
-    },
-    {
-      "api": "times-table-20",
-      "title": "20 Times Table",
-      "description": "The multiplication table for 20: 20x1 through 20x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-20/index",
-      "sample": "https://gratisapi.com/api/times-table-20/1"
-    },
-    {
-      "api": "times-table-21",
-      "title": "21 Times Table",
-      "description": "The multiplication table for 21: 21x1 through 21x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-21/index",
-      "sample": "https://gratisapi.com/api/times-table-21/1"
-    },
-    {
-      "api": "times-table-22",
-      "title": "22 Times Table",
-      "description": "The multiplication table for 22: 22x1 through 22x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-22/index",
-      "sample": "https://gratisapi.com/api/times-table-22/1"
-    },
-    {
-      "api": "times-table-23",
-      "title": "23 Times Table",
-      "description": "The multiplication table for 23: 23x1 through 23x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-23/index",
-      "sample": "https://gratisapi.com/api/times-table-23/1"
-    },
-    {
-      "api": "times-table-24",
-      "title": "24 Times Table",
-      "description": "The multiplication table for 24: 24x1 through 24x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-24/index",
-      "sample": "https://gratisapi.com/api/times-table-24/1"
-    },
-    {
-      "api": "times-table-25",
-      "title": "25 Times Table",
-      "description": "The multiplication table for 25: 25x1 through 25x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-25/index",
-      "sample": "https://gratisapi.com/api/times-table-25/1"
-    },
-    {
-      "api": "times-table-26",
-      "title": "26 Times Table",
-      "description": "The multiplication table for 26: 26x1 through 26x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-26/index",
-      "sample": "https://gratisapi.com/api/times-table-26/1"
-    },
-    {
-      "api": "times-table-27",
-      "title": "27 Times Table",
-      "description": "The multiplication table for 27: 27x1 through 27x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-27/index",
-      "sample": "https://gratisapi.com/api/times-table-27/1"
-    },
-    {
-      "api": "times-table-28",
-      "title": "28 Times Table",
-      "description": "The multiplication table for 28: 28x1 through 28x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-28/index",
-      "sample": "https://gratisapi.com/api/times-table-28/1"
-    },
-    {
-      "api": "times-table-29",
-      "title": "29 Times Table",
-      "description": "The multiplication table for 29: 29x1 through 29x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-29/index",
-      "sample": "https://gratisapi.com/api/times-table-29/1"
-    },
-    {
-      "api": "times-table-30",
-      "title": "30 Times Table",
-      "description": "The multiplication table for 30: 30x1 through 30x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-30/index",
-      "sample": "https://gratisapi.com/api/times-table-30/1"
-    },
-    {
-      "api": "times-table-31",
-      "title": "31 Times Table",
-      "description": "The multiplication table for 31: 31x1 through 31x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-31/index",
-      "sample": "https://gratisapi.com/api/times-table-31/1"
-    },
-    {
-      "api": "times-table-32",
-      "title": "32 Times Table",
-      "description": "The multiplication table for 32: 32x1 through 32x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-32/index",
-      "sample": "https://gratisapi.com/api/times-table-32/1"
-    },
-    {
-      "api": "times-table-33",
-      "title": "33 Times Table",
-      "description": "The multiplication table for 33: 33x1 through 33x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-33/index",
-      "sample": "https://gratisapi.com/api/times-table-33/1"
-    },
-    {
-      "api": "times-table-34",
-      "title": "34 Times Table",
-      "description": "The multiplication table for 34: 34x1 through 34x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-34/index",
-      "sample": "https://gratisapi.com/api/times-table-34/1"
-    },
-    {
-      "api": "times-table-35",
-      "title": "35 Times Table",
-      "description": "The multiplication table for 35: 35x1 through 35x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-35/index",
-      "sample": "https://gratisapi.com/api/times-table-35/1"
-    },
-    {
-      "api": "times-table-36",
-      "title": "36 Times Table",
-      "description": "The multiplication table for 36: 36x1 through 36x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-36/index",
-      "sample": "https://gratisapi.com/api/times-table-36/1"
-    },
-    {
-      "api": "times-table-37",
-      "title": "37 Times Table",
-      "description": "The multiplication table for 37: 37x1 through 37x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-37/index",
-      "sample": "https://gratisapi.com/api/times-table-37/1"
-    },
-    {
-      "api": "times-table-38",
-      "title": "38 Times Table",
-      "description": "The multiplication table for 38: 38x1 through 38x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-38/index",
-      "sample": "https://gratisapi.com/api/times-table-38/1"
-    },
-    {
-      "api": "times-table-39",
-      "title": "39 Times Table",
-      "description": "The multiplication table for 39: 39x1 through 39x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-39/index",
-      "sample": "https://gratisapi.com/api/times-table-39/1"
-    },
-    {
-      "api": "times-table-40",
-      "title": "40 Times Table",
-      "description": "The multiplication table for 40: 40x1 through 40x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-40/index",
-      "sample": "https://gratisapi.com/api/times-table-40/1"
-    },
-    {
-      "api": "times-table-41",
-      "title": "41 Times Table",
-      "description": "The multiplication table for 41: 41x1 through 41x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-41/index",
-      "sample": "https://gratisapi.com/api/times-table-41/1"
-    },
-    {
-      "api": "times-table-42",
-      "title": "42 Times Table",
-      "description": "The multiplication table for 42: 42x1 through 42x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-42/index",
-      "sample": "https://gratisapi.com/api/times-table-42/1"
-    },
-    {
-      "api": "times-table-43",
-      "title": "43 Times Table",
-      "description": "The multiplication table for 43: 43x1 through 43x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-43/index",
-      "sample": "https://gratisapi.com/api/times-table-43/1"
-    },
-    {
-      "api": "times-table-44",
-      "title": "44 Times Table",
-      "description": "The multiplication table for 44: 44x1 through 44x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-44/index",
-      "sample": "https://gratisapi.com/api/times-table-44/1"
-    },
-    {
-      "api": "times-table-45",
-      "title": "45 Times Table",
-      "description": "The multiplication table for 45: 45x1 through 45x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-45/index",
-      "sample": "https://gratisapi.com/api/times-table-45/1"
-    },
-    {
-      "api": "times-table-46",
-      "title": "46 Times Table",
-      "description": "The multiplication table for 46: 46x1 through 46x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-46/index",
-      "sample": "https://gratisapi.com/api/times-table-46/1"
-    },
-    {
-      "api": "times-table-47",
-      "title": "47 Times Table",
-      "description": "The multiplication table for 47: 47x1 through 47x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-47/index",
-      "sample": "https://gratisapi.com/api/times-table-47/1"
-    },
-    {
-      "api": "times-table-48",
-      "title": "48 Times Table",
-      "description": "The multiplication table for 48: 48x1 through 48x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-48/index",
-      "sample": "https://gratisapi.com/api/times-table-48/1"
-    },
-    {
-      "api": "times-table-49",
-      "title": "49 Times Table",
-      "description": "The multiplication table for 49: 49x1 through 49x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-49/index",
-      "sample": "https://gratisapi.com/api/times-table-49/1"
-    },
-    {
-      "api": "times-table-50",
-      "title": "50 Times Table",
-      "description": "The multiplication table for 50: 50x1 through 50x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-50/index",
-      "sample": "https://gratisapi.com/api/times-table-50/1"
-    },
-    {
-      "api": "times-table-51",
-      "title": "51 Times Table",
-      "description": "The multiplication table for 51: 51x1 through 51x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-51/index",
-      "sample": "https://gratisapi.com/api/times-table-51/1"
-    },
-    {
-      "api": "times-table-52",
-      "title": "52 Times Table",
-      "description": "The multiplication table for 52: 52x1 through 52x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-52/index",
-      "sample": "https://gratisapi.com/api/times-table-52/1"
-    },
-    {
-      "api": "times-table-53",
-      "title": "53 Times Table",
-      "description": "The multiplication table for 53: 53x1 through 53x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-53/index",
-      "sample": "https://gratisapi.com/api/times-table-53/1"
-    },
-    {
-      "api": "times-table-54",
-      "title": "54 Times Table",
-      "description": "The multiplication table for 54: 54x1 through 54x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-54/index",
-      "sample": "https://gratisapi.com/api/times-table-54/1"
-    },
-    {
-      "api": "times-table-55",
-      "title": "55 Times Table",
-      "description": "The multiplication table for 55: 55x1 through 55x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-55/index",
-      "sample": "https://gratisapi.com/api/times-table-55/1"
-    },
-    {
-      "api": "times-table-56",
-      "title": "56 Times Table",
-      "description": "The multiplication table for 56: 56x1 through 56x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-56/index",
-      "sample": "https://gratisapi.com/api/times-table-56/1"
-    },
-    {
-      "api": "times-table-57",
-      "title": "57 Times Table",
-      "description": "The multiplication table for 57: 57x1 through 57x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-57/index",
-      "sample": "https://gratisapi.com/api/times-table-57/1"
-    },
-    {
-      "api": "times-table-58",
-      "title": "58 Times Table",
-      "description": "The multiplication table for 58: 58x1 through 58x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-58/index",
-      "sample": "https://gratisapi.com/api/times-table-58/1"
-    },
-    {
-      "api": "times-table-59",
-      "title": "59 Times Table",
-      "description": "The multiplication table for 59: 59x1 through 59x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-59/index",
-      "sample": "https://gratisapi.com/api/times-table-59/1"
-    },
-    {
-      "api": "times-table-60",
-      "title": "60 Times Table",
-      "description": "The multiplication table for 60: 60x1 through 60x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-60/index",
-      "sample": "https://gratisapi.com/api/times-table-60/1"
-    },
-    {
-      "api": "times-table-61",
-      "title": "61 Times Table",
-      "description": "The multiplication table for 61: 61x1 through 61x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-61/index",
-      "sample": "https://gratisapi.com/api/times-table-61/1"
-    },
-    {
-      "api": "times-table-62",
-      "title": "62 Times Table",
-      "description": "The multiplication table for 62: 62x1 through 62x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-62/index",
-      "sample": "https://gratisapi.com/api/times-table-62/1"
-    },
-    {
-      "api": "times-table-63",
-      "title": "63 Times Table",
-      "description": "The multiplication table for 63: 63x1 through 63x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-63/index",
-      "sample": "https://gratisapi.com/api/times-table-63/1"
-    },
-    {
-      "api": "times-table-64",
-      "title": "64 Times Table",
-      "description": "The multiplication table for 64: 64x1 through 64x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-64/index",
-      "sample": "https://gratisapi.com/api/times-table-64/1"
-    },
-    {
-      "api": "times-table-65",
-      "title": "65 Times Table",
-      "description": "The multiplication table for 65: 65x1 through 65x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-65/index",
-      "sample": "https://gratisapi.com/api/times-table-65/1"
-    },
-    {
-      "api": "times-table-66",
-      "title": "66 Times Table",
-      "description": "The multiplication table for 66: 66x1 through 66x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-66/index",
-      "sample": "https://gratisapi.com/api/times-table-66/1"
-    },
-    {
-      "api": "times-table-67",
-      "title": "67 Times Table",
-      "description": "The multiplication table for 67: 67x1 through 67x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-67/index",
-      "sample": "https://gratisapi.com/api/times-table-67/1"
-    },
-    {
-      "api": "times-table-68",
-      "title": "68 Times Table",
-      "description": "The multiplication table for 68: 68x1 through 68x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-68/index",
-      "sample": "https://gratisapi.com/api/times-table-68/1"
-    },
-    {
-      "api": "times-table-69",
-      "title": "69 Times Table",
-      "description": "The multiplication table for 69: 69x1 through 69x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-69/index",
-      "sample": "https://gratisapi.com/api/times-table-69/1"
-    },
-    {
-      "api": "times-table-70",
-      "title": "70 Times Table",
-      "description": "The multiplication table for 70: 70x1 through 70x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-70/index",
-      "sample": "https://gratisapi.com/api/times-table-70/1"
-    },
-    {
-      "api": "times-table-71",
-      "title": "71 Times Table",
-      "description": "The multiplication table for 71: 71x1 through 71x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-71/index",
-      "sample": "https://gratisapi.com/api/times-table-71/1"
-    },
-    {
-      "api": "times-table-72",
-      "title": "72 Times Table",
-      "description": "The multiplication table for 72: 72x1 through 72x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-72/index",
-      "sample": "https://gratisapi.com/api/times-table-72/1"
-    },
-    {
-      "api": "times-table-73",
-      "title": "73 Times Table",
-      "description": "The multiplication table for 73: 73x1 through 73x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-73/index",
-      "sample": "https://gratisapi.com/api/times-table-73/1"
-    },
-    {
-      "api": "times-table-74",
-      "title": "74 Times Table",
-      "description": "The multiplication table for 74: 74x1 through 74x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-74/index",
-      "sample": "https://gratisapi.com/api/times-table-74/1"
-    },
-    {
-      "api": "times-table-75",
-      "title": "75 Times Table",
-      "description": "The multiplication table for 75: 75x1 through 75x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-75/index",
-      "sample": "https://gratisapi.com/api/times-table-75/1"
-    },
-    {
-      "api": "times-table-76",
-      "title": "76 Times Table",
-      "description": "The multiplication table for 76: 76x1 through 76x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-76/index",
-      "sample": "https://gratisapi.com/api/times-table-76/1"
-    },
-    {
-      "api": "times-table-77",
-      "title": "77 Times Table",
-      "description": "The multiplication table for 77: 77x1 through 77x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-77/index",
-      "sample": "https://gratisapi.com/api/times-table-77/1"
-    },
-    {
-      "api": "times-table-78",
-      "title": "78 Times Table",
-      "description": "The multiplication table for 78: 78x1 through 78x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-78/index",
-      "sample": "https://gratisapi.com/api/times-table-78/1"
-    },
-    {
-      "api": "times-table-79",
-      "title": "79 Times Table",
-      "description": "The multiplication table for 79: 79x1 through 79x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-79/index",
-      "sample": "https://gratisapi.com/api/times-table-79/1"
-    },
-    {
-      "api": "times-table-80",
-      "title": "80 Times Table",
-      "description": "The multiplication table for 80: 80x1 through 80x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-80/index",
-      "sample": "https://gratisapi.com/api/times-table-80/1"
-    },
-    {
-      "api": "times-table-81",
-      "title": "81 Times Table",
-      "description": "The multiplication table for 81: 81x1 through 81x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-81/index",
-      "sample": "https://gratisapi.com/api/times-table-81/1"
-    },
-    {
-      "api": "times-table-82",
-      "title": "82 Times Table",
-      "description": "The multiplication table for 82: 82x1 through 82x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-82/index",
-      "sample": "https://gratisapi.com/api/times-table-82/1"
-    },
-    {
-      "api": "times-table-83",
-      "title": "83 Times Table",
-      "description": "The multiplication table for 83: 83x1 through 83x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-83/index",
-      "sample": "https://gratisapi.com/api/times-table-83/1"
-    },
-    {
-      "api": "times-table-84",
-      "title": "84 Times Table",
-      "description": "The multiplication table for 84: 84x1 through 84x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-84/index",
-      "sample": "https://gratisapi.com/api/times-table-84/1"
-    },
-    {
-      "api": "times-table-85",
-      "title": "85 Times Table",
-      "description": "The multiplication table for 85: 85x1 through 85x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-85/index",
-      "sample": "https://gratisapi.com/api/times-table-85/1"
-    },
-    {
-      "api": "times-table-86",
-      "title": "86 Times Table",
-      "description": "The multiplication table for 86: 86x1 through 86x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-86/index",
-      "sample": "https://gratisapi.com/api/times-table-86/1"
-    },
-    {
-      "api": "times-table-87",
-      "title": "87 Times Table",
-      "description": "The multiplication table for 87: 87x1 through 87x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-87/index",
-      "sample": "https://gratisapi.com/api/times-table-87/1"
-    },
-    {
-      "api": "times-table-88",
-      "title": "88 Times Table",
-      "description": "The multiplication table for 88: 88x1 through 88x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-88/index",
-      "sample": "https://gratisapi.com/api/times-table-88/1"
-    },
-    {
-      "api": "times-table-89",
-      "title": "89 Times Table",
-      "description": "The multiplication table for 89: 89x1 through 89x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-89/index",
-      "sample": "https://gratisapi.com/api/times-table-89/1"
-    },
-    {
-      "api": "times-table-90",
-      "title": "90 Times Table",
-      "description": "The multiplication table for 90: 90x1 through 90x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-90/index",
-      "sample": "https://gratisapi.com/api/times-table-90/1"
-    },
-    {
-      "api": "times-table-91",
-      "title": "91 Times Table",
-      "description": "The multiplication table for 91: 91x1 through 91x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-91/index",
-      "sample": "https://gratisapi.com/api/times-table-91/1"
-    },
-    {
-      "api": "times-table-92",
-      "title": "92 Times Table",
-      "description": "The multiplication table for 92: 92x1 through 92x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-92/index",
-      "sample": "https://gratisapi.com/api/times-table-92/1"
-    },
-    {
-      "api": "times-table-93",
-      "title": "93 Times Table",
-      "description": "The multiplication table for 93: 93x1 through 93x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-93/index",
-      "sample": "https://gratisapi.com/api/times-table-93/1"
-    },
-    {
-      "api": "times-table-94",
-      "title": "94 Times Table",
-      "description": "The multiplication table for 94: 94x1 through 94x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-94/index",
-      "sample": "https://gratisapi.com/api/times-table-94/1"
-    },
-    {
-      "api": "times-table-95",
-      "title": "95 Times Table",
-      "description": "The multiplication table for 95: 95x1 through 95x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-95/index",
-      "sample": "https://gratisapi.com/api/times-table-95/1"
-    },
-    {
-      "api": "times-table-96",
-      "title": "96 Times Table",
-      "description": "The multiplication table for 96: 96x1 through 96x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-96/index",
-      "sample": "https://gratisapi.com/api/times-table-96/1"
-    },
-    {
-      "api": "times-table-97",
-      "title": "97 Times Table",
-      "description": "The multiplication table for 97: 97x1 through 97x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-97/index",
-      "sample": "https://gratisapi.com/api/times-table-97/1"
-    },
-    {
-      "api": "times-table-98",
-      "title": "98 Times Table",
-      "description": "The multiplication table for 98: 98x1 through 98x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-98/index",
-      "sample": "https://gratisapi.com/api/times-table-98/1"
-    },
-    {
-      "api": "times-table-99",
-      "title": "99 Times Table",
-      "description": "The multiplication table for 99: 99x1 through 99x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-99/index",
-      "sample": "https://gratisapi.com/api/times-table-99/1"
-    },
-    {
-      "api": "times-table-100",
-      "title": "100 Times Table",
-      "description": "The multiplication table for 100: 100x1 through 100x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-100/index",
-      "sample": "https://gratisapi.com/api/times-table-100/1"
-    },
-    {
-      "api": "times-table-101",
-      "title": "101 Times Table",
-      "description": "The multiplication table for 101: 101x1 through 101x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-101/index",
-      "sample": "https://gratisapi.com/api/times-table-101/1"
-    },
-    {
-      "api": "times-table-102",
-      "title": "102 Times Table",
-      "description": "The multiplication table for 102: 102x1 through 102x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-102/index",
-      "sample": "https://gratisapi.com/api/times-table-102/1"
-    },
-    {
-      "api": "times-table-103",
-      "title": "103 Times Table",
-      "description": "The multiplication table for 103: 103x1 through 103x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-103/index",
-      "sample": "https://gratisapi.com/api/times-table-103/1"
-    },
-    {
-      "api": "times-table-104",
-      "title": "104 Times Table",
-      "description": "The multiplication table for 104: 104x1 through 104x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-104/index",
-      "sample": "https://gratisapi.com/api/times-table-104/1"
-    },
-    {
-      "api": "times-table-105",
-      "title": "105 Times Table",
-      "description": "The multiplication table for 105: 105x1 through 105x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-105/index",
-      "sample": "https://gratisapi.com/api/times-table-105/1"
-    },
-    {
-      "api": "times-table-106",
-      "title": "106 Times Table",
-      "description": "The multiplication table for 106: 106x1 through 106x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-106/index",
-      "sample": "https://gratisapi.com/api/times-table-106/1"
-    },
-    {
-      "api": "times-table-107",
-      "title": "107 Times Table",
-      "description": "The multiplication table for 107: 107x1 through 107x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-107/index",
-      "sample": "https://gratisapi.com/api/times-table-107/1"
-    },
-    {
-      "api": "times-table-108",
-      "title": "108 Times Table",
-      "description": "The multiplication table for 108: 108x1 through 108x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-108/index",
-      "sample": "https://gratisapi.com/api/times-table-108/1"
-    },
-    {
-      "api": "times-table-109",
-      "title": "109 Times Table",
-      "description": "The multiplication table for 109: 109x1 through 109x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-109/index",
-      "sample": "https://gratisapi.com/api/times-table-109/1"
-    },
-    {
-      "api": "times-table-110",
-      "title": "110 Times Table",
-      "description": "The multiplication table for 110: 110x1 through 110x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-110/index",
-      "sample": "https://gratisapi.com/api/times-table-110/1"
-    },
-    {
-      "api": "times-table-111",
-      "title": "111 Times Table",
-      "description": "The multiplication table for 111: 111x1 through 111x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-111/index",
-      "sample": "https://gratisapi.com/api/times-table-111/1"
-    },
-    {
-      "api": "times-table-112",
-      "title": "112 Times Table",
-      "description": "The multiplication table for 112: 112x1 through 112x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-112/index",
-      "sample": "https://gratisapi.com/api/times-table-112/1"
-    },
-    {
-      "api": "times-table-113",
-      "title": "113 Times Table",
-      "description": "The multiplication table for 113: 113x1 through 113x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-113/index",
-      "sample": "https://gratisapi.com/api/times-table-113/1"
-    },
-    {
-      "api": "times-table-114",
-      "title": "114 Times Table",
-      "description": "The multiplication table for 114: 114x1 through 114x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-114/index",
-      "sample": "https://gratisapi.com/api/times-table-114/1"
-    },
-    {
-      "api": "times-table-115",
-      "title": "115 Times Table",
-      "description": "The multiplication table for 115: 115x1 through 115x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-115/index",
-      "sample": "https://gratisapi.com/api/times-table-115/1"
-    },
-    {
-      "api": "times-table-116",
-      "title": "116 Times Table",
-      "description": "The multiplication table for 116: 116x1 through 116x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-116/index",
-      "sample": "https://gratisapi.com/api/times-table-116/1"
-    },
-    {
-      "api": "times-table-117",
-      "title": "117 Times Table",
-      "description": "The multiplication table for 117: 117x1 through 117x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-117/index",
-      "sample": "https://gratisapi.com/api/times-table-117/1"
-    },
-    {
-      "api": "times-table-118",
-      "title": "118 Times Table",
-      "description": "The multiplication table for 118: 118x1 through 118x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-118/index",
-      "sample": "https://gratisapi.com/api/times-table-118/1"
-    },
-    {
-      "api": "times-table-119",
-      "title": "119 Times Table",
-      "description": "The multiplication table for 119: 119x1 through 119x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-119/index",
-      "sample": "https://gratisapi.com/api/times-table-119/1"
-    },
-    {
-      "api": "times-table-120",
-      "title": "120 Times Table",
-      "description": "The multiplication table for 120: 120x1 through 120x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-120/index",
-      "sample": "https://gratisapi.com/api/times-table-120/1"
-    },
-    {
-      "api": "times-table-121",
-      "title": "121 Times Table",
-      "description": "The multiplication table for 121: 121x1 through 121x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-121/index",
-      "sample": "https://gratisapi.com/api/times-table-121/1"
-    },
-    {
-      "api": "times-table-122",
-      "title": "122 Times Table",
-      "description": "The multiplication table for 122: 122x1 through 122x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-122/index",
-      "sample": "https://gratisapi.com/api/times-table-122/1"
-    },
-    {
-      "api": "times-table-123",
-      "title": "123 Times Table",
-      "description": "The multiplication table for 123: 123x1 through 123x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-123/index",
-      "sample": "https://gratisapi.com/api/times-table-123/1"
-    },
-    {
-      "api": "times-table-124",
-      "title": "124 Times Table",
-      "description": "The multiplication table for 124: 124x1 through 124x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-124/index",
-      "sample": "https://gratisapi.com/api/times-table-124/1"
-    },
-    {
-      "api": "times-table-125",
-      "title": "125 Times Table",
-      "description": "The multiplication table for 125: 125x1 through 125x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-125/index",
-      "sample": "https://gratisapi.com/api/times-table-125/1"
-    },
-    {
-      "api": "times-table-126",
-      "title": "126 Times Table",
-      "description": "The multiplication table for 126: 126x1 through 126x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-126/index",
-      "sample": "https://gratisapi.com/api/times-table-126/1"
-    },
-    {
-      "api": "times-table-127",
-      "title": "127 Times Table",
-      "description": "The multiplication table for 127: 127x1 through 127x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-127/index",
-      "sample": "https://gratisapi.com/api/times-table-127/1"
-    },
-    {
-      "api": "times-table-128",
-      "title": "128 Times Table",
-      "description": "The multiplication table for 128: 128x1 through 128x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-128/index",
-      "sample": "https://gratisapi.com/api/times-table-128/1"
-    },
-    {
-      "api": "times-table-129",
-      "title": "129 Times Table",
-      "description": "The multiplication table for 129: 129x1 through 129x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-129/index",
-      "sample": "https://gratisapi.com/api/times-table-129/1"
-    },
-    {
-      "api": "times-table-130",
-      "title": "130 Times Table",
-      "description": "The multiplication table for 130: 130x1 through 130x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-130/index",
-      "sample": "https://gratisapi.com/api/times-table-130/1"
-    },
-    {
-      "api": "times-table-131",
-      "title": "131 Times Table",
-      "description": "The multiplication table for 131: 131x1 through 131x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-131/index",
-      "sample": "https://gratisapi.com/api/times-table-131/1"
-    },
-    {
-      "api": "times-table-132",
-      "title": "132 Times Table",
-      "description": "The multiplication table for 132: 132x1 through 132x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-132/index",
-      "sample": "https://gratisapi.com/api/times-table-132/1"
-    },
-    {
-      "api": "times-table-133",
-      "title": "133 Times Table",
-      "description": "The multiplication table for 133: 133x1 through 133x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-133/index",
-      "sample": "https://gratisapi.com/api/times-table-133/1"
-    },
-    {
-      "api": "times-table-134",
-      "title": "134 Times Table",
-      "description": "The multiplication table for 134: 134x1 through 134x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-134/index",
-      "sample": "https://gratisapi.com/api/times-table-134/1"
-    },
-    {
-      "api": "times-table-135",
-      "title": "135 Times Table",
-      "description": "The multiplication table for 135: 135x1 through 135x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-135/index",
-      "sample": "https://gratisapi.com/api/times-table-135/1"
-    },
-    {
-      "api": "times-table-136",
-      "title": "136 Times Table",
-      "description": "The multiplication table for 136: 136x1 through 136x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-136/index",
-      "sample": "https://gratisapi.com/api/times-table-136/1"
-    },
-    {
-      "api": "times-table-137",
-      "title": "137 Times Table",
-      "description": "The multiplication table for 137: 137x1 through 137x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-137/index",
-      "sample": "https://gratisapi.com/api/times-table-137/1"
-    },
-    {
-      "api": "times-table-138",
-      "title": "138 Times Table",
-      "description": "The multiplication table for 138: 138x1 through 138x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-138/index",
-      "sample": "https://gratisapi.com/api/times-table-138/1"
-    },
-    {
-      "api": "times-table-139",
-      "title": "139 Times Table",
-      "description": "The multiplication table for 139: 139x1 through 139x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-139/index",
-      "sample": "https://gratisapi.com/api/times-table-139/1"
-    },
-    {
-      "api": "times-table-140",
-      "title": "140 Times Table",
-      "description": "The multiplication table for 140: 140x1 through 140x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-140/index",
-      "sample": "https://gratisapi.com/api/times-table-140/1"
-    },
-    {
-      "api": "times-table-141",
-      "title": "141 Times Table",
-      "description": "The multiplication table for 141: 141x1 through 141x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-141/index",
-      "sample": "https://gratisapi.com/api/times-table-141/1"
-    },
-    {
-      "api": "times-table-142",
-      "title": "142 Times Table",
-      "description": "The multiplication table for 142: 142x1 through 142x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-142/index",
-      "sample": "https://gratisapi.com/api/times-table-142/1"
-    },
-    {
-      "api": "times-table-143",
-      "title": "143 Times Table",
-      "description": "The multiplication table for 143: 143x1 through 143x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-143/index",
-      "sample": "https://gratisapi.com/api/times-table-143/1"
-    },
-    {
-      "api": "times-table-144",
-      "title": "144 Times Table",
-      "description": "The multiplication table for 144: 144x1 through 144x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-144/index",
-      "sample": "https://gratisapi.com/api/times-table-144/1"
-    },
-    {
-      "api": "times-table-145",
-      "title": "145 Times Table",
-      "description": "The multiplication table for 145: 145x1 through 145x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-145/index",
-      "sample": "https://gratisapi.com/api/times-table-145/1"
-    },
-    {
-      "api": "times-table-146",
-      "title": "146 Times Table",
-      "description": "The multiplication table for 146: 146x1 through 146x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-146/index",
-      "sample": "https://gratisapi.com/api/times-table-146/1"
-    },
-    {
-      "api": "times-table-147",
-      "title": "147 Times Table",
-      "description": "The multiplication table for 147: 147x1 through 147x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-147/index",
-      "sample": "https://gratisapi.com/api/times-table-147/1"
-    },
-    {
-      "api": "times-table-148",
-      "title": "148 Times Table",
-      "description": "The multiplication table for 148: 148x1 through 148x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-148/index",
-      "sample": "https://gratisapi.com/api/times-table-148/1"
-    },
-    {
-      "api": "times-table-149",
-      "title": "149 Times Table",
-      "description": "The multiplication table for 149: 149x1 through 149x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-149/index",
-      "sample": "https://gratisapi.com/api/times-table-149/1"
-    },
-    {
-      "api": "times-table-150",
-      "title": "150 Times Table",
-      "description": "The multiplication table for 150: 150x1 through 150x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-150/index",
-      "sample": "https://gratisapi.com/api/times-table-150/1"
-    },
-    {
-      "api": "times-table-151",
-      "title": "151 Times Table",
-      "description": "The multiplication table for 151: 151x1 through 151x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-151/index",
-      "sample": "https://gratisapi.com/api/times-table-151/1"
-    },
-    {
-      "api": "times-table-152",
-      "title": "152 Times Table",
-      "description": "The multiplication table for 152: 152x1 through 152x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-152/index",
-      "sample": "https://gratisapi.com/api/times-table-152/1"
-    },
-    {
-      "api": "times-table-153",
-      "title": "153 Times Table",
-      "description": "The multiplication table for 153: 153x1 through 153x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-153/index",
-      "sample": "https://gratisapi.com/api/times-table-153/1"
-    },
-    {
-      "api": "times-table-154",
-      "title": "154 Times Table",
-      "description": "The multiplication table for 154: 154x1 through 154x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-154/index",
-      "sample": "https://gratisapi.com/api/times-table-154/1"
-    },
-    {
-      "api": "times-table-155",
-      "title": "155 Times Table",
-      "description": "The multiplication table for 155: 155x1 through 155x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-155/index",
-      "sample": "https://gratisapi.com/api/times-table-155/1"
-    },
-    {
-      "api": "times-table-156",
-      "title": "156 Times Table",
-      "description": "The multiplication table for 156: 156x1 through 156x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-156/index",
-      "sample": "https://gratisapi.com/api/times-table-156/1"
-    },
-    {
-      "api": "times-table-157",
-      "title": "157 Times Table",
-      "description": "The multiplication table for 157: 157x1 through 157x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-157/index",
-      "sample": "https://gratisapi.com/api/times-table-157/1"
-    },
-    {
-      "api": "times-table-158",
-      "title": "158 Times Table",
-      "description": "The multiplication table for 158: 158x1 through 158x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-158/index",
-      "sample": "https://gratisapi.com/api/times-table-158/1"
-    },
-    {
-      "api": "times-table-159",
-      "title": "159 Times Table",
-      "description": "The multiplication table for 159: 159x1 through 159x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-159/index",
-      "sample": "https://gratisapi.com/api/times-table-159/1"
-    },
-    {
-      "api": "times-table-160",
-      "title": "160 Times Table",
-      "description": "The multiplication table for 160: 160x1 through 160x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-160/index",
-      "sample": "https://gratisapi.com/api/times-table-160/1"
-    },
-    {
-      "api": "times-table-161",
-      "title": "161 Times Table",
-      "description": "The multiplication table for 161: 161x1 through 161x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-161/index",
-      "sample": "https://gratisapi.com/api/times-table-161/1"
-    },
-    {
-      "api": "times-table-162",
-      "title": "162 Times Table",
-      "description": "The multiplication table for 162: 162x1 through 162x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-162/index",
-      "sample": "https://gratisapi.com/api/times-table-162/1"
-    },
-    {
-      "api": "times-table-163",
-      "title": "163 Times Table",
-      "description": "The multiplication table for 163: 163x1 through 163x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-163/index",
-      "sample": "https://gratisapi.com/api/times-table-163/1"
-    },
-    {
-      "api": "times-table-164",
-      "title": "164 Times Table",
-      "description": "The multiplication table for 164: 164x1 through 164x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-164/index",
-      "sample": "https://gratisapi.com/api/times-table-164/1"
-    },
-    {
-      "api": "times-table-165",
-      "title": "165 Times Table",
-      "description": "The multiplication table for 165: 165x1 through 165x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-165/index",
-      "sample": "https://gratisapi.com/api/times-table-165/1"
-    },
-    {
-      "api": "times-table-166",
-      "title": "166 Times Table",
-      "description": "The multiplication table for 166: 166x1 through 166x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-166/index",
-      "sample": "https://gratisapi.com/api/times-table-166/1"
-    },
-    {
-      "api": "times-table-167",
-      "title": "167 Times Table",
-      "description": "The multiplication table for 167: 167x1 through 167x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-167/index",
-      "sample": "https://gratisapi.com/api/times-table-167/1"
-    },
-    {
-      "api": "times-table-168",
-      "title": "168 Times Table",
-      "description": "The multiplication table for 168: 168x1 through 168x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-168/index",
-      "sample": "https://gratisapi.com/api/times-table-168/1"
-    },
-    {
-      "api": "times-table-169",
-      "title": "169 Times Table",
-      "description": "The multiplication table for 169: 169x1 through 169x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-169/index",
-      "sample": "https://gratisapi.com/api/times-table-169/1"
-    },
-    {
-      "api": "times-table-170",
-      "title": "170 Times Table",
-      "description": "The multiplication table for 170: 170x1 through 170x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-170/index",
-      "sample": "https://gratisapi.com/api/times-table-170/1"
-    },
-    {
-      "api": "times-table-171",
-      "title": "171 Times Table",
-      "description": "The multiplication table for 171: 171x1 through 171x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-171/index",
-      "sample": "https://gratisapi.com/api/times-table-171/1"
-    },
-    {
-      "api": "times-table-172",
-      "title": "172 Times Table",
-      "description": "The multiplication table for 172: 172x1 through 172x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-172/index",
-      "sample": "https://gratisapi.com/api/times-table-172/1"
-    },
-    {
-      "api": "times-table-173",
-      "title": "173 Times Table",
-      "description": "The multiplication table for 173: 173x1 through 173x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-173/index",
-      "sample": "https://gratisapi.com/api/times-table-173/1"
-    },
-    {
-      "api": "times-table-174",
-      "title": "174 Times Table",
-      "description": "The multiplication table for 174: 174x1 through 174x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-174/index",
-      "sample": "https://gratisapi.com/api/times-table-174/1"
-    },
-    {
-      "api": "times-table-175",
-      "title": "175 Times Table",
-      "description": "The multiplication table for 175: 175x1 through 175x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-175/index",
-      "sample": "https://gratisapi.com/api/times-table-175/1"
-    },
-    {
-      "api": "times-table-176",
-      "title": "176 Times Table",
-      "description": "The multiplication table for 176: 176x1 through 176x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-176/index",
-      "sample": "https://gratisapi.com/api/times-table-176/1"
-    },
-    {
-      "api": "times-table-177",
-      "title": "177 Times Table",
-      "description": "The multiplication table for 177: 177x1 through 177x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-177/index",
-      "sample": "https://gratisapi.com/api/times-table-177/1"
-    },
-    {
-      "api": "times-table-178",
-      "title": "178 Times Table",
-      "description": "The multiplication table for 178: 178x1 through 178x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-178/index",
-      "sample": "https://gratisapi.com/api/times-table-178/1"
-    },
-    {
-      "api": "times-table-179",
-      "title": "179 Times Table",
-      "description": "The multiplication table for 179: 179x1 through 179x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-179/index",
-      "sample": "https://gratisapi.com/api/times-table-179/1"
-    },
-    {
-      "api": "times-table-180",
-      "title": "180 Times Table",
-      "description": "The multiplication table for 180: 180x1 through 180x20.",
-      "emoji": "✖️",
-      "count": 20,
-      "url": "https://gratisapi.com/api/times-table-180/index",
-      "sample": "https://gratisapi.com/api/times-table-180/1"
-    },
-    {
       "api": "unicode-basic-latin",
       "title": "Basic Latin",
       "description": "The Basic Latin Unicode block (U+0000..U+007F).",
@@ -3227,9 +1337,9 @@
     {
       "api": "unicode-ethiopic",
       "title": "Ethiopic",
-      "description": "The Ethiopic Unicode block (U+1200..U+137F) — first 256 of 358 named characters.",
+      "description": "The Ethiopic Unicode block (U+1200..U+137F).",
       "emoji": "🔤",
-      "count": 256,
+      "count": 358,
       "url": "https://gratisapi.com/api/unicode-ethiopic/index",
       "sample": "https://gratisapi.com/api/unicode-ethiopic/u1200"
     },
@@ -3488,18 +1598,18 @@
     {
       "api": "unicode-cjk-unified-ideographs",
       "title": "CJK Unified Ideographs",
-      "description": "The CJK Unified Ideographs Unicode block (U+4E00..U+9FFF) — first 256 of 20992 named characters.",
+      "description": "The CJK Unified Ideographs Unicode block (U+4E00..U+9FFF) — first 1500 of 20992 named characters.",
       "emoji": "🔤",
-      "count": 256,
+      "count": 1500,
       "url": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/index",
       "sample": "https://gratisapi.com/api/unicode-cjk-unified-ideographs/u4E00"
     },
     {
       "api": "unicode-hangul-syllables",
       "title": "Hangul Syllables",
-      "description": "The Hangul Syllables Unicode block (U+AC00..U+D7A3) — first 256 of 11172 named characters.",
+      "description": "The Hangul Syllables Unicode block (U+AC00..U+D7A3) — first 1500 of 11172 named characters.",
       "emoji": "🔤",
-      "count": 256,
+      "count": 1500,
       "url": "https://gratisapi.com/api/unicode-hangul-syllables/index",
       "sample": "https://gratisapi.com/api/unicode-hangul-syllables/uAC00"
     },
@@ -3560,9 +1670,9 @@
     {
       "api": "unicode-miscellaneous-symbols-and-pictographs",
       "title": "Miscellaneous Symbols and Pictographs",
-      "description": "The Miscellaneous Symbols and Pictographs Unicode block (U+1F300..U+1F5FF) — first 256 of 768 named characters.",
+      "description": "The Miscellaneous Symbols and Pictographs Unicode block (U+1F300..U+1F5FF).",
       "emoji": "🔤",
-      "count": 256,
+      "count": 768,
       "url": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/index",
       "sample": "https://gratisapi.com/api/unicode-miscellaneous-symbols-and-pictographs/u1F300"
     },
@@ -3641,9 +1751,9 @@
     {
       "api": "unicode-mathematical-alphanumeric-symbols",
       "title": "Mathematical Alphanumeric Symbols",
-      "description": "The Mathematical Alphanumeric Symbols Unicode block (U+1D400..U+1D7FF) — first 256 of 996 named characters.",
+      "description": "The Mathematical Alphanumeric Symbols Unicode block (U+1D400..U+1D7FF).",
       "emoji": "🔤",
-      "count": 256,
+      "count": 996,
       "url": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/index",
       "sample": "https://gratisapi.com/api/unicode-mathematical-alphanumeric-symbols/u1D400"
     },
@@ -3655,6 +1765,267 @@
       "count": 233,
       "url": "https://gratisapi.com/api/unicode-musical-symbols/index",
       "sample": "https://gratisapi.com/api/unicode-musical-symbols/u1D100"
+    },
+    {
+      "api": "primes",
+      "title": "Prime Numbers",
+      "description": "The first 10,000 prime numbers.",
+      "emoji": "🧮",
+      "count": 10000,
+      "url": "https://gratisapi.com/api/primes/index",
+      "sample": "https://gratisapi.com/api/primes/0"
+    },
+    {
+      "api": "fibonacci",
+      "title": "Fibonacci Numbers",
+      "description": "The Fibonacci sequence within exact-integer range.",
+      "emoji": "🧮",
+      "count": 79,
+      "url": "https://gratisapi.com/api/fibonacci/index",
+      "sample": "https://gratisapi.com/api/fibonacci/0"
+    },
+    {
+      "api": "lucas-numbers",
+      "title": "Lucas Numbers",
+      "description": "The Lucas sequence within exact-integer range.",
+      "emoji": "🧮",
+      "count": 77,
+      "url": "https://gratisapi.com/api/lucas-numbers/index",
+      "sample": "https://gratisapi.com/api/lucas-numbers/0"
+    },
+    {
+      "api": "tribonacci-numbers",
+      "title": "Tribonacci Numbers",
+      "description": "The Tribonacci sequence within exact-integer range.",
+      "emoji": "🧮",
+      "count": 64,
+      "url": "https://gratisapi.com/api/tribonacci-numbers/index",
+      "sample": "https://gratisapi.com/api/tribonacci-numbers/0"
+    },
+    {
+      "api": "square-numbers",
+      "title": "Square Numbers",
+      "description": "Perfect squares n^2 for n = 1..10000.",
+      "emoji": "🧮",
+      "count": 10000,
+      "url": "https://gratisapi.com/api/square-numbers/index",
+      "sample": "https://gratisapi.com/api/square-numbers/0"
+    },
+    {
+      "api": "cube-numbers",
+      "title": "Cube Numbers",
+      "description": "Perfect cubes n^3 for n = 1..2000.",
+      "emoji": "🧮",
+      "count": 2000,
+      "url": "https://gratisapi.com/api/cube-numbers/index",
+      "sample": "https://gratisapi.com/api/cube-numbers/0"
+    },
+    {
+      "api": "fourth-powers",
+      "title": "Fourth Powers",
+      "description": "n^4 for n = 1..1000.",
+      "emoji": "🧮",
+      "count": 1000,
+      "url": "https://gratisapi.com/api/fourth-powers/index",
+      "sample": "https://gratisapi.com/api/fourth-powers/0"
+    },
+    {
+      "api": "fifth-powers",
+      "title": "Fifth Powers",
+      "description": "n^5 for n = 1..500.",
+      "emoji": "🧮",
+      "count": 500,
+      "url": "https://gratisapi.com/api/fifth-powers/index",
+      "sample": "https://gratisapi.com/api/fifth-powers/0"
+    },
+    {
+      "api": "triangular-numbers",
+      "title": "Triangular Numbers",
+      "description": "n(n+1)/2 for n = 1..10000.",
+      "emoji": "🧮",
+      "count": 10000,
+      "url": "https://gratisapi.com/api/triangular-numbers/index",
+      "sample": "https://gratisapi.com/api/triangular-numbers/0"
+    },
+    {
+      "api": "tetrahedral-numbers",
+      "title": "Tetrahedral Numbers",
+      "description": "n(n+1)(n+2)/6 for n = 1..3000.",
+      "emoji": "🧮",
+      "count": 3000,
+      "url": "https://gratisapi.com/api/tetrahedral-numbers/index",
+      "sample": "https://gratisapi.com/api/tetrahedral-numbers/0"
+    },
+    {
+      "api": "square-pyramidal-numbers",
+      "title": "Square Pyramidal Numbers",
+      "description": "n(n+1)(2n+1)/6 for n = 1..3000.",
+      "emoji": "🧮",
+      "count": 3000,
+      "url": "https://gratisapi.com/api/square-pyramidal-numbers/index",
+      "sample": "https://gratisapi.com/api/square-pyramidal-numbers/0"
+    },
+    {
+      "api": "pentagonal-numbers",
+      "title": "Pentagonal Numbers",
+      "description": "n(3n-1)/2 for n = 1..5000.",
+      "emoji": "🧮",
+      "count": 5000,
+      "url": "https://gratisapi.com/api/pentagonal-numbers/index",
+      "sample": "https://gratisapi.com/api/pentagonal-numbers/0"
+    },
+    {
+      "api": "hexagonal-numbers",
+      "title": "Hexagonal Numbers",
+      "description": "n(2n-1) for n = 1..5000.",
+      "emoji": "🧮",
+      "count": 5000,
+      "url": "https://gratisapi.com/api/hexagonal-numbers/index",
+      "sample": "https://gratisapi.com/api/hexagonal-numbers/0"
+    },
+    {
+      "api": "heptagonal-numbers",
+      "title": "Heptagonal Numbers",
+      "description": "n(5n-3)/2 for n = 1..5000.",
+      "emoji": "🧮",
+      "count": 5000,
+      "url": "https://gratisapi.com/api/heptagonal-numbers/index",
+      "sample": "https://gratisapi.com/api/heptagonal-numbers/0"
+    },
+    {
+      "api": "octagonal-numbers",
+      "title": "Octagonal Numbers",
+      "description": "n(3n-2) for n = 1..5000.",
+      "emoji": "🧮",
+      "count": 5000,
+      "url": "https://gratisapi.com/api/octagonal-numbers/index",
+      "sample": "https://gratisapi.com/api/octagonal-numbers/0"
+    },
+    {
+      "api": "factorials",
+      "title": "Factorials",
+      "description": "n! within exact-integer range.",
+      "emoji": "🧮",
+      "count": 19,
+      "url": "https://gratisapi.com/api/factorials/index",
+      "sample": "https://gratisapi.com/api/factorials/0"
+    },
+    {
+      "api": "powers-of-two",
+      "title": "Powers of Two",
+      "description": "2^n within exact-integer range.",
+      "emoji": "🧮",
+      "count": 53,
+      "url": "https://gratisapi.com/api/powers-of-two/index",
+      "sample": "https://gratisapi.com/api/powers-of-two/0"
+    },
+    {
+      "api": "powers-of-three",
+      "title": "Powers of Three",
+      "description": "3^n within exact-integer range.",
+      "emoji": "🧮",
+      "count": 34,
+      "url": "https://gratisapi.com/api/powers-of-three/index",
+      "sample": "https://gratisapi.com/api/powers-of-three/0"
+    },
+    {
+      "api": "powers-of-ten",
+      "title": "Powers of Ten",
+      "description": "10^n within exact-integer range.",
+      "emoji": "🧮",
+      "count": 16,
+      "url": "https://gratisapi.com/api/powers-of-ten/index",
+      "sample": "https://gratisapi.com/api/powers-of-ten/0"
+    },
+    {
+      "api": "catalan-numbers",
+      "title": "Catalan Numbers",
+      "description": "The Catalan numbers within exact-integer range.",
+      "emoji": "🧮",
+      "count": 31,
+      "url": "https://gratisapi.com/api/catalan-numbers/index",
+      "sample": "https://gratisapi.com/api/catalan-numbers/0"
+    },
+    {
+      "api": "perfect-numbers",
+      "title": "Perfect Numbers",
+      "description": "Numbers equal to the sum of their proper divisors.",
+      "emoji": "🧮",
+      "count": 7,
+      "url": "https://gratisapi.com/api/perfect-numbers/index",
+      "sample": "https://gratisapi.com/api/perfect-numbers/0"
+    },
+    {
+      "api": "happy-numbers",
+      "title": "Happy Numbers",
+      "description": "The first 1,000 happy numbers.",
+      "emoji": "🧮",
+      "count": 1000,
+      "url": "https://gratisapi.com/api/happy-numbers/index",
+      "sample": "https://gratisapi.com/api/happy-numbers/0"
+    },
+    {
+      "api": "abundant-numbers",
+      "title": "Abundant Numbers",
+      "description": "The first 1,000 abundant numbers.",
+      "emoji": "🧮",
+      "count": 1000,
+      "url": "https://gratisapi.com/api/abundant-numbers/index",
+      "sample": "https://gratisapi.com/api/abundant-numbers/0"
+    },
+    {
+      "api": "deficient-numbers",
+      "title": "Deficient Numbers",
+      "description": "The first 2,000 deficient numbers.",
+      "emoji": "🧮",
+      "count": 2000,
+      "url": "https://gratisapi.com/api/deficient-numbers/index",
+      "sample": "https://gratisapi.com/api/deficient-numbers/0"
+    },
+    {
+      "api": "palindromic-numbers",
+      "title": "Palindromic Numbers",
+      "description": "The first 1,000 palindromic numbers.",
+      "emoji": "🧮",
+      "count": 1000,
+      "url": "https://gratisapi.com/api/palindromic-numbers/index",
+      "sample": "https://gratisapi.com/api/palindromic-numbers/0"
+    },
+    {
+      "api": "highly-composite-numbers",
+      "title": "Highly Composite Numbers",
+      "description": "Numbers with more divisors than any smaller number.",
+      "emoji": "🧮",
+      "count": 30,
+      "url": "https://gratisapi.com/api/highly-composite-numbers/index",
+      "sample": "https://gratisapi.com/api/highly-composite-numbers/0"
+    },
+    {
+      "api": "even-numbers",
+      "title": "Even Numbers",
+      "description": "The first 10,000 even numbers.",
+      "emoji": "🧮",
+      "count": 10000,
+      "url": "https://gratisapi.com/api/even-numbers/index",
+      "sample": "https://gratisapi.com/api/even-numbers/0"
+    },
+    {
+      "api": "odd-numbers",
+      "title": "Odd Numbers",
+      "description": "The first 10,000 odd numbers.",
+      "emoji": "🧮",
+      "count": 10000,
+      "url": "https://gratisapi.com/api/odd-numbers/index",
+      "sample": "https://gratisapi.com/api/odd-numbers/0"
+    },
+    {
+      "api": "mersenne-numbers",
+      "title": "Mersenne Numbers",
+      "description": "2^n - 1 within exact-integer range.",
+      "emoji": "🧮",
+      "count": 52,
+      "url": "https://gratisapi.com/api/mersenne-numbers/index",
+      "sample": "https://gratisapi.com/api/mersenne-numbers/0"
     },
     {
       "api": "calendar-1600",
@@ -9064,6 +7435,1635 @@
       "count": 12,
       "url": "https://gratisapi.com/api/calendar-2200/index",
       "sample": "https://gratisapi.com/api/calendar-2200/january"
+    },
+    {
+      "api": "times-table-1",
+      "title": "1 Times Table",
+      "description": "The multiplication table for 1: 1x1 through 1x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-1/index",
+      "sample": "https://gratisapi.com/api/times-table-1/1"
+    },
+    {
+      "api": "times-table-2",
+      "title": "2 Times Table",
+      "description": "The multiplication table for 2: 2x1 through 2x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-2/index",
+      "sample": "https://gratisapi.com/api/times-table-2/1"
+    },
+    {
+      "api": "times-table-3",
+      "title": "3 Times Table",
+      "description": "The multiplication table for 3: 3x1 through 3x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-3/index",
+      "sample": "https://gratisapi.com/api/times-table-3/1"
+    },
+    {
+      "api": "times-table-4",
+      "title": "4 Times Table",
+      "description": "The multiplication table for 4: 4x1 through 4x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-4/index",
+      "sample": "https://gratisapi.com/api/times-table-4/1"
+    },
+    {
+      "api": "times-table-5",
+      "title": "5 Times Table",
+      "description": "The multiplication table for 5: 5x1 through 5x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-5/index",
+      "sample": "https://gratisapi.com/api/times-table-5/1"
+    },
+    {
+      "api": "times-table-6",
+      "title": "6 Times Table",
+      "description": "The multiplication table for 6: 6x1 through 6x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-6/index",
+      "sample": "https://gratisapi.com/api/times-table-6/1"
+    },
+    {
+      "api": "times-table-7",
+      "title": "7 Times Table",
+      "description": "The multiplication table for 7: 7x1 through 7x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-7/index",
+      "sample": "https://gratisapi.com/api/times-table-7/1"
+    },
+    {
+      "api": "times-table-8",
+      "title": "8 Times Table",
+      "description": "The multiplication table for 8: 8x1 through 8x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-8/index",
+      "sample": "https://gratisapi.com/api/times-table-8/1"
+    },
+    {
+      "api": "times-table-9",
+      "title": "9 Times Table",
+      "description": "The multiplication table for 9: 9x1 through 9x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-9/index",
+      "sample": "https://gratisapi.com/api/times-table-9/1"
+    },
+    {
+      "api": "times-table-10",
+      "title": "10 Times Table",
+      "description": "The multiplication table for 10: 10x1 through 10x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-10/index",
+      "sample": "https://gratisapi.com/api/times-table-10/1"
+    },
+    {
+      "api": "times-table-11",
+      "title": "11 Times Table",
+      "description": "The multiplication table for 11: 11x1 through 11x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-11/index",
+      "sample": "https://gratisapi.com/api/times-table-11/1"
+    },
+    {
+      "api": "times-table-12",
+      "title": "12 Times Table",
+      "description": "The multiplication table for 12: 12x1 through 12x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-12/index",
+      "sample": "https://gratisapi.com/api/times-table-12/1"
+    },
+    {
+      "api": "times-table-13",
+      "title": "13 Times Table",
+      "description": "The multiplication table for 13: 13x1 through 13x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-13/index",
+      "sample": "https://gratisapi.com/api/times-table-13/1"
+    },
+    {
+      "api": "times-table-14",
+      "title": "14 Times Table",
+      "description": "The multiplication table for 14: 14x1 through 14x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-14/index",
+      "sample": "https://gratisapi.com/api/times-table-14/1"
+    },
+    {
+      "api": "times-table-15",
+      "title": "15 Times Table",
+      "description": "The multiplication table for 15: 15x1 through 15x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-15/index",
+      "sample": "https://gratisapi.com/api/times-table-15/1"
+    },
+    {
+      "api": "times-table-16",
+      "title": "16 Times Table",
+      "description": "The multiplication table for 16: 16x1 through 16x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-16/index",
+      "sample": "https://gratisapi.com/api/times-table-16/1"
+    },
+    {
+      "api": "times-table-17",
+      "title": "17 Times Table",
+      "description": "The multiplication table for 17: 17x1 through 17x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-17/index",
+      "sample": "https://gratisapi.com/api/times-table-17/1"
+    },
+    {
+      "api": "times-table-18",
+      "title": "18 Times Table",
+      "description": "The multiplication table for 18: 18x1 through 18x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-18/index",
+      "sample": "https://gratisapi.com/api/times-table-18/1"
+    },
+    {
+      "api": "times-table-19",
+      "title": "19 Times Table",
+      "description": "The multiplication table for 19: 19x1 through 19x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-19/index",
+      "sample": "https://gratisapi.com/api/times-table-19/1"
+    },
+    {
+      "api": "times-table-20",
+      "title": "20 Times Table",
+      "description": "The multiplication table for 20: 20x1 through 20x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-20/index",
+      "sample": "https://gratisapi.com/api/times-table-20/1"
+    },
+    {
+      "api": "times-table-21",
+      "title": "21 Times Table",
+      "description": "The multiplication table for 21: 21x1 through 21x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-21/index",
+      "sample": "https://gratisapi.com/api/times-table-21/1"
+    },
+    {
+      "api": "times-table-22",
+      "title": "22 Times Table",
+      "description": "The multiplication table for 22: 22x1 through 22x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-22/index",
+      "sample": "https://gratisapi.com/api/times-table-22/1"
+    },
+    {
+      "api": "times-table-23",
+      "title": "23 Times Table",
+      "description": "The multiplication table for 23: 23x1 through 23x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-23/index",
+      "sample": "https://gratisapi.com/api/times-table-23/1"
+    },
+    {
+      "api": "times-table-24",
+      "title": "24 Times Table",
+      "description": "The multiplication table for 24: 24x1 through 24x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-24/index",
+      "sample": "https://gratisapi.com/api/times-table-24/1"
+    },
+    {
+      "api": "times-table-25",
+      "title": "25 Times Table",
+      "description": "The multiplication table for 25: 25x1 through 25x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-25/index",
+      "sample": "https://gratisapi.com/api/times-table-25/1"
+    },
+    {
+      "api": "times-table-26",
+      "title": "26 Times Table",
+      "description": "The multiplication table for 26: 26x1 through 26x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-26/index",
+      "sample": "https://gratisapi.com/api/times-table-26/1"
+    },
+    {
+      "api": "times-table-27",
+      "title": "27 Times Table",
+      "description": "The multiplication table for 27: 27x1 through 27x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-27/index",
+      "sample": "https://gratisapi.com/api/times-table-27/1"
+    },
+    {
+      "api": "times-table-28",
+      "title": "28 Times Table",
+      "description": "The multiplication table for 28: 28x1 through 28x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-28/index",
+      "sample": "https://gratisapi.com/api/times-table-28/1"
+    },
+    {
+      "api": "times-table-29",
+      "title": "29 Times Table",
+      "description": "The multiplication table for 29: 29x1 through 29x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-29/index",
+      "sample": "https://gratisapi.com/api/times-table-29/1"
+    },
+    {
+      "api": "times-table-30",
+      "title": "30 Times Table",
+      "description": "The multiplication table for 30: 30x1 through 30x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-30/index",
+      "sample": "https://gratisapi.com/api/times-table-30/1"
+    },
+    {
+      "api": "times-table-31",
+      "title": "31 Times Table",
+      "description": "The multiplication table for 31: 31x1 through 31x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-31/index",
+      "sample": "https://gratisapi.com/api/times-table-31/1"
+    },
+    {
+      "api": "times-table-32",
+      "title": "32 Times Table",
+      "description": "The multiplication table for 32: 32x1 through 32x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-32/index",
+      "sample": "https://gratisapi.com/api/times-table-32/1"
+    },
+    {
+      "api": "times-table-33",
+      "title": "33 Times Table",
+      "description": "The multiplication table for 33: 33x1 through 33x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-33/index",
+      "sample": "https://gratisapi.com/api/times-table-33/1"
+    },
+    {
+      "api": "times-table-34",
+      "title": "34 Times Table",
+      "description": "The multiplication table for 34: 34x1 through 34x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-34/index",
+      "sample": "https://gratisapi.com/api/times-table-34/1"
+    },
+    {
+      "api": "times-table-35",
+      "title": "35 Times Table",
+      "description": "The multiplication table for 35: 35x1 through 35x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-35/index",
+      "sample": "https://gratisapi.com/api/times-table-35/1"
+    },
+    {
+      "api": "times-table-36",
+      "title": "36 Times Table",
+      "description": "The multiplication table for 36: 36x1 through 36x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-36/index",
+      "sample": "https://gratisapi.com/api/times-table-36/1"
+    },
+    {
+      "api": "times-table-37",
+      "title": "37 Times Table",
+      "description": "The multiplication table for 37: 37x1 through 37x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-37/index",
+      "sample": "https://gratisapi.com/api/times-table-37/1"
+    },
+    {
+      "api": "times-table-38",
+      "title": "38 Times Table",
+      "description": "The multiplication table for 38: 38x1 through 38x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-38/index",
+      "sample": "https://gratisapi.com/api/times-table-38/1"
+    },
+    {
+      "api": "times-table-39",
+      "title": "39 Times Table",
+      "description": "The multiplication table for 39: 39x1 through 39x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-39/index",
+      "sample": "https://gratisapi.com/api/times-table-39/1"
+    },
+    {
+      "api": "times-table-40",
+      "title": "40 Times Table",
+      "description": "The multiplication table for 40: 40x1 through 40x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-40/index",
+      "sample": "https://gratisapi.com/api/times-table-40/1"
+    },
+    {
+      "api": "times-table-41",
+      "title": "41 Times Table",
+      "description": "The multiplication table for 41: 41x1 through 41x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-41/index",
+      "sample": "https://gratisapi.com/api/times-table-41/1"
+    },
+    {
+      "api": "times-table-42",
+      "title": "42 Times Table",
+      "description": "The multiplication table for 42: 42x1 through 42x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-42/index",
+      "sample": "https://gratisapi.com/api/times-table-42/1"
+    },
+    {
+      "api": "times-table-43",
+      "title": "43 Times Table",
+      "description": "The multiplication table for 43: 43x1 through 43x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-43/index",
+      "sample": "https://gratisapi.com/api/times-table-43/1"
+    },
+    {
+      "api": "times-table-44",
+      "title": "44 Times Table",
+      "description": "The multiplication table for 44: 44x1 through 44x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-44/index",
+      "sample": "https://gratisapi.com/api/times-table-44/1"
+    },
+    {
+      "api": "times-table-45",
+      "title": "45 Times Table",
+      "description": "The multiplication table for 45: 45x1 through 45x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-45/index",
+      "sample": "https://gratisapi.com/api/times-table-45/1"
+    },
+    {
+      "api": "times-table-46",
+      "title": "46 Times Table",
+      "description": "The multiplication table for 46: 46x1 through 46x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-46/index",
+      "sample": "https://gratisapi.com/api/times-table-46/1"
+    },
+    {
+      "api": "times-table-47",
+      "title": "47 Times Table",
+      "description": "The multiplication table for 47: 47x1 through 47x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-47/index",
+      "sample": "https://gratisapi.com/api/times-table-47/1"
+    },
+    {
+      "api": "times-table-48",
+      "title": "48 Times Table",
+      "description": "The multiplication table for 48: 48x1 through 48x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-48/index",
+      "sample": "https://gratisapi.com/api/times-table-48/1"
+    },
+    {
+      "api": "times-table-49",
+      "title": "49 Times Table",
+      "description": "The multiplication table for 49: 49x1 through 49x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-49/index",
+      "sample": "https://gratisapi.com/api/times-table-49/1"
+    },
+    {
+      "api": "times-table-50",
+      "title": "50 Times Table",
+      "description": "The multiplication table for 50: 50x1 through 50x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-50/index",
+      "sample": "https://gratisapi.com/api/times-table-50/1"
+    },
+    {
+      "api": "times-table-51",
+      "title": "51 Times Table",
+      "description": "The multiplication table for 51: 51x1 through 51x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-51/index",
+      "sample": "https://gratisapi.com/api/times-table-51/1"
+    },
+    {
+      "api": "times-table-52",
+      "title": "52 Times Table",
+      "description": "The multiplication table for 52: 52x1 through 52x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-52/index",
+      "sample": "https://gratisapi.com/api/times-table-52/1"
+    },
+    {
+      "api": "times-table-53",
+      "title": "53 Times Table",
+      "description": "The multiplication table for 53: 53x1 through 53x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-53/index",
+      "sample": "https://gratisapi.com/api/times-table-53/1"
+    },
+    {
+      "api": "times-table-54",
+      "title": "54 Times Table",
+      "description": "The multiplication table for 54: 54x1 through 54x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-54/index",
+      "sample": "https://gratisapi.com/api/times-table-54/1"
+    },
+    {
+      "api": "times-table-55",
+      "title": "55 Times Table",
+      "description": "The multiplication table for 55: 55x1 through 55x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-55/index",
+      "sample": "https://gratisapi.com/api/times-table-55/1"
+    },
+    {
+      "api": "times-table-56",
+      "title": "56 Times Table",
+      "description": "The multiplication table for 56: 56x1 through 56x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-56/index",
+      "sample": "https://gratisapi.com/api/times-table-56/1"
+    },
+    {
+      "api": "times-table-57",
+      "title": "57 Times Table",
+      "description": "The multiplication table for 57: 57x1 through 57x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-57/index",
+      "sample": "https://gratisapi.com/api/times-table-57/1"
+    },
+    {
+      "api": "times-table-58",
+      "title": "58 Times Table",
+      "description": "The multiplication table for 58: 58x1 through 58x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-58/index",
+      "sample": "https://gratisapi.com/api/times-table-58/1"
+    },
+    {
+      "api": "times-table-59",
+      "title": "59 Times Table",
+      "description": "The multiplication table for 59: 59x1 through 59x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-59/index",
+      "sample": "https://gratisapi.com/api/times-table-59/1"
+    },
+    {
+      "api": "times-table-60",
+      "title": "60 Times Table",
+      "description": "The multiplication table for 60: 60x1 through 60x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-60/index",
+      "sample": "https://gratisapi.com/api/times-table-60/1"
+    },
+    {
+      "api": "times-table-61",
+      "title": "61 Times Table",
+      "description": "The multiplication table for 61: 61x1 through 61x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-61/index",
+      "sample": "https://gratisapi.com/api/times-table-61/1"
+    },
+    {
+      "api": "times-table-62",
+      "title": "62 Times Table",
+      "description": "The multiplication table for 62: 62x1 through 62x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-62/index",
+      "sample": "https://gratisapi.com/api/times-table-62/1"
+    },
+    {
+      "api": "times-table-63",
+      "title": "63 Times Table",
+      "description": "The multiplication table for 63: 63x1 through 63x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-63/index",
+      "sample": "https://gratisapi.com/api/times-table-63/1"
+    },
+    {
+      "api": "times-table-64",
+      "title": "64 Times Table",
+      "description": "The multiplication table for 64: 64x1 through 64x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-64/index",
+      "sample": "https://gratisapi.com/api/times-table-64/1"
+    },
+    {
+      "api": "times-table-65",
+      "title": "65 Times Table",
+      "description": "The multiplication table for 65: 65x1 through 65x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-65/index",
+      "sample": "https://gratisapi.com/api/times-table-65/1"
+    },
+    {
+      "api": "times-table-66",
+      "title": "66 Times Table",
+      "description": "The multiplication table for 66: 66x1 through 66x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-66/index",
+      "sample": "https://gratisapi.com/api/times-table-66/1"
+    },
+    {
+      "api": "times-table-67",
+      "title": "67 Times Table",
+      "description": "The multiplication table for 67: 67x1 through 67x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-67/index",
+      "sample": "https://gratisapi.com/api/times-table-67/1"
+    },
+    {
+      "api": "times-table-68",
+      "title": "68 Times Table",
+      "description": "The multiplication table for 68: 68x1 through 68x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-68/index",
+      "sample": "https://gratisapi.com/api/times-table-68/1"
+    },
+    {
+      "api": "times-table-69",
+      "title": "69 Times Table",
+      "description": "The multiplication table for 69: 69x1 through 69x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-69/index",
+      "sample": "https://gratisapi.com/api/times-table-69/1"
+    },
+    {
+      "api": "times-table-70",
+      "title": "70 Times Table",
+      "description": "The multiplication table for 70: 70x1 through 70x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-70/index",
+      "sample": "https://gratisapi.com/api/times-table-70/1"
+    },
+    {
+      "api": "times-table-71",
+      "title": "71 Times Table",
+      "description": "The multiplication table for 71: 71x1 through 71x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-71/index",
+      "sample": "https://gratisapi.com/api/times-table-71/1"
+    },
+    {
+      "api": "times-table-72",
+      "title": "72 Times Table",
+      "description": "The multiplication table for 72: 72x1 through 72x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-72/index",
+      "sample": "https://gratisapi.com/api/times-table-72/1"
+    },
+    {
+      "api": "times-table-73",
+      "title": "73 Times Table",
+      "description": "The multiplication table for 73: 73x1 through 73x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-73/index",
+      "sample": "https://gratisapi.com/api/times-table-73/1"
+    },
+    {
+      "api": "times-table-74",
+      "title": "74 Times Table",
+      "description": "The multiplication table for 74: 74x1 through 74x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-74/index",
+      "sample": "https://gratisapi.com/api/times-table-74/1"
+    },
+    {
+      "api": "times-table-75",
+      "title": "75 Times Table",
+      "description": "The multiplication table for 75: 75x1 through 75x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-75/index",
+      "sample": "https://gratisapi.com/api/times-table-75/1"
+    },
+    {
+      "api": "times-table-76",
+      "title": "76 Times Table",
+      "description": "The multiplication table for 76: 76x1 through 76x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-76/index",
+      "sample": "https://gratisapi.com/api/times-table-76/1"
+    },
+    {
+      "api": "times-table-77",
+      "title": "77 Times Table",
+      "description": "The multiplication table for 77: 77x1 through 77x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-77/index",
+      "sample": "https://gratisapi.com/api/times-table-77/1"
+    },
+    {
+      "api": "times-table-78",
+      "title": "78 Times Table",
+      "description": "The multiplication table for 78: 78x1 through 78x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-78/index",
+      "sample": "https://gratisapi.com/api/times-table-78/1"
+    },
+    {
+      "api": "times-table-79",
+      "title": "79 Times Table",
+      "description": "The multiplication table for 79: 79x1 through 79x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-79/index",
+      "sample": "https://gratisapi.com/api/times-table-79/1"
+    },
+    {
+      "api": "times-table-80",
+      "title": "80 Times Table",
+      "description": "The multiplication table for 80: 80x1 through 80x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-80/index",
+      "sample": "https://gratisapi.com/api/times-table-80/1"
+    },
+    {
+      "api": "times-table-81",
+      "title": "81 Times Table",
+      "description": "The multiplication table for 81: 81x1 through 81x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-81/index",
+      "sample": "https://gratisapi.com/api/times-table-81/1"
+    },
+    {
+      "api": "times-table-82",
+      "title": "82 Times Table",
+      "description": "The multiplication table for 82: 82x1 through 82x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-82/index",
+      "sample": "https://gratisapi.com/api/times-table-82/1"
+    },
+    {
+      "api": "times-table-83",
+      "title": "83 Times Table",
+      "description": "The multiplication table for 83: 83x1 through 83x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-83/index",
+      "sample": "https://gratisapi.com/api/times-table-83/1"
+    },
+    {
+      "api": "times-table-84",
+      "title": "84 Times Table",
+      "description": "The multiplication table for 84: 84x1 through 84x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-84/index",
+      "sample": "https://gratisapi.com/api/times-table-84/1"
+    },
+    {
+      "api": "times-table-85",
+      "title": "85 Times Table",
+      "description": "The multiplication table for 85: 85x1 through 85x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-85/index",
+      "sample": "https://gratisapi.com/api/times-table-85/1"
+    },
+    {
+      "api": "times-table-86",
+      "title": "86 Times Table",
+      "description": "The multiplication table for 86: 86x1 through 86x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-86/index",
+      "sample": "https://gratisapi.com/api/times-table-86/1"
+    },
+    {
+      "api": "times-table-87",
+      "title": "87 Times Table",
+      "description": "The multiplication table for 87: 87x1 through 87x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-87/index",
+      "sample": "https://gratisapi.com/api/times-table-87/1"
+    },
+    {
+      "api": "times-table-88",
+      "title": "88 Times Table",
+      "description": "The multiplication table for 88: 88x1 through 88x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-88/index",
+      "sample": "https://gratisapi.com/api/times-table-88/1"
+    },
+    {
+      "api": "times-table-89",
+      "title": "89 Times Table",
+      "description": "The multiplication table for 89: 89x1 through 89x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-89/index",
+      "sample": "https://gratisapi.com/api/times-table-89/1"
+    },
+    {
+      "api": "times-table-90",
+      "title": "90 Times Table",
+      "description": "The multiplication table for 90: 90x1 through 90x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-90/index",
+      "sample": "https://gratisapi.com/api/times-table-90/1"
+    },
+    {
+      "api": "times-table-91",
+      "title": "91 Times Table",
+      "description": "The multiplication table for 91: 91x1 through 91x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-91/index",
+      "sample": "https://gratisapi.com/api/times-table-91/1"
+    },
+    {
+      "api": "times-table-92",
+      "title": "92 Times Table",
+      "description": "The multiplication table for 92: 92x1 through 92x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-92/index",
+      "sample": "https://gratisapi.com/api/times-table-92/1"
+    },
+    {
+      "api": "times-table-93",
+      "title": "93 Times Table",
+      "description": "The multiplication table for 93: 93x1 through 93x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-93/index",
+      "sample": "https://gratisapi.com/api/times-table-93/1"
+    },
+    {
+      "api": "times-table-94",
+      "title": "94 Times Table",
+      "description": "The multiplication table for 94: 94x1 through 94x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-94/index",
+      "sample": "https://gratisapi.com/api/times-table-94/1"
+    },
+    {
+      "api": "times-table-95",
+      "title": "95 Times Table",
+      "description": "The multiplication table for 95: 95x1 through 95x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-95/index",
+      "sample": "https://gratisapi.com/api/times-table-95/1"
+    },
+    {
+      "api": "times-table-96",
+      "title": "96 Times Table",
+      "description": "The multiplication table for 96: 96x1 through 96x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-96/index",
+      "sample": "https://gratisapi.com/api/times-table-96/1"
+    },
+    {
+      "api": "times-table-97",
+      "title": "97 Times Table",
+      "description": "The multiplication table for 97: 97x1 through 97x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-97/index",
+      "sample": "https://gratisapi.com/api/times-table-97/1"
+    },
+    {
+      "api": "times-table-98",
+      "title": "98 Times Table",
+      "description": "The multiplication table for 98: 98x1 through 98x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-98/index",
+      "sample": "https://gratisapi.com/api/times-table-98/1"
+    },
+    {
+      "api": "times-table-99",
+      "title": "99 Times Table",
+      "description": "The multiplication table for 99: 99x1 through 99x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-99/index",
+      "sample": "https://gratisapi.com/api/times-table-99/1"
+    },
+    {
+      "api": "times-table-100",
+      "title": "100 Times Table",
+      "description": "The multiplication table for 100: 100x1 through 100x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-100/index",
+      "sample": "https://gratisapi.com/api/times-table-100/1"
+    },
+    {
+      "api": "times-table-101",
+      "title": "101 Times Table",
+      "description": "The multiplication table for 101: 101x1 through 101x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-101/index",
+      "sample": "https://gratisapi.com/api/times-table-101/1"
+    },
+    {
+      "api": "times-table-102",
+      "title": "102 Times Table",
+      "description": "The multiplication table for 102: 102x1 through 102x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-102/index",
+      "sample": "https://gratisapi.com/api/times-table-102/1"
+    },
+    {
+      "api": "times-table-103",
+      "title": "103 Times Table",
+      "description": "The multiplication table for 103: 103x1 through 103x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-103/index",
+      "sample": "https://gratisapi.com/api/times-table-103/1"
+    },
+    {
+      "api": "times-table-104",
+      "title": "104 Times Table",
+      "description": "The multiplication table for 104: 104x1 through 104x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-104/index",
+      "sample": "https://gratisapi.com/api/times-table-104/1"
+    },
+    {
+      "api": "times-table-105",
+      "title": "105 Times Table",
+      "description": "The multiplication table for 105: 105x1 through 105x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-105/index",
+      "sample": "https://gratisapi.com/api/times-table-105/1"
+    },
+    {
+      "api": "times-table-106",
+      "title": "106 Times Table",
+      "description": "The multiplication table for 106: 106x1 through 106x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-106/index",
+      "sample": "https://gratisapi.com/api/times-table-106/1"
+    },
+    {
+      "api": "times-table-107",
+      "title": "107 Times Table",
+      "description": "The multiplication table for 107: 107x1 through 107x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-107/index",
+      "sample": "https://gratisapi.com/api/times-table-107/1"
+    },
+    {
+      "api": "times-table-108",
+      "title": "108 Times Table",
+      "description": "The multiplication table for 108: 108x1 through 108x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-108/index",
+      "sample": "https://gratisapi.com/api/times-table-108/1"
+    },
+    {
+      "api": "times-table-109",
+      "title": "109 Times Table",
+      "description": "The multiplication table for 109: 109x1 through 109x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-109/index",
+      "sample": "https://gratisapi.com/api/times-table-109/1"
+    },
+    {
+      "api": "times-table-110",
+      "title": "110 Times Table",
+      "description": "The multiplication table for 110: 110x1 through 110x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-110/index",
+      "sample": "https://gratisapi.com/api/times-table-110/1"
+    },
+    {
+      "api": "times-table-111",
+      "title": "111 Times Table",
+      "description": "The multiplication table for 111: 111x1 through 111x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-111/index",
+      "sample": "https://gratisapi.com/api/times-table-111/1"
+    },
+    {
+      "api": "times-table-112",
+      "title": "112 Times Table",
+      "description": "The multiplication table for 112: 112x1 through 112x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-112/index",
+      "sample": "https://gratisapi.com/api/times-table-112/1"
+    },
+    {
+      "api": "times-table-113",
+      "title": "113 Times Table",
+      "description": "The multiplication table for 113: 113x1 through 113x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-113/index",
+      "sample": "https://gratisapi.com/api/times-table-113/1"
+    },
+    {
+      "api": "times-table-114",
+      "title": "114 Times Table",
+      "description": "The multiplication table for 114: 114x1 through 114x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-114/index",
+      "sample": "https://gratisapi.com/api/times-table-114/1"
+    },
+    {
+      "api": "times-table-115",
+      "title": "115 Times Table",
+      "description": "The multiplication table for 115: 115x1 through 115x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-115/index",
+      "sample": "https://gratisapi.com/api/times-table-115/1"
+    },
+    {
+      "api": "times-table-116",
+      "title": "116 Times Table",
+      "description": "The multiplication table for 116: 116x1 through 116x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-116/index",
+      "sample": "https://gratisapi.com/api/times-table-116/1"
+    },
+    {
+      "api": "times-table-117",
+      "title": "117 Times Table",
+      "description": "The multiplication table for 117: 117x1 through 117x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-117/index",
+      "sample": "https://gratisapi.com/api/times-table-117/1"
+    },
+    {
+      "api": "times-table-118",
+      "title": "118 Times Table",
+      "description": "The multiplication table for 118: 118x1 through 118x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-118/index",
+      "sample": "https://gratisapi.com/api/times-table-118/1"
+    },
+    {
+      "api": "times-table-119",
+      "title": "119 Times Table",
+      "description": "The multiplication table for 119: 119x1 through 119x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-119/index",
+      "sample": "https://gratisapi.com/api/times-table-119/1"
+    },
+    {
+      "api": "times-table-120",
+      "title": "120 Times Table",
+      "description": "The multiplication table for 120: 120x1 through 120x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-120/index",
+      "sample": "https://gratisapi.com/api/times-table-120/1"
+    },
+    {
+      "api": "times-table-121",
+      "title": "121 Times Table",
+      "description": "The multiplication table for 121: 121x1 through 121x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-121/index",
+      "sample": "https://gratisapi.com/api/times-table-121/1"
+    },
+    {
+      "api": "times-table-122",
+      "title": "122 Times Table",
+      "description": "The multiplication table for 122: 122x1 through 122x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-122/index",
+      "sample": "https://gratisapi.com/api/times-table-122/1"
+    },
+    {
+      "api": "times-table-123",
+      "title": "123 Times Table",
+      "description": "The multiplication table for 123: 123x1 through 123x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-123/index",
+      "sample": "https://gratisapi.com/api/times-table-123/1"
+    },
+    {
+      "api": "times-table-124",
+      "title": "124 Times Table",
+      "description": "The multiplication table for 124: 124x1 through 124x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-124/index",
+      "sample": "https://gratisapi.com/api/times-table-124/1"
+    },
+    {
+      "api": "times-table-125",
+      "title": "125 Times Table",
+      "description": "The multiplication table for 125: 125x1 through 125x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-125/index",
+      "sample": "https://gratisapi.com/api/times-table-125/1"
+    },
+    {
+      "api": "times-table-126",
+      "title": "126 Times Table",
+      "description": "The multiplication table for 126: 126x1 through 126x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-126/index",
+      "sample": "https://gratisapi.com/api/times-table-126/1"
+    },
+    {
+      "api": "times-table-127",
+      "title": "127 Times Table",
+      "description": "The multiplication table for 127: 127x1 through 127x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-127/index",
+      "sample": "https://gratisapi.com/api/times-table-127/1"
+    },
+    {
+      "api": "times-table-128",
+      "title": "128 Times Table",
+      "description": "The multiplication table for 128: 128x1 through 128x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-128/index",
+      "sample": "https://gratisapi.com/api/times-table-128/1"
+    },
+    {
+      "api": "times-table-129",
+      "title": "129 Times Table",
+      "description": "The multiplication table for 129: 129x1 through 129x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-129/index",
+      "sample": "https://gratisapi.com/api/times-table-129/1"
+    },
+    {
+      "api": "times-table-130",
+      "title": "130 Times Table",
+      "description": "The multiplication table for 130: 130x1 through 130x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-130/index",
+      "sample": "https://gratisapi.com/api/times-table-130/1"
+    },
+    {
+      "api": "times-table-131",
+      "title": "131 Times Table",
+      "description": "The multiplication table for 131: 131x1 through 131x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-131/index",
+      "sample": "https://gratisapi.com/api/times-table-131/1"
+    },
+    {
+      "api": "times-table-132",
+      "title": "132 Times Table",
+      "description": "The multiplication table for 132: 132x1 through 132x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-132/index",
+      "sample": "https://gratisapi.com/api/times-table-132/1"
+    },
+    {
+      "api": "times-table-133",
+      "title": "133 Times Table",
+      "description": "The multiplication table for 133: 133x1 through 133x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-133/index",
+      "sample": "https://gratisapi.com/api/times-table-133/1"
+    },
+    {
+      "api": "times-table-134",
+      "title": "134 Times Table",
+      "description": "The multiplication table for 134: 134x1 through 134x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-134/index",
+      "sample": "https://gratisapi.com/api/times-table-134/1"
+    },
+    {
+      "api": "times-table-135",
+      "title": "135 Times Table",
+      "description": "The multiplication table for 135: 135x1 through 135x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-135/index",
+      "sample": "https://gratisapi.com/api/times-table-135/1"
+    },
+    {
+      "api": "times-table-136",
+      "title": "136 Times Table",
+      "description": "The multiplication table for 136: 136x1 through 136x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-136/index",
+      "sample": "https://gratisapi.com/api/times-table-136/1"
+    },
+    {
+      "api": "times-table-137",
+      "title": "137 Times Table",
+      "description": "The multiplication table for 137: 137x1 through 137x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-137/index",
+      "sample": "https://gratisapi.com/api/times-table-137/1"
+    },
+    {
+      "api": "times-table-138",
+      "title": "138 Times Table",
+      "description": "The multiplication table for 138: 138x1 through 138x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-138/index",
+      "sample": "https://gratisapi.com/api/times-table-138/1"
+    },
+    {
+      "api": "times-table-139",
+      "title": "139 Times Table",
+      "description": "The multiplication table for 139: 139x1 through 139x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-139/index",
+      "sample": "https://gratisapi.com/api/times-table-139/1"
+    },
+    {
+      "api": "times-table-140",
+      "title": "140 Times Table",
+      "description": "The multiplication table for 140: 140x1 through 140x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-140/index",
+      "sample": "https://gratisapi.com/api/times-table-140/1"
+    },
+    {
+      "api": "times-table-141",
+      "title": "141 Times Table",
+      "description": "The multiplication table for 141: 141x1 through 141x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-141/index",
+      "sample": "https://gratisapi.com/api/times-table-141/1"
+    },
+    {
+      "api": "times-table-142",
+      "title": "142 Times Table",
+      "description": "The multiplication table for 142: 142x1 through 142x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-142/index",
+      "sample": "https://gratisapi.com/api/times-table-142/1"
+    },
+    {
+      "api": "times-table-143",
+      "title": "143 Times Table",
+      "description": "The multiplication table for 143: 143x1 through 143x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-143/index",
+      "sample": "https://gratisapi.com/api/times-table-143/1"
+    },
+    {
+      "api": "times-table-144",
+      "title": "144 Times Table",
+      "description": "The multiplication table for 144: 144x1 through 144x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-144/index",
+      "sample": "https://gratisapi.com/api/times-table-144/1"
+    },
+    {
+      "api": "times-table-145",
+      "title": "145 Times Table",
+      "description": "The multiplication table for 145: 145x1 through 145x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-145/index",
+      "sample": "https://gratisapi.com/api/times-table-145/1"
+    },
+    {
+      "api": "times-table-146",
+      "title": "146 Times Table",
+      "description": "The multiplication table for 146: 146x1 through 146x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-146/index",
+      "sample": "https://gratisapi.com/api/times-table-146/1"
+    },
+    {
+      "api": "times-table-147",
+      "title": "147 Times Table",
+      "description": "The multiplication table for 147: 147x1 through 147x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-147/index",
+      "sample": "https://gratisapi.com/api/times-table-147/1"
+    },
+    {
+      "api": "times-table-148",
+      "title": "148 Times Table",
+      "description": "The multiplication table for 148: 148x1 through 148x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-148/index",
+      "sample": "https://gratisapi.com/api/times-table-148/1"
+    },
+    {
+      "api": "times-table-149",
+      "title": "149 Times Table",
+      "description": "The multiplication table for 149: 149x1 through 149x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-149/index",
+      "sample": "https://gratisapi.com/api/times-table-149/1"
+    },
+    {
+      "api": "times-table-150",
+      "title": "150 Times Table",
+      "description": "The multiplication table for 150: 150x1 through 150x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-150/index",
+      "sample": "https://gratisapi.com/api/times-table-150/1"
+    },
+    {
+      "api": "times-table-151",
+      "title": "151 Times Table",
+      "description": "The multiplication table for 151: 151x1 through 151x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-151/index",
+      "sample": "https://gratisapi.com/api/times-table-151/1"
+    },
+    {
+      "api": "times-table-152",
+      "title": "152 Times Table",
+      "description": "The multiplication table for 152: 152x1 through 152x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-152/index",
+      "sample": "https://gratisapi.com/api/times-table-152/1"
+    },
+    {
+      "api": "times-table-153",
+      "title": "153 Times Table",
+      "description": "The multiplication table for 153: 153x1 through 153x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-153/index",
+      "sample": "https://gratisapi.com/api/times-table-153/1"
+    },
+    {
+      "api": "times-table-154",
+      "title": "154 Times Table",
+      "description": "The multiplication table for 154: 154x1 through 154x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-154/index",
+      "sample": "https://gratisapi.com/api/times-table-154/1"
+    },
+    {
+      "api": "times-table-155",
+      "title": "155 Times Table",
+      "description": "The multiplication table for 155: 155x1 through 155x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-155/index",
+      "sample": "https://gratisapi.com/api/times-table-155/1"
+    },
+    {
+      "api": "times-table-156",
+      "title": "156 Times Table",
+      "description": "The multiplication table for 156: 156x1 through 156x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-156/index",
+      "sample": "https://gratisapi.com/api/times-table-156/1"
+    },
+    {
+      "api": "times-table-157",
+      "title": "157 Times Table",
+      "description": "The multiplication table for 157: 157x1 through 157x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-157/index",
+      "sample": "https://gratisapi.com/api/times-table-157/1"
+    },
+    {
+      "api": "times-table-158",
+      "title": "158 Times Table",
+      "description": "The multiplication table for 158: 158x1 through 158x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-158/index",
+      "sample": "https://gratisapi.com/api/times-table-158/1"
+    },
+    {
+      "api": "times-table-159",
+      "title": "159 Times Table",
+      "description": "The multiplication table for 159: 159x1 through 159x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-159/index",
+      "sample": "https://gratisapi.com/api/times-table-159/1"
+    },
+    {
+      "api": "times-table-160",
+      "title": "160 Times Table",
+      "description": "The multiplication table for 160: 160x1 through 160x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-160/index",
+      "sample": "https://gratisapi.com/api/times-table-160/1"
+    },
+    {
+      "api": "times-table-161",
+      "title": "161 Times Table",
+      "description": "The multiplication table for 161: 161x1 through 161x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-161/index",
+      "sample": "https://gratisapi.com/api/times-table-161/1"
+    },
+    {
+      "api": "times-table-162",
+      "title": "162 Times Table",
+      "description": "The multiplication table for 162: 162x1 through 162x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-162/index",
+      "sample": "https://gratisapi.com/api/times-table-162/1"
+    },
+    {
+      "api": "times-table-163",
+      "title": "163 Times Table",
+      "description": "The multiplication table for 163: 163x1 through 163x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-163/index",
+      "sample": "https://gratisapi.com/api/times-table-163/1"
+    },
+    {
+      "api": "times-table-164",
+      "title": "164 Times Table",
+      "description": "The multiplication table for 164: 164x1 through 164x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-164/index",
+      "sample": "https://gratisapi.com/api/times-table-164/1"
+    },
+    {
+      "api": "times-table-165",
+      "title": "165 Times Table",
+      "description": "The multiplication table for 165: 165x1 through 165x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-165/index",
+      "sample": "https://gratisapi.com/api/times-table-165/1"
+    },
+    {
+      "api": "times-table-166",
+      "title": "166 Times Table",
+      "description": "The multiplication table for 166: 166x1 through 166x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-166/index",
+      "sample": "https://gratisapi.com/api/times-table-166/1"
+    },
+    {
+      "api": "times-table-167",
+      "title": "167 Times Table",
+      "description": "The multiplication table for 167: 167x1 through 167x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-167/index",
+      "sample": "https://gratisapi.com/api/times-table-167/1"
+    },
+    {
+      "api": "times-table-168",
+      "title": "168 Times Table",
+      "description": "The multiplication table for 168: 168x1 through 168x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-168/index",
+      "sample": "https://gratisapi.com/api/times-table-168/1"
+    },
+    {
+      "api": "times-table-169",
+      "title": "169 Times Table",
+      "description": "The multiplication table for 169: 169x1 through 169x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-169/index",
+      "sample": "https://gratisapi.com/api/times-table-169/1"
+    },
+    {
+      "api": "times-table-170",
+      "title": "170 Times Table",
+      "description": "The multiplication table for 170: 170x1 through 170x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-170/index",
+      "sample": "https://gratisapi.com/api/times-table-170/1"
+    },
+    {
+      "api": "times-table-171",
+      "title": "171 Times Table",
+      "description": "The multiplication table for 171: 171x1 through 171x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-171/index",
+      "sample": "https://gratisapi.com/api/times-table-171/1"
+    },
+    {
+      "api": "times-table-172",
+      "title": "172 Times Table",
+      "description": "The multiplication table for 172: 172x1 through 172x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-172/index",
+      "sample": "https://gratisapi.com/api/times-table-172/1"
+    },
+    {
+      "api": "times-table-173",
+      "title": "173 Times Table",
+      "description": "The multiplication table for 173: 173x1 through 173x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-173/index",
+      "sample": "https://gratisapi.com/api/times-table-173/1"
+    },
+    {
+      "api": "times-table-174",
+      "title": "174 Times Table",
+      "description": "The multiplication table for 174: 174x1 through 174x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-174/index",
+      "sample": "https://gratisapi.com/api/times-table-174/1"
+    },
+    {
+      "api": "times-table-175",
+      "title": "175 Times Table",
+      "description": "The multiplication table for 175: 175x1 through 175x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-175/index",
+      "sample": "https://gratisapi.com/api/times-table-175/1"
+    },
+    {
+      "api": "times-table-176",
+      "title": "176 Times Table",
+      "description": "The multiplication table for 176: 176x1 through 176x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-176/index",
+      "sample": "https://gratisapi.com/api/times-table-176/1"
+    },
+    {
+      "api": "times-table-177",
+      "title": "177 Times Table",
+      "description": "The multiplication table for 177: 177x1 through 177x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-177/index",
+      "sample": "https://gratisapi.com/api/times-table-177/1"
+    },
+    {
+      "api": "times-table-178",
+      "title": "178 Times Table",
+      "description": "The multiplication table for 178: 178x1 through 178x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-178/index",
+      "sample": "https://gratisapi.com/api/times-table-178/1"
+    },
+    {
+      "api": "times-table-179",
+      "title": "179 Times Table",
+      "description": "The multiplication table for 179: 179x1 through 179x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-179/index",
+      "sample": "https://gratisapi.com/api/times-table-179/1"
+    },
+    {
+      "api": "times-table-180",
+      "title": "180 Times Table",
+      "description": "The multiplication table for 180: 180x1 through 180x20.",
+      "emoji": "✖️",
+      "count": 20,
+      "url": "https://gratisapi.com/api/times-table-180/index",
+      "sample": "https://gratisapi.com/api/times-table-180/1"
+    },
+    {
+      "api": "numbers",
+      "title": "Numbers",
+      "description": "Computed facts for every integer from 0 to 999,999: parity, primality, perfect squares and hexadecimal.",
+      "emoji": "🔢",
+      "count": 1000000,
+      "url": "https://gratisapi.com/api/numbers/index",
+      "sample": "https://gratisapi.com/api/numbers/0"
     }
   ]
 }

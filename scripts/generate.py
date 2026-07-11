@@ -32,7 +32,6 @@ BASE_URL = "https://gratisapi.com"
 # "family" modules (numbers, unicode blocks, calendars, ...) append after.
 DATASET_ORDER = [
     "articles",
-    "numbers",
     # World & geography
     "countries", "us_states", "continents", "oceans", "mountains", "rivers",
     "lakes", "deserts", "waterfalls", "volcanoes", "national_parks",
@@ -73,8 +72,8 @@ DATASET_ORDER = [
     "musical_instruments", "martial_arts", "olympic_sports", "cocktails",
     "teas", "cheeses", "pasta_shapes", "chess_pieces", "playing_cards",
     "calendar",
-    # Generated families (large, computed)
-    "mathseq", "timestables", "unicodeblocks", "calendars",
+    # Generated families (large, computed) — numbers last; it's a novelty.
+    "unicodeblocks", "mathseq", "calendars", "timestables", "numbers",
 ]
 
 

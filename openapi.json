@@ -30,10 +30,6 @@
       "description": "Guides, explainers and essays about free data, the APIs and the philosophy behind GratisAPI."
     },
     {
-      "name": "numbers",
-      "description": "Computed facts for every integer from 0 to 999,999: parity, primality, perfect squares and hexadecimal."
-    },
-    {
       "name": "countries",
       "description": "Countries of the world with capital, ISO codes, continent and currency."
     },
@@ -492,6 +488,10 @@
     {
       "name": "calendar",
       "description": "Months of the year and days of the week with ordinal, length and abbreviation."
+    },
+    {
+      "name": "numbers",
+      "description": "Computed facts for every integer from 0 to 999,999: parity, primality, perfect squares and hexadecimal."
     }
   ],
   "paths": {
@@ -529,48 +529,6 @@
         "operationId": "get_articles",
         "tags": [
           "articles"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "description": "The record identifier.",
-            "schema": {
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "The requested record."
-          },
-          "404": {
-            "description": "No file exists for that id."
-          }
-        }
-      }
-    },
-    "/api/numbers/index": {
-      "get": {
-        "summary": "List all numbers",
-        "operationId": "list_numbers",
-        "tags": [
-          "numbers"
-        ],
-        "responses": {
-          "200": {
-            "description": "All numbers records."
-          }
-        }
-      }
-    },
-    "/api/numbers/{id}": {
-      "get": {
-        "summary": "Get a single numbers record by id",
-        "operationId": "get_numbers",
-        "tags": [
-          "numbers"
         ],
         "parameters": [
           {
@@ -5401,6 +5359,48 @@
         "operationId": "get_calendar",
         "tags": [
           "calendar"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "description": "The record identifier.",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The requested record."
+          },
+          "404": {
+            "description": "No file exists for that id."
+          }
+        }
+      }
+    },
+    "/api/numbers/index": {
+      "get": {
+        "summary": "List all numbers",
+        "operationId": "list_numbers",
+        "tags": [
+          "numbers"
+        ],
+        "responses": {
+          "200": {
+            "description": "All numbers records."
+          }
+        }
+      }
+    },
+    "/api/numbers/{id}": {
+      "get": {
+        "summary": "Get a single numbers record by id",
+        "operationId": "get_numbers",
+        "tags": [
+          "numbers"
         ],
         "parameters": [
           {
