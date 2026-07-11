@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GratisAPI Builder — turn a CSV, JSON or spreadsheet into an API</title>
+  <meta name="description" content="Generate a complete, documented static API from a CSV, TSV, JSON, YAML or spreadsheet file — right in your browser, free, no upload. Download a ready-to-deploy folder with endpoints, an OpenAPI spec and a README." />
+  <link rel="canonical" href="https://gratisapi.com/builder/" />
+  <meta name="theme-color" content="#3fb950" />
+  <script>(function(){try{var t=localStorage.getItem('ga-theme')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛠️</text></svg>" />
+  <link rel="stylesheet" href="../assets/style.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+</head>
+<body>
+  <nav class="nav">
+    <div class="wrap">
+      <a class="brand" href="../"><span class="logo-mark">G</span>Gratis<span>API</span></a>
+      <span class="badge-free">100% Free</span>
+      <div class="links">
+        <a href="../#apis">APIs</a>
+        <a href="../builder/">Builder</a>
+        <a href="../features/">Features</a>
+        <a href="../articles/">Articles</a>
+        <a href="../about/">About</a>
+        <a href="https://github.com/DomTheDeveloper/GratisAPI">GitHub</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="wrap page-hero">
+    <div class="eyebrow">GratisAPI Builder</div>
+    <h1>Turn a file into an API.</h1>
+    <p class="lede">Drop in a <strong>CSV, TSV, JSON, YAML or spreadsheet</strong> and get a complete,
+    documented static API — endpoints, an OpenAPI spec and a README — as a ready-to-deploy folder.
+    It all happens in your browser: <strong>nothing is uploaded anywhere</strong>.</p>
+  </header>
+
+  <main class="wrap builder">
+    <div class="builder-grid">
+      <!-- INPUT -->
+      <section class="builder-col">
+        <h2 class="builder-h">1 · Your data</h2>
+        <div id="build-drop" class="dropzone">
+          <input id="build-file" type="file" accept=".csv,.tsv,.json,.yaml,.yml,.xlsx,.xls" hidden />
+          <label for="build-file" class="dz-label">
+            <span class="dz-emoji">📄</span>
+            <span><strong>Drop a file</strong> or click to choose</span>
+            <span class="dz-hint">CSV · TSV · JSON · YAML · XLSX</span>
+          </label>
+        </div>
+        <div class="builder-or">— or paste —</div>
+        <textarea id="build-input" class="builder-text" spellcheck="false" placeholder="Paste CSV or JSON here…"></textarea>
+        <div class="builder-row">
+          <button id="build-sample" class="btn ghost" type="button">Load sample data</button>
+          <span id="build-msg" class="builder-msg"></span>
+        </div>
+
+        <h2 class="builder-h">2 · Configure</h2>
+        <div class="field"><label for="build-name">API slug</label><input id="build-name" placeholder="my-api" /></div>
+        <div class="field"><label for="build-title">Title</label><input id="build-title" placeholder="My API" /></div>
+        <div class="field"><label for="build-desc">Description</label><input id="build-desc" placeholder="What this API is about" /></div>
+        <div class="field"><label for="build-idfield">Unique id field</label><select id="build-idfield"><option value="">(auto — row number)</option></select></div>
+        <div class="field"><label for="build-base">Base URL <span class="opt">(optional)</span></label><input id="build-base" placeholder="https://your-domain.example" /></div>
+        <div class="field"><label for="build-license">License <span class="opt">(optional)</span></label><input id="build-license" placeholder="e.g. CC-BY-4.0" /></div>
+      </section>
+
+      <!-- OUTPUT -->
+      <section class="builder-col">
+        <h2 class="builder-h">3 · Your API <span id="build-stats" class="builder-stats"></span></h2>
+        <div class="endpoints-box" id="preview-endpoints"><p class="muted">Add data to see your endpoints…</p></div>
+
+        <div class="preview-block">
+          <div class="preview-label">GET /api/&lt;name&gt;/index</div>
+          <pre class="preview-json" id="preview-index"><span class="muted">Waiting for data…</span></pre>
+        </div>
+        <div class="preview-block">
+          <div class="preview-label">GET /api/&lt;name&gt;/&lt;id&gt;</div>
+          <pre class="preview-json" id="preview-record"><span class="muted">Waiting for data…</span></pre>
+        </div>
+
+        <button id="build-download" class="btn primary big-dl" type="button" disabled>⬇ Download API (.zip)</button>
+        <p class="muted dl-note">A ready-to-deploy folder: clean endpoints, <code>openapi.json</code>,
+        <code>README.md</code>, <code>_headers</code>. Unzip and drop on GitHub Pages, Cloudflare Pages, Netlify or S3.</p>
+      </section>
+    </div>
+
+    <section style="margin:50px 0 20px">
+      <h2 class="section-title">How it works</h2>
+      <div class="features">
+        <div class="feature"><h4><span class="ico">1</span> Parse</h4><p>Your file is read and parsed locally — CSV/TSV, JSON, YAML, or an Excel sheet. Numbers and booleans are detected automatically.</p></div>
+        <div class="feature"><h4><span class="ico">2</span> Generate</h4><p>Each row becomes a record at <code>/api/&lt;name&gt;/&lt;id&gt;</code>, plus a listing endpoint, an OpenAPI 3.1 spec and a README.</p></div>
+        <div class="feature"><h4><span class="ico">3</span> Deploy</h4><p>Download the folder and host it anywhere static. No server, no keys — a real API, exactly like GratisAPI itself.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>GratisAPI — 100% free, forever. The Builder runs entirely in your browser; your data never leaves your device.</div>
+      <div><a href="../">Home</a> · <a href="../features/">Features</a> · <a href="../about/">About</a> · <a href="../docs/">Docs</a></div>
+    </div>
+  </footer>
+
+  <script src="../assets/theme.js"></script>
+  <script src="../assets/builder.js"></script>
+</body>
+</html>

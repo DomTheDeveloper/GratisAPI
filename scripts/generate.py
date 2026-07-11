@@ -366,7 +366,8 @@ def build_openapi(datasets):
 
 
 def build_sitemap(datasets, summaries):
-    urls = [f"{BASE_URL}/", f"{BASE_URL}/articles/", f"{BASE_URL}/philosophy/",
+    urls = [f"{BASE_URL}/", f"{BASE_URL}/builder/", f"{BASE_URL}/features/",
+            f"{BASE_URL}/articles/", f"{BASE_URL}/philosophy/",
             f"{BASE_URL}/about/", f"{BASE_URL}/history/", f"{BASE_URL}/tech/",
             f"{BASE_URL}/cost/", f"{BASE_URL}/docs/", f"{BASE_URL}/openapi.json",
             catalog_url()]
