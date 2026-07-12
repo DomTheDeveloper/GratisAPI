@@ -52,7 +52,8 @@ META = {
     "emoji": "\U0001F522",
     "paginated": True,
     "page_size": 10000,
-    "individual_cap": 1000,
+    "individual_cap": 0,
+    "family": True,
 }
 
 ITEMS = _Numbers()

@@ -73,7 +73,8 @@ DATASET_ORDER = [
     "teas", "cheeses", "pasta_shapes", "chess_pieces", "playing_cards",
     "calendar",
     # Generated families (large, computed) — numbers last; it's a novelty.
-    "unicodeblocks", "mathseq", "calendars", "timestables", "numbers",
+    "unicodeblocks", "unicode_pages", "mathseq", "powers", "collatz",
+    "divisors", "multiples", "calendars", "timestables", "numbers",
 ]
 
 
@@ -213,11 +214,15 @@ def build_dataset(ds):
 
     index = _index_base(meta, name, len(results))
     index["fields"] = sorted(fields)
+    index["results"] = results
     if list_only:
         index["endpoints"] = {"list": list_url(name)}
         index["note"] = "All records are included in this response; there are no per-record endpoints."
-    index["results"] = results
-    write_json(os.path.join(api_out, "index.json"), index)
+        # Single file (no .json twin) — keeps the file count sane across
+        # thousands of computed family APIs.
+        write_single(os.path.join(api_out, "index"), index)
+    else:
+        write_json(os.path.join(api_out, "index.json"), index)
     return _summary(meta, name, len(results), first_id)
 
 

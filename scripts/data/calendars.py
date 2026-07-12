@@ -4,8 +4,9 @@ Each /api/calendar-<year> lists the twelve months with their correct lengths
 (February adjusts for leap years). Leap-year status and the weekday of Jan 1
 are computed (Zeller's congruence), never fabricated.
 """
-START_YEAR = 1600
-END_YEAR = 2200
+START_YEAR = 1
+END_YEAR = 3000
+REFORM_YEAR = 1583  # Gregorian calendar adopted 1582; earlier years are proleptic
 
 _MONTHS = [
     ("january", "January", 31), ("february", "February", 28),
@@ -51,7 +52,8 @@ for _y in range(START_YEAR, END_YEAR + 1):
             "title": f"Calendar {_y}",
             "description": (f"The {_y} calendar: {'a leap year' if _leap else 'a common year'} "
                            f"of {366 if _leap else 365} days, starting on a "
-                           f"{_WEEKDAYS[_weekday(_y, 1, 1)]}."),
+                           f"{_WEEKDAYS[_weekday(_y, 1, 1)]}."
+                           + (" (proleptic Gregorian)" if _y < REFORM_YEAR else "")),
             "emoji": "\U0001F4C5",
             "list_only": True,
             "family": True,

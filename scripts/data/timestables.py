@@ -3,7 +3,7 @@
 Each /api/times-table-<n> lists n x 1 through n x 20. Computed, exact, and
 handy for teaching. Contributes many small list-only APIs to the catalog.
 """
-TABLES = 180      # times-table-1 .. times-table-180
+TABLES = 1000     # times-table-1 .. times-table-1000
 ROWS = 20         # n x 1 .. n x 20
 
 DATASETS = []

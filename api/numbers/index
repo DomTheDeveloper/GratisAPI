@@ -21,7 +21,7 @@
   "page_size": 10000,
   "pages": 100,
   "page_endpoint": "https://gratisapi.com/api/numbers/page/{n}",
-  "note": "1,000,000 records. Fetch pages of 10000 at /api/numbers/page/0 .. /api/numbers/page/99, or single records at /api/numbers/{id} for id 0-999.",
+  "note": "1,000,000 records. Fetch pages of 10000 at /api/numbers/page/0 .. /api/numbers/page/99, or single records at /api/numbers/{id} for id 0--1.",
   "results": [
     {
       "id": 0,
