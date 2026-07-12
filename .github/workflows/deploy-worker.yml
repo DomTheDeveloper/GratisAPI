@@ -1,0 +1,35 @@
+name: Deploy Dynamic API Worker
+
+# Deploys the dynamic API (Cloudflare Worker) with Wrangler.
+# Requires one repo secret: CLOUDFLARE_API_TOKEN (a token with the
+# "Edit Cloudflare Workers" permission). CLOUDFLARE_ACCOUNT_ID is optional if
+# the token is scoped to a single account.
+
+on:
+  push:
+    branches: ["gh-pages", "main"]
+    paths: ["workers/dynamic-api/**", ".github/workflows/deploy-worker.yml"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Test the Worker
+        working-directory: workers/dynamic-api
+        run: node test.mjs
+
+      - name: Deploy with Wrangler
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: workers/dynamic-api

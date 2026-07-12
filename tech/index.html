@@ -80,11 +80,12 @@ GET <span class="p">/api/index</span>            <span class="c"># the catalog o
         completely free. This is everything under <code>/api/</code> today.</p>
       </div>
       <div class="def-card">
-        <div class="tag">in planning</div>
+        <div class="tag">built · deploy pending</div>
         <h3>② The Dynamic API</h3>
-        <p>Query, filter, search and <code>random</code> endpoints powered by a little edge
-        compute (Cloudflare Workers) — for when "give me all of it and I'll filter" isn't
-        enough.</p>
+        <p>Query, filter, search, sort, paginate and <code>random</code> endpoints powered by a
+        little edge compute (a <a href="https://github.com/DomTheDeveloper/GratisAPI/tree/gh-pages/workers/dynamic-api">Cloudflare Worker</a>,
+        already written and tested) — a thin layer over the static data, for when "give me all
+        of it and I'll filter" isn't enough.</p>
       </div>
     </div>
     <p>The static API will always stay free and unlimited. The dynamic API is the interesting

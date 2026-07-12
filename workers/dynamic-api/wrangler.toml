@@ -1,0 +1,26 @@
+name = "gratisapi-dynamic"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+workers_dev = true
+minify = true
+
+# The static API this Worker reads from and enhances.
+[vars]
+STATIC_BASE = "https://gratisapi.com"
+
+# Run close to the upstream data for lower latency.
+[placement]
+mode = "smart"
+
+# Emit logs/metrics (view in the Cloudflare dashboard).
+[observability]
+enabled = true
+
+# To serve it at a custom domain, add the route below (requires the zone in
+# Cloudflare) and remove workers_dev if you like:
+#
+# [[routes]]
+# pattern = "api.gratisapi.com/*"
+# custom_domain = true
+#
+# Until then it's live at:  https://gratisapi-dynamic.<your-subdomain>.workers.dev

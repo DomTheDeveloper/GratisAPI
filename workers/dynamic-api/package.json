@@ -1,0 +1,16 @@
+{
+  "name": "gratisapi-dynamic",
+  "version": "1.0.0",
+  "description": "GratisAPI Dynamic API — filter, search, sort, paginate and randomize any GratisAPI dataset, on Cloudflare Workers.",
+  "type": "module",
+  "private": true,
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node test.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^3.80.0"
+  }
+}
