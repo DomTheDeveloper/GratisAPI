@@ -26,7 +26,7 @@ _RAW = [
     ("ci", "Cote d'Ivoire", "CI", "CIV", "Yamoussoukro", "Africa", "XOF", "West African CFA Franc", 28),
     ("dj", "Djibouti", "DJ", "DJI", "Djibouti", "Africa", "DJF", "Djiboutian Franc", 1),
     ("eg", "Egypt", "EG", "EGY", "Cairo", "Africa", "EGP", "Egyptian Pound", 109),
-    ("gq", "Equatorial Guinea", "GQ", "GNQ", "Malabo", "Africa", "XAF", "Central African CFA Franc", 2),
+    ("gq", "Equatorial Guinea", "GQ", "GNQ", "Ciudad de la Paz", "Africa", "XAF", "Central African CFA Franc", 2),
     ("er", "Eritrea", "ER", "ERI", "Asmara", "Africa", "ERN", "Nakfa", 4),
     ("sz", "Eswatini", "SZ", "SWZ", "Mbabane", "Africa", "SZL", "Lilangeni", 1),
     ("et", "Ethiopia", "ET", "ETH", "Addis Ababa", "Africa", "ETB", "Ethiopian Birr", 123),
